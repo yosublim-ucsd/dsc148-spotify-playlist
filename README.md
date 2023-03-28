@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5835\)
+## Playlists \(5836\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1831,6 +1831,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fusion Fest](/playlists/pretty/37i9dQZF1DX0aSJooo0zWR.md)
 - [Future Funk](/playlists/pretty/37i9dQZF1DXbjGYBfEmjR5.md)
 - [G.O.O.D\. Music](/playlists/pretty/37i9dQZF1DX83ZswDLVXae.md)
+- [GENERAZIONE Z](/playlists/pretty/37i9dQZF1DWYCIYGXn56uz.md)
 - [GHOST IN THE SHELL Series \-攻殻機動隊シリーズ\-](/playlists/pretty/37i9dQZF1DX9v9O7wB8rQi.md)
 - [GLOW](/playlists/pretty/37i9dQZF1DX3LyU0mhfqgP.md)
 - [GLOW Italia](/playlists/pretty/37i9dQZF1DXbj3m6LiQbmy.md)
