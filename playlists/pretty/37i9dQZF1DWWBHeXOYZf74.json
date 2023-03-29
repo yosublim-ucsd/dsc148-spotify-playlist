@@ -1,13 +1,33 @@
 {
   "description": "Genre-less. Quality first always. Cover: JPEGMAFIA & Danny Brown",
-  "num_followers": 1324144,
+  "num_followers": 1324069,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0OTQzMSwwMDAwMDAwMGUxZTQzZWQ0OWQzZGNmMjI3YWVmODdhZjQ4MzJjNjk5",
+  "snapshot_id": "MTY4MDAyNDIzMCwwMDAwMDAwMDUyMmMyNWVkY2JiNjQ2ZDY5YzkyMTRjYjE4NmQ4NjEw",
   "tracks": [
+    {
+      "added_at": "2023-03-28 17:23:50",
+      "album": {
+        "name": "Candle Flame",
+        "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 174020,
+      "name": "Candle Flame",
+      "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
+    },
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {

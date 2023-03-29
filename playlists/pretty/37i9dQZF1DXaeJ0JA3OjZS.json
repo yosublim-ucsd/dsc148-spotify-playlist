@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 34974,
+  "num_followers": 35199,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMGYwNjI5NzQyYzYwNDk2YTQ5MjlmYTM0NjMwNzVhN2Rj",
+  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMDMzZGU4YTkwNDgyNDdjODVmOWYxZmRiY2E3ZjllYzMz",
   "tracks": [
     {
       "added_at": "2022-08-01 23:22:41",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Los Viejitos",
-        "url": "https://open.spotify.com/album/1uXnvrwer247xjqQTaTW7p"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Yegua Sebruna",
-      "url": "https://open.spotify.com/track/0f5WtuRcdI32JjJOkZo9iG"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
@@ -1011,22 +995,6 @@
       "duration_ms": 148680,
       "name": "Caballito De Otate - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
-        "name": "Corridos de Caballos y Gallos",
-        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 131291,
-      "name": "El Polvorete",
-      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 131291,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
         "name": "El Rey De Los Coleaderos",
         "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
       },
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "El Texano y el Machete",
-      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "El Golden Boy",
         "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
       },
@@ -1091,6 +1059,22 @@
       "duration_ms": 160645,
       "name": "El Golden Boy",
       "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "El Texano y el Machete",
+      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
+        "name": "Mi Potrillo",
+        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+      },
+      "artists": [
+        {
+          "name": "Banda Alta Potencia",
+          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Mi Potrillo",
+      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Mi Potrillo",
-        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+        "name": "Los Viejitos",
+        "url": "https://open.spotify.com/album/5tld9xZvr1q3oiUdmP2NsU"
       },
       "artists": [
         {
-          "name": "Banda Alta Potencia",
-          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Mi Potrillo",
-      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
+      "duration_ms": 200280,
+      "name": "Yegua Sebruna",
+      "url": "https://open.spotify.com/track/7gSZDWpZIdWvhuXHtFE1Xe"
     },
     {
       "added_at": "2022-08-01 23:22:41",

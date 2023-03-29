@@ -10937,6 +10937,24 @@
     },
     {
       "album": {
+        "name": "\u8b1d\u5e55",
+        "url": "https://open.spotify.com/album/0lkZgRyVYqPgQqe8z3N0Ls"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243466,
+      "name": "\u8b1d\u5e55",
+      "url": "https://open.spotify.com/track/7qqrbqHcX0UMSI1SsYVVf6"
+    },
+    {
+      "album": {
         "name": "\u8b93\u6211\u7167\u9867\u4f60",
         "url": "https://open.spotify.com/album/6aX6U0LE6nZh7RGaTQKdrS"
       },

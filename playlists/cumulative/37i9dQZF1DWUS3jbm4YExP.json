@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 288569,
       "name": "Ben Bene La",
       "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 214287,
       "name": "Judge Not - Ray Mang Radio Edit",
       "url": "https://open.spotify.com/track/63Dcd1TRAGV5dxpJPDz6Ae"
@@ -6150,6 +6150,24 @@
       "duration_ms": 169319,
       "name": "Money Music",
       "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
+    },
+    {
+      "album": {
+        "name": "Strange Salsa",
+        "url": "https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Moody Cumbia",
+      "url": "https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9"
     },
     {
       "album": {
@@ -8429,6 +8447,24 @@
     },
     {
       "album": {
+        "name": "Strange Salsa",
+        "url": "https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Strange Salsa",
+      "url": "https://open.spotify.com/track/0okqpwxuF4EJSr9hJU5I2s"
+    },
+    {
+      "album": {
         "name": "Suburban Breeze",
         "url": "https://open.spotify.com/album/3fmEXZmMuAdvDGXqfRPeq9"
       },
@@ -8643,7 +8679,7 @@
     },
     {
       "album": {
-        "name": "Tayyara Warak (Habibi Funk 026)",
+        "name": "Tayyara Warak (Habibi Funk 023)",
         "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
       },
       "artists": [

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161026,
+      "name": "Cajita De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
+    },
+    {
+      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 195541,
       "name": "Diamante Negro",
       "url": "https://open.spotify.com/track/0ceiWUkNNYVmF1uzkGyj3H"

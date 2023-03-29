@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-660 songs - 1 day 19 hr 12 min
+661 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 | 2022-08-22 |  |
 | [說你願意](https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [黃禹菡](https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2) | [說你願意](https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl) | 3:49 | 2023-03-20 |  |
 | [說說罷了](https://open.spotify.com/track/5kCXTdclI9N0iisbKpxG3R) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [說說罷了](https://open.spotify.com/album/2orgE4JaYcy2XIZDIAfjeV) | 3:40 | 2022-09-12 | 2022-10-04 |
+| [謝幕](https://open.spotify.com/track/7qqrbqHcX0UMSI1SsYVVf6) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [謝幕](https://open.spotify.com/album/0lkZgRyVYqPgQqe8z3N0Ls) | 4:03 | 2023-03-28 |  |
 | [讓我照顧你](https://open.spotify.com/track/49HplefJfPoVrRQPDXqH4L) | [Daniel Lo](https://open.spotify.com/artist/5ecXGNDkVKndKd0lvODR89) | [讓我照顧你](https://open.spotify.com/album/6aX6U0LE6nZh7RGaTQKdrS) | 4:41 | 2022-08-01 | 2022-08-16 |
 | [计划外惊喜](https://open.spotify.com/track/6SrTvGSpbkJcE1JqHR0qnA) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [计划外惊喜](https://open.spotify.com/album/3TTYqywVA1DO9IOukEu8JV) | 3:23 | 2022-12-26 | 2023-01-10 |
 | [讲话是闭嘴的时候](https://open.spotify.com/track/0qPHVOcZ9waiwwgTOmzkq9) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [21世纪罗曼史](https://open.spotify.com/album/4rrHVhckd9s7QSlhFS2bB1) | 4:51 | 2022-12-19 | 2023-01-03 |

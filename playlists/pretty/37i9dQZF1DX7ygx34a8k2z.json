@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 119978,
+  "num_followers": 120204,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyNzA4OSwwMDAwMDAwMDEzODIyYzgyYjNhMmQ5OTEyOWZhMmRlZTczYjc5NGNi",
+  "snapshot_id": "MTY3ODgyNzA4OSwwMDAwMDAwMGM4OGY0YWEwMWE5NDliZTk0N2QxNTM5Mzg1MmM4ZTZl",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Alice In Chains",
         "url": "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 327893,
       "name": "Heaven Beside You",
       "url": "https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Kill the Moonlight",
-        "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "The Way We Get By",
-      "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Beautiful Freak",
         "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 188693,
       "name": "Novocaine For The Soul",
       "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Kill the Moonlight",
+        "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "The Way We Get By",
+      "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "The Modern Lovers (Expanded Version)",
-        "url": "https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8"
-      },
-      "artists": [
-        {
-          "name": "The Modern Lovers",
-          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Roadrunner",
-      "url": "https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Whatever And Ever Amen (Remastered Edition)",
         "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 271720,
       "name": "Brick",
       "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "The Modern Lovers (Expanded Version)",
+        "url": "https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8"
+      },
+      "artists": [
+        {
+          "name": "The Modern Lovers",
+          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Roadrunner",
+      "url": "https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB"
     },
     {
       "added_at": "2023-01-10 19:08:23",

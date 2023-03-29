@@ -3521,6 +3521,28 @@
     },
     {
       "album": {
+        "name": "Los Fierros",
+        "url": "https://open.spotify.com/album/1eZMIRxFNarYOrreYjJIym"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Los Fierros",
+      "url": "https://open.spotify.com/track/51spTXpIdbjgEztbNeGSr1"
+    },
+    {
+      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7"
       },

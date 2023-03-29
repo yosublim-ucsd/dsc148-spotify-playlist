@@ -4,7 +4,7 @@
 
 > make it pop! cover: Catie Turner
 
-590 songs - 1 day 5 hr 45 min
+591 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-04-08 | 2022-07-30 |
 | [all about you!](https://open.spotify.com/track/6irxfK85zCwjuTgtj9Nemu) | [Pacific](https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw) | [all about you!](https://open.spotify.com/album/5qn8Sux7IeHARBSgFDeLpr) | 4:26 | 2022-04-29 | 2022-06-25 |
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-10 |  |
-| [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 | 2022-10-07 |  |
+| [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 | 2022-10-07 | 2023-03-29 |
 | [All These Nights](https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [All These Nights](https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6) | 2:34 | 2022-07-15 | 2022-09-17 |
 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 | 2023-02-17 |  |
 | [American Dream](https://open.spotify.com/track/5fnYDXLhFOioudAeiQGOPD) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [American Dream](https://open.spotify.com/album/0ySQ4Viqi1pDRZEC3Wwx1z) | 2:40 | 2022-03-11 | 2022-05-28 |
@@ -216,6 +216,7 @@
 | [Heartbeat](https://open.spotify.com/track/1zeo9q1sdTGDSecA91EZPt) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Heartbeat](https://open.spotify.com/album/6jpRpPLwEpPte2TzQEo6XG) | 3:50 | 2022-06-10 | 2022-07-16 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-01-14 | 2022-03-12 |
 | [Heights](https://open.spotify.com/track/1HrjvXRB48xSWgypsP3AYw) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [HEIGHTS](https://open.spotify.com/album/3ZDqOKvg2yuGzzImRjIrhK) | 4:14 | 2021-11-12 | 2022-02-05 |
+| [Hell N Back](https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 3:33 | 2023-03-28 |  |
 | [Help \(feat\. Pheelz\)](https://open.spotify.com/track/288aAe5WOx05x67lDxvuTE) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Help \(feat\. Pheelz\)](https://open.spotify.com/album/5xKdduUE9fNJW743rjCJib) | 2:43 | 2022-11-18 | 2023-02-11 |
 | [Hey You!](https://open.spotify.com/track/6bTtcLpvruUeLSzH4ygsfN) | [Zerbin](https://open.spotify.com/artist/0dlr1FsAcalNnpq1q2RIoT) | [Hey You!](https://open.spotify.com/album/4z6BoHLWaY5JlmouwVlJk9) | 3:18 | 2022-04-29 | 2022-05-20 |
 | [Hide And Seek](https://open.spotify.com/track/6oRcj35Qy5531TgH3ZHwbT) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Hide And Seek](https://open.spotify.com/album/5aI0fru90lUJrf4RFXOYMo) | 2:51 | 2022-08-19 | 2022-10-15 |

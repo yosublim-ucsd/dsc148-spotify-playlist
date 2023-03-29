@@ -2,9 +2,9 @@
 
 ### [Happy Beats](https://open.spotify.com/playlist/37i9dQZF1DWSf2RDTDayIx)
 
-> Feel\-good dance music! Adopting a dog will make you feel even better\. Go to <a href="http://www.adoptapet.com">adoptapet.com</a> to find a rescue dog near you \(US only\).
+> Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-336 songs - 18 hr 0 min
+337 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Good Day Bad Day](https://open.spotify.com/track/2gvk0tcgT5cm97I1TWHAQa) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Good Day Bad Day](https://open.spotify.com/album/4wBJRggQfJF9Swtb9Y4qH6) | 3:14 | 2021-12-03 | 2021-12-31 |
 | [Good Dream](https://open.spotify.com/track/0uL65436R0LEWAmXS5QmzU) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [BLEM](https://open.spotify.com/artist/0TPjfhQmGHQ3O71ZdzklDB), [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz) | [Good Dream](https://open.spotify.com/album/3bE5bIj5rLKSWjjcC1SrlU) | 2:48 | 2021-12-03 | 2022-01-08 |
 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 | 2022-03-18 |  |
+| [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-03-29 |  |
 | [Good Thing](https://open.spotify.com/track/61fU4EtbNDg650uAsscnVK) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Good Thing](https://open.spotify.com/album/5fyL0ha5Twk56lwMsCdF7q) | 3:31 | 2021-12-03 | 2022-01-08 |
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-02-25 |  |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-03 | 2022-10-06 |
@@ -227,7 +228,7 @@
 | [No Eyes On Me \- Sondr Remix](https://open.spotify.com/track/38i0XKHKLg72RTn3i6TmeP) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc) | [No Eyes On Me \(Sondr Remix\)](https://open.spotify.com/album/0hjMhbUHdyft0nzjYX7fO6) | 2:52 | 2021-12-03 | 2022-01-08 |
 | [No Regrets](https://open.spotify.com/track/4Q6b6mAjV9cEECioJ9thlE) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [No Regrets](https://open.spotify.com/album/2lU1OJnKGULiDUV79swNCb) | 2:13 | 2021-12-03 | 2022-01-08 |
 | [No Rest](https://open.spotify.com/track/6kjSIZlRDnYVmu3xkSKhMz) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [No Rest](https://open.spotify.com/album/78T9zhxWrO6O3H0uSupza7) | 3:29 | 2021-12-03 | 2022-01-08 |
-| [Not Alone](https://open.spotify.com/track/2c0dsTO43eKPOjdNvcgkkj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/1AEJK6ci0Hguv28QMRYopC) | 2:40 | 2023-02-03 |  |
+| [Not Alone](https://open.spotify.com/track/2c0dsTO43eKPOjdNvcgkkj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/1AEJK6ci0Hguv28QMRYopC) | 2:40 | 2023-02-03 | 2023-03-29 |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2021-12-03 | 2022-09-02 |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2021-12-03 |  |
 | [Only Way](https://open.spotify.com/track/2XqrW3DckGuX40QWSp3QnZ) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Only Way](https://open.spotify.com/album/0Zt0Qk54maTkJgUt2TCvAP) | 3:10 | 2021-12-03 | 2022-01-08 |

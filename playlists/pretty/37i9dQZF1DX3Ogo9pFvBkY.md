@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,152 likes - 290 songs - 14 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,280 likes - 290 songs - 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 48 | [Homesick](https://open.spotify.com/track/1KAjfOhwtBDkhhGhDH27Z0) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Homesick](https://open.spotify.com/album/6IoxzKrzEWprrw1yUN9Da1) | 2:16 |
 | 49 | [Envisaged](https://open.spotify.com/track/6HYQtiovqn73vx7miVSUxz) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Envisaged](https://open.spotify.com/album/3XpTcC7Q5AXP0gQxGjLB39) | 2:45 |
 | 50 | [Lyng](https://open.spotify.com/track/47qB0XJToyyOis9VCopt5Q) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Lyng](https://open.spotify.com/album/4pcZEf8H3djemmKDO63JWv) | 3:22 |
-| 51 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Sweetscape](https://open.spotify.com/artist/1BF35yKu7uZaQMKsHO3MRP) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 |
+| 51 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 |
 | 52 | [Mixture](https://open.spotify.com/track/0OXgaVgiSiuPYjPRiFSyiY) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Sonorous](https://open.spotify.com/album/23dHOKDvEMYX4C1ukHTULU) | 3:18 |
 | 53 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 |
 | 54 | [Crossover](https://open.spotify.com/track/08cjGj3SvKyG8JMo2Hnero) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Crossover](https://open.spotify.com/album/4o3GUDTM9OstkAetCHOq7u) | 3:32 |

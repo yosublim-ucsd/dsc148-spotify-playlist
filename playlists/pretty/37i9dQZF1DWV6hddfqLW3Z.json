@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 738815,
+  "num_followers": 739254,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUwMzk0MiwwMDAwMDAwMGI0OTZiZGY3Nzc3NGEyZDE1MzczNjA1OWM2Y2U1ZTVj",
+  "snapshot_id": "MTY3ODUwMzk0MiwwMDAwMDAwMDE2N2IxMDQ1YjYzMDQ4NTNiZjVjMGQ2ZWU1OTJmMDQw",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Na Press\u00e3o",
         "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 284293,
       "name": "Paci\u00eancia",
       "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 252600,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 166573,
       "name": "O Que Ser\u00e1 (A Flor Da Terra)",
       "url": "https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
-      "added_at": "2023-03-28 00:42:54",
+      "added_at": "2023-03-29 04:38:52",
       "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Tribalistas Ao Vivo",
+        "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 273727,
+      "name": "Vilarejo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/2XJWP3wpipPyna8pFX68ZJ"
       },
@@ -1205,23 +1221,7 @@
       "url": "https://open.spotify.com/track/1aYI1bfSzo2M1LjFwZrXLY"
     },
     {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Tribalistas Ao Vivo",
-        "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 273727,
-      "name": "Vilarejo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
-    },
-    {
-      "added_at": "2023-03-28 00:42:54",
+      "added_at": "2023-03-29 04:38:52",
       "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"

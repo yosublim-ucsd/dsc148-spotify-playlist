@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 172354,
       "name": "always",
       "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Heaven (Acoustic)",
+        "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183644,
+      "name": "Heaven - Acoustic",
+      "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
+    },
+    {
+      "album": {
         "name": "Henry St.",
         "url": "https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN"
       },
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
@@ -2024,6 +2042,24 @@
       "duration_ms": 205369,
       "name": "Kokoro No Mamani",
       "url": "https://open.spotify.com/track/0ntEHTd4tY8jfL7bElYoGo"
+    },
+    {
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/7H1bbFsbLB94kdIUHQLUZQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Stevens",
+          "url": "https://open.spotify.com/artist/04TUw0YgRJ39Ivu7qEjHlX"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/3BGs6vIRCo62d9tRmaNyLc"
     },
     {
       "album": {
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 171527,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
@@ -2627,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Ima no Futari o Otagai ga Miteru",
+        "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286880,
+      "name": "One Two Three",
+      "url": "https://open.spotify.com/track/1fj8uEt6ZwUgTJBRBUBBqD"
+    },
+    {
+      "album": {
         "name": "Paradise (feat. Kan Sano)",
         "url": "https://open.spotify.com/album/6isB4u1HezmW9K8dMxr4Sw"
       },
@@ -2750,7 +2804,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 224585,
       "name": "Put A Little Love On Me",
       "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
@@ -4149,6 +4203,28 @@
     },
     {
       "album": {
+        "name": "\u6708\u98df\u306e\u591c\u306f",
+        "url": "https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6cb3 with \u9b54\u6cd5\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q"
+        },
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249821,
+      "name": "\u5149\u306e\u3086\u304f\u3048",
+      "url": "https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2"
+    },
+    {
+      "album": {
         "name": "\u5149\u306e\u5ead\u3068\u9b5a\u306e\u5922",
         "url": "https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj"
       },
@@ -4182,6 +4258,24 @@
       "duration_ms": 184000,
       "name": "\u51ac\u3068\u590f\u306e\u9593",
       "url": "https://open.spotify.com/track/0z8N4vP6CAQtPR2dynPEPh"
+    },
+    {
+      "album": {
+        "name": "\u5404\u505c\u3067\u884c\u3053\u3046",
+        "url": "https://open.spotify.com/album/1mRuiPEhuXNmrv5LIbHIqX"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30b3\u30c8\u30b3\u30f3\u30c9\u30a6",
+          "url": "https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167550,
+      "name": "\u5404\u505c\u3067\u884c\u3053\u3046",
+      "url": "https://open.spotify.com/track/3kcEuewP2VldWBrKC5pNIr"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: Prince Royce & El Alfa",
-  "num_followers": 332536,
+  "num_followers": 332655,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDE0NywwMDAwMDAwMGRmZTE5Zjc1NGE0Y2VmNTIzNzQ1NzhhMjhjYzQwYWVm",
+  "snapshot_id": "MTY3OTA0MDE0NywwMDAwMDAwMDQ1YWRlNWMyOGUyMGVjNzU2ZDhiMDgzZjFiYjE1NTVl",
   "tracks": [
     {
-      "added_at": "2023-03-28 00:16:57",
+      "added_at": "2023-03-29 04:56:36",
       "album": {
         "name": "Helicoptero",
         "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 219402,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Me la Subi\u00f3",
         "url": "https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "El Boom",
-        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 219402,
-      "name": "El Boom",
-      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Chivirika",
-        "url": "https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts"
-      },
-      "artists": [
-        {
-          "name": "El Villanord",
-          "url": "https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs"
-        },
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        }
-      ],
-      "duration_ms": 212312,
-      "name": "Chivirika",
-      "url": "https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Mi Flaca",
         "url": "https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 110500,
       "name": "Mi Flaca",
       "url": "https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Chivirika",
+        "url": "https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts"
+      },
+      "artists": [
+        {
+          "name": "El Villanord",
+          "url": "https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "duration_ms": 212312,
+      "name": "Chivirika",
+      "url": "https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Mi Contacto",
+        "url": "https://open.spotify.com/album/4B3c8ImmLtG9dGbYQdmiw8"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 216060,
+      "name": "Mi Contacto",
+      "url": "https://open.spotify.com/track/1wkfytfHLwJknHpMJZMlxk"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Maliante",
         "url": "https://open.spotify.com/album/4JYslbzoOPChDxxyYTvkn0"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 151423,
       "name": "Maliante",
       "url": "https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Mi Contacto",
-        "url": "https://open.spotify.com/album/4B3c8ImmLtG9dGbYQdmiw8"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 216060,
-      "name": "Mi Contacto",
-      "url": "https://open.spotify.com/track/1wkfytfHLwJknHpMJZMlxk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Despu\u00e9s De Mi",
+        "url": "https://open.spotify.com/album/09GJrxXo2kjm8z8A0f2SIf"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "duration_ms": 145850,
+      "name": "Despu\u00e9s De Mi",
+      "url": "https://open.spotify.com/track/7m49PsHjWjKuQR5lmqNC2z"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 159860,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6lyoUlB3Ppo4MHrG2Sp47o"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Despu\u00e9s De Mi",
-        "url": "https://open.spotify.com/album/09GJrxXo2kjm8z8A0f2SIf"
-      },
-      "artists": [
-        {
-          "name": "EL YALA",
-          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
-        },
-        {
-          "name": "Hansel El De La H",
-          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
-        }
-      ],
-      "duration_ms": 145850,
-      "name": "Despu\u00e9s De Mi",
-      "url": "https://open.spotify.com/track/7m49PsHjWjKuQR5lmqNC2z"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Soy Mam\u00e1",
-        "url": "https://open.spotify.com/album/6SSrvF72A4BxsRDPDCRPrG"
-      },
-      "artists": [
-        {
-          "name": "La Insuperable",
-          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Soy Mam\u00e1",
-      "url": "https://open.spotify.com/track/6aOcEXNX30kiWhinxz9NMF"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Toco Toco To (Remix)",
         "url": "https://open.spotify.com/album/2iXgX55gK4LZF0o0E8odmI"
       },
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Soy Mam\u00e1",
+        "url": "https://open.spotify.com/album/6SSrvF72A4BxsRDPDCRPrG"
+      },
+      "artists": [
+        {
+          "name": "La Insuperable",
+          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Soy Mam\u00e1",
+      "url": "https://open.spotify.com/track/6aOcEXNX30kiWhinxz9NMF"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Moriremos",
         "url": "https://open.spotify.com/album/1dUvWr9F2VVNxiQ0JsiMTR"
       },
@@ -1823,26 +1823,6 @@
       "duration_ms": 151744,
       "name": "Moriremos",
       "url": "https://open.spotify.com/track/2xgSrqcEUnsNtTThaClnv4"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Kaly Pool Party",
-        "url": "https://open.spotify.com/album/0CLEvCpG5nuJZN7Xi0MMEf"
-      },
-      "artists": [
-        {
-          "name": "Kaly Ocho",
-          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
-        },
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Kaly Pool Party",
-      "url": "https://open.spotify.com/track/3TxZyh52QgXo5OdfqTIIO1"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1871,6 +1851,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Kaly Pool Party",
+        "url": "https://open.spotify.com/album/0CLEvCpG5nuJZN7Xi0MMEf"
+      },
+      "artists": [
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Kaly Pool Party",
+      "url": "https://open.spotify.com/track/3TxZyh52QgXo5OdfqTIIO1"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "La Cojio",
         "url": "https://open.spotify.com/album/63gtMBrpqj5KIsHGCJ2dWE"
       },
@@ -1883,6 +1883,22 @@
       "duration_ms": 190000,
       "name": "La Cojio",
       "url": "https://open.spotify.com/track/7ofdxnOjU0OcvpGqPgH3jw"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Eto No Se Sabe Donde Vayas A Parar",
+        "url": "https://open.spotify.com/album/6FhcKrdFn09jryQcYvk3hT"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "duration_ms": 154373,
+      "name": "Eto No Se Sabe Donde Vayas A Parar",
+      "url": "https://open.spotify.com/track/46Ii3D5jp8tFRvLXajPrcP"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1911,22 +1927,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Eto No Se Sabe Donde Vayas A Parar",
-        "url": "https://open.spotify.com/album/6FhcKrdFn09jryQcYvk3hT"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        }
-      ],
-      "duration_ms": 154373,
-      "name": "Eto No Se Sabe Donde Vayas A Parar",
-      "url": "https://open.spotify.com/track/46Ii3D5jp8tFRvLXajPrcP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "El Heladero",
         "url": "https://open.spotify.com/album/1ys39pC3eBjoQz4fRfQnNy"
       },
@@ -1939,22 +1939,6 @@
       "duration_ms": 167021,
       "name": "El Heladero",
       "url": "https://open.spotify.com/track/5TdbBLZ9z35Fa5KIX6AE9p"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Piri Bambam",
-        "url": "https://open.spotify.com/album/5Km2nse90GAiZWWrv8zzAh"
-      },
-      "artists": [
-        {
-          "name": "Kaly Ocho",
-          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Piri Bambam",
-      "url": "https://open.spotify.com/track/2ig60OGpxzFz9qHpXCAsNY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2063,6 +2047,22 @@
       "duration_ms": 158000,
       "name": "Caserio",
       "url": "https://open.spotify.com/track/5XBnsZKyUUUIMOjrLFLtou"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Piri Bambam",
+        "url": "https://open.spotify.com/album/5Km2nse90GAiZWWrv8zzAh"
+      },
+      "artists": [
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Piri Bambam",
+      "url": "https://open.spotify.com/track/2ig60OGpxzFz9qHpXCAsNY"
     },
     {
       "added_at": "2023-03-10 05:00:00",

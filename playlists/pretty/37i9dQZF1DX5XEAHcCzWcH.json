@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 22646,
+  "num_followers": 22691,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGFmMzhkMjliYzNiM2JiYmMzMDEwMmVlZmYxMTE3ZTdl",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDYwMGIyNGU0NWJhM2VlZTllNjZiMWVmMmI0NDIxNGU5",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
         }
       ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+      "duration_ms": 246266,
+      "name": "If I Hadn't Been High",
+      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -787,6 +787,38 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "The Bach of Rock",
+        "url": "https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 344440,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Chicago Piano Volume 1",
         "url": "https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC"
       },
@@ -803,38 +835,6 @@
       "duration_ms": 274360,
       "name": "Make Me a Pallet on the Floor",
       "url": "https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "If I Hadn't Been High",
-      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "The Bach of Rock",
-        "url": "https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 344440,
-      "name": "Hey Now Baby",
-      "url": "https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto"
     },
     {
       "added_at": "2022-05-13 10:49:08",

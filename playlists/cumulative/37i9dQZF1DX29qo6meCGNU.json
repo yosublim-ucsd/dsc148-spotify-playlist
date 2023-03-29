@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
@@ -502,6 +502,28 @@
       "duration_ms": 182626,
       "name": "Amantes y Amigos",
       "url": "https://open.spotify.com/track/1UHcnP31sAKOJFrEnyRNUz"
+    },
+    {
+      "album": {
+        "name": "Amor de Bandolero",
+        "url": "https://open.spotify.com/album/5KepSVyQSLXtFDzETafktt"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Endo",
+          "url": "https://open.spotify.com/artist/47G4aZmzN6mRtKCSoLoNDM"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198328,
+      "name": "Amor de Bandolero",
+      "url": "https://open.spotify.com/track/54W3KxaUQ16qsiUvRVuLEx"
     },
     {
       "album": {
@@ -3949,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "Matemos las Ganas",
+        "url": "https://open.spotify.com/album/1HseVDLAPrTW8EIULoYqMe"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Matemos las Ganas",
+      "url": "https://open.spotify.com/track/2o51TovZKl061qALyAzGYo"
+    },
+    {
+      "album": {
         "name": "Me Acostumbr\u00e9",
         "url": "https://open.spotify.com/album/6c0OHXqlHJ3fQHrGWlw26Z"
       },
@@ -5566,7 +5606,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 150853,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"

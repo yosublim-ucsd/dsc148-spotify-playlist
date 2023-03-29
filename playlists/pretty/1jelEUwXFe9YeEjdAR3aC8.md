@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie music\. Cover: Reneé Rapp
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,496 likes - 50 songs - 2 hr 48 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,493 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 49 | [Tell Me Have You Been Dancing \- Claud Remix](https://open.spotify.com/track/30wuBQxnI9aME41CBMuKaZ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tell Me Have You Been Dancing \(Claud Remix\)](https://open.spotify.com/album/5PJQPn04XHPVunHWwobYIL) | 3:05 |
 | 50 | [Human Too](https://open.spotify.com/track/2PUHkK7V8XSoquIV8Skj7h) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:44 |
 
-Snapshot ID: `NzgyMSw4NjhiNjhkMzAyN2NkM2Y1ODk2MTA0MzlkZWJkZjM1Zjk4YjZkYzM3`
+Snapshot ID: `NzgyNixkYTU4ZmExMDNmM2M1MjA1MjMzMWQ4YTE1MjVkNjRlMmU5ZjM4NDZk`

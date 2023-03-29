@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain](/playlists/plain/37i9dQZF1DXdWmNjHAJIwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWmNjHAJIwP)
 
-### [Primavera \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXdWmNjHAJIwP)
+### [Primavera](https://open.spotify.com/playlist/37i9dQZF1DXdWmNjHAJIwP)
 
 > Así suena cada estación\. Check back in June for Verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 704,
+  "num_followers": 708,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDQ2MGIxMzNjYTg2NTU1MjUzZjg4MjY3MGZlZjZjY2I2",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDYzNTgzOTk1MTgwMzAxOTU4ZWNjNzM3NzE5ZjA3MWQ1",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Sa Pa Zot Traka",
+        "url": "https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H"
+      },
+      "artists": [
+        {
+          "name": "Lin",
+          "url": "https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Sa Pa Zot Traka",
+      "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 230817,
       "name": "Mario",
       "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sa Pa Zot Traka",
-        "url": "https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H"
-      },
-      "artists": [
-        {
-          "name": "Lin",
-          "url": "https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Sa Pa Zot Traka",
-      "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
     },
     {
       "added_at": "2022-08-11 10:05:16",

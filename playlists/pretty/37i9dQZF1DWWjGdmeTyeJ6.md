@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating the first ever Fresh Finds Live show in LA this week with Baerd, TiaCorine, Katherine Li & Abby Sage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,404 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,335 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 55586,
+  "num_followers": 55625,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU5NjMyOCwwMDAwMDAwMGI4YWMxMjk1MTk3Y2Y4MmZhYzE5Mjk5YTBiNTFmNjBj",
+  "snapshot_id": "MTY3OTU5NjMyOCwwMDAwMDAwMDg4MDE0MzNiZjBjNjBlZmI4MDlmZDdkYzg5MTg2NDVk",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "BORRACHA",
-        "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
-      },
-      "artists": [
-        {
-          "name": "Felix Klain",
-          "url": "https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 204981,
-      "name": "BORRACHA",
-      "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Bien Beb\u00e9",
         "url": "https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 163880,
       "name": "Bien Beb\u00e9",
       "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "BORRACHA",
+        "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
+      },
+      "artists": [
+        {
+          "name": "Felix Klain",
+          "url": "https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 204981,
+      "name": "BORRACHA",
+      "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -669,6 +669,26 @@
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
     },
     {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "La \u00daltima Noche",
+        "url": "https://open.spotify.com/album/5C8YQntAB1w3a3l76DJY9N"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "La \u00daltima Noche",
+      "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
+    },
+    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "Gitana Kamp, Vol. I",
@@ -691,26 +711,6 @@
       "duration_ms": 146840,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "La \u00daltima Noche",
-        "url": "https://open.spotify.com/album/5C8YQntAB1w3a3l76DJY9N"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "La \u00daltima Noche",
-      "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -865,30 +865,6 @@
       "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
     },
     {
-      "added_at": "2022-11-25 02:28:29",
-      "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI"
-      },
-      "artists": [
-        {
-          "name": "Dani Torres",
-          "url": "https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5"
-        },
-        {
-          "name": "Gotex",
-          "url": "https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl"
-        },
-        {
-          "name": "Elvis de Yongol",
-          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Viaje",
-      "url": "https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW"
-    },
-    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "Dm",
@@ -939,6 +915,30 @@
       "duration_ms": 220065,
       "name": "Sue\u00f1o",
       "url": "https://open.spotify.com/track/5zzeED4DVkAX9ujce347pD"
+    },
+    {
+      "added_at": "2022-11-25 02:28:29",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI"
+      },
+      "artists": [
+        {
+          "name": "Dani Torres",
+          "url": "https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5"
+        },
+        {
+          "name": "Gotex",
+          "url": "https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl"
+        },
+        {
+          "name": "Elvis de Yongol",
+          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1077,36 +1077,20 @@
       "url": "https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
+      "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "hembrismo",
-        "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
+        "name": "Gato",
+        "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        },
-        {
-          "name": "Cami Da Baby",
-          "url": "https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE"
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
         }
       ],
-      "duration_ms": 223000,
-      "name": "hebilla",
-      "url": "https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr"
+      "duration_ms": 164826,
+      "name": "Gato",
+      "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
     }
   ],
   "unique_name": "Urbano Fresh",

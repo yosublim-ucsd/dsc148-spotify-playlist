@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: U\-jin\(유진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,102 likes - 78 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,114 likes - 78 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

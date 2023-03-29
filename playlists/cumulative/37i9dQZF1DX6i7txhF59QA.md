@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Lee Chan Won\(이찬원\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-789 songs - 1 day 21 hr 7 min
+790 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Comforter](https://open.spotify.com/track/4Pe0HCc3Gib0o5bEU9genz) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Comforter](https://open.spotify.com/album/12GZbwU8Cjfu1pQTmtNNi1) | 3:29 | 2022-10-07 |  |
 | [Comforter](https://open.spotify.com/track/4VfClH8cM4Wlb8ZeH0KHBH) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 3:29 | 2022-04-22 | 2022-07-29 |
 | [Comforting hand](https://open.spotify.com/track/69HWfCUmPh7zD6dXSoQMCu) | [Choi Hyeonsang](https://open.spotify.com/artist/6ALjJAXxqk08xe0ziGT1zT) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 4:16 | 2022-05-03 | 2022-07-22 |
+| [Coming home](https://open.spotify.com/track/50eaioaMEGRbia13qeyU4h) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Love call center PART18](https://open.spotify.com/album/44u1ZQbUrDmFKK3dk1m0m9) | 3:55 | 2023-02-24 |  |
 | [Coming home](https://open.spotify.com/track/7kAoWIj2uWUrZRosRZ2kMp) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 3:55 | 2022-04-21 | 2022-07-23 |
 | [Companion](https://open.spotify.com/track/3gTrOXrnkpfGokyhg4nwsX) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 3:08 | 2022-05-03 | 2022-06-08 |
 | [Convenience store](https://open.spotify.com/track/5OhJdq3H0I3TXqlkD5RiCR) | [Lee Chan Won](https://open.spotify.com/artist/0D66ZMgUm5l0ndTPGRXWga) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 2:49 | 2022-04-07 | 2022-07-27 |
@@ -464,7 +465,7 @@
 | [Only you](https://open.spotify.com/track/6z08LhVn8rJTFVfbFVYwRJ) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [An Seonghun](https://open.spotify.com/artist/509LWms7Nsj9TXZWpguCXC), [Kim Suchan](https://open.spotify.com/artist/50EaMvYHnpDCZvShM4Cz1A), [Nam Seungmin](https://open.spotify.com/artist/2O51qiz6mXRRkGblIqwyN5) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 2:01 | 2022-04-22 | 2022-06-05 |
 | [OPPA](https://open.spotify.com/track/0BiDHFoq9c9mmeoQxBQutn) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [MAN](https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu) | 3:19 | 2022-12-05 | 2023-02-05 |
 | [Others](https://open.spotify.com/track/5L4BR0osDAfuw3HgzPrxXJ) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:42 | 2022-04-07 | 2022-07-29 |
-| [Parting story](https://open.spotify.com/track/6oipGkRDOmaMPXxoBop4dd) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 3:58 | 2022-05-03 |  |
+| [Parting story](https://open.spotify.com/track/6oipGkRDOmaMPXxoBop4dd) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 3:58 | 2022-05-03 | 2023-03-29 |
 | [Partner](https://open.spotify.com/track/1JdfrvQ9Thd92cfTon49b8) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 3:17 | 2022-04-07 | 2022-12-08 |
 | [Passion](https://open.spotify.com/track/7IL0XY6RRcd4eE2iJozfAz) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART17](https://open.spotify.com/album/3koMaEVHRnRL3NW5WZRrs1) | 3:32 | 2022-05-03 | 2022-07-29 |
 | [Passionate love](https://open.spotify.com/track/3Sphtz9kPwhK97rXXfzQ2k) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 4:05 | 2022-04-22 | 2022-07-22 |

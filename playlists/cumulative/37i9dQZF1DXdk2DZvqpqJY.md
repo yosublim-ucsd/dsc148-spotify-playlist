@@ -4,7 +4,7 @@
 
 > Swinging jazz and soft beats for relaxing and unwinding.
 
-325 songs - 20 hr 24 min
+326 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Planet Caravan](https://open.spotify.com/track/0T6fOzhQyVLJuEZXDcsapd) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [THE ESSENCE OF SOIL](https://open.spotify.com/album/4Opp41fuz6nGHzGojaMImc) | 6:54 | 2022-04-22 | 2022-05-03 |
 | [Plus 100](https://open.spotify.com/track/09NjmJF5aZi2bJRhdr1fUr) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Plus 100](https://open.spotify.com/album/0ECy4AGJcScaPoCUFQEHxu) | 2:44 | 2022-06-02 | 2023-02-16 |
 | [Positive Activity](https://open.spotify.com/track/4T3VH4hPuc3qtB4hlv6Mp7) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Changing Earth](https://open.spotify.com/album/0REJ2l75YDq5TBBtm79gJ3) | 7:53 | 2022-12-01 | 2023-03-21 |
-| [Press Start](https://open.spotify.com/track/59OPrWGtvJHCa6BOj8pVuN) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Press Start](https://open.spotify.com/album/5zbognXVIVPduH2tHKw40s) | 1:47 | 2022-06-02 |  |
+| [Press Start](https://open.spotify.com/track/59OPrWGtvJHCa6BOj8pVuN) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Press Start](https://open.spotify.com/album/5zbognXVIVPduH2tHKw40s) | 1:47 | 2022-06-02 | 2023-03-29 |
 | [prisner](https://open.spotify.com/track/1f5w6SKCFnvTf68De7JgMR) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [butterfly](https://open.spotify.com/album/0heal5aAbfR3Y81QhAijRW) | 4:38 | 2022-02-17 | 2022-04-23 |
 | [Psalmboksmusik](https://open.spotify.com/track/6Z05waDrF7G1h9IWvtrqI8) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Kosmos](https://open.spotify.com/album/4OKVsBryYDcqXPEy2nCkxd) | 5:06 | 2022-02-17 | 2023-03-21 |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-03-20 |  |
@@ -289,6 +289,7 @@
 | [The Resurrection](https://open.spotify.com/track/4QPbdYWhalTiDZBi9ZSXhG) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/2wgZU2AxlsOPBeWV3h6HUd) | 4:03 | 2022-03-31 | 2022-07-29 |
 | [The Sun's Awake](https://open.spotify.com/track/6xdgKaUtzKkXCbn1eK0dTg) | [Russell Rozenbaum](https://open.spotify.com/artist/3ms9IQtzjX0cUTw078KalY) | [Timeless Cafe](https://open.spotify.com/album/6m2qwDFCLB418aGRgu2bqK) | 2:17 | 2022-06-16 | 2023-03-21 |
 | [THE VIEW](https://open.spotify.com/track/5OSy0Rmn2xKNDGR32GgAnV) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Miles Singleton](https://open.spotify.com/artist/6D2oQFsBu917I9n3KhVXNM) | [GISEKE](https://open.spotify.com/album/697BmXjyTQ2M8bi7jGrova) | 2:10 | 2022-06-02 | 2022-11-20 |
+| [The Wind](https://open.spotify.com/track/30f3b4Ths4zd2na9tip4CP) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [The Wind](https://open.spotify.com/album/1uMrSU3YkCa8yP9ymLFaTd) | 2:12 | 2023-03-24 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-03-20 |  |
 | [This Was Once Out of Shape](https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp) | 3:47 | 2022-02-17 | 2022-09-05 |
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2022-09-21 | 2023-03-21 |

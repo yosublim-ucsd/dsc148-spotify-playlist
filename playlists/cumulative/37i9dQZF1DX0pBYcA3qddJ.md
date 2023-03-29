@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-347 songs - 23 hr 27 min
+350 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Dusk](https://open.spotify.com/track/4TatlP4d0ntvkJ48v6iE7D) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Spaces](https://open.spotify.com/album/3ousrkrjhpoRMrDySi6h0K) | 2:57 | 2022-12-01 | 2023-01-06 |
 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 | 2022-10-20 | 2023-03-08 |
 | [Echo](https://open.spotify.com/track/6dR3WgS89laha38NshaT1s) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Echo](https://open.spotify.com/album/0LBwlH8cZFGRALUzfphhN8) | 4:05 | 2023-01-24 | 2023-03-01 |
-| [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 | 2023-03-16 |  |
+| [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 | 2023-03-16 | 2023-03-29 |
 | [Endless Time](https://open.spotify.com/track/3PfPXfF25Fso2Y3gq5wjZN) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Endless Time](https://open.spotify.com/album/7w8IyyO3S6o6L0QKZcOeAQ) | 3:17 | 2023-02-21 | 2023-03-01 |
 | [Es \- piano room](https://open.spotify.com/track/54898GdeiRQr1QurG91Ude) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es \- piano room](https://open.spotify.com/album/4gXc9xsSZB6IYaCv59I5ai) | 3:13 | 2022-12-01 | 2023-03-15 |
 | [Estrellita \(Arr\. Mino Kabasawa\)](https://open.spotify.com/track/3eBPhA9APSJNZlWv1Rln4j) | [マヌエル・ポンセ](https://open.spotify.com/artist/5skHzNuRMVm4Ky3IAMW00M), [宮田 大](https://open.spotify.com/artist/6NlblLui5L3Nj9yLEa7Tze) | [Estrellita \(Arr\. Mino Kabasawa\)](https://open.spotify.com/album/2E9iaGflaSserIqnoOdE2m) | 5:33 | 2022-10-20 | 2022-11-16 |
@@ -85,7 +85,7 @@
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2022-10-20 |  |
 | [Flowers Sing](https://open.spotify.com/track/7KIiof4zhjpVChHBVSJ3ug) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: For Your Path](https://open.spotify.com/album/7rtQcDrHtG6yhgefHUCxHD) | 3:15 | 2023-01-12 | 2023-03-01 |
 | [Footprints You've Walked](https://open.spotify.com/track/13Zjtg684lLCXdSFeumzl6) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: I’m Always with You](https://open.spotify.com/album/1P3g6igU7Y4gT02Y9PcTVY) | 5:07 | 2023-01-12 | 2023-03-01 |
-| [Forbidden Doors](https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Forbidden Doors](https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu) | 3:54 | 2023-01-31 |  |
+| [Forbidden Doors](https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Forbidden Doors](https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu) | 3:54 | 2023-01-31 | 2023-03-29 |
 | [Found](https://open.spotify.com/track/0nmsZnjOt2rVGToXSyPm18) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Melding](https://open.spotify.com/album/4e9GDgyr6XVS50tjwUeKy0) | 5:13 | 2022-10-20 | 2022-12-02 |
 | [Fractal](https://open.spotify.com/track/4E5jKJGrswkfkjQ4e0VsgH) | [Ruben Gerards](https://open.spotify.com/artist/2AGeMh4qqkuiyiD5tiO449) | [Fractal](https://open.spotify.com/album/5QhFnYTMLJMTRParRoX8nf) | 2:56 | 2023-02-23 | 2023-03-01 |
 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 | 2022-10-20 |  |
@@ -113,8 +113,9 @@
 | [I Love You Too](https://open.spotify.com/track/2yTZA0SpuXc6eMtKZkU3kS) | [Ryo Murata](https://open.spotify.com/artist/5FbVPHq0WJQha9Tk3Cb9Vy) | [I Love You Too](https://open.spotify.com/album/2iXMjMpCFTrP4Q09CtpoaG) | 1:29 | 2022-11-15 | 2022-12-02 |
 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 | 2022-12-15 |  |
 | [I Stand Alone](https://open.spotify.com/track/19tAqV4F3ffuE6yMipwDn9) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Black Radio 2 \(Deluxe\)](https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX) | 4:53 | 2022-11-23 | 2022-12-02 |
-| [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-11-03 |  |
+| [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-11-03 | 2023-03-29 |
 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 | 2023-03-14 |  |
+| [I'll take it](https://open.spotify.com/track/4AHLzWKtDb1eBIdHpOCOmz) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [DESSERTS](https://open.spotify.com/album/4fPMQPu5tsW7LxXrunroaD) | 3:28 | 2023-03-28 |  |
 | [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 | 2023-02-25 |  |
 | [Idaho Alien](https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Idaho Alien](https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY) | 3:23 | 2023-03-02 | 2023-03-25 |
 | [Ieta](https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ieta](https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899) | 3:19 | 2023-02-28 | 2023-03-08 |
@@ -331,6 +332,7 @@
 | [世俗カンタータ, BWV 208: ''羊は安らかに草をはみ''](https://open.spotify.com/track/6qhic2KXq2evfe8KkXJcCr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [ペトリ](https://open.spotify.com/artist/0JrwYlS3dVi5GEbFxGstZa), [上原琢矢](https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85) | [シャコンヌ](https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7) | 4:51 | 2022-10-20 | 2022-11-04 |
 | [亡き王女のためのパヴァーヌ \- ラヴェル](https://open.spotify.com/track/1qAhkcBWmkSbaW5VNqQ7tQ) | [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [debut](https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8) | 5:51 | 2022-10-20 | 2022-12-02 |
 | [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 | 2022-11-01 | 2023-03-25 |
+| [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-28 |  |
 | [初戀](https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS) | 2:36 | 2022-10-20 | 2022-12-02 |
 | [午前中のコップ](https://open.spotify.com/track/0SnoGze4iwcp4J0bC8PjTx) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [午前中のコップ](https://open.spotify.com/album/3o9Pao3xQbN0ueNRfzDNyV) | 3:05 | 2022-12-13 | 2023-01-18 |
 | [変わる消える](https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [変わる消える](https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub) | 3:49 | 2023-02-21 | 2023-02-23 |
@@ -354,6 +356,7 @@
 | [赤と青](https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [赤と青](https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ) | 3:13 | 2022-10-20 | 2022-11-09 |
 | [針葉樹](https://open.spotify.com/track/3tFPO0zoU0TgsfhZUdgfuZ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [針葉樹](https://open.spotify.com/album/7bpwfJnwg8tdSlhKlV8vC2) | 4:09 | 2022-10-20 | 2022-11-16 |
 | [風笛](https://open.spotify.com/track/4OBIKEvUBXnI8i5PO9XCX7) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr), [Emiri Miyamoto](https://open.spotify.com/artist/29aWsI0zQQ53hKuM2V19ti) | [tears](https://open.spotify.com/album/6Veb3ZyuDiMx59SrvxSAAv) | 3:45 | 2022-12-01 | 2023-03-01 |
+| [魔法のお弁当](https://open.spotify.com/track/71vs9OtgxMkbkqlfvEfOFZ) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [HTB「弁当屋さんのおもてなし」オリジナル・サウンドトラック](https://open.spotify.com/album/3SZt4QnQUgZYaRcxF5LzT9) | 2:38 | 2023-03-28 |  |
 | [黄昏のワルツ](https://open.spotify.com/track/3icP9Lq6SWh3n2Dq0fYBzJ) | [Taro Hakase](https://open.spotify.com/artist/6vJFQLD25Df5uZW77gVv0k) | [My Favorite Songs](https://open.spotify.com/album/0qrZGRDb1jfDjQfNt0CkdX) | 3:29 | 2022-10-20 | 2022-11-23 |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

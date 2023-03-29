@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Summer of '72",
+        "url": "https://open.spotify.com/album/1IFHYhBAjuoEWURdbe7HyP"
+      },
+      "artists": [
+        {
+          "name": "PRGMAT",
+          "url": "https://open.spotify.com/artist/3n36M7jE1JSaZ5OXHdxo37"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175764,
+      "name": "A True Story",
+      "url": "https://open.spotify.com/track/0FTKRr4nxCMdUPJcwJba8U"
+    },
+    {
+      "album": {
         "name": "a walk in the park",
         "url": "https://open.spotify.com/album/4JcY5GHKHF48RV80419Ifw"
       },
@@ -10956,7 +10974,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 129130,
       "name": "blue in gray",
       "url": "https://open.spotify.com/track/4BmpS8fz6UNj8vJCppRkAG"
@@ -24270,7 +24288,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 159970,
       "name": "Dispatch",
       "url": "https://open.spotify.com/track/7Jtr7OpHW3DYp1uKneNlyp"
@@ -30835,6 +30853,28 @@
     },
     {
       "album": {
+        "name": "Feel like that",
+        "url": "https://open.spotify.com/album/0LeeMJ2aOUhgEf0cFDi13N"
+      },
+      "artists": [
+        {
+          "name": "MLTSMTHNG",
+          "url": "https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127010,
+      "name": "Feel like that",
+      "url": "https://open.spotify.com/track/1wmyRW1C7MIFJR7Wb8xXHM"
+    },
+    {
+      "album": {
         "name": "feel you",
         "url": "https://open.spotify.com/album/7DuF26JdbbOtpFsm9pWifB"
       },
@@ -37032,7 +37072,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 159562,
       "name": "Gold Sun",
       "url": "https://open.spotify.com/track/0K4EXTsQWJFWXWpW9CLgzD"
@@ -77834,7 +77874,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 143657,
       "name": "Sail Slow",
       "url": "https://open.spotify.com/track/5RgT76SQWQY6ACdPaWx1ZW"
@@ -85835,6 +85875,24 @@
     },
     {
       "album": {
+        "name": "Springfrost",
+        "url": "https://open.spotify.com/album/5YRLsBfU5ifkQaufYoXWq0"
+      },
+      "artists": [
+        {
+          "name": "Beatific Vision",
+          "url": "https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118549,
+      "name": "Springfrost",
+      "url": "https://open.spotify.com/track/2zEmVgZ5qJfgGiTkk2FwlO"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/5cnP1FKGwGUfGIQqimOye9"
       },
@@ -86592,7 +86650,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 135774,
       "name": "Steam",
       "url": "https://open.spotify.com/track/6385bZLWT6xuIqi5Sz8TZi"
@@ -90651,6 +90709,28 @@
     },
     {
       "album": {
+        "name": "Take Me For A Walk",
+        "url": "https://open.spotify.com/album/60PwnNB0hMCThdRmP8kPRG"
+      },
+      "artists": [
+        {
+          "name": "Guzimi",
+          "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        },
+        {
+          "name": "Heinrich Schlupf",
+          "url": "https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "Take Me For A Walk",
+      "url": "https://open.spotify.com/track/0thzWAFarVRdlvMv2bRpFN"
+    },
+    {
+      "album": {
         "name": "Take the Crown",
         "url": "https://open.spotify.com/album/6CAqw1I5Eno7Agehtqzzh7"
       },
@@ -92960,7 +93040,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 107215,
       "name": "The Road Continues",
       "url": "https://open.spotify.com/track/2ZVUf16teQZ6Np8SZPxHo1"
@@ -103295,6 +103375,28 @@
     },
     {
       "album": {
+        "name": "Windbreaker",
+        "url": "https://open.spotify.com/album/66PgFpPsb80KtCpSDiD1th"
+      },
+      "artists": [
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        },
+        {
+          "name": "The Pinch",
+          "url": "https://open.spotify.com/artist/2RGFyUFoEIlioJofhOPp08"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Windbreaker",
+      "url": "https://open.spotify.com/track/2h7r5OMC8aQN7oKAZhhgGx"
+    },
+    {
+      "album": {
         "name": "Windermere Parkway",
         "url": "https://open.spotify.com/album/2ZObbvNK3bCOZAcT65X8js"
       },
@@ -103802,7 +103904,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 84094,
       "name": "wintertale",
       "url": "https://open.spotify.com/track/6Oaa0s5yzNB8LMGGM7dJDL"

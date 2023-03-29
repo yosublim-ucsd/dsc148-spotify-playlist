@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:02HpkiuAylAwAnQBswaXlP">Terri Lyne Carrington</a> shares her jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,951 likes - 27 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,932 likes - 27 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

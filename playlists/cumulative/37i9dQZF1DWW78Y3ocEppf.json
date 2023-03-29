@@ -5716,7 +5716,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 237538,
       "name": "Outside Like This",
       "url": "https://open.spotify.com/track/3XfN97RL32KMG83T35qDuw"
@@ -8800,6 +8800,24 @@
       "duration_ms": 179573,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4qSbi8LdPZR9jK9PsjxB9q"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2BAYApB6DoC15IToR95xSk"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/5OuASjeBIKFKBxslQCTbXJ"
     },
     {
       "album": {

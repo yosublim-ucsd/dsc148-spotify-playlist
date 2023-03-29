@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127101,
+  "num_followers": 127097,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDA4NSxhNGE2MWU0YzQ0YzZiYmYzYmMwOTQ0YWQ3YmM4ZGE4ODNiNjBmNTEw",
+  "snapshot_id": "NDA4OCwyMzMwNGU2OWQ2YzI2NDkwYzU4MGEyMTAxYzZiNjlmOTkzN2ZmYjE3",
   "tracks": [
+    {
+      "added_at": "2023-03-28 17:26:02",
+      "album": {
+        "name": "Falling Asleep",
+        "url": "https://open.spotify.com/album/4MdwGZGcrqifqH0WURQQqA"
+      },
+      "artists": [
+        {
+          "name": "Aftruu",
+          "url": "https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Falling Asleep",
+      "url": "https://open.spotify.com/track/2pzKfgAFP7Strv6KGrYj3g"
+    },
     {
       "added_at": "2023-03-27 23:21:18",
       "album": {
@@ -1099,26 +1115,6 @@
       "duration_ms": 163498,
       "name": "Dream of You",
       "url": "https://open.spotify.com/track/2WF1F1BeYTsYVxAJcKicV9"
-    },
-    {
-      "added_at": "2023-01-13 06:59:16",
-      "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

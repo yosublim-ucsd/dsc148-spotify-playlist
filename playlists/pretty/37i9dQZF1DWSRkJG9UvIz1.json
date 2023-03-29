@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 123167,
+  "num_followers": 123217,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDk5YTk4YzI2MjE3YjUyZGI0ODI5OWJjMDA2YjdlZTdh",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGE0YmE3ZjYwOTYzMDY1NmFkYzM1MDU0ZjY0YjI1NzY1",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -841,6 +841,26 @@
       "url": "https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E"
     },
     {
+      "added_at": "2023-03-29 05:10:44",
+      "album": {
+        "name": "Esque\u00e7o das Horas (Always On Replay)",
+        "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Kat Eaton",
+          "url": "https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P"
+        }
+      ],
+      "duration_ms": 216060,
+      "name": "Esque\u00e7o das Horas (Always On Replay)",
+      "url": "https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p"
+    },
+    {
       "added_at": "2023-03-11 03:38:22",
       "album": {
         "name": "Quando Eu Te Vi / Sorriso (Ao Vivo)",
@@ -879,26 +899,6 @@
       "duration_ms": 210866,
       "name": "N\u00f3",
       "url": "https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj"
-    },
-    {
-      "added_at": "2023-03-28 00:07:14",
-      "album": {
-        "name": "Esque\u00e7o das Horas (Always On Replay)",
-        "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Kat Eaton",
-          "url": "https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P"
-        }
-      ],
-      "duration_ms": 216060,
-      "name": "Esque\u00e7o das Horas (Always On Replay)",
-      "url": "https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p"
     },
     {
       "added_at": "2023-03-11 03:38:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,355 likes - 522 songs - 19 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,490 likes - 522 songs - 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,7 +238,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 228 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 |
 | 229 | [Summerheat](https://open.spotify.com/track/5u6VZLh8SRuyuCRm6QAaDE) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:03 |
 | 230 | [holibay](https://open.spotify.com/track/59bssvn3WWvm7n8HlVDOuJ) | [breeze inn](https://open.spotify.com/artist/24KZ9h5aLXhkyzn90D7rVd) | [holibay](https://open.spotify.com/album/0w3CVjCoDg5bKMN80fFQCU) | 1:56 |
-| 231 | [Random Girl](https://open.spotify.com/track/4Gd2D4u0EJvg6FZfyuCLmv) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj) | [True Story](https://open.spotify.com/album/2TOM5h9ZYdaVsKLIhQ3zsf) | 1:46 |
+| 231 | [Random Girl](https://open.spotify.com/track/4Gd2D4u0EJvg6FZfyuCLmv) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [True Story](https://open.spotify.com/album/2TOM5h9ZYdaVsKLIhQ3zsf) | 1:46 |
 | 232 | [Shimmer](https://open.spotify.com/track/79FvTJvLURJtsgbaD0JbEx) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Shimmer](https://open.spotify.com/album/2EdLiIm0Gr8wkimnQJwtvX) | 2:48 |
 | 233 | [raw paper](https://open.spotify.com/track/09NBdMpEm7J661F6XVo1SD) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [perplexia](https://open.spotify.com/album/0V0tjYfGhwsNCVxBdFPMVy) | 2:03 |
 | 234 | [Recovery Time](https://open.spotify.com/track/3wlyyrrECCUY4NHrzTuiMc) | [Jimmy Hill](https://open.spotify.com/artist/485FTYJV3xFeqZ8K540JPJ) | [Recovery Time](https://open.spotify.com/album/7bHZoY20yaRS4Z4pyaMm0R) | 1:44 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,665 songs - 3 day 10 hr 1 min
+1,666 songs - 3 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [ATHENA](https://open.spotify.com/track/2Ic4yeE0arD9AZ4RIbixFU) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [ATHENA](https://open.spotify.com/album/5Tf0s5kDjhaQGc17v7GgIl) | 3:30 | 2023-02-04 | 2023-02-12 |
 | [Atmen](https://open.spotify.com/track/1G2XjCiIxUMvARi86Xituw) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:46 | 2022-12-10 | 2022-12-12 |
-| [Au Revoir](https://open.spotify.com/track/4HkRGYJYn1Y99uXpqTyOI6) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Au Revoir](https://open.spotify.com/album/3PE0mVKw3fqzBxS1mZBI9Z) | 2:29 | 2023-01-07 |  |
+| [Au Revoir](https://open.spotify.com/track/4HkRGYJYn1Y99uXpqTyOI6) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Au Revoir](https://open.spotify.com/album/3PE0mVKw3fqzBxS1mZBI9Z) | 2:29 | 2023-01-07 | 2023-03-29 |
 | [Audi Bande](https://open.spotify.com/track/3LuLKHvEInENTAvSciFZx6) | [Kolja Goldstein](https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm) | [Audi Bande](https://open.spotify.com/album/2XlI3FjkhoVCHQYG1LgE6Z) | 2:30 | 2022-08-13 | 2022-08-15 |
 | [Auf & Ab](https://open.spotify.com/track/0RSZ8EmUPEN3ySfCgytPke) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Auf & Ab](https://open.spotify.com/album/0HSkqlRyseGrpCBrrTv773) | 2:45 | 2021-08-01 | 2022-04-10 |
 | [Auf & Ab](https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [HERZINFUCKED](https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB) | 2:45 | 2022-04-09 | 2022-09-28 |
@@ -472,7 +472,8 @@
 | [Extasy](https://open.spotify.com/track/5OqIKA0ETzvxocl2IS7nV6) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Extasy](https://open.spotify.com/album/17BMEx1PKFdh53eGNPW8D5) | 2:54 | 2021-05-09 | 2021-05-16 |
 | [Extasy](https://open.spotify.com/track/79lc69ZXfL4WmJIzVSDmWT) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 2:54 | 2021-05-16 | 2021-08-13 |
 | [Eye of The Tiger](https://open.spotify.com/track/7rAxK5LOqUbc6ZeWJgMdCN) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Kleinstadt](https://open.spotify.com/album/2Tf2UvkjyupugBSrZZDX8l) | 3:15 | 2021-10-31 | 2021-10-31 |
-| [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-25 |  |
+| [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-25 | 2023-03-29 |
+| [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-28 |  |
 | [FABIAN](https://open.spotify.com/track/6mZW8TrPuClmoaJV8HksZ1) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [FABIAN](https://open.spotify.com/album/3xEmBIqhZDkkpuAC8x2IqU) | 7:16 | 2022-02-19 | 2022-02-21 |
 | [Face 2 Face](https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Face 2 Face](https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh) | 2:04 | 2022-12-17 | 2022-12-19 |
 | [FACETIME LUV](https://open.spotify.com/track/5m0vz1gSNLohGVfEEAyQQb) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [FACETIME LUV](https://open.spotify.com/album/19UnKm3n4cKPvDXYdlZja3) | 3:15 | 2022-08-06 | 2022-08-08 |
@@ -1511,7 +1512,7 @@
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 | 2023-02-01 |
 | [Uninteressant](https://open.spotify.com/track/3kaaRmJhAekwEFiB6SRiPV) | [KASIMIR1441](https://open.spotify.com/artist/7ADRm1oT7VmhRRZrZqycV6), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq) | [Uninteressant](https://open.spotify.com/album/0HfWZpcaeccrP2zm9Sbckz) | 2:22 | 2021-07-18 | 2021-07-19 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-16 |
-| [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 | 2023-03-25 | 2023-03-27 |
+| [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 | 2023-03-25 |  |
 | [Unten kommt die Gurke rein](https://open.spotify.com/track/35ac3gdxwVTwYV2P1GC84h) | [Die Sacknähte](https://open.spotify.com/artist/6w6DStBcPNWDIfavmXaEh2), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Unten kommt die Gurke rein](https://open.spotify.com/album/2I6DGF9tcl7m3lo2Crrs9v) | 3:35 | 2021-11-28 | 2021-11-30 |
 | [Unter dem Radar](https://open.spotify.com/track/4NOSbom2QAjXJoyoJZehGe) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [Unter dem Radar](https://open.spotify.com/album/7GfVJQcmNw2Kc2NNg42jcY) | 2:23 | 2021-04-18 | 2021-05-03 |
 | [Unter die Haut](https://open.spotify.com/track/5Gf6qU9Ett00mOaQuXm9eM) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Unter die Haut](https://open.spotify.com/album/2nsaNwlGghj8P4rK8JaPZo) | 2:30 | 2022-01-29 | 2022-01-31 |

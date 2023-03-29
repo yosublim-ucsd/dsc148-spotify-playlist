@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 43612,
+  "num_followers": 43662,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMGNjMDA0MjBlNzI0NzFmNTljY2JlNzk2NzFkZGU3NDMx",
+  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDNhYzg5NDVhM2NlMTQ0NTZiNWUwZjMwOWMzZGIzMjAz",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Spring Is You",
+        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 225647,
+      "name": "Spring Is You",
+      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Salt Rain (Prod. By Alfie Hole)",
         "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 217774,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Spring Is You",
-        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 225647,
-      "name": "Spring Is You",
-      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -713,23 +713,7 @@
       "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
     },
     {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Origin of Love",
-        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Origin of Love",
-      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
-    },
-    {
-      "added_at": "2023-03-28 00:16:00",
+      "added_at": "2023-03-29 04:35:20",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -751,18 +735,34 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Honey jar No.01",
-        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
+        "name": "Origin of Love",
+        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
       },
       "artists": [
         {
-          "name": "HolyBear",
-          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
         }
       ],
-      "duration_ms": 219205,
-      "name": "Butterfly on my mind",
-      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
+      "duration_ms": 232226,
+      "name": "Origin of Love",
+      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "[04]",
+        "url": "https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "duration_ms": 220003,
+      "name": "Like A Bird",
+      "url": "https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "[04]",
-        "url": "https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm"
+        "name": "Honey jar No.01",
+        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
       },
       "artists": [
         {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+          "name": "HolyBear",
+          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
         }
       ],
-      "duration_ms": 220003,
-      "name": "Like A Bird",
-      "url": "https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C"
+      "duration_ms": 219205,
+      "name": "Butterfly on my mind",
+      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
+      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "\uc774\ub978 \uaca8\uc6b8",
         "url": "https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 172500,
       "name": "\uc774\ub978 \uaca8\uc6b8(Feat. Gist, \uae30\uc6d0(Giwon))",
       "url": "https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
-      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1103,6 +1103,38 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Our Cinema #2 - Dancing",
+        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
+      },
+      "artists": [
+        {
+          "name": "Narae Lee",
+          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
+        }
+      ],
+      "duration_ms": 210079,
+      "name": "Our Cinema #2 - Dancing",
+      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
+        "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 212898,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Forever yours",
         "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
@@ -1127,22 +1159,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
-        "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 212898,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "cozy christmas",
         "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 123666,
       "name": "Today and other days (Feat. Eily)",
       "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Our Cinema #2 - Dancing",
-        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
-      },
-      "artists": [
-        {
-          "name": "Narae Lee",
-          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
-        }
-      ],
-      "duration_ms": 210079,
-      "name": "Our Cinema #2 - Dancing",
-      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
     },
     {
       "added_at": "2023-02-24 10:35:29",

@@ -3138,6 +3138,28 @@
     {
       "album": {
         "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278765,
+      "name": "juro que vi flores (feat. Silvia P\u00e9rez Cruz)",
+      "url": "https://open.spotify.com/track/0swJRACxsbJcaG1VtnNrOm"
+    },
+    {
+      "album": {
+        "name": "hortel\u00e3",
         "url": "https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw"
       },
       "artists": [
@@ -3152,7 +3174,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 278765,
       "name": "juro que vi flores (feat. Silvia P\u00e9rez Cruz)",
       "url": "https://open.spotify.com/track/2HngnvK7LVC7y6FkTMQc8n"
@@ -3246,10 +3268,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 289058,
       "name": "just wanna forget you",
       "url": "https://open.spotify.com/track/5uPPfimPoseZ6ptvx1EYhK"
+    },
+    {
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/7hjYZWn6lzUPuzlOaNHFKx"
     },
     {
       "album": {
@@ -5104,10 +5144,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 177946,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5OhrxjeiqLfFrsTWOSqw4m"
+    },
+    {
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/1CoSmqgRXyhy5vvI5hrDld"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP"
     },
     {
       "album": {

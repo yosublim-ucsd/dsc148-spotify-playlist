@@ -2,9 +2,9 @@
 
 ### [Feelin' Good](https://open.spotify.com/playlist/37i9dQZF1DX9XIFQuFvzM4)
 
-> Music makes you feel good\. Adopting a dog will make you feel even better\. Go to <a href="https://www.adoptapet.com/">Adoptapet.com</a> to find a rescue dog near you \(US only\).
+> Feel good with this positively timeless playlist!
 
-242 songs - 13 hr 26 min
+243 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Easy](https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Motown 1970s Vol\. 1](https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et) | 4:18 | 2021-10-19 | 2022-07-29 |
 | [Enough For Everybody](https://open.spotify.com/track/4xGEojTmZ9qtrk4F7juAM6) | [Betty Bibbs](https://open.spotify.com/artist/2N2LPuEhhesbjloyf8IY3g) | [For Connoisseurs Only Vol 2](https://open.spotify.com/album/5qSpCsO98X8qaMNpSdAuKq) | 2:53 | 2021-10-19 | 2022-04-21 |
 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 | 2021-10-19 |  |
-| [Everyday People](https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:19 | 2021-10-19 |  |
+| [Everyday People](https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:19 | 2021-10-19 | 2023-03-29 |
+| [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 | 2023-03-28 |  |
 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 | 2021-10-19 |  |
 | [Family Affair](https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu) | [Sly Stone](https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0) | [I'm Back! Family & Friends](https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj) | 3:19 | 2021-10-19 | 2022-07-29 |
 | [Feeling Good](https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:54 | 2021-10-19 | 2022-04-21 |

@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Be Like Snow",
+        "url": "https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr"
+      },
+      "artists": [
+        {
+          "name": "SMOKIN\u2019theJAZZ",
+          "url": "https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288683,
+      "name": "Be Like Snow",
+      "url": "https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw"
+    },
+    {
+      "album": {
         "name": "Bird Of Beauty",
         "url": "https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI"
       },
@@ -636,6 +654,28 @@
       "duration_ms": 292800,
       "name": "Futurez",
       "url": "https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz"
+    },
+    {
+      "album": {
+        "name": "From Where The Sun Rises",
+        "url": "https://open.spotify.com/album/4Cccfl5EmABNIq7YFedo5z"
+      },
+      "artists": [
+        {
+          "name": "Light Music Society",
+          "url": "https://open.spotify.com/artist/1uhicIWb5CGO8NLsWX1a5q"
+        },
+        {
+          "name": "Yu KUga",
+          "url": "https://open.spotify.com/artist/6xQwMgylM6kuOlQJ5MW47s"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405120,
+      "name": "Good Thing Will Happen",
+      "url": "https://open.spotify.com/track/0s7Z1aZPuSyOno3IVZdLta"
     },
     {
       "album": {
@@ -1796,7 +1836,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 290000,
       "name": "THE REASON",
       "url": "https://open.spotify.com/track/5xfX9hGoqTrtf8CKRooKDJ"
@@ -2528,7 +2568,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 258000,
       "name": "\u672c\u65e5\u306f\u6674\u5929",
       "url": "https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF"

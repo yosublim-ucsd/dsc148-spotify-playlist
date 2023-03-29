@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-476 songs - 1 day 5 hr 51 min
+477 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Masterpiece \- \(solo\)](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 | 2022-06-24 |  |
 | [Masterpiece \- \(solo\)](https://open.spotify.com/track/5cic8eTn6twPA0ArO8zcjR) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/3eFyzMClI2LYbGBlwzlqLQ) | 4:00 | 2021-10-22 | 2022-07-28 |
 | [May](https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/69bmzUtPRFNdCMjsiD11kJ) | 3:58 | 2021-10-22 | 2022-07-16 |
-| [Mecca](https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 4:51 | 2022-06-24 |  |
+| [Mecca](https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 4:51 | 2022-06-24 | 2023-03-29 |
 | [Memorial](https://open.spotify.com/track/1sXdly4AscLh38opR7AkAN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Memorial](https://open.spotify.com/album/2442xkROtnAcVWFuWQgRTE) | 4:38 | 2021-10-22 | 2022-07-24 |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-06-24 | 2022-11-13 |
 | [Michelangelo](https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9) | 3:29 | 2021-10-22 | 2022-07-29 |
@@ -310,6 +310,7 @@
 | [On the Other Side](https://open.spotify.com/track/68lPk9jC7nTpiZgH7Zc2ik) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/5MXz23mZjMutPdhGGb9jc7) | 4:57 | 2022-04-13 | 2022-04-21 |
 | [One With The Birds](https://open.spotify.com/track/3V435gJhrhScmr8P3m9hBV) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [eighth blackbird](https://open.spotify.com/artist/08JsND1KfYyI41gWdAOOwz) | [One With The Birds](https://open.spotify.com/album/4KL3IiUFDS7z4ZIkXVJf8S) | 6:07 | 2021-10-22 | 2022-07-28 |
 | [Other You](https://open.spotify.com/track/1IQEtgj49aI8FEMsEEyqGA) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You](https://open.spotify.com/album/3d2UzCjk937w5fsDODT5qx) | 5:43 | 2021-10-22 | 2022-07-29 |
+| [Other’s Melodies](https://open.spotify.com/track/2XpiUG08IAJThd0MLsH0AB) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [Other’s Melodies](https://open.spotify.com/album/3rkUjM57mjVjnqr2f2nvtA) | 3:07 | 2023-03-24 |  |
 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 | 2021-10-22 | 2022-07-16 |
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-24 |  |
 | [Partner In Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 | 2022-07-29 | 2022-11-14 |

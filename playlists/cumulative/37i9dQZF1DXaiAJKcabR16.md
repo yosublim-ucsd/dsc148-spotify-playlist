@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-95 songs - 6 hr 20 min
+96 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Whispered Words \(Pretty Lies\)](https://open.spotify.com/track/4pPWNeApSiORRQucFZt85y) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/7Bh24bJdtKMMXxEcpiYeOV) | 4:06 | 2021-07-30 | 2022-07-29 |
 | [Whispered Words \(Pretty Lies\)](https://open.spotify.com/track/6KPaX2zvWAOXYZjvhqdQZj) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:06 | 2021-07-30 |  |
 | [Wild Horses \- Acoustic](https://open.spotify.com/track/03HbxaCm8eBHLxbfdRRQ2e) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Wild Horses \(Acoustic\)](https://open.spotify.com/album/3RL9u6GpQUCVEn2B6rz5Yo) | 3:08 | 2021-07-30 |  |
+| [Wish It Was True](https://open.spotify.com/track/1TSCUaX1XkklmuxpuPUxyR) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Once Upon A Time In The West](https://open.spotify.com/album/7f5DOd6CcQAPqxX59ldHEi) | 3:46 | 2023-03-28 |  |
 | [Work Song](https://open.spotify.com/track/4Vc3bzFxXdrABa2DxgyCMT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:49 | 2021-07-30 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

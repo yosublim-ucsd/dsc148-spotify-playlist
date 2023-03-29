@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by CATT. Learn more in our playlist clips!",
-  "num_followers": 24841,
+  "num_followers": 24833,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDM0NGIyM2ZjODA3Yjg4NTA0ZTJkNDlkMjM2MGYwMWMw",
+  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMGE4ZmU0Y2VmNTk0YmUzNzg1NGUzMGQzZjAyY2ZmOGU1",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:59",
@@ -139,22 +139,6 @@
       "duration_ms": 127025,
       "name": "schwimmen",
       "url": "https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Wenn Kometen fallen",
-        "url": "https://open.spotify.com/album/75781P23IOKsqtj4V21Yzh"
-      },
-      "artists": [
-        {
-          "name": "SOPHIA",
-          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "Wenn Kometen fallen",
-      "url": "https://open.spotify.com/track/0Fz2b6FOXTqujJSjuJaRXu"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -367,6 +351,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "NIEMALS ALLEIN",
+        "url": "https://open.spotify.com/album/06DubYwQD77eHnScU3wBFb"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "duration_ms": 141946,
+      "name": "Wenn Kometen fallen",
+      "url": "https://open.spotify.com/track/05xLWwAxV6cP5zrYBF2eM6"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "BBB #40",
         "url": "https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Boxes",
-        "url": "https://open.spotify.com/album/5RYZA4UfF9LLPd3cmz4i1J"
-      },
-      "artists": [
-        {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
-        }
-      ],
-      "duration_ms": 191847,
-      "name": "Boxes",
-      "url": "https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "TRAUM",
         "url": "https://open.spotify.com/album/3dW70AYuaeZVJkwmfiQl6i"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 132008,
       "name": "TRAUM",
       "url": "https://open.spotify.com/track/6TUJs76PxY3geuAHoJSvF4"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Boxes",
+        "url": "https://open.spotify.com/album/5RYZA4UfF9LLPd3cmz4i1J"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "duration_ms": 191847,
+      "name": "Boxes",
+      "url": "https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "FUTURE KID",
-        "url": "https://open.spotify.com/album/3BkVD7Wl1uXB3cGESNsktA"
-      },
-      "artists": [
-        {
-          "name": "UMME BLOCK",
-          "url": "https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "FUTURE KID",
-      "url": "https://open.spotify.com/track/3LdKBBMgYkSXV26BpLrCun"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Only Human",
         "url": "https://open.spotify.com/album/1RbYJYm3I6IXeVGwSzfutS"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 205813,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/3msFndU6dPawydh1LtERRZ"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "FUTURE KID",
+        "url": "https://open.spotify.com/album/3BkVD7Wl1uXB3cGESNsktA"
+      },
+      "artists": [
+        {
+          "name": "UMME BLOCK",
+          "url": "https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "FUTURE KID",
+      "url": "https://open.spotify.com/track/3LdKBBMgYkSXV26BpLrCun"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4"
-      },
-      "artists": [
-        {
-          "name": "AINIE",
-          "url": "https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS"
-        }
-      ],
-      "duration_ms": 156584,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Lampenfieber",
         "url": "https://open.spotify.com/album/60RZBiq774g6lJ8YzvqVQq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 185038,
       "name": "Lampenfieber",
       "url": "https://open.spotify.com/track/4N50G190dPvI2S9ISPK6jn"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4"
+      },
+      "artists": [
+        {
+          "name": "AINIE",
+          "url": "https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS"
+        }
+      ],
+      "duration_ms": 156584,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS"
     },
     {
       "added_at": "2023-03-06 09:38:59",

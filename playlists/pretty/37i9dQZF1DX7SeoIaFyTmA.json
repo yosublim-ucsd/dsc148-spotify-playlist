@@ -1,12 +1,12 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1146800,
+  "num_followers": 1147351,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4MDQzMCwwMDAwMDAwMDQ3YjI3Njk5M2ZiMGE3ZWQwY2M1MzI3NWFiYzcxYjUz",
+  "snapshot_id": "MTY3ODQ4MDQzMCwwMDAwMDAwMGFhNGI3MmY0YTRlZjcyZmQyNzA4MWQ3NjQ2YmY3MzIw",
   "tracks": [
     {
       "added_at": "2023-03-10 20:33:50",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-03-10 20:33:50",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu"
-      },
-      "artists": [
-        {
-          "name": "Sonora Carruseles",
-          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
-        },
-        {
-          "name": "Luis Florez",
-          "url": "https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy"
-    },
-    {
-      "added_at": "2023-03-10 20:33:50",
-      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2023-03-10 20:33:50",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu"
+      },
+      "artists": [
+        {
+          "name": "Sonora Carruseles",
+          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
+        },
+        {
+          "name": "Luis Florez",
+          "url": "https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy"
     },
     {
       "added_at": "2023-03-10 20:33:50",

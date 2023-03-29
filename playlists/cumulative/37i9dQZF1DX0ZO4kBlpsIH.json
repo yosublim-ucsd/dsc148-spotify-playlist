@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "The Sound of Paris",
+        "url": "https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Antoine Martin",
+          "url": "https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187588,
+      "name": "Au Bistrot",
+      "url": "https://open.spotify.com/track/6pJaFAldS2bN12dYlg2Ke5"
+    },
+    {
+      "album": {
         "name": "Une Belle Histoire",
         "url": "https://open.spotify.com/album/5mPHOeyteMkcXXo8by5LGG"
       },
@@ -1804,6 +1822,24 @@
       "duration_ms": 142973,
       "name": "Passion gitane",
       "url": "https://open.spotify.com/track/1a6WWeuqyJFk5GPQru1R83"
+    },
+    {
+      "album": {
+        "name": "The Sound of Paris",
+        "url": "https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Antoine Martin",
+          "url": "https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163189,
+      "name": "Pauvre Jean",
+      "url": "https://open.spotify.com/track/3TiiAMXiveFrseyky7ZhFA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-149 songs - 7 hr 21 min
+151 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Arc de Triomphe](https://open.spotify.com/track/523gSUSIfg3v88dW9Xp4Bq) | [Paris Café Society](https://open.spotify.com/artist/5jjHcJSJq9lyKfh4j6mNro) | [French Café: A Parisian Gypsy Jazz Swing Experience](https://open.spotify.com/album/3QxCtZ0twLj5FpJr7cyCLp) | 2:43 | 2022-02-18 |  |
 | [Arc de Triomphe](https://open.spotify.com/track/0bgST5jybVh3OOYK9Pxorb) | [Sababaman](https://open.spotify.com/artist/7BY3oEfszung40oUYjbKO7) | [Jazz & Blues Guitar](https://open.spotify.com/album/2Pl6sJl6PDR4oqoAvvhXX5) | 2:43 | 2022-08-05 | 2022-11-13 |
 | [Arc de Triomphe](https://open.spotify.com/track/5TbdQuOnaVZXnWVdu9elLU) | [World Music Ensemble](https://open.spotify.com/artist/0f3rGPN9VHlAWAQnSZB0OG) | [French Café: A Parisian Gypsy Jazz Swing Experience](https://open.spotify.com/album/67jVIvQuFnU0nh40CsRbUr) | 2:43 | 2022-02-18 | 2022-07-29 |
+| [Au Bistrot](https://open.spotify.com/track/6pJaFAldS2bN12dYlg2Ke5) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [The Sound of Paris](https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8) | 3:07 | 2023-03-28 |  |
 | [Au Vieux Bal Musette](https://open.spotify.com/track/2XZaBz843U00YVkOJLHtGx) | [André Verchuren](https://open.spotify.com/artist/6rT4bZhhSQC6dCT33qgShE) | [Une Belle Histoire](https://open.spotify.com/album/5mPHOeyteMkcXXo8by5LGG) | 2:33 | 2022-02-18 |  |
 | [Ballad Du Paris](https://open.spotify.com/track/0bgEcO0WvBzpGVujZNuY8E) | [Francois Parisi](https://open.spotify.com/artist/5UwPIPTmXwjYU3VoTOVXDV) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:14 | 2022-02-18 |  |
 | [Besame Mucho](https://open.spotify.com/track/4iAKfuXxtvBuBilApPvf06) | [Claudio Ranalli](https://open.spotify.com/artist/4Z6NDRwXM5rrKuzKcthNeu) | [Fantastica Fisarmonica 16 Beguine](https://open.spotify.com/album/03DkoUckKFcBpv90GlnQ1n) | 3:33 | 2022-02-18 | 2023-03-22 |
@@ -105,6 +106,7 @@
 | [Parlez\-Moi D'amour](https://open.spotify.com/track/7BfDyrKPnW11375k831lay) | [Dana Boulé](https://open.spotify.com/artist/2f8QOPqhNpY1AYLNMBAtcD) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:00 | 2022-02-18 |  |
 | [Passion](https://open.spotify.com/track/42QbXalFUenFqckLeeJPIF) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Alice Bassié](https://open.spotify.com/artist/3BstnhCIllWyuEq7MFlDOj) | [Impair & valse](https://open.spotify.com/album/5oh1bdjaq2PfSPd6gykbrn) | 2:20 | 2022-11-25 |  |
 | [Passion gitane](https://open.spotify.com/track/1a6WWeuqyJFk5GPQru1R83) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:22 | 2022-11-25 |  |
+| [Pauvre Jean](https://open.spotify.com/track/3TiiAMXiveFrseyky7ZhFA) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [The Sound of Paris](https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8) | 2:43 | 2023-03-28 |  |
 | [Petite Chanson de l'amour](https://open.spotify.com/track/03CoelVFp9OYFb9MXZjkDd) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Café Paris: French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/1hmtyvAicRpfnJLKmNVd9K) | 2:03 | 2023-03-07 |  |
 | [Petite Musette](https://open.spotify.com/track/2I68yop53AHjpZoyQEJspL) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:06 | 2022-08-05 | 2022-11-13 |
 | [Petite Musette](https://open.spotify.com/track/5DxwUiJ9Fcmdz0aHPL5Vtr) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:06 | 2022-02-18 |  |

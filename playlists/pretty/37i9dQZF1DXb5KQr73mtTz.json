@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9374,
+  "num_followers": 9397,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMDczZGQ1NDM5ZjA1OWJlYjUyZmUzZjliYzhlZGRiNGMz",
+  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGQ3NWVlYjJhOTdlZWE2MjczZWI3NzFkYjJhM2EwMWRj",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
-      "added_at": "2023-03-28 00:53:06",
+      "added_at": "2023-03-29 05:42:18",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
       },
       "artists": [
         {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
         "name": "The day was beautiful",
         "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 256026,
       "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
       "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
-        "name": "Despite it all",
-        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 229210,
-      "name": "Despite it all",
-      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -665,7 +649,7 @@
       "url": "https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC"
     },
     {
-      "added_at": "2023-03-28 00:53:06",
+      "added_at": "2023-03-29 05:42:18",
       "album": {
         "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
         "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
@@ -681,7 +665,23 @@
       "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
-      "added_at": "2023-03-28 00:53:06",
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
+    },
+    {
+      "added_at": "2023-03-29 05:42:18",
       "album": {
         "name": "Wouldn't have",
         "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
@@ -817,20 +817,20 @@
       "url": "https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd"
     },
     {
-      "added_at": "2023-02-28 10:14:13",
+      "added_at": "2023-03-29 05:42:18",
       "album": {
-        "name": "Again, goodbye (YAOKI Project part.2)",
-        "url": "https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ"
+        "name": "The Work Of Erasing You",
+        "url": "https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI"
       },
       "artists": [
         {
-          "name": "Yang Yoseob",
-          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
         }
       ],
-      "duration_ms": 261146,
-      "name": "Again, goodbye",
-      "url": "https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0"
+      "duration_ms": 217026,
+      "name": "The Work Of Erasing You",
+      "url": "https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

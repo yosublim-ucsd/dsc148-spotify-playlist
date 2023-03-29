@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. A Winged Victory For The Sullen on cover.
 
-977 songs - 3 day 7 hr 11 min
+978 songs - 3 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [A Model Of Reality \- Jan Steiner Granular Classics Remix](https://open.spotify.com/track/5PyP6a6vHgsxfcvz5ocNz2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Jan Steiner](https://open.spotify.com/artist/1VUJ51LvCMZvJFB8syeqUb) | [A Model of Reality Reworks](https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK) | 2:51 | 2023-01-27 | 2023-03-10 |
 | [A New Dawn](https://open.spotify.com/track/4oO79w6xvjjXiruvkL1H1F) | [HRDY](https://open.spotify.com/artist/6NR5GQDkybW9GBp3N9Azn4) | [A New Dawn](https://open.spotify.com/album/4omlcdG3BCpyxOr65wfAVX) | 3:29 | 2021-12-24 | 2022-02-05 |
 | [A Place We Once Walked](https://open.spotify.com/track/0qXIxu5TFC7PNOMKd8AGLu) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [The Turning Year](https://open.spotify.com/album/69q5BWCtoQAgoeNxx6kvWB) | 6:03 | 2022-10-14 | 2022-10-29 |
-| [A Thought \- Instrumental](https://open.spotify.com/track/6uN4hsPm9t7tHNTXyp8gBN) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/62Au97ad3lAew8oFHtd3Qa) | 3:59 | 2023-03-11 |  |
+| [A Thought \- Instrumental](https://open.spotify.com/track/6uN4hsPm9t7tHNTXyp8gBN) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/62Au97ad3lAew8oFHtd3Qa) | 3:59 | 2023-03-11 | 2023-03-29 |
+| [A Thought \- Instrumental](https://open.spotify.com/track/7xU738CyZW1H8JjvxAC2Kb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/2McOBODIvLon65xiVcB2gt) | 3:59 | 2023-03-24 |  |
 | [Aamunkoi](https://open.spotify.com/track/6JvCjoZqPa1hqjksSpFHxR) | [Hiljaisuus](https://open.spotify.com/artist/0PRyQ5PudQoB7bW1PTKfeF) | [Aamunkoi](https://open.spotify.com/album/5lNkZiB3erhrinzfizE7WR) | 2:10 | 2021-12-24 | 2022-02-17 |
 | [Abandoned Places](https://open.spotify.com/track/3zP5jZNeK9VgCkd4tNPKib) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Abandoned Places](https://open.spotify.com/album/7J6pXQPzUoFW2GozOiD6fq) | 5:43 | 2022-02-18 | 2022-07-29 |
 | [Abandoned Places](https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Our True Nature](https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7) | 5:43 | 2022-07-01 | 2023-03-11 |

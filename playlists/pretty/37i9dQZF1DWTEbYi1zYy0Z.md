@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,166 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,206 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 95 | [Forever My Love](https://open.spotify.com/track/7xfV7C26Jb4Ka5l4tGtXfq) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Forever My Love](https://open.spotify.com/album/07UH7uQ4IIxni6J14U1juu) | 3:09 |
 | 96 | [Here She Comes](https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Here She Comes](https://open.spotify.com/album/3YJsSNEY87S84ghTUPvCbk) | 3:39 |
 | 97 | [Radio Vibe \- radio single](https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9), [Jeanette Harris](https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn) | [Radio Vibe](https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq) | 4:09 |
-| 98 | [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 |
+| 98 | [Workin'](https://open.spotify.com/track/1XggkknnMxiR3X3WJSD8ha) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/7ixjw73GQAtsHWOm62sBF7) | 4:06 |
 | 99 | [Motor City Moves \(feat\. Lin Rountree\)](https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Free](https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU) | 4:24 |
 | 100 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
 
-Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMDI0M2ZjZGRmMDk0NjIxZjc2ZjljYmRiMTUyOTU3N2Fj`
+Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMGIyMDI4OTc5ZWIwNGVkZWRiMDUxZjBmMTI3ZDM0ZDYx`

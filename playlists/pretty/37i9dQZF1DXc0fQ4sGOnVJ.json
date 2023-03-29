@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 147154,
+  "num_followers": 147168,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDg5ZGM0ZDQyMDkwNWQwNTJkZWIzNTE3MzM1MjQ2MDM1",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDRmMDkzMjEwNWQ1YzM3OThkYWU1Y2NhZTgwODk4MjU3",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -527,22 +527,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "If She Ain't Country (Remix)",
-        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN"
       },
       "artists": [
         {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
         }
       ],
-      "duration_ms": 176989,
-      "name": "If She Ain't Country - Remix",
-      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -563,18 +559,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN"
+        "name": "If She Ain't Country (Remix)",
+        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
       },
       "artists": [
         {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A"
+      "duration_ms": 176989,
+      "name": "If She Ain't Country - Remix",
+      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
     },
     {
       "added_at": "2023-03-10 05:00:00",

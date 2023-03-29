@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie tracks every Friday\. Cover: Hannah Jadagu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,997 likes - 175 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,079 likes - 175 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

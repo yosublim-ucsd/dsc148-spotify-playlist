@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Vaani Bhasin. , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Black Letters. , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1208,6 +1208,24 @@
       "duration_ms": 230000,
       "name": "Band Aid",
       "url": "https://open.spotify.com/track/503qWOWg5h47IJfaQybln1"
+    },
+    {
+      "album": {
+        "name": "Banja Beimaan",
+        "url": "https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Agarwal",
+          "url": "https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272033,
+      "name": "Banja Beimaan",
+      "url": "https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo"
     },
     {
       "album": {
@@ -5092,7 +5110,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 214151,
       "name": "Indeed",
       "url": "https://open.spotify.com/track/3IA3GigpUfwEtgx2qh8G6a"
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 265859,
       "name": "Jaane Phirse Kaise (feat. Vidhya Gopal)",
       "url": "https://open.spotify.com/track/16jc3m4wXiZoSX7W5FFLWL"
@@ -6444,7 +6462,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 208269,
       "name": "Kehne Do",
       "url": "https://open.spotify.com/track/2hXpu8Y2I772ooXum6sNHb"
@@ -6670,6 +6688,24 @@
       "duration_ms": 192145,
       "name": "Khoye Sitaare",
       "url": "https://open.spotify.com/track/6NRo2j6SVDo7xx9lVkCIlY"
+    },
+    {
+      "album": {
+        "name": "Khud Se Mohabbat",
+        "url": "https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203357,
+      "name": "Khud Se Mohabbat",
+      "url": "https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig"
     },
     {
       "album": {
@@ -9061,6 +9097,24 @@
     },
     {
       "album": {
+        "name": "Oh Gloria",
+        "url": "https://open.spotify.com/album/7e7dR0iONPjbE84EdYjlnw"
+      },
+      "artists": [
+        {
+          "name": "O Daapun",
+          "url": "https://open.spotify.com/artist/7i6f41FyWpXAKKN5WU4mMD"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Oh Gloria",
+      "url": "https://open.spotify.com/track/5catE77y2QezmF0TloCw7B"
+    },
+    {
+      "album": {
         "name": "Oh Rangreza",
         "url": "https://open.spotify.com/album/6e8gnHEpDhq6CsFAhk6G5m"
       },
@@ -10328,7 +10382,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 174545,
       "name": "Rehnuma",
       "url": "https://open.spotify.com/track/45sAdWtNAw43yfXPYAdfsg"
@@ -10851,6 +10905,24 @@
     },
     {
       "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/2YZiOpB38NOEkhu6vut4pu"
+      },
+      "artists": [
+        {
+          "name": "Ashwani Machal",
+          "url": "https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194532,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8"
+    },
+    {
+      "album": {
         "name": "Saiyaan Bina (feat. Anshuman Sharma)",
         "url": "https://open.spotify.com/album/5rrQPgEyjaB3CN527qAs9r"
       },
@@ -11143,6 +11215,24 @@
     },
     {
       "album": {
+        "name": "Scars On Your Beautiful",
+        "url": "https://open.spotify.com/album/0vw7EjqUfmpyRwNq1y9bV4"
+      },
+      "artists": [
+        {
+          "name": "Manasi Hedaoo",
+          "url": "https://open.spotify.com/artist/6pkf5DyjVI2ssUdL22Gc5T"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180031,
+      "name": "Scars On Your Beautiful",
+      "url": "https://open.spotify.com/track/3dsthkYdO8HQBXtD08IqeK"
+    },
+    {
+      "album": {
         "name": "Screaming on the Fly",
         "url": "https://open.spotify.com/album/4xx6WIel6TkPJ3qmWtaFGN"
       },
@@ -11394,6 +11484,24 @@
       "duration_ms": 122853,
       "name": "Show me the way",
       "url": "https://open.spotify.com/track/6av0OomYdmXTXmB7hCz7Wh"
+    },
+    {
+      "album": {
+        "name": "Simpler Times",
+        "url": "https://open.spotify.com/album/6AfEBtGTwfc9BrvMbq8QyP"
+      },
+      "artists": [
+        {
+          "name": "Black Letters",
+          "url": "https://open.spotify.com/artist/0glNGCIZztkKr1cmnsYdS6"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291283,
+      "name": "Simpler Times",
+      "url": "https://open.spotify.com/track/2fmBEAxGrQHfqJwv3v8e7H"
     },
     {
       "album": {
@@ -12510,7 +12618,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 234750,
       "name": "That Guy",
       "url": "https://open.spotify.com/track/2RC78RMiwvHtZV2OP8CK2h"
@@ -13078,7 +13186,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 211303,
       "name": "Tu Na Mile",
       "url": "https://open.spotify.com/track/3Heka6vahzY7CFGmr6Jl6L"
@@ -13122,7 +13230,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 236800,
       "name": "Tujhse Kyun",
       "url": "https://open.spotify.com/track/1Zr3VZ3LE1vpiVn1qeb1vv"
@@ -13372,6 +13480,24 @@
       "duration_ms": 201000,
       "name": "Ud Chalo",
       "url": "https://open.spotify.com/track/7kOWOA4hDByWd1Ig4vwVJt"
+    },
+    {
+      "album": {
+        "name": "Udd Re",
+        "url": "https://open.spotify.com/album/6V7xG8jWVHgk29H1eneQYz"
+      },
+      "artists": [
+        {
+          "name": "Saptak Chatterjee",
+          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Udd Re",
+      "url": "https://open.spotify.com/track/1VRXOd1EtibAlmAV5CEWHT"
     },
     {
       "album": {

@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 281026,
       "name": "Bine",
       "url": "https://open.spotify.com/track/3PoWq2JUTFo5JNQbQkWhVU"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 851533,
       "name": "Garbagemx",
       "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 428106,
       "name": "Leterel",
       "url": "https://open.spotify.com/track/3FDJRnZGAZeSjguTBoktEB"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 529702,
       "name": "M4 Lema",
       "url": "https://open.spotify.com/track/2FzoRj6pWI0JFBlBE67dfk"
@@ -2637,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484293,
+      "name": "Rotar",
+      "url": "https://open.spotify.com/track/7gK0WYSlNXlSd2Cp3ukyCt"
+    },
+    {
+      "album": {
         "name": "EP7",
         "url": "https://open.spotify.com/album/1KaTIdAepIJDxbSEEL3M2z"
       },
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 434553,
       "name": "Sim Gishel",
       "url": "https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx"

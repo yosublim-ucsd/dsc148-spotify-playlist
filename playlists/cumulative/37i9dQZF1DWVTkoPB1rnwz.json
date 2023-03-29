@@ -1965,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Perpetual Care",
+        "url": "https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY"
+      },
+      "artists": [
+        {
+          "name": "Early Fern",
+          "url": "https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297659,
+      "name": "Gale Still Blowing",
+      "url": "https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe"
+    },
+    {
+      "album": {
         "name": "Glass Ripples",
         "url": "https://open.spotify.com/album/0RkuycEp2BX9cmfoWQHrxT"
       },
@@ -2256,7 +2274,7 @@
           "url": "https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 115277,
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 173993,
       "name": "Shuswap Lake",
       "url": "https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW"

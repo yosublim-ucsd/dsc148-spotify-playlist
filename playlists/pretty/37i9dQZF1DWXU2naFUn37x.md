@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano, con 50 Tony in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,287 likes - 48 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,352 likes - 48 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 39 | [Fumo Con Lei](https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Fumo Con Lei](https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe) | 2:14 |
 | 40 | [AMMÒ \(feat\. Mikush\)](https://open.spotify.com/track/3XlqB2sJGExXgkA0RSRy1R) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 2:33 |
 | 41 | [Impliqué](https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Impliqué](https://open.spotify.com/album/5fgtL0uuUrVb3bdI6UIKhC) | 2:28 |
-| 42 | [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 |
+| 42 | [Viral](https://open.spotify.com/track/3Nww47FJ3MiIdpHCMarCBU) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/5OkP2IKTap8fIUptFcFbNN) | 2:27 |
 | 43 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
 | 44 | [C'EST PAS FACIL](https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:21 |
 | 45 | [Bandit](https://open.spotify.com/track/0U9hvXudneGTIO3WtpVoh0) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [Bandit](https://open.spotify.com/album/2gzqXgZ8Qdzyb0H7VvXmc9) | 2:54 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 47 | [Minaccia](https://open.spotify.com/track/0RbhNJIb0vOtLbFlcBN3lx) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Minaccia](https://open.spotify.com/album/0jBPzPKM05G6OyULtiaq9p) | 2:41 |
 | 48 | [DRIN DRIN \(feat\. Slings\)](https://open.spotify.com/track/1h5ydKuWLZXRCdM8fHw1Ys) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 2:31 |
 
-Snapshot ID: `MTY3OTkwNjg3MiwwMDAwMDAwMDRlMGRhYjZmYWEzZDM1ZDFkMjhlYzVkOTY5N2U3MmYz`
+Snapshot ID: `MTY3OTkwNjg3MiwwMDAwMDAwMDNjNjliODg5YjAwNjRiM2Q2YzIyODM5NWYwYjE4NDQw`

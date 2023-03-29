@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Wilder Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,926 likes - 150 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,004 likes - 150 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 7 | [Go Down River \- Acoustic](https://open.spotify.com/track/590F0BQiTf0aTBidW4DyOn) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life And Life Only \(Expanded Edition\)](https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go) | 3:49 |
 | 8 | [We Used to Live Here](https://open.spotify.com/track/2YCR9u0VSDsAx9D6ItUMbu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [We Used to Live Here](https://open.spotify.com/album/0bxl4npQ89JSAmWyBg20ps) | 2:44 |
 | 9 | [Tennessee Song](https://open.spotify.com/track/33N8V8a7OBahMlZiyom0Ch) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Tennessee Song](https://open.spotify.com/album/3OYK1NgVMvNmYRdl9Tktb3) | 2:02 |
-| 10 | [Slow Motion](https://open.spotify.com/track/5OhrxjeiqLfFrsTWOSqw4m) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/4CfWX1bSC3U19c8J1gTuyj) | 2:57 |
+| 10 | [Slow Motion](https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/1CoSmqgRXyhy5vvI5hrDld) | 2:57 |
 | 11 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 12 | [Path of Least Resistance](https://open.spotify.com/track/54nZbMoe196usom085LA0X) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Path of Least Resistance](https://open.spotify.com/album/6JXDyA1oQ7KETUndJDu6f2) | 2:50 |
 | 13 | [The Best Part](https://open.spotify.com/track/426Ts4w4vCFNW01udSShf9) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:29 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 77 | [Blue Sky Moon](https://open.spotify.com/track/3111xRtNBbWexzWjCYZQp2) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Blue Sky Moon](https://open.spotify.com/album/1Un7VebKIR6iEcFnvS2Rky) | 4:20 |
 | 78 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 |
 | 79 | [Full Me, Half You](https://open.spotify.com/track/5oamUk3P75ug587GN7LtMT) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Full Me, Half You](https://open.spotify.com/album/2Q1vC3yJG7Xg6QdtDCQfvs) | 3:44 |
-| 80 | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/track/39YmS0tsTXHloxBgU3sYf9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/album/06tHRR1xXpauOmo47S1DTL) | 2:36 |
+| 80 | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm) | 2:36 |
 | 81 | [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 |
 | 82 | [Who's Gonna Love You Now?](https://open.spotify.com/track/1RNi19cKwk2G5V9fy9676K) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Time Can Prove You Wrong EP](https://open.spotify.com/album/5FHhqubbDtgRAtkXGNQJ6n) | 3:17 |
 | 83 | [Fairweather](https://open.spotify.com/track/4CmA0F2I25DcHz47mXArag) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Fairweather](https://open.spotify.com/album/35Sw5Z7oVOdfn4Id3dqjtk) | 4:34 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [End Scene](https://open.spotify.com/track/6unRqbvDOqlZMYIb0b2W4R) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [End Scene](https://open.spotify.com/album/41dMiuSKeuRHW6tDBEEb0g) | 6:30 |
 | 150 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDE2NTNkNTQyZWEyNWExMWI0ODY2NjZlNWJmYTg2YmY2`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDYyNGRkOTY2YTM1YjQxYmZjODk2NDI5NTRhZTdjOTMz`

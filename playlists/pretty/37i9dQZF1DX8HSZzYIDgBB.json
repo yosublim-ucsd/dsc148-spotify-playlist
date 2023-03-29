@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 29701,
+  "num_followers": 29721,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY4NzAxMywwMDAwMDAwMDYzZTQ4NjNiMWU0MmQzYjg0MDNmMmJjYmFiZTVkNDlj",
+  "snapshot_id": "MTY3OTk4MTkxNSwwMDAwMDAwMDUwMzAwNTQ5NjIwZDdlMmQyMmE5NzJmNWZmMzM2MWIw",
   "tracks": [
     {
       "added_at": "2022-09-16 04:50:01",
@@ -45,24 +45,20 @@
       "url": "https://open.spotify.com/track/0x3QAwL1fJFlB7qY65bSv1"
     },
     {
-      "added_at": "2022-04-22 18:06:01",
+      "added_at": "2023-03-28 05:38:35",
       "album": {
-        "name": "Tinta y Tiempo",
-        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+        "name": "Strange Salsa",
+        "url": "https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
         }
       ],
-      "duration_ms": 184475,
-      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
-      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+      "duration_ms": 216053,
+      "name": "Moody Cumbia",
+      "url": "https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9"
     },
     {
       "added_at": "2023-03-16 23:12:57",
@@ -217,6 +213,26 @@
       "url": "https://open.spotify.com/track/5VbRwZScBAxgrLoQ84ss8I"
     },
     {
+      "added_at": "2022-04-22 18:06:01",
+      "album": {
+        "name": "Tinta y Tiempo",
+        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 184475,
+      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
+      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+    },
+    {
       "added_at": "2022-03-19 05:58:48",
       "album": {
         "name": "Otun",
@@ -235,26 +251,6 @@
       "duration_ms": 263225,
       "name": "Solo Quiero (feat. Pedrina)",
       "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
-    },
-    {
-      "added_at": "2022-09-16 04:52:29",
-      "album": {
-        "name": "traguito",
-        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "traguito",
-      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
     },
     {
       "added_at": "2023-03-16 23:10:07",
@@ -441,22 +437,6 @@
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
-      "added_at": "2022-02-15 01:38:18",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
-      },
-      "artists": [
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        }
-      ],
-      "duration_ms": 145746,
-      "name": "Oiseau Sauvage",
-      "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "La Cura",
@@ -475,6 +455,22 @@
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
+      "added_at": "2022-02-15 01:38:18",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
+      },
+      "artists": [
+        {
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        }
+      ],
+      "duration_ms": 145746,
+      "name": "Oiseau Sauvage",
+      "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
     },
     {
       "added_at": "2022-07-13 15:48:37",
@@ -1041,22 +1037,6 @@
       "url": "https://open.spotify.com/track/74F3bv0liKu2QN8MjqqDP9"
     },
     {
-      "added_at": "2021-11-10 05:48:01",
-      "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "La Noche",
@@ -1079,6 +1059,22 @@
       "duration_ms": 240000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
+    },
+    {
+      "added_at": "2021-11-10 05:48:01",
+      "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2022-08-31 04:48:40",
@@ -1547,6 +1543,26 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "Corazon en Asteroides",
+        "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
+      },
+      "artists": [
+        {
+          "name": "Aliage",
+          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
+        },
+        {
+          "name": "Victoria Reed",
+          "url": "https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG"
+        }
+      ],
+      "duration_ms": 238421,
+      "name": "Corazon en Asteroides",
+      "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "El Vacile Del T\u00edo",
         "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
       },
@@ -1575,26 +1591,6 @@
       "duration_ms": 215347,
       "name": "Contenta",
       "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Corazon en Asteroides",
-        "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
-      },
-      "artists": [
-        {
-          "name": "Aliage",
-          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
-        },
-        {
-          "name": "Victoria Reed",
-          "url": "https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG"
-        }
-      ],
-      "duration_ms": 238421,
-      "name": "Corazon en Asteroides",
-      "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
     },
     {
       "added_at": "2022-01-21 16:05:39",
@@ -1665,22 +1661,6 @@
       "url": "https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V"
     },
     {
-      "added_at": "2023-01-04 01:42:46",
-      "album": {
-        "name": "12:21",
-        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
-      },
-      "artists": [
-        {
-          "name": "Cruz Del Monte",
-          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
-        }
-      ],
-      "duration_ms": 213344,
-      "name": "12:21",
-      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
-    },
-    {
       "added_at": "2022-09-15 12:46:11",
       "album": {
         "name": "Joyas",
@@ -1695,6 +1675,22 @@
       "duration_ms": 172402,
       "name": "Joyas",
       "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
+    },
+    {
+      "added_at": "2023-01-04 01:42:46",
+      "album": {
+        "name": "12:21",
+        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
+      },
+      "artists": [
+        {
+          "name": "Cruz Del Monte",
+          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
+        }
+      ],
+      "duration_ms": 213344,
+      "name": "12:21",
+      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
     },
     {
       "added_at": "2022-07-15 04:48:04",
@@ -1733,22 +1729,6 @@
       "url": "https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Temporada de Pesca",
-        "url": "https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O"
-      },
-      "artists": [
-        {
-          "name": "Martin Guerra",
-          "url": "https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Sal de Maras",
-      "url": "https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb"
-    },
-    {
       "added_at": "2022-09-26 21:49:32",
       "album": {
         "name": "Que Me Hablen de Amor",
@@ -1767,6 +1747,22 @@
       "duration_ms": 194023,
       "name": "Caja de Cart\u00f3n",
       "url": "https://open.spotify.com/track/7L8eWw2OnPjtxRKmfGcDyu"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Temporada de Pesca",
+        "url": "https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O"
+      },
+      "artists": [
+        {
+          "name": "Martin Guerra",
+          "url": "https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Sal de Maras",
+      "url": "https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb"
     },
     {
       "added_at": "2021-10-05 16:26:53",

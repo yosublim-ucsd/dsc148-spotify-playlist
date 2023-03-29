@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-412 songs - 23 hr 30 min
+413 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Espiral](https://open.spotify.com/track/5g7JXDfVlF0uRUS1GEXRCD) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t), [Sofía Di Marco](https://open.spotify.com/artist/0mNJtxdQXXx6TphJwbRFwU) | [Espiral](https://open.spotify.com/album/4uUtn703QxFMR18qagkieq) | 4:05 | 2022-04-01 | 2022-04-19 |
 | [Espérame \(feat\. Elastic Bond\)](https://open.spotify.com/track/0iMhQB3iXc3I4Ef1261lrr) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Elastic Bond](https://open.spotify.com/artist/16L3eTvVPpYYsgCK6TZlWq) | [El Paradise](https://open.spotify.com/album/1Mu2ASzYyaoygPrhFH6xME) | 4:15 | 2022-07-15 |  |
 | [Espérame Feat\. Elastic Bond](https://open.spotify.com/track/6tf0bXVfaNy60dE3Yn4Q8o) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Elastic Bond](https://open.spotify.com/artist/16L3eTvVPpYYsgCK6TZlWq) | [El Paradise](https://open.spotify.com/album/6L3P7MRX3tCyxDI4s6aCoj) | 4:15 | 2022-01-07 | 2022-07-29 |
-| [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 | 2022-07-15 |  |
+| [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 | 2022-07-15 | 2023-03-29 |
 | [Estar Bien](https://open.spotify.com/track/3MDp8AskpkUp8BVXMxmknR) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Expuesta](https://open.spotify.com/album/0JldJwdXISVEzlUH8POoxa) | 3:24 | 2022-01-07 | 2022-07-22 |
 | [Estar Contigo](https://open.spotify.com/track/6OERSk1zc6d521QHkjEQAq) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Estar Contigo](https://open.spotify.com/album/7M9GURV8DU9DXCCOhtmOUA) | 3:44 | 2022-01-28 | 2022-07-17 |
 | [Está Bien](https://open.spotify.com/track/388HyajufVPnaKiGjyuLz1) | [Cocó](https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Está Bien](https://open.spotify.com/album/1v9PDOgvnytliDvCcsNmaA) | 3:58 | 2022-01-07 | 2022-07-28 |
@@ -222,6 +222,7 @@
 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 | 2022-05-09 |  |
 | [Lo que necesitas es amor](https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Lo que necesitas es amor](https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe) | 5:03 | 2022-01-07 | 2023-03-03 |
 | [Lo Que Quieras](https://open.spotify.com/track/33mcpZMTT27FkyjnJ848Dz) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Todo Lo Sólido Se Desvanece en el Aire](https://open.spotify.com/album/1LGH4NHBhLBQtFL6Ouqicf) | 4:29 | 2022-01-07 | 2022-07-16 |
+| [Lo Que Quieras](https://open.spotify.com/track/3eeVnrODL1rVq94TQaYK8p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Todo Lo Sólido Se Desvanece en el Aire](https://open.spotify.com/album/3wLGZ4KdmOcXmWNHpuRo0t) | 4:29 | 2023-03-03 |  |
 | [Lo Que Siento](https://open.spotify.com/track/47mhQpxuG4lA6ah7hqDvVe) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Lo Que Siento](https://open.spotify.com/album/1y8ohzuv7bF94pXkIkAfBT) | 4:30 | 2022-01-28 | 2022-07-20 |
 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [Lo Quiero Ya](https://open.spotify.com/track/43srqItOQC7eURQ2Re0HKt) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Lo Quiero Ya](https://open.spotify.com/album/15rgy51NaYmffcxPkPumS4) | 1:56 | 2022-07-15 | 2022-07-20 |

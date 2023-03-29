@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-177 songs - 11 hr 54 min
+179 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [AS Too Wrong](https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq) | 4:14 | 2020-10-20 |  |
 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 | 2022-11-17 |  |
 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 | 2022-08-16 |  |
+| [Balloon](https://open.spotify.com/track/52rmKsylzbi9agOdkggmJ0) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [Balloon](https://open.spotify.com/album/5QoQqIxomkNMTVCSgHzS41) | 5:27 | 2023-03-29 |  |
 | [Barongan III](https://open.spotify.com/track/6btmo0iGDjMcYj4zHTvMvn) | [Raja Kirik](https://open.spotify.com/artist/22j4DsKGQEcOie7PvfQIVj) | [Rampokan](https://open.spotify.com/album/0JtcEEPTPv9JujTZtJYvZ1) | 3:35 | 2022-02-18 |  |
 | [Bets Off](https://open.spotify.com/track/14likWYaCVRw5fUDyKMR2g) | [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi) | [Bets Off](https://open.spotify.com/album/2RrYNlBx8UCYp31U7NgFi8) | 4:16 | 2020-10-20 | 2022-07-29 |
 | [Bets Off](https://open.spotify.com/track/3grduFleX4OkOqlqchI0Kp) | [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi) | [Constant Touch](https://open.spotify.com/album/5gKZjibxq7ZMjXnFiT73YL) | 4:16 | 2020-10-20 | 2022-11-13 |
@@ -58,8 +59,8 @@
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-23 |  |
 | [Exit to Enter](https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp) | [The Lazy Jesus](https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h) | [Original Fighter](https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo) | 2:58 | 2020-10-20 |  |
 | [Fear is your Only God](https://open.spotify.com/track/0uHZlstP3u3R2lA3WBjXqr) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/33yHeuUDSnnCpuc7Af2eR1) | 4:26 | 2021-06-23 | 2022-07-29 |
-| [Fear is your Only God](https://open.spotify.com/track/5E4PTNUV7RPpIZCEOM1lD2) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/3sNxVmpdyxEuvoPkLdtKNR) | 4:26 | 2021-06-23 |  |
-| [Fimmine Fimmine](https://open.spotify.com/track/3PAxNbb4NnIJBnrH5QnFol) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/5wuZ3RGLtu6LimxV4kU1Tc) | 4:39 | 2022-09-21 |  |
+| [Fear is your Only God](https://open.spotify.com/track/5E4PTNUV7RPpIZCEOM1lD2) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/3sNxVmpdyxEuvoPkLdtKNR) | 4:26 | 2021-06-23 | 2023-03-29 |
+| [Fimmine Fimmine](https://open.spotify.com/track/3PAxNbb4NnIJBnrH5QnFol) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/5wuZ3RGLtu6LimxV4kU1Tc) | 4:39 | 2022-09-21 | 2023-03-29 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7ANEW2g8PEhk3pLP2UxPVT) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/35LHiySmiksIVj8dex7Xg7) | 4:39 | 2022-09-21 | 2022-11-09 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7xqIXSb4H99NLZbZ15Uoac) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Fimmine Fimmine](https://open.spotify.com/album/3Zg8UYhztCXajLc8D6zMTM) | 4:39 | 2022-09-21 | 2022-11-13 |
 | [Good Grounds](https://open.spotify.com/track/6PWkv2o1eN0zwCjv84RgtL) | [Fallwander](https://open.spotify.com/artist/2WcqiTkQbwFH3hHZ0Xrfl9) | [Good Grounds](https://open.spotify.com/album/4NnMcBS50RFGzf2Fe49qvO) | 5:05 | 2023-01-07 |  |
@@ -113,6 +114,7 @@
 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 | 2022-09-07 |  |
 | [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 | 2021-06-23 |  |
 | [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 | 2020-10-20 | 2023-03-03 |
+| [Penance](https://open.spotify.com/track/5KhXlSbrNF3MgP4SkzgDL7) | [Cruel Diagonals](https://open.spotify.com/artist/0C7jgMYmKXPmy5bHH5ebEN) | [Fractured Whole](https://open.spotify.com/album/4LLeRNBrcuwxj6QrhMmQ0K) | 5:22 | 2023-03-28 |  |
 | [Pillar](https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg) | 9:45 | 2020-10-20 |  |
 | [Pillar](https://open.spotify.com/track/6vloZ2bNS9EnmOBTu3xksl) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2Ij95MZMwYFLiGUI0xhIZS) | 9:45 | 2020-10-20 | 2023-02-02 |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2020-10-20 | 2023-03-04 |

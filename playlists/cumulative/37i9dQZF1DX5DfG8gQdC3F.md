@@ -4,7 +4,7 @@
 
 > New music from Ed Sheeran, Luke Combs, Lana Del Rey, and grandson.
 
-6,354 songs - 14 day 3 hr 3 min
+6,355 songs - 14 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4981,7 +4981,8 @@
 | [Slow It Down](https://open.spotify.com/track/1R909Gf405m19epYccFWtv) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Slow It Down](https://open.spotify.com/album/3Xi9NZlmPHzgMwGnkBlZGD) | 3:04 | 2022-08-19 | 2022-08-27 |
 | [Slow Jam](https://open.spotify.com/track/72askOGbEdBluTvJi6iSUm) | [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf), [Kaleb Mitchell](https://open.spotify.com/artist/4gnlgU9q35TxIXueKnZUYu) | [Slow Jam](https://open.spotify.com/album/1ZS8KT6YfDGumvzLBs7pEo) | 2:44 | 2022-12-16 | 2022-12-24 |
 | [Slow Motion](https://open.spotify.com/track/2z0FdOJ757ehCVORtbmMBk) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Slow Motion / Hit The Lights](https://open.spotify.com/album/1Y4MQpcyo8Ne9oqxoQQdjs) | 3:32 | 2022-08-12 | 2022-08-20 |
-| [Slow Motion](https://open.spotify.com/track/5OhrxjeiqLfFrsTWOSqw4m) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/4CfWX1bSC3U19c8J1gTuyj) | 2:57 | 2023-03-24 |  |
+| [Slow Motion](https://open.spotify.com/track/5OhrxjeiqLfFrsTWOSqw4m) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/4CfWX1bSC3U19c8J1gTuyj) | 2:57 | 2023-03-24 | 2023-03-29 |
+| [Slow Motion](https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/1CoSmqgRXyhy5vvI5hrDld) | 2:57 | 2023-03-24 |  |
 | [Slow Motion Fighting](https://open.spotify.com/track/11XzqusNjPjPdXkSWftcxW) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Slow Motion Fighting](https://open.spotify.com/album/7n5nAFG2XR2aHVdERmC9o0) | 3:51 | 2022-03-11 | 2022-03-18 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2022-02-18 | 2022-02-26 |
 | [Slowly](https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:48 | 2022-10-14 | 2022-10-22 |

@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> se liga rapagão dá meu copázio q hj eu vo bja umas bocarra
+> a rihanna sempre avisou a gente!!!!!
 
 244 songs - 11 hr 10 min
 

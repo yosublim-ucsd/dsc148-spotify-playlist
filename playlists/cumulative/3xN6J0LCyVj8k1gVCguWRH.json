@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 134000,
       "name": "3 A.M.",
       "url": "https://open.spotify.com/track/7vQZbPXD07Kpx6XshIIoLE"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 323210,
       "name": "A Place To Lie",
       "url": "https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R"
@@ -8650,7 +8650,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 214666,
       "name": "Darte Saoco",
       "url": "https://open.spotify.com/track/046Fp2row608s8J408CLA8"
@@ -15386,7 +15386,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 118740,
       "name": "hell yeah",
       "url": "https://open.spotify.com/track/0a1pB2ITeJeUTLvFWsyx41"
@@ -17124,7 +17124,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 261493,
       "name": "I'll Be Alright",
       "url": "https://open.spotify.com/track/0MRBYBBy6M9NcHH4FUsdRs"
@@ -18372,7 +18372,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 382439,
       "name": "It's Not Right",
       "url": "https://open.spotify.com/track/6oDEXNX9cK9WBJ9vyVMLcT"
@@ -23448,7 +23448,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 167640,
       "name": "Moon Beam",
       "url": "https://open.spotify.com/track/1Y8hldXGLDNcJRxQBC9m3g"
@@ -23549,6 +23549,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5MpUVdZvyk9zUgd2rqEiuz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Blake Salazar",
+          "url": "https://open.spotify.com/artist/2GNRRGxCWqkjAadPQ57QuU"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192003,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0aMTAop3aUtZDVXXAvzpko"
+    },
+    {
+      "album": {
         "name": "More of the Same",
         "url": "https://open.spotify.com/album/5QVFD34CrJHv6e6THdiBid"
       },
@@ -23596,7 +23614,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 173179,
       "name": "More Than Lovers",
       "url": "https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW"
@@ -24874,7 +24892,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 234827,
       "name": "Newman Beauty",
       "url": "https://open.spotify.com/track/7tQAC4CnE1j3MfcfvtBpdg"
@@ -27398,7 +27416,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 208186,
       "name": "Pinning Paradise",
       "url": "https://open.spotify.com/track/3pFEYozjLoEJiuxe5xyr7q"
@@ -28024,7 +28042,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 250833,
       "name": "Que Sali\u00f3 Mal",
       "url": "https://open.spotify.com/track/05JhV6sqXWsRw670kjZZ7j"
@@ -28118,6 +28136,24 @@
       "duration_ms": 124484,
       "name": "Quien Eres",
       "url": "https://open.spotify.com/track/4SOhaYjo8hyhTx5UTSk19s"
+    },
+    {
+      "album": {
+        "name": "Ar\u00e9 Lo Que Pude",
+        "url": "https://open.spotify.com/album/6rhoyLU1tZR4BnAlMQppsO"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn de Alicia",
+          "url": "https://open.spotify.com/artist/020DzJBnq8dApSJtT3xQsj"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Quiniela",
+      "url": "https://open.spotify.com/track/1c37TNRJERzT5zZQEjLnjh"
     },
     {
       "album": {
@@ -30982,7 +31018,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 165378,
       "name": "SIMPLE.",
       "url": "https://open.spotify.com/track/4FZcbtaK1im7dwwFXtiueL"
@@ -35400,7 +35436,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 232500,
       "name": "Tight Dress",
       "url": "https://open.spotify.com/track/0JoeGZ7DTdEIqc0HXDIIE9"
@@ -35418,7 +35454,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 176848,
       "name": "Till Death Do Us Part",
       "url": "https://open.spotify.com/track/2CNvda3yzlwNuYnUtru0Lt"

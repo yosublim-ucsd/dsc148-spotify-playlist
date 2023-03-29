@@ -4,7 +4,7 @@
 
 > un cuore così 💔  \(in cover, solø\)
 
-201 songs - 9 hr 4 min
+202 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 | 2022-04-21 |  |
 | [Credimi ancora](https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ) | [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza), [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax) | [Credimi ancora](https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB) | 3:35 | 2022-09-22 |  |
 | [D\(Emo\)](https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD) | [nothx.](https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX) | [D\(Emo\)](https://open.spotify.com/album/0uvZyTWqNWArdU6dEaUsk5) | 3:06 | 2022-05-13 | 2022-08-13 |
-| [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 | 2022-04-21 | 2023-03-25 |
+| [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 | 2022-04-21 |  |
 | [Demoni](https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Demoni](https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7) | 2:53 | 2022-06-02 | 2023-03-25 |
 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 | 2022-04-21 |  |
 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglianone](https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 | 2022-04-21 |  |
@@ -114,7 +114,8 @@
 | [Mille Volte \(feat\. CoCo\)](https://open.spotify.com/track/2DgvnFBzzMjS2GVLAJKS69) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Mille Volte \(feat\. CoCo\)](https://open.spotify.com/album/0dL3GcOmJPvT6OYZNWA44M) | 3:00 | 2022-10-06 | 2022-12-09 |
 | [minuti che vivi](https://open.spotify.com/track/25QQoIufdkPTyY5ruvdaZy) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [minuti che vivi](https://open.spotify.com/album/2Nj03riqaVvEDDTN6peIqm) | 2:41 | 2022-04-21 | 2022-08-13 |
 | [Miss Guid](https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DIE](https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D) | 2:29 | 2022-04-21 |  |
-| [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 | 2022-09-29 |  |
+| [molecole \(interlude\)](https://open.spotify.com/track/0tmPvw4tjjtUEKZ9GOKjHH) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:05 | 2023-03-23 |  |
+| [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 | 2022-09-29 | 2023-03-29 |
 | [No Gang](https://open.spotify.com/track/623cfQ9zSGXfFrSMVeQuJq) | [CASEMURATE](https://open.spotify.com/artist/0XW9hp8oaDssenWWFn75NM), [Carati](https://open.spotify.com/artist/5axMNLVsaKFpGeViCOqsw4) | [No Gang](https://open.spotify.com/album/5Uny5coi7UWX8gYF5bf869) | 2:24 | 2022-09-22 | 2023-03-25 |
 | [Non farà mai bel tempo](https://open.spotify.com/track/5hu7aQTDApWCo6KsPvV4q1) | [Male](https://open.spotify.com/artist/5aq75Phv7uG3Rhi24AMf6X) | [Non farà mai bel tempo](https://open.spotify.com/album/3br9x8ibyBECsOQRcDEjmJ) | 2:37 | 2023-02-23 | 2023-03-25 |
 | [Non farà mai bel tempo](https://open.spotify.com/track/5pWYWGu1JPZ3eR4HZ4LLy9) | [Male](https://open.spotify.com/artist/5aq75Phv7uG3Rhi24AMf6X) | [Non farà mai bel tempo](https://open.spotify.com/album/3LeOUccVRyzs5oB5vM60lI) | 2:37 | 2022-04-21 | 2023-02-25 |
@@ -162,7 +163,7 @@
 | [sai che...](https://open.spotify.com/track/1SIyOWhf9qKSWKqPhH1eDd) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/5bPdHI6oH0MCokMEYsYtsD) | 2:40 | 2022-04-21 | 2023-02-25 |
 | [sai che...](https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b) | 2:40 | 2023-02-23 | 2023-03-25 |
 | [Scusa ma](https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Scusa ma](https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY) | 1:41 | 2022-04-21 |  |
-| [Segnali di fumo](https://open.spotify.com/track/0jiy4Q3fQCkAvVPAFGpylh) | [alessioego](https://open.spotify.com/artist/2rFgWypbBE4LzXAGKDwNb6) | [Segnali di fumo](https://open.spotify.com/album/4fmwfuMhCQHB2GUcGkivn1) | 3:06 | 2023-01-12 |  |
+| [Segnali di fumo](https://open.spotify.com/track/0jiy4Q3fQCkAvVPAFGpylh) | [alessioego](https://open.spotify.com/artist/2rFgWypbBE4LzXAGKDwNb6) | [Segnali di fumo](https://open.spotify.com/album/4fmwfuMhCQHB2GUcGkivn1) | 3:06 | 2023-01-12 | 2023-03-29 |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 | 2022-04-21 | 2023-02-25 |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Testa e cuore](https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ) | 3:04 | 2023-02-23 |  |
 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 | 2022-07-14 |  |

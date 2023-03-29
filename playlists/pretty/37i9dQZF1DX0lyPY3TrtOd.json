@@ -1,12 +1,12 @@
 {
   "description": "Extatische gevoelens met prachtige muziek",
-  "num_followers": 28680,
+  "num_followers": 28681,
   "original_name": "EXTASE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDJhNzQzNThiOTU4YzJhMWY0OWRkNWEyOGQ5NWRmOGFh",
+  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDNmZDQyM2RkMmQzNzE2NmVkZWFlNTEzNzczYzczYjgx",
   "tracks": [
     {
       "added_at": "2023-03-09 23:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 212069,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Must Be Nice",
         "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 187347,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/6GifVz1gA0lKGDAlez5iyP"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 212069,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Easy Going",
-        "url": "https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi"
-      },
-      "artists": [
-        {
-          "name": "Mood Bored",
-          "url": "https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu"
-        }
-      ],
-      "duration_ms": 148853,
-      "name": "Easy Going",
-      "url": "https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Look Alive",
         "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 243000,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Easy Going",
+        "url": "https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi"
+      },
+      "artists": [
+        {
+          "name": "Mood Bored",
+          "url": "https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "Easy Going",
+      "url": "https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Sad Lonely Groove",
+        "url": "https://open.spotify.com/album/2bIg0JjNVir6ldrYyGuqaU"
+      },
+      "artists": [
+        {
+          "name": "Mazey Haze",
+          "url": "https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL"
+        }
+      ],
+      "duration_ms": 238958,
+      "name": "Sad Lonely Groove",
+      "url": "https://open.spotify.com/track/49SudSFHwgnwMprTAYqa0p"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Linger On (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 255422,
       "name": "Linger On - Roosevelt Remix Edit",
       "url": "https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Sad Lonely Groove",
-        "url": "https://open.spotify.com/album/2bIg0JjNVir6ldrYyGuqaU"
-      },
-      "artists": [
-        {
-          "name": "Mazey Haze",
-          "url": "https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL"
-        }
-      ],
-      "duration_ms": 238958,
-      "name": "Sad Lonely Groove",
-      "url": "https://open.spotify.com/track/49SudSFHwgnwMprTAYqa0p"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Electric Connect",
-        "url": "https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d"
-      },
-      "artists": [
-        {
-          "name": "Milo Clare",
-          "url": "https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Electric Connect",
-      "url": "https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "it's a setup",
         "url": "https://open.spotify.com/album/3JJx2oLUYfOmAk1OjJsXl5"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 236103,
       "name": "it's a setup",
       "url": "https://open.spotify.com/track/7ofHL446H6rlUaalD0aFpT"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Electric Connect",
+        "url": "https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d"
+      },
+      "artists": [
+        {
+          "name": "Milo Clare",
+          "url": "https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Electric Connect",
+      "url": "https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Future Monuments",
-        "url": "https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe"
-      },
-      "artists": [
-        {
-          "name": "Iguana Death Cult",
-          "url": "https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "Future Monuments",
-      "url": "https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 188453,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Future Monuments",
+        "url": "https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe"
+      },
+      "artists": [
+        {
+          "name": "Iguana Death Cult",
+          "url": "https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "Future Monuments",
+      "url": "https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Shut Up and Show Me",
-        "url": "https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL"
+        "name": "Keep It Together",
+        "url": "https://open.spotify.com/album/4KDaXA0zbILlJO62i07plQ"
       },
       "artists": [
         {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+          "name": "Pip Blom",
+          "url": "https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr"
         }
       ],
-      "duration_ms": 210773,
-      "name": "Shut Up and Show Me",
-      "url": "https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g"
+      "duration_ms": 196338,
+      "name": "Keep It Together",
+      "url": "https://open.spotify.com/track/3kyL3FdLJvCIS9HIf1pPHj"
     }
   ],
   "unique_name": "EXTASE",

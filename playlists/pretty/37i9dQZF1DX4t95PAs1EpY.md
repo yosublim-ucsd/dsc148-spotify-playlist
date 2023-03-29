@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,018 likes - 252 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,175 likes - 252 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 38 | [Smoove Sauce](https://open.spotify.com/track/10Y3WT9e8WiTePo3dziWKX) | [Auto Smile](https://open.spotify.com/artist/3hcGTiuDVvU1UZiHECDyQP) | [Smoove Sauce](https://open.spotify.com/album/0k9aMdxtQeEuqvqv9ocOUX) | 2:49 |
 | 39 | [early bird](https://open.spotify.com/track/78NgFAN79blAzHQkDAVC8K) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [early bird](https://open.spotify.com/album/0j1TOhsa00KZP3fOafbiwR) | 2:19 |
 | 40 | [The Time I Looked into the Sun](https://open.spotify.com/track/01AWFRAE691sMg8QwiZIPO) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [The Time I Looked into the Sun](https://open.spotify.com/album/27SWCLPFYAmuaUH5aNRKEz) | 3:25 |
-| 41 | [Nostalgic Nites](https://open.spotify.com/track/4lPkVjs0htygD9B2XpWfoN) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj) | [Nostalgic Nites](https://open.spotify.com/album/6Uw7UIoOaYZ5wfr5VF72WP) | 2:03 |
+| 41 | [Nostalgic Nites](https://open.spotify.com/track/4lPkVjs0htygD9B2XpWfoN) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Nostalgic Nites](https://open.spotify.com/album/6Uw7UIoOaYZ5wfr5VF72WP) | 2:03 |
 | 42 | [Molta Barba](https://open.spotify.com/track/5V1mAla9CXPPqZz3W0ztZD) | [Baffi Scuri](https://open.spotify.com/artist/4bYUWS9mPWQePsVnNiAfAm) | [Molta Barba](https://open.spotify.com/album/1AHbZfUQ9HqCAWdvQ7FfCs) | 2:08 |
 | 43 | [Daydream](https://open.spotify.com/track/1KlHmKF2WqIjWvQ1anYvHh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Daydream](https://open.spotify.com/album/0uK4M0UW7k1CgDDJw9SDW4) | 2:38 |
 | 44 | [first 6 hours](https://open.spotify.com/track/7Kws9dCwpYnypN3Uv2Vq19) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [first 6 hours](https://open.spotify.com/album/5iCQSYf8iGVrFxqsqVM0ZG) | 2:31 |

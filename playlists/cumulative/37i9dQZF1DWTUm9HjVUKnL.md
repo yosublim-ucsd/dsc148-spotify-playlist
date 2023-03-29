@@ -4,7 +4,7 @@
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-1,023 songs - 2 day 14 hr 36 min
+1,025 songs - 2 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,8 @@
 | [I\-89 \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 3:00 | 2022-01-19 |  |
 | [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 | 2022-01-19 |  |
 | [If You Can See Me](https://open.spotify.com/track/3xfFwQwyQ38saSML8zEuli) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Spotify Singles](https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF) | 2:46 | 2022-01-19 |  |
-| [If You're Here \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3KkmASidTvTv73fI3LPqLh) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Spotify Singles](https://open.spotify.com/album/5DqAR5V10hgBupy2yesNzW) | 6:10 | 2022-01-19 |  |
+| [If You're Here \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/63rMeLMBGkA5Sb676FuFz5) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ripple Waves](https://open.spotify.com/album/1N5bqHytFgwnEgpCSECdn7) | 6:08 | 2023-03-15 |  |
+| [If You're Here \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3KkmASidTvTv73fI3LPqLh) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Spotify Singles](https://open.spotify.com/album/5DqAR5V10hgBupy2yesNzW) | 6:10 | 2022-01-19 | 2023-03-29 |
 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 | 2022-01-31 |  |
 | [Imitadora \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:34 | 2022-01-19 |  |
 | [Imperfections \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/30sJOexZR7YGqi6094juOC) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 2:55 | 2022-01-19 |  |
@@ -706,7 +707,8 @@
 | [Paradise \- Recorded At AIR Studios, London](https://open.spotify.com/track/5U6TeutSXImqdLwC1WrdfV) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 4:51 | 2022-01-19 |  |
 | [Partner In Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 | 2022-07-20 |  |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 | 2022-01-19 |  |
-| [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ZEwtauaLu1s6LlCSpo04U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Spotify Singles](https://open.spotify.com/album/5DqAR5V10hgBupy2yesNzW) | 4:26 | 2022-01-19 |  |
+| [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ZEwtauaLu1s6LlCSpo04U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Spotify Singles](https://open.spotify.com/album/5DqAR5V10hgBupy2yesNzW) | 4:26 | 2022-01-19 | 2023-03-29 |
+| [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7It4zopBMUEaJ9F24CF3tG) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ripple Waves](https://open.spotify.com/album/1N5bqHytFgwnEgpCSECdn7) | 4:27 | 2023-03-15 |  |
 | [people pleaser \- Spotify Singles](https://open.spotify.com/track/4pt2q4CYb9gRJq48mQ7HIE) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:27 | 2022-10-26 |  |
 | [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 | 2022-01-19 |  |
 | [Perfume \- Spotify Singles](https://open.spotify.com/track/2AXtrCg3aZaAKrL6ln5JmY) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 4:35 | 2022-03-24 |  |

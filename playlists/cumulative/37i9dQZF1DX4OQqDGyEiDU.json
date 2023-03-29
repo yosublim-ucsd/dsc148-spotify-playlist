@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 140527,
       "name": "MACHINEGUN POEM DOLL",
       "url": "https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid"
@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Mikansei egoizumu",
+        "url": "https://open.spotify.com/album/3q3ClObPLKRhC0xaH8sxqd"
+      },
+      "artists": [
+        {
+          "name": "Yukino ito",
+          "url": "https://open.spotify.com/artist/6AVpVZNEeBihxUCWVPdMnu"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Mikansei egoizumu",
+      "url": "https://open.spotify.com/track/18CPQqeQvpwvzgfurOwEbR"
+    },
+    {
+      "album": {
         "name": "Miku",
         "url": "https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p"
       },
@@ -1554,6 +1572,24 @@
       "duration_ms": 259230,
       "name": "Mind brand",
       "url": "https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB"
+    },
+    {
+      "album": {
+        "name": "Monmon_Fanmoran",
+        "url": "https://open.spotify.com/album/7hJH9h4ibJ7Q4MyVnhDeQA"
+      },
+      "artists": [
+        {
+          "name": "mochiutsune",
+          "url": "https://open.spotify.com/artist/2OBVcvCW9d2vT13kVvHYwM"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Monmon_Fanmoran",
+      "url": "https://open.spotify.com/track/3nJT0Q2IVWOjTTanvyC0Td"
     },
     {
       "album": {
@@ -2050,7 +2086,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 222226,
       "name": "Shinkaisyouzyo -deep sea girl-",
       "url": "https://open.spotify.com/track/3lVvyDll0zmUqtMncLuCKP"
@@ -3684,7 +3720,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 222954,
       "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
       "url": "https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU"
@@ -5610,7 +5646,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 242874,
       "name": "\u30d5\u30ed\u30fc\u30c8\u30d7\u30ec\u30a4",
       "url": "https://open.spotify.com/track/2T7Yky4Kmlq1xkY2paZVm9"

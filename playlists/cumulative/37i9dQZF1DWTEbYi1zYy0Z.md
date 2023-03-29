@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-308 songs - 21 hr 46 min
+309 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,8 @@
 | [When We Dance](https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Into the Light](https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR) | 4:24 | 2020-10-30 | 2022-03-18 |
 | [With Every Turn](https://open.spotify.com/track/1wIkjr0Bkyng3CF2LIqp8t) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/7a97kS2X6XptzrTBK23Ea9) | 4:52 | 2021-03-26 | 2022-03-13 |
 | [Won't Let Go](https://open.spotify.com/track/4OxljjJyAU0FhvjincStMP) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp) | [Phillip Doc Martin](https://open.spotify.com/album/58r40GhiWWH5oCZ29CWcD1) | 4:08 | 2020-10-30 | 2022-03-18 |
-| [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 | 2022-05-13 |  |
+| [Workin'](https://open.spotify.com/track/1XggkknnMxiR3X3WJSD8ha) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/7ixjw73GQAtsHWOm62sBF7) | 4:06 | 2022-05-20 |  |
+| [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 | 2022-05-13 | 2023-03-29 |
 | [You Already Know](https://open.spotify.com/track/2BbDq3jIwUvdVtdbnwH9pr) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [You Already Know](https://open.spotify.com/album/4gyAy85HMpwucHztm9cVvY) | 3:54 | 2023-03-24 |  |
 | [You Got This](https://open.spotify.com/track/44VN2rjI4yzsHeQAKtjtRV) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [You Got This](https://open.spotify.com/album/6qSelofvvFp8RWrbyfLAcv) | 4:13 | 2020-10-30 | 2022-03-15 |
 

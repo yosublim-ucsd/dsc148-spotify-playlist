@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: JPEGMAFIA & Danny Brown
 
-1,945 songs - 4 day 13 hr 12 min
+1,946 songs - 4 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Can't Do This Alone](https://open.spotify.com/track/1vqf2TUALAihS8vM7lTuEf) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Navy Blue](https://open.spotify.com/artist/2PmAn8zBjcG0goqfOmX43A) | [Can't Do This Alone](https://open.spotify.com/album/59vvKbs0jkGNZUptWIyF6I) | 2:43 | 2021-09-25 | 2021-11-13 |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 | 2022-03-25 | 2022-07-09 |
 | [Can't Leave You Like This](https://open.spotify.com/track/3CWBf0gBsPvTsP02CbvNze) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Can't Leave You Like This](https://open.spotify.com/album/2GBwTicnRZQWVAdkh13pe4) | 5:33 | 2019-09-20 | 2019-10-16 |
+| [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-03-28 |  |
 | [CANDY CANE](https://open.spotify.com/track/0aIGp0OnQ5if6Ike2pBKxy) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Special K](https://open.spotify.com/album/0CI3WeE4BpZtCC2rjEIAwX) | 3:53 | 2020-10-22 | 2020-11-13 |
 | [candy reign \(!\)](https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [candy reign \(!\)](https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2) | 2:18 | 2022-08-03 | 2022-12-17 |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2021-12-10 | 2022-02-12 |

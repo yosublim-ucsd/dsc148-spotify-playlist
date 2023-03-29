@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 165523,
       "name": "Akl\u0131m Kar\u0131\u015ft\u0131",
       "url": "https://open.spotify.com/track/2TPHEbr1EIrKx40kLg5a1P"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 140337,
       "name": "ben sende kald\u0131m",
       "url": "https://open.spotify.com/track/7d9CebFaogwc2qxvaqKaxR"
@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 132941,
       "name": "Nazar",
       "url": "https://open.spotify.com/track/3GZzmJA8FGoIygQz5lTY68"
@@ -4175,6 +4175,24 @@
     },
     {
       "album": {
+        "name": "Oluru Yok",
+        "url": "https://open.spotify.com/album/7rUwPGoappyEYxlG1JTFM5"
+      },
+      "artists": [
+        {
+          "name": "Ali Gem",
+          "url": "https://open.spotify.com/artist/4zc2MQSnAsfsgMs9d5eRtu"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249375,
+      "name": "Oluru Yok",
+      "url": "https://open.spotify.com/track/58kVOie5UCwbQW9N88ZdgI"
+    },
+    {
+      "album": {
         "name": "Onlar\u0131 Hakl\u0131 \u00c7\u0131kartma",
         "url": "https://open.spotify.com/album/5obZsZarHL2AlPMeK7Jv56"
       },
@@ -4294,7 +4312,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 150263,
       "name": "Pembe",
       "url": "https://open.spotify.com/track/0a41ZkguFMiqfmsZ6b4GFb"
@@ -4406,6 +4424,24 @@
       "duration_ms": 285000,
       "name": "Rock \u2018n\u2019 Roll Biriyim Ben",
       "url": "https://open.spotify.com/track/2L4ucEG5VYk4ZCCeMPnU5h"
+    },
+    {
+      "album": {
+        "name": "Ruhun Benle Mi?",
+        "url": "https://open.spotify.com/album/3q3l89nPRL2lS9aCKwxzXm"
+      },
+      "artists": [
+        {
+          "name": "RednBlack",
+          "url": "https://open.spotify.com/artist/6f0pCfC5l4EeY8QXOLTfEp"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210715,
+      "name": "Ruhun Benle Mi?",
+      "url": "https://open.spotify.com/track/21FJ71mrVv9rbeoGIOVaiY"
     },
     {
       "album": {
@@ -5595,6 +5631,24 @@
     },
     {
       "album": {
+        "name": "YALAN",
+        "url": "https://open.spotify.com/album/7u7mHYLB1x0ZdhRVZEu9Wa"
+      },
+      "artists": [
+        {
+          "name": "Eyl\u00fcl \u00c7ekirge",
+          "url": "https://open.spotify.com/artist/7AgcHazHZQ9xB0n3QU6fwK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182506,
+      "name": "Yalan",
+      "url": "https://open.spotify.com/track/6Sl2DuSUijoSf2EpDzQVA1"
+    },
+    {
+      "album": {
         "name": "Yalanc\u0131s\u0131n",
         "url": "https://open.spotify.com/album/2sTkw67U6PL5OJ3nYPX3nN"
       },
@@ -6372,6 +6426,24 @@
       "duration_ms": 229120,
       "name": "\u00c7ukurova",
       "url": "https://open.spotify.com/track/3XcNta579GtC00njuO0yWK"
+    },
+    {
+      "album": {
+        "name": "\u00c7\u0131\u011fr\u0131k",
+        "url": "https://open.spotify.com/album/6vg2F8Ldn8qF3jiNts2MX3"
+      },
+      "artists": [
+        {
+          "name": "Telli Davul",
+          "url": "https://open.spotify.com/artist/4BEIDFDuSc0vkH87iO2yXR"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202727,
+      "name": "\u00c7\u0131\u011fr\u0131k",
+      "url": "https://open.spotify.com/track/7vDWCm6izkDQHcqQRzIiUK"
     },
     {
       "album": {

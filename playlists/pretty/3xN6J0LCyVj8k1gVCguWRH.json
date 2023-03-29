@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101303,
+  "num_followers": 101293,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDM2MSxiMjU3ZDRjNTEzNjZmMWFiZjVmY2Q2OTg0MTBhOGMxNmYzMTUxMWRk",
+  "snapshot_id": "NDM2NixmODYwNjlhMGNhZTdlNjRmMjQ4MzZjNGI0MTM1NmMyNmIyZGVjYzEw",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -23,6 +23,22 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "added_at": "2023-03-29 00:13:20",
+      "album": {
+        "name": "Ar\u00e9 Lo Que Pude",
+        "url": "https://open.spotify.com/album/6rhoyLU1tZR4BnAlMQppsO"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn de Alicia",
+          "url": "https://open.spotify.com/artist/020DzJBnq8dApSJtT3xQsj"
+        }
+      ],
+      "duration_ms": 237176,
+      "name": "Quiniela",
+      "url": "https://open.spotify.com/track/1c37TNRJERzT5zZQEjLnjh"
     },
     {
       "added_at": "2022-07-26 20:08:16",
@@ -753,6 +769,22 @@
       "url": "https://open.spotify.com/track/7sg9kDT8H2P0wPACXnWRdN"
     },
     {
+      "added_at": "2023-03-28 15:47:43",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5MpUVdZvyk9zUgd2rqEiuz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Blake Salazar",
+          "url": "https://open.spotify.com/artist/2GNRRGxCWqkjAadPQ57QuU"
+        }
+      ],
+      "duration_ms": 192003,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0aMTAop3aUtZDVXXAvzpko"
+    },
+    {
       "added_at": "2022-07-26 20:23:44",
       "album": {
         "name": "Humble Quest",
@@ -1235,22 +1267,6 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2023-03-03 01:26:55",
-      "album": {
-        "name": "A Place To Lie",
-        "url": "https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM"
-      },
-      "artists": [
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
-        }
-      ],
-      "duration_ms": 323210,
-      "name": "A Place To Lie",
-      "url": "https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R"
     },
     {
       "added_at": "2021-07-11 05:08:38",
@@ -2017,70 +2033,6 @@
       "url": "https://open.spotify.com/track/4jVEHJXqOgXXwZDv0idl5d"
     },
     {
-      "added_at": "2023-03-03 01:27:16",
-      "album": {
-        "name": "Pinning Paradise",
-        "url": "https://open.spotify.com/album/6GPGx54qmgbZ4u70IIu3CJ"
-      },
-      "artists": [
-        {
-          "name": "Yellow Shoots",
-          "url": "https://open.spotify.com/artist/57gksZVx15OLscjXSIuorY"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Pinning Paradise",
-      "url": "https://open.spotify.com/track/3pFEYozjLoEJiuxe5xyr7q"
-    },
-    {
-      "added_at": "2023-03-04 00:12:22",
-      "album": {
-        "name": "Tight Dress",
-        "url": "https://open.spotify.com/album/7uoaULjzVQxccf0krQAnwT"
-      },
-      "artists": [
-        {
-          "name": "Calimar",
-          "url": "https://open.spotify.com/artist/41y0PB4FjGdsHB7y7izHZh"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Tight Dress",
-      "url": "https://open.spotify.com/track/0JoeGZ7DTdEIqc0HXDIIE9"
-    },
-    {
-      "added_at": "2023-03-04 00:11:50",
-      "album": {
-        "name": "Till Death Do Us Part",
-        "url": "https://open.spotify.com/album/7nro3uUerblHDxzpFhUHvU"
-      },
-      "artists": [
-        {
-          "name": "Anthony Bond",
-          "url": "https://open.spotify.com/artist/2Bed1ilbSEnR29J7BXw2l3"
-        }
-      ],
-      "duration_ms": 176848,
-      "name": "Till Death Do Us Part",
-      "url": "https://open.spotify.com/track/2CNvda3yzlwNuYnUtru0Lt"
-    },
-    {
-      "added_at": "2023-03-04 00:10:43",
-      "album": {
-        "name": "More Than Lovers",
-        "url": "https://open.spotify.com/album/1ncO9OdU9B0dFpqzjfg5Oj"
-      },
-      "artists": [
-        {
-          "name": "Hykay",
-          "url": "https://open.spotify.com/artist/0ui2p3tryZSVhl4zelHIAi"
-        }
-      ],
-      "duration_ms": 173179,
-      "name": "More Than Lovers",
-      "url": "https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW"
-    },
-    {
       "added_at": "2023-03-20 00:10:53",
       "album": {
         "name": "Cooking Great Music",
@@ -2129,22 +2081,6 @@
       "url": "https://open.spotify.com/track/2X59hamIvMHahqdAuXAbky"
     },
     {
-      "added_at": "2023-03-03 01:28:35",
-      "album": {
-        "name": "Newman Beauty",
-        "url": "https://open.spotify.com/album/0jFyBXQMBfLz5CtQbEAczj"
-      },
-      "artists": [
-        {
-          "name": "Nai'a",
-          "url": "https://open.spotify.com/artist/5irDXaVVx519HjzQQLPhKp"
-        }
-      ],
-      "duration_ms": 234827,
-      "name": "Newman Beauty",
-      "url": "https://open.spotify.com/track/7tQAC4CnE1j3MfcfvtBpdg"
-    },
-    {
       "added_at": "2023-03-18 00:12:04",
       "album": {
         "name": "Good Guy",
@@ -2175,22 +2111,6 @@
       "duration_ms": 130959,
       "name": "Tambaleque",
       "url": "https://open.spotify.com/track/5CaZSQt5nHU0RltIERKiOc"
-    },
-    {
-      "added_at": "2023-03-03 01:28:23",
-      "album": {
-        "name": "Que Sali\u00f3 Mal",
-        "url": "https://open.spotify.com/album/5mbNEqI41MMsWnEiitnuDz"
-      },
-      "artists": [
-        {
-          "name": "Mil\u00e9na Boleda",
-          "url": "https://open.spotify.com/artist/5tOodo2747NVK5UAvXoDet"
-        }
-      ],
-      "duration_ms": 250833,
-      "name": "Que Sali\u00f3 Mal",
-      "url": "https://open.spotify.com/track/05JhV6sqXWsRw670kjZZ7j"
     },
     {
       "added_at": "2023-03-15 01:15:14",
@@ -2227,22 +2147,6 @@
       "duration_ms": 115087,
       "name": "ALWAYS NOWHERE",
       "url": "https://open.spotify.com/track/0yzb7gPnOMuTI1hR8JqfEa"
-    },
-    {
-      "added_at": "2023-03-03 01:29:20",
-      "album": {
-        "name": "SIMPLE.",
-        "url": "https://open.spotify.com/album/4VYqMMjtCIgmsX2QYXqOBS"
-      },
-      "artists": [
-        {
-          "name": "Jason King",
-          "url": "https://open.spotify.com/artist/24B1phNS2i8lriJnsS2IAW"
-        }
-      ],
-      "duration_ms": 165378,
-      "name": "SIMPLE.",
-      "url": "https://open.spotify.com/track/4FZcbtaK1im7dwwFXtiueL"
     },
     {
       "added_at": "2023-03-09 00:13:43",
@@ -2299,94 +2203,6 @@
       "duration_ms": 242260,
       "name": "Al son de las balas",
       "url": "https://open.spotify.com/track/6oqnhrAWlGEvcFj8mLj8ut"
-    },
-    {
-      "added_at": "2023-03-03 00:12:03",
-      "album": {
-        "name": "I'll Be Alright",
-        "url": "https://open.spotify.com/album/4yZf0pG4WKrqdn8JjoL6xs"
-      },
-      "artists": [
-        {
-          "name": "Khulood",
-          "url": "https://open.spotify.com/artist/6M8J007j8q5VtHAEZpJL8F"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "I'll Be Alright",
-      "url": "https://open.spotify.com/track/0MRBYBBy6M9NcHH4FUsdRs"
-    },
-    {
-      "added_at": "2023-03-03 01:29:10",
-      "album": {
-        "name": "It's Not Right (Remixes Part I)",
-        "url": "https://open.spotify.com/album/71OezDNd6HxYAB6mthhsUo"
-      },
-      "artists": [
-        {
-          "name": "Gianni Romano",
-          "url": "https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK"
-        },
-        {
-          "name": "Emanuele Esposito",
-          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
-        },
-        {
-          "name": "Helen Tesfazghi",
-          "url": "https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT"
-        }
-      ],
-      "duration_ms": 382439,
-      "name": "It's Not Right",
-      "url": "https://open.spotify.com/track/6oDEXNX9cK9WBJ9vyVMLcT"
-    },
-    {
-      "added_at": "2023-03-03 01:28:58",
-      "album": {
-        "name": "GAULTIER",
-        "url": "https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH"
-      },
-      "artists": [
-        {
-          "name": "tana",
-          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
-        }
-      ],
-      "duration_ms": 118740,
-      "name": "hell yeah",
-      "url": "https://open.spotify.com/track/0a1pB2ITeJeUTLvFWsyx41"
-    },
-    {
-      "added_at": "2023-03-03 01:28:04",
-      "album": {
-        "name": "Darte Saoco",
-        "url": "https://open.spotify.com/album/5R8fa5tt6TzGbngm4vmCR4"
-      },
-      "artists": [
-        {
-          "name": "JEii Dalereplay",
-          "url": "https://open.spotify.com/artist/15lcATkJiQ7RK1y3fcwKn9"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Darte Saoco",
-      "url": "https://open.spotify.com/track/046Fp2row608s8J408CLA8"
-    },
-    {
-      "added_at": "2023-03-03 01:27:07",
-      "album": {
-        "name": "3 A.M.",
-        "url": "https://open.spotify.com/album/34u4a139z9b4QPzbxgwyRz"
-      },
-      "artists": [
-        {
-          "name": "Donte Paris",
-          "url": "https://open.spotify.com/artist/5ok0ee1VHYGx5VzeEtddGV"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "3 A.M.",
-      "url": "https://open.spotify.com/track/7vQZbPXD07Kpx6XshIIoLE"
     },
     {
       "added_at": "2023-03-16 18:03:35",
@@ -2451,22 +2267,6 @@
       "duration_ms": 184477,
       "name": "Lying in LA",
       "url": "https://open.spotify.com/track/17Nv4GnG2JZJJK0aOXbW2w"
-    },
-    {
-      "added_at": "2023-03-03 01:29:46",
-      "album": {
-        "name": "Moon Beam",
-        "url": "https://open.spotify.com/album/3ikMVsPsSSqTc1Wq912Qxp"
-      },
-      "artists": [
-        {
-          "name": "Mahaji",
-          "url": "https://open.spotify.com/artist/2h5Dnku5SpbZdtXIpOvEo1"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Moon Beam",
-      "url": "https://open.spotify.com/track/1Y8hldXGLDNcJRxQBC9m3g"
     },
     {
       "added_at": "2023-03-17 00:30:35",

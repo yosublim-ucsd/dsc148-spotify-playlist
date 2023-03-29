@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 551825,
+  "num_followers": 552285,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzNjMzMSwwMDAwMDAwMGMxYTA5ZDY5MzBmYWE0M2MxNWZmOGJmYjU0ZjExMzYx",
+  "snapshot_id": "MTY3NjAzNjMzMSwwMDAwMDAwMDA2MjZmZWNhNzFkODMzNGEwNmMyMTkwZmVlZWIxM2Y2",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Bleeding Sun",
-        "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Bleeding Sun",
-      "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Battle of Yaldabaoth",
         "url": "https://open.spotify.com/album/3d4cxbyEmAYdr4feJ8O9ob"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 166283,
       "name": "Childchewer",
       "url": "https://open.spotify.com/track/18xvWGURVYg8hUIRHpowNr"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Bleeding Sun",
+        "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Bleeding Sun",
+      "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Welcome to the West Coast",
-        "url": "https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd"
-      },
-      "artists": [
-        {
-          "name": "Lionheart",
-          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
-        }
-      ],
-      "duration_ms": 189985,
-      "name": "Lhhc",
-      "url": "https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Legacy of Shi",
         "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 191746,
       "name": "Nekketsu",
       "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Welcome to the West Coast",
+        "url": "https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        }
+      ],
+      "duration_ms": 189985,
+      "name": "Lhhc",
+      "url": "https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 162439,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "In The Court Of The Dragon",
         "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        }
+      ],
+      "duration_ms": 162439,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "In Darkness",
+        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "In Darkness",
+      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Life Is Pain",
         "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "In Darkness",
-        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
+        "name": "Ultimate Annihilation",
+        "url": "https://open.spotify.com/album/4ErhvbjyVnkGgkRKvKQC1F"
       },
       "artists": [
         {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+          "name": "Suburban Scum",
+          "url": "https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy"
         }
       ],
-      "duration_ms": 157653,
-      "name": "In Darkness",
-      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
+      "duration_ms": 141431,
+      "name": "Ultimate Annihilation",
+      "url": "https://open.spotify.com/track/1rGYgf81OmT2AIPbrcbwun"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1247,22 +1263,6 @@
       "duration_ms": 204661,
       "name": "Built from War",
       "url": "https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Ultimate Annihilation",
-        "url": "https://open.spotify.com/album/4ErhvbjyVnkGgkRKvKQC1F"
-      },
-      "artists": [
-        {
-          "name": "Suburban Scum",
-          "url": "https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy"
-        }
-      ],
-      "duration_ms": 141431,
-      "name": "Ultimate Annihilation",
-      "url": "https://open.spotify.com/track/1rGYgf81OmT2AIPbrcbwun"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1359,22 +1359,6 @@
       "duration_ms": 236142,
       "name": "Title Fight",
       "url": "https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "With Devils Amongst Us All",
-        "url": "https://open.spotify.com/album/5WJ9NSZdMK8VuEw5BKAEOI"
-      },
-      "artists": [
-        {
-          "name": "Walls of Jericho",
-          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "A Trigger Full of Promises",
-      "url": "https://open.spotify.com/track/441TNI9Hkrj4SUf2FG2WnU"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Tethra",
+        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
+      },
+      "artists": [
+        {
+          "name": "Tethra",
+          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
+        }
+      ],
+      "duration_ms": 289236,
+      "name": "Masochistic Healing",
+      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Hammer of the Witch (Deluxe Version)",
         "url": "https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Realigion",
-        "url": "https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R"
-      },
-      "artists": [
-        {
-          "name": "Nasty",
-          "url": "https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "At War with Love",
-      "url": "https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Truest Love",
         "url": "https://open.spotify.com/album/4H3kBhmrI8PHiAapclIuzP"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 231625,
       "name": "The Truest Love",
       "url": "https://open.spotify.com/track/3kE1wgi0cTUqHNlfoTbiFh"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Realigion",
+        "url": "https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R"
+      },
+      "artists": [
+        {
+          "name": "Nasty",
+          "url": "https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "At War with Love",
+      "url": "https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Tethra",
-        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
-      },
-      "artists": [
-        {
-          "name": "Tethra",
-          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
-        }
-      ],
-      "duration_ms": 289236,
-      "name": "Masochistic Healing",
-      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Towards The Dying Lands",
         "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
       },
@@ -1799,22 +1783,6 @@
       "duration_ms": 251406,
       "name": "Reveries",
       "url": "https://open.spotify.com/track/4qPgkvOEbh6AP8AHAyG62r"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "How To Live And How To Lose",
-        "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
-      },
-      "artists": [
-        {
-          "name": "Octopus Montage",
-          "url": "https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1835,18 +1803,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Narcissus",
-        "url": "https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p"
+        "name": "How To Live And How To Lose",
+        "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
       },
       "artists": [
         {
-          "name": "Napalm Death",
-          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+          "name": "Octopus Montage",
+          "url": "https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG"
         }
       ],
-      "duration_ms": 188972,
-      "name": "Narcissus",
-      "url": "https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K"
+      "duration_ms": 255400,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1867,6 +1835,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Narcissus",
+        "url": "https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p"
+      },
+      "artists": [
+        {
+          "name": "Napalm Death",
+          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+        }
+      ],
+      "duration_ms": 188972,
+      "name": "Narcissus",
+      "url": "https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 198600,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Your World Won't Listen",
+        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
+      },
+      "artists": [
+        {
+          "name": "Cruel Hand",
+          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Too Far From That",
+      "url": "https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Your World Won't Listen",
-        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
-      },
-      "artists": [
-        {
-          "name": "Cruel Hand",
-          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Too Far From That",
-      "url": "https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "All Hail The Void",
         "url": "https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM"
       },
@@ -1959,6 +1943,26 @@
       "duration_ms": 143493,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Strength to Draw the Line",
+        "url": "https://open.spotify.com/album/53js4P31lZMSZlINykloRH"
+      },
+      "artists": [
+        {
+          "name": "Jasta",
+          "url": "https://open.spotify.com/artist/03248d0xYQltNDAF2XongP"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
+        }
+      ],
+      "duration_ms": 168164,
+      "name": "Strength to Draw the Line",
+      "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
     }
   ],
   "unique_name": "Extreme Metal Workout",

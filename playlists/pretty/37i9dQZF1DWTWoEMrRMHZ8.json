@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Michael Sullivan",
-  "num_followers": 336873,
+  "num_followers": 336916,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDNhMDg1NzdhYTE0OWRjZDAwYzUwMTgyZjc0MjE4NWMy",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDkxZWQ1YzEyNjQzZWI4OWFjYjU2MzlkMzIxODhlZTcx",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
+        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 235435,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
-        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -767,18 +767,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Apesar de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
       },
       "artists": [
         {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
         }
       ],
-      "duration_ms": 275333,
-      "name": "Apesar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
+      "duration_ms": 162000,
+      "name": "O Caderno",
+      "url": "https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -803,22 +807,34 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
+        "name": "Apesar de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
         }
       ],
-      "duration_ms": 162000,
-      "name": "O Caderno",
-      "url": "https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD"
+      "duration_ms": 275333,
+      "name": "Apesar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Boca de A\u00e7a\u00ed",
+        "url": "https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Boca de A\u00e7a\u00ed",
+      "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 283557,
       "name": "Nu Com a Minha M\u00fasica",
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Boca de A\u00e7a\u00ed",
-        "url": "https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Boca de A\u00e7a\u00ed",
-      "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "S\u00f3 Quem Ama",
-        "url": "https://open.spotify.com/album/2NiaG8Wx8qi9ibzQ7pHvSa"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "S\u00f3 Quem Ama",
-      "url": "https://open.spotify.com/track/5NqysArxcdqyW4vocKTq4o"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "T\u00e3o Distra\u00eddos",
         "url": "https://open.spotify.com/album/4FnViUD7mk5sA4mI3D3xoh"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 155530,
       "name": "T\u00e3o Distra\u00eddos",
       "url": "https://open.spotify.com/track/3te1vlFf5mYLXhOWdcadRJ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "S\u00f3 Quem Ama",
+        "url": "https://open.spotify.com/album/2NiaG8Wx8qi9ibzQ7pHvSa"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "S\u00f3 Quem Ama",
+      "url": "https://open.spotify.com/track/5NqysArxcdqyW4vocKTq4o"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Sangue Latino",
-        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
-      },
-      "artists": [
-        {
-          "name": "Roberta Spindel",
-          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 187934,
-      "name": "Sangue Latino",
-      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Preciso Me Encontrar",
         "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 168681,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Sangue Latino",
+        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Spindel",
+          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 187934,
+      "name": "Sangue Latino",
+      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Curyman",
-        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Pra Vida",
-      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Ser\u00e1 que eu t\u00f4 gostando dela?",
         "url": "https://open.spotify.com/album/3slNVgQpPfoynH15INuJuG"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 196045,
       "name": "Ser\u00e1 que eu t\u00f4 gostando dela?",
       "url": "https://open.spotify.com/track/2aFrwhmO0Yw2Qh3hTE8kAX"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Curyman",
+        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Pra Vida",
+      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Alceu Valen\u00e7a e Paulo Rafael",
-        "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Paulo Rafael",
-          "url": "https://open.spotify.com/artist/5JUUqMr35eHGJHi9W8thlo"
-        }
-      ],
-      "duration_ms": 204873,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Alceu Valen\u00e7a e Paulo Rafael",
+        "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Paulo Rafael",
+          "url": "https://open.spotify.com/artist/5JUUqMr35eHGJHi9W8thlo"
+        }
+      ],
+      "duration_ms": 204873,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1579,6 +1579,22 @@
       "duration_ms": 185691,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1715,26 +1731,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "T\u00f4",
-        "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
-      },
-      "artists": [
-        {
-          "name": "RAYA",
-          "url": "https://open.spotify.com/artist/1aW2Ud6cfs7uKN0ofpSBCO"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 247802,
-      "name": "Coment\u00e1rios a Respeito de Belchior",
-      "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Mar\u00e9 Alta, Enfim.",
         "url": "https://open.spotify.com/album/2RAQaaazPq5LOWE5pWoNbP"
       },
@@ -1755,34 +1751,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+        "name": "T\u00f4",
+        "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Nu",
-        "url": "https://open.spotify.com/album/4ZgFjhLIlsHIrqlqdKJbEh"
-      },
-      "artists": [
+          "name": "RAYA",
+          "url": "https://open.spotify.com/artist/1aW2Ud6cfs7uKN0ofpSBCO"
+        },
         {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 235081,
-      "name": "Nu",
-      "url": "https://open.spotify.com/track/12ARjD86nzGo7FKyXlvwhD"
+      "duration_ms": 247802,
+      "name": "Coment\u00e1rios a Respeito de Belchior",
+      "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1799,6 +1783,22 @@
       "duration_ms": 224960,
       "name": "A arte de n\u00e3o morrer",
       "url": "https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Nu",
+        "url": "https://open.spotify.com/album/4ZgFjhLIlsHIrqlqdKJbEh"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "duration_ms": 235081,
+      "name": "Nu",
+      "url": "https://open.spotify.com/track/12ARjD86nzGo7FKyXlvwhD"
     },
     {
       "added_at": "2023-03-24 03:00:00",

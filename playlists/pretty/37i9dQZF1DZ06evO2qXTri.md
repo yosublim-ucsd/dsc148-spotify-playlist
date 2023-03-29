@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,489 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,531 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Jesus](https://open.spotify.com/track/01bQcX573Co0x8tfHIID56) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Fight Of My Life](https://open.spotify.com/album/4jOZyxhGDWkhJ5xXZirKDW) | 3:43 |
 | 50 | [Can't Nobody \(feat\. Ryan Ofei & Maryanne J\. George\)](https://open.spotify.com/track/6m2L8UyoRjOYDJZ4Hdjcvd) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh) | 5:12 |
 
-Snapshot ID: `Mjc5OTg2ODEsMDAwMDAwMDA0MzI0YzU3YmM0YzFhMjA4OGZjZDJkYjQzZWIzMTk5MA==`
+Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDBlOGNjMjFjODc0MTQyZWY3NDgxYTIzYjc3NmZhMTZhYw==`

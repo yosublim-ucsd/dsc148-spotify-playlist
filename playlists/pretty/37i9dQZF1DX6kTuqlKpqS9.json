@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 59769,
+  "num_followers": 59820,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDA3MjhkMTA4M2Y2M2FkMTNlYzE2ZTJkYTZhNzA4YmI2",
+  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDQ5MjlmNTAyZjU4MzA1MDYzODllZmYzZmNhY2FkMWQx",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mujeres con Mariachi",
-        "url": "https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "La Gran Se\u00f1ora - Live",
-      "url": "https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Enamorada En Vivo",
         "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 195253,
       "name": "Ac\u00e1 Entre Nos - En Vivo",
       "url": "https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Mariachi Ranchera Y Tradicional",
+        "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 307626,
+      "name": "Sufriendo a Solas",
+      "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mariachi Ranchera Y Tradicional",
-        "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
+        "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
+        "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 307626,
-      "name": "Sufriendo a Solas",
-      "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
+      "duration_ms": 298506,
+      "name": "Inocente Pobre Amiga - Live",
+      "url": "https://open.spotify.com/track/0ZUsFHwJXaG7tz1KayJGkX"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
-        "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 298506,
-      "name": "Inocente Pobre Amiga - Live",
-      "url": "https://open.spotify.com/track/0ZUsFHwJXaG7tz1KayJGkX"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mariachi Hit Parade",
         "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 187177,
       "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
       "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Paloma Negra Desde Monterrey (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1nDrZypr1O0xzkrlwugYo8"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "La Gran Se\u00f1ora - Live",
+      "url": "https://open.spotify.com/track/3o1P4v1P33w5Chvt5VUMUu"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "Viva M\u00e9xico / Guadalajara (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
         "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 224053,
       "name": "Gracias Por Tanto Amor - En Vivo",
       "url": "https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "Viva M\u00e9xico / Guadalajara (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8"
     },
     {
       "added_at": "2021-12-29 23:15:19",

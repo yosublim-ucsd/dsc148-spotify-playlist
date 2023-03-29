@@ -34835,7 +34835,7 @@
         },
         {
           "name": "Lucy Shaw",
-          "url": "https://open.spotify.com/artist/22ArEmZwehawCU5ldp6A5W"
+          "url": "https://open.spotify.com/artist/0fnWNWbrzqny2q4Mvuaab0"
         },
         {
           "name": "Lily Vernon-Purves",
@@ -88338,6 +88338,24 @@
       "duration_ms": 512000,
       "name": "Throne Room & Finale - From \"Star Wars: A New Hope\"",
       "url": "https://open.spotify.com/track/5Nc1K47hbz8vJmkOlowGSf"
+    },
+    {
+      "album": {
+        "name": "Through The Blue (Piano Version)",
+        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225494,
+      "name": "Through The Blue - Piano Version",
+      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
     },
     {
       "album": {

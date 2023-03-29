@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 698438,
+  "num_followers": 698707,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMGJlMWM1Mzg2ZTZjNzYzN2M5ZmJhZDcxM2YwZDhkOTQ2",
+  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMDk3OThjODkzZWQ3YmVmMmQwYzE4YWRhM2RmMzY4N2Vh",
   "tracks": [
     {
       "added_at": "2023-02-17 15:33:17",
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
     },
     {
-      "added_at": "2023-03-28 01:05:43",
+      "added_at": "2023-03-29 05:00:07",
       "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
     },
     {
-      "added_at": "2023-03-28 01:05:43",
+      "added_at": "2023-03-29 05:00:07",
       "album": {
         "name": "Dancing Colours",
         "url": "https://open.spotify.com/album/7zoVXfKEQorTWts3Lz3gmp"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
     },
     {
-      "added_at": "2023-03-28 01:05:43",
+      "added_at": "2023-03-29 05:00:07",
       "album": {
         "name": "Pantarei",
         "url": "https://open.spotify.com/album/0h6dsjcjf7sGbu0NSX88o3"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
     },
     {
-      "added_at": "2023-03-28 01:05:43",
+      "added_at": "2023-03-29 05:00:07",
       "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
@@ -299,6 +299,42 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Drum 'N' Feels",
+        "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
+      },
+      "artists": [
+        {
+          "name": "Kleintierschaukel",
+          "url": "https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn"
+        },
+        {
+          "name": "Badau",
+          "url": "https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU"
+        }
+      ],
+      "duration_ms": 362411,
+      "name": "Kidz of Tibet",
+      "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
+    },
+    {
+      "added_at": "2023-03-29 05:00:07",
+      "album": {
+        "name": "Bekaboo",
+        "url": "https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75"
+      },
+      "artists": [
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Bekaboo",
+      "url": "https://open.spotify.com/track/1HYPIyMIgHN9Gmv12es0xd"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Feather (The Remixes)",
         "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
       },
@@ -323,42 +359,6 @@
       "duration_ms": 427102,
       "name": "Feather - Iorie & Madmotormiquel Remix",
       "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
-    },
-    {
-      "added_at": "2023-03-28 01:05:43",
-      "album": {
-        "name": "Bekaboo",
-        "url": "https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75"
-      },
-      "artists": [
-        {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Bekaboo",
-      "url": "https://open.spotify.com/track/1HYPIyMIgHN9Gmv12es0xd"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Drum 'N' Feels",
-        "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
-      },
-      "artists": [
-        {
-          "name": "Kleintierschaukel",
-          "url": "https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn"
-        },
-        {
-          "name": "Badau",
-          "url": "https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU"
-        }
-      ],
-      "duration_ms": 362411,
-      "name": "Kidz of Tibet",
-      "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Se Va, Se Va",
         "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+        "name": "Star Tripper",
+        "url": "https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3"
       },
       "artists": [
         {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
         }
       ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+      "duration_ms": 293888,
+      "name": "Star Tripper",
+      "url": "https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Star Tripper",
-        "url": "https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Star Tripper",
-      "url": "https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "Global Entry 2",
         "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+      },
+      "artists": [
+        {
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -931,6 +931,26 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Neko Ep",
+        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
+      },
+      "artists": [
+        {
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+        },
+        {
+          "name": "Kotoe",
+          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
+        }
+      ],
+      "duration_ms": 273523,
+      "name": "Neko (feat Kotoe)",
+      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Neko Ep",
-        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
-      },
-      "artists": [
-        {
-          "name": "Jacob Groening",
-          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
-        },
-        {
-          "name": "Kotoe",
-          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
-        }
-      ],
-      "duration_ms": 273523,
-      "name": "Neko (feat Kotoe)",
-      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
+      },
+      "artists": [
+        {
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
+        }
+      ],
+      "duration_ms": 381176,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Graceland",
         "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
       },
@@ -1079,6 +1099,22 @@
       "duration_ms": 405213,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1099,18 +1135,38 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "Tim Jules",
+          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
+        }
+      ],
+      "duration_ms": 286392,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1139,78 +1195,18 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
       "artists": [
         {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
-        },
-        {
-          "name": "Tim Jules",
-          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 286392,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
-      },
-      "artists": [
-        {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
-        }
-      ],
-      "duration_ms": 381176,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
         }
       ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Na Lagoa (Remixes)",
         "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 264317,
       "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
       "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1367,34 +1367,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Into Your Tribe (Bedouin Remix)",
-        "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
+        "name": "Parivartan",
+        "url": "https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp"
       },
       "artists": [
         {
-          "name": "Soul Of Zoo",
-          "url": "https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g"
+          "name": "Elcor",
+          "url": "https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj"
         },
         {
-          "name": "Guy Lalibert\u00e9",
-          "url": "https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        },
-        {
-          "name": "Snow Owl",
-          "url": "https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua"
-        },
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "Skydrips",
+          "url": "https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF"
         }
       ],
-      "duration_ms": 454680,
-      "name": "Into Your Tribe - Bedouin Remix",
-      "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+      "duration_ms": 486879,
+      "name": "Parivartan",
+      "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
     }
   ],
   "unique_name": "Org\u00e1nica",

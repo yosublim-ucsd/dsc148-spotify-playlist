@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 32696,
+  "num_followers": 32735,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDFjNmRiOWU2MDkzYjJkMTE0N2I1MTZkYjMxNjdmZTY3",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDc4NzIyY2Y1YjA5YTBlM2VkMDRmNWMyYzEwYmFlNGE5",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
-        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
-      },
-      "artists": [
-        {
-          "name": "Mighty Panther",
-          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
-        }
-      ],
-      "duration_ms": 149093,
-      "name": "Mister Give Me de Rent",
-      "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Man Smart, Woman Smarter",
         "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 183480,
       "name": "Man Smart, Woman Smarter",
       "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
+        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
+      },
+      "artists": [
+        {
+          "name": "Mighty Panther",
+          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
+        }
+      ],
+      "duration_ms": 149093,
+      "name": "Mister Give Me de Rent",
+      "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Roots of Trinidad Calypso / Recordings 1927 - 1931",
-        "url": "https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84"
-      },
-      "artists": [
-        {
-          "name": "The Growler",
-          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "An Excursion to Grenada",
-      "url": "https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso - Best of Trinidad",
         "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 161960,
       "name": "Mathilda",
       "url": "https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Roots of Trinidad Calypso / Recordings 1927 - 1931",
+        "url": "https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84"
+      },
+      "artists": [
+        {
+          "name": "The Growler",
+          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "An Excursion to Grenada",
+      "url": "https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL"
     },
     {
       "added_at": "2021-04-23 15:05:50",

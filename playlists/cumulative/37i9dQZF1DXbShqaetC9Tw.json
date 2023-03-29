@@ -2531,6 +2531,32 @@
     },
     {
       "album": {
+        "name": "Seoul Vibes, Pt. 1",
+        "url": "https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL"
+      },
+      "artists": [
+        {
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "Rheehab",
+          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182062,
+      "name": "Sad Love Song (feat. slchld & Rheehab)",
+      "url": "https://open.spotify.com/track/3KQambacz4w7NX27MD0bxb"
+    },
+    {
+      "album": {
         "name": "PINE",
         "url": "https://open.spotify.com/album/145mNPg9P6VsOxDeDzRs2c"
       },
@@ -2600,7 +2626,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 178500,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ"

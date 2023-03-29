@@ -2,7 +2,7 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> A new gen of bands gazing at their pedals, while soaring celestially\-high\. julie on cover!
+> A new gen of bands gazing at their pedals, while soaring celestially\-high\. Winter on cover!
 
 292 songs - 20 hr 5 min
 

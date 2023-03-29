@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 結束バンド \(Kessoku Band\)
 
-393 songs - 1 day 3 hr 7 min
+394 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Not as Dramatic As...](https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Not as Dramatic As...](https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR) | 4:22 | 2023-01-10 | 2023-02-15 |
 | [Omoideshiritori](https://open.spotify.com/track/0FnA6x9CTUsZRlYzKJ8pG6) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [DIALOGUE+1](https://open.spotify.com/album/2LYWVRbZGHUuXeMqVmtt2w) | 4:23 | 2022-06-09 | 2022-06-15 |
 | [One Wish](https://open.spotify.com/track/0sDrDg3wwrxSl0YVEmYpMW) | [Riho Iida](https://open.spotify.com/artist/5zTeZtVkjRJNavenIaFFuz) | [One Wish](https://open.spotify.com/album/0FF8Vqm3lb71OLciJGxXGy) | 4:13 | 2022-06-14 | 2022-07-21 |
+| [ONEGAI MUSCLE](https://open.spotify.com/track/5zJoNz19s5lsL5NXKp1Q8O) | [紗倉ひびき\(CV:ファイルーズあい\)](https://open.spotify.com/artist/6s8j3klwQxJ9wYm6r4YXPU), [街雄鳴造\(CV:石川界人\)](https://open.spotify.com/artist/02R36FyZZ3oAF0wElreEuQ) | [TV SERIES ”DUMBBELL NAN\-KILO MOTERU?” OPENING THEME「ONEGAI MUSCLE」/ENDING THEME「MACHO ARE NAME?」](https://open.spotify.com/album/56Ke1qDHo3xZksZWa3Mwye) | 3:40 | 2023-03-29 |  |
 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2022-10-03 | 2023-01-02 |
 | [ORDINARY LOVE](https://open.spotify.com/track/5EyypMJkIOEg6veef5FCg5) | [逢田梨香子](https://open.spotify.com/artist/7L3LvUmPSjYVIStpUxBsUu) | [Curtain raise](https://open.spotify.com/album/5jgPJpy4bePdsCkfLpQzip) | 4:29 | 2022-06-09 | 2022-07-27 |
 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 | 2022-07-28 | 2023-01-11 |
@@ -305,7 +306,7 @@
 | [リテラチュア](https://open.spotify.com/track/1Oc8AYDtd0Hcpz8Ijl4JaT) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [リテラチュア](https://open.spotify.com/album/2PTMl1FagFSWwFFwA98SOP) | 4:00 | 2022-06-14 | 2022-07-29 |
 | [リトルソルジャー](https://open.spotify.com/track/4ESR8uG70TFcWKqtePEJpo) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [リトルソルジャー](https://open.spotify.com/album/4Uya9qHP63dE9wf0VQNMQJ) | 3:53 | 2022-06-09 | 2022-07-19 |
 | [リナリア](https://open.spotify.com/track/6BoQEDKLDRG1HrwtGecGmg) | [友希](https://open.spotify.com/artist/2Fd3nN9J9geFilaeOdCwfE) | [リナリア](https://open.spotify.com/album/7ILv4JYFhy16quHxrkN7HP) | 3:55 | 2022-06-24 | 2022-07-05 |
-| [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/2VSP5LdDJsMNEdASO07PHb) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ / UFOを呼ぶダンス / メデューサ / 月の踊り子](https://open.spotify.com/album/6wgWmznoimZdSy6lpzFfja) | 4:31 | 2023-02-14 |  |
+| [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/2VSP5LdDJsMNEdASO07PHb) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ / UFOを呼ぶダンス / メデューサ / 月の踊り子](https://open.spotify.com/album/6wgWmznoimZdSy6lpzFfja) | 4:31 | 2023-02-14 | 2023-03-29 |
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 | 2023-02-14 | 2023-02-16 |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-06-14 | 2022-07-29 |
 | [不規則性エントロピー](https://open.spotify.com/track/380LeI6moud4Zlrr8EXSdr) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [不規則性エントロピー \(TVアニメ「ひぐらしのなく頃に 業」新EDテーマ\)](https://open.spotify.com/album/2C6nNaQMeZUg9D9qpcsv3n) | 4:23 | 2022-06-14 | 2022-06-19 |

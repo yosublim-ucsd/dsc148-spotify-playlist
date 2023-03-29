@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=WIJorOTzR5CeRRJGVsI4QQ"> Victony</a>,    <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=lcwwSOshQvO\_UQtpHLIR7w"> Rema </a>and  <a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs?si=Xb0Xaf\_xTpKxDnxLpReLHQ"> Don Toliver</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,907 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,998 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

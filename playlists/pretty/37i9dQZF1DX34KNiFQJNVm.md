@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Simone Mendes, LUDMILLA, Ed Sheeran, Filipe Ret, Maiara & Maraisa, ROSALÍA e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,853,709 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854,163 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 8932,
+  "num_followers": 8941,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwNjQ5OCwwMDAwMDAwMDUyZjRmMjJhYjdhY2UxMzE1ZTU2MWIyNTQ0M2I2YTYy",
+  "snapshot_id": "MTY3OTYwNjQ5OCwwMDAwMDAwMDA4YTFlYzI2NGNjM2ZkYmIxYWE5NWQ4YzFiODg3M2M0",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Alexa!",
+        "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
+      },
+      "artists": [
+        {
+          "name": "The Cool Greenhouse",
+          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
+        }
+      ],
+      "duration_ms": 234720,
+      "name": "Alexa!",
+      "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
         "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 334979,
       "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
       "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Alexa!",
-        "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
-      },
-      "artists": [
-        {
-          "name": "The Cool Greenhouse",
-          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
-        }
-      ],
-      "duration_ms": 234720,
-      "name": "Alexa!",
-      "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
     },
     {
       "added_at": "2023-01-25 02:05:47",
@@ -741,38 +741,6 @@
       "url": "https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Audition",
-      "url": "https://open.spotify.com/track/0Qm5uQR8XL6QHlsZu53ZF7"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
       "added_at": "2022-03-29 02:06:14",
       "album": {
         "name": "QUAKENBR\u00dcCK [Version]",
@@ -791,6 +759,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -805,20 +789,20 @@
       "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-03-23 21:21:38",
       "album": {
-        "name": "Primary Colours",
-        "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
       "artists": [
         {
-          "name": "The Horrors",
-          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 478493,
-      "name": "Sea Within a Sea",
-      "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
+      "duration_ms": 253746,
+      "name": "Audition",
+      "url": "https://open.spotify.com/track/0Qm5uQR8XL6QHlsZu53ZF7"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -839,6 +823,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Primary Colours",
+        "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
+      },
+      "artists": [
+        {
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+        }
+      ],
+      "duration_ms": 478493,
+      "name": "Sea Within a Sea",
+      "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Phase Modulation Shuffle (Edit)",
         "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Boxed In",
-        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
-      },
-      "artists": [
-        {
-          "name": "Boxed In",
-          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "All Your Love is Gone",
-      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Chinese Restaurant",
         "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 329786,
       "name": "C.Rock",
       "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Boxed In",
+        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
+      },
+      "artists": [
+        {
+          "name": "Boxed In",
+          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "All Your Love is Gone",
+      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "F\u00fcr mich",
         "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 566520,
       "name": "F\u00fcr Dich",
       "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Panther Rotate",
         "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+        "name": "Ege Bamyasi (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
       },
       "artists": [
         {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
         }
       ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+      "duration_ms": 335199,
+      "name": "One More Night - 2004 Remastered Version",
+      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
     },
     {
       "added_at": "2022-03-04 01:55:34",
@@ -1295,22 +1311,6 @@
       "duration_ms": 184013,
       "name": "Final Weapon",
       "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Ege Bamyasi (Remastered Version)",
-        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
-      },
-      "artists": [
-        {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
-        }
-      ],
-      "duration_ms": 335199,
-      "name": "One More Night - 2004 Remastered Version",
-      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
     },
     {
       "added_at": "2022-03-18 05:36:55",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Find The Sun",
-        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
       },
       "artists": [
         {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
         }
       ],
-      "duration_ms": 426342,
-      "name": "Saturnine Night",
-      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
+      "duration_ms": 273906,
+      "name": "Motoring",
+      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+        "name": "Find The Sun",
+        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
       "artists": [
         {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
         }
       ],
-      "duration_ms": 273906,
-      "name": "Motoring",
-      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
+      "duration_ms": 426342,
+      "name": "Saturnine Night",
+      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "How To Live",
-        "url": "https://open.spotify.com/album/0Dws98dPcBFr4xXKfX57Dg"
-      },
-      "artists": [
-        {
-          "name": "Modern Nature",
-          "url": "https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms"
-        }
-      ],
-      "duration_ms": 319574,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/5WOAj3m0NWLiteJUEsbdmy"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Anthology (Remastered Version)",
         "url": "https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 396306,
       "name": "Mother Sky (from Deep End)",
       "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/0Dws98dPcBFr4xXKfX57Dg"
+      },
+      "artists": [
+        {
+          "name": "Modern Nature",
+          "url": "https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms"
+        }
+      ],
+      "duration_ms": 319574,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/5WOAj3m0NWLiteJUEsbdmy"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Proper Music",
-        "url": "https://open.spotify.com/album/0Ls3mve0dhnvVFUA4w9muR"
-      },
-      "artists": [
-        {
-          "name": "MADMADMAD",
-          "url": "https://open.spotify.com/artist/7y4JZjyr1HUM5b4mvtk1fJ"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Kraut",
-      "url": "https://open.spotify.com/track/5ByCDTluMI9sZhwFAyj0Oc"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "The Power Out",
         "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 273840,
       "name": "Only One Thing Is Needed",
       "url": "https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Proper Music",
+        "url": "https://open.spotify.com/album/0Ls3mve0dhnvVFUA4w9muR"
+      },
+      "artists": [
+        {
+          "name": "MADMADMAD",
+          "url": "https://open.spotify.com/artist/7y4JZjyr1HUM5b4mvtk1fJ"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Kraut",
+      "url": "https://open.spotify.com/track/5ByCDTluMI9sZhwFAyj0Oc"
     },
     {
       "added_at": "2021-07-30 14:56:06",

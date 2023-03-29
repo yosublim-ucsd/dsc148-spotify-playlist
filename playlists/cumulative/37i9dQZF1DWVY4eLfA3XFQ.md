@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring J\. Worra & Shift K3Y
 
-965 songs - 2 day 9 hr 15 min
+966 songs - 2 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Aguila ft\. Cumbiafrica](https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila ft\. Cumbiafrica](https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs) | 2:48 | 2022-07-22 | 2022-10-15 |
 | [Ain't Me Without You \- Westend Remix](https://open.spotify.com/track/5gWVXOFCt97krDtcssAqVO) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Ain't Me Without You \(Westend Remix\)](https://open.spotify.com/album/2XCm0Vh31YwUbSzjWOh9cd) | 3:17 | 2022-02-25 | 2022-03-12 |
 | [Al Chica](https://open.spotify.com/track/4zR81TArni7T3acxg9drQF) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Al Chica](https://open.spotify.com/album/5wcpuA5GZ8XdlJbppL5yJH) | 2:25 | 2022-12-09 | 2023-02-11 |
+| [ALALA](https://open.spotify.com/track/0EA7SaogHX4PgvNe1cGjQ0) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [ALALA](https://open.spotify.com/album/0hPgKedmjPqkylrDeo86ho) | 2:56 | 2023-03-24 |  |
 | [Alive](https://open.spotify.com/track/7AK89zOn9njvVrArXUHPav) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM) | [Mr Magic](https://open.spotify.com/album/2tah8ii91iPaiMLi925msT) | 5:42 | 2022-12-28 | 2023-01-06 |
 | [Alive \(with Roland Clark\)](https://open.spotify.com/track/6nGtbklEfeXapvjTbV8kzn) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive \(with Roland Clark\)](https://open.spotify.com/album/3t0DyF5O7pPimFm7lv0zJm) | 3:41 | 2022-01-21 | 2022-04-23 |
 | [ALL DAY / ALL NIGHT \- Radio Edit](https://open.spotify.com/track/3qdJ0t9CO3WRxzKcoJhSBY) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [ALL DAY / ALL NIGHT](https://open.spotify.com/album/6p0jkK5G6CHQZRLQ8TXYaF) | 3:39 | 2021-11-26 | 2022-04-23 |
@@ -728,7 +729,7 @@
 | [Se Va](https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S) | 3:16 | 2022-10-14 | 2023-02-04 |
 | [Searching](https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Searching](https://open.spotify.com/album/1WN5g5MtXHMiyUdUcclJ2l) | 3:30 | 2021-12-03 | 2022-04-23 |
 | [SEE ME GIVE IT](https://open.spotify.com/track/69IORvhAh5xA3P2o9iI2NW) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [SEE ME GIVE IT](https://open.spotify.com/album/61BmA7b5VBmT0CuEViZLrC) | 3:20 | 2023-02-10 | 2023-03-27 |
-| [See The Light](https://open.spotify.com/track/0S2RADfs7vrFyyor0okdkM) | [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [See The Light](https://open.spotify.com/album/0RNKWw3y5HiXYqLMRP6onD) | 3:30 | 2023-02-03 |  |
+| [See The Light](https://open.spotify.com/track/0S2RADfs7vrFyyor0okdkM) | [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [See The Light](https://open.spotify.com/album/0RNKWw3y5HiXYqLMRP6onD) | 3:30 | 2023-02-03 | 2023-03-29 |
 | [Selecta](https://open.spotify.com/track/3XXUatyIgWbC9KSN1FUHIR) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Selecta](https://open.spotify.com/album/0wAZLCTqTYCREJ9nxnrBLV) | 3:38 | 2022-01-18 | 2022-01-22 |
 | [Selecta](https://open.spotify.com/track/3y67T605zrxZadIf6dy3jg) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Selecta](https://open.spotify.com/album/0CPElXxuun2z9vczy4VC6V) | 7:14 | 2022-12-28 | 2023-01-06 |
 | [Self Love](https://open.spotify.com/track/72U1rB1DPyO6jHXq1y9VcP) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Don't Mind Ya Weight EP](https://open.spotify.com/album/1jDItIdJh4n76T8BfGZ33a) | 3:37 | 2022-12-28 | 2023-01-06 |

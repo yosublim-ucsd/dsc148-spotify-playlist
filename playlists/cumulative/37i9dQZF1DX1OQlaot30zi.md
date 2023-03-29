@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di ANNA, Tony, Neima e tanti altri 🔥
 
-1,495 songs - 2 day 20 hr 14 min
+1,496 songs - 2 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1442,7 +1442,8 @@
 | [VINCO E PERDO](https://open.spotify.com/track/2qR5UI5OCYAA88JFyboC0n) | [Mark Bilobah](https://open.spotify.com/artist/5rUlnhSqVQVyoiZciHeYsq) | [VINCO E PERDO](https://open.spotify.com/album/49S6xRvLRrWc5rvajQribe) | 3:24 | 2022-09-29 | 2022-10-07 |
 | [Violeto](https://open.spotify.com/track/0mUd90cTQoB70DZotuePjF) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [La Filosofia](https://open.spotify.com/album/4pspFZPqbKNDqPkY7oxY6O) | 2:08 | 2022-05-19 | 2022-06-03 |
 | [Vir' Napl](https://open.spotify.com/track/1UYR5OlOapoY15Ab1P4LLD) | [Oro](https://open.spotify.com/artist/5O698gAaB7zJPmKISQbmD5) | [Vir' Napl](https://open.spotify.com/album/0x6LcJ8VJaEorHhrl3keu7) | 2:44 | 2022-05-12 | 2022-05-20 |
-| [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 | 2023-03-03 |  |
+| [Viral](https://open.spotify.com/track/3Nww47FJ3MiIdpHCMarCBU) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/5OkP2IKTap8fIUptFcFbNN) | 2:27 | 2023-03-24 |  |
+| [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 | 2023-03-03 | 2023-03-29 |
 | [VISIONE](https://open.spotify.com/track/75oKNYA3M0jqeW91tLG1Il) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ), [RÄD](https://open.spotify.com/artist/5AYlHjA1obBZMUoCM3XWWN), [CallmeShelby](https://open.spotify.com/artist/0j4scQHJ5xgv2fhDpDcy73) | [VISIONE](https://open.spotify.com/album/5qOcBs4oP6UcGRoUMROa0v) | 2:22 | 2023-01-05 | 2023-01-27 |
 | [Vita Amara](https://open.spotify.com/track/3qez8fluFsnVQfvj1vpjGp) | [Due G](https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba), [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [Vita Amara](https://open.spotify.com/album/3E6BjguKR4TwvhdIFJK7O1) | 2:28 | 2022-12-22 | 2023-01-13 |
 | [Vita Di Plastica](https://open.spotify.com/track/6tMepxI7gnLijhWoU65HYR) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Vita Di Plastica](https://open.spotify.com/album/6Egb7BNm1RZzjKpvFwHPVU) | 3:00 | 2023-01-12 | 2023-01-27 |

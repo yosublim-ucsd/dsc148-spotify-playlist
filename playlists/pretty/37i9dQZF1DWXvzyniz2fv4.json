@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 145802,
+  "num_followers": 145823,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDJjN2NlNGYwOTEyNDRmNTBlNjMzYTU1ZjUzYmRhZjc5",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMGFjZDc1YWUyYzU1ZjY2NzRhYzBlODVjYTdkZWU2YWZj",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -507,38 +507,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
-      },
-      "artists": [
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "SSA",
         "url": "https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 221359,
       "name": "SSA",
       "url": "https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -655,6 +655,30 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Desce",
+        "url": "https://open.spotify.com/album/7GumqQ218g9ztXePPLfdht"
+      },
+      "artists": [
+        {
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+        },
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
+        },
+        {
+          "name": "MC Marcinho",
+          "url": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ],
+      "duration_ms": 160767,
+      "name": "Desce",
+      "url": "https://open.spotify.com/track/1FQQ7JbPW1xvzwCCZ9WjSd"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Desce",
-        "url": "https://open.spotify.com/album/7GumqQ218g9ztXePPLfdht"
-      },
-      "artists": [
-        {
-          "name": "CARTE",
-          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
-        },
-        {
-          "name": "Diego Thug",
-          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
-        },
-        {
-          "name": "MC Marcinho",
-          "url": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
-        }
-      ],
-      "duration_ms": 160767,
-      "name": "Desce",
-      "url": "https://open.spotify.com/track/1FQQ7JbPW1xvzwCCZ9WjSd"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Inverno",
+        "url": "https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 212137,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Nossas M\u00eddias",
         "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Inverno",
-        "url": "https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 212137,
-      "name": "Ros\u00e9",
-      "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Marquinha",
-        "url": "https://open.spotify.com/album/2v8M0Lrx542HX0W11xEeVp"
-      },
-      "artists": [
-        {
-          "name": "Yan Silvestre",
-          "url": "https://open.spotify.com/artist/6pm78bdVnxw8tyRluvJlhZ"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Marquinha",
-      "url": "https://open.spotify.com/track/4killZKEjakHnPgOPKzHL1"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 252367,
       "name": "Guts Sessions #1: Menina Linda",
       "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Marquinha",
+        "url": "https://open.spotify.com/album/2v8M0Lrx542HX0W11xEeVp"
+      },
+      "artists": [
+        {
+          "name": "Yan Silvestre",
+          "url": "https://open.spotify.com/artist/6pm78bdVnxw8tyRluvJlhZ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Marquinha",
+      "url": "https://open.spotify.com/track/4killZKEjakHnPgOPKzHL1"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Rosas Rositas",
-        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
-      },
-      "artists": [
-        {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
-        }
-      ],
-      "duration_ms": 309406,
-      "name": "Rosas Rositas",
-      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/5sEJvbVgT33VcOkKc3C5Sa"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/1Ea9xfSLH7uOi6NuAx0hOw"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Rosas Rositas",
+        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
+      },
+      "artists": [
+        {
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+        }
+      ],
+      "duration_ms": 309406,
+      "name": "Rosas Rositas",
+      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
     },
     {
       "added_at": "2023-03-24 03:01:00",

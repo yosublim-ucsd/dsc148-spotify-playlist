@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 8393,
+  "num_followers": 8443,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NDg2NSwwMDAwMDAwMGUzNzRkNGM2MWJiYjdhZjdjODM4ZDJjYjk1YWJjYWIz",
+  "snapshot_id": "MTY3OTY3NDg2NSwwMDAwMDAwMGUxZDIzNmE5ZjFlNWU1OWFiNDY3N2MzMzJlNjlhNmM0",
   "tracks": [
     {
       "added_at": "2023-03-24 16:21:05",
@@ -633,7 +633,7 @@
         }
       ],
       "duration_ms": 154968,
-      "name": "Firedncr. (Amapiano Remix)",
+      "name": "Firedncr. - Amapiano Remix",
       "url": "https://open.spotify.com/track/2S7qU3PHssWAaZn2rr3brR"
     },
     {
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB"
+      },
+      "artists": [
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "duration_ms": 151179,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa"
+    },
+    {
+      "added_at": "2023-03-24 16:21:05",
+      "album": {
         "name": "Some Nights I Dream of Doors",
         "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
       },
@@ -1459,26 +1475,6 @@
       "duration_ms": 202066,
       "name": "Wrong for It",
       "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"
-    },
-    {
-      "added_at": "2023-03-24 16:21:05",
-      "album": {
-        "name": "Fine Wine (ft. Amaarae)",
-        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
-      },
-      "artists": [
-        {
-          "name": "Kelechief",
-          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Fine Wine (ft. Amaarae)",
-      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     }
   ],
   "unique_name": "Cocoa Butter ",

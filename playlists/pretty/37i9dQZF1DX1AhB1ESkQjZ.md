@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AhB1ESkQjZ.md) - [plain]
 
 > Canadian electronic band  <a href="spotify:artist:6c1pBXHYjFcGQQNO5MMsdd">Keys N Krates</a> deliver a fun mix while keeping things eclectic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 25 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 25 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

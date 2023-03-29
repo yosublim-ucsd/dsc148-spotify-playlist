@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Let It Heal",
+        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "432hz Let It Heal - Studio Edit",
+      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
+    },
+    {
+      "album": {
         "name": "528 Hz Well Being",
         "url": "https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 181587,
       "name": "528 Hz Well Being",
       "url": "https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb"
+    },
+    {
+      "album": {
+        "name": "528 Hz \u2013 Delta",
+        "url": "https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "528 Hz \u2013 Delta",
+      "url": "https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL"
     },
     {
       "album": {
@@ -160,7 +196,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 191197,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/3Exl78B577DFANwmYM3bY4"
@@ -196,7 +232,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 186337,
       "name": "Aura",
       "url": "https://open.spotify.com/track/5kv8YaBfm2SZQk8YRPjXy5"
@@ -340,7 +376,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 370000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4K3hd7S53f3HiYN7LggDWL"
@@ -470,6 +506,24 @@
       "duration_ms": 190066,
       "name": "Dawn Of Day",
       "url": "https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1"
+    },
+    {
+      "album": {
+        "name": "Devotions",
+        "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
+      },
+      "artists": [
+        {
+          "name": "Hans Heeler",
+          "url": "https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Devotions",
+      "url": "https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg"
     },
     {
       "album": {
@@ -682,7 +736,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 170181,
       "name": "Garden of Tranquility - Studio Edit",
       "url": "https://open.spotify.com/track/3kqiXiHTpo3P8DHVT2tzhY"
@@ -1078,7 +1132,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 377000,
       "name": "Peaceful Garden",
       "url": "https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0"
@@ -1550,6 +1604,24 @@
       "duration_ms": 156447,
       "name": "Spiritual Sleep",
       "url": "https://open.spotify.com/track/3NxOODwM9R5KfibzsvTT2F"
+    },
+    {
+      "album": {
+        "name": "Stilte",
+        "url": "https://open.spotify.com/album/06VoObxzlK0aRzVpHm8FBE"
+      },
+      "artists": [
+        {
+          "name": "Femke Edelijn",
+          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194011,
+      "name": "Stilte",
+      "url": "https://open.spotify.com/track/7JmuwjQIrdufPz4y7hQyfF"
     },
     {
       "album": {

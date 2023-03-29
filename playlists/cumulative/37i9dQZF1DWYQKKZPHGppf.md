@@ -4,7 +4,7 @@
 
 > Plus Ultra presenta: il meglio dell'urban italiano nel 2022! Cover: RHOVE
 
-113 songs - 5 hr 38 min
+114 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA) | 3:25 | 2021-12-01 | 2022-12-01 |
 | [BUGIE \(feat\. Rkomi & Carl Brave\)](https://open.spotify.com/track/4DRyrGfwWACRYP9BDnEFcq) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [MADAME](https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr) | 2:51 | 2022-06-09 | 2022-12-01 |
 | [BUGIE \(feat\. Rkomi & Carl Brave\)](https://open.spotify.com/track/5dP8HoPhDJ53ILl7oxfA87) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [MADAME](https://open.spotify.com/album/2hF0ZgBdbq551zWtp2M0VA) | 2:51 | 2021-12-01 | 2022-07-29 |
-| [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 | 2022-11-30 |  |
+| [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/63HrhoJeSnrEYjPMDQHCOv) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 3:32 | 2022-11-30 |  |
+| [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 | 2022-11-30 | 2023-03-29 |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-11-30 |  |
 | [Caos](https://open.spotify.com/track/5ychvxJuts6RyjQz2aoXqY) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:59 | 2022-11-30 |  |
 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 | 2022-11-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Chris Wendell",
-  "num_followers": 695700,
+  "num_followers": 695691,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDE4MiwwMDAwMDAwMGM4Zjk1ZDU3NjUzMTRhODAwN2MzOTYzNjM0MWQ3NmRi",
+  "snapshot_id": "MTY3OTA0MDE4MiwwMDAwMDAwMDk5MDUwNzkxM2FiZDMyMzAzZGExMDJjYmM0ZjViZWIx",
   "tracks": [
     {
       "added_at": "2023-03-17 08:03:02",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
-    },
-    {
-      "added_at": "2023-03-17 08:03:02",
-      "album": {
         "name": "Lo Tengo",
         "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 167442,
       "name": "LO TENGO",
       "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
+    },
+    {
+      "added_at": "2023-03-17 08:03:02",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -447,18 +447,22 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "Gatita Gangster",
+        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 169526,
-      "name": "P\u00cdDELO",
-      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+      "duration_ms": 236600,
+      "name": "Gatita Gangster",
+      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "Gatita Gangster",
-        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Gatita Gangster",
-      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
+      "duration_ms": 169526,
+      "name": "P\u00cdDELO",
+      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
+        "name": "Una Ni\u00f1a In\u00fatil",
+        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
+    },
+    {
+      "added_at": "2023-03-17 08:03:02",
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -627,18 +643,22 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "Una Ni\u00f1a In\u00fatil",
-        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
+        "name": "UuU",
+        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 189666,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
+      "duration_ms": 175840,
+      "name": "UuU",
+      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -671,26 +691,6 @@
       "duration_ms": 254152,
       "name": "Falso Amigo",
       "url": "https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT"
-    },
-    {
-      "added_at": "2023-03-17 08:03:02",
-      "album": {
-        "name": "UuU",
-        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "UuU",
-      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
+        "name": "Qu\u00edtame",
+        "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Qu\u00edtame",
+      "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
+    },
+    {
+      "added_at": "2023-03-17 08:03:02",
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "Qu\u00edtame",
-        "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
-      },
-      "artists": [
-        {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Qu\u00edtame",
-      "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
-    },
-    {
-      "added_at": "2023-03-17 08:03:02",
-      "album": {
         "name": "Til Death",
         "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 97391,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
+    },
+    {
+      "added_at": "2023-03-17 08:03:02",
+      "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -1415,22 +1431,6 @@
       "duration_ms": 154415,
       "name": "do you come here often?",
       "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
-    },
-    {
-      "added_at": "2023-03-17 08:03:02",
-      "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "\u00dasame",
-        "url": "https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "\u00dasame",
-      "url": "https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F"
-    },
-    {
-      "added_at": "2023-03-17 08:03:02",
-      "album": {
         "name": "Nobody Like Me",
         "url": "https://open.spotify.com/album/5yNTTe5Y9eyjEdNLKY2TPL"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 186961,
       "name": "Nobody Like Me",
       "url": "https://open.spotify.com/track/6V1LNio3PtaoiePzCAJF9t"
+    },
+    {
+      "added_at": "2023-03-17 08:03:02",
+      "album": {
+        "name": "\u00dasame",
+        "url": "https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "\u00dasame",
+      "url": "https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F"
     }
   ],
   "unique_name": "Vibras",

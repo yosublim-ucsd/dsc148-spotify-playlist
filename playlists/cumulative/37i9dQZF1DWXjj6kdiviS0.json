@@ -1245,6 +1245,32 @@
     },
     {
       "album": {
+        "name": "Marais: Pi\u00e8ces de viole",
+        "url": "https://open.spotify.com/album/1U2A9ZPdjDpyeXVmsZWBSd"
+      },
+      "artists": [
+        {
+          "name": "Marin Marais",
+          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
+        },
+        {
+          "name": "Mieneke van der Velden",
+          "url": "https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp"
+        },
+        {
+          "name": "Glen Wilson",
+          "url": "https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147560,
+      "name": "Pi\u00e8ces de viole, Livre 3 - Suite No. 7 in G Major: No. 92. Pr\u00e9lude. Lentement",
+      "url": "https://open.spotify.com/track/2uzur7yhtXRMIoMQqgqCbd"
+    },
+    {
+      "album": {
         "name": "Fran\u00e7ois Couperin: Pi\u00e8ces de violes 1728",
         "url": "https://open.spotify.com/album/6ZOLFFLtDLD2wCGOxGVuDm"
       },
@@ -1498,7 +1524,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 147560,
       "name": "Suite in G major: Pr\u00e9lude - lentement",
       "url": "https://open.spotify.com/track/14stuPc6g7QVOQt2FSMJJM"

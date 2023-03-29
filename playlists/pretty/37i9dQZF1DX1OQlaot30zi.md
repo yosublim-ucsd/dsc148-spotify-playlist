@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ANNA, Tony, Neima e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,389 likes - 78 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,432 likes - 78 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 43 | [PAPAJERSEY](https://open.spotify.com/track/7f2pjAvuVMMJvKqm8xVMa7) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [PAPAJERSEY](https://open.spotify.com/album/6GvztqFAleXlYXRj9Tse7Z) | 2:10 |
 | 44 | [SHE LIKE ME](https://open.spotify.com/track/0g9DkumOi0JS4gTU5rzDw1) | [Baby Sosa](https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K) | [SHE LIKE ME](https://open.spotify.com/album/5IqZkS9RnKigGgptLDRgwo) | 2:17 |
 | 45 | [Wake Up](https://open.spotify.com/track/2XRadCJPt1ef4YD8ydNeXJ) | [Knfuzed](https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB) | [Wake Up](https://open.spotify.com/album/78e3XuhmbCga6gq2FNaJAE) | 1:46 |
-| 46 | [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 |
+| 46 | [Viral](https://open.spotify.com/track/3Nww47FJ3MiIdpHCMarCBU) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/5OkP2IKTap8fIUptFcFbNN) | 2:27 |
 | 47 | [TEN TEN](https://open.spotify.com/track/6xWwDNDnU6SeshHsKJKiML) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0), [Manny Troublez](https://open.spotify.com/artist/4zy1P09QNWgC7LvrAbYaDN) | [TEN TEN](https://open.spotify.com/album/6HAiyDtspjIZ3fFNGoZSHp) | 3:03 |
 | 48 | [BIGGEST](https://open.spotify.com/track/7efA9nmik7b4ZKhuznb3cU) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [BIGGEST](https://open.spotify.com/album/5fZg4SUzKMiPu34FISxbxL) | 2:28 |
 | 49 | [MATCHY MATCHY](https://open.spotify.com/track/3UGdtfgKz8HK02RPU2WEvR) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [MATCHY MATCHY](https://open.spotify.com/album/1zDAyCBiCBGxpZI2rsHPQS) | 2:50 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 77 | [Uno9999](https://open.spotify.com/track/59KsUaIA6LKg1CCAmkhYOX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Uno9999](https://open.spotify.com/album/028OsY71ny6lzw0Tuq8ILS) | 3:27 |
 | 78 | [DÉSOLÉ](https://open.spotify.com/track/4xrBfdXHqenjwuCRvnlqRM) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [DÉSOLÉ](https://open.spotify.com/album/2dBduepbYIm9uQlADmUvdd) | 2:26 |
 
-Snapshot ID: `MTY3OTY3NzU1MSwwMDAwMDAwMDhiNmNlMTcxOWYwYzllNWZjMjFjZWNmNGE2NzU5ZmMw`
+Snapshot ID: `MTY3OTY3NzU1MSwwMDAwMDAwMGRlNTljNzQ3MmViNjY4YjMxNGE0ZWQ5Y2RmM2RiYmY3`

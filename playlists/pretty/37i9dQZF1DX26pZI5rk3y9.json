@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4062,
+  "num_followers": 4076,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDExYzkyODA4NDI3MWY5ZDVjODJhNTAzMWVhZTI3OTQ1",
+  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDJmYzhjNGZkODIyNTM5OTE4MjU4YTQxM2ExYTYwOTY2",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Freddy King Sings",
         "url": "https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 168241,
       "name": "I Love The Woman",
       "url": "https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Blues Roots",
+        "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Two Bugs And A Roach",
+      "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Sax Star: Maxwell's Best, Vol. 1",
         "url": "https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 176226,
       "name": "Alligator Meat",
       "url": "https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Blues Roots",
-        "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Two Bugs And A Roach",
-      "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
     },
     {
+      "added_at": "2023-03-29 05:27:27",
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 323280,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U"
+    },
+    {
       "added_at": "2022-12-02 14:28:08",
       "album": {
         "name": "Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935)",
@@ -943,22 +959,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Atomic Cocktail - Legendary Slim Gaillard",
-        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
-      },
-      "artists": [
-        {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Scotchin' with Soda",
-      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Presenting Smiley Lewis",
         "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Blues For Everybody",
-        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
+        "name": "Atomic Cocktail - Legendary Slim Gaillard",
+        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
         }
       ],
-      "duration_ms": 156746,
-      "name": "She Cooks Me Cabbage",
-      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
+      "duration_ms": 167600,
+      "name": "Scotchin' with Soda",
+      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1003,6 +1003,22 @@
       "duration_ms": 142933,
       "name": "Robbie-Doby Boogie",
       "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Blues For Everybody",
+        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "She Cooks Me Cabbage",
+      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1035,22 +1051,6 @@
       "duration_ms": 176600,
       "name": "I Got Your Ice Cold Nugrape",
       "url": "https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
-        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
-      },
-      "artists": [
-        {
-          "name": "The Art Wood Combo",
-          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1091,34 +1091,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Atomic Cocktail - Legendary Slim Gaillard",
-        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
+        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
       },
       "artists": [
         {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+          "name": "The Art Wood Combo",
+          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
         }
       ],
-      "duration_ms": 163760,
-      "name": "Atomic Cocktail",
-      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
-    },
-    {
-      "added_at": "2023-03-28 01:19:13",
-      "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 323280,
-      "name": "Ridin'",
-      "url": "https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U"
+      "duration_ms": 172866,
+      "name": "Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1135,6 +1119,22 @@
       "duration_ms": 155000,
       "name": "Appetite Blues",
       "url": "https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Atomic Cocktail - Legendary Slim Gaillard",
+        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+      },
+      "artists": [
+        {
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Atomic Cocktail",
+      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
     },
     {
       "added_at": "2022-12-02 14:28:08",

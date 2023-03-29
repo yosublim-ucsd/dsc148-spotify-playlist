@@ -3004,7 +3004,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
@@ -6418,10 +6418,28 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed (Piano Version)",
+        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
     },
     {
       "album": {
@@ -7484,7 +7502,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Fr\u00e5gor",
       "url": "https://open.spotify.com/track/725rVFXUtVoKJleaw5Ss5b"
@@ -11662,7 +11680,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 221217,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
@@ -13192,6 +13210,24 @@
       "duration_ms": 163886,
       "name": "LIVET P\u00c5 EN PINNE",
       "url": "https://open.spotify.com/track/5fvrpWPEDhM6IDyKb56ySV"
+    },
+    {
+      "album": {
+        "name": "LOGGA UT",
+        "url": "https://open.spotify.com/album/5piGT2xQPt0xydho8ufEsO"
+      },
+      "artists": [
+        {
+          "name": "Sticky",
+          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125753,
+      "name": "LOGGA UT",
+      "url": "https://open.spotify.com/track/6WZ0e4BsFb5tmGQeaOsuco"
     },
     {
       "album": {
@@ -15396,7 +15432,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 153043,
       "name": "Nakala",
       "url": "https://open.spotify.com/track/3y5fUcF94aDFxA2HjrERDt"
@@ -15476,7 +15512,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 179893,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
@@ -17508,7 +17544,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 124950,
       "name": "RAGGARBIL",
       "url": "https://open.spotify.com/track/2VhK6oiMVLEMp16Ri3FRqW"
@@ -17830,7 +17866,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 165981,
       "name": "Rhythm Of My Show",
       "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"

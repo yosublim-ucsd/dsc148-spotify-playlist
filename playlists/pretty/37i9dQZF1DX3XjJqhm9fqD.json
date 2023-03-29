@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Micha\u00ebl Brun",
-  "num_followers": 75625,
+  "num_followers": 75661,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA4NTIxNSwwMDAwMDAwMGRhNjBiMDQ3YmQ3YjgxZGJlNTY2YmFmNTczYjA5NjVk",
+  "snapshot_id": "MTY3OTA4NTIxNSwwMDAwMDAwMDk5NTUxMjhjMzM0Y2RlZDFlZjFlZmE1MjQyYjZkOTU1",
   "tracks": [
     {
       "added_at": "2023-02-17 22:40:08",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Tous Ces D\u00e9tails",
         "url": "https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "Gen Bagay",
         "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 194716,
       "name": "Gen Bagay",
       "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Podyab Yo",
         "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Plenyen Player Yo",
         "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Thug Love",
         "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "P's & Q's",
         "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "La Vibe Tropicale EP",
         "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 230476,
       "name": "Bout Konpa - Original Mix",
       "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1519,30 +1519,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Fanm d'Ayiti",
-        "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        },
-        {
-          "name": "Spektral Quartet",
-          "url": "https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb"
-        }
-      ],
-      "duration_ms": 400666,
-      "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
-      "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7"
       },
@@ -1563,6 +1539,30 @@
       "duration_ms": 197999,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Fanm d'Ayiti",
+        "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        },
+        {
+          "name": "Spektral Quartet",
+          "url": "https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb"
+        }
+      ],
+      "duration_ms": 400666,
+      "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
+      "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1597,7 +1597,7 @@
       "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Gas",
         "url": "https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI"
@@ -1649,7 +1649,7 @@
       "url": "https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Stupid Love",
         "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
@@ -1669,23 +1669,7 @@
       "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
-      "album": {
-        "name": "Ou Bezwen",
-        "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
-      },
-      "artists": [
-        {
-          "name": "Jay Brixxx",
-          "url": "https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv"
-        }
-      ],
-      "duration_ms": 252450,
-      "name": "Ou Bezwen",
-      "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
-    },
-    {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Koup\u00e9",
         "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
@@ -1709,7 +1693,23 @@
       "url": "https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk"
     },
     {
-      "added_at": "2023-03-28 01:10:41",
+      "added_at": "2023-03-29 04:43:15",
+      "album": {
+        "name": "Ou Bezwen",
+        "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
+      },
+      "artists": [
+        {
+          "name": "Jay Brixxx",
+          "url": "https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv"
+        }
+      ],
+      "duration_ms": 252450,
+      "name": "Ou Bezwen",
+      "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
+    },
+    {
+      "added_at": "2023-03-29 04:43:15",
       "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3"

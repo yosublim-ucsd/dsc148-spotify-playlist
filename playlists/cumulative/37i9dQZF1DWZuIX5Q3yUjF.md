@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Spinas
 
-292 songs - 14 hr 24 min
+294 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,9 +215,11 @@
 | [Porcellana](https://open.spotify.com/track/6riDFgwqLeLabN6u1DzMtV) | [Bluenne](https://open.spotify.com/artist/3hZtNwuBpIZAT8wzNuwTVF) | [Porcellana](https://open.spotify.com/album/54od64nXLcEZf3YmZUpzVq) | 3:01 | 2023-01-12 | 2023-02-24 |
 | [Qualcosa di Speciale](https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh) | [Qualcosa di speciale](https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde) | 2:53 | 2022-07-07 | 2022-11-11 |
 | [Questi rottami](https://open.spotify.com/track/0Wx6wCWEEfPVS223ej9KWM) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [FUTURO3](https://open.spotify.com/album/2elscUEH1CWrdqLTyZGUxK) | 3:20 | 2022-07-14 | 2023-01-13 |
-| [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/3vCa88ij0fqwttqJ7E7pQL) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:50 | 2022-09-29 |  |
+| [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/1WzE7gJwVB4ELFUJes2Gm6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:50 | 2023-03-23 |  |
+| [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/3vCa88ij0fqwttqJ7E7pQL) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:50 | 2022-09-29 | 2023-03-29 |
 | [R&DRILL](https://open.spotify.com/track/7yicqzLOI8Cl2A8g60xzG9) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [R&DRILL](https://open.spotify.com/album/1bh96AtCfno8P6R3OBrudh) | 2:32 | 2022-05-05 | 2022-11-11 |
-| [r\(\)t\(\)nda \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/0GUPqrlZYs3ANVhAifVlgJ) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:39 | 2022-09-29 |  |
+| [r\(\)t\(\)nda \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/0GUPqrlZYs3ANVhAifVlgJ) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:39 | 2022-09-29 | 2023-03-29 |
+| [r\(\)t\(\)nda \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/7FsuMwalG48ZfjklkSkuJa) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:39 | 2023-03-23 |  |
 | [Rasoi](https://open.spotify.com/track/3zLbiZec8UhHGVue0K1mGy) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Rasoi](https://open.spotify.com/album/5enFPWsnL5gj4q66wPrWXf) | 3:24 | 2022-07-14 | 2022-10-28 |
 | [Regole](https://open.spotify.com/track/5SECpMuXpcz58sqkJMmmw3) | [Gaia Restifo](https://open.spotify.com/artist/4MoXJcJzcl3Md7FzryFfVZ), [AMGI](https://open.spotify.com/artist/7cfE5bqZj43LdS4A0cpMW7) | [Regole](https://open.spotify.com/album/5gyjzF5mQwyGJs95LEcbz7) | 2:58 | 2023-01-12 | 2023-02-24 |
 | [Repubblica](https://open.spotify.com/track/6eIPv0RqhVJiExImD71D97) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [DIVISO DUE](https://open.spotify.com/album/109751QGcD8dQsdnYnKNck) | 3:11 | 2022-05-12 | 2023-03-10 |

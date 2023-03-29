@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Jovem MK
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,211 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,244 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 16 | [Você Vai Entender, Pt\. 2](https://open.spotify.com/track/4E9cmeab2htiNF1gid73tT) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Você Vai Entender, Pt\. 2](https://open.spotify.com/album/6zlS9Bd9sj9QOVpsHYhU0W) | 3:58 |
 | 17 | [Malandro](https://open.spotify.com/track/0oS73KuE701HwuXDRsj3Ym) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Josefitos](https://open.spotify.com/artist/0rRzdH6o0LFnBMo2BX3pxw) | [Malandro](https://open.spotify.com/album/1bQdiGqJ5n4eGFiOhxLy8i) | 2:04 |
 | 18 | [Tira Esse Olho de Mim ;7](https://open.spotify.com/track/5KMASU5GIxNJsQlrp8CEQd) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [DogDu BEAT$](https://open.spotify.com/artist/2Ce5qAualGsritIDCedjAO) | [SENSITIVO ;7](https://open.spotify.com/album/5Lk1RcTvugXvIinZpFMLJl) | 4:06 |
-| 19 | [Money & Merla](https://open.spotify.com/track/1YVj5xJYhpGunwCW23XMl7) | [Babymath](https://open.spotify.com/artist/0APocX0Lou1PmMUUWSvFMB), [Nvnes](https://open.spotify.com/artist/2jRwHm19qtYn38Ta8SNywB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [prodbyxbs](https://open.spotify.com/artist/4DkfuOqvrE32WpHLO4OVjF) | [Money & Merla](https://open.spotify.com/album/5n1tmYw1WX5BVGhdujnNFV) | 2:17 |
+| 19 | [Money & Merla](https://open.spotify.com/track/1YVj5xJYhpGunwCW23XMl7) | [Babymath](https://open.spotify.com/artist/0APocX0Lou1PmMUUWSvFMB), [Nvnes](https://open.spotify.com/artist/2jRwHm19qtYn38Ta8SNywB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [KnRocky](https://open.spotify.com/artist/3XWotdXFXhKVJ50qmUZeGL) | [Money & Merla](https://open.spotify.com/album/5n1tmYw1WX5BVGhdujnNFV) | 2:23 |
 | 20 | [Rádio na cintura](https://open.spotify.com/track/4mlRy1Ue0URPAy4YFUf1dQ) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE), [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Daglock](https://open.spotify.com/artist/2TT4k2adsB8olRb4vbTHBK), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm) | [Rádio na cintura](https://open.spotify.com/album/3WvGvvdU7jJRRERZNv4akx) | 2:40 |
 | 21 | [BALA](https://open.spotify.com/track/4x7S3R2QKKryow6RQy4Nso) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD), [Prado](https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq) | [BALA](https://open.spotify.com/album/0XIMI0yBzFwlejQddxeu0Y) | 2:30 |
 | 22 | [My Bitch](https://open.spotify.com/track/6xyssWnWuRPVbsEQgi2Pme) | [Little R](https://open.spotify.com/artist/12gFU2TuTDyy2bY65FVzPP), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81) | [My Bitch](https://open.spotify.com/album/6kwZJwpJXOz1CXaIZ7RhOR) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,314 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,350 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 91 | [our love](https://open.spotify.com/track/4GD5zKQulrtq3KgI0abVtE) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [popstyle](https://open.spotify.com/album/1BmbeoQLkG0FCFyjS9MeU5) | 2:38 |
 | 92 | [Come On](https://open.spotify.com/track/7I0X2MQkZDngxQ2NDMOfWP) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Foreign Language](https://open.spotify.com/album/5a2yMZjCdVXllxAwymNCUL) | 2:49 |
 | 93 | [Crowd Pleaza](https://open.spotify.com/track/4GQlFXjf4QoiUaRbM1jmGy) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Crowd Pleaza](https://open.spotify.com/album/0t73VwBeypyUR77hfITjak) | 3:26 |
-| 94 | [Walking Bum](https://open.spotify.com/track/0SV13WlPgOxrqWvVqTXxt2) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Heavy Trash](https://open.spotify.com/album/6wZ1XKFDVGmRnAzpQ6HoPu) | 3:55 |
+| 94 | [Walking Bum](https://open.spotify.com/track/2knbsqFaX9UJ2ryzta8MxI) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Heavy Trash](https://open.spotify.com/album/1rzLcLEAUMocKZYJEbHOU0) | 3:55 |
 | 95 | [tiki](https://open.spotify.com/track/6OxoIcvexK5hRQqCeseXeH) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [tiki](https://open.spotify.com/album/7AdommYIuTNghRELj7rSKB) | 2:38 |
 | 96 | [M31 \(Racing down the Hume\)](https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [M31 \(Racing down the Hume\)](https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8) | 2:14 |
 | 97 | [Kareem](https://open.spotify.com/track/61QdEvjU6RjbDEIThp78DY) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 1:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 124 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 125 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MTY2MzcxMzczNywwMDAwMDAwMDNlNWNmODU1OTUyZDEyOGVhNjJhOTBlNWM5YzI1ZGY3`
+Snapshot ID: `MTY2MzcxMzczNywwMDAwMDAwMGEyMTQwMWY5YzVmOWJhMjc2ZjY3ZWUxZTRlNjgyOGVk`

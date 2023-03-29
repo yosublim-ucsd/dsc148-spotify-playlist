@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,657 likes - 134 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,656 likes - 134 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 69 | [Bat Caves](https://open.spotify.com/track/4omSC1rruHivDrNEM2ugWk) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [Bat Caves](https://open.spotify.com/album/1dOhk7htVNUuZFxPIiUzcO) | 2:33 |
 | 70 | [Walk 2 Run](https://open.spotify.com/track/0uLwamsTv8ng3vFXEf5W2e) | [Mayden Blue](https://open.spotify.com/artist/75UHJrQHVWVIi1fM8TlRpf) | [Voyager](https://open.spotify.com/album/5AzdlqZP2nq2ugxzsuu26D) | 3:51 |
 | 71 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 |
-| 72 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [Drill](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 |
+| 72 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [LA instrumentals BKP](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 |
 | 73 | [Something Lite](https://open.spotify.com/track/7KkEtOKkGLZ68sM4LGXx0f) | [B Beatz](https://open.spotify.com/artist/60QsCAk0l6m5xNnz0PnOEF) | [Something Lite](https://open.spotify.com/album/5IPuCPKTNd25X9xr9grvqd) | 4:52 |
 | 74 | [Mesopotamia](https://open.spotify.com/track/1AQzhq2Bj2s4spmrn0UnpY) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [Mesopotamia](https://open.spotify.com/album/7HAi2VEkiPyPhSCgRt5gDf) | 2:14 |
 | 75 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 |

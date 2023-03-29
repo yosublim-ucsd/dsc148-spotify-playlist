@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: Julianno Sosa.
 
-142 songs - 7 hr 44 min
+143 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aburrido](https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup), [Inti Illimani Histórico](https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i) | [Aburrido](https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ) | 3:49 | 2022-01-20 |  |
 | [Ahora Que Me Vio](https://open.spotify.com/track/7qtW7ghQS8u7asDZvFU2N0) | [Camiloskill](https://open.spotify.com/artist/11JWPmE5SJIzBWa7b9m0Mk) | [Ahora Que Me Vio](https://open.spotify.com/album/4i9JqslNuZDWGH3fMrtemE) | 3:54 | 2022-01-20 | 2022-05-28 |
 | [AIRDROP](https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AWITA](https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe) | 3:01 | 2022-01-20 | 2022-05-28 |
+| [ALMIGHTY](https://open.spotify.com/track/2N5mIfZu5dV66bybxad7Hr) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [BlopaOnTheTrack](https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn) | [ALMIGHTY](https://open.spotify.com/album/48O2sAs7j2xV4Wo4VcAgpJ) | 3:01 | 2023-03-28 |  |
 | [Ando en Un Makinon](https://open.spotify.com/track/33SWIXYKpg0ZSwRQIVPu0S) | [Lil Geremi](https://open.spotify.com/artist/3nHsN7Leho58wo1RveLfzZ) | [Ando en Un Makinon](https://open.spotify.com/album/2AI7oCqG0otXcvTc5dKjBC) | 2:45 | 2022-01-20 |  |
 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 | 2022-07-22 |  |
 | [Asueto](https://open.spotify.com/track/2V3YBPnNXlonGO2U4m43Za) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:57 | 2022-01-20 | 2022-07-29 |

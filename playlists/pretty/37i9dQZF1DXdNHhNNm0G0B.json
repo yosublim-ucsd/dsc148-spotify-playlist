@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 69911,
+  "num_followers": 69923,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDUxMWIxYmYxZjlmNjJkOTQ3ZThiMmZmNWFiNTZjMjg1",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDJmYmQxM2U0M2RlYjQ1MjFjMTY1MTUyZmMxYTNhYWQ5",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Black Myself",
-        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201193,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Covered Tracks: Vol. 2",
         "url": "https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 263999,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Black Myself",
+        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201193,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The Cause of It All",
-        "url": "https://open.spotify.com/album/33kr65x9D148InPeYYIloG"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Shawn Amos",
-          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
-        }
-      ],
-      "duration_ms": 137186,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Hooray For Another Day",
         "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 525080,
       "name": "Ain't Nobody High Raga",
       "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/33kr65x9D148InPeYYIloG"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Alaska Blue",
         "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 173688,
       "name": "Alaska Blue",
       "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
       },
       "artists": [
         {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
         }
       ],
-      "duration_ms": 174093,
-      "name": "Friar's Point Blues",
-      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Orange County Serenade",
-      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
+      "duration_ms": 174093,
+      "name": "Friar's Point Blues",
+      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1087,6 +1087,22 @@
       "duration_ms": 186591,
       "name": "The Man From Nowhere",
       "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Seven Pines",
+        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "Long Nights I",
+      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Guitar Routes",
-        "url": "https://open.spotify.com/album/3DLyhtsqBSyJem8dSVXqTb"
-      },
-      "artists": [
-        {
-          "name": "Ruth Wyand",
-          "url": "https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh"
-        }
-      ],
-      "duration_ms": 154103,
-      "name": "Top Cat",
-      "url": "https://open.spotify.com/track/14SADKuKjAiMLlPfTkKUok"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Landscape and People",
         "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Seven Pines",
-        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
+        "name": "Guitar Routes",
+        "url": "https://open.spotify.com/album/3DLyhtsqBSyJem8dSVXqTb"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Ruth Wyand",
+          "url": "https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh"
         }
       ],
-      "duration_ms": 245026,
-      "name": "Long Nights I",
-      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
+      "duration_ms": 154103,
+      "name": "Top Cat",
+      "url": "https://open.spotify.com/track/14SADKuKjAiMLlPfTkKUok"
     },
     {
       "added_at": "2023-03-24 00:01:00",

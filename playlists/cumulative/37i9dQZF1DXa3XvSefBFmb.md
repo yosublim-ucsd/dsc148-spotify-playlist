@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-401 songs - 22 hr 43 min
+402 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [Outro Mar](https://open.spotify.com/track/6EQhn0ZYXVi8IPBS4cA5ku) | [Brisa](https://open.spotify.com/artist/0h86oLtyPHlFgPyr7AcAtC) | [Outro Mar](https://open.spotify.com/album/3skOTwzTRlaHveWwNcol3l) | 3:35 | 2022-02-02 | 2023-02-03 |
 | [Outros Planos](https://open.spotify.com/track/30t2xt3amQEfMIbvI15054) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Outros Planos](https://open.spotify.com/album/7GMXmkE4g6yWf0BlZLahhQ) | 3:41 | 2023-01-04 | 2023-03-02 |
 | [ouvi dizer](https://open.spotify.com/track/0mrWtdiImFX4bsU03Czryl) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 2:56 | 2023-03-01 | 2023-03-07 |
-| [ouvi dizer](https://open.spotify.com/track/2Z9WtDhWKnApltYEWp1U4Z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 2:56 | 2023-03-01 |  |
+| [ouvi dizer](https://open.spotify.com/track/21J63Asv4Xufgdb1KOlzoY) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 2:56 | 2023-03-01 |  |
+| [ouvi dizer](https://open.spotify.com/track/2Z9WtDhWKnApltYEWp1U4Z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 2:56 | 2023-03-01 | 2023-03-29 |
 | [ouvi dizer](https://open.spotify.com/track/6uRZBkSklUaoSV4NuPLIDH) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 2:56 | 2023-03-01 | 2023-03-20 |
 | [ouvi dizer](https://open.spotify.com/track/6zVFjOyyapIpNDZxYQVsnF) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 2:56 | 2023-03-01 | 2023-03-12 |
 | [Overthinking](https://open.spotify.com/track/64lehEwmtmiB607vXFShyn) | [Melyah](https://open.spotify.com/artist/7M3xFnNddpYffPgjzpt7f1) | [Overthinking](https://open.spotify.com/album/3Q8Yoh0bEjDauYjmDYkUjV) | 3:42 | 2023-02-03 |  |

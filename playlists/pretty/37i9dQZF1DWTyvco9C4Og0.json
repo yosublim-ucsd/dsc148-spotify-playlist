@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Christian Nodal en portada.",
-  "num_followers": 872107,
+  "num_followers": 872492,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDNiZDJjNmIzNzg5MDUzYjZhYWY2NDUxNzZmODY1ZGZk",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDc0ZjRlNmE0YTJhM2MyMWJhYzhiMjUyMWU3ZTAyMjAy",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM"
     },
     {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Mexicanisimo",
-        "url": "https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 131266,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B"
-    },
-    {
       "added_at": "2022-06-17 05:00:00",
       "album": {
         "name": "Las de Mi Apa",
@@ -1567,6 +1551,22 @@
       "duration_ms": 146672,
       "name": "Todo Cuanto Tuve",
       "url": "https://open.spotify.com/track/5vCnpRP2BzyPT2VaDaBFWy"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Mexicanisimo",
+        "url": "https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 131266,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B"
     },
     {
       "added_at": "2022-01-25 16:44:28",

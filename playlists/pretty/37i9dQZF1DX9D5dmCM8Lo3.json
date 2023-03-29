@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 133856,
+  "num_followers": 134120,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTgwMjE3MiwwMDAwMDAwMGNhZmUyYTg3ZDRjMTk3OTY2MGU0MTdlYTExZjQ3ZjQ2",
+  "snapshot_id": "MTY3NTgwMjE3MiwwMDAwMDAwMGJmMDU5M2NmNGQ1NDdhNjc5NzVmZTE3YTJhNjcxNGVi",
   "tracks": [
     {
       "added_at": "2022-03-02 23:11:11",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ"
     },
     {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
-        "name": "Somoku Hodo",
-        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Doku",
-      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
-    },
-    {
       "added_at": "2022-04-01 14:56:46",
       "album": {
         "name": "009 Sound System",
@@ -519,6 +503,22 @@
       "duration_ms": 277489,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Somoku Hodo",
+        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Doku",
+      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "Zapper",
-        "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
-      },
-      "artists": [
-        {
-          "name": "NANORAY",
-          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
-        }
-      ],
-      "duration_ms": 241411,
-      "name": "NEKOMATA'97",
-      "url": "https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
         "name": "About You Now",
         "url": "https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 218786,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Zapper",
+        "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
+      },
+      "artists": [
+        {
+          "name": "NANORAY",
+          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
+        }
+      ],
+      "duration_ms": 241411,
+      "name": "NEKOMATA'97",
+      "url": "https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "I Love You Kyary",
-        "url": "https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb"
-      },
-      "artists": [
-        {
-          "name": "Yesterdayneverhappened",
-          "url": "https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh"
-        }
-      ],
-      "duration_ms": 81000,
-      "name": "I Really Wish I Was Playing Smash Bros Right Now",
-      "url": "https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG"
-    },
-    {
       "added_at": "2022-03-02 23:11:11",
       "album": {
         "name": "Drop Five",
@@ -1079,6 +1063,22 @@
       "duration_ms": 98892,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "I Love You Kyary",
+        "url": "https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb"
+      },
+      "artists": [
+        {
+          "name": "Yesterdayneverhappened",
+          "url": "https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh"
+        }
+      ],
+      "duration_ms": 81000,
+      "name": "I Really Wish I Was Playing Smash Bros Right Now",
+      "url": "https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -1197,20 +1197,24 @@
       "url": "https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa"
     },
     {
-      "added_at": "2022-03-02 23:11:11",
+      "added_at": "2022-04-01 14:56:46",
       "album": {
-        "name": "!!!!",
-        "url": "https://open.spotify.com/album/7B2VhmnMb6ks1ZqcqqzHGf"
+        "name": "Empty Hiding World",
+        "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
       },
       "artists": [
         {
-          "name": "Xxtarlit\u26b8",
-          "url": "https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
         }
       ],
-      "duration_ms": 352361,
-      "name": "!!!!",
-      "url": "https://open.spotify.com/track/5fZ40SBA9ylaf7lSpbjrug"
+      "duration_ms": 185072,
+      "name": "Ascending Red",
+      "url": "https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY"
     }
   ],
   "unique_name": "webcore",

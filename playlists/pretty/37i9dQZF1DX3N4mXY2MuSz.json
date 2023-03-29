@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 45964,
+  "num_followers": 45954,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMGZjYWYxYmFmMDVhODNmMjhkMWUyZWEyMTA1ZDQwMTkz",
+  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMDc5ZTIxZmY0ZTJiNWIxZTk2ZDg5NDYyZWVmYjExOTEw",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -427,18 +427,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
       },
       "artists": [
         {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 109186,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
+      "duration_ms": 163933,
+      "name": "Xmas Has Been X'ed",
+      "url": "https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 163933,
-      "name": "Xmas Has Been X'ed",
-      "url": "https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO"
+      "duration_ms": 109186,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 99573,
-      "name": "God Rest Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas EP",
         "url": "https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy"
       },
@@ -603,22 +587,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Let It Snow Baby...Let It Reindeer",
-        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
-      },
-      "artists": [
-        {
-          "name": "Relient K",
-          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
-        }
-      ],
-      "duration_ms": 132240,
-      "name": "We Wish You a Merry Christmas",
-      "url": "https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
         "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
       },
@@ -635,6 +603,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Let It Snow Baby...Let It Reindeer",
+        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "duration_ms": 132240,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 215200,
       "name": "Nothing For Christmas",
       "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 99573,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -679,6 +679,22 @@
       "duration_ms": 174000,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Played In Space: The Best of Something Corporate",
+        "url": "https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Forget December",
+      "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -731,22 +747,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Played In Space: The Best of Something Corporate",
-        "url": "https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Forget December",
-      "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Maybe Memories",
         "url": "https://open.spotify.com/album/1jnsarG7BdXCoxvIAejkbJ"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 102483,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 159266,
       "name": "Christmas Vacation",
       "url": "https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 102483,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 132637,
-      "name": "You\u2019re a Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Somewhere in My Memory",
         "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 217426,
       "name": "Ex-Miss",
       "url": "https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 132637,
+      "name": "You\u2019re a Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "The Goldfinger Christmas EP",
-        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 86386,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas Spirit...In My House",
         "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 206000,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "The Goldfinger Christmas EP",
+        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 86386,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
     },
     {
       "added_at": "2021-11-19 13:39:50",

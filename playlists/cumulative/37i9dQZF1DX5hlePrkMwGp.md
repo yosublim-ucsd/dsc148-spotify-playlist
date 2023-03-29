@@ -4,10 +4,11 @@
 
 > Enjoy the romantic side of Ani
 
-55 songs - 3 hr 42 min
+55 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/09BF3kcZeMEG4Wzu0C4M9X) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Kolamavu Kokila](https://open.spotify.com/album/5F982BYjAKiPnliKexrHBi) | 0:00 | 2021-08-02 |  |
 | [](https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo) | 0:00 | 2021-08-02 |  |
 | [Aathi \(From "Kaththi"\)](https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 5:04 | 2021-08-02 |  |
 | [Ailasa Ailasa](https://open.spotify.com/track/6n8gWl0tiqrjsrytd24prO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 4:06 | 2021-08-02 |  |
@@ -32,7 +33,6 @@
 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 | 2021-08-02 |  |
 | [Kadhal Kan Kattudhe](https://open.spotify.com/track/5W5vPvu6DkmqdvJXfjvSvO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 4:16 | 2021-08-02 |  |
 | [Kadhalaada](https://open.spotify.com/track/4zvwpmnKudoMEVpl0h2JKE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 4:16 | 2021-08-02 |  |
-| [Kalyana Vayasu](https://open.spotify.com/track/09BF3kcZeMEG4Wzu0C4M9X) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kolamavu Kokila](https://open.spotify.com/album/5F982BYjAKiPnliKexrHBi) | 3:59 | 2021-08-02 |  |
 | [Kanave Kanave](https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [David](https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu) | 4:44 | 2021-08-02 |  |
 | [Kannamma](https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ispade Rajavum Idhaya Raniyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI) | 4:16 | 2021-08-02 |  |
 | [Kannazhaga \- The Kiss of Love](https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:25 | 2021-08-02 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-32 songs - 1 hr 30 min
+33 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [IFHJ](https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [IFHJ](https://open.spotify.com/album/2PBAoczL4wDcwup5IF0yeN) | 2:36 | 2022-09-28 |  |
 | [Ik Laat Je Los](https://open.spotify.com/track/4uQbpGV07Epf8AkCmanh0j) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV) | [De Eerste Date](https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj) | 3:29 | 2022-05-25 |  |
 | [Je Weet Ik Ben Een Slodder \(feat\. Sigourney\)](https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Sigourney](https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ) | [Je Weet Ik Ben Een Slodder \- Single](https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ) | 3:51 | 2022-05-25 |  |
+| [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 | 2023-03-28 |  |
 | [Loco](https://open.spotify.com/track/6OG3E84PZPTWyI3unCiMV5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Loco](https://open.spotify.com/album/2YzAm5UkVJSFANQNlSGFKj) | 3:08 | 2022-05-25 |  |
 | [Love](https://open.spotify.com/track/6BpRusupbO3jjx89yQkuer) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV) | [De Eerste Date](https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj) | 3:37 | 2022-05-25 |  |
 | [Ongelofelijk](https://open.spotify.com/track/09xShRjUnJyJe1nFm0qS14) | [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD) | [Ongelofelijk](https://open.spotify.com/album/1b34dfAabmWlwMT9U7mqH5) | 3:39 | 2022-05-25 |  |

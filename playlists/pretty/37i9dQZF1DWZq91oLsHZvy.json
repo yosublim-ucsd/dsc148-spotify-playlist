@@ -1,12 +1,12 @@
 {
   "description": "Run to indie and alternative hits.",
-  "num_followers": 248089,
+  "num_followers": 248937,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ5NzMxNCwwMDAwMDAwMGNjNWM0MWZjMDYzZGFhOWYyNzcyZWI0N2Y1OTljZmE5",
+  "snapshot_id": "MTY3NzQ5NzMxNCwwMDAwMDAwMDhmYTQ3NjNjMTNkODAyY2VjNGMzMGNmYTRkNjYzYmMx",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
-      "added_at": "2023-03-28 01:14:02",
+      "added_at": "2023-03-29 04:39:21",
       "album": {
         "name": "Oysters In My Pocket",
         "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
@@ -345,20 +345,20 @@
       "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
     },
     {
-      "added_at": "2023-02-10 12:43:59",
+      "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
         }
       ],
-      "duration_ms": 177511,
-      "name": "My Love - Edit",
-      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
+      "duration_ms": 223186,
+      "name": "Kangaroo Court",
+      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
+      "added_at": "2023-02-10 12:43:59",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
       },
       "artists": [
         {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 223186,
-      "name": "Kangaroo Court",
-      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
+      "duration_ms": 177511,
+      "name": "My Love - Edit",
+      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 290173,
-      "name": "The Bay",
-      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 238786,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 290173,
+      "name": "The Bay",
+      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "On the Water",
-        "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Mondo",
         "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 175773,
       "name": "This Head I Hold",
       "url": "https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "On the Water",
+        "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        },
-        {
-          "name": "Sebu Simonian",
-          "url": "https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ"
-        }
-      ],
-      "duration_ms": 202921,
-      "name": "One Minute More",
-      "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "The Front Bottoms",
         "url": "https://open.spotify.com/album/5pCQUIEmbZveYwLmO3Iedv"
       },
@@ -1207,6 +1187,22 @@
       "duration_ms": 297346,
       "name": "Flashlight",
       "url": "https://open.spotify.com/track/5VeX28xDZhSgs7NWIR1Owp"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "Go It Alone",
+      "url": "https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        },
+        {
+          "name": "Sebu Simonian",
+          "url": "https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ"
         }
       ],
-      "duration_ms": 248840,
-      "name": "Go It Alone",
-      "url": "https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1"
+      "duration_ms": 202921,
+      "name": "One Minute More",
+      "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
     },
     {
       "added_at": "2023-02-10 12:43:59",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Today (can't help but cry)",
-        "url": "https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "Today (can't help but cry)",
-      "url": "https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Church Of Scars",
         "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 194960,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Today (can't help but cry)",
+        "url": "https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "Today (can't help but cry)",
+      "url": "https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Shaky Ground",
         "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 192893,
       "name": "Shaky Ground",
       "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2023-01-20 11:00:00",

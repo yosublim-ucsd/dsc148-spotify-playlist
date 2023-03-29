@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u6012\u9aea\u5929 (Dohatsuten)",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30ad\u30e5\u30a6\u30bd\u30cd\u30b3\u30ab\u30df (KYUSONEKOKAMI)",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 162500,
       "name": "ADDITIONAL LEMON",
       "url": "https://open.spotify.com/track/0U98xZ60y4AvWHnj8KKfOk"
@@ -572,6 +572,24 @@
       "duration_ms": 276285,
       "name": "Betty",
       "url": "https://open.spotify.com/track/1xLlG6M2xQgLJA1WMgeORO"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig"
+      },
+      "artists": [
+        {
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228448,
+      "name": "BGM\u306b\u306a\u308b\u306a\u3088",
+      "url": "https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr"
     },
     {
       "album": {
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 203594,
       "name": "I want to go out",
       "url": "https://open.spotify.com/track/0lrSr2OCVLI3JTs20Eytod"
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 327653,
       "name": "OUT\u8001GUYS",
       "url": "https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM"
@@ -5854,7 +5872,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 203453,
       "name": "The Dream Is Not Dead",
       "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
@@ -6434,7 +6452,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 227017,
       "name": "Watashi Akinu Watashi",
       "url": "https://open.spotify.com/track/3DuZhfyQTHmityBjFugI6q"
@@ -6770,6 +6788,24 @@
       "duration_ms": 187640,
       "name": "Yuriah",
       "url": "https://open.spotify.com/track/36wTuS95ghkdbMrEKNakE5"
+    },
+    {
+      "album": {
+        "name": "Watashi Akinu Watashi",
+        "url": "https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR"
+      },
+      "artists": [
+        {
+          "name": "Kyuso Nekokami",
+          "url": "https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Yusho (ALBUM Mix)",
+      "url": "https://open.spotify.com/track/6YLg2Q6dHcHYNLeu4ZSObj"
     },
     {
       "album": {
@@ -8174,7 +8210,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 265746,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"

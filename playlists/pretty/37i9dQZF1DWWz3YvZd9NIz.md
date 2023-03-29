@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,888 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,530 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 64 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 |
 | 65 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
 | 66 | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2) | 2:52 |
-| 67 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 |
-| 68 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
+| 67 | [Sweet Dreams](https://open.spotify.com/track/0pZpFpP9nInJjyfVAQTMsf) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Sweet Dreams](https://open.spotify.com/album/1VNd4mu5ggXFsI4bAwaPIN) | 3:21 |
+| 68 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 |
 | 69 | [All Of Me \- Hardstyle Remix](https://open.spotify.com/track/5cQxA8ZS9WeLuKRlITbzAj) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Sam Darris Del Pino Bros](https://open.spotify.com/artist/0k78bLLU3hYYYcKzGZzvrS) | [All Of Me \(Hardstyle Remix\)](https://open.spotify.com/album/6mHRTXGitwY2KC3Dw3CxxF) | 4:00 |
 | 70 | [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 |
 
-Snapshot ID: `MTY3OTYxMzc3OSwwMDAwMDAwMDNhMTM0ODU2NjE4MmY1ZDJiODYzOTAwNzE4M2VlMDJj`
+Snapshot ID: `MTY3OTYxMzc3OSwwMDAwMDAwMDRmNTFiZjI3NWNiNmZiYzg0NzhiNjNkMjMxMjhhOGNi`

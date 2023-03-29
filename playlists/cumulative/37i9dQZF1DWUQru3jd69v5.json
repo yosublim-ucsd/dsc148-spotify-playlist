@@ -9786,6 +9786,24 @@
     {
       "album": {
         "name": "Viral",
+        "url": "https://open.spotify.com/album/5OkP2IKTap8fIUptFcFbNN"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/3Nww47FJ3MiIdpHCMarCBU"
+    },
+    {
+      "album": {
+        "name": "Viral",
         "url": "https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy"
       },
       "artists": [
@@ -9796,7 +9814,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 147310,
       "name": "Viral",
       "url": "https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs"

@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25495,
+  "num_followers": 25504,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMDIyNTYxNjAwOTUzNzc0ZTRkYzRhOTcyYTQ5MjdmNzUx",
+  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMDMzNGI0OWNlYTg3ZjAxYjhiODFjZTQ2YTgzYjQ5N2Y5",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 198706,
       "name": "En dag",
       "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
-        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
-      },
-      "artists": [
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Det g\u00f6r ont",
-      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Om om och om igen",
         "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 167346,
       "name": "Om om och om igen",
       "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
+        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
+      },
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Det g\u00f6r ont",
+      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
     },
     {
       "added_at": "2023-02-26 01:59:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,091 likes - 206 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,294 likes - 206 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 32 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 |
 | 33 | [Fifth](https://open.spotify.com/track/42cd6z8jhsKWx5So4pKJ7k) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Fifth](https://open.spotify.com/album/4RodR70upWkY1uDVnTmq8s) | 1:58 |
 | 34 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 |
-| 35 | [Only If You Stay](https://open.spotify.com/track/4P59lUGuSG7TMs6qTZlbrc) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Will You Come Back](https://open.spotify.com/album/41h7MBkq9jjiTUpQslaegJ) | 2:34 |
+| 35 | [Only If You Stay](https://open.spotify.com/track/4EO6THQkcjTwCY59pQ6ZsN) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [In Our House](https://open.spotify.com/album/0BaNsKWBEfM8KhgdeTTCd5) | 2:34 |
 | 36 | [Anda](https://open.spotify.com/track/6OOCHxYAV8SpXTiY6SzThW) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Ros](https://open.spotify.com/album/5HhDwfAzAAR7NlMRtpsQ7k) | 1:59 |
 | 37 | [You And I](https://open.spotify.com/track/7suanns4dc723GDVQ1V3MH) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [You And I](https://open.spotify.com/album/1Ayycq9VDkdqrhj4UbQP3D) | 2:52 |
 | 38 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 205 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 |
 | 206 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 |
 
-Snapshot ID: `MTY3OTQ4MzkzOCwwMDAwMDAwMDAyYTc1OWEyMmQwNGQ3MDIwMDYzYzQwZDQxMzMxMGM2`
+Snapshot ID: `MTY3OTQ4MzkzOCwwMDAwMDAwMDBiODczNjIxNmZjNWExZjRjYzhiOWI1YjM2YzdkN2Ri`

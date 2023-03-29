@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
@@ -168,6 +168,24 @@
       "duration_ms": 167410,
       "name": "37.5\u00b0C",
       "url": "https://open.spotify.com/track/5XuCNgnDB3oFVz4pbPXFcJ"
+    },
+    {
+      "album": {
+        "name": "39 Minutes",
+        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "39 Minutes",
+      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
     },
     {
       "album": {
@@ -822,7 +840,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 120000,
       "name": "blanc benzo",
       "url": "https://open.spotify.com/track/1ARas8gp7xDd2lG0sZDBSO"
@@ -1641,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx"
+      },
+      "artists": [
+        {
+          "name": "MATZ",
+          "url": "https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "DAWN",
+      "url": "https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4vbUPPGkeETZnZvFp24Az0"
       },
@@ -1670,7 +1710,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 231754,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/7Fn6rbt6ex6WdbiUrTD5a8"
@@ -2250,6 +2290,32 @@
       "duration_ms": 214711,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7"
+    },
+    {
+      "album": {
+        "name": "FINE LINE (feat. Skaai) (Prod. uin)",
+        "url": "https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "uin",
+          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "FINE LINE (feat. Skaai) (Prod. uin)",
+      "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
     },
     {
       "album": {
@@ -3720,7 +3786,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 183072,
       "name": "I was...",
       "url": "https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er"
@@ -4440,7 +4506,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 154400,
       "name": "Life\u2019s A Game",
       "url": "https://open.spotify.com/track/5PHqslBNMYjZGjAa2VEAP6"
@@ -5290,7 +5356,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 181666,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX"
@@ -5746,7 +5812,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 484436,
       "name": "offshore",
       "url": "https://open.spotify.com/track/6sXJHN2YrlEtmhgXyjDp7u"
@@ -5951,6 +6017,24 @@
     },
     {
       "album": {
+        "name": "orange",
+        "url": "https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "orange",
+      "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
+    },
+    {
+      "album": {
         "name": "ordinary people feat. BIM",
         "url": "https://open.spotify.com/album/1qTQlT4nmidKIYy9AA4Q9A"
       },
@@ -5992,6 +6076,28 @@
       "duration_ms": 144230,
       "name": "Osanpo",
       "url": "https://open.spotify.com/track/63sb3C9vf5NE72EfQU8kLl"
+    },
+    {
+      "album": {
+        "name": "OTSUKARE",
+        "url": "https://open.spotify.com/album/6exMtoSnYWu0YGuHYqDJF1"
+      },
+      "artists": [
+        {
+          "name": "JU!iE",
+          "url": "https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7"
+        },
+        {
+          "name": "Gimgigam",
+          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195969,
+      "name": "OTSUKARE",
+      "url": "https://open.spotify.com/track/5D7cpfBzFfsipwXmpThyle"
     },
     {
       "album": {
@@ -6143,6 +6249,36 @@
     },
     {
       "album": {
+        "name": "Pills Chills Shakes (feat. HMLT)",
+        "url": "https://open.spotify.com/album/7hggxYKML11YSLBVcOluUU"
+      },
+      "artists": [
+        {
+          "name": "Otomodatchi",
+          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
+        },
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        },
+        {
+          "name": "Jyodan",
+          "url": "https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6"
+        },
+        {
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "Pills Chills Shakes - feat. HMLT",
+      "url": "https://open.spotify.com/track/6dhJbmnXW1Z5OIezT06y1G"
+    },
+    {
+      "album": {
         "name": "Pink Hair",
         "url": "https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t"
       },
@@ -6266,6 +6402,24 @@
       "duration_ms": 219992,
       "name": "popcorn nights",
       "url": "https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF"
+    },
+    {
+      "album": {
+        "name": "Magnet",
+        "url": "https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221040,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z"
     },
     {
       "album": {
@@ -6432,6 +6586,28 @@
       "duration_ms": 249062,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6crmtADvci3cPjB2jjjVqm"
+    },
+    {
+      "album": {
+        "name": "RARE (feat. Wez Atlas)",
+        "url": "https://open.spotify.com/album/2ImAR34ee6IoLtmgWLupp1"
+      },
+      "artists": [
+        {
+          "name": "80KIDZ",
+          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
+        },
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184731,
+      "name": "RARE (feat. Wez Atlas)",
+      "url": "https://open.spotify.com/track/3AqN8DorsUD7QYuZAqRxZn"
     },
     {
       "album": {
@@ -8194,7 +8370,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 215666,
       "name": "Take That ! feat. TENDRE",
       "url": "https://open.spotify.com/track/64ygTL7d8g37JIp4rcRZ26"
@@ -10936,7 +11112,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 200840,
       "name": "\u30e9\u30d6\u3058\u3083\u3093",
       "url": "https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY"
@@ -11736,7 +11912,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 243541,
       "name": "\u611b\u306e\u4e8c\u6bb5\u968e\u53f3\u6298",
       "url": "https://open.spotify.com/track/5SJZu4LpEywFR6ijjGeCg5"

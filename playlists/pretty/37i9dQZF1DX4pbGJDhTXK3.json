@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 125200,
+  "num_followers": 125222,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGNiNmJhN2UwYjAzMDZjY2UxZTdlMjJkMWUzMWRlMjlh",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDk1ZDgxY2JlNmY2ZTk2NzEyOGMyYWQ3YmQ2MmNkNDQy",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
-      },
-      "artists": [
-        {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
-        }
-      ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Tr\u00f8bbel",
         "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 282085,
       "name": "Hard Trafikk",
       "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+      },
+      "artists": [
+        {
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+        }
+      ],
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Motown",
-        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
-      },
-      "artists": [
-        {
-          "name": "Ost & Kjex",
-          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
-        },
-        {
-          "name": "Tracee Meyn",
-          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
-        }
-      ],
-      "duration_ms": 388272,
-      "name": "Motown",
-      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Tidl\u00f8s (Remixes)",
         "url": "https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 424462,
       "name": "Tidl\u00f8s - Kohib Remix",
       "url": "https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Motown",
+        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
+      },
+      "artists": [
+        {
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+        },
+        {
+          "name": "Tracee Meyn",
+          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
+        }
+      ],
+      "duration_ms": 388272,
+      "name": "Motown",
+      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
     }
   ],
   "unique_name": "Space Disco",

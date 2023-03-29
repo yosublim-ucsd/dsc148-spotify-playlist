@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Co\-curated by <a href="https://open.spotify.com/playlist/37i9dQZF1EFEmM5igE6t5U?si=63b7635077ac4ada">Alicia Keys</a> for International Women's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,774 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,907 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

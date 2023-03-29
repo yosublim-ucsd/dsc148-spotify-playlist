@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 56707,
+  "num_followers": 56746,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDg0YjhjYmQ1Y2M5YjAyZWRiNmI3NTg4ODE0OWRiY2Ex",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDEzM2UyOThiZDU5MGQxMDMyZDAzZGYzZmI3NThmNDVm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -111,18 +111,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Lille Vals",
-        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
       "artists": [
         {
-          "name": "Storken",
-          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
         }
       ],
-      "duration_ms": 235176,
-      "name": "Lille Vals",
-      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+      "duration_ms": 214049,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -143,22 +147,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
+        "name": "Lille Vals",
+        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
       },
       "artists": [
         {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+          "name": "Storken",
+          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
         }
       ],
-      "duration_ms": 214049,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
+      "duration_ms": 235176,
+      "name": "Lille Vals",
+      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "First Wave",
+        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
+      },
+      "artists": [
+        {
+          "name": "Roland Tings",
+          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
+        }
+      ],
+      "duration_ms": 278755,
+      "name": "First Wave",
+      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Floppy Drive EP",
         "url": "https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0"
       },
@@ -287,18 +303,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "First Wave",
-        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/0KODhsUPoNi0IBrMxobYr1"
       },
       "artists": [
         {
-          "name": "Roland Tings",
-          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
         }
       ],
-      "duration_ms": 278755,
-      "name": "First Wave",
-      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
+      "duration_ms": 152890,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/1T8DhSO31RKXplrFySKAAy"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -315,22 +331,6 @@
       "duration_ms": 219046,
       "name": "The Rollercoaster",
       "url": "https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "First Sight",
-        "url": "https://open.spotify.com/album/0KODhsUPoNi0IBrMxobYr1"
-      },
-      "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        }
-      ],
-      "duration_ms": 152890,
-      "name": "First Sight",
-      "url": "https://open.spotify.com/track/1T8DhSO31RKXplrFySKAAy"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -411,6 +411,30 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Nefertiti (Red Axes Remix)",
+        "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
+      },
+      "artists": [
+        {
+          "name": "Futuro Pelo",
+          "url": "https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN"
+        },
+        {
+          "name": "Neysa May",
+          "url": "https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ"
+        },
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Nefertiti - Red Axes Remix",
+      "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Unleashed Tapes Vol. 1",
         "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
       },
@@ -439,30 +463,6 @@
       "duration_ms": 339423,
       "name": "Under Control",
       "url": "https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Nefertiti (Red Axes Remix)",
-        "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
-      },
-      "artists": [
-        {
-          "name": "Futuro Pelo",
-          "url": "https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN"
-        },
-        {
-          "name": "Neysa May",
-          "url": "https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ"
-        },
-        {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Nefertiti - Red Axes Remix",
-      "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 339391,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 393973,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "duration_ms": 339391,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
     },
     {
       "added_at": "2021-08-27 15:45:01",

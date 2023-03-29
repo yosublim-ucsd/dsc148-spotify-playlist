@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 116992,
+  "num_followers": 117085,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGRkNTA0OWMzNjVjMGE3NmMyMWJlZDVkMTBhNWJiYmI5",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGIxM2E2NWM0NjM5MjhiZjg2NTEwNTY3ZjlkZmQ5NWM4",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Lovin' Where It's Goin'",
-        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
+        "name": "Drowning in Dreams, Pt. 2",
+        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
         }
       ],
-      "duration_ms": 179691,
-      "name": "Lovin' Where It's Goin'",
-      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
+        "name": "Lovin' Where It's Goin'",
+        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
       },
       "artists": [
         {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
+      "duration_ms": 179691,
+      "name": "Lovin' Where It's Goin'",
+      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
-      "added_at": "2023-03-28 01:30:01",
+      "added_at": "2023-03-29 05:36:24",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
     },
     {
-      "added_at": "2023-03-28 01:30:01",
+      "added_at": "2023-03-29 05:36:24",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Jacket On",
-        "url": "https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 156199,
-      "name": "Jacket On",
-      "url": "https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Crash Landing",
         "url": "https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 204825,
       "name": "Crash Landing",
       "url": "https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Jacket On",
+        "url": "https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 156199,
+      "name": "Jacket On",
+      "url": "https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Burn Down EP",
-        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
-      },
-      "artists": [
-        {
-          "name": "Cade Holliday",
-          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "High on the Bottle",
         "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 253952,
       "name": "High on the Bottle",
       "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Burn Down EP",
+        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+      },
+      "artists": [
+        {
+          "name": "Cade Holliday",
+          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
     },
     {
       "added_at": "2022-05-27 04:00:00",

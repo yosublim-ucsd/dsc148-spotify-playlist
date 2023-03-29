@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > Hip\-Hop tracks from the Arab world\. Cover: Dizzy Dros
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,363 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,420 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 36 | [Sawarekh](https://open.spotify.com/track/0Cl3o1hWpDdKwbfedzB78f) | [Shbash](https://open.spotify.com/artist/2SR6jVMQv7ahcivQ5y7fBA), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [Sawarekh](https://open.spotify.com/album/13jqpSvTNfWbvUyNFcyS4h) | 3:18 |
 | 37 | [Napoli](https://open.spotify.com/track/5l37BFLcOujPniSPbmiIzy) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Zedk](https://open.spotify.com/artist/5eDzQ1aF3AyCoQC9uNTwzE) | [Napoli](https://open.spotify.com/album/62DlWYJwVkY82WK17OFdQl) | 3:36 |
 | 38 | [Niagara](https://open.spotify.com/track/4hPtfUDTbmXedQlQUCpIbg) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Niagara](https://open.spotify.com/album/4Z1D2DGlYtAWZvV0OwodJV) | 2:05 |
-| 39 | [نور و ظلمة](https://open.spotify.com/track/7Ch8thcNJEUIPZX607DNtu) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [نور و ظلمة](https://open.spotify.com/album/2RBEKWZkAz61GIKJCKG8fz) | 2:44 |
+| 39 | [Fantastic](https://open.spotify.com/track/6RjS6MPgwJZF46uIZ42xKo) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Fantastic](https://open.spotify.com/album/2kwi1bM3Xh3vIV0AlMoQvH) | 2:32 |
 | 40 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 |
-| 41 | [Fantastic](https://open.spotify.com/track/6RjS6MPgwJZF46uIZ42xKo) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Fantastic](https://open.spotify.com/album/2kwi1bM3Xh3vIV0AlMoQvH) | 2:32 |
+| 41 | [نور و ظلمة](https://open.spotify.com/track/7Ch8thcNJEUIPZX607DNtu) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [نور و ظلمة](https://open.spotify.com/album/2RBEKWZkAz61GIKJCKG8fz) | 2:44 |
 | 42 | [Pulga](https://open.spotify.com/track/6vg38Y8X6Ly5nTICq5vawX) | [Nirmou](https://open.spotify.com/artist/4w4Iyllv9FAqkq5yNw04tN), [MVSS](https://open.spotify.com/artist/2ZpWTC3oHAjeDFEDTjCf6G) | [Pulga](https://open.spotify.com/album/2HSW9bTfxAN9szvbHBKp2i) | 3:25 |
 | 43 | [HAPPY BIRTHDAY TO ME \- 1993](https://open.spotify.com/track/02QIXc2DlnYfzgARziXvzA) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [HAPPY BIRTHDAY TO ME \(1993\)](https://open.spotify.com/album/1zkZuBuOdJB8Bw26flNVy7) | 2:12 |
 | 44 | [OK](https://open.spotify.com/track/6R4KDVj2wQfGWkqmYa9pzh) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [OK](https://open.spotify.com/album/5BVlixDJAb8ud51gE6lSpE) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 49 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
 | 50 | [Doos](https://open.spotify.com/track/10p9dAdwouu6jqsb0vzeJg) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/6TpjzgthHnWlyejxMPBinW) | 1:41 |
 
-Snapshot ID: `MTY3OTI1NTA3MywwMDAwMDAwMDA1MjM0NWJmNGFkMzU3ZjRhMWM1YjEyYjM5NjJmODQ2`
+Snapshot ID: `MTY3OTI1NTA3MywwMDAwMDAwMDY5NjY4ZTg4MGFjZDdhNzNhZWFhNGI2ZDVlOWVmZDU0`

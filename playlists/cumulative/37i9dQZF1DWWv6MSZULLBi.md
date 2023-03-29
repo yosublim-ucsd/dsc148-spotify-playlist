@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Matt Holubowski
 
-370 songs - 22 hr 21 min
+373 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,12 +176,14 @@
 | [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-01-13 |  |
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-10 | 2022-08-27 |
 | [Joint Account](https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Joint Account](https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG) | 3:06 | 2022-10-28 | 2022-12-03 |
-| [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/2HngnvK7LVC7y6FkTMQc8n) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 4:38 | 2023-03-17 |  |
+| [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/0swJRACxsbJcaG1VtnNrOm) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:38 | 2023-03-24 |  |
+| [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/2HngnvK7LVC7y6FkTMQc8n) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 4:38 | 2023-03-17 | 2023-03-29 |
 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/52xOiplF4RbYstcdHhWL1l) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:38 | 2023-03-10 | 2023-03-22 |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 | 2022-10-29 |
 | [just wanna forget you](https://open.spotify.com/track/1KoKAKqq7vOV0Za6ZE1lkQ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:49 | 2023-03-10 | 2023-03-20 |
 | [just wanna forget you](https://open.spotify.com/track/1xOB6323tKOY2AEGzzWFwa) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 4:49 | 2023-03-03 | 2023-03-12 |
-| [just wanna forget you](https://open.spotify.com/track/5uPPfimPoseZ6ptvx1EYhK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 4:49 | 2023-03-17 |  |
+| [just wanna forget you](https://open.spotify.com/track/5uPPfimPoseZ6ptvx1EYhK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 4:49 | 2023-03-17 | 2023-03-29 |
+| [just wanna forget you](https://open.spotify.com/track/7hjYZWn6lzUPuzlOaNHFKx) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:49 | 2023-03-24 |  |
 | [just wanna forget you](https://open.spotify.com/track/7mk1jSxoxjLlZkygBwvgLJ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:49 | 2023-02-24 | 2023-03-05 |
 | [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 | 2023-02-17 | 2023-03-08 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-24 |  |
@@ -282,7 +284,8 @@
 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2022-05-13 | 2022-12-17 |
 | [Sing Me a Song](https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me a Song](https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y) | 2:39 | 2022-05-13 | 2022-08-06 |
 | [Sleepyhead](https://open.spotify.com/track/5Y7XtAMfHNWOURJtdph6c7) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Sleepyhead](https://open.spotify.com/album/4wLqxmIiPSH6scEmssD5Wv) | 3:08 | 2022-05-13 | 2022-07-30 |
-| [Slow Motion](https://open.spotify.com/track/5OhrxjeiqLfFrsTWOSqw4m) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/4CfWX1bSC3U19c8J1gTuyj) | 2:57 | 2023-03-24 |  |
+| [Slow Motion](https://open.spotify.com/track/5OhrxjeiqLfFrsTWOSqw4m) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/4CfWX1bSC3U19c8J1gTuyj) | 2:57 | 2023-03-24 | 2023-03-29 |
+| [Slow Motion](https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/1CoSmqgRXyhy5vvI5hrDld) | 2:57 | 2023-03-24 |  |
 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 | 2022-05-13 | 2022-11-12 |
 | [Snowy Owl](https://open.spotify.com/track/6WSMa3dapwtDHoqWi92PZO) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Pretenders / Snowy Owl](https://open.spotify.com/album/7pm8B4hEadVF4jkzTRsxum) | 4:24 | 2022-05-13 | 2022-07-09 |
 | [Solitude](https://open.spotify.com/track/2FLk5bJKrv6t2CY8XqjNVs) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Circle](https://open.spotify.com/album/1jbLEvkxMMJ8MfU3EHLdYR) | 4:50 | 2022-09-16 | 2023-03-18 |

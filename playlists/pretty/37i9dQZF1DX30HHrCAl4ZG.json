@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring Slow Pulp.",
-  "num_followers": 844261,
+  "num_followers": 844267,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDY1NGVlNDA4Njc2MjI5NTdiZTZmNGFkYjk4NGMwYWRk",
+  "snapshot_id": "MTY3OTk2Njg3MCwwMDAwMDAwMDk3YzRlZjM4ZmI4NTJkNDlhMzFlYmZhMWJhMmVhMmVi",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1375,22 +1375,6 @@
       "duration_ms": 127458,
       "name": "It Could Be Me",
       "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
     },
     {
       "added_at": "2023-02-15 16:30:53",

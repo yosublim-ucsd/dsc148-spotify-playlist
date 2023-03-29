@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 193000,
       "name": "Rehnuma",
       "url": "https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe"
@@ -3382,6 +3382,24 @@
       "duration_ms": 229338,
       "name": "Return",
       "url": "https://open.spotify.com/track/23uK4NXI8s7Qgo6rXwlBSP"
+    },
+    {
+      "album": {
+        "name": "Rijhaaun",
+        "url": "https://open.spotify.com/album/4iS93adsqTSTkngmcYb6lr"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270449,
+      "name": "Rijhaaun",
+      "url": "https://open.spotify.com/track/4yguCbiNZVvdJGRMm122Q3"
     },
     {
       "album": {

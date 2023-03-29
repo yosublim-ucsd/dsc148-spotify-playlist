@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,101 likes - 838 songs - 2 day 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,107 likes - 838 songs - 2 day 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -539,8 +539,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 529 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 |
 | 530 | [2002 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:12 |
 | 531 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 |
-| 532 | [If You're Here \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3KkmASidTvTv73fI3LPqLh) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Spotify Singles](https://open.spotify.com/album/5DqAR5V10hgBupy2yesNzW) | 6:10 |
-| 533 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ZEwtauaLu1s6LlCSpo04U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Spotify Singles](https://open.spotify.com/album/5DqAR5V10hgBupy2yesNzW) | 4:26 |
+| 532 | [If You're Here \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/63rMeLMBGkA5Sb676FuFz5) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ripple Waves](https://open.spotify.com/album/1N5bqHytFgwnEgpCSECdn7) | 6:08 |
+| 533 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7It4zopBMUEaJ9F24CF3tG) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ripple Waves](https://open.spotify.com/album/1N5bqHytFgwnEgpCSECdn7) | 4:27 |
 | 534 | [Dulcito e Coco \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 3:02 |
 | 535 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 |
 | 536 | [Who You Say I Am \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/6IXB6W30CB1wBRArnTljTc) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Spotify Singles](https://open.spotify.com/album/32tGEI5vhc1FfmDO3JBG1n) | 5:03 |
@@ -847,4 +847,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 837 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 838 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MTY3ODg5MTczMSwwMDAwMDAwMGQ4ZDNmZjMwNmEzZThiZGM1NWEzNGM0NDExYjY2NDgz`
+Snapshot ID: `MTY3ODg5MTczMSwwMDAwMDAwMDIwYjA3NDdiYTdiM2I1YWViYWU3YTM0ZDJkYTE4Zjc4`

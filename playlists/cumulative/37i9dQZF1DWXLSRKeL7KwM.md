@@ -2,7 +2,7 @@
 
 ### [Energy Booster: Country](https://open.spotify.com/playlist/37i9dQZF1DWXLSRKeL7KwM)
 
-> These country songs will make you feel good\. Adopting a dog will make you feel even better\. Go to <a href="https://www.adoptapet.com/">Adoptapet.com</a> to find a rescue dog near you.
+> Need to get your energy level up? This will help!
 
 185 songs - 10 hr 23 min
 

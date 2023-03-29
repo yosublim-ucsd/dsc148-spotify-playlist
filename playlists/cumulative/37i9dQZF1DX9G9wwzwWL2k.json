@@ -2210,6 +2210,32 @@
     {
       "album": {
         "name": "Schubert: The \"Great\" C Major Symphony, D. 944",
+        "url": "https://open.spotify.com/album/0ZFerxsAdIbjhBSkRYw23Q"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Orchestra Mozart",
+          "url": "https://open.spotify.com/artist/1S6UMudOfIzmElOoNqexko"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 965120,
+      "name": "Symphony No. 9 in C Major, D. 944 \"The Great\": IV. Finale. Allegro vivace",
+      "url": "https://open.spotify.com/track/6zd0e7A18ZauLjaRJprxrx"
+    },
+    {
+      "album": {
+        "name": "Schubert: The \"Great\" C Major Symphony, D. 944",
         "url": "https://open.spotify.com/album/37pGiXzZnvIONKSta7pAyn"
       },
       "artists": [
@@ -2232,32 +2258,6 @@
       "duration_ms": 965120,
       "name": "Symphony No. 9 In C Major, D. 944 - \"The Great\": IV. Allegro vivace",
       "url": "https://open.spotify.com/track/26tANqldIcKzynlqb4HLyd"
-    },
-    {
-      "album": {
-        "name": "Schubert: The \"Great\" C Major Symphony, D. 944",
-        "url": "https://open.spotify.com/album/0ZFerxsAdIbjhBSkRYw23Q"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Orchestra Mozart",
-          "url": "https://open.spotify.com/artist/1S6UMudOfIzmElOoNqexko"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "date_added": "2022-02-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 965120,
-      "name": "Symphony No. 9 In C Major, D. 944 - \"The Great\": IV. Allegro vivace",
-      "url": "https://open.spotify.com/track/6zd0e7A18ZauLjaRJprxrx"
     },
     {
       "album": {

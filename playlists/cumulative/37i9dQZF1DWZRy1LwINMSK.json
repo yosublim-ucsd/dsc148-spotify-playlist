@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "ALMIGHTY",
+        "url": "https://open.spotify.com/album/48O2sAs7j2xV4Wo4VcAgpJ"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "BlopaOnTheTrack",
+          "url": "https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181598,
+      "name": "ALMIGHTY",
+      "url": "https://open.spotify.com/track/2N5mIfZu5dV66bybxad7Hr"
+    },
+    {
+      "album": {
         "name": "Ando en Un Makinon",
         "url": "https://open.spotify.com/album/2AI7oCqG0otXcvTc5dKjBC"
       },

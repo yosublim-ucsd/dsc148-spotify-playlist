@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,457 songs - 4 day 4 hr 35 min
+1,458 songs - 4 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [All I Wanna Do](https://open.spotify.com/track/0BiGd2FNDQ0eh79ZHfp6tS) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/5iTIgNz59Z4j1wtX0I29z8) | 3:14 | 2020-05-22 | 2020-07-03 |
 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 | 2020-05-22 | 2020-06-12 |
 | [All I Want](https://open.spotify.com/track/6KOcDX1UMQx49ZSnrRY147) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/3OMktTWq6op5qTgMsvlRtN) | 7:48 | 2020-05-18 | 2020-05-22 |
+| [All I've Ever Known](https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [All I've Ever Known](https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK) | 3:38 | 2023-03-10 |  |
 | [All I've Got](https://open.spotify.com/track/1LqcIO6jY4XEsObcuU5YiJ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:43 | 2020-03-20 | 2020-07-18 |
 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2022-07-01 |  |
 | [All My Days](https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [A Range of Light](https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV) | 3:44 | 2020-12-04 |  |
@@ -1313,7 +1314,7 @@
 | [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 | 2020-03-20 | 2022-04-21 |
 | [Tiny Molecules of Water](https://open.spotify.com/track/5snKLxGnhMAWMTJroPXlRD) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Imperfections](https://open.spotify.com/album/7qbo7wJh12LH1Qi0zvMU2F) | 3:52 | 2022-05-27 | 2022-07-25 |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-09-30 | 2023-02-21 |
-| [To Feel Alive](https://open.spotify.com/track/52Ef7FHOaP7KRzlhTrw8LC) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [To Feel Alive](https://open.spotify.com/album/65SOeSp0BUDNXNAiUJORH8) | 3:29 | 2021-11-26 |  |
+| [To Feel Alive](https://open.spotify.com/track/52Ef7FHOaP7KRzlhTrw8LC) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [To Feel Alive](https://open.spotify.com/album/65SOeSp0BUDNXNAiUJORH8) | 3:29 | 2021-11-26 | 2023-03-29 |
 | [To The Ground](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [To The Ground](https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL) | 3:53 | 2020-02-29\* | 2020-03-16 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2021-03-27 | 2022-11-19 |
 | [Together \(feat\. RKCB\)](https://open.spotify.com/track/2rjDMAhlw0mQWp4FcmG9ay) | [Dan Farber](https://open.spotify.com/artist/5a3WpRDlPqdJvQsH5nH3kS), [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Together \(feat\. RKCB\)](https://open.spotify.com/album/0udoCtfOROoPPoefTK9Q4k) | 2:58 | 2020-03-16 | 2022-04-20 |

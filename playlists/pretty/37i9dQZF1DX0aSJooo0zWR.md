@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,570 likes - 80 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,627 likes - 80 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 15 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
 | 16 | [Matinee Idol](https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Yellowjackets](https://open.spotify.com/album/654nTxrBmHTUHlR2QaVhrI) | 5:12 |
 | 17 | [Nuclear Burn](https://open.spotify.com/track/0aVwclUm2FsksllwpJRlaX) | [Brand X](https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy) | [Unorthodox Behaviour](https://open.spotify.com/album/269fg0y6CZLjYoWgTiIad0) | 6:23 |
-| 18 | [Blue Wind](https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:54 |
-| 19 | [Medieval Overture \- Instrumental](https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Romantic Warrior](https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt) | 5:13 |
-| 20 | [Black Market](https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Black Market](https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd) | 6:30 |
+| 18 | [Medieval Overture \- Instrumental](https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Romantic Warrior](https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt) | 5:13 |
+| 19 | [Black Market](https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Black Market](https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd) | 6:30 |
+| 20 | [Blue Wind](https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:54 |
 | 21 | [Dolemite](https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Tore Down House](https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb) | 5:52 |
 | 22 | [Thirty One](https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO) | 3:47 |
 | 23 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 29 | [Sorbet](https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [The Rhinebeck Sessions](https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq) | 7:25 |
 | 30 | [Hard\-Wired](https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 4:03 |
 | 31 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 |
-| 32 | [Riding Giants](https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Riding Giants \(feat\. Mike Stern, Dave Weckl\)](https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI) | 6:11 |
-| 33 | [Teki](https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 6:00 |
+| 32 | [Teki](https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 6:00 |
+| 33 | [Riding Giants](https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Riding Giants \(feat\. Mike Stern, Dave Weckl\)](https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI) | 6:11 |
 | 34 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 |
 | 35 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 |
 | 36 | [Nightfall](https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 4:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Catch me if you can!](https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n) | [Umziky](https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB), [Markus Eermann](https://open.spotify.com/artist/4s79kfWJq1CaZu9e7rvbwu), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Vid Šketa](https://open.spotify.com/artist/3xvZ4lDs78x6krq04pfItd) | [Catch me if you can!](https://open.spotify.com/album/1RyHcCPpsYLiMvY87EibNF) | 3:58 |
 | 80 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDkwY2VjYWExZWM0Y2JiMDNiODZkMWYxZDkyMDZlMDdh`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDUyOWM5MTk5NzMyZmE4ODIwNzk1M2M1MGRjZDJhNjNj`

@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-251 songs - 22 hr 29 min
+252 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Doxy](https://open.spotify.com/track/1RkqoAf31HsCMaTNzTzcG6) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn), [Ed Czach](https://open.spotify.com/artist/4f8lXgdyM6frbmDlADjgp9), [Aaron Kimmel](https://open.spotify.com/artist/6mKwJdaEvDUSLousOlnhAZ) | [Doxy](https://open.spotify.com/album/35ojbhp0w19sGLHuUV7uAU) | 3:11 | 2023-03-16 |  |
 | [Draw Me Nearer](https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Eclipse](https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj) | 4:42 | 2020-03-31 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/1CgD99QQ8RReNg7LKbBO1y) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Dream A Little Dream Of Me](https://open.spotify.com/album/7ycWxV5g9evEkfpieN6YG1) | 3:00 | 2023-01-26 |  |
+| [East of the Sun \(And West of the Moon\)](https://open.spotify.com/track/7dNORA3zEIgPBelCsFFMTH) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 7:41 | 2023-03-23 |  |
 | [Elemental Mood](https://open.spotify.com/track/1UU9CmBw1QQLdlqjhkE8U9) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Ballads](https://open.spotify.com/album/5TukPT8lJcjrx8tVMpuHg6) | 6:03 | 2022-03-11 | 2022-10-08 |
 | [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-09-16 | 2022-11-12 |
 | [Emily](https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI) | [Ben Besiakov](https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4) | [The Art of Jazz with Ben Besiakov](https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3) | 5:19 | 2022-02-24 | 2022-08-31 |
@@ -158,7 +159,7 @@
 | [My Foolish Heart](https://open.spotify.com/track/3emHYEpyups9kJzpoNE6lv) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [My Foolish Heart](https://open.spotify.com/album/3LnVgX9ICx42nwAOlj0kP1) | 6:06 | 2022-04-28 | 2022-06-01 |
 | [My Funny Valentine](https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 7:42 | 2022-07-28 |  |
 | [My Funny Valentine](https://open.spotify.com/track/6DiEsD2Az3aiHfPbw9YIlX) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My Funny Valentine](https://open.spotify.com/album/7G76oUsCSR0H1jKt4V17xt) | 7:42 | 2022-02-18 | 2022-07-29 |
-| [My Ideal](https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [John Webber](https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Inspiration Suite](https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D) | 6:33 | 2022-02-18 |  |
+| [My Ideal](https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [John Webber](https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Inspiration Suite](https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D) | 6:33 | 2022-02-18 | 2023-03-29 |
 | [My One and Only Love](https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO) | [My One and Only Love](https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa) | 4:50 | 2022-02-18 |  |
 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 | 2022-03-11 |  |
 | [New Orleans](https://open.spotify.com/track/2z6D5bIA9Wprdqi1B8nnVh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 5:40 | 2020-03-31 | 2022-04-28 |

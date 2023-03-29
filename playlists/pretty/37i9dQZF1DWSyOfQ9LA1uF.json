@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 56940,
+  "num_followers": 56985,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDAxMTM0NmUxMzQ2Y2FlM2QyMTQ5YzZiYzA1NDZmNmE0",
+  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMGYxZWFlMzI3ZTYzNWFiZDVlYjkzNWM1NjVkNjkwYzVm",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "The Rawkers (I <3 U SO Edition)",
-        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 222407,
-      "name": "I <3 U SO",
-      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 234960,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Bongo Song",
+        "url": "https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u"
+      },
+      "artists": [
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        }
+      ],
+      "duration_ms": 314653,
+      "name": "Bongo Song",
+      "url": "https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Bad Girls (The Remixes)",
         "url": "https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 203013,
       "name": "Bad Girls - Switch Remix",
       "url": "https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Bongo Song",
-        "url": "https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u"
-      },
-      "artists": [
-        {
-          "name": "Zongamin",
-          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
-        }
-      ],
-      "duration_ms": 314653,
-      "name": "Bongo Song",
-      "url": "https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK"
     },
     {
       "added_at": "2022-08-24 22:29:13",

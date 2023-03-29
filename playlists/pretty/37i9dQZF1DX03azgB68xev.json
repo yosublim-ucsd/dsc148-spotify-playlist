@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 195970,
+  "num_followers": 196019,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDM4M2M0ZDk5MWE0ODJlODU0Y2IzMjZlMmMyZGQ2ODE2",
+  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDk5MzUxZDVmOWM5NTU0ZWFjYWUwYTkwNGE2YWNkMGYw",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Smell The Roses",
+        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 253940,
+      "name": "Smell The Roses",
+      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 137990,
       "name": "Fake It - Warehouse Mix",
       "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Smell The Roses",
-        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 253940,
-      "name": "Smell The Roses",
-      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "This Is The Love",
-        "url": "https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "This Is The Love",
-      "url": "https://open.spotify.com/track/2LS7Ww44t936USz0gg4k1w"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Out Of The Dark (Petey Martin Remix)",
         "url": "https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH"
       },
@@ -1355,6 +1339,38 @@
       "duration_ms": 165941,
       "name": "Out Of The Dark - Petey Martin Remix",
       "url": "https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "This Is The Love",
+        "url": "https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "This Is The Love",
+      "url": "https://open.spotify.com/track/2LS7Ww44t936USz0gg4k1w"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Won't Rain Anymore",
+        "url": "https://open.spotify.com/album/049iy74GNjD4hiJtfhnsQ9"
+      },
+      "artists": [
+        {
+          "name": "Christian Paul",
+          "url": "https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe"
+        }
+      ],
+      "duration_ms": 159879,
+      "name": "Won't Rain Anymore",
+      "url": "https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1395,34 +1411,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "BANG! BANG!",
-        "url": "https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W"
+        "name": "Step Into The Fight (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
       },
       "artists": [
         {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
         }
       ],
-      "duration_ms": 158571,
-      "name": "BANG! BANG!",
-      "url": "https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Won't Rain Anymore",
-        "url": "https://open.spotify.com/album/049iy74GNjD4hiJtfhnsQ9"
-      },
-      "artists": [
-        {
-          "name": "Christian Paul",
-          "url": "https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe"
-        }
-      ],
-      "duration_ms": 159879,
-      "name": "Won't Rain Anymore",
-      "url": "https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz"
+      "duration_ms": 213868,
+      "name": "Step Into The Fight - Gregatron Remix",
+      "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"
     }
   ],
   "unique_name": "Pop for Life",

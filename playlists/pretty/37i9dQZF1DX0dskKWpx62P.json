@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 28776,
+  "num_followers": 28818,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGM3NGEwNGQzMjkyYWEyMTY2MzcxY2YzZDhlMTQ5Nzlm",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGI2M2QzMGNiM2RmNWFjOTcyYmVlM2EzMGUyNjg2MTEx",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -479,6 +479,38 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Otra vez me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -511,22 +543,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Otra vez me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Bodas de Plata: Concierto en Vivo",
         "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 237826,
       "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
-      },
-      "artists": [
-        {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Ay Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Ayacucho En El Corazon De Todos Vol.2",
-        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
+        "name": "Huayno, Vol. 2",
+        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
       },
       "artists": [
         {
-          "name": "Kiko Revatta",
-          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
+          "name": "Los Puquiales",
+          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
         }
       ],
-      "duration_ms": 197080,
-      "name": "Donde Estar\u00e1s Palomita",
-      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
+      "duration_ms": 167466,
+      "name": "Sihuarsito",
+      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 2",
-        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
+        "name": "Ayacucho En El Corazon De Todos Vol.2",
+        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
       },
       "artists": [
         {
-          "name": "Los Puquiales",
-          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
+          "name": "Kiko Revatta",
+          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
         }
       ],
-      "duration_ms": 167466,
-      "name": "Sihuarsito",
-      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
+      "duration_ms": 197080,
+      "name": "Donde Estar\u00e1s Palomita",
+      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
     },
     {
       "added_at": "2022-02-04 14:45:56",

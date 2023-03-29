@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Lush, shimmery guitars. Cover: Tom Misch",
+  "description": "Lush, shimmery guitars. Cover: Ichika Nito",
   "name": "Shimmer",
   "tracks": [
     {
@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/4Kh88t8Dm5bwkdnfwjhBVn"
+      },
+      "artists": [
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "COLOURS",
+      "url": "https://open.spotify.com/track/3U6DHqP0KCGMSmVFn61YJy"
+    },
+    {
+      "album": {
         "name": "Equilibrium",
         "url": "https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt"
       },
@@ -200,6 +222,24 @@
       "duration_ms": 119935,
       "name": "Daygrooves",
       "url": "https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB"
+    },
+    {
+      "album": {
+        "name": "Eden Tides",
+        "url": "https://open.spotify.com/album/486ROFt7BvQo6UEe6OM0Ry"
+      },
+      "artists": [
+        {
+          "name": "benners",
+          "url": "https://open.spotify.com/artist/27nbFjeA04YEdOPXCxFJMP"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212644,
+      "name": "Eden Tides",
+      "url": "https://open.spotify.com/track/7gYqbtjbu89PAkSakRhWl1"
     },
     {
       "album": {
@@ -899,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/0CPht7y4MofltEVzrN9ntw"
+      },
+      "artists": [
+        {
+          "name": "MIXK",
+          "url": "https://open.spotify.com/artist/3LwhcSCbJCQTJpk0Ad9dpg"
+        },
+        {
+          "name": "Marco Apicella",
+          "url": "https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/4Tuek5kA9yuQ0gUKruaFpO"
+    },
+    {
+      "album": {
         "name": "Portland",
         "url": "https://open.spotify.com/album/04QDnLrtyxjXvcOxHGEwQz"
       },
@@ -932,6 +994,42 @@
       "duration_ms": 126964,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/3VtDoxZ7IztQVQAomuXqWC"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3hjh63il08PF8uSXbw1bot"
+      },
+      "artists": [
+        {
+          "name": "Ruben Wan",
+          "url": "https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/26OHZSf061GCTUdcs3e2MP"
+    },
+    {
+      "album": {
+        "name": "Ruben Had A Little Lamb",
+        "url": "https://open.spotify.com/album/6KDuXMLPDlzIXz4PtHmpjI"
+      },
+      "artists": [
+        {
+          "name": "Ruben Wan",
+          "url": "https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120062,
+      "name": "Ruben Had A Little Lamb",
+      "url": "https://open.spotify.com/track/1QFb6IuRmpywF3ZxxagY52"
     },
     {
       "album": {
@@ -1029,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Snax: Sip",
+        "url": "https://open.spotify.com/album/3UVsnhncejiQKPNOUb4z9p"
+      },
+      "artists": [
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173936,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/79IPNSo8ppCtLws6rb8mDM"
+    },
+    {
+      "album": {
         "name": "So What",
         "url": "https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C"
       },
@@ -1078,6 +1194,32 @@
       "duration_ms": 303048,
       "name": "Something More",
       "url": "https://open.spotify.com/track/1WUenMBQLpOkvu1lc9AbFg"
+    },
+    {
+      "album": {
+        "name": "Sprout",
+        "url": "https://open.spotify.com/album/2uBnEoUAtT1RaX2sdcKYzF"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/2tatJcRF6iotLuc51uqaQq"
+        },
+        {
+          "name": "Yvette Young",
+          "url": "https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8"
+        },
+        {
+          "name": "Nito",
+          "url": "https://open.spotify.com/artist/2KYi5lKh0UYAjBrqhuJQ3Z"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59071,
+      "name": "Sprout",
+      "url": "https://open.spotify.com/track/6RFG5HsLNp0V5AVArBl8Fz"
     },
     {
       "album": {
@@ -1405,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Upon First Meeting",
+        "url": "https://open.spotify.com/album/1Q1dbdKb9TUajsj9ik8qhp"
+      },
+      "artists": [
+        {
+          "name": "Blutrayne",
+          "url": "https://open.spotify.com/artist/1LHyjfRLGUDxlIyzt34GN7"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249150,
+      "name": "Upon First Meeting",
+      "url": "https://open.spotify.com/track/5Vekw6nVl3a6ctvmHp0PnV"
+    },
+    {
+      "album": {
         "name": "Mylestones",
         "url": "https://open.spotify.com/album/18l4RQQIKcukQ3dh4ewV8Z"
       },
@@ -1471,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Waterfalls & Reverb",
+        "url": "https://open.spotify.com/album/6qP6WMCqifSimBrMtA4xY8"
+      },
+      "artists": [
+        {
+          "name": "Sam Blakelock",
+          "url": "https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70708,
+      "name": "Waterfalls & Reverb",
+      "url": "https://open.spotify.com/track/0VcGBiA3O2OpwVnVl5yS7m"
+    },
+    {
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
       },
@@ -1530,6 +1708,24 @@
       "duration_ms": 279428,
       "name": "Where I Want to Be",
       "url": "https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ"
+    },
+    {
+      "album": {
+        "name": "Where The Light Comes",
+        "url": "https://open.spotify.com/album/4OiaKI9cso30eTR4xdYaIg"
+      },
+      "artists": [
+        {
+          "name": "G R I Z",
+          "url": "https://open.spotify.com/artist/3gBnd68xkEhdBujCwX6daz"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151041,
+      "name": "Where The Light Comes",
+      "url": "https://open.spotify.com/track/6fG0RedcoVqZHOHaDfZDkl"
     },
     {
       "album": {

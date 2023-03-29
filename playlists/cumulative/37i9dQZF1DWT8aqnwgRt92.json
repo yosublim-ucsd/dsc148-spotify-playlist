@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Aino Uta / Chantoshitahito Futekigousha / Nanimo Wasureru Wakejanai",
+        "url": "https://open.spotify.com/album/2uNHuaMGc9IYA3MlzNIgDy"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u5ddd\u5343\u611b",
+          "url": "https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261278,
+      "name": "Aino Uta",
+      "url": "https://open.spotify.com/track/24gmMth9MSSf7718wryKKz"
+    },
+    {
+      "album": {
         "name": "from here",
         "url": "https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx"
       },
@@ -384,7 +402,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 273666,
       "name": "Ashita no Katachi",
       "url": "https://open.spotify.com/track/09pGnc78yB3BXMVfz6kt4J"
@@ -1202,6 +1220,24 @@
       "duration_ms": 261306,
       "name": "Dear Doze Days",
       "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
+    },
+    {
+      "album": {
+        "name": "Decided (TV Ver.)",
+        "url": "https://open.spotify.com/album/2bpsGGYNMrK0Iw2dDN2eyQ"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Sunfist",
+          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91778,
+      "name": "Decided - TV Ver.",
+      "url": "https://open.spotify.com/track/5rynUgMeny61eYuypw44eG"
     },
     {
       "album": {
@@ -4300,7 +4336,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 222052,
       "name": "RECONNECTION",
       "url": "https://open.spotify.com/track/048iLBE6b6aajmg74OdgJe"

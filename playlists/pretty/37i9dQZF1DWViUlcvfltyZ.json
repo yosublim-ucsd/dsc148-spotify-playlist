@@ -1,12 +1,12 @@
 {
   "description": "La playlist che \u00e8 come andare ai concerti. Sick Tamburo in cover!",
-  "num_followers": 18434,
+  "num_followers": 18459,
   "original_name": "Rock Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQ2MCwwMDAwMDAwMDA3MmI1MWMyNTRmYmVmM2M4YjcwYjFlNDNhOWYwYTkx",
+  "snapshot_id": "MTY3OTYxMjQ2MCwwMDAwMDAwMDhiMzNmNzFmYjFhYWQyNTA4YzMwYjc4NjBlNGE4MjY0",
   "tracks": [
     {
       "added_at": "2023-03-23 23:01:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Devo Challenge Cup",
-        "url": "https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2"
+        "name": "Superhero Dopeproof",
+        "url": "https://open.spotify.com/album/7DTaDXygAePDZ4KuZI6AER"
       },
       "artists": [
         {
-          "name": "Yonic South",
-          "url": "https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg"
+          "name": "Black Rainbows",
+          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
         }
       ],
-      "duration_ms": 176143,
-      "name": "The Helmet",
-      "url": "https://open.spotify.com/track/3UhlUXB6PX98gJl4SYLdfM"
+      "duration_ms": 276293,
+      "name": "Superhero Dopeproof",
+      "url": "https://open.spotify.com/track/6eQF2PeXF6zKjbm9w1JJzX"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Superhero Dopeproof",
-        "url": "https://open.spotify.com/album/7DTaDXygAePDZ4KuZI6AER"
+        "name": "Devo Challenge Cup",
+        "url": "https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2"
       },
       "artists": [
         {
-          "name": "Black Rainbows",
-          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
+          "name": "Yonic South",
+          "url": "https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg"
         }
       ],
-      "duration_ms": 276293,
-      "name": "Superhero Dopeproof",
-      "url": "https://open.spotify.com/track/6eQF2PeXF6zKjbm9w1JJzX"
+      "duration_ms": 176143,
+      "name": "The Helmet",
+      "url": "https://open.spotify.com/track/3UhlUXB6PX98gJl4SYLdfM"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "How",
-        "url": "https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt"
+        "name": "TUTTA FORTUNA",
+        "url": "https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE"
       },
       "artists": [
         {
-          "name": "dollsaway",
-          "url": "https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT"
+          "name": "Mutonia",
+          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
         }
       ],
-      "duration_ms": 159121,
-      "name": "How",
-      "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
+      "duration_ms": 165080,
+      "name": "TUTTA FORTUNA",
+      "url": "https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "TUTTA FORTUNA",
-        "url": "https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE"
+        "name": "How",
+        "url": "https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt"
       },
       "artists": [
         {
-          "name": "Mutonia",
-          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
+          "name": "dollsaway",
+          "url": "https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT"
         }
       ],
-      "duration_ms": 165080,
-      "name": "TUTTA FORTUNA",
-      "url": "https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur"
+      "duration_ms": 159121,
+      "name": "How",
+      "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Backrooms",
+        "url": "https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "duration_ms": 111235,
+      "name": "Backrooms",
+      "url": "https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Schifo",
         "url": "https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 407262,
       "name": "Libera (esseri umani perfetti)",
       "url": "https://open.spotify.com/track/2l5ym1CsjSg10FapXRbdkz"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Backrooms",
-        "url": "https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ"
-      },
-      "artists": [
-        {
-          "name": "ANSIAH",
-          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
-        }
-      ],
-      "duration_ms": 111235,
-      "name": "Backrooms",
-      "url": "https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Il Nuovo Mare",
+        "url": "https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Violence",
+          "url": "https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Il Nuovo Mare",
+      "url": "https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 150980,
       "name": "20 Anni",
       "url": "https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Il Nuovo Mare",
-        "url": "https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Violence",
-          "url": "https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Il Nuovo Mare",
-      "url": "https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L"
     },
     {
       "added_at": "2023-03-23 23:01:00",

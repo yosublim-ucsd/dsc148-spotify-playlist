@@ -1,63 +1,15 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 122332,
+  "num_followers": 122367,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ5MDQyNSwwMDAwMDAwMDA2ODUyMzA5NDEzODAxZDUzYmI3MzgzZjdkNjEwNTky",
+  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDdkYmQ1NmUyZjY0ZTQ0NDczZjEzYzJhZTBiYjI4YWIy",
   "tracks": [
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "\u82b1\u964d\u308b\u6642\u306e\u5f7c\u65b9",
-        "url": "https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx"
-      },
-      "artists": [
-        {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        }
-      ],
-      "duration_ms": 364810,
-      "name": "\u82b1\u964d\u308b\u6642\u306e\u5f7c\u65b9",
-      "url": "https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "\u706f\u706b",
-        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "\u706f\u706b",
-      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Windswept Adan",
-        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 285500,
-      "name": "Dawn in the Adan",
-      "url": "https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
         "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
@@ -73,7 +25,39 @@
       "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Windswept Adan",
+        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 285500,
+      "name": "Dawn in the Adan",
+      "url": "https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u706f\u706b",
+        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 219861,
+      "name": "\u706f\u706b",
+      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Villa Tereze",
         "url": "https://open.spotify.com/album/4OuUigPkJ1U6fB7k4X5GfV"
@@ -93,7 +77,7 @@
       "url": "https://open.spotify.com/track/5GbFjiN7n8UinsQG27YQVP"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Cafe Japan",
         "url": "https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb"
@@ -109,191 +93,7 @@
       "url": "https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "chouchou",
-        "url": "https://open.spotify.com/album/79YTP5wf0HBO3sihh5cfsN"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 349920,
-      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3084 - movie ver.",
-      "url": "https://open.spotify.com/track/59pUIlXjQupbiYwt40uUTi"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Hann Kemur I Kvold",
-        "url": "https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        },
-        {
-          "name": "Magnus Johann",
-          "url": "https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj"
-        },
-        {
-          "name": "Jelena Ciric",
-          "url": "https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2"
-        }
-      ],
-      "duration_ms": 344434,
-      "name": "Hann Kemur I Kvold",
-      "url": "https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
-        "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 116880,
-      "name": "Yorunomamade",
-      "url": "https://open.spotify.com/track/7bbtbJ5Y9avWTdJhTdvtw0"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Ren'dez-vous",
-        "url": "https://open.spotify.com/album/51M0Y7HBSSD6SggyRqGMFH"
-      },
-      "artists": [
-        {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
-        }
-      ],
-      "duration_ms": 291880,
-      "name": "\u660e\u65e5\u3078\u306e\u624b\u7d19",
-      "url": "https://open.spotify.com/track/2dUYxBbmtmNfanhSLbRcry"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Belle (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
-        }
-      ],
-      "duration_ms": 303812,
-      "name": "\u5fc3\u306e\u305d\u3070\u306b",
-      "url": "https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "KISS IN THE SKY",
-        "url": "https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD"
-      },
-      "artists": [
-        {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "\u7720\u308c\u306c\u591c\u306f\u541b\u306e\u305b\u3044",
-      "url": "https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 127273,
-      "name": "\u3046\u305f\u306e\u3051\u306f\u3044",
-      "url": "https://open.spotify.com/track/2TNG5NxXZXBsLmhB8RGN2N"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "MONSTER",
-        "url": "https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO"
-      },
-      "artists": [
-        {
-          "name": "Misako Odani",
-          "url": "https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT"
-        }
-      ],
-      "duration_ms": 317626,
-      "name": "3\u6708\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4VDq2t1ThSoR1UsBbKuhrC"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
-      },
-      "artists": [
-        {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/18uCRX2oDqQo2enR7KIC9Z"
-      },
-      "artists": [
-        {
-          "name": "\u5009\u54c1\u7fd4",
-          "url": "https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl"
-        }
-      ],
-      "duration_ms": 302650,
-      "name": "River",
-      "url": "https://open.spotify.com/track/5uBwn4ULXtRzbYNitADrX3"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Yume",
-        "url": "https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78"
-      },
-      "artists": [
-        {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
-        }
-      ],
-      "duration_ms": 268331,
-      "name": "Tameiki no Yukue",
-      "url": "https://open.spotify.com/track/1MEikw4Wldu4j4EmLV21Bq"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Love (feat. Skaai)",
         "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
@@ -313,123 +113,71 @@
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "\u3044\u3064\u3057\u304b",
-        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
+        "name": "Ren'dez-vous",
+        "url": "https://open.spotify.com/album/51M0Y7HBSSD6SggyRqGMFH"
       },
       "artists": [
         {
-          "name": "Daichi Miura",
-          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
         }
       ],
-      "duration_ms": 240532,
-      "name": "\u3044\u3064\u3057\u304b",
-      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
+      "duration_ms": 291880,
+      "name": "\u660e\u65e5\u3078\u306e\u624b\u7d19",
+      "url": "https://open.spotify.com/track/2dUYxBbmtmNfanhSLbRcry"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "After the chaos",
-        "url": "https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H"
+        "name": "chouchou",
+        "url": "https://open.spotify.com/album/79YTP5wf0HBO3sihh5cfsN"
       },
       "artists": [
         {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
-        },
-        {
-          "name": "RAKEL",
-          "url": "https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl"
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
         }
       ],
-      "duration_ms": 264786,
-      "name": "Stay in the light - reprise",
-      "url": "https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh"
+      "duration_ms": 349920,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3084 - movie ver.",
+      "url": "https://open.spotify.com/track/59pUIlXjQupbiYwt40uUTi"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "Windswept Adan",
-        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
+        "name": "\u82b1\u964d\u308b\u6642\u306e\u5f7c\u65b9",
+        "url": "https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
         }
       ],
-      "duration_ms": 269290,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC"
+      "duration_ms": 364810,
+      "name": "\u82b1\u964d\u308b\u6642\u306e\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "Lily",
-        "url": "https://open.spotify.com/album/5OUOq95UwuLQ78pja83Jqa"
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
       },
       "artists": [
         {
-          "name": "tuLaLa",
-          "url": "https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd"
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
         }
       ],
-      "duration_ms": 138555,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/0GKWtlvylWnedpqA3ktByn"
+      "duration_ms": 303812,
+      "name": "\u5fc3\u306e\u305d\u3070\u306b",
+      "url": "https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Voices Of Love",
-        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
-      },
-      "artists": [
-        {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
-        }
-      ],
-      "duration_ms": 258346,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "3 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2yeVYXTtQdifRF7f28CkkW"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 364803,
-      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3qY12xfdjw5TToomM5CH4B"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
-      },
-      "artists": [
-        {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "YELLOW DANCER",
         "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
@@ -445,23 +193,119 @@
       "url": "https://open.spotify.com/track/171P75QxuTfY2Uu2C4W5z7"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
-        "url": "https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA"
+        "name": "KISS IN THE SKY",
+        "url": "https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD"
       },
       "artists": [
         {
-          "name": "Naotaro Moriyama",
-          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 350704,
-      "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
-      "url": "https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6"
+      "duration_ms": 322666,
+      "name": "\u7720\u308c\u306c\u591c\u306f\u541b\u306e\u305b\u3044",
+      "url": "https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 127273,
+      "name": "\u3046\u305f\u306e\u3051\u306f\u3044",
+      "url": "https://open.spotify.com/track/2TNG5NxXZXBsLmhB8RGN2N"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Yume",
+        "url": "https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 268331,
+      "name": "Tameiki no Yukue",
+      "url": "https://open.spotify.com/track/1MEikw4Wldu4j4EmLV21Bq"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u3044\u3064\u3057\u304b",
+        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
+      },
+      "artists": [
+        {
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+        }
+      ],
+      "duration_ms": 240532,
+      "name": "\u3044\u3064\u3057\u304b",
+      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Voices Of Love",
+        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
+      },
+      "artists": [
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        }
+      ],
+      "duration_ms": 258346,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
@@ -481,7 +325,59 @@
       "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
+        "url": "https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA"
+      },
+      "artists": [
+        {
+          "name": "Naotaro Moriyama",
+          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
+        }
+      ],
+      "duration_ms": 350704,
+      "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
+      "url": "https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Windswept Adan",
+        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 269290,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "After the chaos",
+        "url": "https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H"
+      },
+      "artists": [
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        },
+        {
+          "name": "RAKEL",
+          "url": "https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Stay in the light - reprise",
+      "url": "https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Roundabout",
         "url": "https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe"
@@ -497,55 +393,23 @@
       "url": "https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "Kanashii Uta ga Aru Riyuu - From THE FIRST TAKE",
-        "url": "https://open.spotify.com/album/24CQHbc6MxX248Mo92qqpO"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "Ai Higuchi",
-          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 357500,
-      "name": "Kanashii Uta ga Aru Riyuu - From THE FIRST TAKE",
-      "url": "https://open.spotify.com/track/4nXxL11es8aPtbM04QSzKg"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 344749,
-      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "hands(Ryu Solo)",
-        "url": "https://open.spotify.com/album/4kR9HrwMDDFtvaCbycRXEe"
-      },
-      "artists": [
-        {
-          "name": "Ryu Matsuyama",
-          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "hands(Ryu Solo)",
-      "url": "https://open.spotify.com/track/6oesXGLBBZKGGK8AXp9TAM"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj"
@@ -565,55 +429,7 @@
       "url": "https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/2e8EsnQduWjhDsdmQBBN15"
-      },
-      "artists": [
-        {
-          "name": "Asami Tono",
-          "url": "https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/6HqUbd3s956kPMGovpL9FI"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/7cQPxh4B4eS7MHTEL8lZ2z"
-      },
-      "artists": [
-        {
-          "name": "Shun Maruno",
-          "url": "https://open.spotify.com/artist/40E3Z37xZhTpSoat9qLFs8"
-        }
-      ],
-      "duration_ms": 168908,
-      "name": "you",
-      "url": "https://open.spotify.com/track/4WPhBaxNnnSu1Nz6rDoFSM"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "SHINJITERU",
         "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
@@ -629,23 +445,23 @@
       "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/4c7yPOvymJDhwEpwiQ1yOq"
+        "name": "ohashiTrio best Too",
+        "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
       },
       "artists": [
         {
-          "name": "Wuinguin",
-          "url": "https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO"
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
         }
       ],
-      "duration_ms": 187605,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1LfLRWF1I3ydJpNgwGP88u"
+      "duration_ms": 337898,
+      "name": "\u8679\u3068\u30ab\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "[Kin no Kuni Mizu no Kuni] Original Sound Track",
         "url": "https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u"
@@ -665,71 +481,7 @@
       "url": "https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "\u30b8\u30e3\u30b9\u30df\u30f3 (acoustic)",
-        "url": "https://open.spotify.com/album/6vmGYKrUNOS7QikeMZWcYR"
-      },
-      "artists": [
-        {
-          "name": "molly",
-          "url": "https://open.spotify.com/artist/7gWcKdcutmkQ3igGkCuvh0"
-        }
-      ],
-      "duration_ms": 207898,
-      "name": "\u30b8\u30e3\u30b9\u30df\u30f3 - acoustic",
-      "url": "https://open.spotify.com/track/0oCl0h4n5kk5gBesSec2XD"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Amiko (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 240886,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "\u5929\u4f7f\u3082\u60aa\u9b54\u3082 / The Only",
-        "url": "https://open.spotify.com/album/6zoeqwoyAmNN0TV9cIZrzJ"
-      },
-      "artists": [
-        {
-          "name": "Yoshio Inoue",
-          "url": "https://open.spotify.com/artist/0WgVF1Mknyhy5PjTOKmolM"
-        }
-      ],
-      "duration_ms": 375866,
-      "name": "The Only",
-      "url": "https://open.spotify.com/track/73MYkkIHGjN2tNmSH7xe0z"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "ohashiTrio best Too",
-        "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 337898,
-      "name": "\u8679\u3068\u30ab\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
         "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
@@ -749,23 +501,23 @@
       "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "Organic Plastic Music",
-        "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
+        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
       },
       "artists": [
         {
-          "name": "Orange Pekoe",
-          "url": "https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 240933,
-      "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
-      "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
+      "duration_ms": 344749,
+      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
@@ -785,7 +537,23 @@
       "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Organic Plastic Music",
+        "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
+      },
+      "artists": [
+        {
+          "name": "Orange Pekoe",
+          "url": "https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
+      "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
@@ -801,7 +569,7 @@
       "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "This is music too",
         "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
@@ -817,7 +585,7 @@
       "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
@@ -833,23 +601,7 @@
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "gel",
-        "url": "https://open.spotify.com/album/4gIseD8M4C2iiX3XuOnQmg"
-      },
-      "artists": [
-        {
-          "name": "SADFRANK",
-          "url": "https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW"
-        }
-      ],
-      "duration_ms": 466758,
-      "name": "\u808c\u8272",
-      "url": "https://open.spotify.com/track/2YfbnRGevaN759T1DSGvxB"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Days With Uncertainty",
         "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
@@ -865,7 +617,23 @@
       "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Amiko (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 240886,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
         "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
@@ -881,7 +649,7 @@
       "url": "https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
         "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
@@ -897,7 +665,7 @@
       "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Prescribing The...",
         "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
@@ -913,39 +681,23 @@
       "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "eureka",
-        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "Misako Odani",
+          "url": "https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT"
         }
       ],
-      "duration_ms": 210000,
-      "name": "eureka",
-      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
+      "duration_ms": 317626,
+      "name": "3\u6708\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4VDq2t1ThSoR1UsBbKuhrC"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx"
-      },
-      "artists": [
-        {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
         "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
@@ -961,7 +713,7 @@
       "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
         "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
@@ -977,7 +729,39 @@
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx"
+      },
+      "artists": [
+        {
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "eureka",
+        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "eureka",
+      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Westbound EP",
         "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
@@ -993,7 +777,7 @@
       "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Sleeping in Waking",
         "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
@@ -1009,7 +793,7 @@
       "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "BLUEHARLEM",
         "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
@@ -1025,7 +809,7 @@
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
@@ -1041,7 +825,7 @@
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "This is music too",
         "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
@@ -1057,7 +841,7 @@
       "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "\u65b0\u3057\u3044\u4eba",
         "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
@@ -1073,23 +857,7 @@
       "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
-      },
-      "artists": [
-        {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
@@ -1105,23 +873,23 @@
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
       "artists": [
         {
-          "name": "Anzen Chitai",
-          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
         }
       ],
-      "duration_ms": 280786,
-      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
@@ -1137,7 +905,23 @@
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+      },
+      "artists": [
+        {
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "Apartment",
         "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
@@ -1153,7 +937,23 @@
       "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
     },
     {
-      "added_at": "2023-03-21 15:00:00",
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Lamp",
+        "url": "https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 272436,
+      "name": "Lamp",
+      "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
       "album": {
         "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
         "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
@@ -1167,6 +967,198 @@
       "duration_ms": 67203,
       "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
       "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Retronym",
+        "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
+      },
+      "artists": [
+        {
+          "name": "NRQ",
+          "url": "https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
+      "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Soil",
+        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
+      },
+      "artists": [
+        {
+          "name": "naomi paris tokyo",
+          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+        }
+      ],
+      "duration_ms": 357073,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Songs of Four Seasons",
+        "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
+      },
+      "artists": [
+        {
+          "name": "Marter",
+          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
+        }
+      ],
+      "duration_ms": 312853,
+      "name": "Mori no kotoba",
+      "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "3 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2yeVYXTtQdifRF7f28CkkW"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 364803,
+      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3qY12xfdjw5TToomM5CH4B"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+      },
+      "artists": [
+        {
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Sashiiro",
+      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u00ffuni",
+        "url": "https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "duration_ms": 255448,
+      "name": "\u00ffuni",
+      "url": "https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "PURPLE",
+        "url": "https://open.spotify.com/album/3ChhP60S76aPShSmSifkpf"
+      },
+      "artists": [
+        {
+          "name": "Spangle Call Lilli Line",
+          "url": "https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB"
+        }
+      ],
+      "duration_ms": 382733,
+      "name": "cast a spell on her",
+      "url": "https://open.spotify.com/track/63Gc02okIgL5XTbEiP4SpQ"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Arrows",
+        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 266729,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "1DK",
+        "url": "https://open.spotify.com/album/0JVSlC0WdDSj97rtfHqyjd"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "1DK",
+      "url": "https://open.spotify.com/track/7gFEJepDJQozYYVJDHaLjw"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
+        "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
+      },
+      "artists": [
+        {
+          "name": "Naotaro Moriyama",
+          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
+        }
+      ],
+      "duration_ms": 457613,
+      "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
+      "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

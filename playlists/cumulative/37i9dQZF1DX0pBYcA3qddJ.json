@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 182898,
       "name": "Empty",
       "url": "https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW"
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 234000,
       "name": "Forbidden Doors",
       "url": "https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 199152,
       "name": "I Wanna See You Smile",
       "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
@@ -2116,6 +2116,24 @@
       "duration_ms": 347963,
       "name": "I Was Not There",
       "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
+    },
+    {
+      "album": {
+        "name": "DESSERTS",
+        "url": "https://open.spotify.com/album/4fPMQPu5tsW7LxXrunroaD"
+      },
+      "artists": [
+        {
+          "name": "LMYK",
+          "url": "https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "I'll take it",
+      "url": "https://open.spotify.com/track/4AHLzWKtDb1eBIdHpOCOmz"
     },
     {
       "album": {
@@ -6447,6 +6465,28 @@
     },
     {
       "album": {
+        "name": "\u6708\u98df\u306e\u591c\u306f",
+        "url": "https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6cb3 with \u9b54\u6cd5\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q"
+        },
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249821,
+      "name": "\u5149\u306e\u3086\u304f\u3048",
+      "url": "https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2"
+    },
+    {
+      "album": {
         "name": "RETRO MODERN DANDY",
         "url": "https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS"
       },
@@ -6906,6 +6946,24 @@
       "duration_ms": 225920,
       "name": "\u98a8\u7b1b",
       "url": "https://open.spotify.com/track/4OBIKEvUBXnI8i5PO9XCX7"
+    },
+    {
+      "album": {
+        "name": "HTB\u300c\u5f01\u5f53\u5c4b\u3055\u3093\u306e\u304a\u3082\u3066\u306a\u3057\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3SZt4QnQUgZYaRcxF5LzT9"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158533,
+      "name": "\u9b54\u6cd5\u306e\u304a\u5f01\u5f53",
+      "url": "https://open.spotify.com/track/71vs9OtgxMkbkqlfvEfOFZ"
     },
     {
       "album": {

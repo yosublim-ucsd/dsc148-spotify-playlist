@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-344 songs - 21 hr 24 min
+345 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [A Second With You](https://open.spotify.com/track/2KeTrh78SDZCwwtmGlgncd) | [Llovers](https://open.spotify.com/artist/0MGqjWWotQzv4HkaNAiWn5) | [A Second With You](https://open.spotify.com/album/3sBelM5IlJE4Cx4ru5TrDl) | 4:08 | 2019-11-19\* | 2020-08-09 |
 | [Alien Wedding](https://open.spotify.com/track/7lV3HVRsnGoxQjwPftVmRd) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Transgresorcorruptor](https://open.spotify.com/artist/4eUhfPvLLg3W6H8n8uRnd3) | [Alien Wedding](https://open.spotify.com/album/4FDGJU93GJ4wrqJWkfNY0B) | 4:46 | 2020-09-19 | 2020-12-22 |
 | [All The Red](https://open.spotify.com/track/2Cw4Z95OdYBElmbdhj5EwU) | [HunBjørn](https://open.spotify.com/artist/6TFEAKLdGVnNTpIZxDjXen) | [All The Red](https://open.spotify.com/album/704CC2hBdWnHFxg5YNjVCk) | 4:07 | 2019-11-19\* | 2020-12-22 |
-| [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 | 2021-02-26 |  |
+| [All Under the Sky](https://open.spotify.com/track/6w0HWYMtuqgOVlo5geMZiJ) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [All Under the Sky](https://open.spotify.com/album/0Ma0kcvPUWsIdXwao0oFCM) | 4:37 | 2023-03-24 |  |
+| [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 | 2021-02-26 | 2023-03-29 |
 | [Alpine Town](https://open.spotify.com/track/21dr1PIP5wVs3OdpLaMkM3) | [Amber Arcades](https://open.spotify.com/artist/0JVbYQsgLAgLkcHfmg4lxv) | [Alpine Town](https://open.spotify.com/album/0zsWMdFqBlsHsu8pNkVoTX) | 3:21 | 2019-11-19\* | 2020-08-09 |
 | [Alright](https://open.spotify.com/track/2zZX0wVssygt4Hnsgz2X3P) | [This Morning](https://open.spotify.com/artist/7rQqIOQWrxL9xrjhLxtwDh) | [Alright](https://open.spotify.com/album/6tbtPuRsaUbTuDY3lmlNEj) | 1:48 | 2020-09-19 | 2020-12-22 |
 | [Always Tomorrow](https://open.spotify.com/track/66SPXY48GHqvedbRT7jBey) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Always Tomorrow](https://open.spotify.com/album/6DTJmFNmhqatnz9BPsFFyp) | 3:42 | 2019-11-19\* | 2021-02-06 |

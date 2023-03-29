@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > What I'm listening to getting ready for the Streamer Awards on March 11th! <a href="https://thestreamerawards.com/">Click here</a> to learn more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,973 likes - 25 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,032 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

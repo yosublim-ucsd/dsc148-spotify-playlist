@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lana Del Rey, Ed Sheeran, ROSALÍA & Rauw Alejandro, 6LACK and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,084,105 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,084,415 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 55517,
+  "num_followers": 55554,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDQ1NGVhNGE0NzdkZjQ1YWFmN2VhZGRhZGE5MWEyNTJm",
+  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDMyMjk3OTk3YjU3NWNjMmJhOTg3M2QzZDRhYzM4MzYw",
   "tracks": [
     {
       "added_at": "2023-02-03 16:31:51",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Ania Karwan",
-        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 197764,
-      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
-      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Z\u0142oto",
         "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 225666,
       "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Ania Karwan",
+        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 197764,
+      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
+      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1185,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
     },
     {
-      "added_at": "2023-03-28 00:12:54",
+      "added_at": "2023-03-29 05:21:19",
       "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
     },
     {
-      "added_at": "2023-03-28 00:12:54",
+      "added_at": "2023-03-29 05:21:19",
       "album": {
         "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
         "url": "https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30"

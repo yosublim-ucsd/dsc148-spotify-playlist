@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 61105,
+  "num_followers": 61197,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0MTc3OSwwMDAwMDAwMDQ1MTE0YzEyYzg4NjlmYWRjOTdhYmZjZjdjYWUyMTll",
+  "snapshot_id": "MTY3OTY0MTc3OSwwMDAwMDAwMDdhMTAwMzAwMmNkMTBjNDhkOWI0NDM0ODBhNDg1YjU4",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "The Wait",
-        "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
-      },
-      "artists": [
-        {
-          "name": "Tao Lounge",
-          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
-        }
-      ],
-      "duration_ms": 313574,
-      "name": "Holistic Water",
-      "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 413999,
       "name": "Calm Meditation",
       "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
+      },
+      "artists": [
+        {
+          "name": "Tao Lounge",
+          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
+        }
+      ],
+      "duration_ms": 313574,
+      "name": "Holistic Water",
+      "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
     },
     {
       "added_at": "2021-06-15 08:38:14",

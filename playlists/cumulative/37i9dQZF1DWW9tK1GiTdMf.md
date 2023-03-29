@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ in cover: Naska
 
-446 songs - 20 hr 27 min
+447 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,8 @@
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-05-12 | 2022-05-27 |
 | [Riposa in pace](https://open.spotify.com/track/2XT75IT9OdGj0vhxYxOotz) | [Fløp](https://open.spotify.com/artist/5uZYeE6PTZA34eEK445waM), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE) | [Riposa in pace](https://open.spotify.com/album/34QWAmNC7p8ftazPoNlCSd) | 2:37 | 2023-03-23 |  |
 | [rituale](https://open.spotify.com/track/0YAKQqUzN083tPnjJnI1ui) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [rituale](https://open.spotify.com/album/1hLXOwH9aQ0UqSuCUDDJDY) | 2:54 | 2022-08-25 | 2022-09-20 |
-| [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/3g7ds9lLoBRTQag67wtUK3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:57 | 2022-09-29 |  |
+| [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/3g7ds9lLoBRTQag67wtUK3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:57 | 2022-09-29 | 2023-03-29 |
+| [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/4fVRM7JsozbVr1z9ApEixY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:57 | 2023-03-23 |  |
 | [ROCKSTAR](https://open.spotify.com/track/5cc4c8Hcv1Km8GIdolGLuq) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [ROCKSTAR](https://open.spotify.com/album/1lDFJJvv6IaSyO1F3kqs3q) | 3:25 | 2022-05-06 | 2022-05-11 |
 | [ROMA TUTTA](https://open.spotify.com/track/6S8LFWzphG21Hr5omHm2qV) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2) | [ROMA TUTTA](https://open.spotify.com/album/18UaFxs5g5MTSDsImNy4h5) | 2:43 | 2022-05-06 | 2022-06-03 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-10-27 | 2023-01-13 |

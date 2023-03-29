@@ -2065,6 +2065,28 @@
     },
     {
       "album": {
+        "name": "TV SERIES \u201dDUMBBELL NAN-KILO MOTERU?\u201d OPENING THEME\u300cONEGAI MUSCLE\u300d/ENDING THEME\u300cMACHO ARE NAME?\u300d",
+        "url": "https://open.spotify.com/album/56Ke1qDHo3xZksZWa3Mwye"
+      },
+      "artists": [
+        {
+          "name": "\u7d17\u5009\u3072\u3073\u304d(CV:\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044)",
+          "url": "https://open.spotify.com/artist/6s8j3klwQxJ9wYm6r4YXPU"
+        },
+        {
+          "name": "\u8857\u96c4\u9cf4\u9020(CV:\u77f3\u5ddd\u754c\u4eba)",
+          "url": "https://open.spotify.com/artist/02R36FyZZ3oAF0wElreEuQ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220865,
+      "name": "ONEGAI MUSCLE",
+      "url": "https://open.spotify.com/track/5zJoNz19s5lsL5NXKp1Q8O"
+    },
+    {
+      "album": {
         "name": "only my railgun",
         "url": "https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl"
       },
@@ -5550,7 +5572,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 271266,
       "name": "\u30ed\u30fc\u30ea\u30f3\u30bd\u30a6\u30eb\u30fb\u30cf\u30c3\u30d4\u30fc\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2VSP5LdDJsMNEdASO07PHb"

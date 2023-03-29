@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Yasmine.  ",
-  "num_followers": 160785,
+  "num_followers": 160901,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0OTc4OCwwMDAwMDAwMDYwMDg2NTc2ZGFkZTAwZWZjYjhlNTg2OGVkNmM0Y2I0",
+  "snapshot_id": "MTY3OTY0OTc4OCwwMDAwMDAwMDU5NWVlMDc0MDYyNDljNWM4MWJjNjdkNjFiODU3Y2M2",
   "tracks": [
     {
       "added_at": "2023-03-17 00:00:00",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Dando Love",
-        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Dando Love",
-      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Versos & Poesias #4: C\u00e9u Azul",
         "url": "https://open.spotify.com/album/0RuuM2yV5MrV0b4JtcrRxk"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 366394,
       "name": "Versos & Poesias #4: C\u00e9u Azul",
       "url": "https://open.spotify.com/track/3VPdA0kcMEOiOq5Pk1oOul"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Dando Love",
+        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Dando Love",
+      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
+        "name": "365",
+        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
       },
       "artists": [
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
         }
       ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
+      "duration_ms": 219712,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 219712,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -947,22 +947,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Cuiar Assim",
-        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
       "artists": [
         {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         },
         {
-          "name": "Arieth Feij\u00f3",
-          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 230217,
-      "name": "Cuiar Assim",
-      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
+      "duration_ms": 190190,
+      "name": "No Bad Vibez",
+      "url": "https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Mininu Di Oru",
-        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+        "name": "Cuiar Assim",
+        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
       },
       "artists": [
         {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
         },
         {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Arieth Feij\u00f3",
+          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
         }
       ],
-      "duration_ms": 190190,
-      "name": "No Bad Vibez",
-      "url": "https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz"
+      "duration_ms": 230217,
+      "name": "Cuiar Assim",
+      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
+        "name": "4 Horas",
+        "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 194638,
+      "name": "4 Horas",
+      "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1287,38 +1307,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        },
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
       },
       "artists": [
         {
           "name": "Rui Orlando",
           "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1343,22 +1347,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "4 Horas",
-        "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
       },
       "artists": [
         {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
         },
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
         }
       ],
-      "duration_ms": 194638,
-      "name": "4 Horas",
-      "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
+      "duration_ms": 183092,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1375,6 +1379,26 @@
       "duration_ms": 218666,
       "name": "Quarentena",
       "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1423,6 +1447,38 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/430jQV4UrweqvoV5osODxI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 204149,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
       },
@@ -1439,66 +1495,6 @@
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Siguim",
-        "url": "https://open.spotify.com/album/1b5znILgCUFYB4xxJWRKTZ"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        },
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 184093,
-      "name": "Siguim",
-      "url": "https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Sempre Sonhei (feat. Yasmine)",
-        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 239189,
-      "name": "Sempre Sonhei (feat. Yasmine)",
-      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
     },
     {
       "added_at": "2023-03-17 00:00:00",

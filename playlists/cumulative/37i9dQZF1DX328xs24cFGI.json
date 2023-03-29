@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Akatoki Reload",
+        "url": "https://open.spotify.com/album/5g1qutSXgwGmx5uEMzjfzk"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244537,
+      "name": "Akatoki Reload",
+      "url": "https://open.spotify.com/track/62EpDxcm0oRG5uxvjtel9r"
+    },
+    {
+      "album": {
         "name": "All of You",
         "url": "https://open.spotify.com/album/0O5Ly9flFGP1SfDbqmQhVy"
       },
@@ -114,6 +132,24 @@
       "duration_ms": 232241,
       "name": "All of You",
       "url": "https://open.spotify.com/track/01HDkSTebcqJ0FsYyVdi1l"
+    },
+    {
+      "album": {
+        "name": "Ima no Futari o Otagai ga Miteru",
+        "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/2tTWFGQ3yhXbjobnvSs5kV"
     },
     {
       "album": {
@@ -153,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Ima no Futari o Otagai ga Miteru",
+        "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249200,
+      "name": "Budo Juice",
+      "url": "https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA"
+    },
+    {
+      "album": {
         "name": "SiX",
         "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
       },
@@ -164,7 +218,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 248653,
       "name": "CITRUS",
       "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
@@ -226,7 +280,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 273766,
       "name": "Etude of Adolescence",
       "url": "https://open.spotify.com/track/1e7GAbiLvMNCyoo8j8ZBpr"
@@ -270,7 +324,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 207600,
       "name": "Figure",
       "url": "https://open.spotify.com/track/19qpmFLSJXgyeYohRFGf17"
@@ -313,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Hateshinai Futari",
+        "url": "https://open.spotify.com/album/5MBxq5TrnTGAsQD77RU5k2"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284226,
+      "name": "Hateshinai Futari",
+      "url": "https://open.spotify.com/track/6leWYHCjGa8xdExUj5DtR1"
+    },
+    {
+      "album": {
         "name": "Hontowane,",
         "url": "https://open.spotify.com/album/0Kyfu9ZMYITiwDUngdTpJc"
       },
@@ -346,6 +418,42 @@
       "duration_ms": 201973,
       "name": "Hontowane,",
       "url": "https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl"
+    },
+    {
+      "album": {
+        "name": "I LOVE YOU",
+        "url": "https://open.spotify.com/album/7iPwD21J6LlU47JxL3iiyG"
+      },
+      "artists": [
+        {
+          "name": "Hiroya Ozaki",
+          "url": "https://open.spotify.com/artist/1s014jFLnQ8bmkSrioenmP"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/0AzVDfSdvMgEiFjPWOt6v2"
+    },
+    {
+      "album": {
+        "name": "Karen no Life",
+        "url": "https://open.spotify.com/album/7L3LEup3oO8Kf7LAJmfDhy"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303276,
+      "name": "Karen no Life",
+      "url": "https://open.spotify.com/track/0KE7g8ZJ93bTNWQk9BOuIB"
     },
     {
       "album": {
@@ -429,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Negau Yoru",
+        "url": "https://open.spotify.com/album/5YYC8jf3QNZzBzw1YdpiIF"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235985,
+      "name": "Negau Yoru",
+      "url": "https://open.spotify.com/track/5nqjG5L7wOc6PQDY2L1kl0"
+    },
+    {
+      "album": {
         "name": "Orange Days",
         "url": "https://open.spotify.com/album/6atQ8dmI3YfyZM6v90sSTw"
       },
@@ -440,7 +566,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 226085,
       "name": "Orange Days",
       "url": "https://open.spotify.com/track/3DiUeAXtGIivmWjTMimKwm"
@@ -519,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Ima no Futari o Otagai ga Miteru",
+        "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239440,
+      "name": "Saraba!",
+      "url": "https://open.spotify.com/track/2cpOJenpWVZrF6ag98V9aU"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -591,6 +735,42 @@
     },
     {
       "album": {
+        "name": "Tabeta Ai / Atashi Tachi",
+        "url": "https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316458,
+      "name": "Tabeta Ai",
+      "url": "https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I"
+    },
+    {
+      "album": {
+        "name": "Ima no Futari o Otagai ga Miteru",
+        "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259799,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/70ChanaXg9yutUOpVhdfdV"
+    },
+    {
+      "album": {
         "name": "Hoshiwokoete",
         "url": "https://open.spotify.com/album/1njyK2fybU7atqcwGkOo20"
       },
@@ -638,7 +818,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 278118,
       "name": "W / X / Y",
       "url": "https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP"
@@ -790,7 +970,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 288013,
       "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
       "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
@@ -906,7 +1086,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 259933,
       "name": "\u30c1\u30a7\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
@@ -946,7 +1126,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 244869,
       "name": "\u30d6\u30eb\u30fc\u30d9\u30ea\u30fc\u30fb\u30ca\u30a4\u30c4",
       "url": "https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm"
@@ -1252,7 +1432,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 235240,
       "name": "\u611b\u3092\u4f1d\u3048\u305f\u3044\u3060\u3068\u304b",
       "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
@@ -1414,7 +1594,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 286053,
       "name": "\u82b1\u675f",
       "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"

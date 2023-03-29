@@ -1,12 +1,12 @@
 {
   "description": "Mulheres inspiradoras para serem ouvidas no volume m\u00e1ximo. Co-curada por Pitty para o Dia Internacional da Mulher! ",
-  "num_followers": 137230,
+  "num_followers": 137286,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzNDQ2MSwwMDAwMDAwMGE3MGU2ZmUyOTgzZjI0MDRmNTljYzBlYmM4NjRkMDJi",
+  "snapshot_id": "MTY3ODEzNDQ2MSwwMDAwMDAwMGM3OTNmZjc5MWJiMGNmODY2MGRkOGU2MjA0YmUxYjdk",
   "tracks": [
     {
       "added_at": "2023-03-06 20:27:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-06 20:27:41",
       "album": {
-        "name": "Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 142699,
-      "name": "Mete o P\u00e9",
-      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
-    },
-    {
-      "added_at": "2023-03-06 20:27:41",
-      "album": {
         "name": "Faminta",
         "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 314653,
       "name": "Dois Dedim",
       "url": "https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN"
+    },
+    {
+      "added_at": "2023-03-06 20:27:41",
+      "album": {
+        "name": "Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 142699,
+      "name": "Mete o P\u00e9",
+      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
     },
     {
       "added_at": "2023-03-06 20:27:41",

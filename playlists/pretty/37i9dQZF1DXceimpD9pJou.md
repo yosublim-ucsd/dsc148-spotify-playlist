@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz?si=866aav5sR2Ct6P4gtHZE4Q">Lizzy Parra</a> y <a href="https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr?si=ErXcyeQyQLWgHVwaAEmLNQ">Josh Gamez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,115 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,214 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,367 likes - 500 songs - 18 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,005 likes - 500 songs - 18 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 66 | [welcome home](https://open.spotify.com/track/2BgDEtTB2uT6q26llkn3oU) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [welcome home](https://open.spotify.com/album/6HiDKtH9kWW6uD0EETzRu3) | 1:58 |
 | 67 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 |
 | 68 | [Loose Changes](https://open.spotify.com/track/2TwnlyZK8MUipdASFzPSPl) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [Loose Changes](https://open.spotify.com/album/6hW0KKfZpxIDwlSQDbE0Zo) | 2:08 |
-| 69 | [Vintage Melodies](https://open.spotify.com/track/3PAadp1onddvYcedG4iTeB) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj) | [Nostalgic Nites](https://open.spotify.com/album/6Uw7UIoOaYZ5wfr5VF72WP) | 2:03 |
+| 69 | [Vintage Melodies](https://open.spotify.com/track/3PAadp1onddvYcedG4iTeB) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Nostalgic Nites](https://open.spotify.com/album/6Uw7UIoOaYZ5wfr5VF72WP) | 2:03 |
 | 70 | [Seattle](https://open.spotify.com/track/6OXNET31Fn6HyFBwVz8f1Y) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Seattle](https://open.spotify.com/album/7z312yRo96Kz4FmncwfLjB) | 2:21 |
 | 71 | [6pm Freedom](https://open.spotify.com/track/78wa13XBguLAx0c5pzqZDI) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Easy Breathing & 6pm Freedom](https://open.spotify.com/album/3jO0ts2BPgfBWKms1D5H2x) | 3:00 |
 | 72 | [are you still awake?](https://open.spotify.com/track/0yhPGQumNYiw9VI2MRzrxK) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [are you still awake?](https://open.spotify.com/album/3zM77eNvVTifUQdcsxf6Bc) | 2:01 |

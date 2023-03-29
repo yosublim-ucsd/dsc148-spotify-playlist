@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,192 likes - 62 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,233 likes - 62 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 5 | [Our Time](https://open.spotify.com/track/66Bkuqk6ILLs7fAxykYoce) | [Pender Street Steppers](https://open.spotify.com/artist/02V0FAoWiTFWMT36s1Yt1a) | [Our Time](https://open.spotify.com/album/0Jge7w86SFk9oadmO4zyrR) | 6:23 |
 | 6 | [Necessary Death](https://open.spotify.com/track/1w3RWywrjjFWBzbTeEyQMH) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Necessary Death](https://open.spotify.com/album/5tRzJFrXE1KIIL8QUptdOd) | 2:44 |
 | 7 | [Are You OK?](https://open.spotify.com/track/6f0tuDWkjViKrG71yQRBYR) | [Camilla Sparksss](https://open.spotify.com/artist/5RxUFk1D177dFGqFOUh2rg) | [Brutal](https://open.spotify.com/album/4JobCnueEDjlkwvPmRLeJO) | 4:05 |
-| 8 | [Metis](https://open.spotify.com/track/4ZYEPOYlXzbc5eLf4nE3AJ) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Guts \(Le Bienheureux\)](https://open.spotify.com/album/2H1GWJqfUgVKZkzFyK8dSO) | 2:55 |
+| 8 | [Metis](https://open.spotify.com/track/7jUqDP6Yn7zl6GlEbmqU1C) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Guts \(Le Bienheureux\)](https://open.spotify.com/album/4wooYynimcNegOweAqeiVD) | 2:55 |
 | 9 | [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 |
 | 10 | [Leyla](https://open.spotify.com/track/7Dgz9NnvhfvRg1KPNXHv76) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Visions al 2ard](https://open.spotify.com/album/5s7h3f2ogMTfXPRZy1wace) | 5:50 |
 | 11 | [Let The Sunshine In](https://open.spotify.com/track/2QK3MvIBtg6ofQXzx71soX) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr) | [Up From The Basement \- Unreleased Tracks \- Volumes 1 & 2](https://open.spotify.com/album/2l6jlkSuortxDkuCnEay4s) | 2:39 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 61 | [Leave](https://open.spotify.com/track/2KaMBqn9UBbWkl4Ky7ORVp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl), [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7) | [Leave](https://open.spotify.com/album/692P5jdZFc1S27zguBg5dd) | 4:30 |
 | 62 | [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 |
 
-Snapshot ID: `MTY2NDg4ODEyMCwwMDAwMDAwMDU4MzJhZjkwYzBmYWRjYzAyYThiNGRiOTg3ZDlhNzBm`
+Snapshot ID: `MTY2NDg4ODEyMCwwMDAwMDAwMGI5ZGUyNWIxYWQyNzBjOTZhZjM1NTAwMDU0Y2ZlMmNi`

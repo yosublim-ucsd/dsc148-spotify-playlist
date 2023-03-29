@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-82 songs - 8 hr 21 min
+83 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,5 +90,6 @@
 | [Woh Nahi Mera Magar \- Male Vocals](https://open.spotify.com/track/6gcQXc18soxkl2hSJ99Rx9) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Ritu Johri](https://open.spotify.com/artist/0mwzaAy1Z7DMLAQgU1iHb1) | [Master Strokes \- Ghazals](https://open.spotify.com/album/11Mz0ZeiVztXLHHt2jythE) | 6:18 | 2021-12-01 | 2022-07-29 |
 | [Yeh Arzoo Thi Tujhe Gul Ke](https://open.spotify.com/track/4LIVQbroVmruOhX8aXqu6z) | [Amanat Ali Khan](https://open.spotify.com/artist/5s29c3wPnXfRXbSKAxhmr1) | [Ustad Amanat Ali Khan Sings Ghazals](https://open.spotify.com/album/0GSK5Cdz6xnE7K5OOPyOj9) | 4:34 | 2021-12-01 |  |
 | [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 | 2021-12-01 | 2023-02-18 |
+| [Zid](https://open.spotify.com/track/01zEqBcguhTPOWo0DZhjew) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/4uabV43WtpLFd0QOI6xK3H) | 5:09 | 2023-03-28 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

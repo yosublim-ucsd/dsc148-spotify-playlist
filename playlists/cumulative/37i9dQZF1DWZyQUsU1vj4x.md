@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-162 songs - 10 hr 3 min
+163 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Kill Me Now](https://open.spotify.com/track/3Vsf6UhaGqYhgcExMhzinG) | [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Lake Bottom Lp](https://open.spotify.com/album/5wqWiTzzqH6DDkQsUXW1m0) | 3:04 | 2019-10-31 |  |
 | [King of California](https://open.spotify.com/track/07VsDDvIaWzbJkpWKk38h4) | [Renn](https://open.spotify.com/artist/4TOkHwfvErnRSxmlJ7XfOJ) | [Heartache and a Song](https://open.spotify.com/album/0igk4dP4LSssQP6to1GKDF) | 4:40 | 2022-01-27 |  |
 | [King of California](https://open.spotify.com/track/5rfPSIMVQ2Ezro4IzjSt6K) | [Renn](https://open.spotify.com/artist/4TOkHwfvErnRSxmlJ7XfOJ) | [King of California](https://open.spotify.com/album/757L0NxYfCmjaHpxX6F6tC) | 4:40 | 2019-10-31 | 2022-07-29 |
+| [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-28 |  |
 | [Land Of The Red Man](https://open.spotify.com/track/0n1qmC4kLGVtZ9BEi5iIx8) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Oklahoma Room: Folk Alliance International 2014](https://open.spotify.com/album/5FCZd4PWRL44BM9tdsVdyv) | 3:06 | 2019-10-31 |  |
 | [Lead Me Home \- Live At Spotify House](https://open.spotify.com/track/1FL0VdCrrqc0UL8Uhrs2bH) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Spotify Sessions](https://open.spotify.com/album/2Fp0EDcJifEPk83CFrl6t9) | 2:31 | 2022-01-27 |  |
 | [Lead Me Home \- Live At Spotify House](https://open.spotify.com/track/7HTKT7u1M7f1zsaq5YZ2PU) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Spotify Sessions](https://open.spotify.com/album/4Np9cPlbJVYWQxl6i4Fhc9) | 2:31 | 2019-10-31 | 2022-07-29 |

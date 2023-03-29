@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-252 songs - 14 hr 18 min
+253 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2021-07-16 | 2022-10-13 |
 | [Ordinary People](https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:13 | 2021-07-16 |  |
 | [Paper Thin](https://open.spotify.com/track/6D2ftw6BFEsczHNiqxuhHP) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 4:58 | 2021-07-16 | 2022-07-29 |
+| [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-28 |  |
 | [People Wither](https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Warping Youth](https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN) | 5:11 | 2021-07-16 |  |
 | [Perfect](https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg) | [Powell Sullivan](https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS) | [Perfect](https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3) | 4:41 | 2021-07-16 |  |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2021-07-16 |  |
@@ -212,7 +213,7 @@
 | [Summertime](https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng) | [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [Summertime](https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A) | 3:47 | 2021-07-16 |  |
 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 | 2021-07-16 |  |
 | [Sunflower](https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Sunflower](https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw) | 3:01 | 2021-07-16 |  |
-| [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr) | [Parker Jenkins](https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI) | [Sweet but Psycho](https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e) | 3:08 | 2021-07-16 |  |
+| [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr) | [Parker Jenkins](https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI) | [Sweet but Psycho](https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e) | 3:08 | 2021-07-16 | 2023-03-29 |
 | [Take a Bow](https://open.spotify.com/track/36CEKFj615FPeNYyGWcmuI) | [Chimdrop](https://open.spotify.com/artist/0oXV2JEgqbIkieZf3f1GgZ) | [Take a Bow](https://open.spotify.com/album/3T1pXluHHXJluVmcHc4BWM) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [Tattoo](https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [Tattoo](https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr) | 2:56 | 2021-07-16 | 2023-01-19 |
 | [Tenderness](https://open.spotify.com/track/0l4C0NqebeMcpVJkduRuUK) | [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [Tenderness](https://open.spotify.com/album/0QciEURoa6fZUkITRIUOQM) | 3:36 | 2021-07-16 | 2022-07-26 |

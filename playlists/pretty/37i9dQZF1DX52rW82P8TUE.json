@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 49713,
+  "num_followers": 49761,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMDBiNTY0MzQxMzBkN2Y1MmM0NGFlOWQ1ZTJlOGI0Yjk1",
+  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMGU3MGQ2ZTUwMzkwMzI1YWM4NmMxZGFhOTJjYzRmZDE3",
   "tracks": [
     {
       "added_at": "2023-03-11 01:27:47",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-03-11 01:27:47",
       "album": {
+        "name": "Deixa a Gl\u00f3ria de Deus Brilhar",
+        "url": "https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Deixa a Gl\u00f3ria de Deus Brilhar",
+      "url": "https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs"
+    },
+    {
+      "added_at": "2023-03-11 01:27:47",
+      "album": {
         "name": "A Tua Gra\u00e7a",
         "url": "https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 206767,
       "name": "Festa das Cores",
       "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
-    },
-    {
-      "added_at": "2023-03-11 01:27:47",
-      "album": {
-        "name": "Deixa a Gl\u00f3ria de Deus Brilhar",
-        "url": "https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE"
-      },
-      "artists": [
-        {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Deixa a Gl\u00f3ria de Deus Brilhar",
-      "url": "https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs"
     },
     {
       "added_at": "2023-03-11 01:27:47",

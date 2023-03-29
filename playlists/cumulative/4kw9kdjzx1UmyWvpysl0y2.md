@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-440 songs - 1 day 1 hr 45 min
+441 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-01-21 | 2022-03-31 |
 | [Falling Apart \- Acoustic](https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart \(Acoustic\)](https://open.spotify.com/album/5uWAbKZAgeBkT8bHqJZHJV) | 2:56 | 2022-06-14 | 2022-08-26 |
 | [Falling Apart \- VIP](https://open.spotify.com/track/31mifD96EdMow5Clmci2cN) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Falling Apart \(VIP\)](https://open.spotify.com/album/0qleNFLwuuOTO0XnW8bZD4) | 3:36 | 2022-12-16 | 2023-03-18 |
+| [Falling Asleep](https://open.spotify.com/track/2pzKfgAFP7Strv6KGrYj3g) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Falling Asleep](https://open.spotify.com/album/4MdwGZGcrqifqH0WURQQqA) | 3:21 | 2023-03-28 |  |
 | [Falling For You](https://open.spotify.com/track/6EW5mHMHEcsL1RSpy1HQ6p) | [Sabai](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [With Løve](https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Falling For You](https://open.spotify.com/album/4kPYN4m2ALwHLFMAG58cba) | 2:58 | 2021-11-19 | 2022-02-03 |
 | [Falling Off](https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off](https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L) | 3:45 | 2022-08-24 | 2022-11-01 |
 | [Falling Off \- Club Mix](https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off \(Club Mix\)](https://open.spotify.com/album/4ZuObWTTTVcwo19TS7Cth9) | 3:19 | 2022-12-03 | 2023-03-03 |
@@ -302,7 +303,7 @@
 | [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 | 2022-06-22 |
 | [Over The Water](https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Over The Water](https://open.spotify.com/album/2HcOB7CmgTbZu3fPAvTHeL) | 3:30 | 2022-07-22 | 2022-10-06 |
 | [Overcast](https://open.spotify.com/track/1dyoS4DZxZ30XsWlJJk4kM) | [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX), [OREONIC](https://open.spotify.com/artist/336UacimPDVf0A1Y7yXTcm) | [Overcast](https://open.spotify.com/album/3rcCjWUJuOX7rmdsLc7PTl) | 3:33 | 2022-09-09 | 2022-11-10 |
-| [Oxygen](https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Oxygen](https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i) | 3:01 | 2023-01-13 |  |
+| [Oxygen](https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Oxygen](https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i) | 3:01 | 2023-01-13 | 2023-03-29 |
 | [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 | 2022-06-15 |
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 | 2022-09-27 |

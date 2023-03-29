@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Il Ghost in cover.
 
-478 songs - 20 hr 47 min
+479 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,8 @@
 | [VAI DISA!](https://open.spotify.com/track/3YX9eZcubS44Cd2LnsykUk) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [VAI DISA!](https://open.spotify.com/album/1z7NSmgTQGpdwWsulZAAmi) | 2:15 | 2022-08-18 | 2022-09-16 |
 | [Vetri fumé \(feat\. Side baby\)](https://open.spotify.com/track/37O38DKQDwRTo3pqXolfyZ) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [Vetri fumé \(feat\. Side baby\)](https://open.spotify.com/album/3icKdrxTd9KULlZhJKIPRk) | 2:54 | 2022-05-10 | 2022-05-27 |
 | [Vincere Adesso](https://open.spotify.com/track/6qExrWUY6bj9rHgGOzwqxQ) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG) | [Vincere Adesso](https://open.spotify.com/album/0VQlZFpIXZfCUlYcC4uhMp) | 2:32 | 2022-06-16 | 2022-08-24 |
-| [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 | 2023-03-02 |  |
+| [Viral](https://open.spotify.com/track/3Nww47FJ3MiIdpHCMarCBU) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/5OkP2IKTap8fIUptFcFbNN) | 2:27 | 2023-03-28 |  |
+| [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 | 2023-03-02 | 2023-03-29 |
 | [Virgola](https://open.spotify.com/track/6SxkKIamSLhtLcAkFrddMk) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP) | [La Regola](https://open.spotify.com/album/2mIJe5gT0oi1MJChftDhpL) | 2:35 | 2022-05-10 | 2022-05-27 |
 | [Vita](https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk) | [Iltunsi](https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe), [PrinceDrago](https://open.spotify.com/artist/2mfn0ywC0PsPmdMsx9Q7cu) | [Vita](https://open.spotify.com/album/0SVrYSdrhwIblseZvJXtqS) | 2:51 | 2022-08-23 | 2022-11-30 |
 | [VITA PUTTANA](https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [VITA PUTTANA](https://open.spotify.com/album/0bfend4tdsLrwhdPMyGorA) | 3:31 | 2022-06-16 | 2022-07-15 |

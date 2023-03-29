@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-307 songs - 13 hr 19 min
+308 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Mélange](https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z) | [Helena Roche](https://open.spotify.com/artist/5EJ97hGYe8LfBXYvX2Rfvt) | [Mélange](https://open.spotify.com/album/1p11b4Y3nK9bHNpLfiuC0x) | 1:55 | 2022-04-14 |  |
 | [Nature Shift](https://open.spotify.com/track/7a27uUbJdvi6R0n0Z3LF56) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Nature Shift](https://open.spotify.com/album/0zRlQwqGcLq31cyTExBHpl) | 2:13 | 2023-01-20 |  |
 | [Nellie](https://open.spotify.com/track/18dbTewxSaZaTtSWkbTFWS) | [Bonnaire](https://open.spotify.com/artist/3zGm82WsQMKu2Nf7Z2Mf0u) | [Nellie](https://open.spotify.com/album/1zg3IZB7I7YuPS4riu6sZO) | 2:48 | 2022-07-15 |  |
-| [Nevel op het water](https://open.spotify.com/track/3DgF0iD8AVWKSSxVLWEv2Z) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Monochroom](https://open.spotify.com/album/641EMfjCxvMLZSxHhBwDNm) | 2:50 | 2023-03-20 |  |
+| [Nevel op het water](https://open.spotify.com/track/35qI1oitzrLumXMEntOoGE) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Berlijn zonder veel kleur](https://open.spotify.com/album/4N6VzLHpBH699mio1gAkCo) | 2:50 | 2023-03-20 |  |
+| [Nevel op het water](https://open.spotify.com/track/3DgF0iD8AVWKSSxVLWEv2Z) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Monochroom](https://open.spotify.com/album/641EMfjCxvMLZSxHhBwDNm) | 2:50 | 2023-03-20 | 2023-03-29 |
 | [Nevel op het water](https://open.spotify.com/track/4ln2ftnj5vmvZsl2GAybpr) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Spaanse gitaren](https://open.spotify.com/album/3OvexBuCYQ8VcCJS0aifxb) | 2:50 | 2023-03-07 | 2023-03-22 |
 | [Nevel op het water](https://open.spotify.com/track/7D1bpiWYMn7Ed5aLWvCdWX) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Zonder foto](https://open.spotify.com/album/4HGxNcg7YGczuALJFuc5u8) | 2:50 | 2023-02-21 | 2023-03-10 |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-04-14 | 2022-05-27 |

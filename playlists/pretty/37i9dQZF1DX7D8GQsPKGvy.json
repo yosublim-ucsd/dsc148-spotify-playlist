@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 623224,
+  "num_followers": 624244,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0OTkxNCwwMDAwMDAwMDNlYWQ2YzM4NzkyYjhjMjU1NGEyODBiZWYwOGE5Njk5",
+  "snapshot_id": "MTY3NjA0OTkxNCwwMDAwMDAwMDZkZTQ1ZTdhY2NlMjBmZGQ4YjM5YzJmNDdhMmVkNzVl",
   "tracks": [
     {
       "added_at": "2023-02-10 17:25:14",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "I'll Be There (Cahill Remix)",
         "url": "https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 183991,
       "name": "I'll Be There - Cahill Remix",
       "url": "https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
+        "name": "Into You (3LAU Remix)",
+        "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Into You - 3LAU Remix",
+      "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
         "name": "Heaven (David Guetta & MORTEN Remix)",
         "url": "https://open.spotify.com/album/37bCTD5iLWMpDcBanNkkXB"
       },
@@ -939,22 +959,22 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Into You (3LAU Remix)",
-        "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
+        "name": "If I Can't Have You (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         },
         {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 197146,
-      "name": "Into You - 3LAU Remix",
-      "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
+      "duration_ms": 253040,
+      "name": "If I Can't Have You - Gryffin Remix",
+      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -979,26 +999,6 @@
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
-        "name": "If I Can't Have You (Gryffin Remix)",
-        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "If I Can't Have You - Gryffin Remix",
-      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
         "name": "Promises (with Sam Smith) [Remixes]",
         "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 190416,
       "name": "Promises (with Sam Smith) - David Guetta Remix",
       "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
-        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
-        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152672,
-      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
-      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1503,6 +1503,30 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
+        "name": "Roses (Remixes) (feat. ROZES)",
+        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
+          "name": "Zaxx",
+          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Roses (feat. ROZES) - Zaxx Remix",
+      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/7AviXsnkUYIeIJB0zSfV8y"
       },
@@ -1531,30 +1555,6 @@
       "duration_ms": 231688,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - AJR Remix",
       "url": "https://open.spotify.com/track/4DMvvYvDNiEv2QUciZCyp7"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
-        "name": "Roses (Remixes) (feat. ROZES)",
-        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        },
-        {
-          "name": "Zaxx",
-          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Roses (feat. ROZES) - Zaxx Remix",
-      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
+        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
+      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
         "name": "Ocean (feat. Khalid) [David Guetta Remix]",
         "url": "https://open.spotify.com/album/2lYxgMaJP2bGy4dhIToqzS"
       },
@@ -1723,46 +1743,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
-        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
-      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
-        "name": "Cool Girl (Nora En Pure Remix)",
-        "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Cool Girl - Nora En Pure Remix",
-      "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "Closer (Remixes)",
         "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 161120,
       "name": "Closer - R3hab Remix",
       "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "Cool Girl (Nora En Pure Remix)",
+        "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 187804,
+      "name": "Cool Girl - Nora En Pure Remix",
+      "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -2211,26 +2211,34 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Obsessed (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj"
+        "name": "Ritual (Remixes)",
+        "url": "https://open.spotify.com/album/6J6d8HkY1qgv5mppvldybQ"
       },
       "artists": [
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "BB Team",
+          "url": "https://open.spotify.com/artist/4fGEyY6D7Rq6R1C0d5NLGj"
         }
       ],
-      "duration_ms": 260786,
-      "name": "Obsessed - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq"
+      "duration_ms": 185765,
+      "name": "Ritual - Benny Benassi & BB Team Remix",
+      "url": "https://open.spotify.com/track/2fQYA6cFN4ClfI4OmtpC98"
     }
   ],
   "unique_name": "Remix Hits",

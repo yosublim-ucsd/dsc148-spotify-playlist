@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "\u9769\u547d",
+        "url": "https://open.spotify.com/album/0S75gwZK3LNeFQB8xqjllT"
+      },
+      "artists": [
+        {
+          "name": "Vickeblanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292214,
+      "name": "\u9769\u547d",
+      "url": "https://open.spotify.com/track/56NF8AZqeTtSe6gRMdxGNf"
+    },
+    {
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2"
       },

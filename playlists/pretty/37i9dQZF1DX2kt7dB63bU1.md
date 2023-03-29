@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,874 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,972 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 31 | [Estate](https://open.spotify.com/track/1CD05bHRSAgJFmODYYT84t) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Estate](https://open.spotify.com/album/5yWVlsZ0wDgsUwGFY670G5) | 3:43 |
 | 32 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 |
 | 33 | [If I Didn't Care](https://open.spotify.com/track/3wZWkqbqKCyJwBYv35Pyh6) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/0qshBfZ7c1fQLjr8fIAROW) | 2:57 |
-| 34 | [Twister \(Acoustic\)](https://open.spotify.com/track/6E4yLR75jMge94Ui8GitNw) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Twister \(Acoustic\)](https://open.spotify.com/album/7dg1n6KM9szEcWALdq8Qpa) | 2:42 |
+| 34 | [Twister \(Acoustic\)](https://open.spotify.com/track/6E4yLR75jMge94Ui8GitNw) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Twister](https://open.spotify.com/album/7dg1n6KM9szEcWALdq8Qpa) | 2:42 |
 | 35 | [As Time Goes By](https://open.spotify.com/track/52VpkOqWWNzWNGgxJhsyYT) | [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [As Time Goes By](https://open.spotify.com/album/0Oxzmmp66dQWm1NH2A3OCc) | 4:56 |
 | 36 | [Tea For Two](https://open.spotify.com/track/1hKyMhmy00rKrn7pb26N6W) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d), [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [Tea For Two](https://open.spotify.com/album/0NuUfAQuoR4vjyoTjAub20) | 2:54 |
 | 37 | [I Will Wait for You](https://open.spotify.com/track/152loRQOTUDsdMTQ7R7M4v) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [I Will Wait for You](https://open.spotify.com/album/6jnkamK8KNpSP94LLKDjxv) | 3:47 |

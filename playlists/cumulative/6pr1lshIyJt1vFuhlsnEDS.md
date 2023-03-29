@@ -1,20 +1,23 @@
 [pretty](/playlists/pretty/6pr1lshIyJt1vFuhlsnEDS.md) - cumulative - [plain](/playlists/plain/6pr1lshIyJt1vFuhlsnEDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6pr1lshIyJt1vFuhlsnEDS)
 
-### [METODI HRISTOV 's TECHNO playlist](https://open.spotify.com/playlist/6pr1lshIyJt1vFuhlsnEDS)
+### [THE TECHNO METHOD](https://open.spotify.com/playlist/6pr1lshIyJt1vFuhlsnEDS)
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-42 songs - 3 hr 39 min
+47 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 Hours \(feat\. Eleonora\)](https://open.spotify.com/track/67bEUw1bJ3Gi7UaT0rs7V6) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [20 Hours \(feat\. Eleonora\)](https://open.spotify.com/album/0vSTidjll5U6h4C4C11VEq) | 4:03 | 2022-11-18 |  |
+| [All Worlds, All Times](https://open.spotify.com/track/584iH3axeLJq0yBdcFsan6) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Music Made for Aliens](https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP) | 6:27 | 2023-03-28 |  |
+| [Belgium](https://open.spotify.com/track/1mecAHTzBVDduXdtq9CYab) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Belgium](https://open.spotify.com/album/6M5sIfdTxwbHDyy8Dg4Ss7) | 7:02 | 2023-03-28 |  |
 | [Bionic Jungle](https://open.spotify.com/track/0FuxLvhDsdGu6XpnxGQrAf) | [Marcal](https://open.spotify.com/artist/6XVtxL4WRwoEqB1BpLel6y) | [Cyber Dystopia](https://open.spotify.com/album/2vsc8k41jsAyDZj4iCkXVD) | 4:58 | 2023-02-11 |  |
 | [Black Hole](https://open.spotify.com/track/1WA080AK1F8IMH9XXu4XUJ) | [Lautaro Ibañez](https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR), [Mart.in](https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg) | [Black Hole](https://open.spotify.com/album/7us8EpEFnMsbKqKMX1Y2PS) | 5:07 | 2023-01-09 |  |
 | [Came Here For Love](https://open.spotify.com/track/3SWZ0hpjeYT1BCx0Auqi6l) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [Came Here For Love EP](https://open.spotify.com/album/5nPnubdJCVf8E6vxcbEFOi) | 4:26 | 2022-10-31 |  |
 | [Commodore](https://open.spotify.com/track/7qxbApmii4Mur1PNkJKzpy) | [DJ Dextro](https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO) | [Commodore](https://open.spotify.com/album/2QwPnlYUHp7rRMcGAC5g2f) | 5:29 | 2023-02-11 |  |
 | [Connect](https://open.spotify.com/track/535uSRzWlJbFHpMdAbBtnm) | [Egbert](https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Connect](https://open.spotify.com/album/60dhkIiXKKLB4lU5NBrWib) | 6:32 | 2022-06-10 |  |
 | [Dovercourt](https://open.spotify.com/track/0xEo4BjTKxj6ECkXIiOIu8) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Dovercourt / Limelight](https://open.spotify.com/album/3sEOAI2fyuXvKBs9mgjFWo) | 4:29 | 2023-02-11 |  |
+| [Exeter](https://open.spotify.com/track/4gIfnIBiCsO5zsIVntz2IF) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Music Made for Aliens](https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP) | 6:38 | 2023-03-28 |  |
 | [Extreme Ways](https://open.spotify.com/track/6BQW1unYMTr1pmR5pwepJG) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Extreme Ways](https://open.spotify.com/album/2YiU2nZkqgPzYdgEmXNuSu) | 4:52 | 2022-07-29 |  |
 | [Got The Vibe](https://open.spotify.com/track/72qfoCZTAGcY9pMA0sX3CN) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Can't Stop EP](https://open.spotify.com/album/3IjZs1YkeQuzbym5MdeQbt) | 6:31 | 2023-02-14 |  |
 | [Halcyon \- 30 Something Years Later Mix](https://open.spotify.com/track/3lbm4gzUqMSdosEFs1cxq9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [30 Something](https://open.spotify.com/album/1pq7A65DygpNTNRnwJv77h) | 9:12 | 2022-07-29 |  |
@@ -34,6 +37,7 @@
 | [Power Plant](https://open.spotify.com/track/4ucEdTiV3IqT70JTbF5CPp) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Indigo](https://open.spotify.com/album/6cTjMtKl6METd4Q90Wm5aL) | 7:58 | 2022-10-31 |  |
 | [Premonition](https://open.spotify.com/track/6J9qHbjXv37EGTLO8aK0jA) | [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Premonition](https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa) | 3:30 | 2023-02-11 |  |
 | [PURA VIDA](https://open.spotify.com/track/316urhiKblYLrzwW3WO51a) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA](https://open.spotify.com/album/5JTx3YiicZc8U91K3TsJGG) | 3:54 | 2023-01-27 |  |
+| [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-03-28 |  |
 | [Quiet Distortion \- Bart Skils Remix](https://open.spotify.com/track/2Dp0PXgdEfQSZSGIzYe4N9) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Quiet Distortion \(Bart Skils Remix\)](https://open.spotify.com/album/0tAE6OieagjJzcssAi2ISi) | 5:14 | 2023-01-09 |  |
 | [Rider \- Original Mix](https://open.spotify.com/track/1SMIk113it3eyw9hk0MwXT) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Rider](https://open.spotify.com/album/4YsU1wmbXYOGT7l7kVmEMr) | 6:34 | 2023-03-10 |  |
 | [Rigel](https://open.spotify.com/track/5r9NvBUqtMn2MnFXI3Ih76) | [Axis Of Time](https://open.spotify.com/artist/0y4TXuiPGjA80YqCzEMGfo) | [Rigel](https://open.spotify.com/album/2SbeViW1M8xSOJaU7vznB5) | 4:55 | 2023-02-11 |  |
@@ -47,6 +51,7 @@
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2022-10-31 |  |
 | [Through My Skin](https://open.spotify.com/track/00Je3Ur2xmGEhZd08FtQLQ) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Triation, Vol\. V](https://open.spotify.com/album/4WdjFSOirv2bXUXWBFxe4N) | 5:30 | 2022-12-08 |  |
 | [Voices on Earth](https://open.spotify.com/track/58VJrWe0QKan2KdLgx2pDG) | [Lautaro Ibañez](https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR), [Mart.in](https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg) | [Voices on Earth](https://open.spotify.com/album/3zEyg7EDfGqxyXIwmW4eHA) | 4:21 | 2023-01-09 |  |
+| [Warp Drive](https://open.spotify.com/track/6zdJnikLSW14nk8lrHcde5) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Senso Sounds Level 11](https://open.spotify.com/album/4jeU0bEaImdBYqYUhmrQRw) | 5:35 | 2023-03-28 |  |
 | [Waveriders](https://open.spotify.com/track/70nL1U5MfUwhd5e1tSGF25) | [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Waveriders EP](https://open.spotify.com/album/38r01VO4vB927FYxYjXtTz) | 6:38 | 2023-02-11 |  |
 | [Weightless](https://open.spotify.com/track/6hMVPaTUtYSrYvVGntSjGn) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Weightless](https://open.spotify.com/album/4WflvBXm4dOAYTFbtfD5OI) | 4:15 | 2022-10-29 |  |
 | [You Are Everything](https://open.spotify.com/track/6feG1cmadvPIYsG8fgeSik) | [Karim Alkhayat](https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25), [Flanko](https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843) | [You Are Everything](https://open.spotify.com/album/5SOtV1ZBObA5cr5OuTTZth) | 4:00 | 2023-03-10 |  |

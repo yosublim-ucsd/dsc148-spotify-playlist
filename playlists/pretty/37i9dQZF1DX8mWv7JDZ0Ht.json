@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Ziggy Alberts, Vitor Kley",
-  "num_followers": 418531,
+  "num_followers": 418632,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGUxMjQ4ODkyZjM2OWE5MGI1OTg5Mzk2OTZjZTJiNDlm",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDJjMzMzNjAzNTBlOTUxNTQ5NGQ4MTNhYmU5YjhkNWZm",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Live Sessions",
+        "url": "https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 188620,
+      "name": "Intui\u00e7\u00e3o (Envolvid\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 243370,
       "name": "Ver Em Cores",
       "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Live Sessions",
-        "url": "https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 188620,
-      "name": "Intui\u00e7\u00e3o (Envolvid\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "cedo pra dizer",
-        "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 186809,
-      "name": "cedo pra dizer",
-      "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "vida leve",
         "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
       },
@@ -703,22 +687,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Toda pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/6NekMZBPLFc5qrbBNEEmS6"
+        "name": "cedo pra dizer",
+        "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
       },
       "artists": [
         {
-          "name": "B\u00c1RBARA SILVA",
-          "url": "https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV"
-        },
-        {
-          "name": "Jos\u00e9 C\u00e2ndido",
-          "url": "https://open.spotify.com/artist/19NtAWXxzXXpcJhGvJIAnf"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 184936,
-      "name": "Toda pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/5idwUIbn0g5U7Lk3MlfEX6"
+      "duration_ms": 186809,
+      "name": "cedo pra dizer",
+      "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -735,6 +715,26 @@
       "duration_ms": 130104,
       "name": "ODEIO GENTE CHATA",
       "url": "https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Toda pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/6NekMZBPLFc5qrbBNEEmS6"
+      },
+      "artists": [
+        {
+          "name": "B\u00c1RBARA SILVA",
+          "url": "https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV"
+        },
+        {
+          "name": "Jos\u00e9 C\u00e2ndido",
+          "url": "https://open.spotify.com/artist/19NtAWXxzXXpcJhGvJIAnf"
+        }
+      ],
+      "duration_ms": 184936,
+      "name": "Toda pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/5idwUIbn0g5U7Lk3MlfEX6"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "T\u00e3o Sem Gra\u00e7a",
+        "url": "https://open.spotify.com/album/49GfljQXX3qrFDCLXctAmO"
+      },
+      "artists": [
+        {
+          "name": "Vic Brow",
+          "url": "https://open.spotify.com/artist/1GoCvVwfqLj1J5DdnVS3ZI"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "T\u00e3o Sem Gra\u00e7a",
+      "url": "https://open.spotify.com/track/091LhYj7dDBpGT7Yrnuqi7"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Unilateral",
         "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
       },
@@ -952,33 +968,21 @@
           "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         },
         {
-          "name": "VNegreen",
-          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
         },
         {
-          "name": "Samantha Machado",
-          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
-        }
-      ],
-      "duration_ms": 238051,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "T\u00e3o Sem Gra\u00e7a",
-        "url": "https://open.spotify.com/album/49GfljQXX3qrFDCLXctAmO"
-      },
-      "artists": [
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
+        },
         {
-          "name": "Vic Brow",
-          "url": "https://open.spotify.com/artist/1GoCvVwfqLj1J5DdnVS3ZI"
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
         }
       ],
-      "duration_ms": 190769,
-      "name": "T\u00e3o Sem Gra\u00e7a",
-      "url": "https://open.spotify.com/track/091LhYj7dDBpGT7Yrnuqi7"
+      "duration_ms": 236041,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1023,22 +1027,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Marshmallow Flor De Sal (Deluxe)",
-        "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
-      },
-      "artists": [
-        {
-          "name": "Suricato",
-          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Tons De Blue - Faixa B\u00f4nus",
-      "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "\u00d3leo de Coco",
         "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
       },
@@ -1055,18 +1043,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "A Voz",
-        "url": "https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq"
+        "name": "Marshmallow Flor De Sal (Deluxe)",
+        "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "Suricato",
+          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
         }
       ],
-      "duration_ms": 242696,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem"
+      "duration_ms": 241920,
+      "name": "Tons De Blue - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1087,6 +1075,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "A Voz",
+        "url": "https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 242696,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Outubro",
         "url": "https://open.spotify.com/album/00JNMDQJR1wOpibAL1PC7F"
       },
@@ -1103,38 +1107,6 @@
       "duration_ms": 237325,
       "name": "Outubro",
       "url": "https://open.spotify.com/track/5hD1qHjBX9SB3Ws6nCEwr5"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Org\u00e2nico Ver\u00e3o 2023",
-        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
-        },
-        {
-          "name": "Deb Ribeiro",
-          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
-        },
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
-        }
-      ],
-      "duration_ms": 236041,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1163,6 +1135,34 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Org\u00e2nico Ver\u00e3o 2023",
+        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "VNegreen",
+          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
+        },
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        }
+      ],
+      "duration_ms": 238051,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Pois \u00c9",
         "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
       },
@@ -1175,6 +1175,42 @@
       "duration_ms": 162188,
       "name": "Pois \u00c9",
       "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Contradi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU"
+      },
+      "artists": [
+        {
+          "name": "MAD\u00da",
+          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Contradi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "MENINA",
+        "url": "https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "MENINA",
+      "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1199,42 +1235,6 @@
       "duration_ms": 149535,
       "name": "Vou Ficar Bem",
       "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "MENINA",
-        "url": "https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "MENINA",
-      "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Contradi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU"
-      },
-      "artists": [
-        {
-          "name": "MAD\u00da",
-          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Contradi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Se S\u00easse",
-        "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
-      },
-      "artists": [
-        {
-          "name": "Gabi Shima",
-          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
-        }
-      ],
-      "duration_ms": 171752,
-      "name": "Se S\u00easse",
-      "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Eu e Voc\u00ea",
         "url": "https://open.spotify.com/album/0R8hpT9SvreIeMmXLJHh5R"
       },
@@ -1367,22 +1351,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
+        "name": "Se S\u00easse",
+        "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
       },
       "artists": [
         {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+          "name": "Gabi Shima",
+          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
         }
       ],
-      "duration_ms": 154611,
-      "name": "Mais de Mim",
-      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
+      "duration_ms": 171752,
+      "name": "Se S\u00easse",
+      "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1399,6 +1379,26 @@
       "duration_ms": 162037,
       "name": "Brisa Boa",
       "url": "https://open.spotify.com/track/7N2Rw3NC0GhH4AlyZS7xJw"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 154611,
+      "name": "Mais de Mim",
+      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
     },
     {
       "added_at": "2023-03-24 03:00:00",

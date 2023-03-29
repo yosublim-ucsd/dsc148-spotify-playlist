@@ -4,7 +4,7 @@
 
 > A creepy collection of scary sounds
 
-97 songs - 5 hr 19 min
+98 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Crow's Nest](https://open.spotify.com/track/7JsglBJE59Fp4ioRP3RAs0) | [Hell on Halloween](https://open.spotify.com/artist/4tUZxqyxEFaXK1XAT8uqcl) | [Midnight Haunting](https://open.spotify.com/album/03YPB9DDVhuZ35nt4USxyq) | 3:48 | 2022-10-24 |  |
 | [Dark Forest](https://open.spotify.com/track/6Jt5y3oAOHMPqBu1E4glNE) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:39 | 2022-10-24 |  |
 | [Dark of Night](https://open.spotify.com/track/3VZOAFqxNdfKtBDTX19vM0) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Ambience](https://open.spotify.com/album/17rnMzoPcedRwZvV5KIRBC) | 4:38 | 2022-10-24 |  |
-| [Dark Tone Creepy Laughs](https://open.spotify.com/track/6iolLAJWju2Zg7ChdYYvec) | [Halloween Sounds](https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo) | [Spooky Halloween](https://open.spotify.com/album/5D27AbxVVpxiqvicoeeiFa) | 0:33 | 2022-10-24 |  |
+| [Dark Tone Creepy Laughs](https://open.spotify.com/track/6iolLAJWju2Zg7ChdYYvec) | [Halloween Sounds \(REMOVED\)](https://open.spotify.com/artist/6aS5IL4cmXbjl81JWjaMgv) | [Spooky Halloween](https://open.spotify.com/album/5D27AbxVVpxiqvicoeeiFa) | 0:33 | 2022-10-24 |  |
 | [Devil's Cauldron](https://open.spotify.com/track/62mrbUVRK0Ony4xII2rPUD) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:16 | 2022-10-24 |  |
 | [Don't Look Back](https://open.spotify.com/track/7kzvREKBZUTHY2RtUlIUot) | [Dark Dark Night](https://open.spotify.com/artist/2pfCaY4iv4rCELaEJrAPao) | [Scary Moments](https://open.spotify.com/album/3SYaFklowfZf9pRD1PI39O) | 5:16 | 2022-10-24 |  |
 | [Evil Laugh](https://open.spotify.com/track/4vpjYDERW21Zgxez2oTpXY) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [Epic Trick or Treat](https://open.spotify.com/album/2Sc462IPaaPTrb6ykn2wlR) | 3:22 | 2022-10-24 |  |
@@ -44,7 +44,8 @@
 | [Halloween Ghoul Sounds](https://open.spotify.com/track/3wHqEiXqUdVoZLZj0hXb2s) | [Scare Scientists](https://open.spotify.com/artist/6H0pXjjgnY1P7iiIQ8hRVe) | [Terrifying Halloween Fx: Sounds for Haunted Houses](https://open.spotify.com/album/2nZiDPsODX0Mro5fmsGVRW) | 3:02 | 2022-10-24 |  |
 | [Halloween Night in the Forest](https://open.spotify.com/track/1Jfouo7BPAseH72MXYNS9n) | [Spooky Night](https://open.spotify.com/artist/5UmKC7zMZ7FW2s4EBVDr6N) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:04 | 2022-10-24 |  |
 | [Halloween Sounds](https://open.spotify.com/track/29ucS1nrPgeLhHjWWXNXmF) | [Horror Sounds](https://open.spotify.com/artist/0gVpR2W6Pi9Cumgz7arY1E) | [Halloween Sounds](https://open.spotify.com/album/0pP66JntY31t633UrV660I) | 5:14 | 2022-10-24 |  |
-| [Halloween Soundscape](https://open.spotify.com/track/6xOfZOICufBzGrUn4WdDMl) | [Dan Pugsley](https://open.spotify.com/artist/0vEwUO2ktLAk2hlZB6UY3F) | [Spooky Halloween Ambience](https://open.spotify.com/album/0Y3ANhswdE1s5UKJVHLTL6) | 1:01 | 2022-10-24 |  |
+| [Halloween Soundscape](https://open.spotify.com/track/4rB8KBa3cxVTW8Yi57L5pC) | [Dan Pugsley](https://open.spotify.com/artist/0vEwUO2ktLAk2hlZB6UY3F) | [Spooky Halloween Sounds](https://open.spotify.com/album/5tuWyoE4ai1oXwi8DnCsYG) | 1:01 | 2022-10-24 |  |
+| [Halloween Soundscape](https://open.spotify.com/track/6xOfZOICufBzGrUn4WdDMl) | [Dan Pugsley](https://open.spotify.com/artist/0vEwUO2ktLAk2hlZB6UY3F) | [Spooky Halloween Ambience](https://open.spotify.com/album/0Y3ANhswdE1s5UKJVHLTL6) | 1:01 | 2022-10-24 | 2023-03-29 |
 | [Halloween Wolves, Thunder, Wind](https://open.spotify.com/track/67PETcmS3LxtS7CktirC6z) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Sounds for Trick or Treating](https://open.spotify.com/album/28zZvNZlpodymoABeP5y95) | 3:20 | 2022-10-24 |  |
 | [Haunted Fireplace](https://open.spotify.com/track/5Ift6VgKpGksya2xPOcuep) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Spooky Halloween Sounds](https://open.spotify.com/album/3Wi1VJa07R0dMBvTLHayvY) | 2:46 | 2022-10-24 |  |
 | [Haunted Hill House](https://open.spotify.com/track/3QTd101OyKznUcslcZE0wL) | [Hell on Halloween](https://open.spotify.com/artist/4tUZxqyxEFaXK1XAT8uqcl) | [Creepy Ambience](https://open.spotify.com/album/32LgDWdMoovNxQDvj5z1Ln) | 3:52 | 2022-10-24 |  |

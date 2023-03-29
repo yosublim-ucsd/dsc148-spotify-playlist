@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Sick Tamburo in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,434 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,459 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 13 | [Spaccio \(feat\. Fast Animals and Slow Kids\)](https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [in fieri](https://open.spotify.com/album/1PbpWl95wrYdqDXQjGzZfD) | 2:34 |
 | 14 | [Da questo momento in poi](https://open.spotify.com/track/5aMXkADzSKqZ5QGYWY9roY) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Da questo momento in poi](https://open.spotify.com/album/1ALi5lN60hGaXWXX6q7GmO) | 3:32 |
 | 15 | [VADO DI MATTO](https://open.spotify.com/track/6ENWZUAwZJBazFJqMu2wWq) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [VADO DI MATTO](https://open.spotify.com/album/0kUAowt4UlLQK2NSYZ9wXf) | 2:15 |
-| 16 | [The Helmet](https://open.spotify.com/track/3UhlUXB6PX98gJl4SYLdfM) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Devo Challenge Cup](https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2) | 2:56 |
+| 16 | [Superhero Dopeproof](https://open.spotify.com/track/6eQF2PeXF6zKjbm9w1JJzX) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [Superhero Dopeproof](https://open.spotify.com/album/7DTaDXygAePDZ4KuZI6AER) | 4:36 |
 | 17 | [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 |
 | 18 | [SARANNO ALTRI](https://open.spotify.com/track/0g8YSJUxWL9WqTJ9FPCGI5) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [RISERVE](https://open.spotify.com/album/355pIopHNw6bmPned9sBlg) | 3:26 |
-| 19 | [Superhero Dopeproof](https://open.spotify.com/track/6eQF2PeXF6zKjbm9w1JJzX) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [Superhero Dopeproof](https://open.spotify.com/album/7DTaDXygAePDZ4KuZI6AER) | 4:36 |
+| 19 | [The Helmet](https://open.spotify.com/track/3UhlUXB6PX98gJl4SYLdfM) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Devo Challenge Cup](https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2) | 2:56 |
 | 20 | [Non Sei Sola](https://open.spotify.com/track/2viAvSGY7YMcDa0fNlSXwk) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW), [Jo Squillo](https://open.spotify.com/artist/12w3NBZ8q6GnSfAzNy19Dl) | [Non Sei Sola](https://open.spotify.com/album/5Y405Tvpkm2PyIWBl6N5ph) | 2:58 |
 | 21 | [She's so differentə](https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [She's so differentə](https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps) | 4:23 |
 | 22 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 26 | [Figli dei fiori](https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Figli dei fiori](https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs) | 2:43 |
 | 27 | [Will you come?](https://open.spotify.com/track/6lwrSCgFoucyAtezdsLfIr) | [Trust The Mask](https://open.spotify.com/artist/4QzZ1csaFZmC5N2tOvtQR6), [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL) | [Will you come?](https://open.spotify.com/album/6RaLeuLs21e0vnE9aC53B6) | 2:27 |
 | 28 | [Dubbi](https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Dubbi](https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK) | 2:21 |
-| 29 | [How](https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [How](https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt) | 2:39 |
+| 29 | [TUTTA FORTUNA](https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [TUTTA FORTUNA](https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE) | 2:45 |
 | 30 | [GDPR](https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [GDPR](https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6) | 2:52 |
-| 31 | [TUTTA FORTUNA](https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [TUTTA FORTUNA](https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE) | 2:45 |
+| 31 | [How](https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [How](https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt) | 2:39 |
 | 32 | [Forever](https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [Forever](https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7) | 2:22 |
 | 33 | [TRANNE LA MIA](https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TRANNE LA MIA](https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm) | 2:21 |
 | 34 | [0 SENTIMENTO](https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [0 SENTIMENTO](https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE) | 2:29 |
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 39 | [Mark Mothersbaugh Alterego](https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Mark Mothersbaugh Alterego](https://open.spotify.com/album/47RiulSgSCvFPbzp11Qkf9) | 2:48 |
 | 40 | [Volpi](https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Volpi](https://open.spotify.com/album/2ipqyNnq2rcaJqVoVMFkJB) | 3:40 |
 | 41 | [FOR MYSELF](https://open.spotify.com/track/4fz3cHwbOheH4GxK2uCtGo) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [FOR MYSELF](https://open.spotify.com/album/4I3i5IJCtWaY9trGpEhoTq) | 2:09 |
-| 42 | [Schifo](https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Schifo](https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1) | 3:02 |
-| 43 | [Piove Dentro](https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Piove Dentro](https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex) | 3:17 |
-| 44 | [Libera \(esseri umani perfetti\)](https://open.spotify.com/track/2l5ym1CsjSg10FapXRbdkz) | [⁄handlogic](https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z) | [Libera \(esseri umani perfetti\)](https://open.spotify.com/album/4dTODDZeNDbKIsAWutEln2) | 6:47 |
-| 45 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 |
+| 42 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 |
+| 43 | [Schifo](https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Schifo](https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1) | 3:02 |
+| 44 | [Piove Dentro](https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Piove Dentro](https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex) | 3:17 |
+| 45 | [Libera \(esseri umani perfetti\)](https://open.spotify.com/track/2l5ym1CsjSg10FapXRbdkz) | [⁄handlogic](https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z) | [Libera \(esseri umani perfetti\)](https://open.spotify.com/album/4dTODDZeNDbKIsAWutEln2) | 6:47 |
 | 46 | [My Old Flame](https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [My Old Flame](https://open.spotify.com/album/08GOUlXVokyOkTDCeqxs8S) | 3:52 |
 | 47 | [Battelli ebbri](https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Cosmic Res](https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP) | 3:17 |
 | 48 | [CARTA, FORBICE, SESSO](https://open.spotify.com/track/4o6mSmsoxIFaqutj77Ul6K) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [CARTA, FORBICE, SESSO](https://open.spotify.com/album/2JTtwkyyz75fQLPfDuiNXs) | 2:49 |
-| 49 | [AMERICA](https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [AMERICA](https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh) | 3:07 |
-| 50 | [20 Anni](https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH) | [As We Are](https://open.spotify.com/artist/6htRUFkFi7HpxnZ4kSQQfQ) | [20 Anni](https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D) | 2:30 |
-| 51 | [Il Nuovo Mare](https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L) | [Vintage Violence](https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm) | [Il Nuovo Mare](https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8) | 2:08 |
+| 49 | [Il Nuovo Mare](https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L) | [Vintage Violence](https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm) | [Il Nuovo Mare](https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8) | 2:08 |
+| 50 | [AMERICA](https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [AMERICA](https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh) | 3:07 |
+| 51 | [20 Anni](https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH) | [As We Are](https://open.spotify.com/artist/6htRUFkFi7HpxnZ4kSQQfQ) | [20 Anni](https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D) | 2:30 |
 | 52 | [Dimensioni](https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Manuale Illusione](https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp) | 10:12 |
 | 53 | [Castelli di sabbia](https://open.spotify.com/track/2SPCnoU0hUdcWdpfwu8tYL) | [Winter Dust](https://open.spotify.com/artist/29erlgFDUFpZSXENGAKO6a) | [Unisono](https://open.spotify.com/album/1arWxoywNGR6Oja3DhsmQV) | 3:45 |
 | 54 | [Samurai](https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Samurai](https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4) | 2:53 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 64 | [Cherries](https://open.spotify.com/track/1TakoLDRIHQq4WlSZVcmcF) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Cherries](https://open.spotify.com/album/6Vgm212wqZ8O3qqkPbeAc4) | 1:50 |
 | 65 | [Soa](https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Lentius Profundius Suavius](https://open.spotify.com/album/6evTL0jvzNn2kOP2jEZsvw) | 3:58 |
 
-Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMDA3MmI1MWMyNTRmYmVmM2M4YjcwYjFlNDNhOWYwYTkx`
+Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMDhiMzNmNzFmYjFhYWQyNTA4YzMwYjc4NjBlNGE4MjY0`

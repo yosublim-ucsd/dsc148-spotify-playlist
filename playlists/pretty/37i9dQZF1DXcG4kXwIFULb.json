@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 112968,
+  "num_followers": 113070,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMGMyNmQ0Yzg1NTcwYTQ3NzFhNTAxYWQ1Nzg2NTc5MmEz",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDljOGY0YzZkMjQxMjgyZGI1ZjNiYzRjZjU3MTMzNTEw",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -719,18 +719,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Paradise Blown",
-        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
       "artists": [
         {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
         }
       ],
-      "duration_ms": 245493,
-      "name": "Black Jesus",
-      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -751,18 +751,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+        "name": "Paradise Blown",
+        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
       "artists": [
         {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
         }
       ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+      "duration_ms": 245493,
+      "name": "Black Jesus",
+      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -803,6 +803,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "A New Stereophonic Sound Spectacular",
+        "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
+      },
+      "artists": [
+        {
+          "name": "Hooverphonic",
+          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "2 Wicky",
+      "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "A New Stereophonic Sound Spectacular",
-        "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
+        "name": "Permutation",
+        "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
       },
       "artists": [
         {
-          "name": "Hooverphonic",
-          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 284293,
-      "name": "2 Wicky",
-      "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+      "duration_ms": 282573,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -855,22 +871,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Permutation",
-        "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 282573,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Satta",
-        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 379360,
-      "name": "Night over Manaus",
-      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Safe in the Steep Cliffs",
         "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 250120,
       "name": "Rattlesnakes",
       "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Satta",
+        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 379360,
+      "name": "Night over Manaus",
+      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -951,6 +951,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Gran Hotel Buenos Aires",
+        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
+      },
+      "artists": [
+        {
+          "name": "Federico Aubele",
+          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Postales",
+      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Koop Islands",
         "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 272760,
       "name": "Koop Island Blues",
       "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Gran Hotel Buenos Aires",
-        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
-      },
-      "artists": [
-        {
-          "name": "Federico Aubele",
-          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Postales",
-      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 207253,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Cold Water Music",
-        "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
-      },
-      "artists": [
-        {
-          "name": "Aim",
-          "url": "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
-        }
-      ],
-      "duration_ms": 344360,
-      "name": "Cold Water Music",
-      "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Music By Cavelight",
         "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 306586,
       "name": "Insomniac Olympics",
       "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Cold Water Music",
+        "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
+      },
+      "artists": [
+        {
+          "name": "Aim",
+          "url": "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
+        }
+      ],
+      "duration_ms": 344360,
+      "name": "Cold Water Music",
+      "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Long Distance",
-        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
-      },
-      "artists": [
-        {
-          "name": "Ivy",
-          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "Edge Of The Ocean",
-      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 292106,
       "name": "Recurring",
       "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
+      },
+      "artists": [
+        {
+          "name": "Ivy",
+          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "Edge Of The Ocean",
+      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Melt - Remastered",
-      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 325583,
       "name": "Emkay",
       "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Melt - Remastered",
+      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Apricot Morning",
-        "url": "https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf"
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 284693,
-      "name": "Transatlantic",
-      "url": "https://open.spotify.com/track/3pJ0rv6o5HeIBWiO7mB1th"
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1551,6 +1551,22 @@
       "duration_ms": 252933,
       "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
       "url": "https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Apricot Morning",
+        "url": "https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Transatlantic",
+      "url": "https://open.spotify.com/track/3pJ0rv6o5HeIBWiO7mB1th"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1583,22 +1599,6 @@
       "duration_ms": 417653,
       "name": "In A State",
       "url": "https://open.spotify.com/track/26YxLaguzAd1zNAXpUjqXP"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqa0kq6SUk4.md) - [plain]
 
 > Catch the Queens of Bollywood\. Cover\- Neeti Mohan
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,468 likes - 47 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,473 likes - 47 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

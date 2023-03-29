@@ -1,13 +1,33 @@
 {
-  "description": "Lush, shimmery guitars. Cover: Tom Misch",
-  "num_followers": 18220,
+  "description": "Lush, shimmery guitars. Cover: Ichika Nito",
+  "num_followers": 18262,
   "original_name": "Shimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDI0MmRhZmJiOTEyYjdiYzc5ODU0NjcwODRjZGZiN2Y2",
+  "snapshot_id": "MTY4MDAxNjI2NywwMDAwMDAwMDcyM2JmYmZlMTY1NDEyMWVjMWE2MmJkZWVjOThmNmU5",
   "tracks": [
+    {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/4Kh88t8Dm5bwkdnfwjhBVn"
+      },
+      "artists": [
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "COLOURS",
+      "url": "https://open.spotify.com/track/3U6DHqP0KCGMSmVFn61YJy"
+    },
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
@@ -69,6 +89,38 @@
       "url": "https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn"
     },
     {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Ruben Had A Little Lamb",
+        "url": "https://open.spotify.com/album/6KDuXMLPDlzIXz4PtHmpjI"
+      },
+      "artists": [
+        {
+          "name": "Ruben Wan",
+          "url": "https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5"
+        }
+      ],
+      "duration_ms": 120062,
+      "name": "Ruben Had A Little Lamb",
+      "url": "https://open.spotify.com/track/1QFb6IuRmpywF3ZxxagY52"
+    },
+    {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Eden Tides",
+        "url": "https://open.spotify.com/album/486ROFt7BvQo6UEe6OM0Ry"
+      },
+      "artists": [
+        {
+          "name": "benners",
+          "url": "https://open.spotify.com/artist/27nbFjeA04YEdOPXCxFJMP"
+        }
+      ],
+      "duration_ms": 212644,
+      "name": "Eden Tides",
+      "url": "https://open.spotify.com/track/7gYqbtjbu89PAkSakRhWl1"
+    },
+    {
       "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "Flecha",
@@ -93,6 +145,22 @@
       "url": "https://open.spotify.com/track/20Amyw8NsuVeb1niVnSn3D"
     },
     {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Waterfalls & Reverb",
+        "url": "https://open.spotify.com/album/6qP6WMCqifSimBrMtA4xY8"
+      },
+      "artists": [
+        {
+          "name": "Sam Blakelock",
+          "url": "https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR"
+        }
+      ],
+      "duration_ms": 70708,
+      "name": "Waterfalls & Reverb",
+      "url": "https://open.spotify.com/track/0VcGBiA3O2OpwVnVl5yS7m"
+    },
+    {
       "added_at": "2021-09-08 16:21:45",
       "album": {
         "name": "Geography",
@@ -109,6 +177,30 @@
       "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
     },
     {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Sprout",
+        "url": "https://open.spotify.com/album/2uBnEoUAtT1RaX2sdcKYzF"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/2tatJcRF6iotLuc51uqaQq"
+        },
+        {
+          "name": "Yvette Young",
+          "url": "https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8"
+        },
+        {
+          "name": "Nito",
+          "url": "https://open.spotify.com/artist/2KYi5lKh0UYAjBrqhuJQ3Z"
+        }
+      ],
+      "duration_ms": 59071,
+      "name": "Sprout",
+      "url": "https://open.spotify.com/track/6RFG5HsLNp0V5AVArBl8Fz"
+    },
+    {
       "added_at": "2021-09-08 16:21:45",
       "album": {
         "name": "Pure Imagination",
@@ -123,6 +215,26 @@
       "duration_ms": 126964,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/3VtDoxZ7IztQVQAomuXqWC"
+    },
+    {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/0CPht7y4MofltEVzrN9ntw"
+      },
+      "artists": [
+        {
+          "name": "MIXK",
+          "url": "https://open.spotify.com/artist/3LwhcSCbJCQTJpk0Ad9dpg"
+        },
+        {
+          "name": "Marco Apicella",
+          "url": "https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/4Tuek5kA9yuQ0gUKruaFpO"
     },
     {
       "added_at": "2021-09-08 16:21:45",
@@ -163,6 +275,22 @@
       "duration_ms": 130119,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA"
+    },
+    {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Snax: Sip",
+        "url": "https://open.spotify.com/album/3UVsnhncejiQKPNOUb4z9p"
+      },
+      "artists": [
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "duration_ms": 173936,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/79IPNSo8ppCtLws6rb8mDM"
     },
     {
       "added_at": "2021-09-08 16:21:45",
@@ -257,6 +385,22 @@
       "url": "https://open.spotify.com/track/21ZVMmHXpt3Qht5pjVgBMS"
     },
     {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3hjh63il08PF8uSXbw1bot"
+      },
+      "artists": [
+        {
+          "name": "Ruben Wan",
+          "url": "https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/26OHZSf061GCTUdcs3e2MP"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Could It Be U / Surface",
@@ -317,6 +461,22 @@
       "url": "https://open.spotify.com/track/1sU9AsKJehVcsHdE4pDKh8"
     },
     {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Where The Light Comes",
+        "url": "https://open.spotify.com/album/4OiaKI9cso30eTR4xdYaIg"
+      },
+      "artists": [
+        {
+          "name": "G R I Z",
+          "url": "https://open.spotify.com/artist/3gBnd68xkEhdBujCwX6daz"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "Where The Light Comes",
+      "url": "https://open.spotify.com/track/6fG0RedcoVqZHOHaDfZDkl"
+    },
+    {
       "added_at": "2021-09-08 16:21:45",
       "album": {
         "name": "Flutter",
@@ -359,6 +519,22 @@
       "duration_ms": 115040,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/0sK6jRVjGwUTEXVNCFe9t7"
+    },
+    {
+      "added_at": "2023-03-28 15:11:07",
+      "album": {
+        "name": "Upon First Meeting",
+        "url": "https://open.spotify.com/album/1Q1dbdKb9TUajsj9ik8qhp"
+      },
+      "artists": [
+        {
+          "name": "Blutrayne",
+          "url": "https://open.spotify.com/artist/1LHyjfRLGUDxlIyzt34GN7"
+        }
+      ],
+      "duration_ms": 249150,
+      "name": "Upon First Meeting",
+      "url": "https://open.spotify.com/track/5Vekw6nVl3a6ctvmHp0PnV"
     },
     {
       "added_at": "2021-09-08 16:21:45",

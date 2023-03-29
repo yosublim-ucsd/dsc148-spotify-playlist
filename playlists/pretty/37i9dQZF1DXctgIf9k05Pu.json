@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 229396,
+  "num_followers": 229529,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGU1NWMwYjc1N2RkNjZiZWE2ZWFlYzY0YTc0ZjhmZTUy",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDNhOWEyOWFlNDEzZGZhM2U4MDVhNGM0YTI1MjQ3YmFh",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Steven Universe",
+        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 134025,
+      "name": "Steven Universe",
+      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 252121,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Steven Universe",
-        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 134025,
-      "name": "Steven Universe",
-      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 182416,
       "name": "the way that you see me (feat. Ayleen Valentine)",
       "url": "https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
     },
     {
       "added_at": "2022-02-02 00:21:48",

@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 224200,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
@@ -1874,6 +1874,24 @@
       "duration_ms": 300579,
       "name": "Deadly Diminuendo",
       "url": "https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD"
+    },
+    {
+      "album": {
+        "name": "Deadnight Warrior",
+        "url": "https://open.spotify.com/album/4udcCVFs8yisGUOUnpB0zK"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173234,
+      "name": "Deadnight Warrior",
+      "url": "https://open.spotify.com/track/6KzQedLjxK2WTnN7B1zn16"
     },
     {
       "album": {
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 328133,
       "name": "Generations' Legacy",
       "url": "https://open.spotify.com/track/5IQkaqFVUaw8MSVY1TsDsX"
@@ -6674,7 +6692,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 277586,
       "name": "Revel in Time",
       "url": "https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1"

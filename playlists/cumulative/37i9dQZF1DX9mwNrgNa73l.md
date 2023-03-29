@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-126 songs - 14 hr 30 min
+127 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Javeda Zindag](https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn) | [Kshitij](https://open.spotify.com/artist/2SzDI11JbzzEnNFYB6MrkS), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 8:22 | 2022-08-02 |  |
 | [Jugni](https://open.spotify.com/track/3EsTe6DYRgr8zzRVaXT5wW) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Jugni](https://open.spotify.com/album/0as9dvFbBejLXfkWayPl4M) | 3:41 | 2022-08-02 |  |
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2022-10-25 |  |
-| [Kalaam, Pt\. 1](https://open.spotify.com/track/0kmx6XKJG768AVMlR1YZcC) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/04bQOP9TC9BMNVm3xQx2Yw) | 5:44 | 2022-06-21 |  |
+| [Kalaam \- Part 1](https://open.spotify.com/track/6NCfirHVuWhQMmAzOoLzl7) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/3V05xjwa9iNewopfpIO1sY) | 5:44 | 2023-03-27 |  |
+| [Kalaam, Pt\. 1](https://open.spotify.com/track/0kmx6XKJG768AVMlR1YZcC) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/04bQOP9TC9BMNVm3xQx2Yw) | 5:44 | 2022-06-21 | 2023-03-29 |
 | [Kamli](https://open.spotify.com/track/5su3i7O5h0mn8ckjm3OaiD) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Wajd, Vol\. 1](https://open.spotify.com/album/1avSRwSXzcUpGLtIl90OnY) | 8:42 | 2022-07-18 |  |
 | [Kamli](https://open.spotify.com/track/04KCgCUQTPCenk5IwASx4s) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Wajd, Vol\. 1](https://open.spotify.com/album/5M92ubLBqNXRwraM3kqjqF) | 8:42 | 2022-06-21 | 2022-07-29 |
 | [Khwaja Mere Khwaja](https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 6:56 | 2022-10-25 |  |

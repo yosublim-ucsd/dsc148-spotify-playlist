@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-176 songs - 9 hr 54 min
+177 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,10 +137,11 @@
 | [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-10-06 | 2022-10-08 |
 | [Rose Garden](https://open.spotify.com/track/0lqUrUVpr7YTrpWbQk7U0G) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [THE ARTIST](https://open.spotify.com/album/5I4UXnGYkAaDenWYmApziK) | 2:45 | 2022-04-18 | 2022-04-21 |
 | [sad love song](https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [sad love song](https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw) | 3:01 | 2022-04-18 | 2022-10-03 |
+| [Sad Love Song \(feat\. slchld & Rheehab\)](https://open.spotify.com/track/3KQambacz4w7NX27MD0bxb) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [Seoul Vibes, Pt\. 1](https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL) | 3:02 | 2023-02-28 |  |
 | [Scar \(feat\. Seol Ho Seung\)](https://open.spotify.com/track/2RkXFeLsiXAiiyPbqkhEC0) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [Seol Ho Seung](https://open.spotify.com/artist/6wEmGWWY1rih4ecitIVyDi) | [PINE](https://open.spotify.com/album/145mNPg9P6VsOxDeDzRs2c) | 3:36 | 2022-04-18 | 2022-07-16 |
 | [Silence](https://open.spotify.com/track/0CE4igtHymDL5Zc2y8jIWZ) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Five Senses](https://open.spotify.com/album/6TtP8DR6ISaBIRZSy6QdIo) | 3:17 | 2022-04-18 | 2022-07-25 |
 | [Sinking Islands](https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2) | [Sinso](https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr) | [Sinking Islands](https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED) | 3:20 | 2022-12-07 | 2022-12-25 |
-| [Sleep](https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:58 | 2023-02-14 |  |
+| [Sleep](https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:58 | 2023-02-14 | 2023-03-29 |
 | [Something in my](https://open.spotify.com/track/214AR4TslH7qdFSWQecM7R) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [02](https://open.spotify.com/album/6y0S37CZTxlpZbch0BQ9SY) | 4:25 | 2022-04-18 | 2022-07-13 |
 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-12 | 2022-11-03 |
 | [Sorry That I Love You Still](https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Sorry That I Love You Still](https://open.spotify.com/album/2dd1k75R0SlWlEGJgBw07G) | 2:27 | 2022-04-21 | 2022-07-28 |

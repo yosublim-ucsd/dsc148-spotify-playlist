@@ -1,12 +1,12 @@
 {
   "description": "The best remixes of popular tracks!",
-  "num_followers": 26888,
+  "num_followers": 27530,
   "original_name": "Hardstyle Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMzc3OSwwMDAwMDAwMDNhMTM0ODU2NjE4MmY1ZDJiODYzOTAwNzE4M2VlMDJj",
+  "snapshot_id": "MTY3OTYxMzc3OSwwMDAwMDAwMDRmNTFiZjI3NWNiNmZiYzg0NzhiNjNkMjMxMjhhOGNi",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/1VNd4mu5ggXFsI4bAwaPIN"
+      },
+      "artists": [
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "duration_ms": 201448,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0pZpFpP9nInJjyfVAQTMsf"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "UNHOLY (HARDSTYLE)",
         "url": "https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7"
       },
@@ -1367,26 +1383,6 @@
       "duration_ms": 195000,
       "name": "UNHOLY (HARDSTYLE)",
       "url": "https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Superstring (Aftershock Remix)",
-        "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
-      },
-      "artists": [
-        {
-          "name": "Cygnus X",
-          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
-        },
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        }
-      ],
-      "duration_ms": 144020,
-      "name": "Superstring - Aftershock Remix",
-      "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
     },
     {
       "added_at": "2023-03-23 23:00:00",

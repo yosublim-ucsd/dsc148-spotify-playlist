@@ -1,29 +1,13 @@
 {
   "description": "\u4e0a\u73ed\u6642\u9593\u5f88\u9577\uff0c\u5c31\u8b93\u6700\u65b0\u6700\u52d5\u807d\u7684\u570b\u8a9e\u6b4c\u966a\u4f60\uff0c\u8212\u670d\u8f15\u807d\u4e00\u8d77\u6e21\u904e\u5427\uff01",
-  "num_followers": 65363,
+  "num_followers": 65370,
   "original_name": "\u4e0a\u73ed\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTg5MDEzOCwwMDAwMDAwMDYyYjg1YWM2NTZkNjM4MDljNTQ3YTYyNDdiODEzMDJi",
+  "snapshot_id": "MTY3OTk2ODQyMywwMDAwMDAwMDljOWUxOTNmN2YxOTY1ODg4YmMzNGExZjFhY2UxZmZj",
   "tracks": [
-    {
-      "added_at": "2023-03-27 04:08:57",
-      "album": {
-        "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
-        "url": "https://open.spotify.com/album/5cUVq2mIwcOGEWZTDLNlZj"
-      },
-      "artists": [
-        {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
-        }
-      ],
-      "duration_ms": 242789,
-      "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
-      "url": "https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg"
-    },
     {
       "added_at": "2023-03-27 04:08:57",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 230000,
       "name": "\u8166\u888b\u90fd\u662f\u4f60 - \u300aHIStory5-\u9047\u898b\u672a\u4f86\u7684\u4f60\u300bLINE TV\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5d3W1YWCHNTnZJPSXZ30eP"
+    },
+    {
+      "added_at": "2023-03-27 04:08:57",
+      "album": {
+        "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
+        "url": "https://open.spotify.com/album/5cUVq2mIwcOGEWZTDLNlZj"
+      },
+      "artists": [
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "duration_ms": 242789,
+      "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
+      "url": "https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg"
     },
     {
       "added_at": "2023-03-27 04:08:57",
@@ -87,6 +87,22 @@
       "duration_ms": 255074,
       "name": "\u4f60\u6559\u6703\u6211\u7684\u4e8b",
       "url": "https://open.spotify.com/track/5qOii2BZ1rxAuWJi4L5jxk"
+    },
+    {
+      "added_at": "2023-03-28 01:53:43",
+      "album": {
+        "name": "\u8b1d\u5e55",
+        "url": "https://open.spotify.com/album/0lkZgRyVYqPgQqe8z3N0Ls"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "\u8b1d\u5e55",
+      "url": "https://open.spotify.com/track/7qqrbqHcX0UMSI1SsYVVf6"
     },
     {
       "added_at": "2023-03-27 04:08:57",

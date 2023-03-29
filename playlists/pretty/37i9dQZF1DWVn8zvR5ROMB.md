@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Lindsay Ell, Luke Combs, Kip Moore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,675 likes - 67 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,847 likes - 67 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

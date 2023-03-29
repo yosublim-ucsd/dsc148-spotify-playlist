@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1757324,
+  "num_followers": 1757381,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGE1Mzc3ZWQyYTVlMzJmYjVhMzMzZGQ0ZDk2OWIxOTQ4",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGFmZTg0M2VhZDI1NmY5ZjFkODgzMGE1NzgyN2MzZTRj",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
     },
     {
-      "added_at": "2023-03-28 00:40:31",
+      "added_at": "2023-03-29 04:33:01",
       "album": {
         "name": "Body Do",
         "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Another Nasty Song",
-        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 144313,
-      "name": "Another Nasty Song",
-      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "THE SINGLE LIFE",
         "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 134760,
       "name": "BO$$ CHICK",
       "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Another Nasty Song",
+        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 144313,
+      "name": "Another Nasty Song",
+      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -667,25 +667,25 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Lebra Jolie",
-        "url": "https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6"
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
       },
       "artists": [
         {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 142896,
-      "name": "Give U Some (feat. Rob49)",
-      "url": "https://open.spotify.com/track/1SDPlyCpP441BhYKcupxc0"
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
-      "added_at": "2023-03-28 00:40:31",
+      "added_at": "2023-03-29 04:33:01",
       "album": {
         "name": "1-800-Bad-Bxtch",
         "url": "https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP"
@@ -703,22 +703,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+        "name": "Lebra Jolie",
+        "url": "https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
         }
       ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+      "duration_ms": 142896,
+      "name": "Give U Some (feat. Rob49)",
+      "url": "https://open.spotify.com/track/1SDPlyCpP441BhYKcupxc0"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Bend It Over",
-        "url": "https://open.spotify.com/album/2Q1xSOvzYNO9tS5rpxJ0SS"
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
       "artists": [
         {
-          "name": "Renni Rucci",
-          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 175516,
-      "name": "Bend It Over",
-      "url": "https://open.spotify.com/track/3L29JZ7rEnfAxigaQvWr69"
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Bend It Over",
+        "url": "https://open.spotify.com/album/2Q1xSOvzYNO9tS5rpxJ0SS"
+      },
+      "artists": [
+        {
+          "name": "Renni Rucci",
+          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
+        }
+      ],
+      "duration_ms": 175516,
+      "name": "Bend It Over",
+      "url": "https://open.spotify.com/track/3L29JZ7rEnfAxigaQvWr69"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Bikini Bottom",
         "url": "https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It's Givin",
-      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/52ySvuxscDGsXUVsci1Kpa"
     },
     {
-      "added_at": "2023-03-28 00:40:31",
+      "added_at": "2023-03-29 04:33:01",
       "album": {
         "name": "AIN'T GONNA ANSWER",
         "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"

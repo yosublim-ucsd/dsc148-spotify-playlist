@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Spinas
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,162 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,172 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 14 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 | 15 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 |
 | 16 | [SOLO PER TE](https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [SOLO PER TE](https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV) | 3:19 |
-| 17 | [r\(\)t\(\)nda \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/0GUPqrlZYs3ANVhAifVlgJ) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:39 |
+| 17 | [r\(\)t\(\)nda \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/7FsuMwalG48ZfjklkSkuJa) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:39 |
 | 18 | [È tutto un caos](https://open.spotify.com/track/3mqVYZ2gRrOIWuFTDX0mNy) | [GALLI](https://open.spotify.com/artist/5mBJ4KEcCGC9A92wlI4Mue) | [È tutto un caos](https://open.spotify.com/album/7nVFGjDRKijK9MDU2BzV8e) | 2:51 |
 | 19 | [fiori ghiacciati](https://open.spotify.com/track/1lnhdEvBwLMS3lwfb42jmW) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [fiori ghiacciati](https://open.spotify.com/album/2Ggf9V2RpHuCy10Vu95zQ7) | 2:38 |
 | 20 | [Da lei](https://open.spotify.com/track/0ysrugVo3KFwOXLYkonGE7) | [MaRie](https://open.spotify.com/artist/3nm9CmFDy9avfS3zXHFANC) | [Da Lei](https://open.spotify.com/album/5Bvf20lnuAlnynMnQibDaT) | 2:40 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 39 | [Lacreme](https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Lacreme](https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM) | 3:07 |
 | 40 | [O'tiempo](https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 3:08 |
 | 41 | [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 |
-| 42 | [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/3vCa88ij0fqwttqJ7E7pQL) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:50 |
+| 42 | [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/1WzE7gJwVB4ELFUJes2Gm6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:50 |
 | 43 | [Tessie](https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Tessie](https://open.spotify.com/album/0s9z3rl3VdBrORlFgrdN9H) | 3:01 |
 | 44 | [Sparami \(feat\. Inoki\)](https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Sparami \(feat\. Inoki\)](https://open.spotify.com/album/0BAQ3TAYXH3ehu2wSDv4OJ) | 3:13 |
 | 45 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [SCINNE](https://open.spotify.com/track/6YXMopaQMquMzIp0QYTiLA) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [SOLIDAGO](https://open.spotify.com/album/4krgtckMU7NY6UxCOqATyr) | 2:48 |
 | 65 | [Midnight](https://open.spotify.com/track/38zBWUqKuUgXRgP7xIvE2s) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [Midnight](https://open.spotify.com/album/6FyyqpFQV4ozDqKwzgT3cI) | 2:48 |
 
-Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMDY5NjViNjVhZDc0MzlkNjkzODY0YTllZGJjNmEwYWFl`
+Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMGFhYTk3Y2E0NDcxMjYzY2E5NmY0ZTI0M2UyNDdkMGVl`

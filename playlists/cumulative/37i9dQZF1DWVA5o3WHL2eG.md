@@ -4,7 +4,7 @@
 
 > Co\-curated by CATT\. Learn more in our playlist clips!
 
-777 songs - 1 day 16 hr 59 min
+778 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,7 +743,8 @@
 | [Wenn ich die Augen schließe \- Achtabahn Mix](https://open.spotify.com/track/0Llo8hKzgs3PYkuQhGVZZh) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L), [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Wenn ich die Augen schließe \(Achtabahn Mix\)](https://open.spotify.com/album/3Ij7vgxT5d2DbQHHVuM8E6) | 2:26 | 2022-09-06 | 2022-10-05 |
 | [Wenn ich NEIN sag, dann mein ich NEIN](https://open.spotify.com/track/1MeLjmIUUbc0dSEVKKBMiN) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Wenn ich NEIN sag, dann mein ich NEIN](https://open.spotify.com/album/51NpmcHletYK0PnaffWEL8) | 2:52 | 2022-03-07 | 2022-04-06 |
 | [WENN ICH STERBE](https://open.spotify.com/track/5PNNnInglyngBvmMPlQkyx) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [WENN ICH STERBE](https://open.spotify.com/album/1IZYLoQLnt9pLvUgpoWRQR) | 3:00 | 2023-01-31 | 2023-03-01 |
-| [Wenn Kometen fallen](https://open.spotify.com/track/0Fz2b6FOXTqujJSjuJaRXu) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn Kometen fallen](https://open.spotify.com/album/75781P23IOKsqtj4V21Yzh) | 2:21 | 2023-02-28 |  |
+| [Wenn Kometen fallen](https://open.spotify.com/track/05xLWwAxV6cP5zrYBF2eM6) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [NIEMALS ALLEIN](https://open.spotify.com/album/06DubYwQD77eHnScU3wBFb) | 2:21 | 2023-03-06 |  |
+| [Wenn Kometen fallen](https://open.spotify.com/track/0Fz2b6FOXTqujJSjuJaRXu) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn Kometen fallen](https://open.spotify.com/album/75781P23IOKsqtj4V21Yzh) | 2:21 | 2023-02-28 | 2023-03-29 |
 | [Wer bist du?](https://open.spotify.com/track/3gissJWkvQ4DvGy5eAB6Fu) | [Celo Minati](https://open.spotify.com/artist/21VV9fUe6whK3Zo2BPoHnd) | [Wer bist du?](https://open.spotify.com/album/5Kd64BNr7TYPBpyuoz4l0D) | 2:35 | 2023-01-03 | 2023-02-01 |
 | [WET SURFACE](https://open.spotify.com/track/4ifoKIbDYmRj20GDh8a1Bq) | [UMME BLOCK](https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk) | [WET SURFACE](https://open.spotify.com/album/5JD4XfovThcRF6qUwC1Sia) | 3:40 | 2023-01-31 | 2023-03-01 |
 | [what if we?](https://open.spotify.com/track/3bLunJFm0B341fJ2TDQdLE) | [Faye Montana](https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b) | [what if we?](https://open.spotify.com/album/45mEiWk5PgdeQqabD0fQw3) | 2:53 | 2022-10-04 | 2022-11-08 |

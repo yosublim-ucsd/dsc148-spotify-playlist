@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 
 > Classics from the Baroque era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,696 likes - 48 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,800 likes - 48 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 | 44 | [Largo from Xerxes](https://open.spotify.com/track/5FNxBADhe8SM9Aejtw1AfR) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Handel: Greatest Hits](https://open.spotify.com/album/1riYSn3MpBFWUF8b7adRvO) | 5:50 |
 | 45 | [Sonata III: V\. Rondeau](https://open.spotify.com/track/3sHoPmz13tcBdi6TTqMDI1) | [Georg Muffat](https://open.spotify.com/artist/2qOmGTOq3DzslJlvx77kMR), [Lars Ulrik Mortensen](https://open.spotify.com/artist/60V1cu478C4wll4ctBKkY5), [Concerto Copenhagen](https://open.spotify.com/artist/3bAYWBSC170iRoa7KEJu5p) | [Muffat: Armonico Tributo](https://open.spotify.com/album/76YgLLiW6cIr0PDwppnGZr) | 1:17 |
 | 46 | [Ciaccona \(I\)](https://open.spotify.com/track/7jOnhe335cbTJyTiZoPkxg) | [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ) | [All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...](https://open.spotify.com/album/1djXV7bpisc7lSeZWK9Y8e) | 3:52 |
-| 47 | [Suite in G major: Prélude \- lentement](https://open.spotify.com/track/14stuPc6g7QVOQt2FSMJJM) | [Marin Marais](https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE), [Mieneke van der Velden](https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp), [Glen Wilson](https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs) | [Marais: Pieces de Viole](https://open.spotify.com/album/0xTKwdmMk6FxXmdOMQQ8q6) | 2:27 |
+| 47 | [Pièces de viole, Livre 3 \- Suite No\. 7 in G Major: No\. 92\. Prélude\. Lentement](https://open.spotify.com/track/2uzur7yhtXRMIoMQqgqCbd) | [Marin Marais](https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE), [Mieneke van der Velden](https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp), [Glen Wilson](https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs) | [Marais: Pièces de viole](https://open.spotify.com/album/1U2A9ZPdjDpyeXVmsZWBSd) | 2:27 |
 | 48 | [Canarios](https://open.spotify.com/track/4wVfNcuFvJzBE5FQ5J479c) | [Gaspar Sanz](https://open.spotify.com/artist/1OdITJSYADZMOPRSyXlb3c), [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Thibault Cauvin](https://open.spotify.com/album/3xh9nAAn1jntzf6phXqYcG) | 2:27 |
 
-Snapshot ID: `MTY3NDIyMzQyMiwwMDAwMDAwMDA3Y2ZmYTcwNzVjNTc0OTY5ODk5MGY1NGIwMjdiOWQz`
+Snapshot ID: `MTY3NDIyMzQyMiwwMDAwMDAwMDQwMTM3YWM3NDFjZjc3YjY4YzBmNDFiNjZiNjg0YmQ4`

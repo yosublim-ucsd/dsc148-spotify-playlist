@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,746 likes - 29 songs - 1 hr 31 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,747 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 19 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
 | 20 | [Do Your Dance](https://open.spotify.com/track/4pzXfsRW2GVSDhlXmXajjZ) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o), [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [Rowetta](https://open.spotify.com/artist/2SbcWzAeIqhsmdyra9tW3z) | [Do Your Dance](https://open.spotify.com/album/5uvvvDz3OAfPaWoHcxdS2C) | 2:39 |
 | 21 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 |
-| 22 | [Acid](https://open.spotify.com/track/0QnX2bRjScBfaMOdrXEW1K) | [DJEAU](https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA) | [Acid](https://open.spotify.com/album/336joJ4SGdEl26VeCzrXuA) | 2:32 |
+| 22 | [ACID](https://open.spotify.com/track/0QnX2bRjScBfaMOdrXEW1K) | [DJEAU](https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA) | [ACID](https://open.spotify.com/album/336joJ4SGdEl26VeCzrXuA) | 2:32 |
 | 23 | [Como Shakira](https://open.spotify.com/track/6OqRcecS47ph02u2R3Jvl2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Como Shakira](https://open.spotify.com/album/1p7L1UICmzr4ivD5xZ97Iz) | 2:09 |
 | 24 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
 | 25 | [Sandman](https://open.spotify.com/track/4nGYaSyae3uuPsriAN9vEu) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Sandman](https://open.spotify.com/album/5ME1bejRuqVgtKgeWt51Rl) | 3:37 |

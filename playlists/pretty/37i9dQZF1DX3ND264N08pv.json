@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 38224,
+  "num_followers": 38341,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMDAwZmIwNDFiYzcwNTA4NWYzYzdjMjQwNjRmY2UyYzU2",
+  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMGUzNTYwMmExMjUwYTVmNWM1YzdjODY0M2RlNWJjMzA1",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Hell Boy",
         "url": "https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 224001,
       "name": "Hell Boy",
       "url": "https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "RUDE METHODS",
+        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "duration_ms": 188487,
+      "name": "RUDE METHODS",
+      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "DANCEFLOOR SLAYER",
         "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 161653,
       "name": "DANCEFLOOR SLAYER",
       "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "RUDE METHODS",
-        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        }
-      ],
-      "duration_ms": 188487,
-      "name": "RUDE METHODS",
-      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Crazy, Like Me!",
+        "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Crazy, Like Me!",
+      "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Fake Shit",
         "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
       },
@@ -979,6 +995,30 @@
       "duration_ms": 183666,
       "name": "Fake Shit",
       "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Ready to Explode",
+        "url": "https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 167997,
+      "name": "Ready to Explode",
+      "url": "https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -999,38 +1039,6 @@
       "duration_ms": 183000,
       "name": "Burn MF",
       "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "HIT THA CLUB",
-        "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "HIT THA CLUB",
-      "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Crazy, Like Me!",
-        "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Crazy, Like Me!",
-      "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1071,26 +1079,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Ready to Explode",
-        "url": "https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN"
+        "name": "HIT THA CLUB",
+        "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
       },
       "artists": [
         {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
         }
       ],
-      "duration_ms": 167997,
-      "name": "Ready to Explode",
-      "url": "https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP"
+      "duration_ms": 166615,
+      "name": "HIT THA CLUB",
+      "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Pac-man 2.0",
         "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "The Bones Collection",
-        "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
       "artists": [
         {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Hardcore Style",
-      "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 218250,
       "name": "Full Throttle (Official Gearbox Full Throttle Anthem)",
       "url": "https://open.spotify.com/track/5JkCr2BpMh1pdMb6R4hKLx"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "The Bones Collection",
+        "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Hardcore Style",
+      "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Runes of Retribution",
         "url": "https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5"
       },
@@ -1307,6 +1291,38 @@
       "duration_ms": 252158,
       "name": "Warriors (2022 Refix)",
       "url": "https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Downtempo EP II",
+        "url": "https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        }
+      ],
+      "duration_ms": 258079,
+      "name": "Energy 1996",
+      "url": "https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Downtempo EP II",
-        "url": "https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Energy 1996",
-      "url": "https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "The Mind",
         "url": "https://open.spotify.com/album/48aEQD8boTPPi3jylW9XGc"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 169500,
       "name": "The Mind",
       "url": "https://open.spotify.com/track/2SBih0WVTPSjkvcya5Uwan"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 302739,
       "name": "Kingdom - Sefa Remix",
       "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "The Purge Remix EP",
-        "url": "https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Element",
-          "url": "https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU"
-        }
-      ],
-      "duration_ms": 228983,
-      "name": "Beyond Imagination - Element Remix",
-      "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Halleluya - The F*cked Up Remixes",
         "url": "https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "The Purge Remix EP",
+        "url": "https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU"
+        }
+      ],
+      "duration_ms": 228983,
+      "name": "Beyond Imagination - Element Remix",
+      "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
     },
     {
       "added_at": "2023-03-23 23:00:00",

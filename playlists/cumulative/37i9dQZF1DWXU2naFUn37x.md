@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano, con 50 Tony in cover.
 
-247 songs - 11 hr 29 min
+248 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Tuta Maphia \(feat\. Paky\)](https://open.spotify.com/track/1Pw9JvFxbenEtnGRRcDvzD) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:32 | 2023-01-12 |  |
 | [Téléphone](https://open.spotify.com/track/76YfUp0DTnERvtZokyU6jm) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Téléphone](https://open.spotify.com/album/7Ma1ztWIbhK1vX1Fu24WEt) | 3:32 | 2022-07-26 | 2023-02-24 |
 | [Una Chance](https://open.spotify.com/track/5brevnJdMxziQov6zyaQ1f) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Dbackinyahead](https://open.spotify.com/artist/2aAamzcgx2XyPGJevTZRzz) | [Una Chance](https://open.spotify.com/album/1Wv5KsADpXa3sXUlff0tzy) | 2:53 | 2022-05-19 | 2022-05-27 |
-| [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 | 2023-03-09 |  |
+| [Viral](https://open.spotify.com/track/3Nww47FJ3MiIdpHCMarCBU) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/5OkP2IKTap8fIUptFcFbNN) | 2:27 | 2023-03-27 |  |
+| [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 | 2023-03-09 | 2023-03-29 |
 | [Vita](https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk) | [Iltunsi](https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe), [PrinceDrago](https://open.spotify.com/artist/2mfn0ywC0PsPmdMsx9Q7cu) | [Vita](https://open.spotify.com/album/0SVrYSdrhwIblseZvJXtqS) | 2:51 | 2022-09-08 | 2022-10-14 |
 | [VITA PUTTANA](https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [VITA PUTTANA](https://open.spotify.com/album/0bfend4tdsLrwhdPMyGorA) | 3:31 | 2022-06-23 | 2022-07-22 |
 | [Vérité](https://open.spotify.com/track/0z3NbX7fjSqEOP1fHc3khu) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Vérité](https://open.spotify.com/album/3G6ekX43dDTjzjPbO50N5m) | 2:25 | 2022-10-27 | 2022-12-16 |

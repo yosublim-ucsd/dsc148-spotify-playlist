@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,705 likes - 205 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,119 likes - 205 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 183 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 |
 | 184 | [Desert Mustang](https://open.spotify.com/track/3DBNG6S3TzIqzuBul1n9jd) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Pomegranate Beaches](https://open.spotify.com/album/5GFcwOXqDCLv73W91FVogB) | 2:24 |
 | 185 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 |
-| 186 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 |
+| 186 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 |
 | 187 | [meeting the dawn](https://open.spotify.com/track/0bnRhmmGCWZAqwGHvjL5TA) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT) | [Meeting the Dawn](https://open.spotify.com/album/6mc6HieAYfKA1ybnAnqGog) | 1:44 |
 | 188 | [A New Life](https://open.spotify.com/track/11MUQKaRB8LwM5kB5SPGjT) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/7K7sAzmHrPeHNdeklNTCA2) | 2:54 |
 | 189 | [Faith Basket](https://open.spotify.com/track/7bjJRSF3xts6D99aJ5DN1X) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Faith Basket](https://open.spotify.com/album/2kSlxWw2YAZqwp69iSHy9s) | 1:15 |

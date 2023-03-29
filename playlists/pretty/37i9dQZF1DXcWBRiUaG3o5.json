@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1327966,
+  "num_followers": 1327926,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDg0YTEzMjZhNjVkNDA3MTM1ZDE5YzlkOTJjMGVlOThl",
+  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMGQ4ZjNlZDAxYTIzMmZjOTk0Y2I4M2MyNmQxNjVlY2E5",
   "tracks": [
     {
       "added_at": "2022-04-15 16:56:49",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Build A Problem",
-        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
+        "name": "Build A Problem",
+        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 319213,
-      "name": "Rest (Acoustic)",
-      "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -875,6 +859,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 319213,
+      "name": "Rest (Acoustic)",
+      "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Wild Turkey",
-        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU"
       },
@@ -1187,6 +1171,38 @@
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Fickle Heart",
+        "url": "https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 201116,
+      "name": "Fickle Heart",
+      "url": "https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Fickle Heart",
-        "url": "https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z"
+        "name": "the death of you & i - EP",
+        "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
       },
       "artists": [
         {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
         }
       ],
-      "duration_ms": 201116,
-      "name": "Fickle Heart",
-      "url": "https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD"
+      "duration_ms": 224812,
+      "name": "love (ain\u0092t always so good)",
+      "url": "https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1251,22 +1267,6 @@
       "duration_ms": 207441,
       "name": "Cormorant Bird",
       "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "the death of you & i - EP",
-        "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "love (ain\u0092t always so good)",
-      "url": "https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 317266,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "All the Things That I Did and All the Things That I Didn't Do",
         "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 199840,
       "name": "A Sea of Roses",
       "url": "https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 317266,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Sub Rosa",
-        "url": "https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu"
-      },
-      "artists": [
-        {
-          "name": "Arum Rae",
-          "url": "https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9"
-        }
-      ],
-      "duration_ms": 244570,
-      "name": "Should I",
-      "url": "https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "All We Grow",
         "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 310733,
       "name": "In the Stream",
       "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Sub Rosa",
+        "url": "https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu"
+      },
+      "artists": [
+        {
+          "name": "Arum Rae",
+          "url": "https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9"
+        }
+      ],
+      "duration_ms": 244570,
+      "name": "Should I",
+      "url": "https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s"
     }
   ],
   "unique_name": "Evening Acoustic",

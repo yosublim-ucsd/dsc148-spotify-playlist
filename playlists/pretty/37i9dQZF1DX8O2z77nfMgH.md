@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Maluma y Anuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,793 likes - 67 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,877 likes - 67 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

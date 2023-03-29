@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Keith Ape, PEEJAY\)\)
 
-850 songs - 1 day 23 hr 15 min
+852 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [INSTOP ! \(Feat\. Touch the Sky\)](https://open.spotify.com/track/4746fCzYtpdSropBwpvtdM) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk) | [Hwang SeHyeon](https://open.spotify.com/album/7rFn9IQ2DfQaL7jHDoZJ0l) | 3:44 | 2021-12-21 | 2022-07-05 |
 | [ISLAND BOYS \(Feat\. sokodomo, pH\-1\)](https://open.spotify.com/track/4oI2C9d4zYW3nVkKj19btE) | [Lil Bemo](https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:17 | 2021-12-21 | 2022-06-10 |
 | [It Was Love](https://open.spotify.com/track/6zePxnugk8oUcp398yUiGl) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [9Cut](https://open.spotify.com/album/0AOmBu8KgdVqxgMNKatbWF) | 3:19 | 2021-12-18 | 2022-07-04 |
+| [It's a SUPRA](https://open.spotify.com/track/08CFqtctiLaIrsTHNomj6F) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [It's a SUPRA](https://open.spotify.com/album/7yXGKq7i04xALo5RGzulUm) | 2:55 | 2023-03-28 |  |
 | [It's Your Turn \(Feat\. Futuristic Swaver\)](https://open.spotify.com/track/37gsND37Afaqykeo0forwU) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Futuristic Swaver](https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF) | [It's Your Turn \(Feat\. Futuristic Swaver\)](https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt) | 3:13 | 2023-03-27 |  |
 | [I’m having a hard time \(Prod\. wtfjusty\)](https://open.spotify.com/track/4QccGqeEQizCcmgTBpvzY7) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [I'm having a hard time \(Prod\. wtfjusty\)](https://open.spotify.com/album/1C4RYkUXDfQwXaiIuk3ZTl) | 2:34 | 2022-09-06 | 2022-09-23 |
 | [I’m tired \(Song By Boi Brown\)](https://open.spotify.com/track/1NtuEWJyH6Zvkh23rnI6E7) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF) | [PALETTE C\#506.](https://open.spotify.com/album/3yShU5WOP1i5khD3avt8Vp) | 2:35 | 2022-03-03 | 2022-06-15 |
@@ -533,6 +534,7 @@
 | [Native \(Feat\. Swervy\)](https://open.spotify.com/track/7ad09YMbdFaOx29cxesVIy) | [Conda](https://open.spotify.com/artist/5JmsoI6wkkNkgJDsMheitH), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Where is my Invitation?](https://open.spotify.com/album/6jzwFZGiLUsT6rSI9tZLtW) | 3:04 | 2023-01-10 | 2023-03-28 |
 | [Neo Christian Flow](https://open.spotify.com/track/40jFrZzb4HYizXdqaeHMkd) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B) | [Neo Christian Flow](https://open.spotify.com/album/62aFMIBQc8EThzh0pmpVlK) | 3:07 | 2021-12-21 | 2022-06-10 |
 | [NEON](https://open.spotify.com/track/72KXAGlKfL9Y3FJPcsMrzZ) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 3:20 | 2021-12-21 | 2022-06-27 |
+| [NETFLIX](https://open.spotify.com/track/73La7PR5409uuL2uzQKzDi) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [THE CORE TAPE, Vol\. 2](https://open.spotify.com/album/34SnQUswM6PdJU7nuEAGoX) | 1:58 | 2023-03-28 |  |
 | [Never Ending Story \(Feat\. Dynamicduo\)](https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 3:54 | 2022-06-09 | 2022-07-15 |
 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 | 2022-09-06 |  |
 | [New Vision](https://open.spotify.com/track/5L6IX56bdTT3CPueP72VEx) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [New Vision](https://open.spotify.com/album/1Cw3lJgFHhIfNU5WiPlEsZ) | 3:16 | 2021-12-18 | 2022-06-19 |

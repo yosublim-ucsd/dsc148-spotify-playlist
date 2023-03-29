@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,652 likes - 186 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,671 likes - 186 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 44 | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/track/0fwtBKg98AemijgyaN3xgI) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 1:16 |
 | 45 | [Ring a Ring A Roses](https://open.spotify.com/track/13OVhfsEwEWZNE9pm5OhiN) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk) | 2:12 |
 | 46 | [Hush Little Baby](https://open.spotify.com/track/09XpPlP8V2SMZ81Qyos9jL) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Kids Songs & Medlees Vol 2](https://open.spotify.com/album/74OOs3qPkQtCIRR74kmRlh) | 2:14 |
-| 47 | [Home on the Range](https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 2:56 |
+| 47 | [Home on the Range \- \(Sing Along\)](https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 2:56 |
 | 48 | [Alice the Camel](https://open.spotify.com/track/5T3lK7MInJBhzfxbP8ut4W) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon Vol.2](https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk) | 1:32 |
 | 49 | [Short'nin' Bread](https://open.spotify.com/track/2gremjoXqhkV60TNuygGZR) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:51 |
 | 50 | [Peter Piper](https://open.spotify.com/track/0HVwfRUrlbcJkBYaPYH9RC) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 12 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/2LL6QY7F4jskUzDcc4rmo9) | 1:44 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 59 | [Down by the Bay](https://open.spotify.com/track/6P8SJgXmEMqGb1uFq3Lx93) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Down by the Bay](https://open.spotify.com/album/5OWKpeUVv6izggBfXk92MC) | 1:56 |
 | 60 | [It's Raining It's Pouring](https://open.spotify.com/track/05E2YbFAJE1DnHSuFfTk5V) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn About the Weather with Songs & Nursery Rhymes from LittleBabyBum](https://open.spotify.com/album/22KC6LLHas9oWKebH23kRZ) | 1:04 |
 | 61 | [Baby Bumble Bee](https://open.spotify.com/track/5tNaIyVjb8ppaJGJUFkl0N) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Songs Sing Along \- 50 Toddler Nursery Rhymes](https://open.spotify.com/album/7Cu0Lwree7vTmDKqGjmbLp) | 0:59 |
-| 62 | [This Little Light of Mine](https://open.spotify.com/track/3awnhwdpf4clxETaYZZCjN) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 3:11 |
+| 62 | [This Little Light of Mine \- \(Sing Along\)](https://open.spotify.com/track/3awnhwdpf4clxETaYZZCjN) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 3:11 |
 | 63 | [Shoo Fly](https://open.spotify.com/track/41fWg0m9Z3GVxbrmQR17yJ) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:19 |
 | 64 | [Row Row Row Your Boat](https://open.spotify.com/track/0zkyKpG5ZaKUfxD8mJVUot) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum](https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj) | 1:12 |
 | 65 | [The More We Get Together](https://open.spotify.com/track/1rm119CQsq9Rwve29NCrJB) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:35 |

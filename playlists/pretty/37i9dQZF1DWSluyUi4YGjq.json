@@ -1,28 +1,28 @@
 {
-  "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 50007,
+  "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
+  "num_followers": 50681,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzY1MCwwMDAwMDAwMDc3NjJjNDllMGE5ZjJmMTQ4NTRmZjhhZDE1MDA3NzM2",
+  "snapshot_id": "MTY4MDAyNDI5OSwwMDAwMDAwMDM2OWUxYzU3NDUzN2ExMTgwNjIwNjI3MjhkZjExNGU3",
   "tracks": [
     {
-      "added_at": "2023-01-12 03:08:14",
+      "added_at": "2023-03-13 22:23:31",
       "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl"
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
       },
       "artists": [
         {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
         }
       ],
-      "duration_ms": 267491,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
+      "duration_ms": 264757,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk"
     },
     {
       "added_at": "2023-03-24 16:00:50",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo"
     },
     {
+      "added_at": "2023-01-12 03:08:14",
+      "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "duration_ms": 267491,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "LSD and the Search for God",
@@ -103,22 +119,6 @@
       "duration_ms": 304240,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
-    },
-    {
-      "added_at": "2023-03-13 22:23:31",
-      "album": {
-        "name": "What Kind of Blue Are You?",
-        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
-      },
-      "artists": [
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        }
-      ],
-      "duration_ms": 264757,
-      "name": "sunday",
-      "url": "https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk"
     },
     {
       "added_at": "2023-03-17 17:35:12",
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6"
     },
     {
-      "added_at": "2023-01-12 03:12:54",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "pushing daisies",
-        "url": "https://open.spotify.com/album/07naAGnFibTManFY20vcUL"
+        "name": "Always Then",
+        "url": "https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC"
       },
       "artists": [
         {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+          "name": "The KVB",
+          "url": "https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40"
         }
       ],
-      "duration_ms": 136221,
-      "name": "skipping tiles",
-      "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
+      "duration_ms": 251376,
+      "name": "Always Then",
+      "url": "https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW"
     },
     {
       "added_at": "2023-02-21 01:31:43",
@@ -191,18 +191,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Always Then",
-        "url": "https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC"
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
       },
       "artists": [
         {
-          "name": "The KVB",
-          "url": "https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 251376,
-      "name": "Always Then",
-      "url": "https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW"
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/2tHAj5Py3sXE8pJyh5ouPz"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-01-12 03:12:54",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+        "name": "pushing daisies",
+        "url": "https://open.spotify.com/album/07naAGnFibTManFY20vcUL"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
+      "duration_ms": 136221,
+      "name": "skipping tiles",
+      "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -317,20 +317,20 @@
       "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Fantasy - Chapter 1",
-        "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -365,20 +365,20 @@
       "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+        "name": "Fantasy - Chapter 1",
+        "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Blouse",
-        "url": "https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk"
+        "name": "Spiritual Instinct",
+        "url": "https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh"
       },
       "artists": [
         {
-          "name": "Blouse",
-          "url": "https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL"
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
         }
       ],
-      "duration_ms": 208237,
-      "name": "Into Black",
-      "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
+      "duration_ms": 300503,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -495,18 +495,34 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Spiritual Instinct",
-        "url": "https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
       "artists": [
         {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 300503,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
+      "duration_ms": 188050,
+      "name": "Out of Mind",
+      "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Blouse",
+        "url": "https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk"
+      },
+      "artists": [
+        {
+          "name": "Blouse",
+          "url": "https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL"
+        }
+      ],
+      "duration_ms": 208237,
+      "name": "Into Black",
+      "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -523,22 +539,6 @@
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 188050,
-      "name": "Out of Mind",
-      "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "nightlife",
-        "url": "https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7"
-      },
-      "artists": [
-        {
-          "name": "yuragi",
-          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "night is young",
-      "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Aurora",
@@ -747,6 +731,22 @@
       "duration_ms": 242755,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "nightlife",
+        "url": "https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7"
+      },
+      "artists": [
+        {
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "night is young",
+      "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+    },
+    {
       "added_at": "2022-01-07 19:52:45",
       "album": {
         "name": "Strawberry",
@@ -893,22 +909,6 @@
       "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
-      },
-      "artists": [
-        {
-          "name": "Estrada",
-          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
-        }
-      ],
-      "duration_ms": 247045,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Is the Is Are",
@@ -923,6 +923,22 @@
       "duration_ms": 235565,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
+      },
+      "artists": [
+        {
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+        }
+      ],
+      "duration_ms": 247045,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -943,22 +959,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 270281,
       "name": "The Dead Are Dumb",
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Twin Plagues",
-        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Handsome Man",
-      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1007,18 +991,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
       },
       "artists": [
         {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+      "duration_ms": 148453,
+      "name": "Handsome Man",
+      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Despondent Transponder",
         "url": "https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 270094,
       "name": "Go and Come Back",
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Flood Into",
-        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 181593,
-      "name": "Flood Into",
-      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "added_at": "2022-08-03 04:20:04",
@@ -1083,6 +1067,22 @@
       "duration_ms": 241548,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "added_at": "2022-12-15 18:01:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mulheres inspiradoras para serem ouvidas no volume máximo\. Co\-curada por Pitty para o Dia Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,230 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,286 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 42 | [Acaju](https://open.spotify.com/track/5SCReoV8dNKom85Q3hAemm) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Sangria Desatada](https://open.spotify.com/album/3tynaefUfaQJF5lI9WEhPC) | 2:42 |
 | 43 | [Lascívia](https://open.spotify.com/track/5x1042l2BVF1MESdXalow8) | [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [Será Só Aos Ares](https://open.spotify.com/album/4rDkMr3eOwRcfeXDTojMTq) | 2:29 |
 | 44 | [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 |
-| 45 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
-| 46 | [Dois Dedim](https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 5:14 |
+| 45 | [Dois Dedim](https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 5:14 |
+| 46 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
 | 47 | [ladoAlado](https://open.spotify.com/track/6dsq7QmWHd0cMde7WqEoUN) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [ÀdeusdarÁ](https://open.spotify.com/album/1DTQyqb5YW6aqf1q8ql6M6) | 3:16 |
 | 48 | [Salcity](https://open.spotify.com/track/2pBwl6sv6nSQ9mg2HJCoK5) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Sagrada e Profana](https://open.spotify.com/album/6L6ZkI7Rd5iiHCvTvDkRTv) | 2:07 |
 | 49 | [Sobre Você](https://open.spotify.com/track/0cmZ24itg3Hh50jJblbz4m) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS) | [A Insanidade](https://open.spotify.com/album/3wzswapC3piBrbqmlMgL6t) | 2:54 |
 | 50 | [Nunca foi descaso \(feat\. Gab Ferreira\)](https://open.spotify.com/track/4lHDZCW0Ve2DItNdEDxKGw) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de carta](https://open.spotify.com/album/3cT88RfZ2nA2hDrbTm3M9W) | 3:40 |
 
-Snapshot ID: `MTY3ODEzNDQ2MSwwMDAwMDAwMGE3MGU2ZmUyOTgzZjI0MDRmNTljYzBlYmM4NjRkMDJi`
+Snapshot ID: `MTY3ODEzNDQ2MSwwMDAwMDAwMGM3OTNmZjc5MWJiMGNmODY2MGRkOGU2MjA0YmUxYjdk`

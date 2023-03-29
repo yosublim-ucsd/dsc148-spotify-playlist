@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 203560,
       "name": "Crusader",
       "url": "https://open.spotify.com/track/7N0MH5Zszb3tp0o6Xt8mWp"
@@ -3802,6 +3802,24 @@
       "duration_ms": 185510,
       "name": "PRETTY (feat. Nafla, Bryn)",
       "url": "https://open.spotify.com/track/3LGlLoEK1ZPGRcS6gHYhWm"
+    },
+    {
+      "album": {
+        "name": "PSYCHO LOVE",
+        "url": "https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "PSYCHO LOVE",
+      "url": "https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9"
     },
     {
       "album": {

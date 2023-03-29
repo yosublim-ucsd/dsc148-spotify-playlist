@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JXwXXn5dXj.md) - [plain]
 
 > Baltimore Club queen <a href="spotify:artist:1T6Em6UJ7pSdgXw5V72YHr">TT The Artist</a> unleashes banger after banger of club culture energy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 600 likes - 28 songs - 58 min 39 sec
+[Spotify](https://open.spotify.com/user/spotify) - 607 likes - 28 songs - 58 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-105 songs - 5 hr 22 min
+106 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,9 +96,10 @@
 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 | 2022-12-05 |  |
 | [Stereo Love \- Timmy Trumpet Remix](https://open.spotify.com/track/5dBvUkplYBBBb3sJ2VORQy) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Stereo Love \(Timmy Trumpet Remix\)](https://open.spotify.com/album/55h8R7IM7uL5IvHYoWDpKo) | 3:14 | 2022-12-05 |  |
 | [Summer Of '69 \- Happy Høken Remix](https://open.spotify.com/track/16lPRTSin20Ifp9oXYzKFu) | [Beatcrooks](https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b) | [Speel Niet Met M'n Voeten](https://open.spotify.com/album/23ZZXD0Pf40J7I4fZW1pQY) | 2:57 | 2022-12-05 | 2023-02-10 |
-| [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 | 2022-12-05 |  |
+| [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 | 2022-12-05 | 2023-03-29 |
 | [Sweater Weather](https://open.spotify.com/track/77y3caTFtC3n4tGgyPUF87) | [Jomarijan](https://open.spotify.com/artist/5iHZxQtcP3E5hjuzPeocgW) | [Sweater Weather](https://open.spotify.com/album/49oEQTuxnqqiOw66AfI5zc) | 3:22 | 2023-01-26 |  |
 | [Sweet Caroline](https://open.spotify.com/track/4x2onqROU58WR516xPqqWO) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:30 | 2022-12-06 | 2022-12-29 |
+| [Sweet Dreams](https://open.spotify.com/track/0pZpFpP9nInJjyfVAQTMsf) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Sweet Dreams](https://open.spotify.com/album/1VNd4mu5ggXFsI4bAwaPIN) | 3:21 | 2023-03-23 |  |
 | [The Game \- Dr\. Rude & Lunaticz Remix](https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj) | [DJ Galaga](https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Lunaticz](https://open.spotify.com/artist/21P8yUQqDBC15Yj8RizZv7) | [The Game \(Dr\. Rude & Lunaticz Remix\)](https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG) | 3:20 | 2022-12-15 | 2023-02-10 |
 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 | 2022-12-05 | 2023-02-10 |
 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 | 2023-02-09 |  |

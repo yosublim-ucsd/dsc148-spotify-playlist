@@ -1,12 +1,12 @@
 {
   "description": "Nuevo rock alternativo nacional. \n\ud83d\udcf7 Nenagenix",
-  "num_followers": 3430,
+  "num_followers": 3449,
   "original_name": "el under",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwMzAzMSwwMDAwMDAwMDZmZDgzMTU2NDNjZTkxODM5NDE1Y2ZjZjFjOTA1ZDBk",
+  "snapshot_id": "MTY3OTYwMzAzMSwwMDAwMDAwMDQ0MmFiMjNkMzBlOWM2NGUxODRmOGMyOWJjMjZhOGZm",
   "tracks": [
     {
       "added_at": "2023-03-23 20:19:12",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-03-23 20:19:12",
       "album": {
-        "name": "M\u00e1gica Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
-      },
-      "artists": [
-        {
-          "name": "La Piba Berreta",
-          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 190393,
-      "name": "M\u00e1gica Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
-    },
-    {
-      "added_at": "2023-03-23 20:19:12",
-      "album": {
         "name": "El Primer Color",
         "url": "https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 325299,
       "name": "El Primer Color",
       "url": "https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD"
+    },
+    {
+      "added_at": "2023-03-23 20:19:12",
+      "album": {
+        "name": "M\u00e1gica Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
+      },
+      "artists": [
+        {
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "M\u00e1gica Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
     },
     {
       "added_at": "2023-03-23 20:19:12",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-03-23 20:19:12",
       "album": {
+        "name": "Todo el Mal",
+        "url": "https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "duration_ms": 194847,
+      "name": "Todo el Mal",
+      "url": "https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h"
+    },
+    {
+      "added_at": "2023-03-23 20:19:12",
+      "album": {
         "name": "Oro y Barro",
         "url": "https://open.spotify.com/album/15txAv95srdrDAPnK1Clcc"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 173117,
       "name": "Catedral",
       "url": "https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N"
-    },
-    {
-      "added_at": "2023-03-23 20:19:12",
-      "album": {
-        "name": "Todo el Mal",
-        "url": "https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY"
-      },
-      "artists": [
-        {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
-        }
-      ],
-      "duration_ms": 194847,
-      "name": "Todo el Mal",
-      "url": "https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h"
     },
     {
       "added_at": "2023-03-23 20:19:12",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-03-23 20:19:12",
       "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9"
+      },
+      "artists": [
+        {
+          "name": "Playa Nudista",
+          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
+    },
+    {
+      "added_at": "2023-03-23 20:19:12",
+      "album": {
         "name": "CRO9UIS",
         "url": "https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 205000,
       "name": "Amarnos",
       "url": "https://open.spotify.com/track/4GlJZmAfBesKa5xrY0I1rg"
-    },
-    {
-      "added_at": "2023-03-23 20:19:12",
-      "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9"
-      },
-      "artists": [
-        {
-          "name": "Playa Nudista",
-          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
     },
     {
       "added_at": "2023-03-23 20:19:12",

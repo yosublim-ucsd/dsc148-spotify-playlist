@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-221 songs - 14 hr 31 min
+222 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Actually](https://open.spotify.com/track/7Kel2ZwWtyHSPmE1EGMNH2) | [Dear Cloud](https://open.spotify.com/artist/0L4i6fMD8blByZNL0kLhiA) | [Actually](https://open.spotify.com/album/16UI3a9FlhfRhMz25lwQ6U) | 4:18 | 2022-06-09 | 2022-07-20 |
 | [After we broke up](https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Bravo, My Life OST Part.20](https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q) | 3:41 | 2022-07-08 | 2022-09-28 |
 | [After You’ve Gone](https://open.spotify.com/track/6MbO4CpHNgsdV4dn2cGKWp) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:06 | 2022-05-11 | 2022-06-10 |
-| [Again, goodbye](https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Again, goodbye \(YAOKI Project part.2\)](https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ) | 4:21 | 2023-02-25 |  |
+| [Again, goodbye](https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Again, goodbye \(YAOKI Project part.2\)](https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ) | 4:21 | 2023-02-25 | 2023-03-29 |
 | [alarm](https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [tinge](https://open.spotify.com/album/6PzWM3WP8bBlBlY1a90vjT) | 6:12 | 2022-07-08 | 2022-07-10 |
 | [All Those Diaries Just Become Letters](https://open.spotify.com/track/3cv2uvppoO6Y16nCK7yUCD) | [Woogotsa](https://open.spotify.com/artist/4L4Q8o66UwJNBp1KQ61PSX) | [All Those Diaries Just Become Letters](https://open.spotify.com/album/0hnlm6tTqE7YrNpn1NJlLa) | 3:30 | 2022-05-11 | 2022-05-31 |
 | [Answer \(stripped\)](https://open.spotify.com/track/21QBCAv8n2r3SOp8tdE3j5) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Answer \(stripped\)](https://open.spotify.com/album/0SGcO8HBEvjreo6qugr0DI) | 3:02 | 2022-06-20 | 2022-06-23 |
@@ -198,6 +198,7 @@
 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 | 2022-07-08 |  |
 | [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2022-05-11 | 2023-01-07 |
 | [The Wave](https://open.spotify.com/track/3hIuJmjKWDwfYdMxVwNaFQ) | [Woohwa](https://open.spotify.com/artist/61x5EzMf1pIdgTZ2trJ0de) | [WORSE : Amstelpark vol.4](https://open.spotify.com/album/0DlQRuV72empclT5uRjXMQ) | 3:30 | 2022-05-11 | 2022-06-03 |
+| [The Work Of Erasing You](https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The Work Of Erasing You](https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI) | 3:37 | 2023-03-29 |  |
 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 | 2022-05-11 |  |
 | [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 | 2022-05-11 | 2022-07-29 |
 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 | 2022-05-11 | 2022-07-28 |

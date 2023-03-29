@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > me sitting in an office making this playlist for you hoping yall will like it
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,384 likes - 654 songs - 1 day 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,575 likes - 654 songs - 1 day 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 261146,
       "name": "Again, goodbye",
       "url": "https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0"
@@ -3534,6 +3534,24 @@
       "duration_ms": 210000,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/3hIuJmjKWDwfYdMxVwNaFQ"
+    },
+    {
+      "album": {
+        "name": "The Work Of Erasing You",
+        "url": "https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "The Work Of Erasing You",
+      "url": "https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL"
     },
     {
       "album": {

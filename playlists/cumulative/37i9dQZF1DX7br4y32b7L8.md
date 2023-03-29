@@ -2,7 +2,7 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> Viraal gaan is ook gaan! \#Hollands "Ik weet nu dat er een Engelbewaarder bestaat"\. Cover: Marco Schuitmaker
+> Viraal gaan is ook gaan! Cover: Manu Chao
 
 92 songs - 4 hr 36 min
 

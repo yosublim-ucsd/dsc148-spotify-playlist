@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Pat Lagoon",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Faye Meana",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 191117,
       "name": "Adelaide",
       "url": "https://open.spotify.com/track/2uuFnP6vm64FVbbclxHDJ4"
@@ -6601,6 +6601,28 @@
     },
     {
       "album": {
+        "name": "Hot Under Lights",
+        "url": "https://open.spotify.com/album/212iATyPEXOSJtB3zUz9Jp"
+      },
+      "artists": [
+        {
+          "name": "Ana Barrena",
+          "url": "https://open.spotify.com/artist/0K4wNL2IHsOGdbKcVtDFSm"
+        },
+        {
+          "name": "Fdluxx",
+          "url": "https://open.spotify.com/artist/4J6llszQj5aasQouHnuC1k"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179519,
+      "name": "Hot Under Lights",
+      "url": "https://open.spotify.com/track/0o1kpkXljXCnLjQMtkU8k6"
+    },
+    {
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4"
       },
@@ -7976,7 +7998,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 234133,
       "name": "Kimbo",
       "url": "https://open.spotify.com/track/5LOYEyu49C5PSyzVKSiqTM"
@@ -9162,10 +9184,28 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 221250,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/1FTchUMLQvhXjbUjcDjHt5"
+    },
+    {
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/0rzFoqRO4oNc2LGqpuT98G"
+      },
+      "artists": [
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5P9QXMITwveC1lkY9Jdtrk"
     },
     {
       "album": {
@@ -9494,6 +9534,24 @@
       "duration_ms": 172120,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3"
+    },
+    {
+      "album": {
+        "name": "Mother's Daughter",
+        "url": "https://open.spotify.com/album/4pAOiBV0DyefPYR1WKzGZQ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Griffiths",
+          "url": "https://open.spotify.com/artist/1ScQHshsghfh1H0r7VXEEe"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210295,
+      "name": "Mother's Daughter",
+      "url": "https://open.spotify.com/track/5X0aTXZgXfhh33gfmBylIX"
     },
     {
       "album": {
@@ -9934,6 +9992,24 @@
       "duration_ms": 224322,
       "name": "Next Spring",
       "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
+    },
+    {
+      "album": {
+        "name": "NGL",
+        "url": "https://open.spotify.com/album/2o1dbJmX7itnOOHtaSSy12"
+      },
+      "artists": [
+        {
+          "name": "CROOKS INC.",
+          "url": "https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219036,
+      "name": "NGL",
+      "url": "https://open.spotify.com/track/5fK81WhLsFa3InRLBDtHrK"
     },
     {
       "album": {
@@ -14210,7 +14286,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 221189,
       "name": "This House",
       "url": "https://open.spotify.com/track/65xFN1n2mZaOfDpMFJKC1q"
@@ -14924,6 +15000,24 @@
       "duration_ms": 200586,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/4sjqR16V0sXJ26WlrC2Llk"
+    },
+    {
+      "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/6J1aRRFw6FyBV071gYsvqk"
+      },
+      "artists": [
+        {
+          "name": "Essii",
+          "url": "https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146124,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/3n4qXxdaubi3pQaMYRWK9S"
     },
     {
       "album": {
@@ -15642,7 +15736,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 203301,
       "name": "Yellow Line",
       "url": "https://open.spotify.com/track/3kzzVvFsf6hFRhKo8rdsxD"

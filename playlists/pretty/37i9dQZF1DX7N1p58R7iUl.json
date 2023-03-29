@@ -1,6 +1,6 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3dE92yGWcrboP1kC5SWyqu\">Todd Terry</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 37495,
+  "num_followers": 37550,
   "original_name": "Todd Terry's track IDs",
   "owner": {
     "name": "Spotify",
@@ -74,6 +74,10 @@
         {
           "name": "Janika Tenn",
           "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
         }
       ],
       "duration_ms": 189268,

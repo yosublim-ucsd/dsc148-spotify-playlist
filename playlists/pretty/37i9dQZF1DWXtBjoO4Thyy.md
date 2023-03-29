@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Yaffle continues The Classical Takeover with his favorite selection of classical music, from the classical era to the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,171 likes - 45 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,189 likes - 45 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

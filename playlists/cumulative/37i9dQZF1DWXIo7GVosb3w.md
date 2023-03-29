@@ -4,7 +4,7 @@
 
 > ジャンルレスな作品性と、美麗なファルセット・ヴォイスが魅力のSSW、ビッケブランカ のオールタイム・ベスト。
 
-72 songs - 4 hr 31 min
+73 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [秋の香り](https://open.spotify.com/track/1OKZJY8K9mrslXTHWedlbI) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [ツベルクリン](https://open.spotify.com/album/48BNJ0CelfB9yhIDScDhnb) | 4:23 | 2022-08-21 |  |
 | [蒼天のヴァンパイア](https://open.spotify.com/track/6nVa28hoKADNE9EHGAX2S0) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 3:17 | 2022-08-21 |  |
 | [追うBOY](https://open.spotify.com/track/2T7EGfl1fr22D818PMvgzq) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [ツベルクリン](https://open.spotify.com/album/48BNJ0CelfB9yhIDScDhnb) | 3:43 | 2022-08-21 |  |
+| [革命](https://open.spotify.com/track/56NF8AZqeTtSe6gRMdxGNf) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [革命](https://open.spotify.com/album/0S75gwZK3LNeFQB8xqjllT) | 4:52 | 2023-03-28 |  |
 | [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 | 2022-08-21 |  |
 
 \*This playlist was first scraped on 2022-12-24. Prior content cannot be recovered.

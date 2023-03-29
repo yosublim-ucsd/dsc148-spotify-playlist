@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 341931,
+  "num_followers": 342207,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMGU4YjIzOGY5ZTVlNGVlZjEwNzczOTM5ZWQ1OWFmZTg1",
+  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMDBmOWI0OWQ3OTU0YTcyZGNhYjJlYTQ1MzAyMTkwNzA2",
   "tracks": [
     {
       "added_at": "2023-03-23 10:18:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "L\u00e9opoldine",
-        "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Parentau",
-          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "L\u00e9opoldine",
-      "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Passages",
-        "url": "https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB"
+        "name": "L\u00e9opoldine",
+        "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
       },
       "artists": [
         {
-          "name": "Noomi Meerbach",
-          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
+          "name": "Gaspar Parentau",
+          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
         }
       ],
-      "duration_ms": 159439,
-      "name": "Days Passing By",
-      "url": "https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw"
+      "duration_ms": 165293,
+      "name": "L\u00e9opoldine",
+      "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -523,6 +507,22 @@
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Passages",
+        "url": "https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB"
+      },
+      "artists": [
+        {
+          "name": "Noomi Meerbach",
+          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
+        }
+      ],
+      "duration_ms": 159439,
+      "name": "Days Passing By",
+      "url": "https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Je t'ai vu",
-        "url": "https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X"
-      },
-      "artists": [
-        {
-          "name": "Projet Calmant",
-          "url": "https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ"
-        }
-      ],
-      "duration_ms": 180030,
-      "name": "Je t'ai vu",
-      "url": "https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "A subtle joy",
         "url": "https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Alivio",
-        "url": "https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg"
+        "name": "Je t'ai vu",
+        "url": "https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X"
       },
       "artists": [
         {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
+          "name": "Projet Calmant",
+          "url": "https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Alivio",
-      "url": "https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C"
+      "duration_ms": 180030,
+      "name": "Je t'ai vu",
+      "url": "https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1035,6 +1019,22 @@
       "duration_ms": 156677,
       "name": "Apricity",
       "url": "https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Alivio",
+        "url": "https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg"
+      },
+      "artists": [
+        {
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Alivio",
+      "url": "https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1083,6 +1083,22 @@
       "duration_ms": 143000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
-      },
-      "artists": [
-        {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Windspiel",
         "url": "https://open.spotify.com/album/4eeDKOvHgtYecnij6AtgI7"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
-      },
-      "artists": [
-        {
-          "name": "Michiel Borstlap",
-          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Chiral",
         "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 147500,
       "name": "Chiral",
       "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "duration_ms": 140799,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Portraits",
-        "url": "https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
       },
       "artists": [
         {
-          "name": "M\u00f3ret Labino",
-          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+          "name": "Michiel Borstlap",
+          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
         }
       ],
-      "duration_ms": 140799,
-      "name": "Portraits",
-      "url": "https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI"
+      "duration_ms": 152068,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
+        "name": "Wolken Traum",
+        "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "duration_ms": 152690,
+      "name": "Sternennacht",
+      "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
         "name": "Your Story",
         "url": "https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 132318,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Wolken Traum",
-        "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Schulmann",
-          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
-        }
-      ],
-      "duration_ms": 152690,
-      "name": "Sternennacht",
-      "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Ikigai",
-        "url": "https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi"
-      },
-      "artists": [
-        {
-          "name": "Violet Mar",
-          "url": "https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh"
-        }
-      ],
-      "duration_ms": 180020,
-      "name": "Ikigai",
-      "url": "https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/50svMr0LINrszUhzYD4vmK"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 108800,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6JQYaWXutl3Dqul7H5Zif0"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Ikigai",
+        "url": "https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi"
+      },
+      "artists": [
+        {
+          "name": "Violet Mar",
+          "url": "https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh"
+        }
+      ],
+      "duration_ms": 180020,
+      "name": "Ikigai",
+      "url": "https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "A Simpler Time",
-        "url": "https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4"
-      },
-      "artists": [
-        {
-          "name": "Norman D\u00fcck",
-          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
-        }
-      ],
-      "duration_ms": 147124,
-      "name": "A Simpler Time",
-      "url": "https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 151500,
       "name": "Still",
       "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "A Simpler Time",
+        "url": "https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "duration_ms": 147124,
+      "name": "A Simpler Time",
+      "url": "https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ"
     },
     {
       "added_at": "2023-03-23 10:18:42",

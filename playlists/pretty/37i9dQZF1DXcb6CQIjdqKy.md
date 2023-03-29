@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP?si=r7KYO9LAS5eyL5t7AaMm\-A">Whitney Houston</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,531,817 likes - 99 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,532,131 likes - 99 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

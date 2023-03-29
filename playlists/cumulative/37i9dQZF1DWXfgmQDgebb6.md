@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: CIFIKA\)
 
-290 songs - 16 hr 11 min
+291 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2022-08-12 |  |
 | [Cosmos](https://open.spotify.com/track/06Cd4vfrqcbCSyqTWJNSG6) | [Comytru](https://open.spotify.com/artist/7a97eiOoGb1icBAmhnpwqY) | [DIOR](https://open.spotify.com/album/4jjOq9OwpI57jy16o6ZtCk) | 3:28 | 2022-05-27 | 2022-07-21 |
 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 | 2022-05-27 | 2022-12-03 |
-| [Crusader](https://open.spotify.com/track/7N0MH5Zszb3tp0o6Xt8mWp) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Crusader](https://open.spotify.com/album/7sxUW4ouTE1tNJHMJb6KWS) | 3:23 | 2023-02-20 |  |
+| [Crusader](https://open.spotify.com/track/7N0MH5Zszb3tp0o6Xt8mWp) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Crusader](https://open.spotify.com/album/7sxUW4ouTE1tNJHMJb6KWS) | 3:23 | 2023-02-20 | 2023-03-29 |
 | [Cuando](https://open.spotify.com/track/7sfxQTxZQ6g1T98GUxnjKp) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [NOV3L](https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9) | 3:59 | 2022-05-27 | 2022-07-14 |
 | [Daisy \(Feat\. Han Yo Han\)](https://open.spotify.com/track/2ZdhVj2NAYOxY36rMjgN6b) | [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Daisy](https://open.spotify.com/album/0EjZp5PnEXF0UD1OXlwUXk) | 3:05 | 2023-01-25 |  |
 | [Damn Cold](https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Damn Cold](https://open.spotify.com/album/5NY38YKdFS1IRtrYZtjlqe) | 3:32 | 2023-02-08 |  |
@@ -194,6 +194,7 @@
 | [pit\-a\-pet](https://open.spotify.com/track/5Pf0Kp6w1G9xh7ufoKcL5m) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 4:01 | 2022-07-08 |  |
 | [Power Rangers \(feat\. Mudd the student, Tyroné Laurent\)](https://open.spotify.com/track/0re5DUvnUH3rD6DMUsn0lS) | [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [Tyroné Laurent](https://open.spotify.com/artist/19MCJUkDsTnJ8JfPqv0sG0) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 3:01 | 2022-05-27 | 2022-08-13 |
 | [PRETTY \(feat\. Nafla, Bryn\)](https://open.spotify.com/track/3LGlLoEK1ZPGRcS6gHYhWm) | [lnb](https://open.spotify.com/artist/2fHTnW5arnhwXNwW2GD4fK), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [PROJECT .1](https://open.spotify.com/album/5HlAriF53xhN5BfF05IiHZ) | 3:05 | 2022-08-19 | 2022-10-10 |
+| [PSYCHO LOVE](https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [PSYCHO LOVE](https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc) | 3:10 | 2023-03-27 |  |
 | [PURE \(feat\. Jade, Cherry Coke\)](https://open.spotify.com/track/1xDLq8ypCNn7csjG5vrBNA) | [GLOWCEAN](https://open.spotify.com/artist/49uFRuBtpme0FabjsLzvWc), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh), [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [ESSENCE](https://open.spotify.com/album/5WFTXJX4bgnt9wlJjPSI2d) | 3:56 | 2022-06-09 | 2022-07-26 |
 | [Pygmalion \(feat\. Kuhyun\)](https://open.spotify.com/track/0F9OXUOYW0uDGgEHHmXRtc) | [GILLA](https://open.spotify.com/artist/2qg65aLixfdExljOpqKJm3), [Kuhyun](https://open.spotify.com/artist/1EnOREwmNjcLm54f2Odmzo) | [Sequence](https://open.spotify.com/album/4YU2VBLrCrjaMCnSecEEWl) | 2:55 | 2022-05-27 | 2022-07-24 |
 | [rat hole](https://open.spotify.com/track/5EwVrS8cmjIdAQSRelZqHE) | [XINZWA](https://open.spotify.com/artist/2rwfN3z1guR3gqv7GNF3P3) | [rat hole](https://open.spotify.com/album/1boUY0tC9JdcTKXkq3nLit) | 4:03 | 2022-05-27 | 2022-07-05 |

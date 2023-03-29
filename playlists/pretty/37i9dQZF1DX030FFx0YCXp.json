@@ -1,12 +1,12 @@
 {
   "description": "Crowdpleasing classics for an easy, carefree day.",
-  "num_followers": 376043,
+  "num_followers": 376067,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwMDMwMiwwMDAwMDAwMGY0ODVhNmE4ZWE1ODE0ZTg2MmVlZDU3YWI1MzE1Nzk5",
+  "snapshot_id": "MTY3OTYwMDMwMiwwMDAwMDAwMDQxMGM5NDUxYTNlZTc5OTc3YzM5YTVkOWIxMmMxNmJi",
   "tracks": [
     {
       "added_at": "2023-03-23 19:38:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
-      },
-      "artists": [
-        {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
-        }
-      ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 215400,
       "name": "Kodachrome",
       "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "The Best Of Kansas",
-        "url": "https://open.spotify.com/album/3eLtE3HWyUWQbO2CYFKkwO"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/4E0lSJ6c5unoku9UIZoJSl"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Nicolette",
         "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 191773,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "The Best Of Kansas",
+        "url": "https://open.spotify.com/album/3eLtE3HWyUWQbO2CYFKkwO"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/4E0lSJ6c5unoku9UIZoJSl"
     },
     {
       "added_at": "2023-03-23 19:38:22",

@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Fred again.., Skrillex & Four Tet",
-  "num_followers": 73568,
+  "num_followers": 73659,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMGI0M2IxYWZhODM5NjJkNDI4Y2ZhZWUyZmRmYzdmZmYy",
+  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMDJjOTE0ZDVmYmNiZWYxZmM0NjM4MjI3ODg4MTUyMzVj",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Sidewindah (feat. Flirta D)",
-        "url": "https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Flirta D",
-          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
-        }
-      ],
-      "duration_ms": 213562,
-      "name": "Sidewindah (feat. Flirta D)",
-      "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Sway (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 167619,
       "name": "Sway (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Sidewindah (feat. Flirta D)",
+        "url": "https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+        }
+      ],
+      "duration_ms": 213562,
+      "name": "Sidewindah (feat. Flirta D)",
+      "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -775,18 +775,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Dreamcast",
-        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
+        "name": "(still) WON'T4GETU",
+        "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
       },
       "artists": [
         {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
         }
       ],
-      "duration_ms": 325744,
-      "name": "Dreamcast",
-      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
+      "duration_ms": 374116,
+      "name": "(still) WON'T4GETU",
+      "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -811,26 +819,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "(still) WON'T4GETU",
-        "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
+        "name": "Dreamcast",
+        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
         }
       ],
-      "duration_ms": 374116,
-      "name": "(still) WON'T4GETU",
-      "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+      "duration_ms": 325744,
+      "name": "Dreamcast",
+      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
       },
@@ -927,34 +943,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 249600,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Sound of the Jungle (Pt. 6/6)",
-        "url": "https://open.spotify.com/album/6m7N4BnroBoUnLmG6W2548"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 315418,
-      "name": "Morning Comes",
-      "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "Sound of the Jungle (Pt. 6/6)",
+        "url": "https://open.spotify.com/album/6m7N4BnroBoUnLmG6W2548"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 315418,
+      "name": "Morning Comes",
+      "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Oxygen Levels Low EP",
-        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
-      },
-      "artists": [
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        }
-      ],
-      "duration_ms": 446280,
-      "name": "Oxygen Levels Low",
-      "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+        "name": "Oxygen Levels Low EP",
+        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
       },
       "artists": [
         {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
         }
       ],
-      "duration_ms": 464026,
-      "name": "Between Two Worlds",
-      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+      "duration_ms": 446280,
+      "name": "Oxygen Levels Low",
+      "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 307141,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Club Vibes Part 04",
-        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 478080,
-      "name": "LSD Waterpipe",
-      "url": "https://open.spotify.com/track/5KpG0PdVBrzDk5YiWZh981"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "I Wanna (Tchami Remix)",
         "url": "https://open.spotify.com/album/2fOLNCoJ05kE14n4bXGDXr"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Club Vibes Part 04",
+        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 478080,
+      "name": "LSD Waterpipe",
+      "url": "https://open.spotify.com/track/5KpG0PdVBrzDk5YiWZh981"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Circulate (Together)",
         "url": "https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Vigil",
-        "url": "https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        }
-      ],
-      "duration_ms": 275832,
-      "name": "Vigil",
-      "url": "https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Vigil",
+        "url": "https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        }
+      ],
+      "duration_ms": 275832,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Speicher 128",
+        "url": "https://open.spotify.com/album/0UX8KlGK0N9Ox8GMdG6H3r"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 330188,
+      "name": "Environ",
+      "url": "https://open.spotify.com/track/4KZbPvwW0OoWvGatXXnLM9"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Alive (Remixes)",
         "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 534954,
       "name": "Alive - Solomun Remix",
       "url": "https://open.spotify.com/track/41QaOln9qjWg6dTENPmujr"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Speicher 128",
-        "url": "https://open.spotify.com/album/0UX8KlGK0N9Ox8GMdG6H3r"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "duration_ms": 330188,
-      "name": "Environ",
-      "url": "https://open.spotify.com/track/4KZbPvwW0OoWvGatXXnLM9"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Steamin EP",
         "url": "https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 320000,
       "name": "Pax - Four Tet Remix",
       "url": "https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Maya!",
+        "url": "https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou"
+      },
+      "artists": [
+        {
+          "name": "GRAZZE",
+          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
+        },
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "La Ni\u00f1a De La Aldea - widerberg Remix",
+      "url": "https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Still Rushing (Azzecca Remix)",
         "url": "https://open.spotify.com/album/03xYoG36yKDLuewxredYR1"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 249954,
       "name": "Who We Are - Lufthaus Remix",
       "url": "https://open.spotify.com/track/4cGZ0rJqgcu3lyfqDtk308"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Maya!",
-        "url": "https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou"
-      },
-      "artists": [
-        {
-          "name": "GRAZZE",
-          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
-        },
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        }
-      ],
-      "duration_ms": 286829,
-      "name": "La Ni\u00f1a De La Aldea - widerberg Remix",
-      "url": "https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Four Tet Is My Godmother",
+        "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 300200,
+      "name": "Four Tet Is My Godmother",
+      "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Light For Me / Sirin",
         "url": "https://open.spotify.com/album/5dAVG1bgWrBZEokRk1EcRN"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 204878,
       "name": "Sirin",
       "url": "https://open.spotify.com/track/0fTBC7dIy8c8rRFonamGJF"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Four Tet Is My Godmother",
-        "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 300200,
-      "name": "Four Tet Is My Godmother",
-      "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1875,26 +1875,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Back To You (Deluxe Pack)",
-        "url": "https://open.spotify.com/album/6KtBNnZGglKI9hB3rLTt2K"
+        "name": "MAMI (LUCATI Remix)",
+        "url": "https://open.spotify.com/album/5LDOFYvSb0RgKCyzQ3VWy5"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         },
         {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
         },
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 173463,
-      "name": "Back To You - Tom & Collins Remix",
-      "url": "https://open.spotify.com/track/2SxhnK9xl2xgS5MF0DMiYl"
+      "duration_ms": 175748,
+      "name": "MAMI - LUCATI Remix",
+      "url": "https://open.spotify.com/track/5SJdHBp6KT5dXrOqSQL48W"
     },
     {
       "added_at": "2023-03-23 23:00:00",

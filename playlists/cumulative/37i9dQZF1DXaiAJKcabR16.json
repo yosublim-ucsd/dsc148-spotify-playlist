@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Once Upon A Time In The West",
+        "url": "https://open.spotify.com/album/7f5DOd6CcQAPqxX59ldHEi"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "Wish It Was True",
+      "url": "https://open.spotify.com/track/1TSCUaX1XkklmuxpuPUxyR"
+    },
+    {
+      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },

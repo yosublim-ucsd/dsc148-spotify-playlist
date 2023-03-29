@@ -3211,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "In Our House",
+        "url": "https://open.spotify.com/album/0BaNsKWBEfM8KhgdeTTCd5"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Only If You Stay",
+      "url": "https://open.spotify.com/track/4EO6THQkcjTwCY59pQ6ZsN"
+    },
+    {
+      "album": {
         "name": "Will You Come Back",
         "url": "https://open.spotify.com/album/41h7MBkq9jjiTUpQslaegJ"
       },
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 154625,
       "name": "Only If You Stay",
       "url": "https://open.spotify.com/track/4P59lUGuSG7TMs6qTZlbrc"

@@ -3415,6 +3415,28 @@
     },
     {
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/6CuNkx8H00E0nMAauEN4R4"
+      },
+      "artists": [
+        {
+          "name": "Mynoda",
+          "url": "https://open.spotify.com/artist/37TSFFv4sH9ssEk93pMPt4"
+        },
+        {
+          "name": "Heavenchord",
+          "url": "https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 989090,
+      "name": "Fata Morgana 1",
+      "url": "https://open.spotify.com/track/3mhaYYLCf3Eex5FzveLZ8S"
+    },
+    {
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd"
       },
@@ -5682,7 +5704,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
@@ -7404,6 +7426,24 @@
       "duration_ms": 497053,
       "name": "Rotmilan",
       "url": "https://open.spotify.com/track/74kt8o5ynHzDCdeyGlIVuy"
+    },
+    {
+      "album": {
+        "name": "Rough For Radio (Peel Session)",
+        "url": "https://open.spotify.com/album/4z9uLonX9Be6phMzsjnt2x"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251526,
+      "name": "Rough For Radio - Peel Session",
+      "url": "https://open.spotify.com/track/1T2ckb60IGQnUwz1muyGUw"
     },
     {
       "album": {
@@ -9572,7 +9612,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 230066,
       "name": "TKATC",
       "url": "https://open.spotify.com/track/5hb4rFD4iNfqOlK1tHCHHt"

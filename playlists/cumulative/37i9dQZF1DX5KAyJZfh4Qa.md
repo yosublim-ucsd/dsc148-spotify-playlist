@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Sweet Pill
 
-97 songs - 5 hr 17 min
+98 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Sumter](https://open.spotify.com/track/1Kq8INivQrqF8brZgwL3J8) | [All Get Out](https://open.spotify.com/artist/40YwbT9WnYAkFgBSYtHGQj) | [Kodak](https://open.spotify.com/album/3NyudK6fP44msAyDMlvSwk) | 3:23 | 2022-12-20 |  |
 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 | 2022-11-25 |  |
 | [Talk to Strangers](https://open.spotify.com/track/0RPuTw2dsCs8W4jAdlyxac) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Talk to Strangers](https://open.spotify.com/album/0eHCt4oUTdI8426acSlDBq) | 2:46 | 2023-02-11 |  |
+| [tarot cards](https://open.spotify.com/track/2I6KRUyzJpzlm7JDgp5GTB) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [hospital bed](https://open.spotify.com/album/0qb5ae9027o4FzBj3cTVif) | 3:01 | 2023-03-28 |  |
 | [The Cool Kids](https://open.spotify.com/track/3sgSxMPHAfNhEwDWKJlJGR) | [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Nova](https://open.spotify.com/album/4ppxTvpqPEY7QGWlBxTHXE) | 3:49 | 2022-11-25 |  |
 | [The Way I Feel](https://open.spotify.com/track/5HlZUTzAsbtQLo4VceKjlT) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:49 | 2022-11-25 | 2023-03-11 |
 | [This \# Is No Longer in Service](https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq) | [Swiss Army Wife](https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI) | [Medium Gnarly](https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL) | 1:35 | 2023-01-25 |  |

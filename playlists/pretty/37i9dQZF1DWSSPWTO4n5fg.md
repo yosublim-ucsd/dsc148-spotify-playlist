@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSPWTO4n5fg.md) - [plain]
 
 > Listen to the soundtracks of GENIE TV's original drama Delivery Man\. \(지니TV 오리지널 드라마 딜리버리 맨의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290 likes - 8 songs - 27 min 34 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,318 likes - 8 songs - 27 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369880,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm"
+    },
+    {
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 413538,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
@@ -114,6 +132,46 @@
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+    },
+    {
+      "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/5H8RWIGN18k3PrPumFy28f"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boys",
+          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/4NURWqdoXhUpm85DkD0al8"
+    },
+    {
+      "album": {
+        "name": "Alle meine Raver",
+        "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        },
+        {
+          "name": "Ben Dust",
+          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314666,
+      "name": "Alle meine Raver",
+      "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
     },
     {
       "album": {
@@ -146,7 +204,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 357227,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
@@ -225,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Club Vibes Part 05",
+        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485760,
+      "name": "Black Unicorn",
+      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
+    },
+    {
+      "album": {
         "name": "DEVIN/ITION",
         "url": "https://open.spotify.com/album/7JPLAj9HtVO1l1eOhQN5Nc"
       },
@@ -276,7 +352,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 208759,
       "name": "Can't Stop the Feeling",
       "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
@@ -378,7 +454,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 387807,
       "name": "Control - Original Mix",
       "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
@@ -426,6 +502,24 @@
       "duration_ms": 390000,
       "name": "Cryptography",
       "url": "https://open.spotify.com/track/7l8T90bx7vHXgReTuCEJwk"
+    },
+    {
+      "album": {
+        "name": "Dance for Me",
+        "url": "https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Dance for Me",
+      "url": "https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td"
     },
     {
       "album": {
@@ -898,6 +992,24 @@
       "duration_ms": 457875,
       "name": "Golden Door",
       "url": "https://open.spotify.com/track/5CssKUX7YWpZVJp3jYC4ri"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
     },
     {
       "album": {
@@ -1531,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Never Go Back To Sleep",
+        "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Never Go Back To Sleep",
+      "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
+    },
+    {
+      "album": {
         "name": "Voices In My Head EP",
         "url": "https://open.spotify.com/album/2sngmJvA4Vz8k4GLtdwyPj"
       },
@@ -1618,7 +1748,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 432000,
       "name": "Open Up - Original Mix",
       "url": "https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI"
@@ -1690,7 +1820,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 379701,
       "name": "Perfect Disorder",
       "url": "https://open.spotify.com/track/6MQXn1h7kXG8tn6PvU9UKl"
@@ -1860,6 +1990,28 @@
       "duration_ms": 400172,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
+    },
+    {
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
     },
     {
       "album": {
@@ -2304,7 +2456,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 378184,
       "name": "The Door",
       "url": "https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p"
@@ -2467,6 +2619,28 @@
     },
     {
       "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
+    },
+    {
+      "album": {
         "name": "Digital Age",
         "url": "https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t"
       },
@@ -2478,7 +2652,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 296812,
       "name": "UFOs & LFOs",
       "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
@@ -2692,7 +2866,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 367846,
       "name": "You Look at Me",
       "url": "https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up"

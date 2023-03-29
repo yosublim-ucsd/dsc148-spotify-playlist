@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: King Savagge.
 
-327 songs - 18 hr 52 min
+328 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [LOKOTRON REMIX](https://open.spotify.com/track/5uq1p5tvZhSTRpZZTwuQPj) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Tom fomt](https://open.spotify.com/artist/7GuMDzwhKre9vE0894eNRj) | [LOKOTRON REMIX](https://open.spotify.com/album/20AWnC24OYqJyZfmzcEc9N) | 6:10 | 2022-12-23 |  |
 | [Lonely](https://open.spotify.com/track/4VzEjnnyrmJABQlDgbmGng) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [WorKING](https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl) | 3:14 | 2023-03-10 |  |
 | [Los Diablotes](https://open.spotify.com/track/36ys9pBrC5SLAADHsbsDVF) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Los Diablotes](https://open.spotify.com/album/62jXkO0N4afVBqtlW1G166) | 2:47 | 2023-02-10 |  |
+| [Los Fierros](https://open.spotify.com/track/51spTXpIdbjgEztbNeGSr1) | [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Los Fierros](https://open.spotify.com/album/1eZMIRxFNarYOrreYjJIym) | 3:06 | 2023-03-28 |  |
 | [Los Malvekes](https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7) | 3:38 | 2022-05-23 | 2022-08-19 |
 | [Los Malvekes](https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71) | 3:38 | 2022-08-12 | 2023-02-04 |
 | [Los Rockstars](https://open.spotify.com/track/5zRPfjD3qUsog7tAcAMpWr) | [Gabo El Chamaquito](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Los Rockstars](https://open.spotify.com/album/501hrBlOTdpNqjrOWvPflY) | 3:43 | 2023-02-10 |  |

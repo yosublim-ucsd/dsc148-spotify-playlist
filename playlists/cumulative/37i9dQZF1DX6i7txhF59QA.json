@@ -2220,6 +2220,24 @@
     {
       "album": {
         "name": "Love call center PART18",
+        "url": "https://open.spotify.com/album/44u1ZQbUrDmFKK3dk1m0m9"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Coming home",
+      "url": "https://open.spotify.com/track/50eaioaMEGRbia13qeyU4h"
+    },
+    {
+      "album": {
+        "name": "Love call center PART18",
         "url": "https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I"
       },
       "artists": [
@@ -8968,7 +8986,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-29",
       "duration_ms": 238013,
       "name": "Parting story",
       "url": "https://open.spotify.com/track/6oipGkRDOmaMPXxoBop4dd"

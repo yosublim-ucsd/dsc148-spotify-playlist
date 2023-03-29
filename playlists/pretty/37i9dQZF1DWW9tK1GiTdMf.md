@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ in cover: Naska
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,888 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,894 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 49 | [AMAREGGIANTE](https://open.spotify.com/track/2Qc89TuAewUg1bf158o42k) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [AMAREGGIANTE](https://open.spotify.com/album/7DHAvzWxK0HhdZfrjoOD8s) | 2:10 |
 | 50 | [LAME NEI POLMONI](https://open.spotify.com/track/3xCXgG6h94qLXPzeSCF26f) | [HUGO\_TRz](https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp) | [LAME NEI POLMONI](https://open.spotify.com/album/4KGVDDENnu0ygZ2Nf6Cgyo) | 3:03 |
 | 51 | [VA SEMPRE PEGGIO](https://open.spotify.com/track/5krUYcVNkG8om59CRJrISE) | [La Stalla](https://open.spotify.com/artist/4XnlgX9eaUXdOc75E81PjI) | [STALLA MXTP 2](https://open.spotify.com/album/2tCqETeHkk3gOw80RjbYQB) | 3:34 |
-| 52 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/3g7ds9lLoBRTQag67wtUK3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:57 |
+| 52 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/4fVRM7JsozbVr1z9ApEixY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:57 |
 | 53 | [NOKIA](https://open.spotify.com/track/44BsMFJIiuGqtCTTgBKV3r) | [YoungestSides](https://open.spotify.com/artist/5vz02sSreKDX0vvgbVwPmY), [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [NOKIA](https://open.spotify.com/album/189GeFbSzltGoqDYuE5wPI) | 2:06 |
 | 54 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
 | 55 | [DORMI](https://open.spotify.com/track/4C86xN7IPzill0pZAmyQjB) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [DORMI](https://open.spotify.com/album/1zXkcyapz8q9tJlChXsRrW) | 2:36 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 84 | [Fottuta Metà](https://open.spotify.com/track/2DEKLuq7DbIF74ZfHauwhI) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb), [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [Punk Rock Boy](https://open.spotify.com/album/2ZOFYmi9h3R7T0tupX4iKh) | 3:02 |
 | 85 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 |
 
-Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMGQzZDI1OTExNDUxNWYwMTdlMWE1NjM0NmNkMTRmY2Yw`
+Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMDNjNTJiODJiYWFhZWE3ODFjZTc0ZDlkZmM0YTk2N2U3`
