@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-192 songs - 12 hr 4 min
+193 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 | 2022-07-04 | 2022-09-09 |
 | [bottom parade](https://open.spotify.com/track/4jTyKruIyG8mAI1c8QlxfD) | [Non Amer](https://open.spotify.com/artist/7f3l59JHKzkCqsjXxPmYJT) | [Loop 1](https://open.spotify.com/album/53t377Jk0Zhgk88sX60udL) | 3:05 | 2022-06-20 | 2022-07-26 |
 | [Butterfly on my mind](https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w) | [HolyBear](https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn) | [Honey jar No.01](https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t) | 3:39 | 2023-01-25 |  |
+| [Candy For You](https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Candy For You](https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA) | 2:38 | 2023-03-30 |  |
 | [Carpet](https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Carpet \- SM STATION](https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH) | 3:42 | 2022-05-03 | 2023-03-26 |
 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 | 2022-06-13 |  |
 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 | 2022-06-13 | 2022-11-17 |
@@ -40,7 +41,7 @@
 | [Dancing Universe](https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [LOVER](https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu) | 4:25 | 2022-05-03 | 2023-03-02 |
 | [Darling You](https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [ADAMAS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k) | 2:29 | 2022-08-12 |  |
 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-09 |  |
-| [December's Spring\(Prod\. Sam Kim\)](https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN) | [YUN HU](https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp) | [December's Spring](https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A) | 3:30 | 2023-01-13 |  |
+| [December's Spring\(Prod\. Sam Kim\)](https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN) | [YUN HU](https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp) | [December's Spring](https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A) | 3:30 | 2023-01-13 | 2023-03-30 |
 | [Don't be sad](https://open.spotify.com/track/6w6lBuPSEwyv2i5x5eu8On) | [Jungyoon and Hyunseo](https://open.spotify.com/artist/74VZH0ylIeQ9CiLAgPdYqu) | [Don't be sad](https://open.spotify.com/album/4HWHzQGYvQa6EbK3K8rs2I) | 4:35 | 2022-05-03 | 2022-07-22 |
 | [Dream](https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [When It Loves](https://open.spotify.com/album/6h3u4VFlhumv3Lxrvn4T0z) | 4:15 | 2022-05-03 | 2022-12-24 |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2022-05-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Miranda Lambert",
-  "num_followers": 496501,
+  "num_followers": 496581,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDM1NjJkZTg3ODNhNTFjNTNmMzZhOTcyMzRlN2VhMzA0",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGIxYjEwMWVkNGM0MTE3ZGJjNmM4YzJkNDk3MmZjNzMz",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Weekends Look A Little Different These Days",
-        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "You Didn\u2019t",
-      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 189306,
       "name": "That's What Tequila Does",
       "url": "https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "You Didn\u2019t",
+      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "No Body",
-        "url": "https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "No Body",
-      "url": "https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Looking for You + All Dogs Go to Heaven",
         "url": "https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 179973,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "No Body",
+        "url": "https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -959,58 +959,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Flower Shops (feat. Morgan Wallen)",
-        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Giddy Up!",
-        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 162665,
-      "name": "Giddy Up!",
-      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Cross Country",
-        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 175212,
-      "name": "For What It\u2019s Worth",
-      "url": "https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "You, Me, And Whiskey",
         "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
       },
@@ -1031,18 +979,38 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Sundown Somewhere",
-        "url": "https://open.spotify.com/album/5RU0CcztDZ8Qtfy63fwH3e"
+        "name": "Flower Shops (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 162841,
-      "name": "Sundown Somewhere",
-      "url": "https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A"
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Cross Country",
+        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 175212,
+      "name": "For What It\u2019s Worth",
+      "url": "https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1059,6 +1027,38 @@
       "duration_ms": 187226,
       "name": "God Gave Me A Girl",
       "url": "https://open.spotify.com/track/7kkLBfxW41iVO0cdLU9e9S"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Sundown Somewhere",
+        "url": "https://open.spotify.com/album/5RU0CcztDZ8Qtfy63fwH3e"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 162841,
+      "name": "Sundown Somewhere",
+      "url": "https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Way Down Yonder",
-        "url": "https://open.spotify.com/album/6mUJMoaJvC273B1Dxsu4fL"
+        "name": "Doin' This",
+        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
       },
       "artists": [
         {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 218213,
-      "name": "Way Down Yonder",
-      "url": "https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6"
+      "duration_ms": 254181,
+      "name": "Doin' This",
+      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Doin' This",
-        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
+        "name": "Way Down Yonder",
+        "url": "https://open.spotify.com/album/6mUJMoaJvC273B1Dxsu4fL"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 254181,
-      "name": "Doin' This",
-      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
+      "duration_ms": 218213,
+      "name": "Way Down Yonder",
+      "url": "https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Jackson Dean",
-        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "New Truck",
         "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 174360,
       "name": "New Truck",
       "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
     }
   ],
   "unique_name": "Big Country",

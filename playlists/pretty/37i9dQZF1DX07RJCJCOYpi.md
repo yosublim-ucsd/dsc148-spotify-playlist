@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Deorro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,764 likes - 84 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,735 likes - 84 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

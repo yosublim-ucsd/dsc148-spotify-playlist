@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Odumodublvck",
-  "num_followers": 5419,
+  "num_followers": 5453,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NTEzMSwwMDAwMDAwMGY1OTg3Nzg3NDBiMjM4Y2JhOTE5NjJkNmRlYzFjNGI1",
+  "snapshot_id": "MTY3OTY3NTEzMSwwMDAwMDAwMDdiOTIzOWZmNzU0ZWEyYWVkOGE3ZDliMDg5MGY4ZGYx",
   "tracks": [
     {
       "added_at": "2023-03-24 16:23:49",
@@ -475,26 +475,6 @@
     {
       "added_at": "2023-03-24 16:23:49",
       "album": {
-        "name": "Are You Entertained (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Are You Entertained (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
-    },
-    {
-      "added_at": "2023-03-24 16:23:49",
-      "album": {
         "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
         "url": "https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 173379,
       "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
       "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
+    },
+    {
+      "added_at": "2023-03-24 16:23:49",
+      "album": {
+        "name": "Are You Entertained (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Are You Entertained (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
     },
     {
       "added_at": "2023-03-24 16:23:49",
@@ -693,6 +693,30 @@
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     },
     {
+      "added_at": "2023-03-30 00:56:04",
+      "album": {
+        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
+        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
+      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
+    },
+    {
       "added_at": "2023-03-24 16:23:49",
       "album": {
         "name": "Love, Damini",
@@ -711,6 +735,22 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "added_at": "2023-03-24 16:23:49",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "added_at": "2023-03-24 16:23:49",
@@ -739,46 +779,6 @@
     {
       "added_at": "2023-03-24 16:23:49",
       "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
-    },
-    {
-      "added_at": "2023-03-29 05:10:05",
-      "album": {
-        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
-        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
-      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
-    },
-    {
-      "added_at": "2023-03-24 16:23:49",
-      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -791,30 +791,6 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
-    },
-    {
-      "added_at": "2023-03-24 16:23:49",
-      "album": {
-        "name": "blessing me (with Pa Salieu & Skillibeng)",
-        "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 165507,
-      "name": "blessing me (with Pa Salieu & Skillibeng)",
-      "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
     },
     {
       "added_at": "2023-03-24 16:23:49",
@@ -839,6 +815,30 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
+    },
+    {
+      "added_at": "2023-03-24 16:23:49",
+      "album": {
+        "name": "blessing me (with Pa Salieu & Skillibeng)",
+        "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 165507,
+      "name": "blessing me (with Pa Salieu & Skillibeng)",
+      "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
     },
     {
       "added_at": "2023-03-24 16:23:49",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-24 16:23:49",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 137806,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
-    },
-    {
-      "added_at": "2023-03-24 16:23:49",
-      "album": {
         "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "added_at": "2023-03-24 16:23:49",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 137806,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
     },
     {
       "added_at": "2023-03-24 16:23:49",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-03-24 16:23:49",
       "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "Born To Win",
-      "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
-    },
-    {
-      "added_at": "2023-03-24 16:23:49",
-      "album": {
         "name": "Walking On Water",
         "url": "https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb"
       },
@@ -1227,26 +1207,22 @@
     {
       "added_at": "2023-03-24 16:23:49",
       "album": {
-        "name": "Bad Man Lighter 2.0",
-        "url": "https://open.spotify.com/album/01oOmRPiOm1hpWGgwuYyXC"
+        "name": "Ivyson Army Tour Mixtape",
+        "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
       },
       "artists": [
         {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Bad Man Lighter 2.0",
-      "url": "https://open.spotify.com/track/4iG262D6hTzlvVFI5Fm23C"
+      "duration_ms": 178421,
+      "name": "Born To Win",
+      "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
     },
     {
       "added_at": "2023-03-24 16:23:49",
@@ -1267,6 +1243,30 @@
       "duration_ms": 178775,
       "name": "PARA",
       "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
+    },
+    {
+      "added_at": "2023-03-24 16:23:49",
+      "album": {
+        "name": "Bad Man Lighter 2.0",
+        "url": "https://open.spotify.com/album/01oOmRPiOm1hpWGgwuYyXC"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Bad Man Lighter 2.0",
+      "url": "https://open.spotify.com/track/4iG262D6hTzlvVFI5Fm23C"
     }
   ],
   "unique_name": "Hype List",

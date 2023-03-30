@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 209093,
       "name": "mumumumuch",
       "url": "https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z"
@@ -4288,6 +4288,24 @@
       "duration_ms": 216853,
       "name": "Shine",
       "url": "https://open.spotify.com/track/2qJjNAljfrYm7slPCXzRtC"
+    },
+    {
+      "album": {
+        "name": "DELIGHT",
+        "url": "https://open.spotify.com/album/7aTLF46tlKvNePZyUIf4e6"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "Shining Bright",
+      "url": "https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked"
     },
     {
       "album": {

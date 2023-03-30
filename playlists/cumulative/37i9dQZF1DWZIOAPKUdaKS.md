@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-637 songs - 1 day 3 hr 35 min
+641 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Ephemeral](https://open.spotify.com/track/6jx8SZbJywx8lhUHFvhqEa) | [bzur](https://open.spotify.com/artist/0oGuRxr8O9eLnI4MS3pkTt) | [Ephemeral](https://open.spotify.com/album/1KKKoi59nPFZ9tDpfboDK7) | 2:34 | 2022-11-24 |  |
 | [Erinnerungen](https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Erinnerungen](https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q) | 3:10 | 2021-12-07 | 2022-07-20 |
 | [Eros](https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Eros](https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt) | 2:08 | 2022-02-01 |  |
+| [Esperanza](https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Esperanza](https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s) | 2:01 | 2023-03-29 |  |
 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 | 2022-09-12 |  |
 | [Estebania](https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania](https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K) | 2:51 | 2021-12-07 |  |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2021-12-07 |  |
@@ -200,6 +201,7 @@
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2021-12-07 |  |
 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2021-12-07 |  |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2021-12-07 | 2022-12-06 |
+| [Friedliebend](https://open.spotify.com/track/1DhBkcETHP709aHSpJozE7) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Friedliebend](https://open.spotify.com/album/0ErzD4yq39nTwzDwAIIfhy) | 2:12 | 2023-03-29 |  |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-07 |  |
 | [Fugazy](https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Fugazy](https://open.spotify.com/album/7MVVUbmETVZkVsve5NOBM2) | 2:32 | 2021-12-07 | 2022-04-21 |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-02-15 | 2022-10-25 |
@@ -234,6 +236,7 @@
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-01-18 |  |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-01 |  |
 | [Hope \(Felt\)](https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv) | [Danilo Stankovic](https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz) | [Evoke](https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4) | 1:52 | 2021-12-07 | 2022-10-25 |
+| [Hopelijk](https://open.spotify.com/track/2s0aWHa34r7CbfzMjwfuOv) | [Annebelle Coenraad](https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z) | [Hopelijk](https://open.spotify.com/album/3CBJZX7YjdUt9Znda8dprR) | 1:58 | 2023-03-29 |  |
 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2022-02-15 |  |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2021-12-07 | 2022-12-06 |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2021-12-07 |  |
@@ -623,6 +626,7 @@
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-08-10 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 | 2022-11-25 |
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2021-12-07 |  |
+| [Whispering Pines](https://open.spotify.com/track/7Ia1tIQDGAFfZWYJc1vFcN) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [Whispering Pines](https://open.spotify.com/album/6859sgyqyzsrzEhQwoO91Q) | 2:13 | 2023-03-29 |  |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2021-12-07 | 2022-09-13 |
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2022-12-05 |  |
 | [Wishes](https://open.spotify.com/track/1KnTw354jtQmDvA6b3Fvi0) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Wishes](https://open.spotify.com/album/0qcFUWhrhzdUn1F0bC46wU) | 1:38 | 2021-12-07 | 2022-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,319 likes - 74 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,354 likes - 74 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

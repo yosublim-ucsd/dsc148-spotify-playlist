@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 74805,
+  "num_followers": 74949,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDUwOTQ5ODhjYzBmMDVhOTAxYTZmYThjOGYyNzFhMmY2",
+  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMGFmOGFmM2NkNDA1YmE0MDFkN2QxMGUzMmNlODc1YzIw",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-03-29 05:12:51",
+      "added_at": "2023-03-30 01:02:37",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
     },
     {
-      "added_at": "2023-03-29 05:12:51",
-      "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 355066,
-      "name": "True Faith",
-      "url": "https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8"
-    },
-    {
       "added_at": "2023-01-25 15:11:28",
       "album": {
         "name": "I Feel for You",
@@ -711,6 +695,22 @@
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "added_at": "2023-03-30 01:02:37",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 355066,
+      "name": "True Faith",
+      "url": "https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Night And Day",
-        "url": "https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 268200,
-      "name": "Steppin' Out",
-      "url": "https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 269800,
       "name": "If You Leave - Remastered 2019",
       "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Night And Day",
+        "url": "https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ"
     },
     {
       "added_at": "2023-01-25 15:11:28",

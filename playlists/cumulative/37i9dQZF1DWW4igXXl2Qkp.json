@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 93126,
       "name": "1st Time In Neimans",
       "url": "https://open.spotify.com/track/1UKVKspb7YDeMjhEdLueSy"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 100179,
       "name": "AL Roker",
       "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
@@ -922,6 +922,24 @@
       "duration_ms": 120000,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz"
+    },
+    {
+      "album": {
+        "name": "apathy",
+        "url": "https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD"
+      },
+      "artists": [
+        {
+          "name": "bronclair",
+          "url": "https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113317,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N"
     },
     {
       "album": {
@@ -1449,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "How Did I End Up Here (Deluxe)",
+        "url": "https://open.spotify.com/album/2XpCNiDKLOB8kWh1P6154H"
+      },
+      "artists": [
+        {
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172120,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/2cmhewaI5xCtAsW6pQoKKM"
+    },
+    {
+      "album": {
         "name": "Beastmode",
         "url": "https://open.spotify.com/album/4vbimvX7WTr9r0b0GRJS5D"
       },
@@ -1790,6 +1826,24 @@
       "duration_ms": 120680,
       "name": "Billy",
       "url": "https://open.spotify.com/track/1HUGH6K8uKM2z8OR92JmAc"
+    },
+    {
+      "album": {
+        "name": "BING BONG",
+        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106736,
+      "name": "BING BONG",
+      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
     },
     {
       "album": {
@@ -3337,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/3V5hiLfHoOiMiDhRGTH916"
       },
@@ -3588,10 +3660,36 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 126197,
       "name": "Don't Matter",
       "url": "https://open.spotify.com/track/6HjgcxvCqzOp4K3ObnwBgP"
+    },
+    {
+      "album": {
+        "name": "Don't Talk 2 Me",
+        "url": "https://open.spotify.com/album/54FWdaPAxy6qx47i7hxLM1"
+      },
+      "artists": [
+        {
+          "name": "JODY SUMMERS",
+          "url": "https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx"
+        },
+        {
+          "name": "WIL$ON",
+          "url": "https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI"
+        },
+        {
+          "name": "Scottie Le'Jour",
+          "url": "https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Don't Talk 2 Me",
+      "url": "https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip"
     },
     {
       "album": {
@@ -3690,6 +3788,28 @@
       "duration_ms": 108351,
       "name": "DRIFTING IN TOKYO",
       "url": "https://open.spotify.com/track/4Sx3LWJDdzWIvyOgQJ9vXt"
+    },
+    {
+      "album": {
+        "name": "SMOOVE KILLA",
+        "url": "https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        },
+        {
+          "name": "CD",
+          "url": "https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/1gtQcKsKB32UmxzwihNDe4"
     },
     {
       "album": {
@@ -3795,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "El Nido",
+        "url": "https://open.spotify.com/album/6ItPjJIBazYoNEag9gRIR7"
+      },
+      "artists": [
+        {
+          "name": "Srirachi",
+          "url": "https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "El Nido",
+      "url": "https://open.spotify.com/track/0rBa3QzAhwBf3CecElHFME"
+    },
+    {
+      "album": {
         "name": "ELEGANT",
         "url": "https://open.spotify.com/album/5tkDAf8KqAe23FWIOCH1HN"
       },
@@ -3868,6 +4006,36 @@
       "duration_ms": 124387,
       "name": "Ether",
       "url": "https://open.spotify.com/track/6n00j9f2moiyIb9UScm9W2"
+    },
+    {
+      "album": {
+        "name": "EVEN THE SUN",
+        "url": "https://open.spotify.com/album/7GS2cGbJQBtxoRKCRcDDU6"
+      },
+      "artists": [
+        {
+          "name": "Armani Jordan",
+          "url": "https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR"
+        },
+        {
+          "name": "K$ The Kid",
+          "url": "https://open.spotify.com/artist/03siKEfVQW2Buj6fdm7DH4"
+        },
+        {
+          "name": "JOJANK",
+          "url": "https://open.spotify.com/artist/6Sp0OWQWm08qfUTYJZnTf6"
+        },
+        {
+          "name": "trapdollazmanny",
+          "url": "https://open.spotify.com/artist/0Cxsbt47fwKSvNLyknfKbf"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199079,
+      "name": "EVEN THE SUN",
+      "url": "https://open.spotify.com/track/5qUfbqm34MArVGJ4RaKCkq"
     },
     {
       "album": {
@@ -5951,6 +6119,24 @@
     },
     {
       "album": {
+        "name": "Jackie Chan",
+        "url": "https://open.spotify.com/album/1KHwTiHH1uVwHy04DS0Tj3"
+      },
+      "artists": [
+        {
+          "name": "Billacheck",
+          "url": "https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112706,
+      "name": "Jackie Chan",
+      "url": "https://open.spotify.com/track/0in5mxxYYegP6w1lRuKS8u"
+    },
+    {
+      "album": {
         "name": "jersey luv",
         "url": "https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U"
       },
@@ -6701,6 +6887,24 @@
     },
     {
       "album": {
+        "name": "Live My Life",
+        "url": "https://open.spotify.com/album/0GdlR7aChOBY5dJkeihSa1"
+      },
+      "artists": [
+        {
+          "name": "Creek Boyz",
+          "url": "https://open.spotify.com/artist/2GaynEwi8XdZuZ372KKsgc"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222983,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/1b9zjjO0nShjTPJPFvRTRZ"
+    },
+    {
+      "album": {
         "name": "Tyrant Twins",
         "url": "https://open.spotify.com/album/7mfrJEqSAomXETUlcrGAyH"
       },
@@ -7372,7 +7576,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 107329,
       "name": "Mode",
       "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
@@ -8010,7 +8214,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 108007,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW"
@@ -8496,7 +8700,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 156000,
       "name": "Not Done",
       "url": "https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8"
@@ -8856,7 +9060,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 166830,
       "name": "Patience (feat. NoCap)",
       "url": "https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi"
@@ -10832,7 +11036,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 112133,
       "name": "Specialty",
       "url": "https://open.spotify.com/track/6wVm22yQR2vux6aLz4MLp4"
@@ -12272,7 +12476,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 169572,
       "name": "Vacant House",
       "url": "https://open.spotify.com/track/3JbUSy1PDFY7ZeK4IRqxUv"
@@ -12858,7 +13062,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 116306,
       "name": "Wine & Dine",
       "url": "https://open.spotify.com/track/7jqgrSK9y7N1P18NpZxJLn"

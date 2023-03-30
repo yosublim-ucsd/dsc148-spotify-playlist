@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 184785,
+  "num_followers": 185137,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzOTkyNiwwMDAwMDAwMDUxOTY0M2Y5NTljNTZhMDBlYTc3NDQ4ZThiYWFhNjRj",
+  "snapshot_id": "MTY3OTAzOTkyNiwwMDAwMDAwMGQ3MTQ1Y2Q1YzU4OGUwMGNjMDhiMjVkNDA2YWY2NGYx",
   "tracks": [
     {
-      "added_at": "2023-03-29 05:10:21",
+      "added_at": "2023-03-30 00:51:33",
       "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
-      "added_at": "2023-03-29 05:10:21",
+      "added_at": "2023-03-30 00:51:33",
       "album": {
         "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
         "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
     },
     {
-      "added_at": "2023-03-29 05:10:21",
+      "added_at": "2023-03-30 00:51:33",
       "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
@@ -819,18 +819,22 @@
     {
       "added_at": "2023-02-23 21:33:25",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+        "name": "Se\u00f1alado por Costumbre",
+        "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
       "artists": [
         {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
         }
       ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+      "duration_ms": 176000,
+      "name": "La Escuela No Me Gust\u00f3",
+      "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
     },
     {
       "added_at": "2023-02-23 21:33:25",
@@ -851,22 +855,18 @@
     {
       "added_at": "2023-02-23 21:33:25",
       "album": {
-        "name": "Se\u00f1alado por Costumbre",
-        "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
         }
       ],
-      "duration_ms": 176000,
-      "name": "La Escuela No Me Gust\u00f3",
-      "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2023-02-23 21:33:25",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-02-23 21:33:25",
       "album": {
-        "name": "Atraves de la Luna",
-        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 249469,
-      "name": "El Dia Que Puedas",
-      "url": "https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U"
-    },
-    {
-      "added_at": "2023-02-23 21:33:25",
-      "album": {
         "name": "80 A\u00f1os De M\u00fasica Entre Amigos",
         "url": "https://open.spotify.com/album/1scgYlpUobokSRDYyeAwE3"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 137600,
       "name": "Mi Vicio M\u00e1s Grande",
       "url": "https://open.spotify.com/track/6c2OfsMKs7pv7qhD0sGGeM"
+    },
+    {
+      "added_at": "2023-02-23 21:33:25",
+      "album": {
+        "name": "Atraves de la Luna",
+        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 249469,
+      "name": "El Dia Que Puedas",
+      "url": "https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U"
     },
     {
       "added_at": "2023-02-23 21:33:25",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2023-02-23 21:33:25",
       "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 147240,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D"
+    },
+    {
+      "added_at": "2023-02-23 21:33:25",
+      "album": {
         "name": "Mi Estilo De Vida",
         "url": "https://open.spotify.com/album/50XBvxhw4rOjUlSETDuk2k"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 135946,
       "name": "Mi Estilo De Vida",
       "url": "https://open.spotify.com/track/0pJ4tqxbke61RZeJZL6UKr"
-    },
-    {
-      "added_at": "2023-02-23 21:33:25",
-      "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 147240,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D"
     },
     {
       "added_at": "2023-02-23 21:33:25",

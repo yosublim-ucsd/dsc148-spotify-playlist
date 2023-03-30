@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,757,381 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757,477 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 29 | [Snatched \(with Flo Milli & Saucy Santana\) \- Remix](https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Snatched \(Remix\)](https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG) | 2:39 |
 | 30 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |
 | 31 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 |
-| 32 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
-| 33 | [Handstand \(with Doja Cat feat\. Saweetie\)](https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:50 |
+| 32 | [Handstand \(with Doja Cat feat\. Saweetie\)](https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:50 |
+| 33 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
 | 34 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 |
 | 35 | [1\-800\-Bad\-Bxtch](https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [1\-800\-Bad\-Bxtch](https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP) | 2:34 |
 | 36 | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/track/1SDPlyCpP441BhYKcupxc0) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Lebra Jolie](https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6) | 2:22 |
 | 37 | [Sneaky Link Shemix](https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Shemix](https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb) | 1:38 |
-| 38 | [I Admit It](https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [I Admit It](https://open.spotify.com/album/0qS3rNh4aSrYtU9Kibqqet) | 2:22 |
+| 38 | [Bend It Over](https://open.spotify.com/track/3L29JZ7rEnfAxigaQvWr69) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Bend It Over](https://open.spotify.com/album/2Q1xSOvzYNO9tS5rpxJ0SS) | 2:55 |
 | 39 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 |
 | 40 | [Bop Bop](https://open.spotify.com/track/1891EswrvOu3kHIcROshhe) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Bop Bop](https://open.spotify.com/album/3YkTJig3cTGSp9JHM3tHWW) | 2:17 |
-| 41 | [Bend It Over](https://open.spotify.com/track/3L29JZ7rEnfAxigaQvWr69) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Bend It Over](https://open.spotify.com/album/2Q1xSOvzYNO9tS5rpxJ0SS) | 2:55 |
+| 41 | [I Admit It](https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [I Admit It](https://open.spotify.com/album/0qS3rNh4aSrYtU9Kibqqet) | 2:22 |
 | 42 | [Bikini Bottom](https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq) | 1:46 |
 | 43 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 |
 | 44 | [THICK \(feat\. Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/52ySvuxscDGsXUVsci1Kpa) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [THICK \(feat\. Megan Thee Stallion\) \[Remix\]](https://open.spotify.com/album/7oqb6dNNBKiukDeiaqAo5C) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [Left Right](https://open.spotify.com/track/35rVahLCBH2od5nPU0D7zF) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [Left Right](https://open.spotify.com/album/2FfujJs6RbwqGJKJRT9G30) | 2:00 |
 | 50 | [Feelin’ Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGFmZTg0M2VhZDI1NmY5ZjFkODgzMGE1NzgyN2MzZTRj`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGVhNDJjOTg2YTcwMTg4NjQ4ZjJkN2MxNzU3YmRkNTQ3`

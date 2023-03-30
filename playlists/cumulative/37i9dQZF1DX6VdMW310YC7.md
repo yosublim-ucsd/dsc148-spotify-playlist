@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,458 songs - 4 day 4 hr 39 min
+1,459 songs - 4 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,7 @@
 | [LA](https://open.spotify.com/track/1ovgUqDLSaOKZAs1vJiH77) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Kelsey Hayes](https://open.spotify.com/artist/39FaAZZJMPMpq0B50R7zXI) | [LA](https://open.spotify.com/album/1iR0FLtAi2eUZhtvrem7Rm) | 3:28 | 2020-03-20 | 2022-04-21 |
 | [La Luna](https://open.spotify.com/track/2co18Ij6kdf3kcfp5zm2Bv) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [RNSHW](https://open.spotify.com/artist/0vbnJYErPoTxFJsG59tSiP) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:57 | 2020-03-18 | 2022-10-13 |
 | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n) | 5:24 | 2020-05-18 | 2020-10-09 |
-| [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2021-08-20 |  |
+| [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2021-08-20 | 2023-03-30 |
 | [Lac de Soi](https://open.spotify.com/track/4CDThn846W8Jp8Xqznv5B8) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Lac de Soi](https://open.spotify.com/album/59FbwgMdBY4gC50lCcKThZ) | 4:59 | 2020-10-13 | 2021-01-11 |
 | [Lake Arrowhead \- Radio Mix](https://open.spotify.com/track/5vB9br9McVS3HWZd9LhWD8) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lake Arrowhead EP](https://open.spotify.com/album/06WIiFArmoAHBCdFfQpz56) | 3:35 | 2020-05-18 | 2020-07-03 |
 | [Last Kiss](https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 2:45 | 2020-05-18 | 2021-12-21 |
@@ -1270,6 +1270,7 @@
 | [The Blues](https://open.spotify.com/track/0v1XJjO4PXdfNMGqjKewsf) | [Niklas Ibach](https://open.spotify.com/artist/2LyxhWXFqUt5Zbe0KSW38j), [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD) | [The Blues](https://open.spotify.com/album/6lyKa86myArsLsix1mxe26) | 3:43 | 2020-05-22 | 2020-07-03 |
 | [The Bulldog](https://open.spotify.com/track/7iYlacahYFEKx8cpRNC2Tx) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [The Bulldog](https://open.spotify.com/album/3HIV2UOXcao1UrJKAEgAcb) | 3:04 | 2020-05-18 | 2021-01-11 |
 | [The Chase](https://open.spotify.com/track/09HJT2vVbWKXllFwN9qZ5W) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt\. 2](https://open.spotify.com/album/5fxVy50kYGajDUpAksWhRz) | 3:13 | 2022-09-09 | 2023-03-22 |
+| [The Chase](https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:13 | 2023-03-10 |  |
 | [The Chase](https://open.spotify.com/track/44j2camBItOSBgDTWAEZaZ) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Chase](https://open.spotify.com/album/589XyrbBTAedoxFQyzVlkf) | 3:13 | 2022-02-11 | 2022-10-13 |
 | [The Color of Nothing](https://open.spotify.com/track/7AxFLOKzAkxhkWKXZC7WVM) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:53 | 2022-08-26 | 2022-09-10 |
 | [The Dare](https://open.spotify.com/track/6q1YqlGJ3QcIiFJammggwJ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:11 | 2020-05-18 | 2020-07-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron \u00e9poca en nuestro rock. \u00a1Para cantar a los gritos! Foto: Soda Stereo",
-  "num_followers": 690069,
+  "num_followers": 690592,
   "original_name": "50 Himnos del Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg5NjAyOSwwMDAwMDAwMDVlMzYyZmUxZDM5Y2I0OTY2MTQ5MTZmMWFhNDg1NGJk",
+  "snapshot_id": "MTY2MTg5NjAyOSwwMDAwMDAwMGMyZGVhYmUzOGViMGRjM2IyODc0Y2VkNmQwY2U2OGIz",
   "tracks": [
     {
       "added_at": "2022-03-15 03:45:16",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-03-15 03:45:16",
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "La Pachanga",
-      "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
-    },
-    {
-      "added_at": "2022-03-15 03:45:16",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "added_at": "2022-03-15 03:45:16",
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "La Pachanga",
+      "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
     },
     {
       "added_at": "2022-03-15 03:45:16",

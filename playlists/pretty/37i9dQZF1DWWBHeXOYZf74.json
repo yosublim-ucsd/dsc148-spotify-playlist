@@ -1,13 +1,29 @@
 {
   "description": "Genre-less. Quality first always. Cover: JPEGMAFIA & Danny Brown",
-  "num_followers": 1324069,
+  "num_followers": 1324078,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAyNDIzMCwwMDAwMDAwMDUyMmMyNWVkY2JiNjQ2ZDY5YzkyMTRjYjE4NmQ4NjEw",
+  "snapshot_id": "MTY4MDEyNDUxNSwwMDAwMDAwMDM2OTFhZGY0MDA4NjdlYTEzMTZhNmYyYWMyN2ZlZTQy",
   "tracks": [
+    {
+      "added_at": "2023-03-29 21:15:15",
+      "album": {
+        "name": "DOGTOOTH",
+        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
+    },
     {
       "added_at": "2023-03-28 17:23:50",
       "album": {

@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 189946,
       "name": "down bad - fanclubwallet & Preloved Remix",
       "url": "https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy"
@@ -6322,6 +6322,24 @@
       "duration_ms": 146861,
       "name": "thankful",
       "url": "https://open.spotify.com/track/20KoZCmyHM38j0IEv5gtOM"
+    },
+    {
+      "album": {
+        "name": "Old Compilation 3",
+        "url": "https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146864,
+      "name": "thankful",
+      "url": "https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL"
     },
     {
       "album": {

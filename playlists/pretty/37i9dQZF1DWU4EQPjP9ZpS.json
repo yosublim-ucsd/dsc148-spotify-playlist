@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 248533,
+  "num_followers": 248679,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MjAyOCwwMDAwMDAwMGI5NDMxNDI1MzM5OWI4NjA0NTliNzFmNzYwNzdiYzg2",
+  "snapshot_id": "MTY2NzU0MjAyOCwwMDAwMDAwMDM2ZTdmNmQxNGQ1MjgxN2U0YTIzMzE5MDljOTg0YmZm",
   "tracks": [
     {
       "added_at": "2022-11-04 06:07:07",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "On the Promenade (George Clanton Remix)",
         "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 196956,
       "name": "On the Promenade (George Clanton Remix)",
       "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
-      },
-      "artists": [
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "\u56da\u4eba",
+        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
+      },
+      "artists": [
+        {
+          "name": "desert sand feels warm at night",
+          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
+        }
+      ],
+      "duration_ms": 320462,
+      "name": "\u5e7d\u970a",
+      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 390787,
       "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "\u56da\u4eba",
-        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
-      },
-      "artists": [
-        {
-          "name": "desert sand feels warm at night",
-          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
-        }
-      ],
-      "duration_ms": 320462,
-      "name": "\u5e7d\u970a",
-      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1323,6 +1323,38 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "CYBERIA",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
+      },
+      "artists": [
+        {
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+        }
+      ],
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Cry Again",
         "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
       },
@@ -1339,22 +1371,6 @@
       "duration_ms": 182192,
       "name": "Cry Again",
       "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "CYBERIA",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "TV Party",
         "url": "https://open.spotify.com/album/6Pydwu1g04gbk19Pt5Ws6q"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 155581,
       "name": "You Can Sense It",
       "url": "https://open.spotify.com/track/0SD6WSoGWZgwNwztf1p5DO"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "One Hundred Mornings (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1523,6 +1507,38 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Dr. ROM",
+        "url": "https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4"
+      },
+      "artists": [
+        {
+          "name": "Vivi Vulture",
+          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Home Workout VHS",
+      "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "One Hundred Mornings (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Screensaver",
         "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 147280,
       "name": "Screensaver",
       "url": "https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Dr. ROM",
-        "url": "https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4"
-      },
-      "artists": [
-        {
-          "name": "Vivi Vulture",
-          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Home Workout VHS",
-      "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Strangers Who Know Every Secret",
-        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
-      },
-      "artists": [
-        {
-          "name": "Designed Intervention",
-          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
-        }
-      ],
-      "duration_ms": 156613,
-      "name": "Strangers Who Know Every Secret",
-      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "I Am Here, In Love\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b. (Exist\u200b.\u200b.\u200b. Exist\u200b.\u200b.\u200b.\u200b. Exist\u200b!\u200b!\u200b!\u200b)",
-        "url": "https://open.spotify.com/album/49DYO9fvSpifXXMlE26Wkx"
+        "name": "Strangers Who Know Every Secret",
+        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
       },
       "artists": [
         {
-          "name": "Hong Kong Express",
-          "url": "https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf"
+          "name": "Designed Intervention",
+          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
         }
       ],
-      "duration_ms": 187317,
-      "name": "Time-Data. The Stars. The Essence. Love. Abstract Beauty. Desire. Ariseth, As The Sun.",
-      "url": "https://open.spotify.com/track/3yrkXG1DGDivOKtXtbFGoi"
+      "duration_ms": 156613,
+      "name": "Strangers Who Know Every Secret",
+      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1675,6 +1659,22 @@
       "duration_ms": 226640,
       "name": "New Wares New Heirs New Game Plus - Remix",
       "url": "https://open.spotify.com/track/2VvDGxDybgST5iEulmG6EV"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "I Am Here, In Love\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b. (Exist\u200b.\u200b.\u200b. Exist\u200b.\u200b.\u200b.\u200b. Exist\u200b!\u200b!\u200b!\u200b)",
+        "url": "https://open.spotify.com/album/49DYO9fvSpifXXMlE26Wkx"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Express",
+          "url": "https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Time-Data. The Stars. The Essence. Love. Abstract Beauty. Desire. Ariseth, As The Sun.",
+      "url": "https://open.spotify.com/track/3yrkXG1DGDivOKtXtbFGoi"
     },
     {
       "added_at": "2022-11-04 06:07:07",

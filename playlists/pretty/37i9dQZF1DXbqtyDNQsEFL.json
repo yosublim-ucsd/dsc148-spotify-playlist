@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 31835,
+  "num_followers": 31907,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NTU3OCwwMDAwMDAwMDVhYjY3YjJjOTMxMmNiMmU1NTVjMGZjZjQ1Zjc0ZTRm",
+  "snapshot_id": "MTY3OTY3NTU3OCwwMDAwMDAwMDYzNjQ1MjA3ZDM3NDA2NWRjZDY5MTNjM2UwNDdlNjFl",
   "tracks": [
     {
       "added_at": "2023-03-17 08:10:28",
@@ -195,6 +195,26 @@
     {
       "added_at": "2023-03-17 08:10:28",
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+    },
+    {
+      "added_at": "2023-03-17 08:10:28",
+      "album": {
         "name": "Kumama",
         "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
-    },
-    {
-      "added_at": "2023-03-17 08:10:28",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-03-17 08:10:28",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-03-17 08:10:28",
       "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 552855,
+      "name": "Obinigwe",
+      "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
+    },
+    {
+      "added_at": "2023-03-17 08:10:28",
+      "album": {
         "name": "Daddy wey dey Pamper",
         "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-03-17 08:10:28",
-      "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 552855,
-      "name": "Obinigwe",
-      "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
     },
     {
       "added_at": "2023-03-17 08:10:28",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-03-17 08:10:28",
       "album": {
+        "name": "More Than Music (Transcendent Worship)",
+        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 632469,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/6WxUoDi4xnl4E1NDrcAewm"
+    },
+    {
+      "added_at": "2023-03-17 08:10:28",
+      "album": {
         "name": "Onyedikagi",
         "url": "https://open.spotify.com/album/3nM8ld6vFNii5Pp7i96I3J"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 332573,
       "name": "Fix My Eyes on You",
       "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
-    },
-    {
-      "added_at": "2023-03-17 08:10:28",
-      "album": {
-        "name": "More Than Music (Transcendent Worship)",
-        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 632469,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/6WxUoDi4xnl4E1NDrcAewm"
     },
     {
       "added_at": "2023-03-17 08:10:28",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2023-03-17 08:10:28",
       "album": {
-        "name": "Revival Is In The Air (RIITA)",
-        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
+        "name": "Eze Ebube II",
+        "url": "https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Jo Deep",
-          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+      "duration_ms": 432288,
+      "name": "Eze Ebube II",
+      "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
     },
     {
       "added_at": "2023-03-17 08:10:28",
@@ -1307,18 +1303,22 @@
     {
       "added_at": "2023-03-17 08:10:28",
       "album": {
-        "name": "Eze Ebube II",
-        "url": "https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh"
+        "name": "Revival Is In The Air (RIITA)",
+        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
       "artists": [
         {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Jo Deep",
+          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
         }
       ],
-      "duration_ms": 432288,
-      "name": "Eze Ebube II",
-      "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
+      "duration_ms": 272000,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
     },
     {
       "added_at": "2023-03-17 08:10:28",

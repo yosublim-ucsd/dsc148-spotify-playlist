@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,605 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,931 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 42 | [É Você \- 2004 Digital Remaster](https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 2:51 |
 | 43 | [Mais Que Ontem](https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:57 |
 | 44 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
-| 45 | [Toda Beleza](https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:06 |
-| 46 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 |
+| 45 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 |
+| 46 | [Toda Beleza](https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:06 |
 | 47 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
 | 48 | [Transforma\(dor\)](https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Transforma\(dor\)](https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc) | 2:23 |
 | 49 | [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 |
 | 50 | [Dueto](https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt) | [Caravanas](https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu) | 3:22 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDczNjFmZmM5NjM3NWI0ZWRkOTU1OGVmYjFlNWZkMzhh`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGZlNWI0NzQ3MWYwMDI4NzUxNjdhMGY4NGM2MTZhYmQw`

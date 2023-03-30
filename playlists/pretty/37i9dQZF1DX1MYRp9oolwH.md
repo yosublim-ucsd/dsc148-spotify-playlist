@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,076 likes - 68 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,165 likes - 68 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 |
 | 2 | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V) | 3:42 |
-| 3 | [Chamkeela Angeelesi \(From "Dasara"\)](https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Chamkeela Angeelesi \(From "Dasara"\) \- Single](https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb) | 3:23 |
+| 3 | [Chamkeela Angeelesi](https://open.spotify.com/track/7oYOco3GphdxENmamXsqDh) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/05CNNKerwG83acgQaXmzH3) | 3:23 |
 | 4 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 5 | [Sogasuke Soku](https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghantadi Krishna](https://open.spotify.com/artist/0pllOO8uQzMCl9IDGBxr8J) | [Risk \(Telugu\)](https://open.spotify.com/album/1x1YOnezfxRM5uq4E4LAp9) | 3:59 |
 | 6 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 67 | [O Tene Palukula \(From "Bimbisara"\)](https://open.spotify.com/track/1moaPNMvcmSEu9XmlXo3Vh) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV), [Varikuppala Yadagiri](https://open.spotify.com/artist/3cycJl75lhSFTnSYNaMbqN) | [O Tene Palukula \(From "Bimbisara"\) \- Single](https://open.spotify.com/album/2pDPWuV0UN03bx0zQK45Df) | 3:55 |
 | 68 | [Tholi Tholiga \(From "Janakiram"\)](https://open.spotify.com/track/0S6WMIucenxU1SvRTA73qi) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Tholi Tholiga \(From "Janakiram"\) \- Single](https://open.spotify.com/album/0PxHjTPAkkn0qjhqBZ4W3T) | 4:59 |
 
-Snapshot ID: `MTY3OTkwODk5NCwwMDAwMDAwMGU2MTNmMjYzMWVkNmJjOGQxMmFlYmNkY2IyNGQ1OTVk`
+Snapshot ID: `MTY3OTkwODk5NCwwMDAwMDAwMDA1NTE4ZmNlMGMxM2NhYWFlODZlZDkyOTliMTBiZDk0`

@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 150360,
+  "num_followers": 150396,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMDMxMDk3MWM2NDZjMTFmODUyNWQ3NTZiZjdhMTUxMmRi",
+  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMDA3NjMzYzIyNzg5YmE3MzRmM2EzYzI0NGE2YzUwMDM5",
   "tracks": [
     {
       "added_at": "2023-02-24 11:06:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Crazier",
-        "url": "https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 233339,
-      "name": "Crazier",
-      "url": "https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Wild Love (Acoustic)",
         "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 189146,
       "name": "Wild Love - Acoustic",
       "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Crazier",
+        "url": "https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 233339,
+      "name": "Crazier",
+      "url": "https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Eastside (with Halsey & Khalid) [Acoustic]",
         "url": "https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Here With Me (Acoustic)",
         "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 164478,
       "name": "Here With Me - Acoustic",
       "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "T-Shirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "T-Shirts - Acoustic",
-      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "T-Shirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "T-Shirts - Acoustic",
+      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Malibu Nights",
         "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 183466,
       "name": "I'm Sure He Loves You",
       "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Hailey (EMBERS Remix)",
-        "url": "https://open.spotify.com/album/2RuyhhGVvpQZH2L4zPWo43"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 208723,
-      "name": "Hailey - Acoustic",
-      "url": "https://open.spotify.com/track/3npU19eWW7PoB2Va7UinRu"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 193756,
       "name": "First Time",
       "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Hailey (EMBERS Remix)",
+        "url": "https://open.spotify.com/album/2RuyhhGVvpQZH2L4zPWo43"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 208723,
+      "name": "Hailey - Acoustic",
+      "url": "https://open.spotify.com/track/3npU19eWW7PoB2Va7UinRu"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1627,34 +1627,34 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Used To Be Friends",
-        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
+        "name": "God Save The Dream",
+        "url": "https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Nicklas Sahl",
+          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
         }
       ],
-      "duration_ms": 335503,
-      "name": "Used To Be Friends",
-      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
+      "duration_ms": 222473,
+      "name": "Fine On Your Own",
+      "url": "https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2"
     },
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
         }
       ],
-      "duration_ms": 140130,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
+      "duration_ms": 174267,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe"
     }
   ],
   "unique_name": "Soft Morning",

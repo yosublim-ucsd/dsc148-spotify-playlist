@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Chuu & KIM YOHAN)",
-  "num_followers": 383545,
+  "num_followers": 383619,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTk4MSwwMDAwMDAwMDZiYmQ5ZjQ1YmM2MzJhYjg3ZTA4MDcwODU3NjlmNzg4",
+  "snapshot_id": "MTY3OTkwNTk4MSwwMDAwMDAwMDMzZjM3NTYyOWY2OWZlZTQ3MjljZWQ3MDk0MjI3MjJj",
   "tracks": [
     {
       "added_at": "2023-03-24 07:42:54",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-03-24 07:42:54",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-03-24 07:42:54",
-      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "added_at": "2023-03-24 07:42:54",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-03-24 07:42:54",
@@ -995,22 +995,22 @@
     {
       "added_at": "2023-03-24 07:42:54",
       "album": {
-        "name": "Flower Language",
-        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
       "artists": [
         {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         },
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "\ucd5c\ud604\uc11d",
+          "url": "https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Freesia",
-      "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
+      "duration_ms": 202683,
+      "name": "1, 2",
+      "url": "https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

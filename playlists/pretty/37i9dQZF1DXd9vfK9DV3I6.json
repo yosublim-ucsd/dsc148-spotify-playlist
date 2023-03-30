@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 238443,
+  "num_followers": 238670,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY4ODA0MCwwMDAwMDAwMDcyMWEyYjFiNDg0Mzg3NTJhZWUzZDJlNzIxOTI3ZWNm",
+  "snapshot_id": "MTY3OTY4ODA0MCwwMDAwMDAwMGMxZGNkNjA0N2Q3OGZkNjQ2YWZhM2Y3OTFlYzJhNWUz",
   "tracks": [
     {
       "added_at": "2023-03-16 17:46:18",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
     },
     {
+      "added_at": "2023-03-30 01:10:39",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
+    },
+    {
       "added_at": "2023-03-16 17:46:18",
       "album": {
         "name": "In Control (feat. Selin)",
@@ -243,22 +259,6 @@
       "duration_ms": 179232,
       "name": "In Control (feat. Selin)",
       "url": "https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv"
-    },
-    {
-      "added_at": "2023-03-29 05:45:59",
-      "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
-      },
-      "artists": [
-        {
-          "name": "Berat Oz",
-          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Schhh",
-        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 185689,
-      "name": "Schhh",
-      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 183000,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Schhh",
+        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 185689,
+      "name": "Schhh",
+      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Dle Yaman (116 Deep Mix)",
-        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
-      },
-      "artists": [
-        {
-          "name": "Hraach",
-          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
-        }
-      ],
-      "duration_ms": 438674,
-      "name": "Dle Yaman (116 Deep Mix)",
-      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Arabic Soul",
         "url": "https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 273031,
       "name": "Arabic Soul",
       "url": "https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Dle Yaman (116 Deep Mix)",
+        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
+      },
+      "artists": [
+        {
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
+        }
+      ],
+      "duration_ms": 438674,
+      "name": "Dle Yaman (116 Deep Mix)",
+      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Arabian Magic",
-        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Arabian Magic",
-      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Arabian Magic",
+        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Arabian Magic",
+      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Ksser Essouk",
-        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
-      },
-      "artists": [
-        {
-          "name": "Momo Ryuk",
-          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
-        },
-        {
-          "name": "Salah Hammadi",
-          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
-        }
-      ],
-      "duration_ms": 326557,
-      "name": "Ksser Essouk",
-      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Your Love (Anthony Keyrouz Remix)",
         "url": "https://open.spotify.com/album/3riktT549Qi3VPtvd7fsdo"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 410526,
       "name": "Euphrates",
       "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Ksser Essouk",
+        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
+      },
+      "artists": [
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+        }
+      ],
+      "duration_ms": 326557,
+      "name": "Ksser Essouk",
+      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
-        }
-      ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Che Danestam (Seventh Soul Remix)",
         "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 506666,
       "name": "Che Danestam - Seventh Soul Remix",
       "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 260000,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
-        "name": "Lane Moje",
-        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Lane Moje - Radio Edit",
-      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Isla Bonita",
-        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        },
-        {
-          "name": "MD DJ",
-          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Isla Bonita - Radio Edit",
-      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1927,22 +1907,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
       },
@@ -1959,6 +1923,42 @@
       "duration_ms": 244800,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Isla Bonita",
+        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        },
+        {
+          "name": "MD DJ",
+          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Isla Bonita - Radio Edit",
+      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     }
   ],
   "unique_name": "mosaic",

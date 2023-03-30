@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 16403,
+  "num_followers": 16426,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUxMzc3MCwwMDAwMDAwMGYwNmYyZWJhYjhjNjQ4MTE1YjNhMDUxYWFiOTAyNjI1",
+  "snapshot_id": "MTY3NDUxMzc3MCwwMDAwMDAwMDlkMzc5MTE3OTNjYTE2ZDg3MTBmY2RkMDZiZmFlZGQ1",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Mis 50 Favoritas",
-        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 133000,
       "name": "El Ahualulco",
       "url": "https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Mis 50 Favoritas",
+        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Mambos Boleros y Danzones",
-        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
-      },
-      "artists": [
-        {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
-        }
-      ],
-      "duration_ms": 247974,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 213573,
       "name": "El Trompo (Son Jarocho) [Veracruz]",
       "url": "https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Mambos Boleros y Danzones",
+        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "duration_ms": 247974,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN"
     },
     {
       "added_at": "2023-01-23 22:42:50",

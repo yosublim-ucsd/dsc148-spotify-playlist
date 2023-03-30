@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 200280,
       "name": "Yegua Sebruna",
       "url": "https://open.spotify.com/track/7gSZDWpZIdWvhuXHtFE1Xe"
@@ -1350,6 +1350,24 @@
       "duration_ms": 200281,
       "name": "Yegua Sebruna",
       "url": "https://open.spotify.com/track/0f5WtuRcdI32JjJOkZo9iG"
+    },
+    {
+      "album": {
+        "name": "Los Viejitos",
+        "url": "https://open.spotify.com/album/5FuC4XGFsNQZXUf84B3jGx"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200281,
+      "name": "Yegua Sebruna",
+      "url": "https://open.spotify.com/track/2TPR91U0kO62ZXei7JYSRD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaeJ0JA3OjZS"

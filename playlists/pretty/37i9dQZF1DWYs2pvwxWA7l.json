@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=tbesToRZQU6IEMeDY2DPzA\"> Nonso Amadi</a> ",
-  "num_followers": 435774,
+  "num_followers": 436131,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNDAyMywwMDAwMDAwMGU0NTQzYWFjZmM2MTAzZThmNGU2NjY4MWRiN2VkZTQ4",
+  "snapshot_id": "MTY3OTYxNDAyMywwMDAwMDAwMGZiZjg1Mzc3NmZlZTZhOWYyNGZmMjRkNzI0ODI2YjEy",
   "tracks": [
     {
       "added_at": "2023-03-10 09:29:38",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
-      "added_at": "2023-03-29 05:17:41",
+      "added_at": "2023-03-30 01:11:54",
       "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
     },
     {
-      "added_at": "2023-03-29 05:17:41",
+      "added_at": "2023-03-30 01:11:54",
       "album": {
         "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
         "url": "https://open.spotify.com/album/04fBNopmMepdbuk96REyzW"
@@ -405,23 +405,7 @@
       "url": "https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv"
     },
     {
-      "added_at": "2023-03-10 09:29:38",
-      "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
-    },
-    {
-      "added_at": "2023-03-29 05:17:41",
+      "added_at": "2023-03-30 01:11:54",
       "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-03-10 09:29:38",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 223073,
-      "name": "Carry Me",
-      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2023-03-10 09:29:38",
@@ -475,6 +459,22 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2023-03-10 09:29:38",
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 223073,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
     },
     {
       "added_at": "2023-03-10 09:29:38",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-03-10 09:29:38",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
+      "duration_ms": 176293,
+      "name": "Coming Back For You",
+      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
     },
     {
       "added_at": "2023-03-10 09:29:38",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-03-10 09:29:38",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 176293,
-      "name": "Coming Back For You",
-      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
+      "duration_ms": 175254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
     },
     {
       "added_at": "2023-03-10 09:29:38",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-03-10 09:29:38",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "added_at": "2023-03-10 09:29:38",
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -771,6 +787,42 @@
       "duration_ms": 197000,
       "name": "Kolomental",
       "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
+      "added_at": "2023-03-10 09:29:38",
+      "album": {
+        "name": "ROOM 96",
+        "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 236662,
+      "name": "Encorps",
+      "url": "https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1"
+    },
+    {
+      "added_at": "2023-03-10 09:29:38",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 186446,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
     },
     {
       "added_at": "2023-03-10 09:29:38",
@@ -799,74 +851,6 @@
     {
       "added_at": "2023-03-10 09:29:38",
       "album": {
-        "name": "ROOM 96",
-        "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 236662,
-      "name": "Encorps",
-      "url": "https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1"
-    },
-    {
-      "added_at": "2023-03-10 09:29:38",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183349,
-      "name": "All Of Us (Ashawo)",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
-    },
-    {
-      "added_at": "2023-03-10 09:29:38",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186446,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
-    },
-    {
-      "added_at": "2023-03-10 09:29:38",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2023-03-10 09:29:38",
-      "album": {
         "name": "Creed III: The Soundtrack",
         "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-03-10 09:29:38",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-03-10 09:29:38",
+      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2023-03-10 09:29:38",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2023-03-10 09:29:38",
@@ -927,22 +943,6 @@
       "duration_ms": 225450,
       "name": "WO WO (Remix)",
       "url": "https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX"
-    },
-    {
-      "added_at": "2023-03-10 09:29:38",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2023-03-10 09:29:38",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-03-10 09:29:38",
       "album": {
-        "name": "Galat\u00e9e",
-        "url": "https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 142281,
-      "name": "Non c'est non",
-      "url": "https://open.spotify.com/track/3DI9gxFAjWFznguYBaCLg5"
-    },
-    {
-      "added_at": "2023-03-10 09:29:38",
-      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "added_at": "2023-03-10 09:29:38",
+      "album": {
+        "name": "Galat\u00e9e",
+        "url": "https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 142281,
+      "name": "Non c'est non",
+      "url": "https://open.spotify.com/track/3DI9gxFAjWFznguYBaCLg5"
     },
     {
       "added_at": "2023-03-10 09:29:38",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 192606,
+  "num_followers": 192652,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MzE2OSwwMDAwMDAwMGUwZjU3YWE2ZTdmNGMwNDAyNTlhNDRmMzZjNDhkYWUy",
+  "snapshot_id": "MTY3Njk5MzE2OSwwMDAwMDAwMDFiZTA3NmIyMzliM2IzYzYxYjI2MTljMzU5MDRjNTky",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 121080,
       "name": "Grandma's Hands",
       "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Every Home Should Have One",
-        "url": "https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU"
-      },
-      "artists": [
-        {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Baby, Come To Me",
-      "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Lean on Me: The Best of Bill Withers",
         "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 255066,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Every Home Should Have One",
+        "url": "https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU"
+      },
+      "artists": [
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Baby, Come To Me",
+      "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Johnny Gill",
-        "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Gill",
-          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
-        }
-      ],
-      "duration_ms": 321906,
-      "name": "My, My, My",
-      "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Soul Organic (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 188573,
       "name": "Until You Come Back To Me - Acoustic Version",
       "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Johnny Gill",
+        "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gill",
+          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
+        }
+      ],
+      "duration_ms": 321906,
+      "name": "My, My, My",
+      "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Original Musiquarium",
         "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 337066,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Being With You",
-        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Being With You",
-      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 277400,
       "name": "Let's Wait Awhile",
       "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Being With You",
+        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Being With You",
+      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Jazzy Soul",
         "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 250266,
       "name": "Caught Up In the Rapture",
       "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Alone But Not Alone",
+        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
+      },
+      "artists": [
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Just Don't Wanna Know",
+      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Songs That Made Me Feel",
         "url": "https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 188440,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Alone But Not Alone",
-        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
-      },
-      "artists": [
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Just Don't Wanna Know",
-      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2037,7 +2037,7 @@
       "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
     },
     {
-      "added_at": "2023-03-29 05:37:04",
+      "added_at": "2023-03-30 01:12:12",
       "album": {
         "name": "Take Care",
         "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 360400,
-      "name": "It Don't Hurt Now",
-      "url": "https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 363333,
       "name": "Do It To Me",
       "url": "https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 360400,
+      "name": "It Don't Hurt Now",
+      "url": "https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2487,8 +2487,8 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Sparkle",
-        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
       "artists": [
         {
@@ -2496,9 +2496,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 381826,
-      "name": "Something He Can Feel",
-      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
+      "duration_ms": 177706,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
     },
     {
       "added_at": "2022-05-11 12:25:18",

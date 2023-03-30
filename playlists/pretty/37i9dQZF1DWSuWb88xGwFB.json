@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 25856,
+  "num_followers": 25860,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDhlYzJhZWYxYTU1NzMzMDJjNGYwMjA0YzYwMjY1Mzli",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDk3OWEzMTdmOWJiZGNkOWI4NDZjNDVmNGQ2MWNkN2Rj",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Jazz It Up",
-        "url": "https://open.spotify.com/album/7G78QRI6RD7qTREeJq81he"
-      },
-      "artists": [
-        {
-          "name": "The Erick Morillo Project",
-          "url": "https://open.spotify.com/artist/3MmjZB2xUVCKPMLbh1ABA7"
-        }
-      ],
-      "duration_ms": 310420,
-      "name": "Jazz It Up - Extended Jazz",
-      "url": "https://open.spotify.com/track/3MPFOSe3B4XUjZiWwXglUa"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "So Deep, So Good",
         "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 456240,
       "name": "So Deep, So Good - Ndako Gboya Mix",
       "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Jazz It Up",
+        "url": "https://open.spotify.com/album/7G78QRI6RD7qTREeJq81he"
+      },
+      "artists": [
+        {
+          "name": "The Erick Morillo Project",
+          "url": "https://open.spotify.com/artist/3MmjZB2xUVCKPMLbh1ABA7"
+        }
+      ],
+      "duration_ms": 310420,
+      "name": "Jazz It Up - Extended Jazz",
+      "url": "https://open.spotify.com/track/3MPFOSe3B4XUjZiWwXglUa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -844,22 +844,6 @@
       },
       "artists": [
         {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
-        }
-      ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
-      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
           "name": "Scram",
           "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
         }
@@ -871,18 +855,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
       "artists": [
         {
-          "name": "M&S",
-          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
         }
       ],
-      "duration_ms": 545040,
-      "name": "Justify - Vocal Mix",
-      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
+      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -899,6 +883,22 @@
       "duration_ms": 393200,
       "name": "Spark da Meth - Bangin Like a Benzi Mix",
       "url": "https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
+      },
+      "artists": [
+        {
+          "name": "M&S",
+          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
+        }
+      ],
+      "duration_ms": 545040,
+      "name": "Justify - Vocal Mix",
+      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "This Way / Boy",
         "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
         "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
@@ -1031,6 +1031,38 @@
       "duration_ms": 472984,
       "name": "Choices - Choices Vocal Mix",
       "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 440320,
+      "name": "Curious - Vocal Mix",
+      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Northern Lights (Mixes)",
+        "url": "https://open.spotify.com/album/1OH3So9taAUDVSzzTpwCZI"
+      },
+      "artists": [
+        {
+          "name": "Caucasian Boy",
+          "url": "https://open.spotify.com/artist/1MU5axJkJ5WOlfourdSDER"
+        }
+      ],
+      "duration_ms": 479413,
+      "name": "Northern Lights - The Prime Cutz Mix",
+      "url": "https://open.spotify.com/track/3oGL7qdd5bCUQNdFnbPm5J"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1071,38 +1103,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Northern Lights (Mixes)",
-        "url": "https://open.spotify.com/album/1OH3So9taAUDVSzzTpwCZI"
-      },
-      "artists": [
-        {
-          "name": "Caucasian Boy",
-          "url": "https://open.spotify.com/artist/1MU5axJkJ5WOlfourdSDER"
-        }
-      ],
-      "duration_ms": 479413,
-      "name": "Northern Lights - The Prime Cutz Mix",
-      "url": "https://open.spotify.com/track/3oGL7qdd5bCUQNdFnbPm5J"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 440320,
-      "name": "Curious - Vocal Mix",
-      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 337901,
       "name": "Just An Organ - Just An Organ Mix",
       "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        }
+      ],
+      "duration_ms": 427132,
+      "name": "Hey! - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
       },
       "artists": [
         {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
         }
       ],
-      "duration_ms": 427132,
-      "name": "Hey! - The Rhythm Hype Mix",
-      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
@@ -1215,6 +1215,26 @@
       "duration_ms": 227173,
       "name": "Just Us - B.O.P. Radio Joint",
       "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
+        }
+      ],
+      "duration_ms": 459080,
+      "name": "The Beat That Makes U Move - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1271,22 +1291,6 @@
       "duration_ms": 258906,
       "name": "Give It All To You - 92 Remix",
       "url": "https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
-        }
-      ],
-      "duration_ms": 334220,
-      "name": "We Can Make It - The 'I Believe' Dub",
-      "url": "https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

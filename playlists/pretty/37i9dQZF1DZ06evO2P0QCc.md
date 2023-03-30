@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,326 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,376 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 43 | [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 |
 | 44 | [Ruby Soho](https://open.spotify.com/track/0Dy729ORbIQqwozoVLw4KX) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 3:07 |
 | 45 | [Alma En Fuego](https://open.spotify.com/track/5Jk1TpnDH4MzaOg05NMiKO) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:07 |
-| 46 | [Realidad](https://open.spotify.com/track/6URADJcjFjOWdDTKcxlknR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:16 |
-| 47 | [Tan Grande](https://open.spotify.com/track/64KFKG9Wb7nY3PFNbTa0Wm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Tan Grande](https://open.spotify.com/album/3OMP46WlIEONRAwGym5Rcv) | 2:50 |
+| 46 | [Tan Grande](https://open.spotify.com/track/64KFKG9Wb7nY3PFNbTa0Wm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Tan Grande](https://open.spotify.com/album/3OMP46WlIEONRAwGym5Rcv) | 2:50 |
+| 47 | [Realidad](https://open.spotify.com/track/6URADJcjFjOWdDTKcxlknR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:16 |
 | 48 | [Qué Fue Lo Que Pasó](https://open.spotify.com/track/2h1ogFO6iO5ulR0gtbvYAC) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Bien Intenso](https://open.spotify.com/album/6UhtrUzlpNVrUXw5KA07fy) | 4:11 |
 | 49 | [Te Fuiste](https://open.spotify.com/track/4PPbyWTRR5L9KonF6jqwOs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 2:28 |
 | 50 | [Dolor en el Sur](https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:56 |
 
-Snapshot ID: `MjgwMDAyMzYsMDAwMDAwMDBmNTUxMDJhYmY3ZGZhM2I1NWUzZjgyZTJjZWRhMjk0NQ==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDA4YWQ1YjQ5OWQwNmQ1MmUxNDdlZjRhZWI0NzllYjkyYg==`

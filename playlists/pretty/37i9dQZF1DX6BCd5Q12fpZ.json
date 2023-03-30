@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 60491,
+  "num_followers": 60499,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDdjZDM2N2IwZDJhYzFlYmJlZTdmODRmYTFlOTViYWM5",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDYwNTViZGZhY2E2NWEwYzEwN2RmNzhjMTk4MGMyNzUy",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5"
+      },
+      "artists": [
+        {
+          "name": "Mikolas Josef",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Only Teardrops",
         "url": "https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Lie to Me",
-        "url": "https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5"
+        "name": "110 Karat",
+        "url": "https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7"
       },
       "artists": [
         {
-          "name": "Mikolas Josef",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 171080,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz"
+      "duration_ms": 180816,
+      "name": "She Got Me - Bonus Track",
+      "url": "https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -399,22 +415,6 @@
       "duration_ms": 180030,
       "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
       "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "110 Karat",
-        "url": "https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "She Got Me - Bonus Track",
-      "url": "https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429"
+      },
+      "artists": [
+        {
+          "name": "Saara Aalto",
+          "url": "https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn"
+        }
+      ],
+      "duration_ms": 180586,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "La voix du nord",
         "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429"
-      },
-      "artists": [
-        {
-          "name": "Saara Aalto",
-          "url": "https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn"
-        }
-      ],
-      "duration_ms": 180586,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
     },
     {
       "added_at": "2022-05-16 13:21:08",

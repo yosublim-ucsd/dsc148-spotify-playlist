@@ -1,12 +1,12 @@
 {
   "description": "Nakakakilig!",
-  "num_followers": 807243,
+  "num_followers": 807317,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA0MDQ5MiwwMDAwMDAwMGE5MDdmZmY3NDJiNDEyMzBjYTAyYzY1Y2ExNjY2ZTY4",
+  "snapshot_id": "MTY3NzA0MDQ5MiwwMDAwMDAwMGZlYTRjMjI3ZjAzZWQ1MDkxYjE3ODFlNzk0OTVlNmRj",
   "tracks": [
     {
       "added_at": "2022-11-24 02:26:08",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-11-24 02:26:08",
       "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "added_at": "2022-11-24 02:26:08",
-      "album": {
         "name": "Love Story (Taylor\u2019s Version)",
         "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 235766,
       "name": "Love Story (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
+    },
+    {
+      "added_at": "2022-11-24 02:26:08",
+      "album": {
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
     },
     {
       "added_at": "2022-11-24 02:26:08",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-11-24 02:26:08",
       "album": {
-        "name": "Yakap",
-        "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "Yakap",
-      "url": "https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG"
-    },
-    {
-      "added_at": "2022-11-24 02:26:08",
-      "album": {
         "name": "I Quit Drinking",
         "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "added_at": "2022-11-24 02:26:08",
+      "album": {
+        "name": "Yakap",
+        "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 178947,
+      "name": "Yakap",
+      "url": "https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG"
     },
     {
       "added_at": "2022-11-24 02:26:08",

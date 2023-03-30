@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 570862,
+  "num_followers": 571044,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5MDU0NSwwMDAwMDAwMGViZjhlMzk5NDk4MTgwNTJjYzg2ZjUwMjNiMmQ1NDgy",
+  "snapshot_id": "MTY3NjY5MDU0NSwwMDAwMDAwMDkyNWMzOWI2MWM1YTU3YWZiZWM2OThhMWNiNGViNTY5",
   "tracks": [
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Never Lose Sight (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 219720,
       "name": "Home",
       "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "The Beginning & Everything After",
-        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "I Will Fear No More",
-      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 199531,
       "name": "Reason",
       "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "I Will Fear No More",
+      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Mercy Is A Song",
-      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "God Is Good",
         "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 197800,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Mercy Is A Song",
+      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Same God",
-        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Same God",
-      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Something Different (Deluxe Version)",
         "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 255160,
       "name": "Come To the Table",
       "url": "https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Same God",
+        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Same God",
+      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 226300,
-      "name": "He Is",
-      "url": "https://open.spotify.com/track/1INYG1Ln9PE0F1QHTjMzzO"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Haven't Seen It Yet",
         "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
       },
@@ -1531,6 +1515,26 @@
       "duration_ms": 235760,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "I Know A Ghost",
+        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 209840,
+      "name": "Let It Rain (Is There Anybody)",
+      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1591,26 +1595,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "I Know A Ghost",
-        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 209840,
-      "name": "Let It Rain (Is There Anybody)",
-      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 226300,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/1INYG1Ln9PE0F1QHTjMzzO"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
       "artists": [
         {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 260613,
-      "name": "You Love Me Anyway",
-      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
+      "duration_ms": 253653,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
     }
   ],
   "unique_name": "Christian Mix",

@@ -930,7 +930,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 197000,
       "name": "Black Venom",
       "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
@@ -4654,6 +4654,24 @@
       "duration_ms": 301033,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/4siB4DG9qAUrACMcIJOhGF"
+    },
+    {
+      "album": {
+        "name": "Load Your Cannons",
+        "url": "https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j"
+      },
+      "artists": [
+        {
+          "name": "Saint Deamon",
+          "url": "https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Load Your Cannons",
+      "url": "https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ"
     },
     {
       "album": {

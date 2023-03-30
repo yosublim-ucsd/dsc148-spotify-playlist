@@ -1,12 +1,12 @@
 {
   "description": "Latin music bangers for your gaming session! Cover: Banda MS",
-  "num_followers": 134177,
+  "num_followers": 134212,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NTgyMSwwMDAwMDAwMGNlZmEwNzE1N2Y4NmFlZmZiYmE5OWE4NWY4NjAwMjM3",
+  "snapshot_id": "MTY3MzI0NTgyMSwwMDAwMDAwMDY4ZTQyMDRkNjU5ZTQwODcwY2VmMGQwYmZjMTY0YjA1",
   "tracks": [
     {
       "added_at": "2023-01-09 06:30:21",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
+        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 240413,
       "name": "Pantysito",
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
-        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 164895,
       "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
       "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Primer Dia de Clases",
-        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "512",
-      "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 152960,
       "name": "Kemba Walker",
       "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "512",
+      "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+        "url": "https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 208894,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj"
+      "duration_ms": 177442,
+      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+      "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-        "url": "https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7"
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         },
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 177442,
-      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-      "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
+      "duration_ms": 208894,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Se Menea",
-        "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "Ponle",
         "url": "https://open.spotify.com/album/55Wnt6L8wZHQKQLC6qQe8k"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 164764,
       "name": "Ponle",
       "url": "https://open.spotify.com/track/28O1p0bQXH2F6Qn8jBZZR4"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "Se Menea",
+        "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 190880,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Los Bandoleros",
-        "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "Bandoleros",
-      "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "WACHA",
         "url": "https://open.spotify.com/album/6DHfMP3XhSQYlxs5a9l7s4"
       },
@@ -2383,6 +2363,26 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "Los Bandoleros",
+        "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "Bandoleros",
+      "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -2483,6 +2483,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
         "name": "Sal y Perrea (Remix)",
         "url": "https://open.spotify.com/album/6HemabiQkjzBGrAIr8ynE4"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 226500,
       "name": "Sal y Perrea - Remix",
       "url": "https://open.spotify.com/track/1mG8VynhqySA52bALfYrvO"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -2767,22 +2767,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "SEN2 KBRN VOL. 1",
-        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Problema",
-      "url": "https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "Emojis de Corazones (feat. Los Legendarios)",
         "url": "https://open.spotify.com/album/6hdSXoNAfGg4cRUzM94EBR"
       },
@@ -2807,6 +2791,22 @@
       "duration_ms": 303426,
       "name": "Emojis de Corazones (feat. Los Legendarios)",
       "url": "https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "SEN2 KBRN VOL. 1",
+        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2"
     },
     {
       "added_at": "2023-01-09 06:30:21",

@@ -8941,6 +8941,32 @@
     },
     {
       "album": {
+        "name": "Dumb It Down",
+        "url": "https://open.spotify.com/album/67DYdOx2cC00Muj1Im02nD"
+      },
+      "artists": [
+        {
+          "name": "HANDSOME",
+          "url": "https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf"
+        },
+        {
+          "name": "Chloe Dadd",
+          "url": "https://open.spotify.com/artist/7uXyXCNAbNu5X6BdPFBWrj"
+        },
+        {
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193951,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/5oDn7RyclCYRKLw2dgFb96"
+    },
+    {
+      "album": {
         "name": "Eagle Eyes",
         "url": "https://open.spotify.com/album/0rpb7vFqQ8IvgRXK59GTKD"
       },

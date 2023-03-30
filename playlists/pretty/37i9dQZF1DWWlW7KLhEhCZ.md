@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Jovem MK
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,244 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,281 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 19 | [Money & Merla](https://open.spotify.com/track/1YVj5xJYhpGunwCW23XMl7) | [Babymath](https://open.spotify.com/artist/0APocX0Lou1PmMUUWSvFMB), [Nvnes](https://open.spotify.com/artist/2jRwHm19qtYn38Ta8SNywB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [KnRocky](https://open.spotify.com/artist/3XWotdXFXhKVJ50qmUZeGL) | [Money & Merla](https://open.spotify.com/album/5n1tmYw1WX5BVGhdujnNFV) | 2:23 |
 | 20 | [Rádio na cintura](https://open.spotify.com/track/4mlRy1Ue0URPAy4YFUf1dQ) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE), [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Daglock](https://open.spotify.com/artist/2TT4k2adsB8olRb4vbTHBK), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm) | [Rádio na cintura](https://open.spotify.com/album/3WvGvvdU7jJRRERZNv4akx) | 2:40 |
 | 21 | [BALA](https://open.spotify.com/track/4x7S3R2QKKryow6RQy4Nso) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD), [Prado](https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq) | [BALA](https://open.spotify.com/album/0XIMI0yBzFwlejQddxeu0Y) | 2:30 |
-| 22 | [My Bitch](https://open.spotify.com/track/6xyssWnWuRPVbsEQgi2Pme) | [Little R](https://open.spotify.com/artist/12gFU2TuTDyy2bY65FVzPP), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81) | [My Bitch](https://open.spotify.com/album/6kwZJwpJXOz1CXaIZ7RhOR) | 2:15 |
+| 22 | [My Bitch](https://open.spotify.com/track/6xyssWnWuRPVbsEQgi2Pme) | [Little R](https://open.spotify.com/artist/12gFU2TuTDyy2bY65FVzPP), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81) | [My Bitch](https://open.spotify.com/album/6kwZJwpJXOz1CXaIZ7RhOR) | 2:18 |
 | 23 | [Tropa do Mantém](https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Tropa do Mantém](https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ) | 2:44 |
 | 24 | [LET'S GET IT](https://open.spotify.com/track/5KllQEYNihnq2sLAe50t4J) | [Murillo Zenki](https://open.spotify.com/artist/4sn4agFKcZRLswKocRvpI3), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp) | [LET'S GET IT](https://open.spotify.com/album/4T2A3wRHH9T57YNKsAlMnE) | 2:38 |
 | 25 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 |

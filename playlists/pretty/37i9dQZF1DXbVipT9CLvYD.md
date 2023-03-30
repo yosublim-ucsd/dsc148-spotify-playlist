@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,918 likes - 57 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,013 likes - 57 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

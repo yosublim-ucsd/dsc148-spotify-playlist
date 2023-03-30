@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,506 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,530 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 43 | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Hayley Trinca](https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH) | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0) | 3:03 |
 | 44 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 |
 | 45 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 |
-| 46 | [Feelings](https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Feelings](https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue) | 3:00 |
+| 46 | [Changes \- Timmy Trumpet Remix](https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Changes \(Timmy Trumpet Remix\)](https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J) | 2:26 |
 | 47 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
-| 48 | [Changes \- Timmy Trumpet Remix](https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Changes \(Timmy Trumpet Remix\)](https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J) | 2:26 |
+| 48 | [Feelings](https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Feelings](https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue) | 3:00 |
 | 49 | [Strangers \(with Mansionair\)](https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\)](https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ) | 3:37 |
 | 50 | [\(still\) WON'T4GETU](https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [\(still\) WON'T4GETU](https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54) | 6:14 |
 | 51 | [Counting Sheep \(V2\) \[2018 Export Wav\] feat\. Injury Reserve](https://open.spotify.com/track/28C8KsOvTwTSrsAN9rcm96) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 2:26 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 56 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 57 | [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 |
 | 58 | [Always Got The Love](https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Always Got The Love](https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1) | 3:27 |
-| 59 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
-| 60 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 |
+| 59 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 |
+| 60 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
 
-Snapshot ID: `MTY3OTIzMzUzNiwwMDAwMDAwMDRkNDM3ZmE5YmZiN2JjNDZmZmMyNWFhMjkzM2QxMTZj`
+Snapshot ID: `MTY3OTIzMzUzNiwwMDAwMDAwMGE3NDRkNWQ4NmM5MWZlMDk2ODBmMmIyMjY4NmViZTZj`

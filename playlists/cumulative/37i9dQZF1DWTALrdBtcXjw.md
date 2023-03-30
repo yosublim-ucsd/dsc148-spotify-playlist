@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-252 songs - 22 hr 37 min
+253 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Letter to Evan](https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Letter to Evan](https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM) | 4:30 | 2022-02-18 |  |
 | [Little Big Steps \(feat\. Paolo Fresu\)](https://open.spotify.com/track/09qRAoiYfu019U0wVkYCAg) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Giulia](https://open.spotify.com/album/23eKeozrh6qUzPnUpBwGjg) | 6:19 | 2022-02-18 | 2022-08-31 |
 | [Little Boat](https://open.spotify.com/track/4noc1JvLn446v2kBacnEoe) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [In Love Again](https://open.spotify.com/album/3GMcmek84lzwZvDsN1PHca) | 2:35 | 2022-11-12 | 2022-12-24 |
-| [London Blues](https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Introducing Brad Mehldau](https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1) | 7:02 | 2020-03-31 |  |
+| [London Blues](https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Introducing Brad Mehldau](https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1) | 7:02 | 2020-03-31 | 2023-03-30 |
 | [Loneliness](https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 7:04 | 2022-07-28 |  |
 | [Long Ago \(and Far Away\)](https://open.spotify.com/track/3TiEf1n50RsKFERybqGm2s) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:29 | 2022-11-12 | 2023-02-10 |
 | [Love For Sale](https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Love For Sale](https://open.spotify.com/album/4qsdh6qILDPYgRXxo5ZRqO) | 3:52 | 2022-11-12 | 2023-01-03 |
@@ -192,6 +192,7 @@
 | [Red Sails in the Sunset](https://open.spotify.com/track/38AeuMJBRBWSlbmuC03EhJ) | [Half Time Feel](https://open.spotify.com/artist/0tuSphyaStgT5UvOxReZLV) | [Red Sails in the Sunset](https://open.spotify.com/album/4fzCadgnY1EYsXAeJJGYMW) | 4:27 | 2022-11-12 |  |
 | [Relaxin' with Nick](https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Relaxin' with Nick](https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6) | 7:39 | 2022-09-16 |  |
 | [Remember \- Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2020-03-31 | 2022-05-04 |
+| [Rest and Be Thankful](https://open.spotify.com/track/2yUk5hBWGU9beINGlx5Pk1) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [Rest and Be Thankful](https://open.spotify.com/album/4DRkAoGZfJJGK5P3pCZx51) | 6:42 | 2023-03-23 |  |
 | [Runmarö](https://open.spotify.com/track/2wcHksp6K21BdxTk5tk6UZ) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Runmarö](https://open.spotify.com/album/7ChRBtXYq64ImcF2wFtZ7i) | 5:41 | 2022-02-24 |  |
 | [Sandu](https://open.spotify.com/track/6OYVeWlKICv4I70RM1yHUC) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/2BpAy5GfHM0An9M0TOprBq) | 4:57 | 2020-03-31 | 2022-04-28 |
 | [Seeds Of Change](https://open.spotify.com/track/0ezRjBMuxG1PcW0FEVgaWS) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Trio Tapestry](https://open.spotify.com/album/5frkvwu4yxiU1d024x89KW) | 5:13 | 2020-03-31 | 2022-11-12 |

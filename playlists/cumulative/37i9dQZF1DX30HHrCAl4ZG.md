@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring Slow Pulp.
 
-886 songs - 2 day 0 hr 11 min
+887 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,7 +666,8 @@
 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 | 2023-03-24 |  |
 | [Saltshack's Signature](https://open.spotify.com/track/2P9WsORxb3ZQ3JCTyaJL3L) | [Alfariizi](https://open.spotify.com/artist/3wwrcxReRFc2KndpFRWWKi) | [Brutalisme di Bandung Barat](https://open.spotify.com/album/7JNbE5gU83t1xYBdebvc8T) | 2:40 | 2021-06-07 | 2022-04-15 |
 | [Sandwich Sharer](https://open.spotify.com/track/30hqJNoQo0WAil9uFb2eDH) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Sandwich Sharer](https://open.spotify.com/album/50XtyRZnGGEgcSclzVzVL4) | 3:54 | 2022-02-11 | 2022-05-26 |
-| [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 | 2023-02-24 |  |
+| [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 | 2023-02-24 | 2023-03-30 |
+| [saturday](https://open.spotify.com/track/54iqx8FozDfH95XVTOwRZn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 2:11 | 2023-03-03 |  |
 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 | 2022-07-01 | 2022-11-08 |
 | [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 | 2022-06-25 | 2022-11-19 |
 | [Seize The Day \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4ByvgSH9KPxMQqqXFR9797) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 3:29 | 2021-06-07 | 2022-04-19 |

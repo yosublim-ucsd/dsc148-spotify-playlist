@@ -4,13 +4,14 @@
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-63 songs - 5 hr 21 min
+64 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Prueba De Fuego](https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:42 | 2022-09-08 |  |
 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 | 2022-09-08 |  |
 | [Ana Milé](https://open.spotify.com/track/2krik8Sc5sddD3yb3qkBkr) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Pura](https://open.spotify.com/album/1MZBhouOFfLyS0oTo7jdEu) | 5:38 | 2022-09-08 |  |
+| [Atrateño \- Versión Sinfónica](https://open.spotify.com/track/3xwt3eOUASkgdHapmAN0uO) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Niche Sinfónico](https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w) | 5:59 | 2023-03-29 |  |
 | [Buenaventura y Caney](https://open.spotify.com/track/0LJKDAqnM2Evn6HclhDWaG) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:09 | 2022-09-08 | 2023-01-23 |
 | [Buenaventura y Caney](https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:09 | 2023-01-22 |  |
 | [Busca Por Dentro](https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:54 | 2022-09-08 |  |
@@ -64,7 +65,7 @@
 | [Solo un Cariño](https://open.spotify.com/track/45pBvCV1eaj4Pcw7Pi5plW) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:56 | 2022-09-08 | 2023-02-03 |
 | [Soltero](https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Soltero](https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685) | 4:20 | 2022-09-08 |  |
 | [Te Amo, Te Extraño](https://open.spotify.com/track/67BqqOrOgEGitc1HmuQeNl) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [25 Años, 25 Éxitos, 25 Artistas, Vol\. 1](https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ) | 5:44 | 2022-11-27 | 2022-11-29 |
-| [Te Amo, Te Extraño](https://open.spotify.com/track/6Td1PkXKrmmKRgcMG0GuC1) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 5:44 | 2022-12-15 |  |
+| [Te Amo, Te Extraño](https://open.spotify.com/track/6Td1PkXKrmmKRgcMG0GuC1) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 5:44 | 2022-12-15 | 2023-03-30 |
 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 4:10 | 2022-09-08 | 2022-10-09 |
 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4) | 4:47 | 2022-10-09 |  |
 | [Un Alto en el Camino](https://open.spotify.com/track/5F9fsLJOvnMEAgFNBuO4xu) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:48 | 2022-09-08 |  |

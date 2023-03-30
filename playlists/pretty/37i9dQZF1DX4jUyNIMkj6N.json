@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 177154,
+  "num_followers": 177235,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDAyYmU5NWQzMWZlNDIyNmNhYWMwYjBkY2RkNzVkNmZi",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGQxOWJlODU4ODE2ZDBmMmNhYTgxYjY0ZWM4YzE5M2Mw",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "The Ghost in Your Smile",
-        "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
-      },
-      "artists": [
-        {
-          "name": "Jarle Skavhellen",
-          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "The Ghost in Your Smile",
-      "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 197192,
       "name": "Morgan, I Might",
       "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "The Ghost in Your Smile",
+        "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
+      },
+      "artists": [
+        {
+          "name": "Jarle Skavhellen",
+          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "The Ghost in Your Smile",
+      "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "The Last Great Country Swindle",
-        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
-      },
-      "artists": [
-        {
-          "name": "Bendik Br\u00e6nne",
-          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
-        },
-        {
-          "name": "Daniel Romano",
-          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Ain't Nobody Like Me",
-      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 224179,
       "name": "October",
       "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "The Last Great Country Swindle",
+        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
+      },
+      "artists": [
+        {
+          "name": "Bendik Br\u00e6nne",
+          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
+        },
+        {
+          "name": "Daniel Romano",
+          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Ain't Nobody Like Me",
+      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -891,18 +891,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Poetry & Airplanes",
-        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
+        "name": "Be Here Soon",
+        "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
       },
       "artists": [
         {
-          "name": "Teitur",
-          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
+          "name": "iamamiwhoami",
+          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
+        },
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
         }
       ],
-      "duration_ms": 211426,
-      "name": "I Was Just Thinking",
-      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+      "duration_ms": 216328,
+      "name": "Zeven",
+      "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -923,22 +927,18 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Be Here Soon",
-        "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
+        "name": "Poetry & Airplanes",
+        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
       },
       "artists": [
         {
-          "name": "iamamiwhoami",
-          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
-        },
-        {
-          "name": "ionnalee",
-          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+          "name": "Teitur",
+          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
         }
       ],
-      "duration_ms": 216328,
-      "name": "Zeven",
-      "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"
+      "duration_ms": 211426,
+      "name": "I Was Just Thinking",
+      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
     },
     {
       "added_at": "2023-02-16 23:01:00",

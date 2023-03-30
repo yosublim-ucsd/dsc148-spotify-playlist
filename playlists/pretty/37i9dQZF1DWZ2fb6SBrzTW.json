@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 11224,
+  "num_followers": 11258,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NTg2MywwMDAwMDAwMDI2OGE5M2ZkOGE2YTIxYTk4MDgzMjUzZTE2NDE4NDA2",
+  "snapshot_id": "MTY3OTY3NTg2MywwMDAwMDAwMGNmYjg3OWE1N2ZlMDE4OTkyMjFmNzY2MjMwMDA2OTNj",
   "tracks": [
     {
       "added_at": "2023-03-17 08:11:31",
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
     },
     {
-      "added_at": "2023-03-29 05:20:57",
+      "added_at": "2023-03-30 00:42:02",
       "album": {
         "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
+        "name": "Ara (Gen Gen Tin)",
+        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Ara (Gen Gen Tin)",
+      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -567,22 +583,6 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Ara (Gen Gen Tin)",
-        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Ara (Gen Gen Tin)",
-      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
         "name": "Bad To Me",
         "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
         "name": "The Second Wave Deluxe",
         "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 173617,
       "name": "WeWe",
       "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Sungba (Remix) [feat. Burna Boy]",
-        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -799,6 +779,46 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
+        "name": "Continental Playlist",
+        "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 163653,
+      "name": "Tight Condition",
+      "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
-        "name": "Continental Playlist",
-        "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 163653,
-      "name": "Tight Condition",
-      "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -1065,6 +1065,26 @@
       "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
     },
     {
+      "added_at": "2023-03-30 00:42:02",
+      "album": {
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
       "added_at": "2023-03-17 08:11:31",
       "album": {
         "name": "La Maluka",
@@ -1083,22 +1103,6 @@
       "duration_ms": 274285,
       "name": "La Maluka",
       "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 190791,
-      "name": "Sungba",
-      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -1129,24 +1133,20 @@
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
-      "added_at": "2023-03-29 05:20:57",
+      "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+        "name": "Ololade Asake",
+        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+      "duration_ms": 190791,
+      "name": "Sungba",
+      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
       "added_at": "2023-03-17 08:11:31",

@@ -4,7 +4,7 @@
 
 > This is the PROOF of BTS history\. Check out <a href="https://open.spotify.com/playlist/37i9dQZF1DXaR2kf8OYllT">BTS Yet To Come in Busan LIVE SET</a> as well\. ARMY is unbeatable💜
 
-449 songs - 1 day 2 hr 57 min
+452 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Like](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) | 3:51 | 2022-06-10 | 2022-06-18 |
 | [Like](https://open.spotify.com/track/55Ctj6nVfobn9AcPe6sLG2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 3:51 | 2022-05-27 |  |
 | [Like \- Slow Jam Remix](https://open.spotify.com/track/5OXUwFDCnmT3eUWUYVRrk9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair \(Special Addition\)](https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347) | 3:52 | 2022-05-27 |  |
+| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-29 |  |
 | [Look Here](https://open.spotify.com/track/0x4cMbCLC6L7aJQs3EiPaZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 3:38 | 2022-05-27 |  |
 | [Lost](https://open.spotify.com/track/2So2zLatKtnIP0cy3a4Fn0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:01 | 2022-05-27 | 2023-02-03 |
 | [Lost](https://open.spotify.com/track/6aDhj6RxOvQ4GFo9U7lZYi) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:01 | 2022-05-27 |  |
@@ -377,6 +378,7 @@
 | [seoul \(prod\. HONNE\)](https://open.spotify.com/track/73ipE4lfZ53pvBbJPXkiEK) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/0XqAZHNx0xJDObehTI2587) | 4:35 | 2022-06-10 | 2022-06-18 |
 | [Serendipity \(Full Length Edition\)](https://open.spotify.com/track/5cQB9fbuQCz4muQUFkv3rR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 4:36 | 2022-06-10 | 2022-06-18 |
 | [Serendipity \- Full Length Edition](https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:36 | 2022-05-27 |  |
+| [Set Me Free Pt.2](https://open.spotify.com/track/1fpj1CJPxY3YvN3AMAEYvt) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:20 | 2023-03-29 |  |
 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-26 |  |
 | [Silver Spoon](https://open.spotify.com/track/6O734u9qnz6B4gWMyszWhi) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 3:53 | 2022-05-27 | 2023-02-03 |
 | [Silver Spoon](https://open.spotify.com/track/2VgPA0WnwvE2nbltxa3BHz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:53 | 2022-06-10 | 2022-06-18 |
@@ -408,6 +410,7 @@
 | [Stigma](https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:36 | 2022-05-27 | 2023-02-03 |
 | [Stigma](https://open.spotify.com/track/5grRCOfgYUpsGHsDHl4K1Y) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:36 | 2022-05-27 |  |
 | [Stigma](https://open.spotify.com/track/626lrZfNIlthgrUfjvRYrh) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) | 3:36 | 2022-06-10 | 2022-06-18 |
+| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:55 | 2023-03-29 |  |
 | [Strange](https://open.spotify.com/track/4KjASaPtCvRJ4YArYpz6je) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [D\-2](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) | 3:16 | 2022-06-10 | 2022-06-18 |
 | [Strange \(feat\. RM\)](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:16 | 2022-06-23 |  |
 | [SUGA's Interlude](https://open.spotify.com/track/1ZoQVu9XBssJBdeKMgF2eV) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:18 | 2022-06-23 | 2023-02-03 |

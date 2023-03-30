@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 210714,
+  "num_followers": 210741,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDMzZjRhOWM1ZmJiYWUxZTZkNDNmYWYwNDZmNTdjYzM5",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDg5MDQxOTYxYmI2YWMyZTgxOWY3MmM3ZDVlZTQ3NTA4",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Sax Pack",
-        "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
-      },
-      "artists": [
-        {
-          "name": "The Sax Pack",
-          "url": "https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "The Sax Pack",
-      "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Soul To Souls",
         "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 333880,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Sax Pack",
+        "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
+      },
+      "artists": [
+        {
+          "name": "The Sax Pack",
+          "url": "https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "The Sax Pack",
+      "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Manhattan Nights",
-        "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
-      },
-      "artists": [
-        {
-          "name": "Jaared",
-          "url": "https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Just Funkin' Around",
         "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 289586,
       "name": "Right Back Atcha",
       "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Manhattan Nights",
+        "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
+      },
+      "artists": [
+        {
+          "name": "Jaared",
+          "url": "https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -835,26 +835,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev"
-      },
-      "artists": [
-        {
-          "name": "The Rippingtons",
-          "url": "https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Wild Tales (feat. Russ Freeman)",
-      "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "And Coffee",
         "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 212325,
       "name": "Espresso Shot",
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev"
+      },
+      "artists": [
+        {
+          "name": "The Rippingtons",
+          "url": "https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Wild Tales (feat. Russ Freeman)",
+      "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lamb",
-          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Limitless - Radio Edit",
-      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 243146,
       "name": "Cachaca",
       "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lamb",
+          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Limitless - Radio Edit",
+      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "James Vargas",
         "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
       },
       "artists": [
         {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         }
       ],
-      "duration_ms": 258275,
-      "name": "Issa Party",
-      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
+      "duration_ms": 253426,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1087,6 +1071,22 @@
       "duration_ms": 296475,
       "name": "Got To Be Real",
       "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 258275,
+      "name": "Issa Party",
+      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 227077,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Eye Of The Storm",
@@ -1155,22 +1171,6 @@
       "duration_ms": 256652,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Say What",
-        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 227077,
-      "name": "Say What",
-      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1257,38 +1257,6 @@
       "url": "https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
-      },
-      "artists": [
-        {
-          "name": "Neamen Lyles",
-          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "As the Days Go by...",
@@ -1303,6 +1271,22 @@
       "duration_ms": 309827,
       "name": "As the Days Go by...",
       "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1347,6 +1331,22 @@
       "duration_ms": 238887,
       "name": "Summer Feelin'",
       "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
+      },
+      "artists": [
+        {
+          "name": "Neamen Lyles",
+          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Breakin' Thru",
+        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Breakin' Thru",
+      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Play",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
-      },
-      "artists": [
-        {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
-        }
-      ],
-      "duration_ms": 292320,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Chocolate Vibez",
         "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Breakin' Thru",
-        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
       },
       "artists": [
         {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
         }
       ],
-      "duration_ms": 270968,
-      "name": "Breakin' Thru",
-      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
+      "duration_ms": 292320,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "City Life",
-        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        }
-      ],
-      "duration_ms": 294346,
-      "name": "City Life",
-      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Main Street Beat",
         "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 243986,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "duration_ms": 294346,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Prime Time",
-        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Prime Time",
-      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Slam Dunk",
         "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 280106,
       "name": "Slam Dunk",
       "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Prime Time",
+        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Prime Time",
+      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
     },
     {
       "added_at": "2021-07-12 18:09:21",

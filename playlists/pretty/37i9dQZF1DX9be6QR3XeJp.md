@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Kaleem Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,160 likes - 142 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,153 likes - 142 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 72 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 |
 | 73 | [Sun](https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:06 |
 | 74 | [L.S.O.M](https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 3:08 |
-| 75 | [I Like Me](https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 2:30 |
+| 75 | [I Like Me](https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 2:30 |
 | 76 | [You Got](https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [You Got](https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r) | 3:26 |
 | 77 | [Sex N' Drugs](https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:44 |
 | 78 | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/track/5mEW1mq6KKEOO5rgHrepif) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/album/5kYQxc0ICdvP7ZS9OfR0i6) | 4:57 |

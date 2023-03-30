@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1542115,
+  "num_followers": 1542189,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGZlNGI5NzNlMmYwZDA1NDg2MDlhZjliYjI1N2JmZDU4",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDUyNGRiNWIxODlkNDg5MDE4YzZjZjFlZWJhZDBmNjBi",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 177152,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 177152,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Tomorrow EP",
-        "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
-      },
-      "artists": [
-        {
-          "name": "Jack Curley",
-          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 201086,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Tomorrow EP",
+        "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
+      },
+      "artists": [
+        {
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Just You and I",
-        "url": "https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 174982,
-      "name": "Just You and I",
-      "url": "https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "L\u00c9ON",
         "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 225868,
       "name": "Come Home To Me",
       "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Just You and I",
+        "url": "https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 174982,
+      "name": "Just You and I",
+      "url": "https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 204309,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/2jJlynVhghoeXJXjfbEXyg"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 235810,
       "name": "Missing You (with Ashe)",
       "url": "https://open.spotify.com/track/7xtsuU7WlDNmTzUQ32oQ7r"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 204309,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
     },
     {
       "added_at": "2023-03-17 04:00:00",

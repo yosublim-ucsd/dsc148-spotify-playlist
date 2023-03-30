@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Chris Wendell",
-  "num_followers": 695691,
+  "num_followers": 695673,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDE4MiwwMDAwMDAwMDk5MDUwNzkxM2FiZDMyMzAzZGExMDJjYmM0ZjViZWIx",
+  "snapshot_id": "MTY3OTA0MDE4MiwwMDAwMDAwMDQxMTNhMzRlNmI4ZmQ2ODYzYWZiZDdiZDgyZGY0ZTMz",
   "tracks": [
     {
       "added_at": "2023-03-17 08:03:02",
@@ -1135,22 +1135,30 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "NINF\u00d3MANA",
-        "url": "https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U"
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB"
       },
       "artists": [
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Symon Dice",
+          "url": "https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v"
         },
         {
-          "name": "Dalyan",
-          "url": "https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN"
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Thyago",
+          "url": "https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy"
         }
       ],
-      "duration_ms": 220869,
-      "name": "NINF\u00d3MANA",
-      "url": "https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by"
+      "duration_ms": 204827,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -1179,30 +1187,22 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB"
+        "name": "NINF\u00d3MANA",
+        "url": "https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U"
       },
       "artists": [
         {
-          "name": "Symon Dice",
-          "url": "https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         },
         {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Thyago",
-          "url": "https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy"
+          "name": "Dalyan",
+          "url": "https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN"
         }
       ],
-      "duration_ms": 204827,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq"
+      "duration_ms": 220869,
+      "name": "NINF\u00d3MANA",
+      "url": "https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by"
     },
     {
       "added_at": "2023-03-17 08:03:02",

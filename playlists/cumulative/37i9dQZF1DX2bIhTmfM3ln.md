@@ -4,7 +4,7 @@
 
 > West African love stories wrapped up in song
 
-226 songs - 11 hr 18 min
+227 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chop & Slide](https://open.spotify.com/track/1rWxa2PtZT1S1mr6Jxm86B) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:48 | 2022-05-05 | 2022-08-26 |
 | [Clueless \(with Oxlade\)](https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Clueless \(with Oxlade\)](https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54) | 2:44 | 2023-02-16 |  |
 | [Cocoro](https://open.spotify.com/track/6kjNnf3xoreZJHvZ1oSARR) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:49 | 2023-02-16 | 2023-02-24 |
+| [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-24 |  |
 | [Combo](https://open.spotify.com/track/4ZxIvn68usPSQi8qGUmiey) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Jer](https://open.spotify.com/artist/0xMMzZfYoteEUM0vnJLjgt) | [This Is Lovn](https://open.spotify.com/album/3rBhsljGGbsFt2Z5W7x6Yj) | 2:16 | 2022-09-30 | 2022-10-14 |
 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2022-11-04 |  |
 | [Coming Back For You](https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:56 | 2022-11-04 | 2022-11-21 |
@@ -57,7 +58,7 @@
 | [Currency](https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Currency](https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT) | 2:58 | 2023-02-10 |  |
 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-03-18 | 2023-02-24 |
 | [Danger \- Remix](https://open.spotify.com/track/6JXxHEuWl3ETZ59dmIuESd) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In Transit \(Deluxe\)](https://open.spotify.com/album/2BavLjXh2zMpRd84S0vloq) | 2:47 | 2022-08-12 | 2022-09-02 |
-| [Dangerous](https://open.spotify.com/track/3EduKNInzbDCPYjIDw5SG4) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Dangerous](https://open.spotify.com/album/29rDZXLQeZNoSpBqOY6ibI) | 3:01 | 2023-01-13 |  |
+| [Dangerous](https://open.spotify.com/track/3EduKNInzbDCPYjIDw5SG4) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Dangerous](https://open.spotify.com/album/29rDZXLQeZNoSpBqOY6ibI) | 3:01 | 2023-01-13 | 2023-03-30 |
 | [Dangerous Hearts](https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Signs](https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK) | 3:30 | 2022-12-18 | 2023-01-20 |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 | 2022-08-26 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-02-11 |  |

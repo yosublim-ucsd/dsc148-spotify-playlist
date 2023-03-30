@@ -370,6 +370,24 @@
     {
       "album": {
         "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+      },
+      "artists": [
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391920,
+      "name": "Beautiful Jesus",
+      "url": "https://open.spotify.com/track/1We7RiH1lhfmPX8NeTcNwI"
+    },
+    {
+      "album": {
+        "name": "Beautiful Surrender",
         "url": "https://open.spotify.com/album/5S4Pk1aR4I0cUqCoKXiwzY"
       },
       "artists": [
@@ -4702,7 +4720,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 296400,
       "name": "You Satisfy (feat. Elyssa Smith)",
       "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"

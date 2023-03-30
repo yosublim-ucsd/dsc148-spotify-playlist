@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-275 songs - 15 hr 11 min
+276 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2022-08-01 | 2022-10-17 |
 | [Hell or Heaven](https://open.spotify.com/track/34gJMMpzslquGwCDq0bLe1) | [Lara D.](https://open.spotify.com/artist/2rkA2RE0iabEZmEx5QNxtX) | [Hell or Heaven](https://open.spotify.com/album/4HX87TyD4akOXBqt73bb50) | 3:26 | 2022-06-06 | 2022-07-29 |
 | [Hello, I said](https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Hello, I said](https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH) | 2:36 | 2022-06-06 | 2022-07-29 |
-| [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 | 2022-10-10 |  |
+| [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 | 2022-10-10 | 2023-03-30 |
 | [Hollow](https://open.spotify.com/track/40jgQMxu1yaQkIRblyswIM) | [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Hollow](https://open.spotify.com/album/3MoWDXRBliC5gCdy7n6nFy) | 3:22 | 2022-06-06 | 2022-07-29 |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-06-06 | 2022-07-29 |
 | [Hue](https://open.spotify.com/track/5uvmQ8YPZgdvgcK2HPG1PP) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Hue](https://open.spotify.com/album/0rPUtK4S7CrYaLK88ftb1i) | 2:52 | 2022-06-27 | 2022-07-04 |
@@ -161,6 +161,7 @@
 | [Long Nights, Slow Mornings](https://open.spotify.com/track/2OUtGQvXdLW0QJ226AmOKv) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 3:26 | 2022-06-06 | 2022-07-29 |
 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 | 2022-07-25 |  |
 | [Lost In Space](https://open.spotify.com/track/59vGBEz1TByo4BCuKFF8P0) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost In Space](https://open.spotify.com/album/3mS5pfJvDStk99v0QRIsJH) | 3:42 | 2022-07-25 | 2023-03-22 |
+| [Lost In Space](https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost In Space](https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek) | 3:42 | 2023-03-20 |  |
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2022-07-25 |  |
 | [Love Pocket](https://open.spotify.com/track/1VmjjzWu2bfSzEDYoUskGR) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/1AG0EVWWRdtX9o7hxEqRX0) | 2:55 | 2022-06-06 | 2022-07-29 |
 | [Lovers](https://open.spotify.com/track/3OxaSDrZktEd8yO94BYfle) | [NIGHTINGALE](https://open.spotify.com/artist/1BjY8OlzCH17snJo69ZGnc) | [Lovers](https://open.spotify.com/album/2GVugFYbeOHPmgAn88M7cu) | 3:52 | 2022-07-25 | 2022-07-27 |

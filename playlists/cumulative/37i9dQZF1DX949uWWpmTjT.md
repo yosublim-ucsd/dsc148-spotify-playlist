@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-489 songs - 1 day 9 hr 53 min
+490 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2022-11-10 |  |
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-02-02 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-11-10 |  |
-| [Since I Fell for You](https://open.spotify.com/track/0HY29tHnnKozsXwdqfWey8) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH) | 4:23 | 2021-12-03 |  |
+| [Since I Fell for You](https://open.spotify.com/track/0HY29tHnnKozsXwdqfWey8) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH) | 4:23 | 2021-12-03 | 2023-03-30 |
 | [Slow Motion Blues \- 2003 Remastered Version](https://open.spotify.com/track/28pXjvjSad59tRDv3EmtNz) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Snowbound](https://open.spotify.com/track/7sDq8pkhmQJCkRR68jnnzz) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Snowbound](https://open.spotify.com/album/1JZB7ZrcA7gJ8NC4eWQAEM) | 3:28 | 2023-01-12 |  |
 | [Social Call](https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Gigi Gryce](https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa) | [When Farmer Met Gryce](https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a) | 6:05 | 2021-12-03 |  |
@@ -447,6 +447,7 @@
 | [Too Late Now](https://open.spotify.com/track/5MSV42dMBJZ21P8BxLCxum) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 8:54 | 2021-12-03 | 2023-03-29 |
 | [Trav'lin Light](https://open.spotify.com/track/4Djv64pynMBVRER1eWxxCH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:07 | 2022-01-27 |  |
 | [Trouble In Mind](https://open.spotify.com/track/1Q3nwehHU6712WVfvpWVpz) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red In Bluesville](https://open.spotify.com/album/275AqoGJKv5Mu2quadBUTM) | 5:44 | 2022-04-14 |  |
+| [Trouble In Paris](https://open.spotify.com/track/7BtcpMyPOIHtuOI1BpklIk) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Trouble In Paris](https://open.spotify.com/album/6Ewoxo3WR20TTILfqglnwd) | 2:49 | 2023-03-23 |  |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
 | [Under A Blanket Of Blue](https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:36 | 2021-12-03 |  |
 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 | 2023-02-02 |  |

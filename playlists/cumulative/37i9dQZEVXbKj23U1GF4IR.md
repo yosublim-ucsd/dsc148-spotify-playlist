@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Canada.
 
-1,325 songs - 3 day 2 hr 38 min
+1,326 songs - 3 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-05 | 2022-02-16 |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4EZUcj7c8n9pWIwHqN0DoH) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Winter Wonderland](https://open.spotify.com/album/0RybBCL0oKCwyKur97W2gH) | 2:45 | 2022-12-26 | 2022-12-28 |
 | [Do You Hear What I Hear? \- Remastered 2006](https://open.spotify.com/track/2Uiv8YvD3q63FGTUjkYvxT) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Christmas Carols](https://open.spotify.com/album/5SZy8SYFjsRbQlYao5kQJz) | 2:45 | 2021-12-26 | 2021-12-27 |
+| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-29 |  |
 | [Doin' This](https://open.spotify.com/track/6TpyujRefwsflWFXbmjVpj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2022-06-25 | 2022-06-27 |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-11-13 | 2021-11-14 |
 | [Doja](https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:51 | 2022-02-12 | 2022-02-14 |
@@ -870,7 +871,7 @@
 | [PAINTING PICTURES](https://open.spotify.com/track/4Iry561oo2lujsgL77oCnm) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/5ASBbAgO8v9AHDUICfEHJx) | 2:02 | 2023-03-03 | 2023-03-05 |
 | [Painting Pictures](https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN) | 2:02 | 2023-03-01 | 2023-03-04 |
 | [Painting Pictures](https://open.spotify.com/track/4ElnYhTeJEx90XrPDlLzH9) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/4rOjLnFYn6xZSEKkR86qEV) | 2:02 | 2023-02-28 | 2023-03-02 |
-| [PAINTING PICTURES](https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/485hROfaw36i4rniIeXPbI) | 2:02 | 2023-03-15 |  |
+| [PAINTING PICTURES](https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/485hROfaw36i4rniIeXPbI) | 2:02 | 2023-03-15 | 2023-03-30 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-22 | 2023-03-08 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-08-15 | 2021-08-16 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-19 |

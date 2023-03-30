@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,623 likes - 104 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,955 likes - 104 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 81 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9) | 3:53 |
 | 82 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 |
 | 83 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
-| 84 | [down bad \- fanclubwallet & Preloved Remix](https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [down bad](https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ) | 3:09 |
+| 84 | [down bad \- fanclubwallet & Preloved Remix](https://open.spotify.com/track/3pZ7PvECBWMc0hgZzaTxt4) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 3:09 |
 | 85 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
 | 86 | [Good Looking \(Stripped\)](https://open.spotify.com/track/0ufGu1NoCEIpGkBcF1dT6g) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:37 |
 | 87 | [Honey](https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:23 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 103 | [Morning in the Aves](https://open.spotify.com/track/6mWlah5Cxz8qTcW17pbj7h) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 4:02 |
 | 104 | [ELECTRIFY TONIGHT](https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ALLIGATOR](https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH) | 2:34 |
 
-Snapshot ID: `MTY4MDA2NDg5NiwwMDAwMDAwMDNhY2ZkMmQzMjQyMGM4YzE4YTRlYjI5YzU1YzFiNmNj`
+Snapshot ID: `MTY4MDA2NDg5NiwwMDAwMDAwMGIxYmJlMTE5NjQyNDJjZWNlNDc0OTNhZjU2YTAwODE2`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 155110,
+  "num_followers": 155152,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDNkYjBlOWZmZGM4NjlkZWExZWE2NzdhMzQ1YjQ3ODYx",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDRmODE5ZDY2NDQ0NTQ2MTAxMTViMGIyNTEyMjExYjVm",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Sabor",
-        "url": "https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD"
-      },
-      "artists": [
-        {
-          "name": "Angel Canales",
-          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Lejos De Ti",
-      "url": "https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 293786,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD"
+      },
+      "artists": [
+        {
+          "name": "Angel Canales",
+          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Lejos De Ti",
+      "url": "https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD"
     },
     {
       "added_at": "2022-02-18 16:03:15",

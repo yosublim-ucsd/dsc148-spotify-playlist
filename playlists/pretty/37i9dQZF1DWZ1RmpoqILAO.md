@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Faye Webster
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069 likes - 68 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,086 likes - 68 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

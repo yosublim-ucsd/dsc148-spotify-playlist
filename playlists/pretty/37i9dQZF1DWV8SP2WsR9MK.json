@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 60618,
+  "num_followers": 60707,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU2OTMxNCwwMDAwMDAwMGFmYWI0Njg1OGE5Y2M0ODI0YWM3YTk2ZDRkYzI5NTJk",
+  "snapshot_id": "MTY3OTU2OTMxNCwwMDAwMDAwMDI4ZGY5MDZiZWI3MTM0NTI3ZjhmYTUxMzZhMzI3OTYw",
   "tracks": [
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
         "name": "Jazz Guitar",
         "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 318840,
       "name": "For Toddlers Only",
       "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 432093,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
+        "name": "Move! The Guitar Artistry Of Hank Garland",
+        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
+      },
+      "artists": [
+        {
+          "name": "Hank Garland",
+          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
@@ -1623,18 +1639,34 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "Move! The Guitar Artistry Of Hank Garland",
-        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
       "artists": [
         {
-          "name": "Hank Garland",
-          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 266400,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1659,38 +1691,6 @@
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 661106,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
     },
     {
       "added_at": "2023-03-09 10:00:51",

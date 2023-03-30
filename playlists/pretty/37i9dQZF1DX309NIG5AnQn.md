@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo nacional\. <br/>📷 Nenagenix
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,449 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,457 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 6 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 |
 | 7 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
 | 8 | [Una Canción](https://open.spotify.com/track/6uEZio7p3zHhIPSUiTFnLC) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Una Canción](https://open.spotify.com/album/4AR7pIVOrcS7KYeVJF9BpG) | 2:42 |
-| 9 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 |
+| 9 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 |
 | 10 | [Dopamina](https://open.spotify.com/track/0VMUzNfWNx3egfZko8bOhS) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Dopamina](https://open.spotify.com/album/1EV4jUvno8aaw2yUEqdVg0) | 6:15 |
 | 11 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 |
-| 12 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 |
+| 12 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 |
 | 13 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
 | 14 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 |
 | 15 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 20 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
 | 21 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 |
 | 22 | [Oro y Barro](https://open.spotify.com/track/3n3nEclXD69K27BqpqjXHB) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Oro y Barro](https://open.spotify.com/album/15txAv95srdrDAPnK1Clcc) | 3:29 |
-| 23 | [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 |
-| 24 | [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 |
+| 23 | [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 |
+| 24 | [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 |
 | 25 | [Tráfico](https://open.spotify.com/track/0l2HLImZnyZqDydcgD6pDf) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Entrada Triunfal](https://open.spotify.com/album/4wP2yhVbsjzTNqn0g1YpT4) | 3:44 |
 | 26 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 | 27 | [Alimentarte](https://open.spotify.com/track/1ebB7EnsXFME2cAhXx6Mw0) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Suerte](https://open.spotify.com/album/392hK64cm39C8CDetPM6HC) | 4:11 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 39 | [El Once Ideal](https://open.spotify.com/track/4gemRfX6vbxbxaOp1aejF4) | [La Suma de Todos los Tiempos](https://open.spotify.com/artist/53iCTwxdVd83Bdxv30rdJe) | [Los Movimientos](https://open.spotify.com/album/7KgdvgQmOCuasSXfnjolgp) | 2:50 |
 | 40 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 |
 
-Snapshot ID: `MTY3OTYwMzAzMSwwMDAwMDAwMDQ0MmFiMjNkMzBlOWM2NGUxODRmOGMyOWJjMjZhOGZm`
+Snapshot ID: `MTY3OTYwMzAzMSwwMDAwMDAwMGMzMWVmM2EyYTAwMzc5NDgxNWU1ZjhiYzFmNGMzYjYy`

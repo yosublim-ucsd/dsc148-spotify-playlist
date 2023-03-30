@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1039998,
+  "num_followers": 1040019,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDcyZTYzZmU0YTdmMzUxMDk3MWFkMjgwOTQ2ZGE4YmQ0",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDI0YzUyMmRlZjZjNjhlYzEzOWRkZGU2OGQzYTM4NDhi",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "There I Go",
-        "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        }
-      ],
-      "duration_ms": 202172,
-      "name": "There I Go",
-      "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250397,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        }
+      ],
+      "duration_ms": 202172,
+      "name": "There I Go",
+      "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Way of Life (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Early Prayers",
         "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
       },
@@ -1291,22 +1271,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Sunday Vibe",
-        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
       "artists": [
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         },
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Sunday Vibe",
-      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1327,6 +1307,26 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Sunday Vibe",
+        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Sunday Vibe",
+      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "One Lovely Day",
-        "url": "https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax"
-      },
-      "artists": [
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "A Seafarer and the Infinite Dream",
         "url": "https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER"
       },
@@ -1475,18 +1459,38 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+        "name": "One Lovely Day",
+        "url": "https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
+      "duration_ms": 221840,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
+      },
+      "artists": [
+        {
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        },
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1527,22 +1531,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
       },
       "artists": [
         {
-          "name": "Adam Friedman",
-          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
-        },
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Catch My Wave",
         "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 194386,
       "name": "Catch My Wave",
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "Space and Time",
-      "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Effection",
-        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
       "artists": [
         {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
         }
       ],
-      "duration_ms": 209250,
-      "name": "Digital Heaven",
-      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+        "name": "Effection",
+        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
       },
       "artists": [
         {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
         }
       ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+      "duration_ms": 209250,
+      "name": "Digital Heaven",
+      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
     },
     {
       "added_at": "2023-02-24 05:01:00",

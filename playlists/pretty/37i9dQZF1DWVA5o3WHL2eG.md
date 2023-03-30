@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Co\-curated by CATT\. Learn more in our playlist clips!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,833 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,843 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [Notfallkontakt](https://open.spotify.com/track/16OeWavQ9VW0lyrXIGcEiV) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [Notfallkontakt](https://open.spotify.com/album/5nTfxllqpkVgBaV1p6o1bp) | 3:00 |
 | 16 | [Create](https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Create](https://open.spotify.com/album/7caWffjtRMvvY2zvEvvVDq) | 3:54 |
 | 17 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
-| 18 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 |
+| 18 | [Wenn Kometen fallen](https://open.spotify.com/track/05xLWwAxV6cP5zrYBF2eM6) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [NIEMALS ALLEIN](https://open.spotify.com/album/06DubYwQD77eHnScU3wBFb) | 2:21 |
 | 19 | [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 |
-| 20 | [Boys Don't Cry](https://open.spotify.com/track/2aZwLAGErg6yY3i68sUDuw) | [ESKE](https://open.spotify.com/artist/4WBzXEnsUE7dpyKjrZnF5D) | [Boys Don't Cry](https://open.spotify.com/album/0KQ9iYi8d7uHcOQYMW8xye) | 3:05 |
-| 21 | [ALL I WANT](https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [ALL I WANT](https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV) | 3:53 |
-| 22 | [Wenn Kometen fallen](https://open.spotify.com/track/05xLWwAxV6cP5zrYBF2eM6) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [NIEMALS ALLEIN](https://open.spotify.com/album/06DubYwQD77eHnScU3wBFb) | 2:21 |
-| 23 | [BBB \#40](https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [BBB \#40](https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq) | 2:18 |
-| 24 | [call me cat](https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [call me cat](https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U) | 2:20 |
+| 20 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 |
+| 21 | [Boys Don't Cry](https://open.spotify.com/track/2aZwLAGErg6yY3i68sUDuw) | [ESKE](https://open.spotify.com/artist/4WBzXEnsUE7dpyKjrZnF5D) | [Boys Don't Cry](https://open.spotify.com/album/0KQ9iYi8d7uHcOQYMW8xye) | 3:05 |
+| 22 | [ALL I WANT](https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [ALL I WANT](https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV) | 3:53 |
+| 23 | [call me cat](https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [call me cat](https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U) | 2:20 |
+| 24 | [BBB \#40](https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [BBB \#40](https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq) | 2:18 |
 | 25 | [Winterherz](https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Winterherz](https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR) | 2:16 |
 | 26 | [MONDLICHT](https://open.spotify.com/track/2FSK3jttHrWDlVA3DigDPg) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [MONDLICHT](https://open.spotify.com/album/4yDyWOKjSLyruosIWQ7usx) | 3:02 |
 | 27 | [TRAUM](https://open.spotify.com/track/6TUJs76PxY3geuAHoJSvF4) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [TRAUM](https://open.spotify.com/album/3dW70AYuaeZVJkwmfiQl6i) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Velvet Blue](https://open.spotify.com/track/58LP7YZDOmPXdMroezL9mx) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [Velvet Blue](https://open.spotify.com/album/4qSzQ5mn5XnineMIWl2xPA) | 1:04 |
 | 50 | [Power of Today](https://open.spotify.com/track/4g2eoUYfI9Ro3bEVClMMWI) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:19 |
 
-Snapshot ID: `MTY3ODA5NTk4MSwwMDAwMDAwMGE4ZmU0Y2VmNTk0YmUzNzg1NGUzMGQzZjAyY2ZmOGU1`
+Snapshot ID: `MTY3ODA5NTk4MSwwMDAwMDAwMGY5ZWFkMTdhYTg0MTYwMTYzODg1ZWU0MTMwY2E5MzEx`

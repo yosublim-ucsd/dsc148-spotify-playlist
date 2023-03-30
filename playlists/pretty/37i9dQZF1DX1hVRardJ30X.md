@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Maluma & Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,511 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,659 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 22 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
 | 23 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
 | 24 | [Te Busqué](https://open.spotify.com/track/5K9NRlBuwqa2rzXoNE9HIe) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Te Busqué](https://open.spotify.com/album/3DX1rHY2W0L0BgMp1ZkPUf) | 3:58 |
-| 25 | [Mi Amore](https://open.spotify.com/track/4bQCQ0JIX0yDd3gC4WaQkI) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Mi Amore](https://open.spotify.com/album/67PerUrRkiJzh0wjmZN3eV) | 3:19 |
+| 25 | [Mi Amore](https://open.spotify.com/track/4bQCQ0JIX0yDd3gC4WaQkI) | [Menudo](https://open.spotify.com/artist/3ByIMrFmV0h1oFSz7H4Kut) | [Mi Amore](https://open.spotify.com/album/67PerUrRkiJzh0wjmZN3eV) | 3:19 |
 | 26 | [Sharila](https://open.spotify.com/track/3DiecNg6m89gBomw03X1AK) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [Sharila](https://open.spotify.com/album/34GNiePcZbd8zwmRW0B0po) | 2:34 |
 | 27 | [Como Shakira](https://open.spotify.com/track/6OqRcecS47ph02u2R3Jvl2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Como Shakira](https://open.spotify.com/album/1p7L1UICmzr4ivD5xZ97Iz) | 2:09 |
 | 28 | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [El Chima En La Casa](https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/album/6ba7djkJEIp1Zx9kTqi7Uf) | 2:31 |

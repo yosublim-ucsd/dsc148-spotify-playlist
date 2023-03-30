@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 Los Lara & Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,293 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,628 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

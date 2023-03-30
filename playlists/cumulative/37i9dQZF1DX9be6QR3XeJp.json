@@ -1324,24 +1324,6 @@
     {
       "album": {
         "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "date_added": "2023-01-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150386,
-      "name": "I Like Me",
-      "url": "https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ"
-    },
-    {
-      "album": {
-        "name": "I Do Love a Good Sandwich",
         "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
       },
       "artists": [
@@ -1374,6 +1356,24 @@
       "duration_ms": 150386,
       "name": "I Like Me",
       "url": "https://open.spotify.com/track/6Sxu7v5cVU36u4pSFc4QGs"
+    },
+    {
+      "album": {
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150386,
+      "name": "I Like Me",
+      "url": "https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ"
     },
     {
       "album": {

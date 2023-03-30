@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-208 songs - 12 hr 2 min
+210 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [find me wrong](https://open.spotify.com/track/51Ah5WLGqFapuowJaxKMQg) | [Coral](https://open.spotify.com/artist/6OrtrrYAjzBNILMrtty09i) | [find me wrong](https://open.spotify.com/album/59wwhZPCWFcCJo7S7EUx4F) | 3:16 | 2022-05-30 | 2022-07-29 |
 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 | 2022-05-30 | 2022-11-13 |
 | [Fine On Your Own](https://open.spotify.com/track/5AVInbrIxdDksDyAqjvE7l) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Fine On Your Own](https://open.spotify.com/album/7Ip0syd58UqHIO4i74FHUl) | 3:42 | 2022-11-07 | 2022-12-01 |
+| [Fine On Your Own](https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [God Save The Dream](https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5) | 3:42 | 2023-02-10 |  |
 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 | 2022-06-24 |  |
 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 | 2022-05-30 |  |
 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 | 2022-05-30 | 2022-07-29 |
@@ -97,7 +98,7 @@
 | [I'll Follow You into the Dark](https://open.spotify.com/track/6dVkbvvcOpQ9tuGo7uSl10) | [King Leer](https://open.spotify.com/artist/73OeR5E9pYJ0zKU597trah) | [I'll Follow You into the Dark](https://open.spotify.com/album/4hwxB6K2T3u8Oh53qjgwgQ) | 2:27 | 2022-05-30 | 2022-07-28 |
 | [I'm Doing Everything I Can](https://open.spotify.com/track/4dnXWvzIOioHBd9X12ffz3) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm Doing Everything I Can](https://open.spotify.com/album/73ZKq5NUiOAYbCUgb4Qqrd) | 3:00 | 2022-05-30 | 2022-07-29 |
 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 | 2022-06-24 | 2022-12-21 |
-| [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 | 2022-05-30 |  |
+| [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 | 2022-05-30 | 2023-03-30 |
 | [I'm Sure He Loves You](https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [I'm Sure He Loves You](https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w) | 3:03 | 2023-01-06 |  |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-08-05 | 2022-12-03 |
 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 | 2022-08-05 |  |
@@ -196,10 +197,11 @@
 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 | 2022-05-30 |  |
 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [sadHAPPY](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 | 2022-05-30 |  |
 | [Us \- Acoustic](https://open.spotify.com/track/6vkGJCsMQc4HVZ1H8Yh2PH) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Sorry For Writing All The Songs About You \(Acoustic\)](https://open.spotify.com/album/4jnlpvJbPBkI5MVPpTkuf8) | 3:12 | 2022-05-30 | 2022-07-29 |
-| [Used To Be Friends](https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Used To Be Friends](https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix) | 5:35 | 2022-08-19 |  |
+| [Used To Be Friends](https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Used To Be Friends](https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix) | 5:35 | 2022-08-19 | 2023-03-30 |
 | [Voices](https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Voices](https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu) | 3:06 | 2022-05-30 | 2023-03-18 |
 | [Wait & See](https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2) | 2:54 | 2022-05-30 | 2022-07-29 |
 | [Wait & See](https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 2:54 | 2022-06-24 | 2023-03-09 |
+| [Wait & See](https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 2:54 | 2023-02-10 |  |
 | [Walk Away](https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Walk Away](https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa) | 2:40 | 2023-02-10 |  |
 | [Walk Me Home](https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Walk Me Home](https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4) | 4:37 | 2022-09-16 | 2022-12-16 |
 | [We Are the Love We Give \- Acoustic](https://open.spotify.com/track/2dNhPqkFFecOTdHM5DDdld) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [We Are the Love We Give \(Acoustic\)](https://open.spotify.com/album/7AAVYzYm120TfoLDRD8ZxQ) | 3:06 | 2022-05-30 | 2022-07-29 |

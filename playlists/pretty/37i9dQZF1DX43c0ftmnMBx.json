@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 206976,
+  "num_followers": 207091,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDA5MDEzMDllM2ViNmVlMzAxMDU0N2I5NWZjZjVjNjZk",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMGQwYWMyMzA0YWU1YTE5ZjRjNTg1NTMyN2Y5OWVkYmY1",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 191209,
+      "name": "Carita de Inocente",
+      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
         "name": "Antes de Ti",
         "url": "https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 207187,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 191209,
-      "name": "Carita de Inocente",
-      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
     },
     {
       "added_at": "2022-10-25 23:01:25",

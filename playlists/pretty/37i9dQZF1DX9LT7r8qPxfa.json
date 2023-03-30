@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 251718,
+  "num_followers": 251755,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAzNjY0NSwwMDAwMDAwMDJhNmFhMzA3NjZmZTg4ZTUwMTNhZGNhMjA4NDY0YjM4",
+  "snapshot_id": "MTY4MDAzNjY0NSwwMDAwMDAwMDY0YmJlNGVhYzczY2Q1NTMxNzhhMWYzZjcxMzU0MGVi",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1Yk97MXlFwbEGkXhGzeLbE"
     },
     {
-      "added_at": "2023-03-29 05:26:23",
+      "added_at": "2023-03-30 01:08:15",
       "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 192981,
       "name": "This Is What You Did",
       "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Rachael Jenkins",
+          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
         }
       ],
-      "duration_ms": 229501,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
+      "duration_ms": 225640,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1115,6 +1115,22 @@
       "duration_ms": 272067,
       "name": "Love More",
       "url": "https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 229501,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 192106,
       "name": "wish you the best (feat. Jensen McRae)",
       "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
-      },
-      "artists": [
-        {
-          "name": "Rachael Jenkins",
-          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Luster",
-        "url": "https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d"
-      },
-      "artists": [
-        {
-          "name": "Twin Oaks",
-          "url": "https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk"
-        }
-      ],
-      "duration_ms": 200669,
-      "name": "Luster",
-      "url": "https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "My Love Is Cool",
         "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 187933,
       "name": "Turn To Dust",
       "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d"
+      },
+      "artists": [
+        {
+          "name": "Twin Oaks",
+          "url": "https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk"
+        }
+      ],
+      "duration_ms": 200669,
+      "name": "Luster",
+      "url": "https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "The Man I'll Never Find (Piano Version)",
         "url": "https://open.spotify.com/album/3CVhK0IZWbHi1s2JXW8zu2"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 221135,
       "name": "The Man I'll Never Find - Piano Version",
       "url": "https://open.spotify.com/track/70DCnj3cDWbVil403EvDi5"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 651416,
+  "num_followers": 651508,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDFkYWNiMTRkNzZmMjEyZmQ1YTRkODU4Mzk2MTA3ZDkw",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMGE3OWNlYzllNTM0NmQ2ZTU1MjgzNTk5MDQ4ZjU2NDMx",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Wu Wu",
         "url": "https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 207727,
       "name": "Wu Wu",
       "url": "https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "La Ducha",
-        "url": "https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 209941,
-      "name": "La Ducha",
-      "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "La Ducha",
+        "url": "https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 209941,
+      "name": "La Ducha",
+      "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "17 (feat. Giulia Be)",
-        "url": "https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160722,
-      "name": "17 (feat. Giulia Be)",
-      "url": "https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Intenciones",
         "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 163600,
       "name": "Intenciones",
       "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "17 (feat. Giulia Be)",
+        "url": "https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160722,
+      "name": "17 (feat. Giulia Be)",
+      "url": "https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 256255,
-      "name": "Qu\u00e9 Bonito Es Lo Bonito",
-      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Bolitas",
         "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 221322,
       "name": "Bolitas",
       "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 256255,
+      "name": "Qu\u00e9 Bonito Es Lo Bonito",
+      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "VELOZzzz",
-        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "VELOZzzz",
-      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+        "name": "VELOZzzz",
+        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+      "duration_ms": 184888,
+      "name": "VELOZzzz",
+      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Lluvia (Man120)",
         "url": "https://open.spotify.com/album/7HpxvfyReSCZwrHSEe5tPA"
       },
@@ -1319,38 +1319,6 @@
       "duration_ms": 231724,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/0kq1HuBQzWPJfC2qXQfeTK"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Singles 2019-2021",
-        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 224268,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "no est\u00e1s",
-        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 164369,
-      "name": "no est\u00e1s",
-      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1387,6 +1355,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "no est\u00e1s",
+        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 164369,
+      "name": "no est\u00e1s",
+      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 223847,
       "name": "Sola - Remix",
       "url": "https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Singles 2019-2021",
+        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 224268,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1779,22 +1779,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk"
+        "name": "No Te Pude Soltar",
+        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
       },
       "artists": [
         {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 181443,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/7xEN9p3spnvGC891587UOO"
+      "duration_ms": 164683,
+      "name": "No Te Pude Soltar",
+      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
     }
   ],
   "unique_name": "Chill Latino",

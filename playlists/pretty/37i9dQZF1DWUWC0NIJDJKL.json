@@ -1,12 +1,12 @@
 {
   "description": "The perfect indie mixtape for spring & summer.",
-  "num_followers": 78716,
+  "num_followers": 78765,
   "original_name": "sunshine indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxMjU2MiwwMDAwMDAwMDU4YTFkOGRkNTBkMTE3NzExMjQyN2ZkZWM5YmNiMjJi",
+  "snapshot_id": "MTY4MDAxMjU2MiwwMDAwMDAwMGEwY2JiZDNiNzM3YWMxNjdjNWE3ZTNlMzJhYWI3MDYz",
   "tracks": [
     {
       "added_at": "2023-03-28 14:07:23",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-28 14:07:23",
       "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/5AYFv9iMMbwWAR5APhNHrp"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "idtwcbf (friends)",
-      "url": "https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn"
-    },
-    {
-      "added_at": "2023-03-28 14:07:23",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 277506,
       "name": "Supercut",
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2023-03-28 14:07:23",
+      "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/5AYFv9iMMbwWAR5APhNHrp"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "idtwcbf (friends)",
+      "url": "https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn"
     },
     {
       "added_at": "2023-03-28 14:07:23",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-28 14:07:23",
       "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
-    },
-    {
-      "added_at": "2023-03-28 14:07:23",
-      "album": {
         "name": "Bcos U Will Never B Free",
         "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 206974,
       "name": "Corduroy Dreams",
       "url": "https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ"
+    },
+    {
+      "added_at": "2023-03-28 14:07:23",
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "added_at": "2023-03-28 14:07:23",
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
-      "added_at": "2023-03-29 05:13:50",
+      "added_at": "2023-03-30 01:04:16",
       "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-28 14:07:23",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2023-03-28 14:07:23",
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -1175,34 +1159,18 @@
     {
       "added_at": "2023-03-28 14:07:23",
       "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
-    },
-    {
-      "added_at": "2023-03-28 14:07:23",
-      "album": {
-        "name": "sun keeps on shining",
-        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "sun keeps on shining",
-      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2023-03-28 14:07:23",
@@ -1223,6 +1191,38 @@
     {
       "added_at": "2023-03-28 14:07:23",
       "album": {
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+    },
+    {
+      "added_at": "2023-03-28 14:07:23",
+      "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+    },
+    {
+      "added_at": "2023-03-28 14:07:23",
+      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
-    },
-    {
-      "added_at": "2023-03-28 14:07:23",
-      "album": {
-        "name": "6 Of A Billion",
-        "url": "https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 134781,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh"
     },
     {
       "added_at": "2023-03-28 14:07:23",
@@ -1271,6 +1255,22 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
+    },
+    {
+      "added_at": "2023-03-28 14:07:23",
+      "album": {
+        "name": "6 Of A Billion",
+        "url": "https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 134781,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh"
     },
     {
       "added_at": "2023-03-28 14:07:23",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-03-28 14:07:23",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
-    },
-    {
-      "added_at": "2023-03-28 14:07:23",
-      "album": {
         "name": "That I Miss You",
         "url": "https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 140116,
       "name": "That I Miss You",
       "url": "https://open.spotify.com/track/1qja4itnsquIxIofomg2PE"
+    },
+    {
+      "added_at": "2023-03-28 14:07:23",
+      "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2023-03-28 14:07:23",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-03-28 14:07:23",
       "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
-    },
-    {
-      "added_at": "2023-03-28 14:07:23",
-      "album": {
         "name": "Pineapple Sunrise",
         "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-03-28 14:07:23",
       "album": {
-        "name": "Violet Street",
-        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 264213,
-      "name": "When Am I Gonna Lose You",
-      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2023-03-28 14:07:23",
@@ -1571,6 +1555,22 @@
       "duration_ms": 196588,
       "name": "Give Yourself A Try",
       "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
+    },
+    {
+      "added_at": "2023-03-28 14:07:23",
+      "album": {
+        "name": "Violet Street",
+        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "When Am I Gonna Lose You",
+      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
       "added_at": "2023-03-28 14:07:23",

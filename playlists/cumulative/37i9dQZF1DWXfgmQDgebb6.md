@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: CIFIKA\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Jclef\)
 
-291 songs - 16 hr 14 min
+292 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 | 2022-05-27 | 2022-12-03 |
 | [Crusader](https://open.spotify.com/track/7N0MH5Zszb3tp0o6Xt8mWp) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Crusader](https://open.spotify.com/album/7sxUW4ouTE1tNJHMJb6KWS) | 3:23 | 2023-02-20 | 2023-03-29 |
 | [Cuando](https://open.spotify.com/track/7sfxQTxZQ6g1T98GUxnjKp) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [NOV3L](https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9) | 3:59 | 2022-05-27 | 2022-07-14 |
-| [Daisy \(Feat\. Han Yo Han\)](https://open.spotify.com/track/2ZdhVj2NAYOxY36rMjgN6b) | [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Daisy](https://open.spotify.com/album/0EjZp5PnEXF0UD1OXlwUXk) | 3:05 | 2023-01-25 |  |
+| [Daisy \(Feat\. Han Yo Han\)](https://open.spotify.com/track/2ZdhVj2NAYOxY36rMjgN6b) | [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Daisy](https://open.spotify.com/album/0EjZp5PnEXF0UD1OXlwUXk) | 3:05 | 2023-01-25 | 2023-03-30 |
 | [Damn Cold](https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Damn Cold](https://open.spotify.com/album/5NY38YKdFS1IRtrYZtjlqe) | 3:32 | 2023-02-08 |  |
 | [Dance \(feat\. B JYUN.\)](https://open.spotify.com/track/1yMn6tOy8jLhmKabfZFz6Z) | [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Dance \(feat\. B JYUN.\)](https://open.spotify.com/album/4BkZC5CA3P1hm0yw06wH3Q) | 3:08 | 2022-05-27 | 2022-07-28 |
 | [Dance of Phrase \(Feat\. Qim Isle\)](https://open.spotify.com/track/4KXy9C1W0xWJpKWQvnyeFX) | [Jung Jae Hyung](https://open.spotify.com/artist/2eHhj2YwHmrFN7zGaDaVHl), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [HOME](https://open.spotify.com/album/4yTrE7XJEgwCJBw3bh61zc) | 4:14 | 2022-05-27 | 2022-07-24 |
@@ -65,7 +65,7 @@
 | [Daydreaming \(feat\. Festy Wxs\)](https://open.spotify.com/track/32YCbvscyGc6NKK23vy7qj) | [Gwon Neung](https://open.spotify.com/artist/0OLXXgXxJbDiwPKZKOHbBo), [Festy Wxs](https://open.spotify.com/artist/21HMWviztlB3LNqP0nE4nu) | [Inscape Trip](https://open.spotify.com/album/4HhIlsnIvPZhJQmuVkVqPS) | 3:15 | 2022-06-13 | 2022-07-04 |
 | [demons](https://open.spotify.com/track/7e7q3q6vVJpquuKQghF73N) | [emoji](https://open.spotify.com/artist/5KnMVZSwuzXebxQHiIEYC8), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [demons](https://open.spotify.com/album/7qw93A76MP19p9vhYa1vla) | 1:49 | 2022-05-27 | 2022-07-28 |
 | [desert island](https://open.spotify.com/track/5VTOXnYC6goxqXc9NumnnG) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:06 | 2022-05-27 | 2022-07-19 |
-| [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 |  |
+| [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 | 2023-03-30 |
 | [Dim](https://open.spotify.com/track/24e46bAxpNuYepqmeqPp3a) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 2:50 | 2022-06-09 | 2022-07-28 |
 | [DISCONNECT](https://open.spotify.com/track/1MRWxMH4ZuqgZAxJxAGbOo) | [hansen](https://open.spotify.com/artist/3oNWpNbYDxI3cTjfr3iTGF), [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [DISCONNECT](https://open.spotify.com/album/7DXVhaYMZVB1gaIMq1m5vp) | 4:08 | 2022-05-27 | 2022-07-09 |
 | [Donut](https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Image](https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:04 | 2023-02-13 |  |
@@ -139,6 +139,7 @@
 | [JALJINAE](https://open.spotify.com/track/0rFcfnEE9rjl4aXNF3J716) | [Benini](https://open.spotify.com/artist/4SZG62kApZUjkX6j9OmOuJ) | [Achilles](https://open.spotify.com/album/0gEUrkgQCzCQ0zCV5nwoag) | 3:04 | 2022-06-09 | 2022-07-26 |
 | [Jellyfish](https://open.spotify.com/track/11cnULGcPpN4KNW763W3hN) | [Moony](https://open.spotify.com/artist/2WDJiiyZu2rkJtOVJGoVWY) | [Swimming](https://open.spotify.com/album/5aW41llKxMY0ebdLKN96GD) | 2:56 | 2022-05-27 | 2022-07-27 |
 | [John 999](https://open.spotify.com/track/1LiDR8RjJrfvG3vHT6dNig) | [Josee](https://open.spotify.com/artist/7HajZEOIyNTjI0DTeLx8Y1) | [post post post!](https://open.spotify.com/album/2ImEyMR0rxKYe8VYFutrzq) | 3:02 | 2022-05-27 | 2022-07-28 |
+| [jonny's sofa](https://open.spotify.com/track/56TV38BtyW9wYX4esR4HTL) | [Jclef](https://open.spotify.com/artist/4ccI4yOwtutWubdqv8gDwq) | [O, Pruned!](https://open.spotify.com/album/7iog4Q3nlBPrUv6MMkeaJi) | 4:45 | 2023-03-29 |  |
 | [Just like that](https://open.spotify.com/track/5J4QuUjueQBXaGZUWahaoi) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [i'm a mess](https://open.spotify.com/album/76hmAjUN9TMXBKC1qccRAs) | 2:55 | 2023-01-19 |  |
 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 | 2022-10-08 | 2023-01-16 |
 | [Killing Me Softly](https://open.spotify.com/track/2ojPs9EOleXPZFvL7r6x6U) | [YEONSOO](https://open.spotify.com/artist/6FmCROVFW3PQIlqoBYAocb) | [Killing Me Softly](https://open.spotify.com/album/0GJGagxsW2ICMbhu5E2rUq) | 4:07 | 2023-01-10 | 2023-02-15 |
@@ -211,7 +212,7 @@
 | [RIP](https://open.spotify.com/track/6YaiSmWwyi4B3a2xc80fS2) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [RIP](https://open.spotify.com/album/0PRP7OW8HzakbcuxkCkDm3) | 2:24 | 2022-05-27 | 2022-07-28 |
 | [Ripplippling](https://open.spotify.com/track/2s3puWTiFspTQMu7enJjRA) | [Bird's Eye Batang](https://open.spotify.com/artist/2e00FQUVdht8bnnwsV8gwS) | [Flood Format](https://open.spotify.com/album/2g487tcaDmufrDamXe1YEm) | 2:20 | 2023-02-20 | 2023-03-18 |
 | [Rocket](https://open.spotify.com/track/1UZFUBCPJgHqLXgIVOfTGO) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Rocket](https://open.spotify.com/album/2ZoEBlx7O98lArGmUgfNof) | 3:15 | 2022-05-27 | 2022-07-25 |
-| [Royal Blue](https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:37 | 2022-05-27 | 2023-02-15 |
+| [Royal Blue](https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:37 | 2022-05-27 |  |
 | [Rumor](https://open.spotify.com/track/5ObhR2clxJf2GQa4M3fwwL) | [Kingchi Mane](https://open.spotify.com/artist/2SVuMSzTLK3koFQMbV5quj) | [Ω \(Omega\)](https://open.spotify.com/album/0GxJFaxQtBlTRyZtVk51Uc) | 3:49 | 2022-05-27 | 2022-07-26 |
 | [Run](https://open.spotify.com/track/2UhrSRZm7vWaW7vuCn774a) | [Ohelen&Choisol 오헬렌&최솔](https://open.spotify.com/artist/0iYMqodMaL5BWNL1wARuiq) | [Run](https://open.spotify.com/album/0ZPx46vKkeFtJjUsxMeIGe) | 3:41 | 2022-05-27 | 2022-07-24 |
 | [Run](https://open.spotify.com/track/7zPRN16rgONinstnUSgVon) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [My Dangerous Wife Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yEXeCAWeDlEAmJyU8rDhC) | 3:16 | 2022-05-27 | 2022-07-29 |

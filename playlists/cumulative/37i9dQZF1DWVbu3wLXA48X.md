@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Black Country, New Road
 
-802 songs - 1 day 23 hr 56 min
+803 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,8 @@
 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-07-01 | 2022-08-05 |
 | [sandcastles](https://open.spotify.com/track/5hNKmPWC97RxTXpgy3kf6x) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [call me when you wake up](https://open.spotify.com/album/5lAIULp9wE4dQnmgJsHzAt) | 3:26 | 2021-12-16 | 2022-01-21 |
 | [Santa Barbara](https://open.spotify.com/track/5HYPU0x0lbMfMyCASETzK5) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Nataly Dawn](https://open.spotify.com/artist/1vCgeJQjG0SFPCC9ixbCGz) | [Santa Barbara](https://open.spotify.com/album/0EhDejzVmLY1nFLfym4CGC) | 3:40 | 2022-05-20 | 2022-07-02 |
-| [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 | 2023-02-24 |  |
+| [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 | 2023-02-24 | 2023-03-30 |
+| [saturday](https://open.spotify.com/track/54iqx8FozDfH95XVTOwRZn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 2:11 | 2023-03-24 |  |
 | [Saturdays](https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Saturdays](https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO) | 3:07 | 2022-08-11 | 2022-09-02 |
 | [Savanne](https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Savanne](https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF) | 5:16 | 2022-07-29 | 2022-08-05 |
 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 | 2022-04-22 | 2022-06-18 |

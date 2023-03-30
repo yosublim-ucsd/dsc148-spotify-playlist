@@ -9073,6 +9073,24 @@
     },
     {
       "album": {
+        "name": "\u547c\u5438\u7387",
+        "url": "https://open.spotify.com/album/1uNlZms7aHHagkz2wHcnsk"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u69fd",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170904,
+      "name": "\u547c\u5438\u7387",
+      "url": "https://open.spotify.com/track/5Ll0FDp02V7fqi3x6pykqi"
+    },
+    {
+      "album": {
         "name": "\u547d\u306b\u5acc\u308f\u308c\u3066\u3044\u308b\u3002",
         "url": "https://open.spotify.com/album/00IVbq106tRZe6RJqk9Jy8"
       },

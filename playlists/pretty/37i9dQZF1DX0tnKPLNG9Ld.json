@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 51917,
+  "num_followers": 51985,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU2OTI3OCwwMDAwMDAwMGM3M2ZmOWQ3ZmZhYzU2NTQyZjY1ZDI3ZWE5OTliOGEz",
+  "snapshot_id": "MTY3OTU2OTI3OCwwMDAwMDAwMDAxMmIyYTBmZmM0ZWZjODc3MTA0YWRkYTk0MDMxNGUy",
   "tracks": [
     {
       "added_at": "2023-03-15 12:23:14",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Broadway, Right Now!",
-        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 132773,
-      "name": "Make Someone Happy - From \"Do Re Mi\"",
-      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
+      "duration_ms": 194240,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+        "name": "Broadway, Right Now!",
+        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN"
+      "duration_ms": 132773,
+      "name": "Make Someone Happy - From \"Do Re Mi\"",
+      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "The Essential Fred Astaire",
-        "url": "https://open.spotify.com/album/6orVWVR9Uc0hTylcLi5JTP"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Cheek to Cheek",
-      "url": "https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 135506,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "The Essential Fred Astaire",
+        "url": "https://open.spotify.com/album/6orVWVR9Uc0hTylcLi5JTP"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Bossa Antigua",
-        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 282560,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 292706,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "Bossa Antigua",
+        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Scotch & Soda",
-      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 254800,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Scotch & Soda",
+      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "I Love Being Here With You",
-      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "Desafinado",
         "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 239173,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "I Love Being Here With You",
+      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "It's A Wonderful World",
-      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "The Complete Decca Recordings",
         "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 182666,
       "name": "One O'Clock Jump",
       "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "It's A Wonderful World",
+      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "Petite Fleur",
         "url": "https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 228880,
       "name": "On a Clear Day",
       "url": "https://open.spotify.com/track/79OtkmhkIGwAvK6Cc7jc1J"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -1563,8 +1563,8 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Jazz Voices",
-        "url": "https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT"
+        "name": "It's a Blue World (2015 Remastered Version)",
+        "url": "https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70"
       },
       "artists": [
         {
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
         }
       ],
-      "duration_ms": 149346,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED"
+      "duration_ms": 174960,
+      "name": "Till the Clouds Roll By - 2015 Remastered Version",
+      "url": "https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG"
     },
     {
       "added_at": "2023-03-15 12:23:14",

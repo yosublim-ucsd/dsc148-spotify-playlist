@@ -4,7 +4,7 @@
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-113 songs - 8 hr 31 min
+114 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Danger](https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:32 | 2022-10-31 |  |
 | [Danger](https://open.spotify.com/track/4jtIRaEzERJyksw8YJPdml) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Road to Escondido](https://open.spotify.com/album/0wTzQeN0D4KZW94H4KAm3U) | 5:32 | 2022-08-05 | 2022-11-01 |
 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 | 2022-11-11 | 2022-12-11 |
-| [For Your Love \- 2015 Remaster](https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [For Your Love \(2015 Remaster\)](https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp) | 2:30 | 2022-08-07 |  |
+| [For Your Love \- 2015 Remaster](https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [For Your Love \(2015 Remaster\)](https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp) | 2:30 | 2022-08-07 | 2023-03-30 |
 | [Forever Man \- 1999 Remaster](https://open.spotify.com/track/6d4uxTsF44xXW6KWnp5pJh) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Behind the Sun](https://open.spotify.com/album/25OQgeNzT4EfbLS02TarVB) | 3:11 | 2022-08-10 | 2022-10-21 |
 | [Forever Man \- 1999 Remaster](https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Behind the Sun](https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT) | 3:11 | 2022-12-26 |  |
 | [Forever Man \- 2015 Remaster](https://open.spotify.com/track/349PT8jfi7RxXB7DZM0NMX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Forever Man](https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T) | 3:12 | 2022-10-30 | 2022-11-30 |
@@ -53,6 +53,7 @@
 | [I Ain't Gonna Stand for It](https://open.spotify.com/track/3GaHDRPdWHY5m0mkbl4JfY) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Reptile](https://open.spotify.com/album/3lIVRVNgrOxfmjUAY2yfwW) | 4:50 | 2022-08-29 | 2022-10-12 |
 | [I Ain't Superstitious](https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:30 | 2022-08-05 |  |
 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 | 2022-08-05 |  |
+| [I'm Tore Down](https://open.spotify.com/track/1udh1S7PnErSMMZoA1xF6x) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 3:02 | 2023-03-29 |  |
 | [I've Got a Rock 'N' Roll Heart](https://open.spotify.com/track/0bsVmf3Ki4x4BzvdrlbYXi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 3:13 | 2022-11-09 | 2022-11-28 |
 | [I've Got a Rock 'N' Roll Heart](https://open.spotify.com/track/0pEu81PfEP0L9u4iTY5zvI) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/4jSmWv7f63DJKOj7YyKV7l) | 3:13 | 2022-08-05 | 2022-11-08 |
 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 | 2023-01-05 |  |

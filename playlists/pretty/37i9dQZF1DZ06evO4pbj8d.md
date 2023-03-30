@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,641 likes - 45 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,659 likes - 45 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 44 | [Bread + Wine](https://open.spotify.com/track/59dOoa6Zco8dpqZnEONvBO) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 5:19 |
 | 45 | [Fight for It](https://open.spotify.com/track/6utNdBDGTw1DRUQLn20T7b) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:40 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDA5Y2I4Njc3YmE1ZTc3YzliNjQxOTNmMTNiZDYyMWZiNQ==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDA2ZmQ5MjE0Nzg3MjUxOTRjNmIyNTBmNjZlYjJmYWRiOQ==`

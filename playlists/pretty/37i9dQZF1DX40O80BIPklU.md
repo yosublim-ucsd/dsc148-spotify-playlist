@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. SFDK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,294 likes - 73 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,431 likes - 73 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

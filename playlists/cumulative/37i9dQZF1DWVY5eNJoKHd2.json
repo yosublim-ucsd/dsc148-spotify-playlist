@@ -316,7 +316,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 265480,
       "name": "ARE WE STILL FRIENDS?",
       "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 248346,
       "name": "Black Out Days - Future Islands Remix",
       "url": "https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 126959,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
@@ -978,6 +978,28 @@
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351946,
+      "name": "Devil In A New Dress",
+      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
       "album": {
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 177880,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
@@ -1364,7 +1386,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Feels Like We Only Go Backwards",
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 271386,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
@@ -1711,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177922,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
+    },
+    {
+      "album": {
         "name": "this is what falling in love feels like (554Hz)",
         "url": "https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO"
       },
@@ -1726,6 +1766,24 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375386,
+      "name": "GONE, GONE / THANK YOU",
+      "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"
     },
     {
       "album": {
@@ -1842,7 +1900,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
@@ -2144,6 +2202,24 @@
     {
       "album": {
         "name": "Locals 2",
+        "url": "https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2"
+      },
+      "artists": [
+        {
+          "name": "WILLIS",
+          "url": "https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278293,
+      "name": "I Think I Like When It Rains",
+      "url": "https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2"
+    },
+    {
+      "album": {
+        "name": "Locals 2",
         "url": "https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3"
       },
       "artists": [
@@ -2190,7 +2266,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
@@ -2620,7 +2696,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 145746,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
@@ -2978,7 +3054,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 294226,
       "name": "Mr. Rager",
       "url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5"
@@ -2996,7 +3072,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 208500,
       "name": "Mrs Magic",
       "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
@@ -3086,7 +3162,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 307151,
       "name": "Nights",
       "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
@@ -3176,7 +3252,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 233866,
       "name": "On Melancholy Hill",
       "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
@@ -3864,7 +3940,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 249667,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
@@ -3882,7 +3958,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
@@ -4440,7 +4516,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
@@ -4530,7 +4606,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 211240,
       "name": "The Archer",
       "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
@@ -4683,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "Inception (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275556,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
+    },
+    {
+      "album": {
         "name": "To be honest",
         "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
       },
@@ -4716,7 +4810,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 211782,
       "name": "To Be Yours (feat. Claud)",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
@@ -5142,7 +5236,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 126312,
       "name": "worldstar money (interlude)",
       "url": "https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD"
@@ -5182,7 +5276,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 150699,
       "name": "Worth the Wait (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
@@ -5222,6 +5316,24 @@
       "duration_ms": 304192,
       "name": "Yeah - bonus",
       "url": "https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB"
+    },
+    {
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174357,
+      "name": "YEAH RIGHT",
+      "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,486 likes - 186 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,532 likes - 186 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 135 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 |
 | 136 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 |
 | 137 | [Tết Real Khum?](https://open.spotify.com/track/5rvn7zGZYmFDq27Y2P7tPu) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Tết Real Khum?](https://open.spotify.com/album/73Pkh381e7WaWIBbbdksA8) | 3:38 |
-| 138 | [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 |
+| 138 | [Hypocrite](https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j) | 3:20 |
 | 139 | [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 |
 | 140 | [Twin Flames](https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 3:38 |
 | 141 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 185 | [TIME](https://open.spotify.com/track/2z0bFKSQugLCVlgyTGFi2k) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [Astronormous](https://open.spotify.com/artist/10DVqLQppj5k4viGgo33Gj) | [TIME](https://open.spotify.com/album/6Q0NjakOu4W2uEyqgL2GC6) | 2:48 |
 | 186 | [Hennesy \- Acoustic Version](https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:27 |
 
-Snapshot ID: `MTY3OTY1NTk2MCwwMDAwMDAwMDZiYTE0NjE3ZGZmMDc0ZDIzMDlmYzJiZWY3ODE3OTI5`
+Snapshot ID: `MTY3OTY1NTk2MCwwMDAwMDAwMDk2YjliMTRmYTcyZDhmZTE4OTlkNzMzMjExNjEzNDUw`

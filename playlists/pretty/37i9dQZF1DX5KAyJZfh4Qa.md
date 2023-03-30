@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Sweet Pill
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,522 likes - 81 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,606 likes - 81 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

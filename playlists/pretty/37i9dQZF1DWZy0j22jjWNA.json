@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 77215,
+  "num_followers": 77250,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDU5ZmY4NjFlYzRiMjUzZjU2MDE5Yjg0NTYzNGY5MjQ2",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGU4NDU4OTkyNGQyOGU5NmZkOWIyYWE0MWQ5ZDBlZTc3",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Dawned On Me",
-        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
-      },
-      "artists": [
-        {
-          "name": "Brewer",
-          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Dawned On Me",
-      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Volume II",
         "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 308883,
       "name": "Suffering Servant",
       "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Dawned On Me",
+        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
+      },
+      "artists": [
+        {
+          "name": "Brewer",
+          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Dawned On Me",
+      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
     },
     {
       "added_at": "2020-09-04 04:02:00",

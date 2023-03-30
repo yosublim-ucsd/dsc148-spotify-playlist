@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 78 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 50 | [6 string american dream](https://open.spotify.com/track/43lYzLeOEuCI3ylod1BluA) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [being a dad and missing mine](https://open.spotify.com/album/4kf6OiSKhk7ZIRRnkP4AGA) | 3:13 |
 | 51 | [Unbreakup](https://open.spotify.com/track/2md4QjCglKIHsB95VM8pWi) | [Cadence](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/2dI9QoBHep9dPf00ubgsjN) | 3:44 |
 | 52 | [Think of You](https://open.spotify.com/track/7Kv6dG9sVPnJuKmCQdrlUs) | [Thimlife](https://open.spotify.com/artist/5hlGugY24gHs0FqG05AgN0), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Think of You](https://open.spotify.com/album/4sdfdyZcABEAT0dm6BjAHa) | 3:25 |
-| 53 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
-| 54 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 |
+| 53 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 |
+| 54 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 55 | [Feel Free](https://open.spotify.com/track/7mQECZHQmEBEdXbpaBZNSH) | [Bandēs](https://open.spotify.com/artist/7vcT2s2G1IlCiIP3OBA8Af), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Feel Free](https://open.spotify.com/album/5UjIjX0L2nzxLJdTl12TD2) | 3:22 |
 | 56 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
 | 57 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 77 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 78 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 |
 
-Snapshot ID: `MjgwMDExMTcsMDAwMDAwMDBhODUxZjc1MGJmN2JiNDZkMWUxM2U4YjA2ZTRiNjI4Zg==`
+Snapshot ID: `MjgwMDIyNTcsMDAwMDAwMDA2YTBlMWM3NDJlZDQ4M2NlZDNlNmJiOThlNWM1OTc1ZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,930 likes - 49 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,040 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

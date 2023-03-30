@@ -2,7 +2,7 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: J.YUNA\(제이유나\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: KIXO\(키조\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
 452 songs - 1 day 2 hr 53 min
 
@@ -47,7 +47,7 @@
 | [Beach Again \(Acoustic Ver.\)](https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:21 | 2021-12-10 | 2022-07-24 |
 | [Beautiful Day](https://open.spotify.com/track/45EAhyaxuIPCvDtEuTi9yS) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [묘수](https://open.spotify.com/artist/6pngmJoXCOOg9nzhR7ezjF) | [Beautiful Day](https://open.spotify.com/album/7oZqnesBop8zn4D8QEZFIZ) | 2:52 | 2022-03-10 | 2022-04-21 |
 | [Because I Love You](https://open.spotify.com/track/1v1xZWe4flQJlntJXAIVI8) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Because I Love You](https://open.spotify.com/album/1tbWNmbqbGMTX2ioNCndau) | 3:40 | 2022-06-09 | 2022-07-28 |
-| [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-28 |  |
+| [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-27 |  |
 | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/track/7HyFV9XyVMu8ZbbOMvMPgO) | [CAR, THE GARDEN](https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3) | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/album/3QdHo5KB3EKyc0uapPsPJ0) | 3:19 | 2022-01-13 | 2022-07-14 |
 | [Behind the camera](https://open.spotify.com/track/1RAX3WtuQY3TyktqzAdUH8) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Behind the camera](https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY) | 3:58 | 2022-07-04 | 2022-08-10 |
 | [Best regards](https://open.spotify.com/track/3owGb3JGbkRAWZjnCBj3Ic) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Best regards](https://open.spotify.com/album/68ZALvGpKI9Q8VEHUtodNN) | 3:18 | 2022-03-07 | 2022-04-21 |

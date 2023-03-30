@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,625 likes - 75 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,970 likes - 75 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 57 | [Bug Powder Dust \- Kruder & Dorfmeister Session](https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Justin Warfield](https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA) | [Trip Hop Classics](https://open.spotify.com/album/0SatpsNu81KdWzit0pmCb3) | 7:27 |
 | 58 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 |
 | 59 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
-| 60 | [Long Road](https://open.spotify.com/track/2b1E782QABZaTux77fwlbV) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:01 |
-| 61 | [Aquaself](https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:16 |
+| 60 | [Aquaself](https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:16 |
+| 61 | [Long Road](https://open.spotify.com/track/2b1E782QABZaTux77fwlbV) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:01 |
 | 62 | [London Mind State](https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [Ninja Cuts \- Flexistentialism](https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi) | 4:45 |
 | 63 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
 | 64 | [We Be the Crew](https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX) | [The Wiseguys](https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA) | [The Antidote](https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I) | 5:49 |
 | 65 | [Seashell](https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc) | [Skylab](https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7) | [\#1](https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en) | 5:39 |
 | 66 | [Snapper](https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Reeled And Skinned](https://open.spotify.com/album/2i1Kxf68oQX9HUXIO2yLuz) | 4:47 |
-| 67 | [Black Jesus](https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
-| 68 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
+| 67 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
+| 68 | [Black Jesus](https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
 | 69 | [Mad Blunted Jazz](https://open.spotify.com/track/5DBHf9TJyINVithuciTmic) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 5:10 |
-| 70 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
-| 71 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 70 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 71 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
 | 72 | [Galactic Funk](https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [This Is Home Entertainment](https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn) | 6:07 |
 | 73 | [No Government](https://open.spotify.com/track/20Wu65TWDvjqRK4Rrzsmp8) | [Nicolette](https://open.spotify.com/artist/0ZC2lg6yD32OG48YKBi7Id) | [Trip Hop Classics By Kid Loco](https://open.spotify.com/album/7oJnqZrIB4VhuJJAb73KHC) | 5:32 |
 | 74 | [Mugen \- In the Morning](https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc) | [Major Force West E.M.S\. Orchestra](https://open.spotify.com/artist/0pRKH6lK1VidZ76cfdGx9v) | [Major Force West \('93 \- '97\)](https://open.spotify.com/album/465mxu1pDJsSCXOziGO7ly) | 6:24 |
 | 75 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDk1Y2U0ODAwZGFlODMxZDU4NTY5OTg5NjU0N2NkMDQ4`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDM3ZDA1Zjc3ZjE2YWY4ZGJmZGEwNGE3YTczYWNkZTUy`

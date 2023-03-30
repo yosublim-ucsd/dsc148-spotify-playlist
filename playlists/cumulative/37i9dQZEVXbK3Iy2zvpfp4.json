@@ -4694,7 +4694,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 208630,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
@@ -4752,7 +4752,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 93857,
       "name": "Fell in Love",
       "url": "https://open.spotify.com/track/5NqRANQuUV1TqouPsnqrb4"
@@ -6312,7 +6312,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 224062,
       "name": "High speed",
       "url": "https://open.spotify.com/track/0lh2ff6BeCP2L05kDUkEjo"
@@ -8048,10 +8048,32 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 105560,
       "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
       "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
+    },
+    {
+      "album": {
+        "name": "La Lecon Particuliere",
+        "url": "https://open.spotify.com/album/2ZgDbFnLWj6dRwDAwk6WlV"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        },
+        {
+          "name": "Christian Gaubert",
+          "url": "https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105560,
+      "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
+      "url": "https://open.spotify.com/track/1MDy1pR75sPtgFcUzP407o"
     },
     {
       "album": {
@@ -9096,6 +9118,24 @@
       "duration_ms": 160000,
       "name": "Megtan\u00edtalak \u00e9lni",
       "url": "https://open.spotify.com/track/6MqmeH170zlMDEkKZKmNDG"
+    },
+    {
+      "album": {
+        "name": "Meg\u00e1ll Az Id\u0151",
+        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153456,
+      "name": "Meg\u00e1ll Az Id\u0151",
+      "url": "https://open.spotify.com/track/708JXY4n5r7F5ZNoJ2Sez4"
     },
     {
       "album": {
@@ -11118,7 +11158,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP"

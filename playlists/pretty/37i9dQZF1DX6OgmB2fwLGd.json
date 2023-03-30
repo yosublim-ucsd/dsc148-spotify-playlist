@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: Ken Carson",
-  "num_followers": 1324019,
+  "num_followers": 1324508,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk1MzE2NiwwMDAwMDAwMGIxZmY3YzMyODJkMzlmOTVmNWEwYTFmYzMyMWNhM2Ez",
+  "snapshot_id": "MTY4MDEyMzY3OCwwMDAwMDAwMDQ3MGNlOTNmODFhNGMwZGZjNDU5MjgxMTZmZTBjNDJm",
   "tracks": [
     {
       "added_at": "2023-03-20 14:07:48",
@@ -23,6 +23,22 @@
       "duration_ms": 152593,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
+    {
+      "added_at": "2022-11-21 20:50:38",
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -57,26 +73,6 @@
       "url": "https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "SCARING THE HOES",
-        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 142825,
-      "name": "SCARING THE HOES",
-      "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
-    },
-    {
       "added_at": "2023-03-15 16:22:26",
       "album": {
         "name": "Blicky",
@@ -93,20 +89,24 @@
       "url": "https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe"
     },
     {
-      "added_at": "2023-03-27 18:59:36",
+      "added_at": "2023-03-29 21:01:18",
       "album": {
-        "name": "Beat My Face",
-        "url": "https://open.spotify.com/album/68GV8wXKbhSwoVroQ2wgdR"
+        "name": "FEAST feat. TiaCorine (Remix)",
+        "url": "https://open.spotify.com/album/7keEE34WdMFUy8bcWNSYvi"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
         }
       ],
-      "duration_ms": 120790,
-      "name": "Beat My Face",
-      "url": "https://open.spotify.com/track/4l3rYp5GUAwRVhBbSIw5ZH"
+      "duration_ms": 134153,
+      "name": "FEAST feat. TiaCorine (Remix)",
+      "url": "https://open.spotify.com/track/2wiS5tnwJVkzwe3fo3WG7F"
     },
     {
       "added_at": "2023-02-14 16:35:41",
@@ -141,40 +141,20 @@
       "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-27 18:59:36",
       "album": {
-        "name": "1-800-Bad-Bxtch",
-        "url": "https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP"
+        "name": "Beat My Face",
+        "url": "https://open.spotify.com/album/68GV8wXKbhSwoVroQ2wgdR"
       },
       "artists": [
         {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 154691,
-      "name": "1-800-Bad-Bxtch",
-      "url": "https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Iris Green (feat. Future)",
-        "url": "https://open.spotify.com/album/1ipqIxIEYoF4ZZkWtit0Ga"
-      },
-      "artists": [
-        {
-          "name": "Ghostluvme",
-          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 179923,
-      "name": "Iris Green (feat. Future)",
-      "url": "https://open.spotify.com/track/31P1VMYqCR0L7Vcq8XRxE8"
+      "duration_ms": 120790,
+      "name": "Beat My Face",
+      "url": "https://open.spotify.com/track/4l3rYp5GUAwRVhBbSIw5ZH"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -245,6 +225,38 @@
       "url": "https://open.spotify.com/track/6dj6mwfnLiCp20cslQEcOE"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "1-800-Bad-Bxtch",
+        "url": "https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 154691,
+      "name": "1-800-Bad-Bxtch",
+      "url": "https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "ONLY NEED MY BABY! (SMOAGT)",
+        "url": "https://open.spotify.com/album/6FcMYOv8OfISsNm6VRudsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 99745,
+      "name": "ONLY NEED MY BABY! (SMOAGT)",
+      "url": "https://open.spotify.com/track/2lIPicEikuMfrsD5cP3Xyp"
+    },
+    {
       "added_at": "2023-02-10 18:26:46",
       "album": {
         "name": "SPIT IN MY FACE!",
@@ -261,22 +273,6 @@
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "rockhardt",
-        "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
-      },
-      "artists": [
-        {
-          "name": "Carbon",
-          "url": "https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J"
-        }
-      ],
-      "duration_ms": 158108,
-      "name": "rockhardt",
-      "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
-    },
-    {
       "added_at": "2023-03-17 18:53:19",
       "album": {
         "name": "10,000 gecs",
@@ -291,6 +287,26 @@
       "duration_ms": 137440,
       "name": "Dumbest Girl Alive",
       "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
+    },
+    {
+      "added_at": "2023-03-29 21:01:18",
+      "album": {
+        "name": "GHOSTKILLA",
+        "url": "https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 139469,
+      "name": "GHOSTKILLA",
+      "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
     },
     {
       "added_at": "2023-02-09 20:50:09",
@@ -331,6 +347,38 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
+    },
+    {
+      "added_at": "2023-01-27 05:07:00",
+      "album": {
+        "name": "U Neva",
+        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "U Neva",
+      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "rockhardt",
+        "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J"
+        }
+      ],
+      "duration_ms": 158108,
+      "name": "rockhardt",
+      "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -407,22 +455,6 @@
       "duration_ms": 147745,
       "name": "Tally (with Denzel Curry)",
       "url": "https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "ONLY NEED MY BABY! (SMOAGT)",
-        "url": "https://open.spotify.com/album/6FcMYOv8OfISsNm6VRudsV"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 99745,
-      "name": "ONLY NEED MY BABY! (SMOAGT)",
-      "url": "https://open.spotify.com/track/2lIPicEikuMfrsD5cP3Xyp"
     },
     {
       "added_at": "2023-02-16 19:58:57",
@@ -653,22 +685,6 @@
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
     },
     {
-      "added_at": "2022-11-21 20:50:38",
-      "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 134322,
-      "name": "FreakyT",
-      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
-    },
-    {
       "added_at": "2022-07-22 07:00:00",
       "album": {
         "name": "Mine",
@@ -775,6 +791,198 @@
       "duration_ms": 137142,
       "name": "Penthouse (feat. Zzz.)",
       "url": "https://open.spotify.com/track/11HCblH3YChzvCTGUB1hcs"
+    },
+    {
+      "added_at": "2023-03-22 03:09:44",
+      "album": {
+        "name": "We Don't Matter (Remastered)",
+        "url": "https://open.spotify.com/album/30izpgLnNATYy0YzHD196V"
+      },
+      "artists": [
+        {
+          "name": "Yung Frown",
+          "url": "https://open.spotify.com/artist/6oeFYeDMdvczwH78h8il8P"
+        }
+      ],
+      "duration_ms": 287545,
+      "name": "Macintosh Plus 2k17",
+      "url": "https://open.spotify.com/track/3bMO8vLuKlFFH9uvVO036u"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Lil Pump 2",
+        "url": "https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv"
+      },
+      "artists": [
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        }
+      ],
+      "duration_ms": 133999,
+      "name": "Tesla",
+      "url": "https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU"
+    },
+    {
+      "added_at": "2023-01-30 15:27:56",
+      "album": {
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 162208,
+      "name": "pRETTy",
+      "url": "https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO"
+    },
+    {
+      "added_at": "2023-01-04 14:55:48",
+      "album": {
+        "name": "THROW",
+        "url": "https://open.spotify.com/album/0rCfNI2MmlJPUySxVOCmYs"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        },
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 138308,
+      "name": "THROW",
+      "url": "https://open.spotify.com/track/1cz9jUbkmRSX6jZmQrrSA9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2022-09-07 15:41:42",
+      "album": {
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "NOSTYLIST",
+      "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
+    },
+    {
+      "added_at": "2023-01-27 05:07:00",
+      "album": {
+        "name": "TAN",
+        "url": "https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "TAN",
+      "url": "https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh"
+    },
+    {
+      "added_at": "2023-01-27 05:07:00",
+      "album": {
+        "name": "LONG WAY",
+        "url": "https://open.spotify.com/album/2WKxFv925cfjb4QAextTKE"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 129899,
+      "name": "LONG WAY",
+      "url": "https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD"
+    },
+    {
+      "added_at": "2022-10-07 07:48:00",
+      "album": {
+        "name": "Slide Den",
+        "url": "https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Slide Den",
+      "url": "https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR"
+    },
+    {
+      "added_at": "2022-10-25 15:07:57",
+      "album": {
+        "name": "OOGA BOOGA!",
+        "url": "https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 139038,
+      "name": "OOGA BOOGA!",
+      "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "BACK IN ACTION 3.0",
+        "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 133136,
+      "name": "223's (feat. BabyTron)",
+      "url": "https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -961,42 +1169,6 @@
       "url": "https://open.spotify.com/track/3fPZNaoKrRFmZQKj87pBrP"
     },
     {
-      "added_at": "2023-03-22 03:09:44",
-      "album": {
-        "name": "We Don't Matter (Remastered)",
-        "url": "https://open.spotify.com/album/30izpgLnNATYy0YzHD196V"
-      },
-      "artists": [
-        {
-          "name": "Yung Frown",
-          "url": "https://open.spotify.com/artist/6oeFYeDMdvczwH78h8il8P"
-        }
-      ],
-      "duration_ms": 287545,
-      "name": "Macintosh Plus 2k17",
-      "url": "https://open.spotify.com/track/3bMO8vLuKlFFH9uvVO036u"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Lil Pump 2",
-        "url": "https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv"
-      },
-      "artists": [
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        },
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        }
-      ],
-      "duration_ms": 133999,
-      "name": "Tesla",
-      "url": "https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU"
-    },
-    {
       "added_at": "2023-01-30 15:26:21",
       "album": {
         "name": "Side Effects EP",
@@ -1059,22 +1231,6 @@
       "duration_ms": 66803,
       "name": "Dead n Gone",
       "url": "https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco"
-    },
-    {
-      "added_at": "2023-01-30 15:27:56",
-      "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 162208,
-      "name": "pRETTy",
-      "url": "https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1213,26 +1369,6 @@
       "url": "https://open.spotify.com/track/0IEpFiWXbmfpiiUHPlPkYC"
     },
     {
-      "added_at": "2023-01-04 14:55:48",
-      "album": {
-        "name": "THROW",
-        "url": "https://open.spotify.com/album/0rCfNI2MmlJPUySxVOCmYs"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        },
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 138308,
-      "name": "THROW",
-      "url": "https://open.spotify.com/track/1cz9jUbkmRSX6jZmQrrSA9"
-    },
-    {
       "added_at": "2023-01-19 20:13:54",
       "album": {
         "name": "Need",
@@ -1285,26 +1421,6 @@
       "url": "https://open.spotify.com/track/3wuwYbTlppthVAPixdbQma"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
       "added_at": "2023-01-06 06:04:00",
       "album": {
         "name": "Mr. Hanky",
@@ -1319,22 +1435,6 @@
       "duration_ms": 142846,
       "name": "Mr. Hanky",
       "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
-    },
-    {
-      "added_at": "2022-09-07 15:41:42",
-      "album": {
-        "name": "NO STYLIST",
-        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "NOSTYLIST",
-      "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
     },
     {
       "added_at": "2023-02-09 20:50:09",
@@ -1409,38 +1509,6 @@
       "url": "https://open.spotify.com/track/2Jh4Ik2VD5Et1J593Vtotp"
     },
     {
-      "added_at": "2023-01-27 05:07:00",
-      "album": {
-        "name": "TAN",
-        "url": "https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ"
-      },
-      "artists": [
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "TAN",
-      "url": "https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh"
-    },
-    {
-      "added_at": "2023-01-27 05:07:00",
-      "album": {
-        "name": "LONG WAY",
-        "url": "https://open.spotify.com/album/2WKxFv925cfjb4QAextTKE"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 129899,
-      "name": "LONG WAY",
-      "url": "https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD"
-    },
-    {
       "added_at": "2023-01-04 15:02:53",
       "album": {
         "name": "Players",
@@ -1505,22 +1573,6 @@
       "url": "https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL"
     },
     {
-      "added_at": "2022-10-07 07:48:00",
-      "album": {
-        "name": "Slide Den",
-        "url": "https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Slide Den",
-      "url": "https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR"
-    },
-    {
       "added_at": "2022-08-23 18:39:35",
       "album": {
         "name": "A Love Letter To You 4",
@@ -1535,22 +1587,6 @@
       "duration_ms": 91288,
       "name": "The Grinch",
       "url": "https://open.spotify.com/track/1W24W6jQegnNh0x5DfBBPT"
-    },
-    {
-      "added_at": "2023-01-27 05:07:00",
-      "album": {
-        "name": "U Neva",
-        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 142250,
-      "name": "U Neva",
-      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1591,22 +1627,6 @@
       "duration_ms": 197380,
       "name": "GOATED. (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
-    },
-    {
-      "added_at": "2022-10-25 15:07:57",
-      "album": {
-        "name": "OOGA BOOGA!",
-        "url": "https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 139038,
-      "name": "OOGA BOOGA!",
-      "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
     },
     {
       "added_at": "2022-10-21 05:21:05",
@@ -1677,26 +1697,6 @@
       "url": "https://open.spotify.com/track/2XSrt1dcuOXPgl3B4bxmBz"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "BACK IN ACTION 3.0",
-        "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        }
-      ],
-      "duration_ms": 133136,
-      "name": "223's (feat. BabyTron)",
-      "url": "https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm"
-    },
-    {
       "added_at": "2022-10-14 05:22:00",
       "album": {
         "name": "SIMPLE",
@@ -1711,42 +1711,6 @@
       "duration_ms": 154800,
       "name": "SIMPLE",
       "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 141508,
-      "name": "Shut It",
-      "url": "https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM"
-    },
-    {
-      "added_at": "2022-08-12 18:54:23",
-      "album": {
-        "name": "Trip At Knight (Complete Edition)",
-        "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "Demon Time (feat. Ski Mask The Slump God)",
-      "url": "https://open.spotify.com/track/1hE8iI3YK9x1VUBDtSzg3x"
     }
   ],
   "unique_name": "Internet People",

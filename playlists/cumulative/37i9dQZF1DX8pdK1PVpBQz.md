@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Milku\. Artwork: Isu Kim
 
-1,891 songs - 4 day 8 hr 27 min
+1,892 songs - 4 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Dude](https://open.spotify.com/track/0O1nRDlZb41EiEmGZDGFEv) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Happy, Sad](https://open.spotify.com/album/3hwWU4b9A75bvwG67Sv8lY) | 2:40 | 2022-11-30 | 2023-01-13 |
 | [Dude](https://open.spotify.com/track/1BGu0LjKQfC63QBaRMYc66) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Dude](https://open.spotify.com/album/2NfRYje8N8j6nwTbAVxp9B) | 2:40 | 2022-01-25 | 2022-02-24 |
 | [DUMB](https://open.spotify.com/track/39lTojjA8EFTDBy53afhcV) | [RAAJ](https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc) | [DUMB](https://open.spotify.com/album/4S4H3AvyW4K2Tsnql8h2UP) | 2:00 | 2022-11-23 | 2022-12-01 |
+| [Dumb It Down](https://open.spotify.com/track/5oDn7RyclCYRKLw2dgFb96) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [Chloe Dadd](https://open.spotify.com/artist/7uXyXCNAbNu5X6BdPFBWrj), [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Dumb It Down](https://open.spotify.com/album/67DYdOx2cC00Muj1Im02nD) | 3:13 | 2023-03-29 |  |
 | [Eagle Eyes](https://open.spotify.com/track/1hzzMf5ugGH5rNiysifXS0) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Eagle Eyes](https://open.spotify.com/album/0rpb7vFqQ8IvgRXK59GTKD) | 3:16 | 2022-06-29 | 2022-08-04 |
 | [Earthquake](https://open.spotify.com/track/4n2DMLYF7IeUI6WP1e7Yib) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9) | [Earthquake](https://open.spotify.com/album/5MfJZSpAcf1isRNfldztEN) | 3:58 | 2022-04-13 | 2022-04-27 |
 | [Easier](https://open.spotify.com/track/7z3EyvJUev9xb6kR31W6an) | [FABLE](https://open.spotify.com/artist/2Ir5utEO9a9AClOZEsHJX5), [Silas Futura](https://open.spotify.com/artist/3mdRkSmrkUaSbVf4pT6qan) | [Easier](https://open.spotify.com/album/2UgLtodwBeOiVS9ST89GPC) | 3:09 | 2022-04-13 | 2022-05-05 |

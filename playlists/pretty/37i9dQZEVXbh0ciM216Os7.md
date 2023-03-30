@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 4 | [Tomorrow \(Snoop Dogg feat\. Denaun\)](https://open.spotify.com/track/090KQwFxJk5AWIffpXEzXB) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Denaun](https://open.spotify.com/artist/4NhyK1Uoo8ScQOSl8x0jqI) | [Tomorrow \(Snoop Dogg feat\. Denaun\)](https://open.spotify.com/album/5GyiLdYRAwYThnfdIpNh0R) | 3:02 |
 | 5 | [Subpar \(with Method Man\)](https://open.spotify.com/track/4ihDvBziAGDBtxggYujhks) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Subpar \(with Method Man\)](https://open.spotify.com/album/5C9BiODFRpVGxAPDp042fO) | 3:14 |
 | 6 | [Let It All Out](https://open.spotify.com/track/237yGWGEvX2phAuOgf7HHx) | [Lack Of Afro](https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap), [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV), [Herbal T](https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf) | [Let It All Out](https://open.spotify.com/album/77ImJD1jSOmmaMGdHkPCiR) | 3:19 |
-| 7 | [Facts \- ROOTS Remix](https://open.spotify.com/track/6KCEkVJpNBSMKJWsprhmNS) | [Bassel Darwish](https://open.spotify.com/artist/0YSvkYYbu18RTZpK3cUP6i), [ROOTS](https://open.spotify.com/artist/7BrdsDFrgj0vqj8kwilICw) | [Facts](https://open.spotify.com/album/7wb6gCqqF2la2iUJxDrkkv) | 3:33 |
-| 8 | [Flowers](https://open.spotify.com/track/7ouMHnBPsGDrOTHIKLDgOS) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Stella Katherine Cole](https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz) | [Flowers](https://open.spotify.com/album/4OpUprBWsTAsEK5y3xMJBj) | 3:55 |
-| 9 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 |
-| 10 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 |
+| 7 | [Flowers](https://open.spotify.com/track/7ouMHnBPsGDrOTHIKLDgOS) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Stella Katherine Cole](https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz) | [Flowers](https://open.spotify.com/album/4OpUprBWsTAsEK5y3xMJBj) | 3:55 |
+| 8 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 |
+| 9 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 |
+| 10 | [Wild](https://open.spotify.com/track/6HziIqUKIzfSAHOpVtALrL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Wild](https://open.spotify.com/album/2nYb1jBuzoEsHYIrh7ueL9) | 2:15 |
 | 11 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Demon Time \(with Ari Lennox\) \[Remix\]](https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b) | 3:40 |
 | 12 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 |
 | 13 | [From the Subway Train \- Extended Version](https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Silver Lake Listening Companion](https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0) | 2:21 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 29 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 |
 | 30 | [Walk With Me \- Resound NYC Version](https://open.spotify.com/track/2FLXGK0uYcyG0rSWYRByGy) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Walk With Me](https://open.spotify.com/album/5E1hgax8y4HNmdqgTz0zUD) | 5:44 |
 
-Snapshot ID: `Mjc5OTM4NDAsMDAwMDAwMDBjZTRmYjI1NWQwN2MwNDhiNGU1MTg2ZjFiZTRhMTZkOQ==`
+Snapshot ID: `Mjc5OTM4NDAsMDAwMDAwMDBiMzAxNDdjZjlhYTY2MjE2YTJjNjUyNjBiNTMzOTYzMA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,613 likes - 71 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,630 likes - 71 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 7 | [Cinta Terakhirku](https://open.spotify.com/track/5bLIFHq7N4yqz8LX3wwD4E) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Syifa Hadju](https://open.spotify.com/artist/0xchyM3xA3eEnjNUU2BZby) | [Cinta Terakhirku](https://open.spotify.com/album/4clmaWZDHoHzqw70ZhcW7W) | 4:17 |
 | 8 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 |
 | 9 | [Hari ini,Esok dan Seterusnya/HES](https://open.spotify.com/track/18BpGOOxfFPKrjbdG9HlPT) | [Nirina Zubir](https://open.spotify.com/artist/5dN7FWc0YwXTR24XAg2hZ3) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:28 |
-| 10 | [Kala Cinta Menggoda](https://open.spotify.com/track/1NmxBjg8ybFwQkiKVnRxws) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [By Request\-Seperti Yang Kau Minta](https://open.spotify.com/album/1n3e2JeVY2SUPD6LIYV16S) | 5:24 |
+| 10 | [Kala Cinta Menggoda](https://open.spotify.com/track/4bYc6nyol1jKnCTUYtcr2E) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [My Love](https://open.spotify.com/album/1JGRzUgWJcj0mlgqsfiPGt) | 5:19 |
 | 11 | [You're Mine](https://open.spotify.com/track/6tl50DD3CKqCIClxLeUDO0) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [You're Mine](https://open.spotify.com/album/08mtNNpSh6R98NYDxlrWm8) | 4:08 |
 | 12 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 |
 | 13 | [Semesta Menari](https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Semesta Menari](https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh) | 3:47 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 70 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 |
 | 71 | [I Love You 3000](https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [I Love You 3000](https://open.spotify.com/album/0vaFqzSwOjHv4QhK6BizL5) | 3:29 |
 
-Snapshot ID: `MTY3NTQwNDIwOCwwMDAwMDAwMDMyMDBiZjQxMWM2YjU2MGUzMThlYzYzMmU0MmNkMzI4`
+Snapshot ID: `MTY3NTQwNDIwOCwwMDAwMDAwMDYyMGI3YjU2ZWNlZTEyYjlmNDE0MjdkN2E0NjlkNzY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 
 > Feed your focus with restaurant ambience from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,288 likes - 93 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,307 likes - 93 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

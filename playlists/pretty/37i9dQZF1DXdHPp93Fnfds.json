@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: RENEE",
-  "num_followers": 146068,
+  "num_followers": 146091,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDI3YmRiMmY5YTYxZjUwNmRmMDRkOTkxZmRlMzMwY2M4",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGUxMzg0OTQ5YTkxY2VjZmY4ODViMGIyNmM0NTJhYzk1",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 196072,
       "name": "La Casa de A",
       "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "I Like 2 Be",
+        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "I Like 2 Be",
+      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Puro Teatro",
         "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 177818,
       "name": "Lindos Problemas",
       "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "I Like 2 Be",
-        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -467,6 +467,22 @@
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Wannabe - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 152109,
+      "name": "Wannabe - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -563,22 +579,6 @@
       "duration_ms": 154361,
       "name": "REPROGRAMAR",
       "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Wannabe - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 152109,
-      "name": "Wannabe - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "PSILOCIBINA",
-        "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "PSILOCIBINA",
-      "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Ay, Amor",
         "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
       },
@@ -755,18 +739,34 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "El Club",
-        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 159453,
-      "name": "El Club",
-      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+        "name": "El Club",
+        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+      "duration_ms": 159453,
+      "name": "El Club",
+      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Az\u00facar",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "duration_ms": 205398,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Dormir Contigo",
         "url": "https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8"
       },
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "LIBERTAD",
-        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 216961,
-      "name": "LIBERTAD",
-      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Az\u00facar",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
-      },
-      "artists": [
-        {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
-        }
-      ],
-      "duration_ms": 205398,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -1047,42 +1031,6 @@
       "duration_ms": 158492,
       "name": "SUBCONSCIENTE",
       "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Un Gatito",
-        "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        },
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 185824,
-      "name": "Un Gatito",
-      "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1107,6 +1055,58 @@
       "duration_ms": 147198,
       "name": "Tu Vereda",
       "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        },
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "La Fuerza",
+      "url": "https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 233680,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "LIBERTAD",
+        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 216961,
+      "name": "LIBERTAD",
+      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        },
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 250909,
-      "name": "La Fuerza",
-      "url": "https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -1219,18 +1199,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
+        "name": "Un Gatito",
+        "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        },
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         }
       ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
+      "duration_ms": 185824,
+      "name": "Un Gatito",
+      "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Algo",
-        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
       },
       "artists": [
         {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 168841,
-      "name": "Algo",
-      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 190462,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 168841,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+        "name": "Te Pense un Monton",
+        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
       },
       "artists": [
         {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+      "duration_ms": 144179,
+      "name": "Te Pense un Monton",
+      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
     }
   ],
   "unique_name": "Mujeres del Indie",

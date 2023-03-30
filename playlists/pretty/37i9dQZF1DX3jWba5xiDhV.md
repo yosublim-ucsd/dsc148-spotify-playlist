@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,714 likes - 75 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,036 likes - 75 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 46 | [For You \- Original Album](https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 5:53 |
 | 47 | [San Salvador \- Single Version](https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz \(Expanded Edition\)](https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk) | 3:05 |
 | 48 | [I Want You](https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Gary Low: The Best of](https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9) | 8:29 |
-| 49 | [Happy Song\(Clap Your Hands\) \(Remix\)](https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:37 |
-| 50 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 |
+| 49 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 |
+| 50 | [Happy Song\(Clap Your Hands\) \(Remix\)](https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:37 |
 | 51 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 |
 | 52 | [Eyes \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL) | [Eyes \(2020 Remaster\)](https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz) | 6:38 |
 | 53 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Livin' Up](https://open.spotify.com/track/54Bhw4FfdM303XteW7HQNv) | [B.W.H.](https://open.spotify.com/artist/57nTf3F69KS7AuiAaw2h6f) | [Livin' Up](https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray) | 4:47 |
 | 75 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
 
-Snapshot ID: `MTY3NzU5MDQ4NSwwMDAwMDAwMDVmMDNkNWMwOTIxOWVjYzMwZGQ0YzljMWEwYWRkOTBh`
+Snapshot ID: `MTY3NzU5MDQ4NSwwMDAwMDAwMDFiOGFhYTc3NDc5OWZjZTE2YmJlYjdhOTFkZmFlNDMy`

@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Tanner Adell, by Ian Woods.
 
-133 songs - 6 hr 53 min
+134 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2021-12-03 | 2022-09-18 |
 | [Ballin'](https://open.spotify.com/track/7v4wYRh7jlMC6vpNKkaLwv) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Ballin'](https://open.spotify.com/album/3p0m9rgUVt5BIDj2BfAoYi) | 1:54 | 2021-12-03 | 2023-02-18 |
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2021-12-03 |  |
-| [Beer Up](https://open.spotify.com/track/6oWSA5EQdY20ZfZCyvjMki) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0) | 3:04 | 2022-03-11 |  |
+| [Beer Up](https://open.spotify.com/track/6oWSA5EQdY20ZfZCyvjMki) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0) | 3:04 | 2022-03-11 | 2023-03-30 |
+| [Beer Up](https://open.spotify.com/track/7mcj0B8saFQlMyycOHl4NL) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2n2DccporPZDxX4qAJKfIZ) | 3:04 | 2023-02-17 |  |
 | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/album/5YGntXPD5Z5QsZGC1BHLxy) | 2:56 | 2021-12-03 |  |
 | [Best Revenge](https://open.spotify.com/track/22JpCHdmjqmeSmevIz8c32) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Best Revenge](https://open.spotify.com/album/3Lg3SLFfC4iNyOBnPL2XAV) | 3:18 | 2022-03-18 | 2023-02-18 |
 | [Best Shot \- Spotify Singles](https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:10 | 2022-04-01 |  |

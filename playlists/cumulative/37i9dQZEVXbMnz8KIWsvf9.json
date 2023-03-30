@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 169811,
       "name": "FIRE BOY",
       "url": "https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS"
@@ -3512,6 +3512,24 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "Kitsch",
+        "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
     },
     {
       "album": {
@@ -9090,7 +9108,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 216136,
       "name": "\u0e23\u0e39\u0e49\u0e01\u0e31\u0e19\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49 - mint",
       "url": "https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD"
@@ -9744,6 +9762,24 @@
       "duration_ms": 226086,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e32\u0e1a\u0e19\u0e49\u0e33\u0e15\u0e32",
+        "url": "https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps"
+      },
+      "artists": [
+        {
+          "name": "YourMOOD",
+          "url": "https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "\u0e2d\u0e32\u0e1a\u0e19\u0e49\u0e33\u0e15\u0e32",
+      "url": "https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4"
     },
     {
       "album": {

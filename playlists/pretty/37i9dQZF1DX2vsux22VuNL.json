@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Papatinho, Xam\u00e3",
-  "num_followers": 264951,
+  "num_followers": 265085,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDdlMjVjZjlkOGI2MDlmZDEyNDZmMzY4NjA1M2U2MGM5",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDBlM2Y4YjA0MGZlNTQ1Y2MzMjZmOTJkNzU1NDVlZTlm",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 158625,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Maloqueiro Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K"
       },
@@ -971,18 +951,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Me Diz Se Vem",
-        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli"
       },
       "artists": [
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
         }
       ],
-      "duration_ms": 177612,
-      "name": "Me Diz Se Vem",
-      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
+      "duration_ms": 158625,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 176064,
       "name": "Posturada",
       "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Me Diz Se Vem",
+        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 177612,
+      "name": "Me Diz Se Vem",
+      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 169850,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Joga Menino",
-        "url": "https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Dj Paulo Beck",
-          "url": "https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Joga Menino",
-      "url": "https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Enquanto O Dia N\u00e3o Acabou",
         "url": "https://open.spotify.com/album/2ZOvUn9vzA6TI2Gw5IbWLM"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 168500,
       "name": "Enquanto O Dia N\u00e3o Acabou",
       "url": "https://open.spotify.com/track/1FrXmfE6yDBU0O5wqxE8DW"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Joga Menino",
+        "url": "https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Dj Paulo Beck",
+          "url": "https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Joga Menino",
+      "url": "https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE"
     },
     {
       "added_at": "2023-03-24 03:00:00",

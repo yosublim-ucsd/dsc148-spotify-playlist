@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,306 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,308 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 53 | [Bang](https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn) | 2:50 |
 | 54 | [Satan in Love](https://open.spotify.com/track/19BrvODRFitoD156Syg7nW) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5) | 3:37 |
 | 55 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
-| 56 | [Comet](https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [Comet](https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr) | 4:21 |
-| 57 | [Blue Eyes](https://open.spotify.com/track/7fVmuHYUd7L3aaANhzhkvr) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym) | [Devoid Of Dimension, Pt.1](https://open.spotify.com/album/4zokk2khHfb9tEuBBnYI5Y) | 8:33 |
+| 56 | [Blue Eyes](https://open.spotify.com/track/7fVmuHYUd7L3aaANhzhkvr) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym) | [Devoid Of Dimension, Pt.1](https://open.spotify.com/album/4zokk2khHfb9tEuBBnYI5Y) | 8:33 |
+| 57 | [Comet](https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [Comet](https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr) | 4:21 |
 | 58 | [Dulce de Leche \(feat\. M¥SS KETA\) \- M¥SS KETA remix](https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Dulce de Leche \(feat\. M¥SS KETA\) \[M¥SS KETA remix\]](https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla) | 3:06 |
-| 59 | [MOVESET \(feat\. Kiddy Smile & David Blank\)](https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:16 |
-| 60 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 |
+| 59 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 |
+| 60 | [MOVESET \(feat\. Kiddy Smile & David Blank\)](https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:16 |
 | 61 | [Chi se ne frega](https://open.spotify.com/track/6RUaPDMCEVkPgceTNMYJrJ) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:47 |
 | 62 | [Respiro](https://open.spotify.com/track/0AwjnkfYhpjZOO6eDSFFxx) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 3:33 |
 | 63 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 70 | [COL FASCIO NON SI SCOPA](https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN), [Icon Mode](https://open.spotify.com/artist/20FM6uvwjnNZEqX1W5SvF2) | [ASOKO, Vol\. 2](https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ) | 1:51 |
 | 71 | [Lingua in Fiamme](https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF) | 3:03 |
 | 72 | [Young Boy](https://open.spotify.com/track/44S6dzwZux8Juxe8wP5y6E) | [Maria Violenza](https://open.spotify.com/artist/0Z9mBVXA1TwmOpN6AP8wFy) | [Tendres Tenebres](https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ) | 4:19 |
-| 73 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
-| 74 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
-| 75 | [Mami Daddy](https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:30 |
+| 73 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
+| 74 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
+| 75 | [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 |
 
-Snapshot ID: `MTY3OTY3ODI4NiwwMDAwMDAwMGQ3NjMwNzEwNGY1ZmEzMjhlN2Q0NTc2ODgyZjdhMDBk`
+Snapshot ID: `MTY3OTY3ODI4NiwwMDAwMDAwMGQ5ZmNmOTE4YzgyNjhjMTgxZjE2YzJiYmZhNTEyNDUw`

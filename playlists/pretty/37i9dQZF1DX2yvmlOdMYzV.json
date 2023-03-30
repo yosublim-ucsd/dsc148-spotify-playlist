@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 880120,
+  "num_followers": 880477,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDliNTIxODA3MDhkYWEzMDU2NjBjMzYyNDMwN2VkZThl",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDNlMjYwNjNiNzcxYTBiYTQxODVjNzg0Y2JlZGQ0ZDg1",
   "tracks": [
     {
       "added_at": "2023-02-16 15:18:53",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Motions",
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 237049,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 183354,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -717,20 +697,24 @@
       "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
     },
     {
-      "added_at": "2023-03-04 19:39:48",
+      "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI"
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
       },
       "artists": [
         {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 135653,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj"
+      "duration_ms": 183354,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -747,6 +731,22 @@
       "duration_ms": 256920,
       "name": "Fingerprints",
       "url": "https://open.spotify.com/track/3c7N2fCFB4JVKGF8cWfteh"
+    },
+    {
+      "added_at": "2023-03-04 19:39:48",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Go\u00fbter +",
         "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
       },
@@ -997,24 +981,20 @@
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
         }
       ],
-      "duration_ms": 205479,
-      "name": "Such A Thing",
-      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
+      "duration_ms": 188333,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1035,6 +1015,26 @@
       "duration_ms": 151266,
       "name": "311 (with Gwen Bunn)",
       "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Such A Thing",
+      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1141,6 +1141,26 @@
       "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "I Choose U (feat. RINI)",
+        "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "I Choose U (feat. RINI)",
+      "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+    },
+    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Archives & Lullabies",
@@ -1175,22 +1195,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Travel Light",
-        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 207987,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
       },
@@ -1203,6 +1207,22 @@
       "duration_ms": 173377,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Travel Light",
+        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 207987,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1243,26 +1263,6 @@
       "duration_ms": 289108,
       "name": "Fair Play",
       "url": "https://open.spotify.com/track/1bklPkNKKoy2pcw7s5GQsT"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "I Choose U (feat. RINI)",
-        "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
-      },
-      "artists": [
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        },
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "I Choose U (feat. RINI)",
-      "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1385,6 +1385,22 @@
       "url": "https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5hUNtJVGbyh8eJfulPr7Sx"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI"
+    },
+    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Best Feature (feat. Devin Morrison)",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "KMS - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "KMS - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 224933,
       "name": "Where I'm From (feat. Mereba)",
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "KMS - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "KMS - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1513,6 +1529,22 @@
       "url": "https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 152396,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Life",
@@ -1527,22 +1559,6 @@
       "duration_ms": 175999,
       "name": "Life",
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5hUNtJVGbyh8eJfulPr7Sx"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1653,22 +1669,6 @@
       "url": "https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Endless No Mores - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 179238,
-      "name": "Endless No Mores - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "THIS SH!T",
@@ -1687,6 +1687,22 @@
       "duration_ms": 170217,
       "name": "THIS SH!T",
       "url": "https://open.spotify.com/track/0NfxQ1dLKqwT40AhR6zqAY"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Endless No Mores - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 179238,
+      "name": "Endless No Mores - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
     },
     {
       "added_at": "2023-03-17 20:02:49",
@@ -1719,22 +1735,6 @@
       "duration_ms": 161800,
       "name": "Letters from the Imaginary",
       "url": "https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Palace",
-        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 152396,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1777,20 +1777,24 @@
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
       },
       "artists": [
         {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
         }
       ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+      "duration_ms": 205601,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
     }
   ],
   "unique_name": "Lowkey",

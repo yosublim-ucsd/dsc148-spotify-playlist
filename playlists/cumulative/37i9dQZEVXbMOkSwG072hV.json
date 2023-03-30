@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 185666,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6"
@@ -22080,6 +22080,32 @@
       "duration_ms": 174545,
       "name": "TOMA NICOLE (feat. DJ Menezes)",
       "url": "https://open.spotify.com/track/2tmG4cQPrlOcOtjJx6GL5V"
+    },
+    {
+      "album": {
+        "name": "Toma Tapa",
+        "url": "https://open.spotify.com/album/1r0am1KuRsOhKmwfW3TJxZ"
+      },
+      "artists": [
+        {
+          "name": "R10 O Pinta",
+          "url": "https://open.spotify.com/artist/29pyGwaBJu0EyziVZpiRWM"
+        },
+        {
+          "name": "DJ MK o Mlk Sinistro",
+          "url": "https://open.spotify.com/artist/29Fif1oQSxcIAjpPpz1UKf"
+        },
+        {
+          "name": "PH LUCAS",
+          "url": "https://open.spotify.com/artist/14NiJm3HDNhy5G4wDxKQhO"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109115,
+      "name": "Toma Tapa",
+      "url": "https://open.spotify.com/track/0jI56frdnYYDQ5h0DAXnM4"
     },
     {
       "album": {

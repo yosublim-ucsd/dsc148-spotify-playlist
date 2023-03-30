@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1114550,
+  "num_followers": 1114717,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMGIwYWE0ODM4OTA4ZTJjZTRjN2YyNTA2NWUzY2QwM2M5",
+  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMDQ5NjE4NGNhYmJlZGYyZTEyNWNlYWY5ZDM4MjczZThh",
   "tracks": [
     {
       "added_at": "2022-08-12 03:00:00",
@@ -731,18 +731,22 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Sue\u00f1o Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
+      "duration_ms": 186466,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -763,22 +767,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+        "name": "Sue\u00f1o Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+      "duration_ms": 269760,
+      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece En La Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 238573,
       "name": "Magia Veneno",
       "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece En La Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+        "name": "Pappo's Blues, Vol.8: Caso Cerrado",
+        "url": "https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5"
       },
       "artists": [
         {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+      "duration_ms": 186906,
+      "name": "Ruta 66",
+      "url": "https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Pappo's Blues, Vol.8: Caso Cerrado",
-        "url": "https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5"
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
       "artists": [
         {
-          "name": "Pappo's Blues",
-          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
         }
       ],
-      "duration_ms": 186906,
-      "name": "Ruta 66",
-      "url": "https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ"
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
     },
     {
       "added_at": "2022-08-12 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Temples on cover.",
-  "num_followers": 344612,
+  "num_followers": 344782,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwNjE0MSwwMDAwMDAwMDczZDEzNmI4Mzc4MGQ5Y2ViOTFkN2UxYzBlYTNkMWQz",
+  "snapshot_id": "MTY3OTYwNjE0MSwwMDAwMDAwMGQxMzE5N2ViNzc5MThkZWE1ODhjZmEyZjJmYmQ3ZjEx",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
     },
     {
-      "added_at": "2023-03-29 05:36:55",
+      "added_at": "2023-03-30 01:20:38",
       "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
@@ -475,6 +475,38 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "D\u00e9j\u00e0vu",
+        "url": "https://open.spotify.com/album/2priXi39uori5UwmnwA6oO"
+      },
+      "artists": [
+        {
+          "name": "Matty",
+          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "I'll Gladly Place Myself Below You",
+      "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -507,34 +539,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
         }
       ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "D\u00e9j\u00e0vu",
-        "url": "https://open.spotify.com/album/2priXi39uori5UwmnwA6oO"
-      },
-      "artists": [
-        {
-          "name": "Matty",
-          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "I'll Gladly Place Myself Below You",
-      "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -551,22 +567,6 @@
       "duration_ms": 170186,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
-      },
-      "artists": [
-        {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2022-04-22 19:38:56",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
     },
     {
-      "added_at": "2023-03-16 20:50:19",
-      "album": {
-        "name": "Almost Everything",
-        "url": "https://open.spotify.com/album/3FuvV4huGUCxaKeec7z5Qk"
-      },
-      "artists": [
-        {
-          "name": "Mudhoney",
-          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "Almost Everything",
-      "url": "https://open.spotify.com/track/4KU3ECcOn7di9BUHgajmIO"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Joe Frazier",
@@ -727,6 +711,22 @@
       "duration_ms": 338613,
       "name": "Joe Frazier",
       "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
+    },
+    {
+      "added_at": "2023-03-16 20:50:19",
+      "album": {
+        "name": "Almost Everything",
+        "url": "https://open.spotify.com/album/3FuvV4huGUCxaKeec7z5Qk"
+      },
+      "artists": [
+        {
+          "name": "Mudhoney",
+          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Almost Everything",
+      "url": "https://open.spotify.com/track/4KU3ECcOn7di9BUHgajmIO"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Aufheben",
+        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Panic In Babylon",
+      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Reap the Storm",
         "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Aufheben",
-        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
+        "name": "A Song For Paul",
+        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
       },
       "artists": [
         {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+          "name": "Ghost Funk Orchestra",
+          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
         }
       ],
-      "duration_ms": 278826,
-      "name": "Panic In Babylon",
-      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
+      "duration_ms": 192520,
+      "name": "Seven Eight",
+      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
     },
     {
       "added_at": "2023-01-12 03:37:14",
@@ -839,22 +855,6 @@
       "duration_ms": 221893,
       "name": "Panic In The Isles Of Splendor",
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "A Song For Paul",
-        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
-      },
-      "artists": [
-        {
-          "name": "Ghost Funk Orchestra",
-          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Seven Eight",
-      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
     },
     {
-      "added_at": "2023-01-07 04:03:12",
-      "album": {
-        "name": "H\u00e4xan",
-        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
-      },
-      "artists": [
-        {
-          "name": "Yo Diablo",
-          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
-        }
-      ],
-      "duration_ms": 247034,
-      "name": "Cap.4: El Sabbath de las Brujas",
-      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Sancocho Stereo",
@@ -935,6 +919,22 @@
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
+    },
+    {
+      "added_at": "2023-01-07 04:03:12",
+      "album": {
+        "name": "H\u00e4xan",
+        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
+      },
+      "artists": [
+        {
+          "name": "Yo Diablo",
+          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
+        }
+      ],
+      "duration_ms": 247034,
+      "name": "Cap.4: El Sabbath de las Brujas",
+      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+      },
+      "artists": [
+        {
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "D\u00f6ng\u00fcm",
@@ -1135,22 +1151,6 @@
       "duration_ms": 270027,
       "name": "D\u00f6ng\u00fcm",
       "url": "https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
-      },
-      "artists": [
-        {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2021-11-12 05:23:58",

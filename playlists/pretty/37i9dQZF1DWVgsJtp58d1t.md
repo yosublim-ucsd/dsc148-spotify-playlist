@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,306 likes - 102 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,284 likes - 102 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 7 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
 | 8 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 |
 | 9 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0XO2hckt5aHvvwH7FFdVYF) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 4:11 |
-| 10 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 10 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 11 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 12 | [RING ISLAND](https://open.spotify.com/track/64qSlBMJdwZS9TTxgbG3Y9) | [Varnish La Piscine](https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU) | [RING ISLAND](https://open.spotify.com/album/6c5PEgYNOLFlme94sZXmip) | 3:13 |
 | 13 | [Ke Shy](https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 |

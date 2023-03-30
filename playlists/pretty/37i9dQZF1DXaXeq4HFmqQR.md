@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Subamos el volumen a las mujeres\. Co\-curada por Francisca Valenzuela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,528 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,533 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 22 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 |
 | 23 | [SALÚ](https://open.spotify.com/track/3n9UWV1Xa23WtOKpEfnbVv) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 3:20 |
 | 24 | [La Mariposa](https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:24 |
-| 25 | [La Canción Es Protesta](https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Fuego \(Canciones de Emergencia\)](https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR) | 4:58 |
-| 26 | [Rara](https://open.spotify.com/track/7F7Bga2mi1fYcuY7gspC2G) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Voz Que Sana](https://open.spotify.com/album/1hdKat0bGuYY7vcPF9ywSp) | 3:32 |
+| 25 | [Rara](https://open.spotify.com/track/7F7Bga2mi1fYcuY7gspC2G) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Voz Que Sana](https://open.spotify.com/album/1hdKat0bGuYY7vcPF9ywSp) | 3:32 |
+| 26 | [La Canción Es Protesta](https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Fuego \(Canciones de Emergencia\)](https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR) | 4:58 |
 | 27 | [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 |
-| 28 | [SOLO UN FIN](https://open.spotify.com/track/2Nm6gM6WU0WMc5BejJ78Cu) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [SOLO UN FIN](https://open.spotify.com/album/64AjH3ht7XeqmgaAV3BLRK) | 2:34 |
-| 29 | [Siempre Nice](https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Back to Basics](https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY) | 3:11 |
-| 30 | [Quiérete Mucho ♡](https://open.spotify.com/track/7kDutlhRN5y6XeEgKz06eI) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Quiérete Mucho ♡](https://open.spotify.com/album/47b22rXJAyeKYdr4qn2vVF) | 3:14 |
+| 28 | [Siempre Nice](https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Back to Basics](https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY) | 3:11 |
+| 29 | [Quiérete Mucho ♡](https://open.spotify.com/track/7kDutlhRN5y6XeEgKz06eI) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Quiérete Mucho ♡](https://open.spotify.com/album/47b22rXJAyeKYdr4qn2vVF) | 3:14 |
+| 30 | [SOLO UN FIN](https://open.spotify.com/track/2Nm6gM6WU0WMc5BejJ78Cu) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [SOLO UN FIN](https://open.spotify.com/album/64AjH3ht7XeqmgaAV3BLRK) | 2:34 |
 | 31 | [Manifiesto](https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:27 |
 | 32 | [El Surco](https://open.spotify.com/track/3ponuxHLLLI1nMi9XcxdJT) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi), [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV) | [Tornasol](https://open.spotify.com/album/0AOUVR8VGXiqeLeY8A8PMx) | 2:32 |
 | 33 | [Que No](https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Que No](https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Fractura](https://open.spotify.com/track/7f3ucDYnKl2lxhKGV8OJ9m) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:26 |
 | 50 | [Tan en el Aire](https://open.spotify.com/track/3FR4AnFf2zbYaesNbLpSiK) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 3:24 |
 
-Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMGE1NmNiMGZjNGIyYzlhMmExMjFmN2YzZDZhMmRlZDRk`
+Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMGRkODQ3N2RjNGJhZWFkYzYyMGFjOWFmMGQzYTVjYWUz`

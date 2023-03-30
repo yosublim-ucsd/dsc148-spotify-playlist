@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,922 likes - 102 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,925 likes - 102 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 35 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 | 36 | [dlp 2.1](https://open.spotify.com/track/6rGCDGnhg2ztHpV7bT2dG2) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 10:50 |
 | 37 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 |
-| 38 | [So Long Orpheus \- Bonus Track](https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e) | 2:23 |
+| 38 | [So Long Orpheus](https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e) | 2:23 |
 | 39 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 |
 | 40 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
 | 41 | [Meissa](https://open.spotify.com/track/6qMI1FiR3eRnwmVrPmWqY3) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU) | 8:08 |

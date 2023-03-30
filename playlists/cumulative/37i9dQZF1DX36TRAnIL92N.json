@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
@@ -2656,6 +2656,24 @@
       "duration_ms": 296812,
       "name": "UFOs & LFOs",
       "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
+    },
+    {
+      "album": {
+        "name": "Underground (Original Mix)",
+        "url": "https://open.spotify.com/album/32QwA3nRlFwvewFnRkFric"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341333,
+      "name": "Underground - Original Mix",
+      "url": "https://open.spotify.com/track/5n6AgtEn2SSGH6ZYuZFQwE"
     },
     {
       "album": {

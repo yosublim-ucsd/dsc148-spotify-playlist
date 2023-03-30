@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/4nydCE0L7G13XLKPzvLlNs) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 0:00 | 2022-05-10 |  |
+| [](https://open.spotify.com/track/4nydCE0L7G13XLKPzvLlNs) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 0:00 | 2022-05-10 | 2023-03-30 |
 | [Aashiyan](https://open.spotify.com/track/7ttlemwytO21npSmLKqTBg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 3:56 | 2022-05-10 |  |
 | [Abhi Mujh Mein Kahin](https://open.spotify.com/track/73y649QhnXdcm6fRdvfraO) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Agneepath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EXIPmWRsSM1sXol5g4t7j) | 6:04 | 2022-03-17 |  |
 | [Ae Dil Hai Mushkil Title Track \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1UWacd8x8tPPwmrPB1MoBI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:29 | 2021-09-16 |  |

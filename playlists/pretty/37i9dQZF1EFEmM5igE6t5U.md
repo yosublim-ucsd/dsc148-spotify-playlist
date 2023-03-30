@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276 likes - 179 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 179 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 74 | [Gramercy Park](https://open.spotify.com/track/4nztMpRbOZN19lPpSgvjaf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:12 |
 | 75 | [Not Even the King](https://open.spotify.com/track/55do1f4mkLfM314tQDlyfw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:07 |
 | 76 | [Illusion Of Bliss](https://open.spotify.com/track/3CMnKJNcZBtELH6nyLqkKg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 5:23 |
-| 77 | [The Thing About Love](https://open.spotify.com/track/0dS5vi71dgXFID7jlyjKsr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:49 |
-| 78 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
+| 77 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
+| 78 | [The Thing About Love](https://open.spotify.com/track/0dS5vi71dgXFID7jlyjKsr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:49 |
 | 79 | [More Than We Know](https://open.spotify.com/track/1LNTSZ2tzwhYpN9xopkDqI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 4:35 |
 | 80 | [Ghetto Story Chapter 2 \(feat\. Alicia Keys\)](https://open.spotify.com/track/4lhwhaW9bTJ3GdSyEP8mah) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:45 |
 | 81 | [Work On It](https://open.spotify.com/track/3r3XrpjHZVrK8dohg1gksD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:34 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 141 | [Billions \(Originals\)](https://open.spotify.com/track/32Y1Y8TToghJsXjJEn4Toh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:19 |
 | 142 | [Is It Insane \(Originals\)](https://open.spotify.com/track/7Mhy9CP8YGOJZ9vn6M2b6D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 6:21 |
 | 143 | [Best Of Me \(Unlocked\)](https://open.spotify.com/track/1fjuFBHNdLSGutjypWmAIZ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:43 |
-| 144 | [Nadie \(No One\)](https://open.spotify.com/track/7M02Ay2AZaO7SOrCMOHHOr) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 3:26 |
-| 145 | [Paper Flowers \(Originals\) \(feat\. Brandi Carlile\)](https://open.spotify.com/track/6saHM8nij3vANjWtsQtw2Q) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:24 |
+| 144 | [Paper Flowers \(Originals\) \(feat\. Brandi Carlile\)](https://open.spotify.com/track/6saHM8nij3vANjWtsQtw2Q) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:24 |
+| 145 | [Nadie \(No One\)](https://open.spotify.com/track/7M02Ay2AZaO7SOrCMOHHOr) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 3:26 |
 | 146 | [Pray For Forgiveness](https://open.spotify.com/track/78YBucPLVsqh0ZCmbglDpt) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:44 |
 | 147 | [Daffodils \(Originals\)](https://open.spotify.com/track/0NA4CSpUEWzFHCI6RzvbS1) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:33 |
 | 148 | [Apple](https://open.spotify.com/track/17PU5g2efXpstCKryrFkua) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 3:47 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 178 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 179 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgwMDExMjksMDAwMDAwMDBkMTM1MWJkMWZkNmI3NzQ3ZjAzZGQ2YjNkMTU1NDQzZg==`
+Snapshot ID: `MjgwMDIyNjksMDAwMDAwMDA5N2I1ZGMzODUxMWNiZTMzYzI2NTllYTNjNGYzZTBkZg==`

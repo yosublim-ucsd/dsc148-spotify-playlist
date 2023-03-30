@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 31973,
+  "num_followers": 32022,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA4MSwwMDAwMDAwMDQ4OWFmZDE4ZWExYzcxMzlmMzc5NDJlM2Y1ODU1ZTll",
+  "snapshot_id": "MTY3Nzg2NzA4MSwwMDAwMDAwMDIyMzIwNWIwYTY4ZThkYTg4MzQ5NGRhM2IyMDY2OWVj",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:20",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
-        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
-      },
-      "artists": [
-        {
-          "name": "Blue Lu Barker",
-          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "A Little Bird Told Me",
-      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Love You!",
         "url": "https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 133733,
       "name": "Rock The Bop",
       "url": "https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
+        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
+      },
+      "artists": [
+        {
+          "name": "Blue Lu Barker",
+          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "A Little Bird Told Me",
+      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
+        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
+      },
+      "artists": [
+        {
+          "name": "Sippie Wallace",
+          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "I'm a Mighty Tight Woman",
+      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -583,18 +599,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
       "artists": [
         {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 170173,
-      "name": "I'm a Mighty Tight Woman",
-      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Sweet Emma Barrett And Her New Orleans Music",
-        "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Jelly Roll Blues",
-      "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
         "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+        "name": "Sweet Emma Barrett And Her New Orleans Music",
+        "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+      "duration_ms": 220299,
+      "name": "Jelly Roll Blues",
+      "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
       },
       "artists": [
         {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 139773,
-      "name": "Good Old Wagon",
-      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
+      "duration_ms": 157960,
+      "name": "Billie's Blues - Take 1",
+      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Good Old Wagon",
+      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
         "name": "Detroit Is My Home",
         "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 268066,
       "name": "Doctor Blues",
       "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "Billie's Blues - Take 1",
-      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Blues Book and Beyond",
         "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 240760,
       "name": "Bad Spell Blues",
       "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Presenting Sippie Wallace",
-        "url": "https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR"
-      },
-      "artists": [
-        {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "A Jealous Woman Like Me",
-      "url": "https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Powerhouse Gospel",
         "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 156279,
       "name": "I'm His And He's Mine",
       "url": "https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Presenting Sippie Wallace",
+        "url": "https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR"
+      },
+      "artists": [
+        {
+          "name": "Sippie Wallace",
+          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "A Jealous Woman Like Me",
+      "url": "https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z"
     }
   ],
   "unique_name": "Queens of the Blues",

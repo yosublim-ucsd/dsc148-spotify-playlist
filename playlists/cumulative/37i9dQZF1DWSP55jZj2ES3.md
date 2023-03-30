@@ -4,7 +4,7 @@
 
 > Indie dance and alternative hip\-hop for a mellow time.
 
-227 songs - 13 hr 4 min
+228 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Better Give U Up](https://open.spotify.com/track/4c60yLpE5lXvICT0pyEaZ5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:16 | 2021-10-26 |  |
 | [Biking](https://open.spotify.com/track/2q0VexHJirnUPnEOhr2DxK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Biking](https://open.spotify.com/album/7yOOPJjNelITCaYMqk8V6r) | 4:37 | 2021-10-26 | 2022-03-30 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-10-26 | 2022-12-01 |
-| [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 | 2022-07-28 |  |
+| [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 | 2022-07-28 |  |
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2022-06-30 |  |
 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 | 2022-03-17 | 2022-07-29 |
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2022-03-17 |  |
@@ -84,6 +84,7 @@
 | [Grey Luh](https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 4:21 | 2021-10-26 | 2022-04-21 |
 | [Head Down](https://open.spotify.com/track/3X8AJHRC435k1l4c6OjecV) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Head Down](https://open.spotify.com/album/2Ef9XULg6bu9Avri3kWUsn) | 4:15 | 2021-10-26 | 2022-09-10 |
 | [Heart Don't Stand a Chance](https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 5:12 | 2022-03-17 | 2022-07-01 |
+| [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 | 2023-03-30 |  |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-10-26 |  |
 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 | 2022-07-28 |  |
 | [Hey Lover](https://open.spotify.com/track/4q283tKkBnz6OKcqZNVlmI) | [The Daughters Of Eve](https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On) | [Hey Lover](https://open.spotify.com/album/3GmTWPaA8hw4nWlekViAQk) | 2:24 | 2022-05-13 | 2022-07-01 |
@@ -219,7 +220,7 @@
 | [upside down](https://open.spotify.com/track/27dLE8w9LrbjMNU88kUv0G) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [upside down](https://open.spotify.com/album/7L5hYe5cJOppfwmR7qmBcR) | 2:02 | 2021-10-26 | 2022-07-29 |
 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 | 2022-03-29 | 2022-07-01 |
 | [Vintage \- Flight Facilities Remix](https://open.spotify.com/track/2VNR4FAD2u60AeJDXL8a9x) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Vintage \(Flight Facilities Remix\)](https://open.spotify.com/album/5XnMvmihDUqq395LJ48Omx) | 3:42 | 2022-06-30 |  |
-| [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 | 2022-03-17 |  |
+| [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 | 2022-03-17 | 2023-03-30 |
 | [Wake up Jacob](https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:43 | 2023-01-19 | 2023-03-22 |
 | [Wake up Jacob](https://open.spotify.com/track/1in7Cdov9YrybYaboFzhzh) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/67i2fZfID3xg3seBcLrHXe) | 3:43 | 2022-07-28 | 2022-12-15 |
 | [Wake up Jacob](https://open.spotify.com/track/7bmNoosrYK6nNIe5qqOM4X) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/3bHTLP5a6S4knOG7Lstppm) | 3:43 | 2022-03-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Chelsea Grin
 
-451 songs - 1 day 5 hr 26 min
+452 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Nu World Order](https://open.spotify.com/track/60haWdj7cWgEzmEljnRZKV) | [Traitors](https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya) | [Nu World Order](https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6) | 2:55 | 2022-10-14 |  |
 | [Nu11](https://open.spotify.com/track/71znMFmbSmumzXb2EczBHb) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Penance](https://open.spotify.com/album/4b8sNQIh75Wl0Ivv6MO1KZ) | 3:55 | 2022-01-07 | 2022-07-13 |
 | [Oblivion](https://open.spotify.com/track/3p8F6Pmomawi6PV0QrQsCn) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa), [Mark Poida](https://open.spotify.com/artist/6Joj2xo7rEfJJyjRYABTyF) | [Oblivion](https://open.spotify.com/album/286eIneQaiB2VzdHCiPN9O) | 3:59 | 2021-12-17 | 2022-04-09 |
-| [Oblivion](https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Tim Lambesis](https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9) | [Oblivion](https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz) | 4:29 | 2021-12-17 |  |
+| [Oblivion](https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Tim Lambesis](https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9) | [Oblivion](https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz) | 4:29 | 2021-12-17 | 2023-03-30 |
 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 | 2021-12-17 |  |
 | [Oedipism](https://open.spotify.com/track/4nA4EL66VXDE6wQvtgWzB3) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Oedipism](https://open.spotify.com/album/0JCh2EsEyk4aYCzzOxfg28) | 3:28 | 2021-12-17 | 2022-07-28 |
 | [Of Fury](https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Of Fury](https://open.spotify.com/album/5NcU0oTUBbLjgBGI5aVYKP) | 4:47 | 2021-12-17 | 2023-01-21 |
@@ -446,6 +446,7 @@
 | [Where Millions Have Come to Die](https://open.spotify.com/track/1k3vemIRqlSdlBPFUrqhMY) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 4:23 | 2022-07-08 |  |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/52af9CWTZlmXbkR0qLUCdi) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Where Millions Have Come to Die](https://open.spotify.com/album/39etS8zmHojH5CgZ8urdGl) | 4:23 | 2021-12-17 | 2022-07-29 |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-06-10 | 2022-12-17 |
+| [Wide Open \(feat\. Howard Jones of Light The Torch\)](https://open.spotify.com/track/13rGelXjCH89kW138X5hrd) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [The Burden Ov Faith](https://open.spotify.com/album/4aJaWEbDcfXTy38AU6V1F6) | 5:06 | 2023-03-24 |  |
 | [Willow](https://open.spotify.com/track/5t3CqKmwm2g9zaqKtAya5Q) | [Eternal Void](https://open.spotify.com/artist/6RE2QvLMJiCXSzVynym0CV) | [Willow](https://open.spotify.com/album/3TZUu12GD5dpuW0scNGbvJ) | 4:11 | 2022-04-01 | 2022-04-19 |
 | [Wired For Destruction](https://open.spotify.com/track/4UeTms4wgdOHut4jLtzi2p) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Wired For Destruction](https://open.spotify.com/album/7DLD3wgKis2uwClmtZI9V9) | 3:07 | 2022-04-01 | 2022-04-23 |
 | [Without End](https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Without End](https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP) | 2:34 | 2022-02-11 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,152 songs - 2 day 11 hr 22 min
+1,153 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-03-08 | 2022-03-16 |
 | [Cloudbusting](https://open.spotify.com/track/5atQ2haKP5LT65WM0KUts3) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 5:10 | 2022-06-03 | 2022-06-08 |
 | [Codinome](https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Codinome](https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM) | 3:29 | 2022-01-25 | 2022-01-28 |
-| [Coisas Que Eu Sei](https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6) | [intomusic brazil](https://open.spotify.com/artist/7a65BfOit4jjLQiH1jLz9N) | [Coisas Que Eu Sei](https://open.spotify.com/album/6L0TgC0N85KnF2cCL7t0es) | 3:05 | 2023-03-14 |  |
+| [Coisas Que Eu Sei](https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6) | [intomusic brazil](https://open.spotify.com/artist/7a65BfOit4jjLQiH1jLz9N) | [Coisas Que Eu Sei](https://open.spotify.com/album/6L0TgC0N85KnF2cCL7t0es) | 3:05 | 2023-03-14 | 2023-03-30 |
 | [Colors](https://open.spotify.com/track/6J3HNhDBIwEX11bX8hzx5u) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/3g8HE8pB8nq6DbHf71I2Wa) | 4:06 | 2022-03-29 | 2022-04-07 |
 | [Com a Perereca na Minha Cara](https://open.spotify.com/track/6mhoi3W3FwBgvMb2fIfIsC) | [JN no Beat](https://open.spotify.com/artist/4Hyz5IbZqDiQ3ghcl3CJHu), [Mc Mr\. Bim](https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2) | [Com a Perereca na Minha Cara](https://open.spotify.com/album/0yOWCkKjGZxH6kqAWYnZK2) | 2:52 | 2022-09-14 | 2022-10-02 |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-09 | 2022-09-09 |
@@ -1035,6 +1035,7 @@
 | [Todo Seu \- Ao Vivo](https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Todo Seu \(Ao Vivo\)](https://open.spotify.com/album/6tcIk5cJCa6xNtRUuTTBVB) | 2:51 | 2022-05-31 | 2022-07-02 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-11 | 2022-05-05 |
 | [TOMA NICOLE \(feat\. DJ Menezes\)](https://open.spotify.com/track/2tmG4cQPrlOcOtjJx6GL5V) | [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Douglinhas](https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr) | [TOMA NICOLE \(feat\. DJ Menezes\)](https://open.spotify.com/album/09w7X2RYkUMA0xkmEcGhR8) | 2:54 | 2022-06-21 | 2022-07-14 |
+| [Toma Tapa](https://open.spotify.com/track/0jI56frdnYYDQ5h0DAXnM4) | [R10 O Pinta](https://open.spotify.com/artist/29pyGwaBJu0EyziVZpiRWM), [DJ MK o Mlk Sinistro](https://open.spotify.com/artist/29Fif1oQSxcIAjpPpz1UKf), [PH LUCAS](https://open.spotify.com/artist/14NiJm3HDNhy5G4wDxKQhO) | [Toma Tapa](https://open.spotify.com/album/1r0am1KuRsOhKmwfW3TJxZ) | 1:49 | 2023-03-29 |  |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-04-05 | 2022-04-29 |
 | [Tome Baby](https://open.spotify.com/track/2hTRmi2oBsywpiaAqid5gr) | [Mc Nedved](https://open.spotify.com/artist/1sKccNX4hEUwQUcZ0UQdgd) | [Tome Baby](https://open.spotify.com/album/4BQdxO2g3jaYql2OyZSyw7) | 2:09 | 2022-04-21 | 2022-05-07 |
 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 | 2022-02-15 | 2022-03-02 |

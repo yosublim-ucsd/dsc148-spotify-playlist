@@ -1512,6 +1512,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Bedroom Exile - Spotify Singles",
+      "url": "https://open.spotify.com/track/41nuWG6XRUTGlFSOumec21"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
       },
       "artists": [
@@ -2186,6 +2204,24 @@
       "duration_ms": 166904,
       "name": "BRUTAL - Spotify Singles",
       "url": "https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186030,
+      "name": "Bubble Gum - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kWvxORGE9opGvBigmJsRq"
     },
     {
       "album": {
@@ -4018,6 +4054,24 @@
       "duration_ms": 310402,
       "name": "Dooley's Farm - Spotify Sessions",
       "url": "https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3bP5Yh9uXY110v936S656C"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263376,
+      "name": "Dos Oruguitas - From \"Encanto\" / Live from Spotify Los Angeles",
+      "url": "https://open.spotify.com/track/4UCKq3C6M36Rl12UnKZGZi"
     },
     {
       "album": {
@@ -12572,6 +12626,24 @@
       "duration_ms": 146526,
       "name": "One Step Closer \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3bP5Yh9uXY110v936S656C"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392060,
+      "name": "One Summer\u2019s Day - From \"Spirited Away\" / Live from Spotify Los Angeles",
+      "url": "https://open.spotify.com/track/3U2c0GJRiwXkTK2008CkQ6"
     },
     {
       "album": {

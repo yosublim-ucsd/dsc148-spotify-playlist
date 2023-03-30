@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover: Chiiild, by Ian Woods.
 
-267 songs - 14 hr 2 min
+272 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abyss](https://open.spotify.com/track/07BCkoZW66cM9nQhOsKPSr) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Abyss](https://open.spotify.com/album/4WC7YAk1hPsSL4hEeNz18l) | 2:26 | 2022-02-18 | 2023-02-11 |
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2022-02-18 |  |
 | [Actin'](https://open.spotify.com/track/4MH4vhC8PnVJ1OZ7XU1N4n) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Actin'](https://open.spotify.com/album/2hWtcQwTmjF57dTH8PpTdp) | 3:15 | 2022-02-18 | 2022-02-26 |
+| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-29 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-06-17 | 2022-11-12 |
 | [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 | 2022-02-18 | 2022-02-26 |
 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 | 2022-02-18 |  |
@@ -49,6 +50,7 @@
 | [Chasing Ghosts](https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN) | 2:59 | 2022-10-03 | 2022-10-13 |
 | [Chasing Ghosts](https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9) | 2:59 | 2022-10-03 | 2022-11-13 |
 | [Chasing Ghosts](https://open.spotify.com/track/6fB74plQyGv3vsevsbxKPo) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:59 | 2022-10-03 |  |
+| [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-29 |  |
 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 | 2022-06-17 | 2022-10-04 |
 | [Claymore \(feat\. Smino\)](https://open.spotify.com/track/051zam2WDIKOLdu4XYpCaA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:06 | 2022-02-18 |  |
 | [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2022-02-18 | 2022-04-16 |
@@ -67,6 +69,7 @@
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2023-01-18 |  |
 | [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 | 2023-03-03 |  |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-08 |  |
+| [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-29 |  |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-01 |  |
 | [elastic \- Master Peace Remix](https://open.spotify.com/track/5zekxTQ1WKwIUsQU3RjMNg) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [elastic \(Master Peace Remix\)](https://open.spotify.com/album/0bxoys4vMktFaGdutry7UT) | 3:09 | 2023-02-10 |  |
 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 | 2022-04-01 | 2023-01-19 |
@@ -215,6 +218,7 @@
 | [SLOW DOWN](https://open.spotify.com/track/0qp9JIYzs7UpPMnIYAE8nY) | [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [WHIP MUSIC](https://open.spotify.com/album/0HXfQ9oBm3ZL4NcSUTzNOI) | 3:40 | 2022-02-18 | 2022-04-02 |
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2022-02-18 | 2022-03-05 |
 | [SMILE](https://open.spotify.com/track/1MTz7tNxEoNAePVS953aIu) | [Chris Goma](https://open.spotify.com/artist/4H1frcUKVjOlcXEZRiku5R) | [FREEDOM](https://open.spotify.com/album/1VKLG03tYFnypLNR2ITgk4) | 4:25 | 2022-02-18 | 2022-03-05 |
+| [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 | 2023-03-29 |  |
 | [SO HARD TO TELL](https://open.spotify.com/track/0895oFCAOSNQeUkRVR73bU) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:05 | 2023-02-17 |  |
 | [SO HARD TO TELL](https://open.spotify.com/track/6t9Z0pVZOeGnjsp5JDYGQY) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [SO HARD TO TELL](https://open.spotify.com/album/1xXzkgC4BLs5RELfhh0pqC) | 3:05 | 2023-01-18 | 2023-03-26 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-11-12 |
@@ -262,6 +266,7 @@
 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 | 2023-02-03 |  |
 | [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 | 2022-05-13 | 2023-02-11 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-02-18 | 2022-12-26 |
+| [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-29 |  |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-18 |  |
 | [whatever u like](https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [whatever u like](https://open.spotify.com/album/721LnudJW05TovLVLcSoMa) | 3:20 | 2022-06-17 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2022-02-18 | 2022-03-18 |

@@ -100,7 +100,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 237009,
       "name": "10 Missed Calls (feat. Pharrell Williams & Jozzy)",
       "url": "https://open.spotify.com/track/5o1JjtIuYRXBoea4WBZGDc"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Access",
       "url": "https://open.spotify.com/track/6e2hj3iWu2pKLpjC6VroJc"
@@ -2311,7 +2311,7 @@
     },
     {
       "album": {
-        "name": "BDE",
+        "name": "BDE (feat. slowthai)",
         "url": "https://open.spotify.com/album/0v2o7PUZZneXkTCWy69432"
       },
       "artists": [
@@ -2326,9 +2326,9 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-26",
+      "date_removed": null,
       "duration_ms": 168173,
-      "name": "BDE",
+      "name": "BDE (feat. slowthai)",
       "url": "https://open.spotify.com/track/3ed5gMzocnaLWCvljQdCwe"
     },
     {
@@ -3168,7 +3168,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 166742,
       "name": "Black Hole - Goodboys Remix",
       "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 198759,
       "name": "But Not Tonight (Gigi Dag & Luca Noise Dance Mix)",
       "url": "https://open.spotify.com/track/1PBZ77D3S8Ist2Fvifucy4"
@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 141640,
       "name": "Chain My Heart - HUTS Remix",
       "url": "https://open.spotify.com/track/1IoRkRndvPlSiCk8htfZmX"
@@ -5278,7 +5278,7 @@
       },
       "artists": [
         {
-          "name": "Afrojack",
+          "name": "AFROJACK",
           "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
         {
@@ -5292,7 +5292,7 @@
       ],
       "date_added": "2020-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2020-06-30",
+      "date_removed": null,
       "duration_ms": 184035,
       "name": "Cloud 9 (feat. Jeremih)",
       "url": "https://open.spotify.com/track/0QDWjstXi64Xsj7yReHc3l"
@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 195483,
       "name": "Congratulations - Don Diablo VIP Mix",
       "url": "https://open.spotify.com/track/04g1aQFzaegB7ovWaMMIzz"
@@ -7186,7 +7186,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 157338,
       "name": "Don't Hide",
       "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
@@ -8059,6 +8059,24 @@
     },
     {
       "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/70IHw5Wo5xzKlpr2kUQhms"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/4lkARggU1higL8Uszt8cPY"
+    },
+    {
+      "album": {
         "name": "Emptiness",
         "url": "https://open.spotify.com/album/6I5YJPIJeg0pm0atZM8KQr"
       },
@@ -8452,6 +8470,28 @@
       "duration_ms": 142857,
       "name": "Eyes Low",
       "url": "https://open.spotify.com/track/0X2tErMEQ4JT5OYQiU6QlP"
+    },
+    {
+      "album": {
+        "name": "Fade Away (Deep Chills Remix)",
+        "url": "https://open.spotify.com/album/4unVqCVMn8OpnP63wo7vVv"
+      },
+      "artists": [
+        {
+          "name": "Ella Isaacson",
+          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
+        },
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210926,
+      "name": "Fade Away - Deep Chills Remix",
+      "url": "https://open.spotify.com/track/4MbHYN1eThqk0Of7IrWiUO"
     },
     {
       "album": {
@@ -8898,7 +8938,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 216480,
       "name": "Feel About You - Edit",
       "url": "https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul"
@@ -9070,7 +9110,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 140952,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/0bPZnYM6P1KBhTx8sCggPI"
@@ -10644,7 +10684,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 269149,
       "name": "Glue",
       "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
@@ -10924,7 +10964,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 158048,
       "name": "Google Me (feat. Alika & Ms Banks)",
       "url": "https://open.spotify.com/track/6fg2qWBpF8vz2Ywj1TSyx2"
@@ -12804,7 +12844,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "I Don't Like Anyone",
       "url": "https://open.spotify.com/track/27QYBjA3j95pihdoVyJh1R"
@@ -12954,7 +12994,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "I Feel Good (R3HAB Remix)",
       "url": "https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi"
@@ -15634,7 +15674,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 177679,
       "name": "Leo Ni Leo",
       "url": "https://open.spotify.com/track/1zDUCwFtOGZOW2u8JgMtCZ"
@@ -15836,7 +15876,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 148693,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
@@ -16496,7 +16536,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 149805,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/5f0McQYkf82REdO4mMlgE9"
@@ -17160,7 +17200,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
@@ -19118,7 +19158,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 158164,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/1jL3wCuXRWlTrpqO0pXLzg"
@@ -20972,7 +21012,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 296240,
       "name": "Outside (feat. Ellie Goulding) - Hardwell Remix",
       "url": "https://open.spotify.com/track/5F65SKdHWD9l4Nl4kgMcWG"
@@ -21906,7 +21946,7 @@
       ],
       "date_added": "2021-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 226266,
       "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
       "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
@@ -22004,7 +22044,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 164745,
       "name": "Pull Me Closer",
       "url": "https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN"
@@ -23302,7 +23342,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 133220,
       "name": "Run Free (with HUTS)",
       "url": "https://open.spotify.com/track/1ytGToyD4sNifrEV4ZDw2p"
@@ -24964,7 +25004,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 213007,
       "name": "So What",
       "url": "https://open.spotify.com/track/0H6hQg7DnEIqnfzPsgNVPi"
@@ -25066,7 +25106,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 159375,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
@@ -25194,7 +25234,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 178536,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
@@ -25826,7 +25866,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 187500,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4SrW1FDKAAvBHRv1y072HB"
@@ -26718,7 +26758,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
@@ -27164,7 +27204,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 187491,
       "name": "Tell You What It Is",
       "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
@@ -28980,7 +29020,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 157000,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/3legoyCWyIjQ0vEKqy7IyW"
@@ -29582,7 +29622,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 179516,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/7pPImgMQnOFgO9lnl0NUBz"
@@ -31206,7 +31246,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Work That Body - Radio Edit",
       "url": "https://open.spotify.com/track/2DqigqUtFKTB0XLWOF7hGj"
@@ -31958,7 +31998,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2020-07-20",
+      "date_removed": null,
       "duration_ms": 236190,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4DMoP99RLqEpkrscJGO0kL"

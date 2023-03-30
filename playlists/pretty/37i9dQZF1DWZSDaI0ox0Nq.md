@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,175 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,182 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 3 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
 | 4 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 |
 | 5 | [Vida Mia](https://open.spotify.com/track/1P77zNEkaHp4h3onP8eeMY) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vida Mía](https://open.spotify.com/album/6Zt7hlarp5sKgg01d3taj8) | 3:58 |
-| 6 | [Pasos](https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Viajera](https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6) | 5:23 |
-| 7 | [Poema](https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu) | [Romántica Milonguera](https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY) | [Romántica Milonguera](https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf) | 3:17 |
+| 6 | [Poema](https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu) | [Romántica Milonguera](https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY) | [Romántica Milonguera](https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf) | 3:17 |
+| 7 | [Pasos](https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Viajera](https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6) | 5:23 |
 | 8 | [Juguete Rabioso](https://open.spotify.com/track/0n3GMCF0LyCHxwVlBsfbCE) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Tango Agazapado](https://open.spotify.com/album/6vvNXu2ekbHPJP0WC2m1RD) | 3:44 |
 | 9 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 |
 | 10 | [El Choclo](https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:03 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 34 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
 | 35 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
 | 36 | [Malena](https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ) | [Vos y yo](https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw) | 3:58 |
-| 37 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
-| 38 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
+| 37 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
+| 38 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
 | 39 | [La Última Curda](https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Puro Verso](https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl) | 4:18 |
 | 40 | [La Mariposa](https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Lejos](https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc) | 4:05 |
 | 41 | [Adios Nonino](https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo) | [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Serie De Oro](https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi) | 4:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Cafetín de Buenos Aires](https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Horacio Avilano](https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E), [Hernán Fredes](https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj), [Hernán Mastromarini](https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY) | [Buenos Aires](https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7) | 3:30 |
 | 55 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
 
-Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDFlMjhlNWE1NWE2ODZhZGU4ZWZiNWJlNDE1NzBhNTlk`
+Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDI3ZDQyZTI5N2ZmMWUxYTg1ZmI2NDY3ODgzZmQwMGY4`

@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-327 songs - 23 hr 53 min
+328 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,13 +283,14 @@
 | [ブルームブルーム](https://open.spotify.com/track/2SQBhJuIsest3tA1PEC1vT) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4bDKZvWxDa4b2U5f6HxkqD) | 4:36 | 2022-05-17 | 2022-07-29 |
 | [プライド革命](https://open.spotify.com/track/3MHOAHO1m0njLBWMp9lFwg) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 3:58 | 2022-05-17 | 2022-07-29 |
 | [ミライトレイン](https://open.spotify.com/track/68NLAMcxHcRkBWxPgadrqC) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 5:55 | 2022-05-17 | 2022-07-26 |
+| [メランコリックララバイ](https://open.spotify.com/track/61os2N4PtLf4s5ojzbpU9d) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:36 | 2023-03-14 |  |
 | [ラスハピーポー!](https://open.spotify.com/track/0bX8x2CRgT6Am72RZ5zsgm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up), [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 3:20 | 2022-05-17 | 2022-07-29 |
 | [ランブリングメモリー](https://open.spotify.com/track/6WmnrpmfSKyEEbh9TQW7Kt) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ON YOUR MARK](https://open.spotify.com/album/5NCnQuOJF3ERX7AgjmsJj0) | 5:25 | 2022-05-17 | 2022-07-16 |
 | [ワクワクmeetsトリップ](https://open.spotify.com/track/3GMuqR7h13YmtND2c411a7) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 4:07 | 2022-09-20 |  |
 | [ワクワクmeetsトリップ](https://open.spotify.com/track/5zszZKQ7XJwtA66bPlFMj0) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 4:07 | 2022-06-23 | 2022-10-02 |
 | [ワクワクmeetsトリップ](https://open.spotify.com/track/7KbOJC15y4BHQFNPy38cFW) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ワクワクmeetsトリップ](https://open.spotify.com/album/4KWijoVg4ZVDStYSwRv0Lz) | 4:07 | 2022-06-23 | 2022-07-28 |
 | [二重の虹\(ダブル レインボウ\)](https://open.spotify.com/track/2E4p8P0rXYWj5lE7hd8gJA) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 4:05 | 2022-06-23 | 2022-07-17 |
-| [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 | 2022-05-17 |  |
+| [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 | 2022-05-17 | 2023-03-30 |
 | [光るなら](https://open.spotify.com/track/74w8cnVvlrYnNuYkXnYRw0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:14 | 2022-05-17 | 2022-07-28 |
 | [八月のif](https://open.spotify.com/track/0hSAZiAfscva2luVhSbfaP) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 4:33 | 2022-06-23 | 2022-07-15 |
 | [切ないSandglass](https://open.spotify.com/track/2LqbQ4a77YlutcDzVWlso0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [ガールズコード](https://open.spotify.com/album/5aQYjcS94D6obHNC1S2x8I) | 4:06 | 2022-05-17 | 2022-07-27 |

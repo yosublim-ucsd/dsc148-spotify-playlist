@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F"
+    },
+    {
+      "album": {
         "name": "Hunting High and Low",
         "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
       },

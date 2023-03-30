@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,682 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,717 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 48 | [Dil Deewana \- Female Vocals](https://open.spotify.com/track/5M7LdQfurIG70nbvlSAO07) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Maine Pyar Kiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV) | 5:54 |
 | 49 | [Luka Chuppi](https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 6:36 |
 
-Snapshot ID: `MTY3ODk2NDczOSwwMDAwMDAwMDE5MzBlOTI2YWNiYmM5MjA2OTU0NjdjMGU3NzI5NTdm`
+Snapshot ID: `MTY4MDA4ODk0MywwMDAwMDAwMDg5MGY1MTVhZjFjZjYxYzZjYWEzYzZlYWU5ZDkwOTQx`

@@ -191,6 +191,32 @@
     },
     {
       "album": {
+        "name": "Bertauhid",
+        "url": "https://open.spotify.com/album/70GKblOZsbv191FHhGOHsk"
+      },
+      "artists": [
+        {
+          "name": "Sridevi DA5",
+          "url": "https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s"
+        },
+        {
+          "name": "Eby DA5",
+          "url": "https://open.spotify.com/artist/3di1pESdZfMHYO406ck1oy"
+        },
+        {
+          "name": "Afan DA5",
+          "url": "https://open.spotify.com/artist/60jQVcXcjnlcFmXPkHEbfB"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Bertauhid",
+      "url": "https://open.spotify.com/track/2pQ6I2NzRL0dsGc3D5Im5F"
+    },
+    {
+      "album": {
         "name": "Death of a Party Girl",
         "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
       },
@@ -830,6 +856,36 @@
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
+    },
+    {
+      "album": {
+        "name": "Menyesal",
+        "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203454,
+      "name": "Menyesal",
+      "url": "https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij"
     },
     {
       "album": {

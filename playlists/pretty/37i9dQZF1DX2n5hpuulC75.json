@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 249879,
+  "num_followers": 249898,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDYxMmJlYTNjZTdjMDI0MTczNzNjOTM5YTFiOTI0NTVm",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGVkMzllZTdjMjBmNDgwMzczZjcxOTMzYjc5NzExMzRi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -647,26 +647,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "After the Tone with Lossapardo",
-        "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
-        },
-        {
-          "name": "Lossapardo",
-          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
-        }
-      ],
-      "duration_ms": 153700,
-      "name": "After the Tone with Lossapardo",
-      "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 130271,
       "name": "(Interlude)",
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "After the Tone with Lossapardo",
+        "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
+        {
+          "name": "Lossapardo",
+          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+        }
+      ],
+      "duration_ms": 153700,
+      "name": "After the Tone with Lossapardo",
+      "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -819,6 +819,30 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "I would",
+        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        },
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 205564,
+      "name": "I would",
+      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "I would",
-        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        },
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 205564,
-      "name": "I would",
-      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -999,6 +999,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Wave001",
+        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "EP 2",
         "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 254010,
       "name": "Nylon",
       "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Wave001",
-        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
     }
   ],
   "unique_name": "Mellow Mood",

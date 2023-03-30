@@ -1,15 +1,15 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: RAY / Arte: Isu Kim",
-  "num_followers": 15951,
+  "num_followers": 15965,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1OTUxMiwwMDAwMDAwMDI1MTEyNDYyODBkNzJmZTFkYjMwNjc0YWFmMDI2YjQw",
+  "snapshot_id": "MTY3OTA1OTUxMiwwMDAwMDAwMDlkY2RkNTY5YTdjOWQ0MTY5ZGRhMzM3NGRiMDQyYjZj",
   "tracks": [
     {
-      "added_at": "2023-03-29 04:51:06",
+      "added_at": "2023-03-30 01:28:53",
       "album": {
         "name": "Meu Mantra pra Te Esquecer",
         "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
+        "name": "A Coisa Mais Bonita",
+        "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
+      },
+      "artists": [
+        {
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
+        }
+      ],
+      "duration_ms": 169383,
+      "name": "A Coisa Mais Bonita",
+      "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
         "name": "Rubi",
         "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 209577,
       "name": "Absurda",
       "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
-        "name": "A Coisa Mais Bonita",
-        "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
-      },
-      "artists": [
-        {
-          "name": "Manda",
-          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
-        }
-      ],
-      "duration_ms": 169383,
-      "name": "A Coisa Mais Bonita",
-      "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Beija e Arranha",
-        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Beija e Arranha",
-      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Menino Bom",
         "url": "https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Aquino e a Orquestra Invis\u00edvel",
-        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+        "name": "Beija e Arranha",
+        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
       },
       "artists": [
         {
-          "name": "Aquino e a Orquestra Invis\u00edvel",
-          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         }
       ],
-      "duration_ms": 173880,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+      "duration_ms": 172874,
+      "name": "Beija e Arranha",
+      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -399,6 +383,22 @@
       "duration_ms": 211998,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+      },
+      "artists": [
+        {
+          "name": "Aquino e a Orquestra Invis\u00edvel",
+          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 158985,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 151187,
       "name": "Do Meu Lado",
       "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Casal Desgra\u00e7a",
         "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "delirar",
         "url": "https://open.spotify.com/album/5KUA9QuMvjEyh3rw7a7lZD"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 220000,
       "name": "at\u00e9 voc\u00ea",
       "url": "https://open.spotify.com/track/5n4jsB5aXHL4ZjDjc0jZPG"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "PSEUDODRAMA",
-        "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
-      },
-      "artists": [
-        {
-          "name": "Clara Tannure",
-          "url": "https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq"
-        }
-      ],
-      "duration_ms": 146605,
-      "name": "T\u00e1 Subindo",
-      "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
-        "name": "Quartinho",
-        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
-      },
-      "artists": [
-        {
-          "name": "Casali",
-          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Quartinho",
-      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "N\u00e3o Complica",
         "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
       },
@@ -1063,6 +1031,38 @@
       "duration_ms": 152137,
       "name": "Deixa Pra L\u00e1",
       "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Quartinho",
+        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
+      },
+      "artists": [
+        {
+          "name": "Casali",
+          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Quartinho",
+      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "PSEUDODRAMA",
+        "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
+      },
+      "artists": [
+        {
+          "name": "Clara Tannure",
+          "url": "https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq"
+        }
+      ],
+      "duration_ms": 146605,
+      "name": "T\u00e1 Subindo",
+      "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Fugitivos",
-        "url": "https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9"
-      },
-      "artists": [
-        {
-          "name": "Taigo",
-          "url": "https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8"
-        }
-      ],
-      "duration_ms": 209486,
-      "name": "Fugitivos",
-      "url": "https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Nada (Al\u00e9m de Voc\u00ea)",
         "url": "https://open.spotify.com/album/6eh8PdDo6Wv9lTLiGqO1JH"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Disfar\u00e7a",
-        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+        "name": "Fugitivos",
+        "url": "https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9"
       },
       "artists": [
         {
-          "name": "Silveri\u00f4",
-          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+          "name": "Taigo",
+          "url": "https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8"
         }
       ],
-      "duration_ms": 159736,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+      "duration_ms": 209486,
+      "name": "Fugitivos",
+      "url": "https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -1335,6 +1319,22 @@
       "duration_ms": 198000,
       "name": "Queda livre",
       "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Disfar\u00e7a",
+        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+      },
+      "artists": [
+        {
+          "name": "Silveri\u00f4",
+          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+        }
+      ],
+      "duration_ms": 159736,
+      "name": "Disfar\u00e7a",
+      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
     }
   ],
   "unique_name": "Fresh Finds Brasil",

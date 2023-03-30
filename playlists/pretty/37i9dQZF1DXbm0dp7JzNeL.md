@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 
 > Take comfort in these melancholy masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,172 likes - 53 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,249 likes - 53 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 | 8 | [Filma Solo](https://open.spotify.com/track/6MPpYctLr7JXWIAcD1feq8) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/1tASsj4SDpPR8UIHjKMjch) | 3:15 |
 | 9 | [Arcadiana, Op\. 12: VI\. O Albion](https://open.spotify.com/track/5qU2ayuH27qR9pN8YzzOo4) | [Thomas Adès](https://open.spotify.com/artist/4F7KfJQw9lIXvFydi4TOyi), [Danish String Quartet](https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D) | [Adès / Nørgård / Abrahamsen](https://open.spotify.com/album/2wkHkrT1trzhRCZcmqVnuN) | 3:15 |
 | 10 | [Malasana](https://open.spotify.com/track/2tJBG2m6K5jUKxzyTZm9Z7) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Inner Symphonies](https://open.spotify.com/album/1KZB5lAvsyeK9X1vFnqARz) | 5:21 |
-| 11 | [I\. Even](https://open.spotify.com/track/1CcyE20g6pYSf1gDO1bZCc) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Warren Zielinski](https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16), [Ben Hancox](https://open.spotify.com/artist/5IExQzAD14oL2LazPXPyzk), [James Boyd](https://open.spotify.com/artist/0AwJMPW4t7pMBwZ2h072X1) | [Quartets: One – Four](https://open.spotify.com/album/4qMGkLJmZWccVQkflLhQ3Y) | 5:37 |
+| 11 | [Quartets: Three: I\. Even](https://open.spotify.com/track/1CcyE20g6pYSf1gDO1bZCc) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Warren Zielinski](https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16), [Ben Hancox](https://open.spotify.com/artist/5IExQzAD14oL2LazPXPyzk), [James Boyd](https://open.spotify.com/artist/0AwJMPW4t7pMBwZ2h072X1) | [Quartets: One – Four](https://open.spotify.com/album/4qMGkLJmZWccVQkflLhQ3Y) | 5:37 |
 | 12 | [Arcadiana: VI\. O Albion](https://open.spotify.com/track/6MuIlfUOPjUdWujl7ZGupD) | [Thomas Adès](https://open.spotify.com/artist/4F7KfJQw9lIXvFydi4TOyi), [Calder Quartet](https://open.spotify.com/artist/7CRr5a9zEn4PUKYGnptHCw) | [The Twenty\-Fifth Hour: The Chamber Music of Thomas Adès](https://open.spotify.com/album/0gA18Dwq9chk3k7NP7VsoI) | 3:26 |
 | 13 | [Elegies BV 249: VII\. Berceuse](https://open.spotify.com/track/2b6aGSUDJFGY0wfUa4ooaL) | [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Life](https://open.spotify.com/album/7sgSO7B1phxK9A3VEaelO7) | 5:14 |
 | 14 | [A Sparrow Alighted upon our Shoulder](https://open.spotify.com/track/1G2mAZQL8xfy9wRqC6fY6K) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Air Lyndhurst String Orchestra](https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 2:27 |

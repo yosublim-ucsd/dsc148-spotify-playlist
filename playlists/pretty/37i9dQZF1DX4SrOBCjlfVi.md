@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Internet Money, NLE Choppa and more\. Cover: Baby Tate
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,211 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,260 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 | 7 | [Don't Play With It \(feat\. Latto & Yung Miami\) \- Remix](https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Don't Play With It \(feat\. Latto & Yung Miami\) \[Remix\]](https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC) | 2:59 |
 | 8 | [The Tide](https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 3:56 |
-| 9 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 9 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 10 | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/album/0Ow1LzDAS3hCPzGNK9TeOT) | 3:39 |
 | 11 | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy) | 3:40 |
 | 12 | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/track/4nZ4aGaAixvW9D7TethGee) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/album/6v6K6TQa2Scbn2OKhDCnDp) | 2:06 |

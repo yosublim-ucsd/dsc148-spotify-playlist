@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 
 > This is Phoebe Bridgers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,228 likes - 42 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,299 likes - 42 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 41 | [Stonecatcher \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/5mY8nk4BPdPmX3MBCaXUWK) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:42 |
 | 42 | [Sleepwalkin'](https://open.spotify.com/track/5aitlVsmgGIeerZnzmZt50) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 3:12 |
 
-Snapshot ID: `MjgwMDAyMzYsMDAwMDAwMDAxZWI3ZTA2Yjg2MTQ0MjJkYzBiNzI3NzhjYzllMjgwMw==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDBlOGVlMDE2YzYwMzYxNzE5ZWMyYjlhYzkyZTMzZjE5MQ==`

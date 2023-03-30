@@ -3781,6 +3781,24 @@
     },
     {
       "album": {
+        "name": "Comfortable Enough",
+        "url": "https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229753,
+      "name": "Something's Gotta Change",
+      "url": "https://open.spotify.com/track/3yXdAGibihmvYZefyetN1S"
+    },
+    {
+      "album": {
         "name": "Buckles Laboratories Presents: The Intermission",
         "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
       },
@@ -3944,7 +3962,7 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv"

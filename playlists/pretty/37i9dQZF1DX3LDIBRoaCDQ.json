@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1483533,
+  "num_followers": 1483841,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMGY0MjNkYjY5YjhiMDcxNTU1NDUxZTE3ZjkyMjY3Y2Iz",
+  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMDJlMjc3MDI3MGM1ZGJiMjdmMTBhOGZjZTllNDA4YWNk",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -711,6 +711,38 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 132786,
+      "name": "Banned in D.C.",
+      "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Pink Flag",
         "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
@@ -739,38 +771,6 @@
       "duration_ms": 221506,
       "name": "Personality Crisis",
       "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 132786,
-      "name": "Banned in D.C.",
-      "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 102106,
-      "name": "Knowledge - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2022-11-28 15:26:19",

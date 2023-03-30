@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to snuggling on the sofa.",
-  "num_followers": 34589,
+  "num_followers": 34644,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzMwMTIwMCwwMDAwMDAwMDRjYTdiMmQzZjE3NDhjYjNkYzQwYjc3NzA0YWU1YzZi",
+  "snapshot_id": "MTY3NzMwMTIwMCwwMDAwMDAwMDA1ZGIyNzk5MTc2MjRhZDgyNTk0M2E4NmZjNDAzNzA3",
   "tracks": [
     {
       "added_at": "2023-02-25 05:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-02-25 05:00:00",
       "album": {
-        "name": "Little Bit More",
-        "url": "https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF"
-      },
-      "artists": [
-        {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
-        }
-      ],
-      "duration_ms": 180678,
-      "name": "Little Bit More",
-      "url": "https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws"
-    },
-    {
-      "added_at": "2023-02-25 05:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 200306,
       "name": "False God",
       "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
+    },
+    {
+      "added_at": "2023-02-25 05:00:00",
+      "album": {
+        "name": "Little Bit More",
+        "url": "https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 180678,
+      "name": "Little Bit More",
+      "url": "https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws"
     },
     {
       "added_at": "2023-02-25 05:00:00",
@@ -887,22 +887,18 @@
     {
       "added_at": "2023-02-25 05:00:00",
       "album": {
-        "name": "Grow As We Go (feat. Sara Bareilles)",
-        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
         {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 249937,
-      "name": "Grow As We Go (feat. Sara Bareilles)",
-      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
       "added_at": "2023-02-25 05:00:00",
@@ -923,34 +919,22 @@
     {
       "added_at": "2023-02-25 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
+        "name": "Grow As We Go (feat. Sara Bareilles)",
+        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2023-02-25 05:00:00",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 218659,
-      "name": "Secrets from a Girl (Who's Seen it All)",
-      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
+      "duration_ms": 249937,
+      "name": "Grow As We Go (feat. Sara Bareilles)",
+      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
     },
     {
       "added_at": "2023-02-25 05:00:00",
@@ -967,6 +951,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2023-02-25 05:00:00",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 218659,
+      "name": "Secrets from a Girl (Who's Seen it All)",
+      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
     },
     {
       "added_at": "2023-02-25 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-02-25 05:00:00",
       "album": {
-        "name": "Stolen",
-        "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
-      },
-      "artists": [
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
-        }
-      ],
-      "duration_ms": 282438,
-      "name": "True Faith",
-      "url": "https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ"
-    },
-    {
-      "added_at": "2023-02-25 05:00:00",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2023-02-25 05:00:00",
+      "album": {
+        "name": "Stolen",
+        "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "duration_ms": 282438,
+      "name": "True Faith",
+      "url": "https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ"
     },
     {
       "added_at": "2023-02-25 05:00:00",

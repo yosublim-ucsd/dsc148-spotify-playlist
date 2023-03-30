@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,703 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,712 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 |
 | 2 | [My Flame](https://open.spotify.com/track/1FgyYm1kcXjkdR1VZmaiVo) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:12 |
-| 3 | [NEON RATS \- Sherelle's Sleepless in Philadelphia Remix](https://open.spotify.com/track/2FlPHfGs4KUe2GDtNQfb3P) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:50 |
+| 3 | [NEON RATS \- SHERELLE's Sleepless in Philadelphia Remix](https://open.spotify.com/track/2FlPHfGs4KUe2GDtNQfb3P) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:50 |
 | 4 | [GLAMOUR Riddim](https://open.spotify.com/track/6hFaY8lcMOWc7IjJ3eAgVh) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [GLAMOUR Riddim](https://open.spotify.com/album/6RxndZ15v2o4VYDYECe4FZ) | 5:48 |
 | 5 | [World Championships \- Tim Reaper VIP](https://open.spotify.com/track/0DuQ3BSlXGjRjDYfc9AftU) | [FFF](https://open.spotify.com/artist/1jR7PWJW17d3h2kEUqW0Tu), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [FRMOTMVIP002](https://open.spotify.com/album/23RxCIbJJpA4QQfgACLct5) | 6:32 |
 | 6 | [Revival](https://open.spotify.com/track/6RenH4B1Af1auyDziJkISc) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Revival EP](https://open.spotify.com/album/0uAAibQJzPpqxdSMzSAu2J) | 4:50 |

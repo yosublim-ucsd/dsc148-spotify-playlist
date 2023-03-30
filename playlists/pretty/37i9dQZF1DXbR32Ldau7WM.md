@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,885 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,988 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 73 | [暁](https://open.spotify.com/track/1JXoBwo67DqPB1d5v1NPRC) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [暁](https://open.spotify.com/album/0jp4zHCCFZZ3v5RtzbgeMm) | 4:10 |
 | 74 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 |
 | 75 | [騙し愛](https://open.spotify.com/track/1cfuwNPkI3rGX4umV5dDSM) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [騙し愛](https://open.spotify.com/album/0JfEYJw8kt6cwARbRQ1Y2S) | 3:26 |
-| 76 | [1994](https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [1994](https://open.spotify.com/album/2JAJGIjBaeM1m5f9yNfWDM) | 3:31 |
-| 77 | [TABUN MAYBE MEIJI feat\. A, TAGIRENTAROU](https://open.spotify.com/track/4A82whhuPt2nvg4InDrtYP) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [A, TAGIRENTAROU](https://open.spotify.com/artist/7nBxAYdWlDlGkjEAEnOvm3) | [Rekishichi](https://open.spotify.com/album/2mOomPDvaYSmHgexSdxWq7) | 3:31 |
+| 76 | [TABUN MAYBE MEIJI feat\. A, TAGIRENTAROU](https://open.spotify.com/track/4A82whhuPt2nvg4InDrtYP) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [A, TAGIRENTAROU](https://open.spotify.com/artist/7nBxAYdWlDlGkjEAEnOvm3) | [Rekishichi](https://open.spotify.com/album/2mOomPDvaYSmHgexSdxWq7) | 3:31 |
+| 77 | [1994](https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [1994](https://open.spotify.com/album/2JAJGIjBaeM1m5f9yNfWDM) | 3:31 |
 | 78 | [骨折り儲けの草臥れ損](https://open.spotify.com/track/0U8qZELCpgjxfCxFltHs1S) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [骨折り儲けの草臥れ損](https://open.spotify.com/album/1vFLfiobeCceiAS55fnNUw) | 4:32 |
 | 79 | [B.O.Y.](https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [B.O.Y.](https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK) | 4:02 |
 | 80 | [still in me](https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:45 |
 
-Snapshot ID: `MTY4MDAxNTYwMCwwMDAwMDAwMGRmZjBiMTFhM2NjNmU4Yjc2ZjIwYzg3ZDg4NjhjZTEx`
+Snapshot ID: `MTY4MDAxNTYwMCwwMDAwMDAwMDdhYmE3MzkyZGQwMTgzYzA4YzQ1YTRkYzFiN2JhMDU0`

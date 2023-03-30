@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,745,596 likes - 135 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,745,641 likes - 135 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 43 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 44 | [Hold Your Head Up High \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 3:34 |
 | 45 | [Time Zones](https://open.spotify.com/track/6nhHgE4RZYT1PuYVTvZeRQ) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Mountain Days](https://open.spotify.com/album/5sKDApWxowPDZzEcoW48wj) | 3:43 |
-| 46 | [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Vivian Leva](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H), [Riley Calcagno](https://open.spotify.com/artist/2n5rNh7Wb7FFhnijzCPfii) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 |
+| 46 | [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/6rCYNVPMK60qY0Z2zlJAyz) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 |
 | 47 | [Tongue Tied \- Acoustic](https://open.spotify.com/track/3yeZlcYkmkevkPR8mDmG8E) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [All Remains](https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw) | 3:05 |
 | 48 | [Take Back Thy Gift](https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Take Back Thy Gift](https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9) | 3:13 |
 | 49 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |

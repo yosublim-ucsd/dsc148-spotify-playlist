@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142 likes - 32 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144 likes - 32 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 26 | [Hannett and Delia synth exchanges track 8](https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 0:47 |
 | 27 | [Doctor Who Opening Title Theme](https://open.spotify.com/track/3neF5aqJRfdHgEKqnV7Fke) | [Ron Grainer](https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The 50th Anniversary Collection \(Original Television Soundtrack\)](https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q) | 0:44 |
 | 28 | [Great Zoos of the World](https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:37 |
-| 29 | [Hannett and Delia synth exchanges track 6](https://open.spotify.com/track/6fzWYlEBCGq0OXVLcw5yTV) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:06 |
+| 29 | [Hannett and Delia synth exchanges track 18](https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 1:29 |
 | 30 | [Doctor Who Closing Titles \(40" Version\)](https://open.spotify.com/track/3DLtzJulhFfQBRqwiuhwyC) | [Ron Grainer](https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The 50th Anniversary Collection \(Original Television Soundtrack\)](https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q) | 1:15 |
 | 31 | [Environmental Studies](https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:31 |
 | 32 | [Doctor Who \(Original Theme\) \[From "Doctor Who"\]](https://open.spotify.com/track/5dxWU9epbOtZ0XHv60tydp) | [Ron Grainer](https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The 50th Anniversary Collection \(Original Television Soundtrack\)](https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q) | 2:20 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDAxZTFjNjVmNDcxYTA5ODQxM2E5N2Y2NDZkZTIxMDYzMg==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDAzZmViZWJjOWU1ZWNhNmU3YjNhODkyNDZlZDExNDU2Ng==`

@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "complicated_5",
+        "url": "https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml"
+      },
+      "artists": [
+        {
+          "name": "artistbasm",
+          "url": "https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192916,
+      "name": "complicated_5",
+      "url": "https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw"
+    },
+    {
+      "album": {
         "name": "Lore",
         "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
       },

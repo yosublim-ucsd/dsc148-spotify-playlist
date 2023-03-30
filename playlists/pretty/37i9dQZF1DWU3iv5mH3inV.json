@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Flow 28",
-  "num_followers": 80244,
+  "num_followers": 80327,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDUyNTFhY2U4OGQ2ZGYyMDg1MTgzN2Q5YWVhZjliMmNm",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDY5M2Q2NzkxMjJmNzNlNDEwNDhhZDdiOWVhOWM3ZGUw",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -791,6 +791,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Juju Juju",
+        "url": "https://open.spotify.com/album/7pkUGzeyvr1wMnq3sxbdRe"
+      },
+      "artists": [
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "La Nevula23 Productor",
+          "url": "https://open.spotify.com/artist/1hUvMU3Sw9PKvnwftPtx8S"
+        }
+      ],
+      "duration_ms": 184005,
+      "name": "Juju Juju",
+      "url": "https://open.spotify.com/track/4vvQ96TQ1mV3uQyq4malVN"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Zuculento",
         "url": "https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od"
       },
@@ -815,30 +839,6 @@
       "duration_ms": 167168,
       "name": "Zuculento",
       "url": "https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Juju Juju",
-        "url": "https://open.spotify.com/album/7pkUGzeyvr1wMnq3sxbdRe"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "La Nevula23 Productor",
-          "url": "https://open.spotify.com/artist/1hUvMU3Sw9PKvnwftPtx8S"
-        }
-      ],
-      "duration_ms": 184005,
-      "name": "Juju Juju",
-      "url": "https://open.spotify.com/track/4vvQ96TQ1mV3uQyq4malVN"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1323,30 +1323,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Banda",
-        "url": "https://open.spotify.com/album/2Sp9mxQc4hAtYn4NVW2SMO"
-      },
-      "artists": [
-        {
-          "name": "Max Escobar",
-          "url": "https://open.spotify.com/artist/4plC0UaorE9RvYxijnnzUA"
-        },
-        {
-          "name": "El Fecho RD",
-          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
-        },
-        {
-          "name": "Tommy King",
-          "url": "https://open.spotify.com/artist/4VqmB4FEHsgbwCkyfNAFTu"
-        }
-      ],
-      "duration_ms": 178564,
-      "name": "Banda",
-      "url": "https://open.spotify.com/track/0CTQlAEZI4DrtxIySsGWuL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
       },
@@ -1367,6 +1343,30 @@
       "duration_ms": 159860,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6lyoUlB3Ppo4MHrG2Sp47o"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Banda",
+        "url": "https://open.spotify.com/album/2Sp9mxQc4hAtYn4NVW2SMO"
+      },
+      "artists": [
+        {
+          "name": "Max Escobar",
+          "url": "https://open.spotify.com/artist/4plC0UaorE9RvYxijnnzUA"
+        },
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        },
+        {
+          "name": "Tommy King",
+          "url": "https://open.spotify.com/artist/4VqmB4FEHsgbwCkyfNAFTu"
+        }
+      ],
+      "duration_ms": 178564,
+      "name": "Banda",
+      "url": "https://open.spotify.com/track/0CTQlAEZI4DrtxIySsGWuL"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "HIT DEMBOW",
-        "url": "https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR"
-      },
-      "artists": [
-        {
-          "name": "El Fother",
-          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
-        },
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        }
-      ],
-      "duration_ms": 250004,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 247301,
       "name": "El Mario de Tu Mujer",
       "url": "https://open.spotify.com/track/2CC8kheTSKvDiNbJsRMvBU"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "HIT DEMBOW",
+        "url": "https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR"
+      },
+      "artists": [
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 250004,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2299,26 +2299,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Flotaera",
-        "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
-      },
-      "artists": [
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 144406,
-      "name": "Flotaera",
-      "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Prendi",
         "url": "https://open.spotify.com/album/1YwkUuv2u1kfxUoPEJ9Azf"
       },
@@ -2335,6 +2315,26 @@
       "duration_ms": 211301,
       "name": "Prendi",
       "url": "https://open.spotify.com/track/4UkFMIoki83SK2KGjZg41B"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Flotaera",
+        "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 144406,
+      "name": "Flotaera",
+      "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Latin Hits 2016 Club Edition - 60 Latin Music Hits (Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton Kuduro, Latin Fitness)",
+        "url": "https://open.spotify.com/album/1WiEQPrvuZjamAFzafoPy6"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Debarata",
+      "url": "https://open.spotify.com/track/2L3FEivTGfG5P0rxH4OrLv"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "En Alta (Remix)",
         "url": "https://open.spotify.com/album/5BvehcNg7asKmRrxWEL1M6"
       },
@@ -2711,22 +2727,6 @@
       "duration_ms": 176410,
       "name": "En Alta (Remix)",
       "url": "https://open.spotify.com/track/03UEOYvtWlnY35Fa0Dva9A"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Latin Hits 2016 Club Edition - 60 Latin Music Hits (Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton Kuduro, Latin Fitness)",
-        "url": "https://open.spotify.com/album/1WiEQPrvuZjamAFzafoPy6"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Debarata",
-      "url": "https://open.spotify.com/track/2L3FEivTGfG5P0rxH4OrLv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2819,6 +2819,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 192835,
+      "name": "Pa Que Me Dan de Eso",
+      "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "KIKITO",
         "url": "https://open.spotify.com/album/5zaKagkTuLUWKJw054CGRq"
       },
@@ -2835,22 +2851,6 @@
       "duration_ms": 170084,
       "name": "KIKITO",
       "url": "https://open.spotify.com/track/6bbObOAinxRL1WtJlGU6co"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 192835,
-      "name": "Pa Que Me Dan de Eso",
-      "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 45722,
+  "num_followers": 45792,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzEzOSwwMDAwMDAwMDRlYzhiNTAwYjkwZWQzY2MxYjA5Y2YzN2RkZmZlMDAw",
+  "snapshot_id": "MTY3Nzg2NzEzOSwwMDAwMDAwMGNhZTcxZWM0ZTYzMGY5YzIzZGNlZTZmMGFkODZkYzM0",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:19",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Rancho Texicano: The Very Best of ZZ Top",
-        "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 279173,
-      "name": "Blue Jean Blues",
-      "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+        "name": "Rancho Texicano: The Very Best of ZZ Top",
+        "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+      "duration_ms": 279173,
+      "name": "Blue Jean Blues",
+      "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -675,6 +675,22 @@
       "duration_ms": 199226,
       "name": "No Headstone on My Grave",
       "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "An Introduction To Otis Rush",
+        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -783,8 +799,8 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "An Introduction To Otis Rush",
-        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
@@ -792,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 219559,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -947,38 +963,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
-        "name": "Driving Wheel",
-        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Drivin' Wheel - Single Version",
-      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 203226,
       "name": "Sittin' And Cryin' The Blues",
       "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Drivin' Wheel - Single Version",
+      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son"
-      },
-      "artists": [
-        {
-          "name": "CHERISE",
-          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
-        }
-      ],
-      "duration_ms": 270752,
-      "name": "Violet Nights",
-      "url": "https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "Complete Albums 1965-1980",
         "url": "https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "duration_ms": 270752,
+      "name": "Violet Nights",
+      "url": "https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
         "name": "No Foolin'!",
         "url": "https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 390666,
       "name": "It's Mighty Hard",
       "url": "https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
-        "name": "Presenting...The Best of the Blues",
-        "url": "https://open.spotify.com/album/1WoedhOKJqDgArNSthegCO"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "I Got the Blues",
-      "url": "https://open.spotify.com/track/67sHV5ccX8EreM66hq6cbv"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -1127,6 +1111,22 @@
       "duration_ms": 170893,
       "name": "Change is Inevitable (feat. AJ Fullerton)",
       "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "Presenting...The Best of the Blues",
+        "url": "https://open.spotify.com/album/1WoedhOKJqDgArNSthegCO"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "I Got the Blues",
+      "url": "https://open.spotify.com/track/67sHV5ccX8EreM66hq6cbv"
     },
     {
       "added_at": "2023-03-03 18:12:19",

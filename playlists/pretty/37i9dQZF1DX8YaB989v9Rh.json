@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 6611,
+  "num_followers": 6640,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDgwOCwwMDAwMDAwMDRjMjQ1YzNjYjA0N2JmNDVhNTcwMzJkNzk1ODVjNWIx",
+  "snapshot_id": "MTY2NDY0MDgwOCwwMDAwMDAwMDcwMWY1NWYxNjZiOGRlZjQ1NWQ2ZDAwNzJhNDQ5Mjdi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:13:28",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "In My House",
-        "url": "https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF"
-      },
-      "artists": [
-        {
-          "name": "Mary Jane Girls",
-          "url": "https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 210360,
       "name": "Show Me A Good Time",
       "url": "https://open.spotify.com/track/7v0hKO3RYhEXt2EPXf4AOS"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "In My House",
+        "url": "https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane Girls",
+          "url": "https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb"
     },
     {
       "added_at": "2022-10-01 16:13:28",

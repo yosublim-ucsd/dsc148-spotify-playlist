@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 704012,
+  "num_followers": 703995,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMGVlODcxN2EyYTEzMjBlMTBjMTZhNTlhNTUyYjI4YTg2",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMGVjMjdhNzZiYTAwMGZiNWYwM2E1OWY4ODM0ZjMwZjhj",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -203,8 +203,8 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Heartbreak Feels So Good",
-        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 217537,
-      "name": "Heartbreak Feels So Good",
-      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -335,8 +335,8 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
+        "name": "Heartbreak Feels So Good",
+        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
       },
       "artists": [
         {
@@ -344,25 +344,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Screaming Suicide",
-        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 330453,
-      "name": "Screaming Suicide",
-      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -383,6 +367,22 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Screaming Suicide",
+        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Hotel Kalifornia",
         "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 173931,
       "name": "City Of The Dead",
       "url": "https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -547,22 +547,6 @@
       "duration_ms": 221433,
       "name": "No More Tears To Cry",
       "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Lighting Up The Sky",
-        "url": "https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 245099,
-      "name": "Soul On Fire",
-      "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 245099,
+      "name": "Soul On Fire",
+      "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "duration_ms": 232620,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -707,22 +723,6 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX"
-      },
-      "artists": [
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
-        }
-      ],
-      "duration_ms": 232620,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Walk The Sky",
         "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 178318,
       "name": "Take the Ride",
       "url": "https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
       "added_at": "2023-03-24 03:01:00",

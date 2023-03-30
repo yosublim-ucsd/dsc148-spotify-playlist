@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 38721,
+  "num_followers": 38743,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMGI2MzZkODg2ZGJlODVhOGQ0N2Y3M2M5ZTYwMDk3ODUy",
+  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMGQ2ZjVhYmRlY2EyNjcyMTM5MzQ5Y2MyYzVhNjExMzlj",
   "tracks": [
     {
       "added_at": "2022-10-28 19:05:39",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 194560,
       "name": "20 Rosas",
       "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+        "name": "El Baile de San Juan",
+        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Grupo La Chomba",
+          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
         }
       ],
-      "duration_ms": 202440,
-      "name": "D\u00edganle",
-      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+      "duration_ms": 254375,
+      "name": "El Baile de San Juan",
+      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "El Baile de San Juan",
-        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
       "artists": [
         {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 254375,
-      "name": "El Baile de San Juan",
-      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
+      "duration_ms": 202440,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 208352,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Cumbia Amazonica",
         "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 169600,
       "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
       "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 224396,
-      "name": "Tongoneaito",
-      "url": "https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "No Mientas Mas",
         "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 240953,
       "name": "Traicion Y Olvido",
       "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 224396,
+      "name": "Tongoneaito",
+      "url": "https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1315,338 +1315,6 @@
       "duration_ms": 218640,
       "name": "Chango",
       "url": "https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Ondatr\u00f3pica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Samba del Arenal",
-        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Cinemar",
-          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Samba del Arenal",
-      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Cumbia de las Flores",
-      "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Babalu",
-      "url": "https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 161426,
-      "name": "Cumbia De Los Pajaritos",
-      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 208875,
-      "name": "La Mujer del Pelotero",
-      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Gypsy Woman",
-        "url": "https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "En Orbita",
-        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Quiero Verte Feliz",
-        "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Quiero Verte Feliz",
-      "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Cumbiando Este 5 De Mayo",
-        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Cumbia En La Playa",
-      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Hotline Bling",
-        "url": "https://open.spotify.com/album/7fBRvRup48necAZiCwGugk"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 203059,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/7dNOYhHNvhCs0uKkCQdH2M"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Director Nestor Mili",
-        "url": "https://open.spotify.com/album/6sdUnDbPFE4Krw4aHHEM3z"
-      },
-      "artists": [
-        {
-          "name": "Los Zafiros",
-          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
-        }
-      ],
-      "duration_ms": 156853,
-      "name": "La Luna en Tu Mirada",
-      "url": "https://open.spotify.com/track/6Pn9xvGxfZdg0BvAiQsMmJ"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Cumbia Salvaje",
-        "url": "https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 262571,
-      "name": "Bocanegra",
-      "url": "https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Sensacion Latina",
-        "url": "https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf"
-      },
-      "artists": [
-        {
-          "name": "Yucateco",
-          "url": "https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN"
-        }
-      ],
-      "duration_ms": 165047,
-      "name": "Sensacion Latina",
-      "url": "https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Historia natural",
-        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
-      },
-      "artists": [
-        {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Todos tenemos hogar",
-      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Cuatro Tigres",
-        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "La Danza de los Simpsons",
-      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "The Afrosound Of Colombia Volume 1",
-        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Los sabanales",
-      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
     }
   ],
   "unique_name": "Los Chilaquiles",

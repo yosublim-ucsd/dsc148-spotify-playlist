@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Hit\-Boy, Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,200 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,427 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Tide](https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 3:56 |
 | 2 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 |
 | 3 | [Respectfully](https://open.spotify.com/track/2iq4zO451gPlVSWT5PEYVg) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Respectfully](https://open.spotify.com/album/3MmpqNCpQj8HLbg7sNd6hr) | 2:42 |
-| 4 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 4 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 5 | [Me Myself and I](https://open.spotify.com/track/60nAGisfgCfnggF6PxKMej) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/4ORoATQVXNVVYIT6x03pXL) | 3:49 |
 | 6 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
 | 7 | [Adonis Interlude \(The Montage\) \(with J\. Cole\)](https://open.spotify.com/track/23w7p4AuDtw9CrhFBcMat5) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 1:35 |

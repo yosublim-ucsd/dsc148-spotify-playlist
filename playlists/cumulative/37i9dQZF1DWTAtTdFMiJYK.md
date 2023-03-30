@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Kamakshi Khanna
 
-228 songs - 13 hr 37 min
+229 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bina Tere](https://open.spotify.com/track/4vbHPgMizyrdNMYbCnxseY) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Avish](https://open.spotify.com/artist/6Xmihw4G1rNjdUI3eH1QBv) | [Bina Tere](https://open.spotify.com/album/7BOELerzdNBiNf9igd9V6s) | 3:08 | 2021-12-06 | 2022-06-11 |
 | [Blush](https://open.spotify.com/track/6IjeHG6oLIkZeSq2SMEAtd) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Blush](https://open.spotify.com/album/5XLBXjciXLRxhhRI99zaOP) | 3:19 | 2021-12-06 | 2022-01-11 |
 | [Boonda Baandi](https://open.spotify.com/track/1CwU0cJqshRIJ14YFAFytm) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Boonda Baandi](https://open.spotify.com/album/7Kxpe3psy5jJQZwBL0JA3S) | 4:22 | 2021-12-06 | 2022-08-09 |
+| [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 | 2023-03-29 |  |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-02-24 | 2023-01-20 |
 | [Chaand Baaliyan](https://open.spotify.com/track/0vaPHw608M1jHif7kO2TSc) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/0Q40XX2V1XxzMSyFi95J7h) | 1:43 | 2022-01-31 | 2022-02-25 |
 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 | 2022-06-10 | 2022-12-01 |
@@ -58,7 +59,7 @@
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-03-01 |  |
 | [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-14 | 2023-03-14 |
 | [Do Shaitano](https://open.spotify.com/track/6SrDgvxLztbmuK5jX7hg1T) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Do Shaitano](https://open.spotify.com/album/0TfdtzxV0kkk4vXtXiZcv8) | 3:30 | 2023-02-17 |  |
-| [Doobna Aata Hai](https://open.spotify.com/track/5WmulZwnY1U5566pqYWstk) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Doobna Aata Hai](https://open.spotify.com/album/3og6i5UVjMjvZnFfVaOumg) | 5:21 | 2022-05-19 |  |
+| [Doobna Aata Hai](https://open.spotify.com/track/5WmulZwnY1U5566pqYWstk) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Doobna Aata Hai](https://open.spotify.com/album/3og6i5UVjMjvZnFfVaOumg) | 5:21 | 2022-05-19 | 2023-03-30 |
 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 | 2022-01-10 |  |
 | [Dooriyaan](https://open.spotify.com/track/09YtF2lAlYgTN5yA39iYYa) | [Shubumm](https://open.spotify.com/artist/5T3nhvOB6jdI5IxYFpuTZ8) | [Dooriyaan](https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0) | 2:48 | 2021-12-06 | 2022-04-08 |
 | [Dreaming In My Mind](https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Dreaming In My Mind](https://open.spotify.com/album/1pCyN5L4pRaw7l0ouq9AFF) | 3:14 | 2021-12-06 | 2023-01-11 |

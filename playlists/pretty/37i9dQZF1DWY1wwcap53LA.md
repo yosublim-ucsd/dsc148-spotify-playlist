@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Tanner Adell, by Ian Woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,737 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,753 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 84 | [The Flame](https://open.spotify.com/track/7l1qHh19nKzU49MRCyG3Yp) | [Camille Parker](https://open.spotify.com/artist/3u1V5YbyG4zthBujlpdFE5) | [The Flame](https://open.spotify.com/album/6Sw8xNbH0mApwadnpyyCFA) | 2:45 |
 | 85 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 |
 | 86 | [Goner](https://open.spotify.com/track/5aoAYO5gJL9VnCxWU3q0EU) | [Skyelor Anderson](https://open.spotify.com/artist/5bclkN4UM70TfIa6NGMGcr) | [Bonfire](https://open.spotify.com/album/2DuONDxO2ITx5MNJbjPnr5) | 3:00 |
-| 87 | [Beer Up](https://open.spotify.com/track/6oWSA5EQdY20ZfZCyvjMki) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0) | 3:04 |
+| 87 | [Beer Up](https://open.spotify.com/track/7mcj0B8saFQlMyycOHl4NL) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2n2DccporPZDxX4qAJKfIZ) | 3:04 |
 | 88 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 |
 | 89 | [Life's Short Drink Tall](https://open.spotify.com/track/1pQMkHmVOw0vniUlXPvmgo) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Life's Short Drink Tall](https://open.spotify.com/album/5UjiPf6KbhvmJTqdxYbv5d) | 3:09 |
 | 90 | [Best Shot \- Spotify Singles](https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:10 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 98 | [Guilty](https://open.spotify.com/track/1lGb5arfGbuaf3x8WItW47) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/16IHuRaNklgTjUc3NnJ3kW) | 3:02 |
 | 99 | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/track/6fk8yiw2sxAC6ycLU7EaZa) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/album/2FDgPyH6uGxspBo6ReEUxW) | 2:00 |
 
-Snapshot ID: `MTY3NzAzMjI3NCwwMDAwMDAwMGM4N2Y0ZDQxZDZjMjQwZWZiNGViMTkyNmJjYTA2MWNj`
+Snapshot ID: `MTY3NzAzMjI3NCwwMDAwMDAwMDE3YjI0YmUxZTk0MDUwMDdhNzhkMjliN2NkZjg3YjA1`

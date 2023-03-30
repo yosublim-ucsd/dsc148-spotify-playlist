@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,753 likes - 111 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,760 likes - 111 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 70 | [Stjärnorna](https://open.spotify.com/track/0QzjQiI3K2J90mn0tHslZ4) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Stjärnorna](https://open.spotify.com/album/582G1brdY5Jfx181W2E3z0) | 2:52 |
 | 71 | [The Tide](https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 3:56 |
 | 72 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
-| 73 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 73 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 74 | [SCARING THE HOES](https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/2W8QmJ48TFvnkjrrQOHDBR) | 2:22 |
 | 75 | [Window](https://open.spotify.com/track/6NEHHyvhc9xgNWD23NuFuZ) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Nocturnal](https://open.spotify.com/album/5aiwqqvPPFZW0nEaByyqdt) | 2:26 |
 | 76 | [Talk To Me](https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Spinning Around](https://open.spotify.com/album/7eae6QcOQ7yyIa2YI4jwNS) | 2:56 |

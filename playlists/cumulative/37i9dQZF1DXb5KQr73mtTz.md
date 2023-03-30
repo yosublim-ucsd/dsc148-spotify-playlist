@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-222 songs - 14 hr 34 min
+223 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-06-18 | 2022-07-24 |
 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 | 2022-05-11 |  |
 | [Drown](https://open.spotify.com/track/7uVqetqCVpIrqeVRf4wyWW) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Drown](https://open.spotify.com/album/1TYFO2ZPj1oQ6Ppq0k2RYG) | 3:30 | 2022-07-08 | 2022-07-18 |
+| [Dumb \(Feat\. Kim Seungmin, Chan\)](https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Can I Not ?](https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R) | 3:27 | 2023-03-30 |  |
 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 | 2022-07-08 | 2023-03-28 |
 | [Emptiness in Memory](https://open.spotify.com/track/1YZLHAjxsXujbeQj6DkvgR) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Sound Doctrine](https://open.spotify.com/album/1ubAHHLocrHi2DnH3fg0gm) | 4:41 | 2022-05-11 | 2022-07-29 |
 | [empty \(With Boramiyu\)](https://open.spotify.com/track/111N35rXgqbERCu9lMpnou) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 3:35 | 2022-06-20 | 2022-07-29 |
@@ -133,7 +134,7 @@
 | [Lovesick](https://open.spotify.com/track/0gPNUEHPZJN0oOSwJ1Ymnd) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:13 | 2022-07-08 | 2022-07-24 |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2022-05-11 |  |
 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 | 2023-02-03 |  |
-| [Memory](https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/67HFNkpetCimboi5JzugYd) | 4:23 | 2023-02-15 |  |
+| [Memory](https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/67HFNkpetCimboi5JzugYd) | 4:23 | 2023-02-15 | 2023-03-30 |
 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-09-05 | 2022-11-23 |
 | [Midnight sun](https://open.spotify.com/track/46B34DWj7HjB4eEKHFa5sB) | [Marvin](https://open.spotify.com/artist/5Ge2wlLiHJlpzMSnbGkbpO) | [Nostalgia](https://open.spotify.com/album/2t0ynhYs5QkYMorNReZJSC) | 3:19 | 2022-07-08 | 2022-07-25 |
 | [Milky Way](https://open.spotify.com/track/7uYP73T6rByUNYL8RE7kiF) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Milky Way](https://open.spotify.com/album/7xiwhKvFNNeThDoLP4oRTy) | 3:53 | 2022-05-11 | 2022-06-06 |

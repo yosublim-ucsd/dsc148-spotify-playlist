@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Ana Sanz",
-  "num_followers": 34270,
+  "num_followers": 34282,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMTgyNiwwMDAwMDAwMDBjOTgzYjE3OWRmN2I4MjRkYmMxMTQzMTIxZDgwM2Mz",
+  "snapshot_id": "MTY3OTYxMTgyNiwwMDAwMDAwMDdlYjQ0YTZmNzJjMTIxZTU4YmU3ZDdhMDIyOTkxY2Nm",
   "tracks": [
     {
       "added_at": "2023-03-16 21:26:48",
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
     },
     {
-      "added_at": "2023-03-29 05:22:13",
+      "added_at": "2023-03-30 01:42:07",
       "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV"
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Teoria Espacial",
-        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "Teoria Espacial",
-      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
-    },
-    {
-      "added_at": "2023-03-16 21:26:48",
-      "album": {
         "name": "Avi\u00f3n",
         "url": "https://open.spotify.com/album/3PFOOi8DQZ6ai84QNhniAF"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
+        "name": "Teoria Espacial",
+        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230833,
+      "name": "Teoria Espacial",
+      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
+    },
+    {
+      "added_at": "2023-03-16 21:26:48",
+      "album": {
         "name": "Prender un Fuego",
         "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
       },
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
       "artists": [
         {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
         }
       ],
-      "duration_ms": 296914,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -383,34 +383,18 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
-    },
-    {
-      "added_at": "2023-03-16 21:26:48",
-      "album": {
-        "name": "Cosa M\u00eda",
-        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Cosa M\u00eda",
-      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
+      "duration_ms": 296914,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -431,6 +415,22 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2023-03-16 21:26:48",
+      "album": {
+        "name": "Cosa M\u00eda",
+        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Cosa M\u00eda",
+      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Raices de Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 127426,
-      "name": "Feliz en Mi Soledad",
-      "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
-    },
-    {
-      "added_at": "2023-03-16 21:26:48",
-      "album": {
         "name": "Tigre Ulli",
         "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 127600,
       "name": "Postales Blancas",
       "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
+    },
+    {
+      "added_at": "2023-03-16 21:26:48",
+      "album": {
+        "name": "Raices de Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "duration_ms": 127426,
+      "name": "Feliz en Mi Soledad",
+      "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
+        "name": "Ruta Hotel",
+        "url": "https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi"
+      },
+      "artists": [
+        {
+          "name": "Playa Nudista",
+          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
+        }
+      ],
+      "duration_ms": 148997,
+      "name": "Nubosidad Variable",
+      "url": "https://open.spotify.com/track/2bIkvdwmFGpaskCWbtHgXP"
+    },
+    {
+      "added_at": "2023-03-16 21:26:48",
+      "album": {
         "name": "15 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6"
       },
@@ -979,38 +995,6 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Todo el mundo miente",
-        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 207669,
-      "name": "Todo el mundo miente",
-      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
-    },
-    {
-      "added_at": "2023-03-16 21:26:48",
-      "album": {
-        "name": "Ruta Hotel",
-        "url": "https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi"
-      },
-      "artists": [
-        {
-          "name": "Playa Nudista",
-          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
-        }
-      ],
-      "duration_ms": 148997,
-      "name": "Nubosidad Variable",
-      "url": "https://open.spotify.com/track/2bIkvdwmFGpaskCWbtHgXP"
-    },
-    {
-      "added_at": "2023-03-16 21:26:48",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 180680,
       "name": "Somos",
       "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
+    },
+    {
+      "added_at": "2023-03-16 21:26:48",
+      "album": {
+        "name": "Todo el mundo miente",
+        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 207669,
+      "name": "Todo el mundo miente",
+      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Dentro",
-        "url": "https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy"
+        "name": "Todo Se Est\u00e1 Cayendo",
+        "url": "https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Lobo",
-          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Dentro",
-      "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
+      "duration_ms": 255200,
+      "name": "Todo Se Est\u00e1 Cayendo",
+      "url": "https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Todo Se Est\u00e1 Cayendo",
-        "url": "https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6"
+        "name": "Dentro",
+        "url": "https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy"
       },
       "artists": [
         {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+          "name": "Ni\u00f1a Lobo",
+          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
         }
       ],
-      "duration_ms": 255200,
-      "name": "Todo Se Est\u00e1 Cayendo",
-      "url": "https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8"
+      "duration_ms": 145000,
+      "name": "Dentro",
+      "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1135,6 +1135,22 @@
       "duration_ms": 245246,
       "name": "Piedra Marea Fuego",
       "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+    },
+    {
+      "added_at": "2023-03-16 21:26:48",
+      "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
+        "name": "Flores Sobre las Piedras",
+        "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
       },
       "artists": [
         {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+          "name": "Carla Rivarola",
+          "url": "https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK"
         }
       ],
-      "duration_ms": 204878,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
+      "duration_ms": 302000,
+      "name": "Flores Sobre las Piedras",
+      "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1231,22 +1247,6 @@
       "duration_ms": 247970,
       "name": "MANIQU\u00cd",
       "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
-    },
-    {
-      "added_at": "2023-03-16 21:26:48",
-      "album": {
-        "name": "Flores Sobre las Piedras",
-        "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
-      },
-      "artists": [
-        {
-          "name": "Carla Rivarola",
-          "url": "https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Flores Sobre las Piedras",
-      "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Primera Temporada",
-        "url": "https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk"
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
       "artists": [
         {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 137261,
-      "name": "V\u00f3mito",
-      "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1411,34 +1411,34 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Denadie",
-        "url": "https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G"
+        "name": "Primera Temporada",
+        "url": "https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk"
       },
       "artists": [
         {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
         }
       ],
-      "duration_ms": 186041,
-      "name": "Denadie",
-      "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
+      "duration_ms": 137261,
+      "name": "V\u00f3mito",
+      "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"
     },
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
+        "name": "Mujer Contra Mujer",
+        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
       },
       "artists": [
         {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+          "name": "Sandra Y Celeste",
+          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
         }
       ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
+      "duration_ms": 229373,
+      "name": "Mujer Contra Mujer",
+      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Mujer Contra Mujer",
-        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+        "name": "Denadie",
+        "url": "https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G"
       },
       "artists": [
         {
-          "name": "Sandra Y Celeste",
-          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
         }
       ],
-      "duration_ms": 229373,
-      "name": "Mujer Contra Mujer",
-      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+      "duration_ms": 186041,
+      "name": "Denadie",
+      "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Autodefensa",
-        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
-      },
-      "artists": [
-        {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
-        }
-      ],
-      "duration_ms": 180277,
-      "name": "Autodefensa",
-      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
-    },
-    {
-      "added_at": "2023-03-16 21:26:48",
-      "album": {
         "name": "Acorralar a la Bestia",
         "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 331676,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj"
+    },
+    {
+      "added_at": "2023-03-16 21:26:48",
+      "album": {
+        "name": "Autodefensa",
+        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
+      },
+      "artists": [
+        {
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
+        }
+      ],
+      "duration_ms": 180277,
+      "name": "Autodefensa",
+      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
     },
     {
       "added_at": "2023-03-16 21:26:48",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-03-16 21:26:48",
       "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+        "name": "Arder",
+        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
       },
       "artists": [
         {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "M\u00e1s Que Uno",
+          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
         }
       ],
-      "duration_ms": 176490,
-      "name": "El Oscuro",
-      "url": "https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW"
+      "duration_ms": 218431,
+      "name": "Si Me Canso de Callar",
+      "url": "https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA"
     }
   ],
   "unique_name": "Rockeras",

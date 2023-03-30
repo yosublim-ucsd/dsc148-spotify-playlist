@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 414830,
+  "num_followers": 414835,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxMjY2NywwMDAwMDAwMDgyODZlYTRiZDNiM2RjMmMzOTdjZWFmMWU2ODc4ZTk4",
+  "snapshot_id": "MTY4MDAxMjY2NywwMDAwMDAwMDUwZjIxMDZlZGFhYTM2OWVkYmRhNGJmNjIyOTU3MTNi",
   "tracks": [
     {
       "added_at": "2023-03-28 14:11:07",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-03-28 14:11:07",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "added_at": "2023-03-28 14:11:07",
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2023-03-28 14:11:07",
-      "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2023-03-28 14:11:07",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-03-28 14:11:07",
       "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2023-03-28 14:11:07",
+      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-03-28 14:11:07",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
     },
     {
       "added_at": "2023-03-28 14:11:07",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-28 14:11:07",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2023-03-28 14:11:07",
-      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "added_at": "2023-03-28 14:11:07",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-03-28 14:11:07",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-28 14:11:07",
       "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-03-28 14:11:07",
-      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/49aUKXpJ9U0llET9mhgOqI"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 227209,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/7A3uhvZBmoLzCCFQT14lGU"
+    },
+    {
+      "added_at": "2023-03-28 14:11:07",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2023-03-28 14:11:07",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-03-28 14:11:07",
       "album": {
-        "name": "10 Summers",
-        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
+        "name": "Can I Jump?",
+        "url": "https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3"
       },
       "artists": [
         {
-          "name": "Ashley Singh",
-          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
         }
       ],
-      "duration_ms": 160500,
-      "name": "10 Summers",
-      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
+      "duration_ms": 222494,
+      "name": "Can I Jump?",
+      "url": "https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D"
     },
     {
       "added_at": "2023-03-28 14:11:07",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-03-28 14:11:07",
       "album": {
-        "name": "essential",
-        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
+        "name": "10 Summers",
+        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "Ashley Singh",
+          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
         }
       ],
-      "duration_ms": 162656,
-      "name": "essential",
-      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
+      "duration_ms": 160500,
+      "name": "10 Summers",
+      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
     },
     {
       "added_at": "2023-03-28 14:11:07",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-03-28 14:11:07",
       "album": {
+        "name": "essential",
+        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 162656,
+      "name": "essential",
+      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
+    },
+    {
+      "added_at": "2023-03-28 14:11:07",
+      "album": {
         "name": "Pick Your Tears Up",
         "url": "https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2023-03-28 14:11:07",
       "album": {
-        "name": "Can I Jump?",
-        "url": "https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
       "artists": [
         {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         }
       ],
-      "duration_ms": 222494,
-      "name": "Can I Jump?",
-      "url": "https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D"
+      "duration_ms": 205600,
+      "name": "Better Angels",
+      "url": "https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE"
     },
     {
       "added_at": "2023-03-28 14:11:07",
@@ -1543,22 +1559,6 @@
       "duration_ms": 183079,
       "name": "For Those Who Can't Be Here",
       "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
-    },
-    {
-      "added_at": "2023-03-28 14:11:07",
-      "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Better Angels",
-      "url": "https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE"
     },
     {
       "added_at": "2023-03-28 14:11:07",

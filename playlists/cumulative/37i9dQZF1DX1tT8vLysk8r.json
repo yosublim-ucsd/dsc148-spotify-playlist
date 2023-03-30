@@ -1173,36 +1173,6 @@
     },
     {
       "album": {
-        "name": "Prokofiev: Piano Concerto No. 3 in C Major, Op. 26: III. Allegro, ma non troppo (Live)",
-        "url": "https://open.spotify.com/album/3VCqesH6iMAHLLlkfeY3Yj"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        },
-        {
-          "name": "Verbier Festival Orchestra",
-          "url": "https://open.spotify.com/artist/6ul6fyDbGi5NtAFJhScD6O"
-        },
-        {
-          "name": "Yuri Temirkanov",
-          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 573480,
-      "name": "Piano Concerto No. 3 in C Major, Op. 26: III. Allegro, ma non troppo - Live",
-      "url": "https://open.spotify.com/track/1J3VAzwf2L4t8o9vfO3OPt"
-    },
-    {
-      "album": {
         "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
         "url": "https://open.spotify.com/album/7yyF5wduZBFhlkCM5edNr9"
       },
@@ -1660,6 +1630,36 @@
       "duration_ms": 367053,
       "name": "Prokofiev: Piano Concerto No. 2 in G Minor, Op. 16: III. Intermezzo. Allegro moderato",
       "url": "https://open.spotify.com/track/76fby0sYhfxBzGAVERlXhv"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Piano Concerto No. 3 in C Major, Op. 26: III. Allegro, ma non troppo (Live)",
+        "url": "https://open.spotify.com/album/3VCqesH6iMAHLLlkfeY3Yj"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Verbier Festival Orchestra",
+          "url": "https://open.spotify.com/artist/6ul6fyDbGi5NtAFJhScD6O"
+        },
+        {
+          "name": "Yuri Temirkanov",
+          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573480,
+      "name": "Prokofiev: Piano Concerto No. 3 in C Major, Op. 26 - III. Allegro, ma non troppo - Live",
+      "url": "https://open.spotify.com/track/1J3VAzwf2L4t8o9vfO3OPt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 3906170,
+  "num_followers": 3907715,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDYxZTYyNWZkNmQyMjBiYWIyMzM1NTgxMzNlNGU2YzJl",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGY2NjdjOWQyMDNhMGE4MWIyOGI1ZDllMDNlNDQxMDcw",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "AMERICA HAS A PROBLEM",
+      "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "AMERICA HAS A PROBLEM",
-      "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 193381,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 170184,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "CTRL + ALT + DEL",
         "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
       },
@@ -1711,22 +1731,6 @@
       "duration_ms": 153166,
       "name": "CTRL + ALT + DEL",
       "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 202406,
-      "name": "iPad",
-      "url": "https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1755,22 +1759,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p"
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         }
       ],
-      "duration_ms": 170184,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB"
+      "duration_ms": 202406,
+      "name": "iPad",
+      "url": "https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Don't Go Yet (Major Lazer Remix)",
+        "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "duration_ms": 171265,
+      "name": "Don't Go Yet - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Never Love You Again",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 191329,
       "name": "Never Love You Again",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Don't Go Yet (Major Lazer Remix)",
-        "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        }
-      ],
-      "duration_ms": 171265,
-      "name": "Don't Go Yet - Major Lazer Remix",
-      "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -2063,22 +2063,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Stupid Feelings",
-        "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
+        "name": "I'll Be There (Cahill Remix)",
+        "url": "https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe"
       },
       "artists": [
         {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         },
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
         }
       ],
-      "duration_ms": 166924,
-      "name": "Stupid Feelings",
-      "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
+      "duration_ms": 183991,
+      "name": "I'll Be There - Cahill Remix",
+      "url": "https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy"
     }
   ],
   "unique_name": "Cardio",

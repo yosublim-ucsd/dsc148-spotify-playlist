@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics.",
-  "num_followers": 148375,
+  "num_followers": 148530,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg5ODAyMywwMDAwMDAwMDIxNjIyNzk2MzZkYjllMmUzNjBiODIwZTZhNjhiMzAw",
+  "snapshot_id": "MTY3NTg5ODAyMywwMDAwMDAwMDRkNmJhNDQ4ZmVhNDg1Mzg3ZTkwZTc0OWQ0MDkxYWNl",
   "tracks": [
     {
       "added_at": "2023-02-08 23:13:43",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Romancero",
-        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "De Momento Abril",
-      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Algo Es Mejor",
         "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 241000,
       "name": "Algo Es Mejor",
       "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Romancero",
+        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "De Momento Abril",
+      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "El Chapo (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Vienen A Verme - Theme from \"El Chapo\"",
-      "url": "https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+        "name": "El Chapo (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+      "duration_ms": 200960,
+      "name": "Vienen A Verme - Theme from \"El Chapo\"",
+      "url": "https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -787,6 +771,22 @@
       "duration_ms": 237786,
       "name": "Popscuro",
       "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "HU HU HU",
         "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 267840,
       "name": "Cursis Melod\u00edas",
       "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
         }
       ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+      "duration_ms": 266925,
+      "name": "Espero",
+      "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
       },
       "artists": [
         {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 266925,
-      "name": "Espero",
-      "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
+      "duration_ms": 174053,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1511,22 +1527,6 @@
       "duration_ms": 190462,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
     },
     {
       "added_at": "2023-02-08 23:13:43",

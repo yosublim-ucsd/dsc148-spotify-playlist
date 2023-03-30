@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 979438,
+  "num_followers": 979630,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ3ODI1MCwwMDAwMDAwMDI4OTA5NWRjNTUxYzE2ZTdmNjA3ODBmOTlmNDM4MTg5",
+  "snapshot_id": "MTY3OTQ3ODI1MCwwMDAwMDAwMDRmZWUzNTA0MjA5NDFhNzE4YTY2NGQ4ODNiZjBiYjc1",
   "tracks": [
     {
       "added_at": "2023-03-15 07:51:56",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
+        "name": "Skylark (Std. Version)",
+        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
       },
       "artists": [
         {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        },
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
         }
       ],
-      "duration_ms": 154360,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP"
+      "duration_ms": 283093,
+      "name": "When I Fall in Love (feat. Chris Botti)",
+      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Skylark (Std. Version)",
-        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
       },
       "artists": [
         {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        },
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
         }
       ],
-      "duration_ms": 283093,
-      "name": "When I Fall in Love (feat. Chris Botti)",
-      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+      "duration_ms": 154360,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "To Be Loved",
-        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 113293,
       "name": "Almost Like Being In Love - Remastered",
       "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
         "name": "I Belong To You",
         "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "Hooray For Love",
         "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+      "duration_ms": 234320,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "There's A Lull In My Life",
-      "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "Your Songs",
         "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 202226,
       "name": "First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "There's A Lull In My Life",
+      "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
     },
     {
       "added_at": "2023-03-15 07:51:56",

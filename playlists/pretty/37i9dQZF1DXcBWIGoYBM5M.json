@@ -1,12 +1,12 @@
 {
   "description": "Ed Sheeran is on top of the Hottest 50!",
-  "num_followers": 33378205,
+  "num_followers": 33382654,
   "original_name": "Today's Top Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAzOTkwMiwwMDAwMDAwMGM2NzI0MzdhMTgxMTM4ZjM0Nzc4ZWMzNGI3NTNjODc0",
+  "snapshot_id": "MTY4MDA5OTQ1MiwwMDAwMDAwMDk0YTIwZjJlMGUzZjAwNDc5NTVlYTZkY2IyMzAyNjAy",
   "tracks": [
     {
       "added_at": "2023-03-27 17:36:02",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-03-27 17:36:02",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2023-03-27 17:36:02",
+      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
-    },
-    {
-      "added_at": "2023-03-27 17:36:02",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2023-03-27 17:36:02",

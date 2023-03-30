@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/61xuizm8At6DCwGHJZTmB7.md) - cumulative - [plain](/playlists/plain/61xuizm8At6DCwGHJZTmB7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61xuizm8At6DCwGHJZTmB7)
 
-### [Worship 2023](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
+### [Easter Worship 2023](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
+> Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Chris Tomlin
 
 254 songs - 1 day 0 hr 37 min
 

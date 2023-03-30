@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,333 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,457 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Felix Jaehn Remix\)](https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV) | 2:51 |
-| 2 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
+| 1 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
+| 2 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Felix Jaehn Remix\)](https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV) | 2:51 |
 | 3 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 |
 | 4 | [Ferrari \- Oliver Heldens Remix](https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Ferrari \(Oliver Heldens Remix\)](https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY) | 3:08 |
 | 5 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Family \- Frank Walker Remix](https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Family \(Remixes\)](https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C) | 3:05 |
 | 50 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\) \- Felix Cartal Remix](https://open.spotify.com/track/5mYNWSc1AE7pWS3Ax4e8Dl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Close To Me \(Remixes\)](https://open.spotify.com/album/2tRRqWb7Zfodd3bO0cTDwc) | 3:43 |
 
-Snapshot ID: `MTY3NjAzMzcxNCwwMDAwMDAwMDE3N2UwMDY2YWMzYTNmYWJhZWY5ZDYwYjcyM2Y3NWFk`
+Snapshot ID: `MTY3NjAzMzcxNCwwMDAwMDAwMDg4MTdhYTgxZWM4MTRkY2Q0YjM5N2ZjNTAwMmU2YjVi`

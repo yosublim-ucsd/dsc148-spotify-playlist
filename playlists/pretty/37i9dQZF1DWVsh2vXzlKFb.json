@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 261359,
+  "num_followers": 261357,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgxODMxOSwwMDAwMDAwMDE1YTVlOGU3NWQ3M2FhYTNhNjU4NWNhNzEzMjJmZjhl",
+  "snapshot_id": "MTY3ODgxODMxOSwwMDAwMDAwMGY3MzYyMWY0ZWY4ZjY4YmJlYjcxOWNkOTMyZmVjMGE3",
   "tracks": [
     {
       "added_at": "2023-03-11 00:52:02",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
-      "added_at": "2023-03-29 04:33:21",
+      "added_at": "2023-03-30 00:16:57",
       "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Weekend Friend",
         "url": "https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 209454,
       "name": "Weekend Friend",
       "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "The Shave Experiment (Director's Cut)",
-        "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "Take Me Where Your Heart Is",
-      "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 202466,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "The Shave Experiment (Director's Cut)",
+        "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "Take Me Where Your Heart Is",
+      "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Young Chasers (Deluxe)",
-        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Up To Something",
-      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 160066,
       "name": "Diane Young",
       "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "I\u2019m Not Perfect (But I\u2019m Trying)",
-        "url": "https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "I\u2019m Not Perfect (But I\u2019m Trying)",
-      "url": "https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Into The Rift",
         "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 310742,
       "name": "T Love",
       "url": "https://open.spotify.com/track/0Z2gIlbvlpFSb5W3TyCVjd"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "I\u2019m Not Perfect (But I\u2019m Trying)",
+        "url": "https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "I\u2019m Not Perfect (But I\u2019m Trying)",
+      "url": "https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV"
     },
     {
       "added_at": "2023-03-11 00:52:02",

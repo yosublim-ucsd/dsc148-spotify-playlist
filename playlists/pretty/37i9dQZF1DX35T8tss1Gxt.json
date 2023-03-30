@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 183077,
+  "num_followers": 183282,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMDc4YjhkNmFiNDY4Y2NkZTNlMjhjNmYyNWJmY2EyZWY2",
+  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMGM0MzliZGEzN2Y0YTNjZjNmMWUxNjUyZmZjMWMwZjNk",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 181776,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Vans X Adidas",
-        "url": "https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe"
-      },
-      "artists": [
-        {
-          "name": "Rudy Currence",
-          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
-        }
-      ],
-      "duration_ms": 234328,
-      "name": "Vans X Adidas",
-      "url": "https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Way Home",
         "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 284800,
       "name": "Way Home",
       "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Vans X Adidas",
+        "url": "https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe"
+      },
+      "artists": [
+        {
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+        }
+      ],
+      "duration_ms": 234328,
+      "name": "Vans X Adidas",
+      "url": "https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
+      },
+      "artists": [
+        {
+          "name": "Pauline Zoe Park",
+          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
+        }
+      ],
+      "duration_ms": 211209,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 184000,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
-      },
-      "artists": [
-        {
-          "name": "Pauline Zoe Park",
-          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
-        }
-      ],
-      "duration_ms": 211209,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1539,18 +1539,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
+        "name": "Simple Ways",
+        "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
       "artists": [
         {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
         }
       ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
+      "duration_ms": 177214,
+      "name": "Simple Ways",
+      "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1571,22 +1575,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Simple Ways",
-        "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
       },
       "artists": [
         {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        },
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
         }
       ],
-      "duration_ms": 177214,
-      "name": "Simple Ways",
-      "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+        "name": "MAN-UH",
+        "url": "https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+      "duration_ms": 109257,
+      "name": "MAN-UH",
+      "url": "https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "MAN-UH",
-        "url": "https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe"
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
       },
       "artists": [
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         }
       ],
-      "duration_ms": 109257,
-      "name": "MAN-UH",
-      "url": "https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW"
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Come and Be My Love",
+        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Come and Be My Love",
+      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Belongs To You (Remix Pack)",
         "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 180000,
       "name": "Preach",
       "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 180678,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW"
     }
   ],
   "unique_name": "Rhythm & Praise",

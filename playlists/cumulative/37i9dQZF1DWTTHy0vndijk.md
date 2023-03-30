@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Billlie \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-336 songs - 18 hr 58 min
+337 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Mr\. E](https://open.spotify.com/track/4JvBfIuKj8ThydmnLtTmOr) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:38 | 2022-03-02 | 2022-04-13 |
 | [Mr\. Potter](https://open.spotify.com/track/4qp44Z9rNQr9XTx3KloFdj) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [Spell](https://open.spotify.com/album/3eLPEBnU6FVXtgUgoPp11P) | 3:33 | 2021-11-29 | 2022-06-29 |
 | [Muah!](https://open.spotify.com/track/1h3IbJchqaJwWaz4v5WGDB) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 1st Single Album 'Boing Boing'](https://open.spotify.com/album/6UiJaslCrwAe9nlcJozPla) | 3:02 | 2022-03-29 | 2022-07-18 |
-| [mumumumuch](https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:29 | 2021-11-29 |  |
+| [mumumumuch](https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:29 | 2021-11-29 | 2023-03-30 |
 | [My Dear](https://open.spotify.com/track/6s25gIYsBc8oF0VQFK7wzt) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:34 | 2022-04-04 | 2022-04-14 |
 | [My My](https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:54 | 2021-11-29 | 2022-06-12 |
 | [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 | 2021-11-29 |  |
@@ -245,6 +245,7 @@
 | [Secret Garden](https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 4:04 | 2021-11-29 | 2022-07-28 |
 | [SEMINA](https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:07 | 2021-11-29 | 2022-07-28 |
 | [Shine](https://open.spotify.com/track/2qJjNAljfrYm7slPCXzRtC) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:36 | 2022-01-26 | 2022-04-11 |
+| [Shining Bright](https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [DELIGHT](https://open.spotify.com/album/7aTLF46tlKvNePZyUIf4e6) | 3:28 | 2023-03-30 |  |
 | [Shot thru the heart](https://open.spotify.com/track/7ut6KQCuZ2ANbnMsSe7eos) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:25 | 2022-03-29 | 2022-04-13 |
 | [SHUT DOWN](https://open.spotify.com/track/55nWobiFbQcUSXSP0ZjkfN) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [CLASS IS OVER](https://open.spotify.com/album/0mToIKyUNLglEM7VXqdCt8) | 3:26 | 2022-05-06 | 2022-11-17 |
 | [SIGNAL](https://open.spotify.com/track/5GIHnMRDeDDIDsy8AcrF4Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/4VfP4RWW7MPg5hOCvIgUYE) | 3:16 | 2022-01-04 | 2022-07-24 |

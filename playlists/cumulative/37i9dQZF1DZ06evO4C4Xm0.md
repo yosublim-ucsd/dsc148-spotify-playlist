@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-120 songs - 9 hr 57 min
+121 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2022-05-29 |  |
 | [Another Green World \- Remastered 2004](https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 1:41 | 2022-05-29 |  |
 | [Aragon \- Remastered 2005](https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:37 | 2022-10-16 |  |
-| [as if your eyes were partly closed as if you honed the swirl within them and offered me the world](https://open.spotify.com/track/4wnt8VEgENqz1VYlJbxXZZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Rick Holland](https://open.spotify.com/artist/1EoM3RaZFNyVemrUilsheL) | [Drums Between The Bells](https://open.spotify.com/album/3jOnjiEr8GKLRXfyUajpo2) | 1:37 | 2023-03-25 |  |
+| [as if your eyes were partly closed as if you honed the swirl within them and offered me the world](https://open.spotify.com/track/4wnt8VEgENqz1VYlJbxXZZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Rick Holland](https://open.spotify.com/artist/1EoM3RaZFNyVemrUilsheL) | [Drums Between The Bells](https://open.spotify.com/album/3jOnjiEr8GKLRXfyUajpo2) | 1:37 | 2023-03-25 | 2023-03-30 |
 | [Baby's On Fire \- 2004 Digital Remaster](https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 5:19 | 2022-05-29 | 2022-10-16 |
 | [Backwater \- 2004 Digital Remaster](https://open.spotify.com/track/5LyWia3X6AJtosLJdSA6ar) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:43 | 2022-06-04 | 2022-10-09 |
 | [Becalmed \- 2004 Digital Remaster](https://open.spotify.com/track/3qq8XPwF2DoBhENRgLQ7ET) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:56 | 2022-05-29 | 2022-10-13 |
@@ -124,6 +124,7 @@
 | [We Let It In](https://open.spotify.com/track/4GM08ICJRy8IoCN92CzvAj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/0lou4Knn7x6349pOoOolah) | 3:28 | 2022-09-11 | 2022-10-21 |
 | [We Let It In](https://open.spotify.com/track/4yWd80KUbRs8nuv8MocOa5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:28 | 2022-10-20 | 2023-02-27 |
 | [Weightless \- Remastered 2005](https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:35 | 2022-06-04 | 2022-08-09 |
+| [Who Are We \- Instrumental](https://open.spotify.com/track/54kARxSXsa60wlmmduPzcP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/2McOBODIvLon65xiVcB2gt) | 4:23 | 2023-03-29 |  |
 | [Who Gives a Thought](https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:59 | 2022-10-17 | 2022-12-26 |
 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 | 2022-05-29 | 2022-10-13 |
 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 | 2022-05-29 |  |

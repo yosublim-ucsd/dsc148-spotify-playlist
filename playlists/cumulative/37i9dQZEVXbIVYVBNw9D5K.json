@@ -4775,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "g\u00f6zlerindeki ay",
+        "url": "https://open.spotify.com/album/3TMj9dY2lRO6TriDsDQWr6"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "g\u00f6zlerindeki ay",
+      "url": "https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg"
+    },
+    {
+      "album": {
         "name": "G\u00f6zya\u015f\u0131 Rapsodi 3",
         "url": "https://open.spotify.com/album/3KrOj8YmxQn30s62AEXS5f"
       },
@@ -11748,7 +11766,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 187333,
       "name": "yok muydu vaktin bana?",
       "url": "https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm"

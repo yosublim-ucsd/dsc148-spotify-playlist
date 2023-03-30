@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,122 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,132 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 27 | [Bombay Theme \- Bombay / Soundtrack Version](https://open.spotify.com/track/7n6YJCoiTHtdhytgAliYDu) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:18 |
 | 28 | [Don The Theme](https://open.spotify.com/track/6d7MSaXaEBSzRG39HNODNz) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 4:09 |
 | 29 | [Perpendicular \(Theme\)](https://open.spotify.com/track/4dnBoWcH0c5BzaIXssStBi) | [Sneha Khanwalkar](https://open.spotify.com/artist/3JtetEsoytPoOIPGvqUvSR) | [Gangs Of Wasseypur \- 2](https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2) | 1:53 |
-| 30 | [](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 0:00 |
+| 30 | [Dev \- Chanda \(Theme\-2\)](https://open.spotify.com/track/6qksrgPqbSNoTiNzdmRG9p) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dev D](https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT) | 1:47 |
 | 31 | [Madras Cafe Theme](https://open.spotify.com/track/0cJDxizZXI4mXhAIv3StRm) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Madras Cafe](https://open.spotify.com/album/7ggp9qSziSZxH0khHjJ6oy) | 4:04 |
 | 32 | [The Don Waltz](https://open.spotify.com/track/5XcOoA1V7bj4g2I49dOXbk) | [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1) | [Don 2](https://open.spotify.com/album/567IupuTzzBF0cgmtucllU) | 3:28 |
 | 33 | [Munna’S Love](https://open.spotify.com/track/1XotHNg5Tnpcyq1R2nJ7Na) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Dhobi Ghat](https://open.spotify.com/album/2gIiVoEdG9Gy5dIqH5opQE) | 2:25 |
 | 34 | [Victory \- Instrumental](https://open.spotify.com/track/0k7Jl4wxnWZpsFsMOyr9Li) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 3:20 |
 | 35 | [Kaise Mujhe \(Instrumental\)](https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 4:01 |
 | 36 | [The Mood of Satya](https://open.spotify.com/track/18spm4j6IeNxSh74ZUKRyw) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Satya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kVzRosBiI1oaliq3LB3SR) | 2:20 |
-| 37 | [Dev \- Chanda \(Theme\-2\)](https://open.spotify.com/track/6qksrgPqbSNoTiNzdmRG9p) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dev D](https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT) | 1:47 |
+| 37 | [](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 0:00 |
 | 38 | [Remembering His Violin](https://open.spotify.com/track/09bmCSMLxAJuBYX5Jwzqfy) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Gayathri](https://open.spotify.com/artist/2Ah48tA0TPqph0m9snNNxM) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 3:03 |
 | 39 | [Maachis Theme Closing](https://open.spotify.com/track/5H83kULz9wDkDdNkFUFFuI) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Maachis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kc4rAQ1kkW3orZ87Le7M6) | 2:57 |
 | 40 | [Sarbjit Theme](https://open.spotify.com/track/7i6ISlTSvgYFZFy7d9o8fO) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Sarbjit](https://open.spotify.com/album/3gFdzTRV0jUP8da5miEWyU) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Rockford Theme \- Instrumental](https://open.spotify.com/track/6rZRfqE5yPnOMqhqgNPxaM) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7), [Sangeeth Luke](https://open.spotify.com/artist/3MJZzdlZhRijyUHSMnaP5o) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 3:35 |
 | 50 | [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 |
 
-Snapshot ID: `MTY3NzQ3MDEzOSwwMDAwMDAwMDNkYjZjZGZlZDJhNGZjN2ZhMTFjNmIyNTJlZWNlOGVk`
+Snapshot ID: `MTY3NzQ3MDEzOSwwMDAwMDAwMDRlOTNhZDZlYjliZGMzM2U5ODhiNWJkMzE1NDk2MDBl`

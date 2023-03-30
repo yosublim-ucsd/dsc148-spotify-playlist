@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 
 > Soft music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,979 likes - 322 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,971 likes - 322 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

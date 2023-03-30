@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,035 likes - 75 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,210 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 44 | [Devon \- Oliver Huntemann Remix](https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Devon \(Oliver Huntemann Remix\)](https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU) | 6:38 |
 | 45 | [City Boy](https://open.spotify.com/track/44bA4pNIp4Qbewb4u4GcCO) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [City Boy](https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2) | 3:42 |
 | 46 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
-| 47 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 |
-| 48 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
+| 47 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
+| 48 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 |
 | 49 | [Apollo 11](https://open.spotify.com/track/2vl9yXYJmoKbv72pUIxoue) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Apollo 11](https://open.spotify.com/album/4K8v2zx2n4sSBSaTyPixHa) | 7:44 |
 | 50 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 |
 | 51 | [Loneliness \- Original Mix](https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Loneliness](https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj) | 6:09 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 63 | [Trust The Hours](https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Trust The Hours](https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV) | 6:11 |
 | 64 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 |
 | 65 | [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 |
-| 66 | [Looking Class](https://open.spotify.com/track/0l0iDqdVu0CgllGFKQ6D5l) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Looking Class / Full Circle Moment](https://open.spotify.com/album/1G56ouG8pijwEgYzlbtpWN) | 4:35 |
-| 67 | [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 |
-| 68 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 |
-| 69 | [Turn The Lights](https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Turn The Lights](https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5) | 4:07 |
-| 70 | [Deeper Grounds](https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Mahri](https://open.spotify.com/artist/5aB4vV5H1O1zAoI4XLW7IX) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 4:13 |
+| 66 | [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 |
+| 67 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 |
+| 68 | [Looking Class](https://open.spotify.com/track/0l0iDqdVu0CgllGFKQ6D5l) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Looking Class / Full Circle Moment](https://open.spotify.com/album/1G56ouG8pijwEgYzlbtpWN) | 4:35 |
+| 69 | [Deeper Grounds](https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Mahri](https://open.spotify.com/artist/5aB4vV5H1O1zAoI4XLW7IX) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 4:13 |
+| 70 | [Turn The Lights](https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Turn The Lights](https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5) | 4:07 |
 | 71 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 |
 | 72 | [Eclipse](https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt) | [The Awakening](https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi) | 4:22 |
-| 73 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
+| 73 | [Dance for Me](https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dance for Me](https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W) | 4:05 |
 | 74 | [Revision](https://open.spotify.com/track/6Sx4f9KKwMl2YRguEqiL0A) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Revision](https://open.spotify.com/album/5zfHOeT9bFwQQm8H95crzB) | 7:13 |
 | 75 | [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 |
 
-Snapshot ID: `MTY3OTkwNjMwOSwwMDAwMDAwMDViODcxODdhMWQ4ZmU2NzFlMjI1MzI5MDUzZTZkNDk4`
+Snapshot ID: `MTY3OTkwNjMwOSwwMDAwMDAwMGNhN2E4YWIxZjc3ZDIwMWUxYWZiM2EzMDk1MTM2Yzgx`

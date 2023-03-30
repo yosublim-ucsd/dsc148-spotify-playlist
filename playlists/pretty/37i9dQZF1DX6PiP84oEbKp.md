@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 
 > A pride playlist for the whole family\. Cover: JoJo Siwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,108 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,107 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

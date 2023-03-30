@@ -4,7 +4,7 @@
 
 > pov: you're crying and dancing at the same time.
 
-187 songs - 10 hr 5 min
+188 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Anda Sola](https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:20 | 2022-03-21 | 2022-07-09 |
 | [Antes de Morirme \(feat\. Rosalía\)](https://open.spotify.com/track/7aFBy1CBLGnZE1Iv6TvEZE) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. Rosalía\)](https://open.spotify.com/album/6sJLYcfLIb9wNyLy1hdeyM) | 3:19 | 2022-03-21 | 2022-07-09 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-19 | 2022-07-09 |
-| [ATEO](https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 2:18 | 2022-07-18 |  |
+| [ATEO](https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 2:18 | 2022-07-18 | 2023-03-30 |
 | [Baby](https://open.spotify.com/track/37oaImGdDkQgIIUZDvFGdr) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:44 | 2022-07-08 | 2022-12-24 |
 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 | 2022-12-22 | 2023-02-28 |
 | [Bendita Diabla \- Apaga La Luz](https://open.spotify.com/track/0OxR238zEmOy20sSBbHgyK) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Bendita Diabla \(Apaga La Luz\)](https://open.spotify.com/album/1CYinQX03mYSKxn6kataX5) | 3:30 | 2022-03-21 | 2022-04-20 |
@@ -118,6 +118,7 @@
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-07-08 | 2022-12-24 |
 | [No Es Normal](https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 3:32 | 2022-03-21 | 2022-07-09 |
 | [No La Encuentro](https://open.spotify.com/track/4CnhTzgKFkne8I9sAVCjI8) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [No La Encuentro](https://open.spotify.com/album/1I4D571ICbgvJ3J4IVaHhn) | 3:29 | 2022-04-19 | 2022-07-09 |
+| [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 | 2023-03-24 |  |
 | [No Me Llames](https://open.spotify.com/track/2Ks0PhKTP1i1LQwaTehK5u) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [No Me Llames](https://open.spotify.com/album/1HQ9hzQNRYdms0EBBSOzmC) | 3:10 | 2022-03-21 | 2022-04-20 |
 | [No Te Debí Besar](https://open.spotify.com/track/1KdwnsWOvhM53vezy5ROuf) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [No Te Debí Besar](https://open.spotify.com/album/1VIVJSQidZ6nddSJoEEYt7) | 3:02 | 2022-07-08 | 2023-01-21 |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2022-03-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy rockers. Cover: Empire State Bastard",
-  "num_followers": 27510,
+  "num_followers": 27530,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY5Njg3NSwwMDAwMDAwMDMwMzIzMDg3ZTg5ZTYyOTBhOGM0MDk3NjE3MDIwNjM0",
+  "snapshot_id": "MTY3OTY5Njg3NSwwMDAwMDAwMDQzZGE0MDM0NmQ1MDJhMTkzYTVkZGU5MjAyN2VlYWVi",
   "tracks": [
     {
       "added_at": "2023-03-23 20:43:55",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Gimme That Boom",
         "url": "https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF"
       },
@@ -539,22 +523,6 @@
       "duration_ms": 193853,
       "name": "Gimme That Boom",
       "url": "https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 289226,
-      "name": "The Chapeltown Rag",
-      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -575,6 +543,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "The Chapeltown Rag",
+      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Bimbocore",
         "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 118863,
       "name": "Pink Rover",
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "REAL SUPER DARK",
-        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 149194,
-      "name": "REAL SUPER DARK",
-      "url": "https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Rotoscope",
         "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 215362,
       "name": "Rotoscope",
       "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "REAL SUPER DARK",
+        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 149194,
+      "name": "REAL SUPER DARK",
+      "url": "https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Swerve (Rockzilla Remix)",
-        "url": "https://open.spotify.com/album/0EXIrUBZVRPGOxPY43AUfA"
+        "name": "Ego Trip",
+        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },
       "artists": [
         {
           "name": "Papa Roach",
           "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        },
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
         }
       ],
-      "duration_ms": 167831,
-      "name": "Swerve - Rockzilla Remix",
-      "url": "https://open.spotify.com/track/2nUicn7YuS1bo2DqgELtj0"
+      "duration_ms": 188139,
+      "name": "No Apologies",
+      "url": "https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -923,6 +919,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Hard Skool",
+        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 221892,
+      "name": "Hard Skool",
+      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Beguiled",
         "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
       },
@@ -939,18 +951,38 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Hard Skool",
-        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 221892,
-      "name": "Hard Skool",
-      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
+      "duration_ms": 249305,
+      "name": "Ground Zero",
+      "url": "https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Swerve (Rockzilla Remix)",
+        "url": "https://open.spotify.com/album/0EXIrUBZVRPGOxPY43AUfA"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 167831,
+      "name": "Swerve - Rockzilla Remix",
+      "url": "https://open.spotify.com/track/2nUicn7YuS1bo2DqgELtj0"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -971,38 +1003,6 @@
       "duration_ms": 178486,
       "name": "Seventy Thorns (feat. Jonathan Davis)",
       "url": "https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Ego Trip",
-        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 188139,
-      "name": "No Apologies",
-      "url": "https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 249305,
-      "name": "Ground Zero",
-      "url": "https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "H8 MY SELF",
-        "url": "https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 178963,
-      "name": "H8 MY SELF",
-      "url": "https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "H8 MY SELF",
+        "url": "https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 178963,
+      "name": "H8 MY SELF",
+      "url": "https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 181290,
+      "name": "Dirty Rotten Bizkit",
+      "url": "https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/41xx4p0Q1MhE2Bnfkeo6b0"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 212572,
       "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/5BdiprSBqgkULtloEFbhfF"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 181290,
-      "name": "Dirty Rotten Bizkit",
-      "url": "https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 128983,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
+      "duration_ms": 230499,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
     }
   ],
   "unique_name": "The Pit",

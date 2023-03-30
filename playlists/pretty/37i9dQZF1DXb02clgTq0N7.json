@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. Fuerza Regida en portada.",
-  "num_followers": 98409,
+  "num_followers": 98488,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwNTQ1NywwMDAwMDAwMGI0ZTEyMDNiZDVmNjMxYTU3MjI0ZjMxOTFkZmI3NTcy",
+  "snapshot_id": "MTY3NzEwNTQ1NywwMDAwMDAwMGVmYmNlZmNjNjEwNDA3MjlmMDJlODA2NTg2YjFkMzI3",
   "tracks": [
     {
       "added_at": "2023-02-22 22:37:37",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "La Cheyene del A\u00f1o",
-      "url": "https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 164613,
       "name": "Mi Padrino el Diablo",
       "url": "https://open.spotify.com/track/0z07OSWiapGp0I8ttzgXo1"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "La Cheyene del A\u00f1o",
+      "url": "https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "Mi Vicio M\u00e1s Grande",
-        "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 137173,
-      "name": "Mi Vicio M\u00e1s Grande",
-      "url": "https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
         "name": "Chalino",
         "url": "https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 214243,
       "name": "Chalino",
       "url": "https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 278058,
+      "name": "Manuel Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+        "name": "Mi Vicio M\u00e1s Grande",
+        "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 278058,
-      "name": "Manuel Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
+      "duration_ms": 137173,
+      "name": "Mi Vicio M\u00e1s Grande",
+      "url": "https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -719,22 +719,6 @@
       "duration_ms": 165428,
       "name": "Amigos \u00bfDe Qui\u00e9n?",
       "url": "https://open.spotify.com/track/472RYrDoNry11jkmJIWeat"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 147606,
-      "name": "El Sinaloense y el Kora",
-      "url": "https://open.spotify.com/track/2zmsNHtqzzYhLdHri1cKry"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -855,8 +839,8 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "M\u00e1s Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX"
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
       "artists": [
         {
@@ -864,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 167373,
-      "name": "La Gran Pachanga",
-      "url": "https://open.spotify.com/track/3vXfJ9iAKPGLfy8G7es3bz"
+      "duration_ms": 147606,
+      "name": "El Sinaloense y el Kora",
+      "url": "https://open.spotify.com/track/2zmsNHtqzzYhLdHri1cKry"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -915,6 +899,22 @@
       "duration_ms": 200760,
       "name": "Barquillero",
       "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
+        "name": "Corridos Famosos Al Estilo De...",
+        "url": "https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Est\u00e1 De Parranda El Jefe - Corrido",
+      "url": "https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -971,24 +971,8 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "Corridos Famosos Al Estilo De...",
-        "url": "https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Est\u00e1 De Parranda El Jefe - Corrido",
-      "url": "https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
-        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
-        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
+        "name": "M\u00e1s Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX"
       },
       "artists": [
         {
@@ -996,9 +980,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Clave Privada",
-      "url": "https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0"
+      "duration_ms": 167373,
+      "name": "La Gran Pachanga",
+      "url": "https://open.spotify.com/track/3vXfJ9iAKPGLfy8G7es3bz"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
+        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
+        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Clave Privada",
+      "url": "https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
         "name": "Corridos B\u00e9licos (Con Banda)",
         "url": "https://open.spotify.com/album/11zljiGCObvgkdTxTBXKXM"
       },
@@ -1195,42 +1195,6 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "RDSD (En Vivo)",
-        "url": "https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Banda La Fantastica",
-          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "RDSD (En Vivo)",
-      "url": "https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
-        "name": "La Historia De Mis Manos",
-        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Los Ninis",
-      "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
         "name": "La Tambora Va A Sonar",
         "url": "https://open.spotify.com/album/5DVeFfpAKt6S9op3tkiaYg"
       },
@@ -1251,6 +1215,26 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
+        "name": "RDSD (En Vivo)",
+        "url": "https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Banda La Fantastica",
+          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "RDSD (En Vivo)",
+      "url": "https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 171391,
       "name": "Don Dinero",
       "url": "https://open.spotify.com/track/5C1fs86eZF8fC32nphXuD1"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Los Ninis",
+      "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
     },
     {
       "added_at": "2023-02-22 22:37:37",

@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 517927,
+  "num_followers": 518000,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMDhmNmNhYmQ5YjU5YjQ4Y2YzMTgwODRmYzFmYTQzZTQ5",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMDAzZGZlYjJjYTc2N2I3MzU0OTRmZGQ3NGY0MzA4OWI0",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Latin & Love Studies",
-        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        }
-      ],
-      "duration_ms": 212949,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Mun Compilado (Vol. 2)",
         "url": "https://open.spotify.com/album/3kbsMZpw5hkNpcZNNXwlsA"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 237173,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/7CaUGvVqPENV2Lgp7ym86D"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "duration_ms": 212949,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Duetos lo mejor de Armando Manzanero",
         "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 228026,
       "name": "Contigo en la Distancia (with Carlos Cuevas)",
       "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
-        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 235453,
-      "name": "No Olvides Recordarme - En Vivo",
-      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
+        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
       },
       "artists": [
         {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+      "duration_ms": 235453,
+      "name": "No Olvides Recordarme - En Vivo",
+      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Or\u00edgenes: El Bolero Vol.3",
         "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
       },
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 165173,
       "name": "En la Orilla del Mar",
       "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Cristian Castro en Primera Fila - D\u00eda 2",
-        "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+        "name": "Cristian Castro en Primera Fila - D\u00eda 2",
+        "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+      "duration_ms": 257173,
+      "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
     },
     {
       "added_at": "2023-03-17 06:00:00",

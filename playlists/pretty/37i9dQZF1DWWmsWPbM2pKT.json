@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Molchat Doma on cover.",
-  "num_followers": 121891,
+  "num_followers": 122199,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwNDYzMiwwMDAwMDAwMDc4ZjNlYzg1MzUxMzk1MTY3MTNkNzIxNWQxN2JjYzA1",
+  "snapshot_id": "MTY3OTYwNDYzMiwwMDAwMDAwMDQ3ZGQ0MjUzNjBlNjk2MWRmNzIyZGEzMDVlMjc5ZWI5",
   "tracks": [
     {
       "added_at": "2023-01-07 04:19:40",
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/20ztml2STRF7Sq1UaBB6ox"
     },
     {
-      "added_at": "2023-03-29 05:17:02",
+      "added_at": "2023-03-30 01:08:12",
       "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS"
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/2X8j1vYJaJZ1vIRp7csg2y"
     },
     {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 189474,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+    },
+    {
       "added_at": "2023-02-09 20:06:41",
       "album": {
         "name": "Belirdi Gece",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P"
-      },
-      "artists": [
-        {
-          "name": "Vollny",
-          "url": "https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P"
-        }
-      ],
-      "duration_ms": 242844,
-      "name": "\u0422\u0435\u0431\u044f \u041d\u0435\u0442 \u0420\u044f\u0434\u043e\u043c",
-      "url": "https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "Quo vadis?",
         "url": "https://open.spotify.com/album/12xcdsOGrXrOAxYk9oDaPc"
       },
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P"
+      },
+      "artists": [
+        {
+          "name": "Vollny",
+          "url": "https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P"
+        }
+      ],
+      "duration_ms": 242844,
+      "name": "\u0422\u0435\u0431\u044f \u041d\u0435\u0442 \u0420\u044f\u0434\u043e\u043c",
+      "url": "https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/4w2s1OoJMVJ6Ute1V4sue9"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 292312,
       "name": "Elements",
       "url": "https://open.spotify.com/track/38PAyLYynfJ8Mk4lEjSHSd"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
-      },
-      "artists": [
-        {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        }
-      ],
-      "duration_ms": 189474,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
     },
     {
       "added_at": "2023-02-09 20:06:41",
@@ -1335,24 +1335,8 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
-      },
-      "artists": [
-        {
-          "name": "L.A. Takedown",
-          "url": "https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v"
-        }
-      ],
-      "duration_ms": 170511,
-      "name": "Bad Night at Black's Beach",
-      "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
-        "name": "\u041d\u0430\u043c \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u043b\u0438\u0448\u044c \u0436\u0434\u0430\u0442\u044c",
-        "url": "https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ"
+        "name": "\u041d\u0438\u0447\u0435\u0433\u043e \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e",
+        "url": "https://open.spotify.com/album/7lQLNZSt6iEXtGvgP9fMXD"
       },
       "artists": [
         {
@@ -1360,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
         }
       ],
-      "duration_ms": 181510,
-      "name": "\u0422\u0430\u0439\u043d\u0430",
-      "url": "https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9"
+      "duration_ms": 214383,
+      "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0442\u043e\u043a",
+      "url": "https://open.spotify.com/track/0H5bUiwDSEl2NuoIMEK00y"
     },
     {
       "added_at": "2023-02-09 20:06:41",
@@ -1379,6 +1363,22 @@
       "duration_ms": 285160,
       "name": "Incubus Succubus II",
       "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
+      },
+      "artists": [
+        {
+          "name": "L.A. Takedown",
+          "url": "https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v"
+        }
+      ],
+      "duration_ms": 170511,
+      "name": "Bad Night at Black's Beach",
+      "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "\u041d\u0438\u0447\u0435\u0433\u043e \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e",
-        "url": "https://open.spotify.com/album/7lQLNZSt6iEXtGvgP9fMXD"
+        "name": "\u041d\u0430\u043c \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u043b\u0438\u0448\u044c \u0436\u0434\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ"
       },
       "artists": [
         {
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
         }
       ],
-      "duration_ms": 214383,
-      "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0442\u043e\u043a",
-      "url": "https://open.spotify.com/track/0H5bUiwDSEl2NuoIMEK00y"
+      "duration_ms": 181510,
+      "name": "\u0422\u0430\u0439\u043d\u0430",
+      "url": "https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -1541,20 +1541,20 @@
       "url": "https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0"
     },
     {
-      "added_at": "2020-12-21 19:35:50",
+      "added_at": "2023-01-06 06:19:29",
       "album": {
-        "name": "Odyssey Point",
-        "url": "https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56"
+        "name": "Disko Anksiyete",
+        "url": "https://open.spotify.com/album/7J40uU1PnZuZrna7q8SNcs"
       },
       "artists": [
         {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
         }
       ],
-      "duration_ms": 257816,
-      "name": "Odyssey Point",
-      "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
+      "duration_ms": 291666,
+      "name": "Durdu D\u00fcnya",
+      "url": "https://open.spotify.com/track/0rXcRGePzt2vuBjTQnshsL"
     },
     {
       "added_at": "2023-02-09 20:06:41",
@@ -1573,20 +1573,20 @@
       "url": "https://open.spotify.com/track/3YAtxohy6aksWr6uE1xAT0"
     },
     {
-      "added_at": "2023-01-06 06:19:29",
+      "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Disko Anksiyete",
-        "url": "https://open.spotify.com/album/7J40uU1PnZuZrna7q8SNcs"
+        "name": "Odyssey Point",
+        "url": "https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56"
       },
       "artists": [
         {
-          "name": "She Past Away",
-          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+          "name": "Lucy In Disguise",
+          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
         }
       ],
-      "duration_ms": 291666,
-      "name": "Durdu D\u00fcnya",
-      "url": "https://open.spotify.com/track/0rXcRGePzt2vuBjTQnshsL"
+      "duration_ms": 257816,
+      "name": "Odyssey Point",
+      "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
     },
     {
       "added_at": "2020-12-21 19:35:50",

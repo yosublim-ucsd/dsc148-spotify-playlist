@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 101632,
+  "num_followers": 101747,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDc1ZjU3ODE0Y2UyMDVjNzU3NmRiNGFiOGZlMjc2NjFi",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGJiMTVlNDFkODA3MjdhNzk5NTM2MGMxMDhkNzRiZjY4",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Where the Night Begins",
-      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Morning Dance",
         "url": "https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 236466,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where the Night Begins",
+      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Touchdown",
-        "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
-      },
-      "artists": [
-        {
-          "name": "Bob James",
-          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
-        }
-      ],
-      "duration_ms": 344773,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Straight To You",
         "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 316466,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
+      },
+      "artists": [
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        }
+      ],
+      "duration_ms": 344773,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Long Night Out",
-        "url": "https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 334160,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Steppin' Out",
         "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 297973,
       "name": "Sunset Bay",
       "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Long Night Out",
+        "url": "https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 334160,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
     },
     {
       "added_at": "2020-08-19 00:00:21",

@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 50681,
+  "num_followers": 51169,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAyNDI5OSwwMDAwMDAwMDM2OWUxYzU3NDUzN2ExMTgwNjIwNjI3MjhkZjExNGU3",
+  "snapshot_id": "MTY4MDAyNDI5OSwwMDAwMDAwMGUxMDRlZjNlNjU2ODA3ZjkwMjgyNGIwZGU5ZTdkYmIy",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
-    },
-    {
       "added_at": "2023-01-12 03:03:40",
       "album": {
         "name": "pg.4 a picture of three hedges/through your window",
@@ -587,6 +571,22 @@
       "duration_ms": 249826,
       "name": "pg.4 a picture of three hedges",
       "url": "https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3"
+    },
+    {
+      "added_at": "2023-02-27 23:19:06",
+      "album": {
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -829,20 +829,20 @@
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "taste of concrete",
-        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
       },
       "artists": [
         {
-          "name": "Shrimp",
-          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
         }
       ],
-      "duration_ms": 152061,
-      "name": "taste of concrete",
-      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -861,20 +861,20 @@
       "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
+        "name": "taste of concrete",
+        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
       },
       "artists": [
         {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
         }
       ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+      "duration_ms": 152061,
+      "name": "taste of concrete",
+      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
     },
     {
       "added_at": "2022-01-07 19:52:45",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
-      },
-      "artists": [
-        {
-          "name": "Estrada",
-          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
-        }
-      ],
-      "duration_ms": 247045,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Dead Kids R.I.P. City",
@@ -955,6 +939,22 @@
       "duration_ms": 151560,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
+      },
+      "artists": [
+        {
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+        }
+      ],
+      "duration_ms": 247045,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+    },
+    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Urban Twilight (Remaster)",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Despondent Transponder",
         "url": "https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 270094,
       "name": "Go and Come Back",
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
-    },
-    {
-      "added_at": "2022-08-03 04:20:04",
-      "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy"
-      },
-      "artists": [
-        {
-          "name": "Muted Color",
-          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
-        }
-      ],
-      "duration_ms": 241548,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1085,6 +1069,22 @@
       "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
+      "added_at": "2022-08-03 04:20:04",
+      "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy"
+      },
+      "artists": [
+        {
+          "name": "Muted Color",
+          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
+        }
+      ],
+      "duration_ms": 241548,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
+    },
+    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Out of Line",
@@ -1099,6 +1099,38 @@
       "duration_ms": 131674,
       "name": "Out of Line",
       "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
+    },
+    {
+      "added_at": "2022-12-12 18:23:41",
+      "album": {
+        "name": "Heaven Inches Away",
+        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
+      },
+      "artists": [
+        {
+          "name": "Soft Blue Shimmer",
+          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1119,38 +1151,6 @@
       "duration_ms": 236000,
       "name": "OUTLAW69",
       "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
-    },
-    {
-      "added_at": "2022-12-12 18:23:41",
-      "album": {
-        "name": "Heaven Inches Away",
-        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
-      },
-      "artists": [
-        {
-          "name": "Soft Blue Shimmer",
-          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
     },
     {
       "added_at": "2021-10-19 01:47:29",

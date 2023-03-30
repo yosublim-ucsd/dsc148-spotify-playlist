@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-185 songs - 11 hr 5 min
+186 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2022-10-27 | 2022-11-13 |
 | [Bois Lie \(feat\. Machine Gun Kelly\) \- Acoustic](https://open.spotify.com/track/3W8gnQSIRzUQM6klpRT4jR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Bois Lie \(feat\. Machine Gun Kelly\) \[Acoustic\]](https://open.spotify.com/album/23GAyvm3WUVwTIjXDh9JgN) | 2:50 | 2022-10-20 | 2022-12-14 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-10-20 |  |
-| [Brayford Odeon \- Acoustic](https://open.spotify.com/track/3GaQZPrehbi2BCuBxNZPhI) | [The Rills](https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR) | [After Taste](https://open.spotify.com/album/4u5fBdylG3BCuCI4tpnGEK) | 3:43 | 2023-03-16 |  |
+| [Brayford Odeon](https://open.spotify.com/track/3GaQZPrehbi2BCuBxNZPhI) | [The Rills](https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR) | [After Taste](https://open.spotify.com/album/4u5fBdylG3BCuCI4tpnGEK) | 3:43 | 2023-03-16 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-10-20 |  |
 | [Cardboard Box \- Acoustic](https://open.spotify.com/track/3k7E83vyhWu7UUl9FxPNRn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box \(Acoustic\)](https://open.spotify.com/album/1DWnard9ZSt1HfKIHJxQRp) | 2:53 | 2023-02-24 |  |
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-10-20 |  |
@@ -60,6 +60,7 @@
 | [Halfway](https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi) | 3:02 | 2022-11-10 | 2022-12-14 |
 | [Haru o Matazu Kimi o Hanare](https://open.spotify.com/track/44n6FlfY0wNwF5sVfh8mqV) | [Grape](https://open.spotify.com/artist/2cRHim5No0OPKOG528NfWB) | [Grape Sensation](https://open.spotify.com/album/0ub1dFuQTWvZ01xIV1L4m7) | 3:46 | 2023-02-14 |  |
 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 | 2022-10-20 |  |
+| [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 | 2023-03-23 |  |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-12-14 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-23 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-14 | 2023-03-26 |
@@ -144,7 +145,7 @@
 | [Soul Song](https://open.spotify.com/track/3Z5vkiyWuzmrgY8yzyGwtb) | [Grey Daze](https://open.spotify.com/artist/1OPyWvWWkx18pqGjugyxrl) | [No Sun Today](https://open.spotify.com/album/5MaubRzl5MDRePy8I42E9Z) | 3:25 | 2023-03-16 |  |
 | [Still \(feat.KIHIRO\)](https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa) | [K](https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK), [Kihiro](https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr) | [Orange Ave.](https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD) | 3:03 | 2023-01-03 | 2023-01-27 |
 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 | 2022-12-14 |  |
-| [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2023-03-16 |  |
+| [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2023-03-16 | 2023-03-30 |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-10-20 |  |
 | [Take My Breath Away](https://open.spotify.com/track/6Hrk4OKWYn7LQenJzWzPyh) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Take My Breath Away](https://open.spotify.com/album/7zwbQsecbWMGDZZyJfLga3) | 4:18 | 2022-10-20 |  |
 | [Take on Me](https://open.spotify.com/track/1KUPfNsRaZbZB3NUeXhUcm) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Take on Me](https://open.spotify.com/album/12NMWW1pgidVHBD6XU8vfz) | 3:09 | 2022-10-20 | 2022-12-14 |

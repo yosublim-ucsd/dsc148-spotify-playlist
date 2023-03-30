@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 196589,
+  "num_followers": 196644,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDdlNjQ5MWMyYTQxNjRiN2MxN2JiZjgwMTk0OTZjZjQ1",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDFkMTI1NTk3OGM2OTk5MzNiMDQ2OTkyMmExZDhiOWM2",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -175,22 +175,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 332506,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Rio (Collector's Edition)",
         "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 333306,
       "name": "Save a Prayer - 2009 Remaster",
       "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 332506,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -479,22 +479,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Send Her My Love",
-      "url": "https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 216306,
       "name": "This Woman's Work - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Send Her My Love",
+      "url": "https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -847,6 +847,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "And Dream Of Sheep",
+      "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "The Final",
         "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 295093,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "And Dream Of Sheep",
-      "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 244066,
-      "name": "Otterley",
-      "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
+      "duration_ms": 179160,
+      "name": "Army Dreamers - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 179160,
-      "name": "Army Dreamers - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
+      "duration_ms": 244066,
+      "name": "Otterley",
+      "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
     },
     {
       "added_at": "2018-12-12 11:36:39",

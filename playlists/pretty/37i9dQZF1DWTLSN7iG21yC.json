@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 923131,
+  "num_followers": 923240,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMGY5YjE1Njk4ZWIwMjlmYmVmZjJjYzE3ZjJkMmRlZDll",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDI5NDAxZGUwN2ZiMTkwMTVlMGJkYmVlNTFjMWM0Mzgx",
   "tracks": [
     {
       "added_at": "2023-03-14 22:21:27",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
       "added_at": "2023-03-14 22:21:27",
       "album": {
         "name": "Forget Me",
@@ -163,22 +179,6 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
         "name": "I Just Called",
         "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
         "name": "When I Get There",
         "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 200173,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "SunKissing",
+        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "SunKissing",
+      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -927,22 +943,6 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
       },
@@ -973,20 +973,20 @@
       "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
+      "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "SunKissing",
-        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 177253,
-      "name": "SunKissing",
-      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
+        "name": "(Un)Commentary",
+        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
         "name": "working",
         "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 210219,
       "name": "working",
       "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
-        "name": "(Un)Commentary",
-        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "In The Dark (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
         "name": "Undeniable (feat. X Ambassadors)",
         "url": "https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 180596,
       "name": "Undeniable (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "In The Dark (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
         "name": "Butterflies (feat. FLETCHER)",
         "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "Dancing With Your Shadows",
-        "url": "https://open.spotify.com/album/5KnSxd3ZZy1mx3zo2Utu4R"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 177569,
-      "name": "Dancing With Your Shadows",
-      "url": "https://open.spotify.com/track/1gOXJCXmQ7lVDdjxyHqfF4"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 201053,
       "name": "Brave",
       "url": "https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
+        "name": "Dancing With Your Shadows",
+        "url": "https://open.spotify.com/album/5KnSxd3ZZy1mx3zo2Utu4R"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 177569,
+      "name": "Dancing With Your Shadows",
+      "url": "https://open.spotify.com/track/1gOXJCXmQ7lVDdjxyHqfF4"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
         "name": "That's Life",
         "url": "https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 147653,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
+        "name": "You Signed Up For This",
+        "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Elvis Song",
+      "url": "https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
-        "name": "You Signed Up For This",
-        "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Elvis Song",
-      "url": "https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N"
     },
     {
       "added_at": "2023-03-14 22:21:27",
@@ -2459,6 +2459,26 @@
     {
       "added_at": "2023-03-14 22:21:27",
       "album": {
+        "name": "Too Much (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 215397,
+      "name": "Too Much (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
+    },
+    {
+      "added_at": "2023-03-14 22:21:27",
+      "album": {
         "name": "Sway My Way",
         "url": "https://open.spotify.com/album/3q2dJlBEZOASVQhbg8aJ3A"
       },
@@ -2507,26 +2527,6 @@
       "duration_ms": 179043,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD"
-    },
-    {
-      "added_at": "2023-03-14 22:21:27",
-      "album": {
-        "name": "Too Much (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 215397,
-      "name": "Too Much (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
       "added_at": "2023-03-14 22:21:27",

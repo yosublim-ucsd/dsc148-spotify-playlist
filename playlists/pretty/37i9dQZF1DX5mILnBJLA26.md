@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp?si=segy5JmMRMu1JpWyfZhH0Q">Major Lazer</a> and <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=JwBDEGPfSia6o\-GgT9Mafw">Major League Djz</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,755 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,317 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

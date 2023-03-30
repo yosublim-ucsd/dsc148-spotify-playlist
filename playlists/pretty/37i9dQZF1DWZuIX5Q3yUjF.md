@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Spinas
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,172 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,176 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

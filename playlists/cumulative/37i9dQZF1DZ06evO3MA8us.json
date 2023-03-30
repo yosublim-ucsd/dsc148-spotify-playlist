@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 352520,
       "name": "Breakthrough Miracle Power",
       "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 423166,
       "name": "I Speak Jesus - Live From Camp",
       "url": "https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU"
@@ -884,6 +884,28 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207404,
+      "name": "King - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/4U4pdy7qkgbXdmIQqONia7"
     },
     {
       "album": {
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 416548,
       "name": "Same God - Live From Passion 2023",
       "url": "https://open.spotify.com/track/78vYtXsM5TWnLNfcJ9gVNM"

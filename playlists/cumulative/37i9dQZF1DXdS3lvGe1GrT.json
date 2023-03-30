@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227352,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi"
+    },
+    {
+      "album": {
         "name": "All Flowers In Time Bend Towards The Sun",
         "url": "https://open.spotify.com/album/7nKc2fN6x7sb7kYQYuAe5j"
       },
@@ -765,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Bindi in the Dirt",
+        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Pasterfield",
+          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Bindi in the Dirt",
+      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
+    },
+    {
+      "album": {
         "name": "Fruit from the Trees",
         "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
       },
@@ -838,7 +874,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 237074,
       "name": "Blue Thread",
       "url": "https://open.spotify.com/track/5B3mFQrx9uH2ThAbBzoSe7"
@@ -900,6 +936,24 @@
       "duration_ms": 161330,
       "name": "Boy",
       "url": "https://open.spotify.com/track/6kqXxozMFndOsIYelpqQTi"
+    },
+    {
+      "album": {
+        "name": "Bug",
+        "url": "https://open.spotify.com/album/33ZVNH3uSPkKWwMqBXSlyn"
+      },
+      "artists": [
+        {
+          "name": "Annie Blackman",
+          "url": "https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297143,
+      "name": "Bug",
+      "url": "https://open.spotify.com/track/197XvaLXq8aciPKZxUoW0f"
     },
     {
       "album": {
@@ -1166,7 +1220,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 261152,
       "name": "Chet Baker",
       "url": "https://open.spotify.com/track/6tm5Zn7g9c1jJjjHqZEFvw"
@@ -1584,7 +1638,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 147310,
       "name": "Cowboy Grass",
       "url": "https://open.spotify.com/track/3Uo9r2mHPpZsY4hfrmwecC"
@@ -1754,7 +1808,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 126500,
       "name": "Date Night at Daddy Joe's",
       "url": "https://open.spotify.com/track/7HgoZbwo2u4obD00htOZE4"
@@ -2100,6 +2154,24 @@
       "duration_ms": 217213,
       "name": "Dorian Gray",
       "url": "https://open.spotify.com/track/23Hv5mNDIyYDqk02vTGu0G"
+    },
+    {
+      "album": {
+        "name": "kendall lujan",
+        "url": "https://open.spotify.com/album/7cM3lwx5ctIJczuqTn4rdF"
+      },
+      "artists": [
+        {
+          "name": "kendall lujan",
+          "url": "https://open.spotify.com/artist/5JvY8N4icJjp1ND34IJAqQ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214794,
+      "name": "Dot My i's",
+      "url": "https://open.spotify.com/track/5BIp4fRwkRWsbNcXP8xvFL"
     },
     {
       "album": {
@@ -2504,7 +2576,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 228101,
       "name": "Everything Changes",
       "url": "https://open.spotify.com/track/1SODZeCGoXb4wu9ixDaAtv"
@@ -3449,6 +3521,28 @@
     },
     {
       "album": {
+        "name": "Green Flash",
+        "url": "https://open.spotify.com/album/3UflcuTtBl2ndY3nzxuR07"
+      },
+      "artists": [
+        {
+          "name": "Jobi Riccio",
+          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
+        },
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269860,
+      "name": "Green Flash",
+      "url": "https://open.spotify.com/track/1g9rH9FM2IFGK6hKzLt2SJ"
+    },
+    {
+      "album": {
         "name": "Gunpowder",
         "url": "https://open.spotify.com/album/0S9qMrSlylXYoieZLZirNQ"
       },
@@ -4066,7 +4160,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 248500,
       "name": "I Saw the Arkansas",
       "url": "https://open.spotify.com/track/1eWVIgANmPbMrCnQyApGav"
@@ -4617,6 +4711,24 @@
     },
     {
       "album": {
+        "name": "Keeps Me Up At Night",
+        "url": "https://open.spotify.com/album/3LQj8A7VicJQKQC8xOUL15"
+      },
+      "artists": [
+        {
+          "name": "The Wilson Springs Hotel",
+          "url": "https://open.spotify.com/artist/51bGaMwuDcqkHbwPiaOnWW"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200837,
+      "name": "Keeps Me Up At Night",
+      "url": "https://open.spotify.com/track/3RR9bl1XYsfYbIi0LLQMSw"
+    },
+    {
+      "album": {
         "name": "Kentucky Blue",
         "url": "https://open.spotify.com/album/3d6Wx2URP5JHRlIdLRSsnc"
       },
@@ -4682,7 +4794,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 214047,
       "name": "Lackin' Magic",
       "url": "https://open.spotify.com/track/6Jlg2aE1q0kyIKmVulcVFm"
@@ -4862,7 +4974,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 179436,
       "name": "Let This Lie",
       "url": "https://open.spotify.com/track/09lH4PzXtmk4NoefbOkf6d"
@@ -5868,7 +5980,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 200608,
       "name": "Nice To Meet Ya",
       "url": "https://open.spotify.com/track/7x84rqrQ3qFipSO21lpnrj"
@@ -7158,7 +7270,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 206867,
       "name": "Science Teacher",
       "url": "https://open.spotify.com/track/0pHgAUcTiHjVIoRzUvYpR4"
@@ -7836,6 +7948,24 @@
       "duration_ms": 196600,
       "name": "Sweeter People",
       "url": "https://open.spotify.com/track/1mAvzrzI3LPaD1ctnXno4s"
+    },
+    {
+      "album": {
+        "name": "Sweetheart",
+        "url": "https://open.spotify.com/album/6yMxe3j39nBVNvaRaI5cbI"
+      },
+      "artists": [
+        {
+          "name": "Joe Vann",
+          "url": "https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/2i4m4FAyMteqzmh7AzgmLs"
     },
     {
       "album": {
@@ -9036,7 +9166,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 263480,
       "name": "What Was Done",
       "url": "https://open.spotify.com/track/6Gly36D1SdI7f7uzPgedmO"

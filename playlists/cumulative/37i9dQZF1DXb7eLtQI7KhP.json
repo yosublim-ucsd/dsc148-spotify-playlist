@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-20",
   "description": "Soft and soothing ambient piano music to help you meditate and find inner peace.",
-  "name": "Inner Peace",
+  "name": "Soothing Meditation",
   "tracks": [
     {
       "album": {
@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 226445,
       "name": "Laisse moi partir",
       "url": "https://open.spotify.com/track/5x2Pk6TkpnPYc1CYh5h7nC"
@@ -1712,6 +1712,24 @@
       "duration_ms": 150967,
       "name": "Shy Paws",
       "url": "https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE"
+    },
+    {
+      "album": {
+        "name": "Slow Release",
+        "url": "https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Fields",
+          "url": "https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Slow Release",
+      "url": "https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35"
     },
     {
       "album": {

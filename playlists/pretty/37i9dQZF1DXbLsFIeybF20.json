@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141371,
+  "num_followers": 141378,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDkzYzM0MGUyYmJjZjllZTU4NTRhODMyMjA3MmRmN2U4",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDQ5MzE3OWI2NzU0MjVkYTgzNTZkMjlhMjI3MTQ3ZjJi",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -651,26 +651,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Jazz In Hi-Fi",
-        "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
-      },
-      "artists": [
-        {
-          "name": "Jack Teagarden",
-          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
-        },
-        {
-          "name": "Bobby Hackett",
-          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
         "url": "https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 276976,
       "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
       "url": "https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Jazz In Hi-Fi",
+        "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
+      },
+      "artists": [
+        {
+          "name": "Jack Teagarden",
+          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
+        },
+        {
+          "name": "Bobby Hackett",
+          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
     },
     {
       "added_at": "2021-04-26 16:53:52",

@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 152195,
+  "num_followers": 152252,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1ODc4MCwwMDAwMDAwMGNkMmEzYTM0MjRkZjc2NDdmM2JmZGQxNmQyODZmN2Zm",
+  "snapshot_id": "MTY3Nzg1ODc4MCwwMDAwMDAwMDlmN2IwYTU5MzM5MGRlMjI5NzBjZWFjNzc3MTAyMTg3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Naturally Live",
-        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
-      },
-      "artists": [
-        {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "One of These Days - Live",
-      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live from the 805",
         "url": "https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 227253,
       "name": "The Sweetest Honey (Live)",
       "url": "https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Naturally Live",
+        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "One of These Days - Live",
+      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live in London",
-        "url": "https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 322022,
-      "name": "No Time For Cryin' - Live",
-      "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live Trout Vol. 1",
         "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 304093,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live in London",
+        "url": "https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 322022,
+      "name": "No Time For Cryin' - Live",
+      "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
     },
     {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
+        "url": "https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 528120,
+      "name": "Broke Down On The Brazos - Live",
+      "url": "https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr"
+    },
+    {
       "added_at": "2020-11-20 05:01:00",
       "album": {
         "name": "Straight To You: Live",
@@ -651,22 +667,6 @@
       "duration_ms": 268650,
       "name": "Tip of My Hat (Live)",
       "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
-        "url": "https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 528120,
-      "name": "Broke Down On The Brazos - Live",
-      "url": "https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -771,18 +771,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live! The Real Deal",
-        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
+        "name": "Live In Tallahassee",
+        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Eugene Hideaway Bridges",
+          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
         }
       ],
-      "duration_ms": 461533,
-      "name": "Damn Right I've Got The Blues - Live",
-      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
+      "duration_ms": 212732,
+      "name": "Step By Step - Live",
+      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -803,18 +803,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live In Tallahassee",
-        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
+        "name": "Live! The Real Deal",
+        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
       },
       "artists": [
         {
-          "name": "Eugene Hideaway Bridges",
-          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 212732,
-      "name": "Step By Step - Live",
-      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
+      "duration_ms": 461533,
+      "name": "Damn Right I've Got The Blues - Live",
+      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
     },
     {
       "added_at": "2021-09-17 04:02:00",

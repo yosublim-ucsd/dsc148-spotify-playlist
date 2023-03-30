@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Yasmine.
 
-300 songs - 18 hr 11 min
+301 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 |  |
 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 |  |
 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 | 2022-11-18 |  |
+| [Ayah](https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Ayah](https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY) | 2:43 | 2023-03-30 |  |
 | [Bai](https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Bai](https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK) | 3:23 | 2021-12-10 |  |
 | [Baile](https://open.spotify.com/track/20pd0IMbN7KC9y0FNOVQK0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Baile](https://open.spotify.com/album/0aVJrJFseq4WFmCqAEWhZo) | 3:47 | 2022-03-25 | 2022-04-21 |
 | [Batom](https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Batom](https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7) | 3:32 | 2022-10-13 |  |
@@ -101,7 +102,7 @@
 | [Fala Só](https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ) | [Yola Araújo](https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm) | [Fala Só](https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr) | 3:17 | 2022-08-04 | 2022-08-19 |
 | [Faz De Mim](https://open.spotify.com/track/76rfT1Ff6qXWnTiOWrj4BL) | [Bonifácio Aurio](https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f), [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Faz De Mim](https://open.spotify.com/album/1D0MX6LR1AcT4OckPFp8e4) | 4:00 | 2021-12-10 | 2022-07-29 |
 | [Faço Como](https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Menina Mulher](https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm) | 3:21 | 2021-12-10 |  |
-| [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 | 2021-12-10 |  |
+| [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 | 2021-12-10 | 2023-03-30 |
 | [Feliz](https://open.spotify.com/track/76hzh7OSIl0UAH0Z791EXl) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Feliz](https://open.spotify.com/album/5bdgREIEoaBfwqNNccK8se) | 3:29 | 2022-02-11 | 2022-02-19 |
 | [Fica Comigo](https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Fica Comigo](https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE) | 3:22 | 2021-12-10 |  |
 | [Fica Mais Um Pouco](https://open.spotify.com/track/0BKlD2EIkCiMFCaAkaMfdd) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Fica Mais Um Pouco](https://open.spotify.com/album/1sBE475AcbCUYyP7QHud24) | 3:27 | 2022-12-16 | 2023-01-05 |

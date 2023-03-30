@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 68666,
       "name": "Moving Isabelle",
       "url": "https://open.spotify.com/track/0EZDYxg1YB9JBAGE3wj60g"
@@ -1034,6 +1034,24 @@
       "duration_ms": 91293,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/6dIBeXOKUrxEA5ppvjKsh8"
+    },
+    {
+      "album": {
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96893,
+      "name": "The Execution",
+      "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
     },
     {
       "album": {

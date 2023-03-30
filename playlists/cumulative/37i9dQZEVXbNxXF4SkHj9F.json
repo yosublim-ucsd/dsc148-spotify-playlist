@@ -3809,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
@@ -5648,7 +5666,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 238106,
       "name": "Father",
       "url": "https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR"
@@ -9010,10 +9028,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
+    },
+    {
+      "album": {
+        "name": "Kitsch",
+        "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
     },
     {
       "album": {
@@ -9346,7 +9382,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 255826,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6"
@@ -9802,7 +9838,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 212216,
       "name": "Like Crazy (Instrumental)",
       "url": "https://open.spotify.com/track/0cxhv3PpIkmREXqobuB0zG"
@@ -19942,7 +19978,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 355706,
       "name": "\u30ab\u30ca\u30bf\u30cf\u30eb\u30ab",
       "url": "https://open.spotify.com/track/4Fh1CzvLHIUn26tjbZZ1mR"

@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 206080,
       "name": "Casaya",
       "url": "https://open.spotify.com/track/4iRHjxLojZsyclcODm5NOv"
@@ -5129,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
+    },
+    {
+      "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
@@ -5780,7 +5798,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 151400,
       "name": "EL CUARTO DE FERXXO",
       "url": "https://open.spotify.com/track/1WBwck9KqWfe6mr2j06UEM"
@@ -9919,6 +9937,28 @@
     },
     {
       "album": {
+        "name": "La Lecon Particuliere",
+        "url": "https://open.spotify.com/album/2ZgDbFnLWj6dRwDAwk6WlV"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        },
+        {
+          "name": "Christian Gaubert",
+          "url": "https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105560,
+      "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
+      "url": "https://open.spotify.com/track/1MDy1pR75sPtgFcUzP407o"
+    },
+    {
+      "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
       },
@@ -10176,6 +10216,32 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "album": {
+        "name": "Trinity La Marca",
+        "url": "https://open.spotify.com/album/3WFquJ19COO8M5MUDKaooQ"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        },
+        {
+          "name": "Mr. Perez",
+          "url": "https://open.spotify.com/artist/0mFKtQlzvU9l8gD4NbCnf0"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "La Solicitud",
+      "url": "https://open.spotify.com/track/5v4r7uJvAfOPn8TzmZWxWu"
     },
     {
       "album": {
@@ -18370,7 +18436,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 261213,
       "name": "Suelto",
       "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
@@ -19644,7 +19710,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 161287,
       "name": "Tiempos de Plan B",
       "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
@@ -22369,7 +22435,7 @@
     },
     {
       "album": {
-        "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
+        "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430 (Capybara)",
         "url": "https://open.spotify.com/album/0Nrvx6G0Ldu1ilJqzeSINk"
       },
       "artists": [
@@ -22382,7 +22448,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 124326,
-      "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
+      "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430 - Capybara",
       "url": "https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm"
     },
     {

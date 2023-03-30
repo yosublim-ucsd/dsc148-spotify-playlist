@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687322,
+  "num_followers": 687334,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMDZlZjJhNzBhODQ2ZTNkZWEyNTA3ZjRlYmI4Njc0MWVh",
+  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMGU2NjM1Y2YyZTZhNDMzYTZhNzYwOTA1YjRmZGZhYzg5",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -899,6 +899,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) [Edit]",
         "url": "https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 266206,
       "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) - Edit",
       "url": "https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "I Don\u2019t Wanna Know",
-        "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 165093,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "We Come 1",
         "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 178285,
       "name": "We Come 1",
       "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "I Don\u2019t Wanna Know",
+        "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 165093,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Just Feels Tight",
-        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Just Feels Tight",
-      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Pump the Brakes",
         "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 220581,
       "name": "Pump the Brakes",
       "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Just Feels Tight",
+        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Just Feels Tight",
+      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Juliet & Romeo",
-        "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 204514,
-      "name": "Juliet & Romeo",
-      "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Juliet & Romeo",
+        "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 204514,
+      "name": "Juliet & Romeo",
+      "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "tonight belongs to you",
-        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        }
-      ],
-      "duration_ms": 147075,
-      "name": "tonight belongs to you",
-      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 168201,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "tonight belongs to you",
+        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "tonight belongs to you",
+      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Night Ends",
-        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
-      },
-      "artists": [
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Night Ends",
-      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Make Luv",
         "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 168091,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Night Ends",
+        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Night Ends",
+      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
     },
     {
       "added_at": "2022-12-31 15:51:36",

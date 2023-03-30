@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran \(pictured\), FLO, Ellie Goulding and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,152 likes - 133 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,176 likes - 133 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

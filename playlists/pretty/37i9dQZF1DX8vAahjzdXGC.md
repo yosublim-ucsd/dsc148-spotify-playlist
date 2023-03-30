@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Jimin
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,388 likes - 95 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,391 likes - 95 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 134677,
+  "num_followers": 134763,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk5NDQ3OCwwMDAwMDAwMDU0ZDAxMWMwMjAxNWYxYmM3NDFiOWViYjdkNTllZGFh",
+  "snapshot_id": "MTY3ODk5NDQ3OCwwMDAwMDAwMDVhM2ZmMWNjYTIyYzBkNmQ1OWY5N2QxMGE0ZDJiOTM4",
   "tracks": [
     {
       "added_at": "2023-03-16 19:02:33",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
+      "added_at": "2023-03-30 00:06:18",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 577199,
+      "name": "Venice Bitch",
+      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
+    },
+    {
       "added_at": "2023-03-16 19:02:33",
       "album": {
         "name": "Grace",
@@ -135,22 +151,6 @@
       "duration_ms": 413826,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
-    },
-    {
-      "added_at": "2023-03-29 04:11:27",
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 577199,
-      "name": "Venice Bitch",
-      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
     },
     {
       "added_at": "2023-03-16 19:02:33",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "Everglow",
-        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Everglow - Edit",
-      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
-    },
-    {
-      "added_at": "2023-03-16 19:02:33",
-      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/22Jw1aVVP0MijVVO5ls0qn"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 166813,
       "name": "Reckoning Song",
       "url": "https://open.spotify.com/track/6Wk6A8k7NjjSsPQT9Z3FXM"
+    },
+    {
+      "added_at": "2023-03-16 19:02:33",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Everglow - Edit",
+      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
     },
     {
       "added_at": "2023-03-16 19:02:33",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 232837,
-      "name": "when the party's over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
-    },
-    {
-      "added_at": "2023-03-16 19:02:33",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 266432,
-      "name": "Stoned at the Nail Salon",
-      "url": "https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS"
+      "duration_ms": 232837,
+      "name": "when the party's over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": "2023-03-16 19:02:33",
@@ -403,6 +387,22 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2023-03-16 19:02:33",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 266432,
+      "name": "Stoned at the Nail Salon",
+      "url": "https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS"
     },
     {
       "added_at": "2023-03-16 19:02:33",

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Keith Ape, PEEJAY\)\)
 
-852 songs - 1 day 23 hr 20 min
+853 songs - 1 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Tree](https://open.spotify.com/track/5fL0pFoAi6V6OWOgIRdraP) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Tree](https://open.spotify.com/album/7nFtvzOlA00mF9huq3D4ao) | 3:01 | 2021-12-18 | 2022-07-06 |
 | [Trend setter \(feat\. Coogie & JUSTHIS\)](https://open.spotify.com/track/2CQdgtrbvZ5itizY7WB5K8) | [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Trend setter \(feat\. Coogie & JUSTHIS\)](https://open.spotify.com/album/21hmwsxug8RxtKUrRQgqEP) | 3:43 | 2022-02-03 | 2022-06-30 |
 | [Trippy](https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Trippy](https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5) | 3:27 | 2023-01-30 |  |
+| [Trouble](https://open.spotify.com/track/71IxXvEt2HWbLQ590hyWo3) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY) | [TROUBLE](https://open.spotify.com/album/3IYrL8FzKrX5DOlxvqXOlZ) | 2:42 | 2023-03-29 |  |
 | [TROUBLE \(Prod\. Slom\)](https://open.spotify.com/track/5UJTNrW72ZMubW2wKBf8g2) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR) | [Show Me The Money 10 Episode 1](https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX) | 4:44 | 2021-12-21 | 2022-07-06 |
 | [Trust Yourself](https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Trust Yourself](https://open.spotify.com/album/7wlBNw7Wyq6xKJavMaiIw4) | 2:53 | 2023-02-01 | 2023-03-28 |
 | [TTFU](https://open.spotify.com/track/2Ijm5CQ4Y24lS0Zi7oK6hj) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [TTFU](https://open.spotify.com/album/5K6d8lB7dP9CNXv9LPR1nN) | 3:40 | 2022-09-19 | 2023-03-25 |

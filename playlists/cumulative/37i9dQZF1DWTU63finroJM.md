@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-940 songs - 2 day 4 hr 31 min
+941 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [Howl](https://open.spotify.com/track/5BH4G3jjDGZCNu4ZYUF8rL) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Howl](https://open.spotify.com/album/71NiZ2eoxbKbIrqQ4XCllV) | 3:01 | 2022-02-03 | 2022-08-02 |
 | [Hoy te Dejo de Soñar](https://open.spotify.com/track/6xaPt9l6Uk6i72f10GezEM) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Hoy te Dejo de Soñar](https://open.spotify.com/album/2H7dZJggkMv3MXH7ZKSzQm) | 3:11 | 2022-04-12 | 2022-04-18 |
 | [Hoàng Hôn](https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/3Q7A5892DvFaMdONpVhc9k) | 4:10 | 2022-02-03 | 2022-06-25 |
-| [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-05-27 |  |
+| [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-05-27 | 2023-03-30 |
+| [Hypocrite](https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j) | 3:20 | 2023-02-17 |  |
 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 | 2022-04-12 | 2022-08-27 |
 | [Hướng Dương](https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Hướng Dương](https://open.spotify.com/album/6sUgmtdrcZRJxRsfbxUxqc) | 3:39 | 2022-02-03 | 2022-12-15 |
 | [Hạt Giống Số 1](https://open.spotify.com/track/4jFnLSoqJ9Q8GrXdgCplG9) | [Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [Hạt Giống Số 1](https://open.spotify.com/album/0szmEuno6QqSPt8S6nUuyu) | 1:50 | 2022-03-24 | 2022-04-19 |

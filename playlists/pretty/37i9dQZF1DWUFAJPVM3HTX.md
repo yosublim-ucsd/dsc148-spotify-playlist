@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Tora\-i\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,605 likes - 158 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,742 likes - 158 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

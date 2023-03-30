@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Featuring Slow Pulp.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,267 likes - 114 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,288 likes - 114 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 39 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 |
 | 40 | [Need You No More](https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Need You No More](https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm) | 3:18 |
 | 41 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
-| 42 | [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 |
+| 42 | [saturday](https://open.spotify.com/track/54iqx8FozDfH95XVTOwRZn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 2:11 |
 | 43 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 |
 | 44 | [Preacher](https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Preacher](https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3) | 1:45 |
 | 45 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 113 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 |
 | 114 | [Buzzed](https://open.spotify.com/track/2TNfI1TGo40RpRfvIuI2zO) | [Caroline Culver](https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0) | [Buzzed](https://open.spotify.com/album/68bbtsnWT7V3jOx4iGlxYq) | 2:57 |
 
-Snapshot ID: `MTY3OTk2Njg3MCwwMDAwMDAwMDk3YzRlZjM4ZmI4NTJkNDlhMzFlYmZhMWJhMmVhMmVi`
+Snapshot ID: `MTY3OTk2Njg3MCwwMDAwMDAwMDFjOTk5ZTRlNWJmYzEzMzk0YWJhYmFhNzExMzU4MWY5`

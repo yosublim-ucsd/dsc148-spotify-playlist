@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 55010,
+  "num_followers": 55118,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDQ1NTM0NywwMDAwMDAwMDBhYzhmYmJiOTQ0NDE0YjBkNDA0YWM2MzczNjcyOGYx",
+  "snapshot_id": "MTY0MDQ1NTM0NywwMDAwMDAwMGI3ZWVkY2NlZTk3YWZiNmVmZjE4MzA4MzBlMmMwYjZm",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "16 Exitos De Oro",
-        "url": "https://open.spotify.com/album/7bwndiQmsxDxO4BE5OFdfb"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
         "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196200,
       "name": "Te Voy a Ense\u00f1ar a Querer",
       "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/7bwndiQmsxDxO4BE5OFdfb"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8"
     }
   ],
   "unique_name": "bohemia tranqui",

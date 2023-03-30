@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,780 likes - 70 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,825 likes - 70 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 | 34 | [Manmadhane Nee](https://open.spotify.com/track/2RkN688Mst0l8SIfZkx4Fx) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 4:32 |
 | 35 | [Mental Manadhil \- Female](https://open.spotify.com/track/3KDGOfol2T95aQKFp0BcIE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [O Kadhal Kanmani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6XBC9UsX48MzHICIr9m0hj) | 3:13 |
 | 36 | [Deewana Deewana](https://open.spotify.com/track/2lGGkN8S7hBLmpAMNG2tfY) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Gemini](https://open.spotify.com/album/7BmYDt03ZfUhrx1Z9DYKzP) | 4:26 |
-| 37 | [Sontha Kuralil Paada](https://open.spotify.com/track/2zU4ZND0TMhsSZEmt3Inkw) | [Bharatwaj](https://open.spotify.com/artist/3UlHdzcHA5C04IKmJgv3FL), [Pop Shalini](https://open.spotify.com/artist/5wXcLr5v9cv5IAPkcFBvBT) | [Amarkalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7EYzkq2qHReND6bmnMvsPZ) | 4:59 |
+| 37 | [Sontha Kuralil Paada](https://open.spotify.com/track/2zU4ZND0TMhsSZEmt3Inkw) | [Bharadwaj](https://open.spotify.com/artist/4XOgtTx2nc2NMbPOwVw1Vz), [Pop Shalini](https://open.spotify.com/artist/5wXcLr5v9cv5IAPkcFBvBT) | [Amarkalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7EYzkq2qHReND6bmnMvsPZ) | 4:59 |
 | 38 | [May Maadham](https://open.spotify.com/track/4Qr4MRbNfeRLiyAW43ZQFE) | [Bharadwaj](https://open.spotify.com/artist/4XOgtTx2nc2NMbPOwVw1Vz), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Jay Jay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2x4a68Jz8nrlfsNuw45t0A) | 4:55 |
 | 39 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 |
 | 40 | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx) | 5:04 |

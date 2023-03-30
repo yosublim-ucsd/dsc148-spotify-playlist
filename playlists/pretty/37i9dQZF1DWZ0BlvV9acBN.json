@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 114965,
+  "num_followers": 114991,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGYzYjQ1MjhiZjVmNTQxODI4NjgyYTM3NTIzODIwNTgx",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDUxNTc2OTE3OTNkZmFhZTE5MWNjMzBjY2U0YzE1ZGEw",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -551,22 +551,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+        "name": "Livre Sou",
+        "url": "https://open.spotify.com/album/28NPgRLhM0u0UiIQnTvUKd"
       },
       "artists": [
         {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
         }
       ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+      "duration_ms": 206806,
+      "name": "Livre Sou",
+      "url": "https://open.spotify.com/track/62aGtaEunlFAd8HagOBeWx"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -639,6 +635,26 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "A Carta",
         "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 296500,
       "name": "A Carta",
       "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Livre Sou",
-        "url": "https://open.spotify.com/album/28NPgRLhM0u0UiIQnTvUKd"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 206806,
-      "name": "Livre Sou",
-      "url": "https://open.spotify.com/track/62aGtaEunlFAd8HagOBeWx"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -723,6 +723,22 @@
       "duration_ms": 231874,
       "name": "Uma Carta de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Me Ensina a Seguir",
-        "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
-      },
-      "artists": [
-        {
-          "name": "Al\u00e9m do Mar",
-          "url": "https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Me Ensina a Seguir",
-      "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Profundo",
         "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Me Ensina a Seguir",
+        "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9m do Mar",
+          "url": "https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Me Ensina a Seguir",
+      "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
     },
     {
       "added_at": "2023-03-24 03:00:00",

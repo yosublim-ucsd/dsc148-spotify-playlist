@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,903 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,944 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 38 | [Patricia](https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Greatest Hits](https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux) | 2:06 |
 | 39 | [Si Si No No](https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mi Amigo, Machito](https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap) | 3:16 |
 | 40 | [Aprende a Querer](https://open.spotify.com/track/0E9Vx2zk4gNdteduH9tNE7) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [The Last Mambo King](https://open.spotify.com/album/3NqOdIbHCHnw1wbfYBWv9j) | 5:30 |
-| 41 | [Kimbya \(feat\. Manny Roman\)](https://open.spotify.com/track/5F9gVtm6rD5uGlkPgfXzRt) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Manny Roman](https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap) | [Salsa With Me](https://open.spotify.com/album/3kTrNkkPo0Vi3X5RSI6ygQ) | 4:21 |
-| 42 | [El Yerbero](https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq) | [Charlie Palmieri and His Orchestra La Duboney](https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh) | [Salsa Na' Ma'](https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W) | 2:25 |
+| 41 | [El Yerbero](https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq) | [Charlie Palmieri and His Orchestra La Duboney](https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh) | [Salsa Na' Ma'](https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W) | 2:25 |
+| 42 | [Kimbya](https://open.spotify.com/track/02ywqhNjMWGMX5oQC1v8fL) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [The Golden Era of Salsa & Boogaloo](https://open.spotify.com/album/0iGO2hS2EpQveaZlZ2nrwT) | 4:21 |
 | 43 | [Que Rico](https://open.spotify.com/track/0h4r17dBbbT9TV5YZxQO0Z) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 2:56 |
 | 44 | [Mi Chiquita Quiere Bembé](https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:55 |
 | 45 | [Por Que Me Enganas](https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Mi Jebita \(feat\. Just Betancourt\)](https://open.spotify.com/track/3Qt23kKNKJot7OaC2ywCFx) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID), [Just Betancourt](https://open.spotify.com/artist/1qnB8QE8FRjCjrGgVehIwp) | [The Last Mambo King](https://open.spotify.com/album/3NqOdIbHCHnw1wbfYBWv9j) | 4:39 |
 | 50 | [No Cuentes Conmigo](https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 3:03 |
 
-Snapshot ID: `MTY3ODIzNDYzOCwwMDAwMDAwMGM0MGNkODNmZWU5MjU5MDE4YjU5NGE0OTQ0YmE3MGVm`
+Snapshot ID: `MTY3ODIzNDYzOCwwMDAwMDAwMGI5MzliZTliMzFmMTFlODBjNTExNGYzMjlhM2QzOWY3`

@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Yasmine.  ",
-  "num_followers": 160901,
+  "num_followers": 160996,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0OTc4OCwwMDAwMDAwMDU5NWVlMDc0MDYyNDljNWM4MWJjNjdkNjFiODU3Y2M2",
+  "snapshot_id": "MTY3OTY0OTc4OCwwMDAwMDAwMDljMTM0NzU0OWUzMjdjOTkxNjc5YjU5ZDZlZTExYTJm",
   "tracks": [
     {
       "added_at": "2023-03-17 00:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
+        "name": "Vais Me Perder",
+        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "duration_ms": 221462,
+      "name": "Vais Me Perder",
+      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
         "name": "Tudo de Novo",
         "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 259333,
       "name": "Tudo de Novo",
       "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Vais Me Perder",
-        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        }
-      ],
-      "duration_ms": 221462,
-      "name": "Vais Me Perder",
-      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
         "name": "The Gentleman",
         "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
       },
@@ -1047,34 +1063,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+        "name": "Djudan",
+        "url": "https://open.spotify.com/album/7zktGWmrZnko6XwevyeBTQ"
       },
       "artists": [
         {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
-      },
-      "artists": [
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        },
         {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 234226,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+      "duration_ms": 209999,
+      "name": "Djudan",
+      "url": "https://open.spotify.com/track/23dtqRYCyGGlS1IUNJiyt7"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1107,6 +1111,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
         "name": "Segredo",
         "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 207640,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Djudan",
-        "url": "https://open.spotify.com/album/7zktGWmrZnko6XwevyeBTQ"
-      },
-      "artists": [
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "Djudan",
-      "url": "https://open.spotify.com/track/23dtqRYCyGGlS1IUNJiyt7"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "INFINITO",
-        "url": "https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3"
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
       "artists": [
         {
           "name": "Mika Mendes",
           "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/2e3KTRfz4appswSpkawQid"
+      "duration_ms": 214353,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1195,22 +1199,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "4 Horas",
         "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
       },
@@ -1227,6 +1215,22 @@
       "duration_ms": 194638,
       "name": "4 Horas",
       "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1289,6 +1293,26 @@
       "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
     },
     {
+      "added_at": "2023-03-30 00:31:25",
+      "album": {
+        "name": "Ayah",
+        "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 163199,
+      "name": "Ayah",
+      "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
+    },
+    {
       "added_at": "2023-03-17 00:00:00",
       "album": {
         "name": "Sinto Falta",
@@ -1303,6 +1327,22 @@
       "duration_ms": 202397,
       "name": "Sinto Falta",
       "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "INFINITO",
+        "url": "https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/2e3KTRfz4appswSpkawQid"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1323,26 +1363,6 @@
       "duration_ms": 239189,
       "name": "Sempre Sonhei (feat. Yasmine)",
       "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Vis\u00e3o",
-        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "Cl\u00e1udio Ismael",
-          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
-        }
-      ],
-      "duration_ms": 214353,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1495,22 +1515,6 @@
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
     }
   ],
   "unique_name": "Dancing Kizomba",

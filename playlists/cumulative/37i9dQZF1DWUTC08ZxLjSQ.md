@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Good Company, Artwork: Isu Kim
 
-152 songs - 8 hr 37 min
+153 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 | 2022-09-20 | 2023-03-02 |
 | [Can't Imagine](https://open.spotify.com/track/5m45mmeHpiKfhQjgd9xWcm) | [Sizer](https://open.spotify.com/artist/6RW2HOMCsUtTj7YiVdVMQD) | [Can't Imagine](https://open.spotify.com/album/1IfPSY68gmTfFziU03FBlh) | 2:22 | 2022-11-23 | 2023-01-25 |
 | [Caravan Flow](https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX) | [Soof](https://open.spotify.com/artist/2ubCUPUvkTug5bB3vRNrQo) | [Caravan Flow](https://open.spotify.com/album/39S4YTM2k91hwLIBVhIeSI) | 2:43 | 2022-09-20 | 2022-11-02 |
+| [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 | 2023-03-29 |  |
 | [Closer Than Close](https://open.spotify.com/track/5nvlMbwOQxMs2lTzXBqZpF) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 4:35 | 2022-12-13 | 2023-02-15 |
 | [Coconut](https://open.spotify.com/track/3ucPO98aE91zqyQVL7LL3U) | [Salwa](https://open.spotify.com/artist/1ydHumv64RGQyZouGFLKp5) | [Late at Night](https://open.spotify.com/album/7idOjiu9Ue6uZCvvC517g4) | 3:29 | 2023-03-07 |  |
 | [Come Find Me](https://open.spotify.com/track/3Df0XGXVpGWCSm3uMmpqle) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Come Find Me](https://open.spotify.com/album/7jZ4pnFqXPXoTJapHRd1CV) | 2:01 | 2022-09-20 | 2022-10-12 |

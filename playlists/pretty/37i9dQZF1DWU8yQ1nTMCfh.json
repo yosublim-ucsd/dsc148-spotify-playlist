@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: KHEA",
-  "num_followers": 279645,
+  "num_followers": 279657,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDVhYzk2YTg5NDAzYTQxMWU3MWM1MTgyOTE1MTJiZDk4",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDcwNGM0MTFjYWVhOTcxOTI5NDg2NmZkMThmZWVlNmE4",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Invulnerables",
-        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Invulnerables",
-      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Cuenta conmigo",
         "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 166717,
       "name": "Cuenta conmigo",
       "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Todo cambi\u00f3",
-        "url": "https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao"
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
       },
       "artists": [
         {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 188951,
-      "name": "Todo cambi\u00f3",
-      "url": "https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p"
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -439,34 +439,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+        "name": "Todo cambi\u00f3",
+        "url": "https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
         }
       ],
-      "duration_ms": 191725,
-      "name": "Si En Tu Mente Estuve",
-      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+      "duration_ms": 188951,
+      "name": "Todo cambi\u00f3",
+      "url": "https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -487,18 +471,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Se\u00f1orita Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 158478,
-      "name": "Se\u00f1orita Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Se\u00f1orita Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Se\u00f1orita Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 150773,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Ocho",
+        "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Toda Mi Fe",
+      "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -563,22 +579,6 @@
       "duration_ms": 198405,
       "name": "Las Flores Sangran",
       "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Ocho",
-        "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Toda Mi Fe",
-      "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "CABI",
         "url": "https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 121968,
       "name": "CABI",
       "url": "https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
     },
     {
       "added_at": "2023-03-24 04:00:00",

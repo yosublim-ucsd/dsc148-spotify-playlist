@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,854 likes - 90 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,962 likes - 90 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 19 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 20 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
 | 21 | [Casa No Campo \- Remastered 2021](https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis \(Remastered\)](https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je) | 2:51 |
-| 22 | [Chega de Saudade](https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:03 |
+| 22 | [Chega de Saudade \- Ultimate Mix](https://open.spotify.com/track/1cM4eMzeqalRs8HbXtfT9X) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade / O Amor o Sorriso e a Flor / João Gilberto \(1961\) \[Ultimate Mix\]](https://open.spotify.com/album/5QyRw84mq8qyaOfaMthydb) | 2:02 |
 | 23 | [A felicidade](https://open.spotify.com/track/1brWhQEoBoT9tMnNfcRsjr) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Estudando o samba](https://open.spotify.com/album/2jOgajtpXNsinBpwg2dUjH) | 3:18 |
 | 24 | [Maria Maria](https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Trem Azul](https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N) | 4:20 |
 | 25 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 89 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 |
 | 90 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDFmYjNmYmI5NzIxNzM4MWNkM2NmMmI3NWQyYjA2ODg5`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGE1ODdlZGI1NTgyMmE2ZTZiMDMxMDhjYWRhMzIzYmNk`

@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 34434,
+  "num_followers": 34502,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDYwODQ0MjU5OWI1ZWQ4NzhmYWJjYjBkMWRlYmFlNDQ2",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDVhNDQ2NmJjNTFlZWNiY2JmMTI1MDM3ZDhlYzkwMDUx",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 174370,
-      "name": "I'm Clean Now",
-      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "fall (Hania Rani Rework) (feat. Hania Rani)",
         "url": "https://open.spotify.com/album/0jT8y9vhDBCvtDLRM42Jlk"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 269827,
       "name": "fall (Hania Rani Rework) (feat. Hania Rani)",
       "url": "https://open.spotify.com/track/2Pdz8PtiGiZCHwGiuDVX2n"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 174370,
+      "name": "I'm Clean Now",
+      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -251,18 +251,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "My People Have Deep Roots",
-        "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
+        "name": "Inori (William Basinski Rework)",
+        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
       "artists": [
         {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        },
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
+      "duration_ms": 306154,
+      "name": "Inori - William Basinski Rework",
+      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -283,22 +287,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Inori (William Basinski Rework)",
-        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
+        "name": "My People Have Deep Roots",
+        "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        },
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 306154,
-      "name": "Inori - William Basinski Rework",
-      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Revival Renaissance Rebirth (Act 1)",
-        "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
-      },
-      "artists": [
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
-        }
-      ],
-      "duration_ms": 304934,
-      "name": "999 Renaissance",
-      "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -387,6 +371,38 @@
       "duration_ms": 193988,
       "name": "I Could Be Your Dog",
       "url": "https://open.spotify.com/track/2jSBYuzIyy7B2RqZNWEFlZ"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Revival Renaissance Rebirth (Act 1)",
+        "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
+      },
+      "artists": [
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 304934,
+      "name": "999 Renaissance",
+      "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "A Conversation With My Innocence",
+      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -435,22 +451,6 @@
       "duration_ms": 160000,
       "name": "The Tides Do That with Me",
       "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "A Conversation With My Innocence",
-      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Northwest & Southeast",
-        "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
-      },
-      "artists": [
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "Party Store",
-          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Thursday Night, Friday Morning",
-      "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Northwest & Southeast",
+        "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "Party Store",
+          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Thursday Night, Friday Morning",
+      "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The Unfolding",
-        "url": "https://open.spotify.com/album/17VZ1IVAxBYtoWCvQSKrch"
-      },
-      "artists": [
-        {
-          "name": "Hannah Peel",
-          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
-        },
-        {
-          "name": "Paraorchestra",
-          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
-        }
-      ],
-      "duration_ms": 347796,
-      "name": "The Unfolding",
-      "url": "https://open.spotify.com/track/7BKOFg8gQm0pMMPrKyrvd2"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Time Is Local",
         "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 96450,
       "name": "Clotho",
       "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/17VZ1IVAxBYtoWCvQSKrch"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        },
+        {
+          "name": "Paraorchestra",
+          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
+        }
+      ],
+      "duration_ms": 347796,
+      "name": "The Unfolding",
+      "url": "https://open.spotify.com/track/7BKOFg8gQm0pMMPrKyrvd2"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "SOUL VOICES",
+        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
+      },
+      "artists": [
+        {
+          "name": "Jane Winther",
+          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
+        }
+      ],
+      "duration_ms": 463164,
+      "name": "Soul Voices",
+      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -971,26 +987,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "600 Years of Rest",
         "url": "https://open.spotify.com/album/0PkwMH38KmIGvHUf3fhkmf"
       },
@@ -1007,6 +1003,26 @@
       "duration_ms": 255656,
       "name": "600 Years of Rest",
       "url": "https://open.spotify.com/track/45S8vmd0j9YLWkvlLlnbMN"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 256682,
+      "name": "Morning Room I",
+      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Forward / Wreck Dive",
-        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+        "name": "Cliodynamics",
+        "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
       },
       "artists": [
         {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
         }
       ],
-      "duration_ms": 196129,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
+      "duration_ms": 238145,
+      "name": "Strong, Calm, Slow",
+      "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1071,6 +1087,42 @@
       "duration_ms": 114080,
       "name": "Chapitre I",
       "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Forward / Wreck Dive",
+        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Dawn of Awakening",
+        "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
+      },
+      "artists": [
+        {
+          "name": "faintface",
+          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "duration_ms": 240850,
+      "name": "Dawn of Awakening",
+      "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1099,26 +1151,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Dawn of Awakening",
-        "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
-      },
-      "artists": [
-        {
-          "name": "faintface",
-          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
-        },
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        }
-      ],
-      "duration_ms": 240850,
-      "name": "Dawn of Awakening",
-      "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Cr\u00e9puscule I & II",
         "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
       },
@@ -1131,22 +1163,6 @@
       "duration_ms": 206000,
       "name": "Cosmic Ray",
       "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Cliodynamics",
-        "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 238145,
-      "name": "Strong, Calm, Slow",
-      "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "SOUL VOICES",
-        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
-      },
-      "artists": [
-        {
-          "name": "Jane Winther",
-          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
-        }
-      ],
-      "duration_ms": 463164,
-      "name": "Soul Voices",
-      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
       },
@@ -1195,26 +1195,6 @@
       "duration_ms": 487715,
       "name": "Aurobindo",
       "url": "https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
-      },
-      "artists": [
-        {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        }
-      ],
-      "duration_ms": 256440,
-      "name": "Adkrog (feat. Gareth Jones)",
-      "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1251,6 +1231,26 @@
       "duration_ms": 156000,
       "name": "Shimmer in the Sky - Yoko Komatsu Rework",
       "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        }
+      ],
+      "duration_ms": 256440,
+      "name": "Adkrog (feat. Gareth Jones)",
+      "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        },
+        {
+          "name": "Chris Lippincott",
+          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
         "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
       },
@@ -1615,22 +1635,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
       "artists": [
         {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        },
-        {
-          "name": "Chris Lippincott",
-          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
         }
       ],
-      "duration_ms": 194706,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 298000,
       "name": "Pisces",
       "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Dokkaebi",
+        "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
+      },
+      "artists": [
+        {
+          "name": "Ben Bertrand",
+          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
+        }
+      ],
+      "duration_ms": 506960,
+      "name": "O Ignee Spriritus",
+      "url": "https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 198880,
       "name": "For You I Am Missing \u2026",
       "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Dokkaebi",
-        "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
-      },
-      "artists": [
-        {
-          "name": "Ben Bertrand",
-          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
-        }
-      ],
-      "duration_ms": 506960,
-      "name": "O Ignee Spriritus",
-      "url": "https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61"
     },
     {
       "added_at": "2023-03-24 00:01:00",

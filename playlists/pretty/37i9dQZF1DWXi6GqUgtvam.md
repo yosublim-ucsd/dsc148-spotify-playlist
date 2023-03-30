@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,706 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,843 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

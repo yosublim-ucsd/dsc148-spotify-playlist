@@ -252,7 +252,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 138680,
       "name": "ATEO",
       "url": "https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o"
@@ -2214,6 +2214,32 @@
       "duration_ms": 209276,
       "name": "No La Encuentro",
       "url": "https://open.spotify.com/track/4CnhTzgKFkne8I9sAVCjI8"
+    },
+    {
+      "album": {
+        "name": "No Me Controles",
+        "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162149,
+      "name": "No Me Controles",
+      "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,339 likes - 66 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,344 likes - 66 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 16 | [The Only Way Out](https://open.spotify.com/track/4GZ2cJpzV3mpRP5gh5sC2j) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [The Only Way Out](https://open.spotify.com/album/03V9xh6irzQQCRA9IHhaq7) | 5:34 |
 | 17 | [EVERYTHING](https://open.spotify.com/track/6UWkppVroKJKXLaur8Pljf) | [SLOUCHO](https://open.spotify.com/artist/0tra0xmq3lbJkWbXGf2da6) | [EVERYTHING](https://open.spotify.com/album/7A5rfCbdZEASTIs1AtdNUE) | 4:34 |
 | 18 | [Sosuno](https://open.spotify.com/track/5aXZjCJrZapgBnB09sqReb) | [Kapri Sun](https://open.spotify.com/artist/6i8FEY0VMgaZg1lhucxKy0) | [JDM Spec](https://open.spotify.com/album/2guIb5XAJ7ekBuv6sIdBVI) | 6:27 |
-| 19 | [Popular Science \(Orignal Mix\)](https://open.spotify.com/track/2DWRRnVjLfUBMrGxdwZFAy) | [Oliver Prince](https://open.spotify.com/artist/0exfltJ7G31MUDXTmnTJc0) | [Popular Science \(Orignal Mix\)](https://open.spotify.com/album/1OFvCNTAx1v27OvK7kNZvj) | 4:10 |
+| 19 | [Popular Science](https://open.spotify.com/track/2DWRRnVjLfUBMrGxdwZFAy) | [Oliver Prince](https://open.spotify.com/artist/0exfltJ7G31MUDXTmnTJc0) | [Popular Science](https://open.spotify.com/album/1OFvCNTAx1v27OvK7kNZvj) | 4:10 |
 | 20 | [NothingExists](https://open.spotify.com/track/4IiMDkAfoGqjKhSgACIsg4) | [luxx therapy](https://open.spotify.com/artist/0T4QqML17XOX9Y6TuxpKE1) | [A Dream Deferred](https://open.spotify.com/album/3nYkHpR8Lox6RFEkznGvlg) | 4:02 |
 | 21 | [Running Away](https://open.spotify.com/track/2szOLTtuMeq0XmQG3NE1v5) | [Floor Twenty](https://open.spotify.com/artist/41bYb2SGKvd3twJZbWCitT) | [Vibe to This](https://open.spotify.com/album/5tllJNRtx5WDYKRTFqfrKg) | 4:54 |
 | 22 | [Bird Walk \- Main](https://open.spotify.com/track/5tPab9ITAFIgaKc4JLuqkB) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:33 |

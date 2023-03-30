@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlZ5R8c1TX1.md) - [plain]
 
 > This Is Roddy Ricch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,919 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,008 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlZ5R8c1TX1.md) - [plain]
 | 32 | [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:38 |
 | 33 | [Wow\. \- Remix](https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs) | 2:50 |
 | 34 | [Every Season](https://open.spotify.com/track/1ttPzkTSpQUFcEGx8bjerL) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets II](https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX) | 3:34 |
-| 35 | [Letter To Nipsey \(feat\. Roddy Ricch\)](https://open.spotify.com/track/0j2CNrgtalXRGIvHMO2vzh) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Letter To Nipsey \(feat\. Roddy Ricch\)](https://open.spotify.com/album/5kQY1TXZGxVUKVgK4Rq4mf) | 2:47 |
+| 35 | [Letter to Nipsey \(feat\. Roddy Ricch\)](https://open.spotify.com/track/0j2CNrgtalXRGIvHMO2vzh) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Letter To Nipsey \(feat\. Roddy Ricch\)](https://open.spotify.com/album/5kQY1TXZGxVUKVgK4Rq4mf) | 2:47 |
 | 36 | [crash the party](https://open.spotify.com/track/0WtWtk7D05LELKQk0q8FMC) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:06 |
 | 37 | [Boom Boom Room](https://open.spotify.com/track/3aBL75wBGHJnskegE9jyhb) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:47 |
 | 38 | [paid my dues \(feat\. Takeoff\)](https://open.spotify.com/track/61TWTSHcrFVgaRr6U4MKBs) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:42 |

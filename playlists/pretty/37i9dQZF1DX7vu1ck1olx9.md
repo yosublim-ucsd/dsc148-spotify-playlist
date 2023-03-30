@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,413 likes - 82 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,431 likes - 82 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 44 | [Sandcastle](https://open.spotify.com/track/4uzI5lrZY5XD9D8QpUVESB) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:44 |
 | 45 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 |
 | 46 | [Sunset Cruise](https://open.spotify.com/track/4PDx95A1EalEnhMRHS7mdL) | [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER) | [Sunset Cruise](https://open.spotify.com/album/0oIN2IV9x9mwfwt7Jqvfy6) | 2:24 |
-| 47 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 |
-| 48 | [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 |
+| 47 | [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 |
+| 48 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 |
 | 49 | [Cloud Dance](https://open.spotify.com/track/7cq4lZVXYxv9HsjhF62AZt) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/5wtHowEK9MeJW7dqzGdWrm) | 2:58 |
 | 50 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 |
 | 51 | [Bing Bong](https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT) | 1:56 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 77 | [Hippocamp](https://open.spotify.com/track/0uKrR91NAfDAcwCE9M2gSY) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Bite Size Moments](https://open.spotify.com/artist/1oSkHs17GcB7QD5eyuZeJx), [Millennium Jazz Music](https://open.spotify.com/artist/5Z0IPiVInY7yKWbuM0E32Y) | [Hippocamp](https://open.spotify.com/album/4zWS9BIv7BSjybPwkcYFe9) | 3:30 |
 | 78 | [Tranquility Farm](https://open.spotify.com/track/2HQZO4e5DndKooGqLWs8od) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Tranquility Farm](https://open.spotify.com/album/23rYdcFuFuMzqRl4Z5B0t1) | 2:13 |
 | 79 | [keep on](https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [keep on](https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa) | 2:20 |
-| 80 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 |
-| 81 | [Evenfall](https://open.spotify.com/track/00OJTs80tu6DWWkcYJSkFg) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Evenfall](https://open.spotify.com/album/6gWZNNi5YDnUKclfDRY4H0) | 2:32 |
-| 82 | [Sonar](https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Sonar](https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U) | 1:58 |
+| 80 | [Sonar](https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Sonar](https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U) | 1:58 |
+| 81 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 |
+| 82 | [Soul Finding](https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:41 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDM1MWRlMWE3MmM0YWFhNzBlYjllZjU0ZWNhN2M5NTkx`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDM5ODdhZmQ5MTE0ZjZiNjdhNmRlZGM1ODc3ZDExNWZh`

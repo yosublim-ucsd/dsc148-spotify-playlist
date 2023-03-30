@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 764976,
+  "num_followers": 765053,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMGFmYjIxZDgzY2M4NjBkOTcyOTllYTdjYzY1NWY5ZGM0",
+  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDE0MjgzNjJmMTgyNTYzZjEyOTdlOTNhOWQyN2I5ODU0",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
-        "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
-      "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Algo Parecido",
         "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 225018,
       "name": "Algo Parecido",
       "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
+        "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
+      "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 217258,
-      "name": "Vixe Que Gostoso",
-      "url": "https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Tantos Mares",
         "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 280266,
       "name": "Tantos Mares",
       "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 217258,
+      "name": "Vixe Que Gostoso",
+      "url": "https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ"
     },
     {
       "added_at": "2021-09-03 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2015913,
+  "num_followers": 2015939,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGE0YjYyZTA1NzU3NzIwMTEzOTJlODkyYWZiMDQxODc0",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDkyMmYxNWQ5OWE0MmQ1Zjc0NGZiOGI4ZDc0Y2UzYmNh",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Amapolas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 235453,
       "name": "Fr\u00edo, Fr\u00edo - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/35bidZYpUmUyimy65AsR5a"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Amapolas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -479,18 +479,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Tus Ojitos",
-        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
+        "name": "Universo Amor",
+        "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
       "artists": [
         {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 255514,
-      "name": "Tus Ojitos",
-      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
+      "duration_ms": 216960,
+      "name": "Universo Amor",
+      "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -515,22 +519,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Universo Amor",
-        "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
+        "name": "Tus Ojitos",
+        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
       },
       "artists": [
         {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Universo Amor",
-      "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
+      "duration_ms": 255514,
+      "name": "Tus Ojitos",
+      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -655,26 +655,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "pa' que sue\u00f1es",
-        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
+        "name": "La Bilirrubina",
+        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
       },
       "artists": [
         {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 170795,
-      "name": "pa' que sue\u00f1es",
-      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
+      "duration_ms": 230000,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -695,18 +687,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "La Bilirrubina",
-        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
+        "name": "pa' que sue\u00f1es",
+        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 230000,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
+      "duration_ms": 170795,
+      "name": "pa' que sue\u00f1es",
+      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Soldadito de Hierro",
-        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 142964,
-      "name": "Soldadito de Hierro",
-      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 152533,
       "name": "Juana Mecho - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Soldadito de Hierro",
+        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 142964,
+      "name": "Soldadito de Hierro",
+      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 165760,
       "name": "Roto",
       "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -987,38 +987,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "A M\u00ed y a Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "A M\u00ed y a Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "No Valgo Pa' Ciudad",
-        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "No Valgo Pa' Ciudad",
-      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Sonre\u00edr (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/2VCywjBXVt95NBSE2QsT80"
       },
@@ -1035,6 +1003,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "A M\u00ed y a Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "A M\u00ed y a Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 224600,
       "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
       "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "No Valgo Pa' Ciudad",
+        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "No Valgo Pa' Ciudad",
+      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Chiste",
-        "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Chiste",
-      "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "desde que estas en mi vida",
         "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
       },
@@ -1147,6 +1131,38 @@
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Chiste",
+        "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Chiste",
+      "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
-      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
+      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Para Amarte Mejor",
-        "url": "https://open.spotify.com/album/3eWJK3Ina0YU2DxDkGXLw9"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 220264,
-      "name": "Pronostico",
-      "url": "https://open.spotify.com/track/3EFx1JzjOdJQCd6FypuAmh"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Mp3",
         "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Para Amarte Mejor",
+        "url": "https://open.spotify.com/album/3eWJK3Ina0YU2DxDkGXLw9"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 220264,
+      "name": "Pronostico",
+      "url": "https://open.spotify.com/track/3EFx1JzjOdJQCd6FypuAmh"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Los Cuatro Actos Ac\u00fasticos",
+        "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 260709,
+      "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Los Cuatro Actos Ac\u00fasticos",
-        "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 260709,
-      "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Fin de Semana (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2sDPTOHNSGI8rNW1dp7LE9"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Fin de Semana - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0elyc56ZNt08SLbg6m3y0B"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Mocca",
         "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
       },
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Underdog (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
+        "name": "Fin de Semana (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2sDPTOHNSGI8rNW1dp7LE9"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 210848,
-      "name": "Underdog - Acoustic Version",
-      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
+      "duration_ms": 150000,
+      "name": "Fin de Semana - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0elyc56ZNt08SLbg6m3y0B"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1867,6 +1851,22 @@
       "duration_ms": 174106,
       "name": "Amanec\u00ed Nublado",
       "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Underdog (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Underdog - Acoustic Version",
+      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Hasta Que Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
-      },
-      "artists": [
-        {
-          "name": "Juliana Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
-        }
-      ],
-      "duration_ms": 191052,
-      "name": "Hasta Que Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Me Quem\u00e9",
         "url": "https://open.spotify.com/album/7gG7dzmR1LeATBwmf1vHh4"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 250200,
       "name": "Me Quem\u00e9",
       "url": "https://open.spotify.com/track/2HqDV3t9ImPT7P9UWVNRzz"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Hasta Que Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
+      },
+      "artists": [
+        {
+          "name": "Juliana Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
+        }
+      ],
+      "duration_ms": 191052,
+      "name": "Hasta Que Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Siempre Cerca (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 189654,
-      "name": "Siempre Cerca - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "#ElMundoFuera (Improvisaci\u00f3n)",
         "url": "https://open.spotify.com/album/0aeEduveGwn87AfHFnwFPM"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 142436,
       "name": "#ElMundoFuera (Improvisaci\u00f3n)",
       "url": "https://open.spotify.com/track/7HqU2puNgziwgTZ7NcVKlY"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Siempre Cerca (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 189654,
+      "name": "Siempre Cerca - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK"
     },
     {
       "added_at": "2023-03-24 04:00:00",

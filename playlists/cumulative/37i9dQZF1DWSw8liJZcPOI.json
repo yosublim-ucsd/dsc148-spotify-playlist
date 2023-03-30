@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 127995,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
@@ -3870,6 +3870,24 @@
       "duration_ms": 392791,
       "name": "Klass",
       "url": "https://open.spotify.com/track/4YKGgZIimpmpWNKcfsaKEq"
+    },
+    {
+      "album": {
+        "name": "Sensibus",
+        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392791,
+      "name": "Klass",
+      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
     },
     {
       "album": {

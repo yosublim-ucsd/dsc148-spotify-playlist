@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-256 songs - 15 hr 14 min
+257 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Easier](https://open.spotify.com/track/3nATeGcFdtkhpUrRvgr667) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Easier](https://open.spotify.com/album/0teTj8UrrJJEnNMX3eoq4Z) | 4:32 | 2020-11-04\* | 2021-10-20 |
 | [Easier](https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 4:32 | 2022-04-29 |  |
 | [Easier](https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 4:32 | 2022-04-29 | 2022-09-15 |
+| [Edge of the Dark](https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 4:20 | 2023-01-11 |  |
 | [Edge Of The Dark](https://open.spotify.com/track/58gDdlyKqLodYDcFtgZb3P) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Edge Of The Dark](https://open.spotify.com/album/5VbKG8hWAmPGigkeVOuVN7) | 4:20 | 2021-01-13 | 2022-07-29 |
 | [Edge Of The Dark](https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 4:20 | 2022-04-29 | 2023-03-22 |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Emotion feat\. Wild Nothing](https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH) | 4:05 | 2021-01-08 | 2022-07-29 |
@@ -254,7 +255,7 @@
 | [Who Knows](https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Bless You](https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr) | 2:31 | 2022-04-29 |  |
 | [Why](https://open.spotify.com/track/3pr6oJh5ypTefpVnxHAcsP) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Why](https://open.spotify.com/album/4QihSvriLLNUwVd4R0gTi9) | 4:03 | 2020-11-04\* | 2022-07-29 |
 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 | 2020-11-04\* |  |
-| [Winter/Fall](https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [The Mathematics of Nature](https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W) | 6:03 | 2020-11-17 |  |
+| [Winter/Fall](https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [The Mathematics of Nature](https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W) | 6:03 | 2020-11-17 | 2023-03-30 |
 | [Wishful Thinking](https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Wishful Thinking](https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO) | 3:20 | 2020-11-04\* | 2021-10-20 |
 | [Without You \- Jim\-E Stack Remix](https://open.spotify.com/track/0WOsGA4a7Rio2t0osKmYVa) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [IMMEDIATELY Remixes](https://open.spotify.com/album/1oh5P9Y4FPIFzgw0spUWMk) | 3:22 | 2020-12-04 | 2020-12-05 |
 | [Without You \- Jim\-E Stack Remix](https://open.spotify.com/track/6imeB9iHkhAj0Q5sAAANB3) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Without You \(Jim\-E Stack Remix\)](https://open.spotify.com/album/4qbjENaRwM7wFUmQqKjYrg) | 3:22 | 2021-01-08 | 2022-07-29 |

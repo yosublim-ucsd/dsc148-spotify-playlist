@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Alfonsina.
 
-87 songs - 5 hr 24 min
+88 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Futuro Perfecto](https://open.spotify.com/track/4qDeQ3x0NRbRWCBhhKr6YA) | [Tú No Existes](https://open.spotify.com/artist/6oKGdMwqEVmL5B0N2Jbk3B), [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [Futuro Perfecto Futuro](https://open.spotify.com/album/6uFyFgjOu7Bn4dfK05M1Fo) | 3:00 | 2023-03-17 | 2023-03-25 |
 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 | 2023-03-17 |  |
 | [hambre](https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [mondomamba](https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS) | 3:32 | 2023-03-17 |  |
+| [Hasta el Final](https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Hasta el Final](https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY) | 2:49 | 2023-03-17 |  |
 | [Hondo](https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:57 | 2023-03-17 |  |
 | [HYPERREAL](https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:00 | 2023-03-17 |  |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2023-03-17 |  |
@@ -69,7 +70,7 @@
 | [Poca Suerte](https://open.spotify.com/track/555uSzxhjD72TQBEoPOfYT) | [Ankli](https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI) | [Poca Suerte](https://open.spotify.com/album/2l2H7FsHYM9ckXARryi4yz) | 2:52 | 2023-03-17 |  |
 | [PSICURA](https://open.spotify.com/track/08rHr2Hh3hVHfvQll5bFLk) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [PSICURA](https://open.spotify.com/album/0Tk9AUF3GEQP9wyjAndHlY) | 3:22 | 2023-03-17 |  |
 | [pulso](https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [pulso/yotuoro](https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme) | 2:45 | 2023-03-17 |  |
-| [Quemándome al Sol](https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y) | [Axel Krygier](https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF) | [Quemándome al Sol](https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh) | 3:21 | 2023-03-17 |  |
+| [Quemándome al Sol](https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y) | [Axel Krygier](https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF) | [Quemándome al Sol](https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh) | 3:21 | 2023-03-17 | 2023-03-30 |
 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2023-03-17 |  |
 | [Quisiera Que Estés Acá](https://open.spotify.com/track/6ykcUdGzVRqXRri3JqgLm8) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Quisiera Que Estés Acá](https://open.spotify.com/album/7h8hyIl17lK83coCU4SlsL) | 4:50 | 2023-03-17 |  |
 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 | 2023-03-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 35199,
+  "num_followers": 35316,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMDMzZGU4YTkwNDgyNDdjODVmOWYxZmRiY2E3ZjllYzMz",
+  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMDUyMDIyMjMyODM2YjljMzYyOWExZDEzYmMzY2U1NWE0",
   "tracks": [
     {
       "added_at": "2022-08-01 23:22:41",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 165341,
-      "name": "Mi Caballo Pobre",
-      "url": "https://open.spotify.com/track/0hCaxniPSCPipFun8KJ6uu"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165341,
+      "name": "Mi Caballo Pobre",
+      "url": "https://open.spotify.com/track/0hCaxniPSCPipFun8KJ6uu"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -1152,7 +1152,7 @@
       "added_at": "2022-08-01 23:22:41",
       "album": {
         "name": "Los Viejitos",
-        "url": "https://open.spotify.com/album/5tld9xZvr1q3oiUdmP2NsU"
+        "url": "https://open.spotify.com/album/5FuC4XGFsNQZXUf84B3jGx"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
         }
       ],
-      "duration_ms": 200280,
+      "duration_ms": 200281,
       "name": "Yegua Sebruna",
-      "url": "https://open.spotify.com/track/7gSZDWpZIdWvhuXHtFE1Xe"
+      "url": "https://open.spotify.com/track/2TPR91U0kO62ZXei7JYSRD"
     },
     {
       "added_at": "2022-08-01 23:22:41",

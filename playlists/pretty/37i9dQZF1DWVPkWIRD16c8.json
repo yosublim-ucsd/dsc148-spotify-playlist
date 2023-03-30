@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 47521,
+  "num_followers": 47831,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc5NiwwMDAwMDAwMGY2NjMxNWE1NzRkNDFiNWNjZGIyNmRjNDhjYzZkMjZk",
+  "snapshot_id": "MTY3NTc5MTc5NiwwMDAwMDAwMGVhZTY1NTNlYzVmZWRkYzE3YThlMWFlYWYyZDBlYmI1",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 244786,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Ready to Fly",
         "url": "https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 267333,
       "name": "When We Fall Apart",
       "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Even Louder",
         "url": "https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 209647,
       "name": "Even Louder",
       "url": "https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
     },
     {
       "added_at": "2023-02-07 17:43:16",

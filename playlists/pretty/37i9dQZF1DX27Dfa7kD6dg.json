@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 17163,
+  "num_followers": 17197,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMGI5ZTg1Y2ZhNjZlOWY0MWVjM2EzY2I3ZGNiNTFmZGQw",
+  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMDI4MTE3Y2Q0ZGE2NjRiNWY3MGFkYWRjNGU4OTRlNWZm",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
         }
       ],
-      "duration_ms": 163386,
-      "name": "A Las Seis",
-      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
+      "duration_ms": 234960,
+      "name": "Llanto De Cocodrilo",
+      "url": "https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Llanto De Cocodrilo",
-      "url": "https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu"
+      "duration_ms": 163386,
+      "name": "A Las Seis",
+      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Esenciales Vol\u00famen I",
-        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "A El",
-      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Esenciales Vol\u00famen I",
+        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "A El",
+      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Live in Berlin",
+        "url": "https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi"
+      },
+      "artists": [
+        {
+          "name": "Vocal Sampling",
+          "url": "https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "La Negra Tomasa",
+      "url": "https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Two Brothers Two Legends",
         "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 418880,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/1Y53t2ucYs8CUMsUkwBZTA"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Live in Berlin",
-        "url": "https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi"
-      },
-      "artists": [
-        {
-          "name": "Vocal Sampling",
-          "url": "https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "La Negra Tomasa",
-      "url": "https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1451,22 +1451,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
-        "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
+        "name": "Hecho Y Derecho",
+        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
       },
       "artists": [
         {
-          "name": "La Playa Sextet",
-          "url": "https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn"
-        },
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 173046,
-      "name": "Me Voy Pa Las Villas",
-      "url": "https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh"
+      "duration_ms": 167331,
+      "name": "Hecho Y Derecho",
+      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1491,18 +1487,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Hecho Y Derecho",
-        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
+        "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
+        "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "La Playa Sextet",
+          "url": "https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn"
+        },
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 167331,
-      "name": "Hecho Y Derecho",
-      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
+      "duration_ms": 173046,
+      "name": "Me Voy Pa Las Villas",
+      "url": "https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "The Best Of The Concord Years",
-        "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 315986,
-      "name": "Tokyo Blues",
-      "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "From Hollywood",
         "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 172226,
       "name": "Cuando Sale El Sol",
       "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "The Best Of The Concord Years",
+        "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 315986,
+      "name": "Tokyo Blues",
+      "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+        "name": "Instant Party",
+        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
       },
       "artists": [
         {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
+      "duration_ms": 346520,
+      "name": "Fiesta A La King",
+      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Instant Party",
-        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 346520,
-      "name": "Fiesta A La King",
-      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
     },
     {
       "added_at": "2023-03-17 00:52:56",

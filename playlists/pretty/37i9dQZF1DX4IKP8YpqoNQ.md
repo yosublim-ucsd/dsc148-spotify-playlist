@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,335 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,343 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 41 | [Blackbird \(Live\)](https://open.spotify.com/track/2XTIXLumlviDE2eP0SpxEj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Recording Oasis](https://open.spotify.com/album/2wT5rThNPLGqxKGyKUjvjK) | 6:55 |
 | 42 | [Distant Lover \- Live At Oakland Coliseum, CA/1974](https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 6:14 |
 | 43 | [Ain't Nobody \- Live](https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Homecoming \(Live\)](https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY) | 6:14 |
-| 44 | [For My Friend \- Live at Carnegie Hall, New York, NY \- October 1972](https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Bill Withers Live At Carnegie Hall](https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx) | 3:01 |
-| 45 | [That's Life \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:07 |
+| 44 | [That's Life \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:07 |
+| 45 | [For My Friend \- Live at Carnegie Hall, New York, NY \- October 1972](https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Bill Withers Live At Carnegie Hall](https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx) | 3:01 |
 | 46 | [Compared to What \- Live](https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII) | [Eddie Harris](https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Compared to What](https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3) | 8:43 |
 | 47 | [Ascension \(Don't Ever Wonder\) \- Live from MTV Unplugged, Brooklyn, NY \- May 1997](https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [MTV Unplugged](https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs) | 5:10 |
 | 48 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 97 | [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 |
 | 98 | [Sunshine "I Can Fly" \(Live\)](https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Invisible Chains Live from Nyc](https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9) | 9:32 |
 | 99 | [You're Gonna Miss Your Candy Man \- Live](https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Alive \(Live At the Jazz Cafe, London\)](https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie) | 6:53 |
-| 100 | [California Dreamin' \- Live In Hollywood / 1968](https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Womack Live](https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A) | 6:06 |
+| 100 | [What Is Hip? \- Live Version](https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Live And In Living Color](https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK) | 6:34 |
 
-Snapshot ID: `MTY3MzI2OTc4NCwwMDAwMDAwMDY2Y2ZkMjEyODlhYjYwNjZmYjYxNjIwNDNmZTYyMzRl`
+Snapshot ID: `MTY3MzI2OTc4NCwwMDAwMDAwMDc3YjYzZWQ1NzE3NTYwYmY2NWFlYzFkNDU2ZjcxNTAw`

@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: GAYLE
 
-589 songs - 1 day 6 hr 46 min
+590 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-17 |  |
 | [Pretend](https://open.spotify.com/track/6L0CV2dKwROWygdfPUXKI2) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Let's Go Camping](https://open.spotify.com/album/4hKEjXh28wr4AcWB2FBZ6Q) | 3:02 | 2022-03-24 | 2022-04-16 |
 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 | 2023-03-24 |  |
-| [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-03-24 |  |
+| [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-03-24 | 2023-03-30 |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-03-24 | 2022-07-25 |
 | [Rabbit Hole](https://open.spotify.com/track/52rCBUn3IYm7hkx8D9JdZp) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Rabbit Hole](https://open.spotify.com/album/3bqlnUrivsl8p5iCCTDZOy) | 3:03 | 2022-03-24 | 2022-04-18 |
 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 | 2022-03-24 | 2023-03-18 |
@@ -554,6 +554,7 @@
 | [Twinkle Twinkle](https://open.spotify.com/track/6290tINYizQ2bc3QF6p8gA) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Twinkle Twinkle](https://open.spotify.com/album/4PqwdolF10E6xogoo5OeKT) | 3:31 | 2022-03-24 | 2022-03-28 |
 | [Two Faces](https://open.spotify.com/track/3QFN0Ke11xofOBk8ceWq5d) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Two Faces](https://open.spotify.com/album/5zzPiSwhDRnnwmyIzaOX9s) | 2:41 | 2022-10-06 | 2022-10-15 |
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2023-03-17 |  |
+| [ugly](https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [ugly](https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve) | 2:53 | 2023-03-24 |  |
 | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/track/2qP3VifO2gnLn7sj5md688) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/album/1xeTGwmriV3NHmNgMzvPav) | 2:57 | 2022-03-24 | 2022-04-17 |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2022-03-24 | 2022-04-10 |
 | [Up From A Dream](https://open.spotify.com/track/3MKdPWUmCXymXVGKf2Njdr) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:17 | 2022-03-24 | 2022-04-16 |

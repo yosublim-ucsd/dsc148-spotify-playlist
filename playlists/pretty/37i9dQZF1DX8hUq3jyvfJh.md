@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mulheres inspiradoras para serem ouvidas no volume máximo\. Co\-curada por Pitty para o Dia Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,286 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,419 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 29 | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5) | 4:29 |
 | 30 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 |
 | 31 | [Agora Só Falta Você \- Acústico MTV](https://open.spotify.com/track/60pTIQ2Jxoa7KQjFYaND6r) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 3:46 |
-| 32 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 |
-| 33 | [Rasta](https://open.spotify.com/track/3xOxeGRwF4p5fg56wE28al) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sal](https://open.spotify.com/album/5ANLgj5VLYICZwGRE7AXZ7) | 3:26 |
+| 32 | [Rasta](https://open.spotify.com/track/3xOxeGRwF4p5fg56wE28al) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sal](https://open.spotify.com/album/5ANLgj5VLYICZwGRE7AXZ7) | 3:26 |
+| 33 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 |
 | 34 | [De Bem Com a Vida](https://open.spotify.com/track/5nde1CDQLLmlRA6gOQTJlv) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Desse Jeito](https://open.spotify.com/album/5vTAwzNFPDnU2F1UmWQdXE) | 3:25 |
 | 35 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 36 | [Sorte ou Azar](https://open.spotify.com/track/38eUhDp3Q5BxmEczil8VAJ) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Sorte ou Azar](https://open.spotify.com/album/6Nq7EtHA1PBTpRsGpvELWf) | 2:40 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 41 | [Paraíso](https://open.spotify.com/track/5qIHD6tx7bb0iLKg5GccWw) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO), [Bella Kahun](https://open.spotify.com/artist/6HBV7RzsoXsLeNMvkh1raa) | [Paraíso](https://open.spotify.com/album/7jNNEGtVZQVmUVkYSrhulP) | 2:53 |
 | 42 | [Acaju](https://open.spotify.com/track/5SCReoV8dNKom85Q3hAemm) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Sangria Desatada](https://open.spotify.com/album/3tynaefUfaQJF5lI9WEhPC) | 2:42 |
 | 43 | [Lascívia](https://open.spotify.com/track/5x1042l2BVF1MESdXalow8) | [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [Será Só Aos Ares](https://open.spotify.com/album/4rDkMr3eOwRcfeXDTojMTq) | 2:29 |
-| 44 | [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 |
-| 45 | [Dois Dedim](https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 5:14 |
+| 44 | [Dois Dedim](https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 5:14 |
+| 45 | [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 |
 | 46 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
 | 47 | [ladoAlado](https://open.spotify.com/track/6dsq7QmWHd0cMde7WqEoUN) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [ÀdeusdarÁ](https://open.spotify.com/album/1DTQyqb5YW6aqf1q8ql6M6) | 3:16 |
 | 48 | [Salcity](https://open.spotify.com/track/2pBwl6sv6nSQ9mg2HJCoK5) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Sagrada e Profana](https://open.spotify.com/album/6L6ZkI7Rd5iiHCvTvDkRTv) | 2:07 |
 | 49 | [Sobre Você](https://open.spotify.com/track/0cmZ24itg3Hh50jJblbz4m) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS) | [A Insanidade](https://open.spotify.com/album/3wzswapC3piBrbqmlMgL6t) | 2:54 |
 | 50 | [Nunca foi descaso \(feat\. Gab Ferreira\)](https://open.spotify.com/track/4lHDZCW0Ve2DItNdEDxKGw) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de carta](https://open.spotify.com/album/3cT88RfZ2nA2hDrbTm3M9W) | 3:40 |
 
-Snapshot ID: `MTY3ODEzNDQ2MSwwMDAwMDAwMGM3OTNmZjc5MWJiMGNmODY2MGRkOGU2MjA0YmUxYjdk`
+Snapshot ID: `MTY3ODEzNDQ2MSwwMDAwMDAwMDgxOWNlNjdhMTEyYjdlYzFhNjFmODg5Mzc1YTNmMDhk`

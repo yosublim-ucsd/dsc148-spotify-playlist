@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 29644,
+  "num_followers": 29656,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzMyMDg1NSwwMDAwMDAwMGFhZjdkODg2N2RmYTUyYTIyZjk5N2JjNjBiOTQwMmY4",
+  "snapshot_id": "MTY3MzMyMDg1NSwwMDAwMDAwMGE2MWI2ZTQ4OWE2OTNiYjk0NzQ0OTNlYzc1NGU0YjIy",
   "tracks": [
     {
       "added_at": "2023-01-10 03:20:54",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u54ce\u5466 \u4e0d\u932f\u54e6",
-        "url": "https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "\u807d\u898b\u4e0b\u96e8\u7684\u8072\u97f3",
-      "url": "https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "My Story 2006 \u65b0\u6b4c+\u7cbe\u9078",
         "url": "https://open.spotify.com/album/0CJT0kDrNaiSkzFp7DI98g"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 241866,
       "name": "\u96e8\u5929",
       "url": "https://open.spotify.com/track/5tZbcQ5PYID0xB0VNblmrK"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u54ce\u5466 \u4e0d\u932f\u54e6",
+        "url": "https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "\u807d\u898b\u4e0b\u96e8\u7684\u8072\u97f3",
+      "url": "https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
+        "name": "\u7537\u4eba\u7684\u597d \u65b0\u6b4c\u7cbe\u9078\u5f71\u97f3\u5168\u8a18\u9304",
+        "url": "https://open.spotify.com/album/08UGnjCvD6dW7WpR0blLGs"
+      },
+      "artists": [
+        {
+          "name": "Phil Chang",
+          "url": "https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd"
+        }
+      ],
+      "duration_ms": 290306,
+      "name": "\u96e8\u4e00\u76f4\u4e0b",
+      "url": "https://open.spotify.com/track/2qR3vdtESGlvPuiKj7BtM7"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
         "name": "\u8de8\u6642\u4ee3",
         "url": "https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 266106,
       "name": "\u5076\u9663\u96e8",
       "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
-        "name": "\u7537\u4eba\u7684\u597d \u65b0\u6b4c\u7cbe\u9078\u5f71\u97f3\u5168\u8a18\u9304",
-        "url": "https://open.spotify.com/album/08UGnjCvD6dW7WpR0blLGs"
-      },
-      "artists": [
-        {
-          "name": "Phil Chang",
-          "url": "https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd"
-        }
-      ],
-      "duration_ms": 290306,
-      "name": "\u96e8\u4e00\u76f4\u4e0b",
-      "url": "https://open.spotify.com/track/2qR3vdtESGlvPuiKj7BtM7"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "SINGING IN THE RAIN",
-        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 228088,
-      "name": "SINGING IN THE RAIN",
-      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "When I Leave Taipei",
         "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 274212,
       "name": "Rain in Taipei",
       "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "SINGING IN THE RAIN",
+        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "duration_ms": 228088,
+      "name": "SINGING IN THE RAIN",
+      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
-        "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
-      },
-      "artists": [
-        {
-          "name": "Dave Wong",
-          "url": "https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
-      "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u9673\u7dba\u8c9e \u7cbe\u9078",
         "url": "https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 215280,
       "name": "\u96e8\u5929\u7684\u5c3e\u5df4 - \u6eec\u5c3e\u5c0f\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
+        "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
+      },
+      "artists": [
+        {
+          "name": "Dave Wong",
+          "url": "https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
+      "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u5fae\u96e8",
-        "url": "https://open.spotify.com/album/43wEkgik29K31WN42WmlRr"
-      },
-      "artists": [
-        {
-          "name": "\u90b5\u96e8\u8587",
-          "url": "https://open.spotify.com/artist/05PoS1s7QgQDp202WsZ8SP"
-        }
-      ],
-      "duration_ms": 233052,
-      "name": "\u5fae\u96e8",
-      "url": "https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u60f3\u8981\u6dcb\u96e8\u7684\u4eba (\u96fb\u5f71\u300a\u5168\u9762\u653b\u4f543:\u5929\u4f7f\u6551\u63f4\u300b\u4e2d\u6587\u5ba3\u50b3\u66f2)",
         "url": "https://open.spotify.com/album/1NU6x0Fn10YFh0bq0vwgp9"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u5927\u96e8\u904e\u5f8c",
-        "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
+        "name": "\u5fae\u96e8",
+        "url": "https://open.spotify.com/album/43wEkgik29K31WN42WmlRr"
       },
       "artists": [
         {
-          "name": "\u8c9d\u514b\u5c0f\u59d0Miss Bac.",
-          "url": "https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK"
+          "name": "\u90b5\u96e8\u8587",
+          "url": "https://open.spotify.com/artist/05PoS1s7QgQDp202WsZ8SP"
         }
       ],
-      "duration_ms": 247164,
-      "name": "\u5927\u96e8\u904e\u5f8c",
-      "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
+      "duration_ms": 233052,
+      "name": "\u5fae\u96e8",
+      "url": "https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1043,6 +1027,22 @@
       "duration_ms": 250000,
       "name": "\u6700\u611b\u96e8\u5929",
       "url": "https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u5927\u96e8\u904e\u5f8c",
+        "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
+      },
+      "artists": [
+        {
+          "name": "\u8c9d\u514b\u5c0f\u59d0Miss Bac.",
+          "url": "https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK"
+        }
+      ],
+      "duration_ms": 247164,
+      "name": "\u5927\u96e8\u904e\u5f8c",
+      "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
     },
     {
       "added_at": "2023-01-10 03:20:54",

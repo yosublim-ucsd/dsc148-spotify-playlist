@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠
 
-252 songs - 15 hr 10 min
+253 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Sober](https://open.spotify.com/track/2btSEZQYeD2NSiK6JXvFEr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/6pARE4D96LSb7HbXp2xjfY) | 4:12 | 2022-10-26 | 2022-11-14 |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-07-28 | 2022-10-14 |
 | [Some Kind Of Drug \(feat\. Marc E\. Bassy\)](https://open.spotify.com/track/1Bqxj0aH5KewYHKUg1IdrF) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 3:42 | 2019-05-26\* | 2021-02-11 |
+| [Something's Gotta Change](https://open.spotify.com/track/3yXdAGibihmvYZefyetN1S) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:49 | 2023-03-30 |  |
 | [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 | 2022-10-05 |  |
 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 | 2020-12-10 | 2022-11-13 |
 | [Stranglehold](https://open.spotify.com/track/5wYbTyBlqYiCN5vfp0JACL) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Stranglehold](https://open.spotify.com/album/5iDBLTTg35O10FzWV9rBLE) | 3:21 | 2019-05-26\* | 2019-06-19 |
@@ -212,7 +213,7 @@
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2020-10-22 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2019-05-26\* |  |
 | [Take \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5OGs816LFBGj0qS0jY68hL) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Platinum Fire](https://open.spotify.com/album/4urnugBptJMguVYLRgOKqM) | 4:23 | 2020-03-21 | 2020-09-05 |
-| [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2020-10-22 |  |
+| [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2020-10-22 | 2023-03-30 |
 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 | 2021-07-13 | 2022-07-29 |
 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2022-07-28 |  |
 | [Teenage Fever](https://open.spotify.com/track/5ACkknqH2GcrVtmBB7LaRv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/7Ix0FS4f1lK42C3rix5rHg) | 3:39 | 2019-06-19\* | 2022-07-29 |

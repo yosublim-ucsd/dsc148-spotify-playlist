@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,928 likes - 146 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,128 likes - 146 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 |
 | 2 | [Departure](https://open.spotify.com/track/75h0fwWf7pVVxreN5NGn1U) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Departure](https://open.spotify.com/album/4amuoVRYpYtpJ2Zzw2KIpz) | 3:35 |
-| 3 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7MKc42QGjmI7HbZYnUokFj) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
+| 3 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
 | 4 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 |
 | 5 | [Starscape](https://open.spotify.com/track/6tIvKwJhiK1VJ9xc0RqCL2) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:16 |
 | 6 | [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 |

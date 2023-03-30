@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 16887,
+  "num_followers": 16924,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NjU5MiwwMDAwMDAwMDQwNGY0ZjMzODUyMDRjZTc2YWE0ZTZkY2RhNWJiNTZk",
+  "snapshot_id": "MTY3OTY3NjU5MiwwMDAwMDAwMDFkMzU2MmFkN2YyODc0NTYxNDljM2Y1MjU0YTE2Mjgz",
   "tracks": [
     {
       "added_at": "2023-03-16 11:24:10",
@@ -119,18 +119,18 @@
     {
       "added_at": "2023-03-16 11:24:10",
       "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2023-03-16 11:24:10",
@@ -151,18 +151,18 @@
     {
       "added_at": "2023-03-16 11:24:10",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2023-03-16 11:24:10",
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
-      "added_at": "2023-03-29 05:07:20",
+      "added_at": "2023-03-30 01:12:51",
       "album": {
         "name": "Let me go",
         "url": "https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS"
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-16 11:24:10",
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2023-03-16 11:24:10",
-      "album": {
         "name": "Bezos",
         "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 168437,
       "name": "Bezos",
       "url": "https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs"
+    },
+    {
+      "added_at": "2023-03-16 11:24:10",
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": "2023-03-16 11:24:10",

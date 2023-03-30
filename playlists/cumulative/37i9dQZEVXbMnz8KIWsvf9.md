@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-576 songs - 1 day 9 hr 52 min
+578 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-04 | 2021-04-16 |
 | [Filter](https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:00 | 2022-04-03 | 2023-01-16 |
 | [Fire](https://open.spotify.com/track/6bYJAOHKCvy9cSEAUR8NvG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:26 | 2023-01-12 | 2023-01-14 |
-| [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2022-11-05 |  |
+| [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2022-11-05 | 2023-03-30 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-19 | 2023-03-07 |
 | [Focus](https://open.spotify.com/track/3OXAycDk6KZnCfYA0LABUr) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:24 | 2021-09-19 | 2021-09-20 |
 | [Follow](https://open.spotify.com/track/2mPdKlD117fYzBo4dgljPN) | [Atom Chanakan](https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw) | [GUM](https://open.spotify.com/album/3XX4Kky17C1qyJ6RaOai28) | 3:23 | 2021-03-27\* | 2021-04-07 |
@@ -195,6 +195,7 @@
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-19 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-11-09 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-14 | 2021-06-27 |
+| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 |  |
 | [Knock On Wood](https://open.spotify.com/track/0c2wKRwXpqSCBrAImEFCNf) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:40 | 2021-08-18 | 2021-08-19 |
 | [Kung Fu](https://open.spotify.com/track/0tofuAPwrPfzajixmn1Ryg) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Kung Fu](https://open.spotify.com/album/2RAiyvUcSRHt0l4Sn3D8PV) | 3:25 | 2021-06-27 | 2021-09-07 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
@@ -487,7 +488,7 @@
 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-10 |  |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2023-02-11 |  |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2022-10-01 |  |
-| [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 | 2023-02-16 |  |
+| [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 | 2023-02-16 | 2023-03-30 |
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/24mB1soS8zLHLG1GK9Hvjd) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/5Crvl5H8eEBKItvGi9W0Yi) | 3:19 | 2021-05-03 | 2021-08-03 |
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/2T3nSum6ofOyHrcRLdEky0) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \[From แปลรักฉันด้วยใจเธอ Part 2\]](https://open.spotify.com/album/6JhqKjkUnaWfTqM8hCQYtd) | 3:19 | 2021-08-03 | 2021-12-09 |
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:19 | 2021-12-09 | 2022-03-21 |
@@ -523,6 +524,7 @@
 | [อยู่ในสาย](https://open.spotify.com/track/1h8WJ1UYHWAwRcXCeBZwiI) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [อยู่ในสาย](https://open.spotify.com/album/7fnb8kYvqLTPHVhvFOnyFi) | 3:42 | 2021-05-21 | 2021-05-30 |
 | [อย่าบอกใครนะ](https://open.spotify.com/track/0xG48CBxqMQoYscjjXwD6v) | [SOYBAD](https://open.spotify.com/artist/0TS3m9e5r7Y8Q1jTxaPxcL) | [SOYBAD Vol.1](https://open.spotify.com/album/27U0eRZQHyEe0nkmy3zQby) | 4:48 | 2021-03-27\* | 2021-04-04 |
 | [อย่าอยู่เลย](https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [อย่าอยู่เลย](https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK) | 3:46 | 2022-08-27 | 2022-09-18 |
+| [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 | 2023-03-29 |  |
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2022-01-28 | 2022-07-03 |
 | [อีกนิดเดียว](https://open.spotify.com/track/4ixPZeYNdk0eMTQGZxRPsr) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [อีกนิดเดียว](https://open.spotify.com/album/3YcZNdrjPP6AeFhazOcSab) | 3:41 | 2022-05-23 | 2022-05-31 |
 | [อ๋อค่ะ](https://open.spotify.com/track/1XlaKSyICVO45By6Gf1CjM) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [อ๋อค่ะ](https://open.spotify.com/album/7CEY36trH9lWieeGRzTOgb) | 4:12 | 2022-07-22 | 2022-08-09 |

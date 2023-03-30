@@ -4,7 +4,7 @@
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 麗英
 
-85 songs - 4 hr 58 min
+88 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Heliophilia](https://open.spotify.com/track/5sdHAHheWG3yawGgHaiJK8) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Andy Schaub](https://open.spotify.com/artist/5KZ7KYFN2V4fl7RHr7oH0S) | [Heliophilia](https://open.spotify.com/album/7cfWi1DBMfXFsRhCKLVRI5) | 3:09 | 2022-11-10 |  |
 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 | 2022-05-26 |  |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-24 |
-| [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-05-26 |  |
+| [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-05-26 | 2023-03-30 |
+| [Hypocrite](https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j) | 3:20 | 2023-03-23 |  |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 |  |
 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 | 2022-09-01 |  |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-09-08 |  |
@@ -56,7 +57,8 @@
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-08-18 |  |
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-02-23 |  |
 | [where we go is home](https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [where we go is home](https://open.spotify.com/album/5Jah63TSuIbHS52XXQVSKj) | 4:12 | 2023-02-16 |  |
-| [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 |  |
+| [WHO A U ?](https://open.spotify.com/track/1niM8dlyurDRTsrQCMKMiB) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [WHO A U ?](https://open.spotify.com/album/0Lc6Tipv0n7tiBbI880STO) | 3:22 | 2023-03-23 |  |
+| [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 | 2023-03-30 |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-08-18 |  |
 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 | 2022-08-04 |  |
 | [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 | 2022-07-28 |  |
@@ -80,7 +82,8 @@
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 |  |
 | [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 |  |
 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 | 2022-05-26 |  |
-| [無恙](https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/5xeX4hzucOx2sh7BNWxN0S) | 3:35 | 2022-05-26 |  |
+| [無恙](https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/5xeX4hzucOx2sh7BNWxN0S) | 3:35 | 2022-05-26 | 2023-03-30 |
+| [無恙](https://open.spotify.com/track/5wBEfArISjXabZSDcg1vfV) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/1hXG3QL5UbDDVZBzeGKWK0) | 3:35 | 2023-03-23 |  |
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-05-26 |  |
 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 | 2022-05-26 |  |
 | [神話](https://open.spotify.com/track/2LghoR88w97O8Szz4AKJWk) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:33 | 2022-12-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 173544,
+  "num_followers": 173666,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMjMxMSwwMDAwMDAwMDU4OTdlNTA4ZDI1N2YxOTI1MzI5NjI1ZWY5ZDk0ZjNh",
+  "snapshot_id": "MTY3OTAxMjMxMSwwMDAwMDAwMGQwZTBkYmZiNWI2M2FjN2E2ZmYzNWM2YjgyNjhlYzU5",
   "tracks": [
     {
       "added_at": "2023-03-17 00:18:30",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Afro Choro",
+        "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 298014,
+      "name": "Afro Choro",
+      "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "Sorte!",
         "url": "https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 291729,
       "name": "Sorte!",
       "url": "https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Afro Choro",
-        "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 298014,
-      "name": "Afro Choro",
-      "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1083,6 +1083,38 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Depressa a Vida Passa",
+        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
+      },
+      "artists": [
+        {
+          "name": "Renato Braz",
+          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
+        }
+      ],
+      "duration_ms": 293560,
+      "name": "Depressa a Vida Passa",
+      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "O Melhor Carinho",
+        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
+      },
+      "artists": [
+        {
+          "name": "Elisa Gudin",
+          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
+        }
+      ],
+      "duration_ms": 193324,
+      "name": "O Melhor Carinho",
+      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
         "url": "https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn"
       },
@@ -1111,38 +1143,6 @@
       "duration_ms": 275370,
       "name": "Perto do Tom",
       "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "O Melhor Carinho",
-        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
-      },
-      "artists": [
-        {
-          "name": "Elisa Gudin",
-          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
-        }
-      ],
-      "duration_ms": 193324,
-      "name": "O Melhor Carinho",
-      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Depressa a Vida Passa",
-        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
-      },
-      "artists": [
-        {
-          "name": "Renato Braz",
-          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
-        }
-      ],
-      "duration_ms": 293560,
-      "name": "Depressa a Vida Passa",
-      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Tin Tin Por Tin Tin",
+        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 140112,
+      "name": "Tin Tin Por Tin Tin",
+      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "Palavra Alada 1",
         "url": "https://open.spotify.com/album/7k4B1RcDhKchDEBccyEuc0"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 194576,
       "name": "Maria e o Samba",
       "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Tin Tin Por Tin Tin",
-        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 140112,
-      "name": "Tin Tin Por Tin Tin",
-      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1443,6 +1443,38 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
+      },
+      "artists": [
+        {
+          "name": "Francis Hime",
+          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Samba Dolente",
+      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Media\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
+      },
+      "artists": [
+        {
+          "name": "Bossa Brothers",
+          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
+        }
+      ],
+      "duration_ms": 151109,
+      "name": "Media\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "O Anel - Ala\u00edde Costa Canta Jos\u00e9 Miguel Wisnik",
         "url": "https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy"
       },
@@ -1475,34 +1507,18 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Media\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX"
       },
       "artists": [
         {
-          "name": "Bossa Brothers",
-          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
+          "name": "Isaac Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2"
         }
       ],
-      "duration_ms": 151109,
-      "name": "Media\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
-      },
-      "artists": [
-        {
-          "name": "Francis Hime",
-          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Samba Dolente",
-      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+      "duration_ms": 209254,
+      "name": "Encanto",
+      "url": "https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1527,22 +1543,6 @@
       "duration_ms": 226653,
       "name": "Terra do Nunca",
       "url": "https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX"
-      },
-      "artists": [
-        {
-          "name": "Isaac Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2"
-        }
-      ],
-      "duration_ms": 209254,
-      "name": "Encanto",
-      "url": "https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Terra Papagali Coffee Shop",
-        "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
-      },
-      "artists": [
-        {
-          "name": "Piero Bianchi",
-          "url": "https://open.spotify.com/artist/4D5VxntFo9nJEFxiVgALVy"
-        },
-        {
-          "name": "Ricardo Chacon",
-          "url": "https://open.spotify.com/artist/5mHugJovhQFoVL1PTsunXU"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Allora Allor",
-      "url": "https://open.spotify.com/track/6bNE6tP41XZAEAiYV9Rq0X"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "Navegante - Dudu Sperb Recebe Guinga",
         "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
@@ -1655,18 +1635,22 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
-        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
+        "name": "Terra Papagali Coffee Shop",
+        "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
       },
       "artists": [
         {
-          "name": "Vitto Meirelles",
-          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
+          "name": "Piero Bianchi",
+          "url": "https://open.spotify.com/artist/4D5VxntFo9nJEFxiVgALVy"
+        },
+        {
+          "name": "Ricardo Chacon",
+          "url": "https://open.spotify.com/artist/5mHugJovhQFoVL1PTsunXU"
         }
       ],
-      "duration_ms": 145974,
-      "name": "Esse Ano",
-      "url": "https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e"
+      "duration_ms": 155586,
+      "name": "Allora Allor",
+      "url": "https://open.spotify.com/track/6bNE6tP41XZAEAiYV9Rq0X"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1683,6 +1667,22 @@
       "duration_ms": 187905,
       "name": "Seres Incriveis",
       "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
+        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
+      },
+      "artists": [
+        {
+          "name": "Vitto Meirelles",
+          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
+        }
+      ],
+      "duration_ms": 145974,
+      "name": "Esse Ano",
+      "url": "https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e"
     },
     {
       "added_at": "2023-03-17 00:18:30",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 418605,
+  "num_followers": 418931,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDczNjFmZmM5NjM3NWI0ZWRkOTU1OGVmYjFlNWZkMzhh",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGZlNWI0NzQ3MWYwMDI4NzUxNjdhMGY4NGM2MTZhYmQw",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Bala Desejo",
-          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Toda Beleza",
-      "url": "https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 237696,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Toda Beleza",
+      "url": "https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa"
     },
     {
       "added_at": "2023-03-17 03:00:00",

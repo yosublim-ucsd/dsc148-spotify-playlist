@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX?si=OpJVbnKfTYOXqIq0QVMsnw"> Zenesoul </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,296 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,309 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

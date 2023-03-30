@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-577 songs - 1 day 0 hr 32 min
+578 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 | 2022-05-27 |  |
 | [Lavender](https://open.spotify.com/track/7cMwmMmh2RRtGv1jl3QPUH) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Lavender](https://open.spotify.com/album/0ydbZvW2I6oagnbyzvYg15) | 2:56 | 2022-05-27 | 2022-09-24 |
 | [Le crépuscule](https://open.spotify.com/track/7EFwlg7IwnYdrfNCYCOGDd) | [Pascale Perrot](https://open.spotify.com/artist/11nSedLZI37ACQ8UjQEzx1) | [Le crépuscule](https://open.spotify.com/album/1cAX6wAWRCGmWOez2FkJkK) | 2:10 | 2022-05-27 |  |
-| [Legendary Love](https://open.spotify.com/track/3JXtJtFkP8gVIl3BM2ajr5) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Legendary Love](https://open.spotify.com/album/68T3xbvdcXwFTpgdYmyUYk) | 3:07 | 2022-05-27 |  |
+| [Legendary Love](https://open.spotify.com/track/3JXtJtFkP8gVIl3BM2ajr5) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Legendary Love](https://open.spotify.com/album/68T3xbvdcXwFTpgdYmyUYk) | 3:07 | 2022-05-27 | 2023-03-30 |
 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 | 2022-05-27 |  |
 | [Lemons In London](https://open.spotify.com/track/4NEIlZgVYb3lwN81SgxcJV) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Lemons In London](https://open.spotify.com/album/3ssXGJlbEKzfnqNoHFOJ5S) | 1:52 | 2022-05-27 | 2022-09-24 |
 | [Lengsel](https://open.spotify.com/track/4WuGpmpj59tVhWViIt3INY) | [Evi Wagner](https://open.spotify.com/artist/2uUdiJyD6MYNSG4cINVWKe) | [Lengsel](https://open.spotify.com/album/1XRvcSKhtiSa8OG0fSx724) | 2:29 | 2022-05-27 | 2022-07-21 |
@@ -504,6 +504,7 @@
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2022-05-27 |  |
 | [The Porch Swing](https://open.spotify.com/track/4Be7nKSjLG0iWmt0OJXEks) | [Billie Ivory](https://open.spotify.com/artist/6GtWlyQC6QxNGW1w3EQVpx) | [The Porch Swing](https://open.spotify.com/album/0abQ6KRfx1mMUwH73fFW99) | 2:09 | 2022-05-27 | 2022-07-21 |
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-02-20 |  |
+| [They'll be out for us](https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [They'll be out for us](https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ) | 2:17 | 2023-03-20 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2022-05-27 | 2023-03-18 |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2022-05-27 | 2023-03-05 |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2022-05-27 |  |

@@ -13,7 +13,7 @@
 | [Eih Ahebak](https://open.spotify.com/track/0g5EJbRnkDaXyWBhAk7qat) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Eih Ahebak](https://open.spotify.com/album/50KvxvqYsNgNjTSEW3FjEl) | 3:30 | 2021-09-30 | 2022-07-27 |
 | [Eineik](https://open.spotify.com/track/2fIk79ZPj7BB8GCP3m1zl5) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Eineik](https://open.spotify.com/album/2osFjuJ98QiX6TaJQKEQjs) | 6:06 | 2021-09-30 |  |
 | [Fe Gyabek](https://open.spotify.com/track/6g7ebY4CD0cheY6XyoNj9W) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fe Gyabek](https://open.spotify.com/album/7walJCcZWyvkxTIvoyNDAt) | 4:01 | 2021-09-30 | 2022-07-29 |
-| [Fgadt Al Thakira](https://open.spotify.com/track/12gqeV9CVUq2VSRmTlzryV) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fgadt Al Thakira](https://open.spotify.com/album/3mHIufFOqkE6A6FpTltUbj) | 3:26 | 2021-12-30 |  |
+| [Fgadt Al Thakira](https://open.spotify.com/track/12gqeV9CVUq2VSRmTlzryV) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fgadt Al Thakira](https://open.spotify.com/album/3mHIufFOqkE6A6FpTltUbj) | 3:26 | 2021-12-30 | 2023-03-30 |
 | [Galow Ashyaa](https://open.spotify.com/track/7LNkEWfoacjikYGYAZBTTt) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Galow Ashyaa](https://open.spotify.com/album/32KQaOU6xwR1x9uZI6P9kS) | 3:00 | 2022-07-27 |  |
 | [Gorbak Saeed](https://open.spotify.com/track/5Dp8du6nKtWbTQMqzYpL42) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Gorbak Saeed](https://open.spotify.com/album/0RRpkYDzURir0OaObR0nvl) | 6:59 | 2021-09-30 | 2022-07-27 |
 | [Habibti](https://open.spotify.com/track/1Cc4Zi2qrKNNLca6YYTCis) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Habibti](https://open.spotify.com/album/61WR3VmiCSYL65MipDJ0rK) | 3:24 | 2021-09-30 |  |
@@ -66,6 +66,6 @@
 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 | 2021-09-30 | 2023-03-28 |
 | [يالبعيد](https://open.spotify.com/track/2AytFH0o2V70r3kVvXYaUc) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [يالبعيد](https://open.spotify.com/album/2rBW5WEEjeirM99VclLcVV) | 6:21 | 2021-09-30 |  |
 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 | 2021-09-30 |  |
-| [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 | 2021-09-30 | 2023-03-29 |
+| [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 | 2021-09-30 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

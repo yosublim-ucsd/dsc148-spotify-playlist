@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 185296,
+  "num_followers": 185373,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY2NTk4MSwwMDAwMDAwMGJiNTg5ZWNiYzU4YWNlZDhiMjdkZDM5Zjc1ZDc0ZDMw",
+  "snapshot_id": "MTY3OTY2NTk4MSwwMDAwMDAwMDJiYmVhNzJlN2FhMDVhMDdjOTVhNDVjOGJiZDNlODk5",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -387,22 +387,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "When In Rome",
+          "url": "https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy"
         }
       ],
-      "duration_ms": 234053,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
+      "duration_ms": 220960,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -439,22 +435,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x"
-      },
-      "artists": [
-        {
-          "name": "When In Rome",
-          "url": "https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "By The End Of The Night",
         "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 188562,
       "name": "By The End Of The Night",
       "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+        "name": "An Introduction To Ellie Goulding EP",
+        "url": "https://open.spotify.com/album/2zRzPgu8WPe2uLtppHv5uD"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+      "duration_ms": 244266,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "An Introduction To Ellie Goulding EP",
-        "url": "https://open.spotify.com/album/2zRzPgu8WPe2uLtppHv5uD"
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 244266,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "YOU FEAR THE GOD THAT LOVES YOU",
+        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 147568,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "PIECES",
         "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 147568,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
     },
     {
       "added_at": "2023-03-24 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,479 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,539 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 19 | [Don't Stay Away](https://open.spotify.com/track/2VhVawD5meWiuyI4sL9WAo) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh) | [Love Is All I Had: A Tribute to the Queen of Jamaican Soul](https://open.spotify.com/album/4Op7as0pv5F8nGEu4oR0Cl) | 2:33 |
 | 20 | [Freedom Street](https://open.spotify.com/track/6LbChaXJgm1NmTmWEBoKjg) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99) | 2:47 |
 | 21 | [A.B.C\. Rocksteady](https://open.spotify.com/track/5woVKCevHAbyVp2vPPISH9) | [Gladstone Anderson](https://open.spotify.com/artist/3Z3kWa8uItZfj3a6prijGz), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Glad Sounds](https://open.spotify.com/album/5HX8xcXRhKcrQCWzv3eoLT) | 2:12 |
-| 22 | [I Want to Go Home](https://open.spotify.com/track/2nlZ72XBv9MQOUKbIaBoiq) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [The Trojan: Rocksteady Collection](https://open.spotify.com/album/5qyd5jrhsQhtwyxSZbI9k8) | 2:19 |
+| 22 | [Blow Roland Blow](https://open.spotify.com/track/3HWPrduj1Nv7woSyLV3lDy) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Skatalites & Friends At Randy's](https://open.spotify.com/album/0xXoIWRmo6jchM2Tf1AjDF) | 2:29 |
 | 23 | [Judge Dread](https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Prince Buster \- Fabulous Greatest Hits \[Diamond Range\]](https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc) | 3:38 |
-| 24 | [Blow Roland Blow](https://open.spotify.com/track/3HWPrduj1Nv7woSyLV3lDy) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Skatalites & Friends At Randy's](https://open.spotify.com/album/0xXoIWRmo6jchM2Tf1AjDF) | 2:29 |
+| 24 | [I Want to Go Home](https://open.spotify.com/track/2nlZ72XBv9MQOUKbIaBoiq) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [The Trojan: Rocksteady Collection](https://open.spotify.com/album/5qyd5jrhsQhtwyxSZbI9k8) | 2:19 |
 | 25 | [OK Fred](https://open.spotify.com/track/2uFwTMJkdPPjIzXWsNbG2a) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [O.K Fred](https://open.spotify.com/album/176NRa0L5If0XRPAUWznDx) | 3:45 |
 | 26 | [In the Summertime](https://open.spotify.com/track/5l3HpuhW2UTa13ouM1ugug) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Big Hits](https://open.spotify.com/album/12lWmChSdOo8lMY5kXM17k) | 2:33 |
 | 27 | [Everybody Needs Love](https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 |
 | 50 | [Always Together](https://open.spotify.com/track/5sNukxsSD2RkxS4tVGsUY7) | [Bob Andy & Marcia Griffiths](https://open.spotify.com/artist/7q5akGSVEfg0j8IxgbdLN3) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/3FkTrxRbPBGXrf2y3VlFbc) | 2:45 |
 
-Snapshot ID: `MTY0ODQ5NzUzNiwwMDAwMDAwMDM1Zjc0YzgyNzNiN2U2NTY3MjA0YThlMDdmNWFhYWIz`
+Snapshot ID: `MTY0ODQ5NzUzNiwwMDAwMDAwMDhiNmVmMzUwNGRhNjI2MjUwYzFhNTdiMmU3OTFlYjM4`

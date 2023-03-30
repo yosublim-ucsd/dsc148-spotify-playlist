@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Yerai R & Michelle BI en portada.",
-  "num_followers": 73861,
+  "num_followers": 73936,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMGFiNDdhNTc1YmZhOTM3YzRlMGZkZDhmMjJiMzJmNDQ2",
+  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMDE3NTQyY2M5N2Q3YjFmMjU2ZTgyNzc2NzMwYWYzMzJk",
   "tracks": [
     {
       "added_at": "2023-03-10 06:00:00",
@@ -27,6 +27,46 @@
       "duration_ms": 171153,
       "name": "LMV",
       "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
+    },
+    {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "Correteando Los Billetes",
+        "url": "https://open.spotify.com/album/0P52nbVEjZAZ1W6gO9sTUg"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 207537,
+      "name": "Correteando Los Billetes",
+      "url": "https://open.spotify.com/track/03k7Ho93Tcbkqfl9Yn3N9z"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -51,46 +91,6 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
-    },
-    {
-      "added_at": "2023-03-10 06:00:00",
-      "album": {
-        "name": "Correteando Los Billetes",
-        "url": "https://open.spotify.com/album/0P52nbVEjZAZ1W6gO9sTUg"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 207537,
-      "name": "Correteando Los Billetes",
-      "url": "https://open.spotify.com/track/03k7Ho93Tcbkqfl9Yn3N9z"
-    },
-    {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2023-03-10 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
-    },
-    {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
         "name": "H\u00edbrido",
         "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 174293,
       "name": "H\u00edbrido",
       "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
     },
     {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "En El Refuego",
+        "url": "https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "duration_ms": 184848,
+      "name": "En El Refuego",
+      "url": "https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO"
+    },
+    {
       "added_at": "2023-02-24 06:00:00",
       "album": {
         "name": "Mecha Corta",
@@ -1011,22 +1027,6 @@
       "duration_ms": 205309,
       "name": "Mecha Corta",
       "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
-    },
-    {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "En El Refuego",
-        "url": "https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
-        }
-      ],
-      "duration_ms": 184848,
-      "name": "En El Refuego",
-      "url": "https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO"
     },
     {
       "added_at": "2022-12-02 06:00:00",

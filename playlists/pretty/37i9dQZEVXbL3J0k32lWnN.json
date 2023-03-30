@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 196110,
+  "num_followers": 196124,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMzMzgxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMzNDUyNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "EV1GT&ALT1D",
         "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "For Altid",
         "url": "https://open.spotify.com/album/51xzjew4vgdxS6bkVVfC7X"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0twnZu2JhBywPQBOX92gSl"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
@@ -73,23 +73,7 @@
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "Eyes Closed (Piano Version)",
-        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "OFF",
         "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
@@ -105,7 +89,23 @@
       "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "Eyes Closed (Piano Version)",
+        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -165,39 +165,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "Noget Med Noget",
-        "url": "https://open.spotify.com/album/1AD9rLclpmI9abg4LMYYNH"
-      },
-      "artists": [
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Noget Med Noget",
-      "url": "https://open.spotify.com/track/256J9I7Vp9SiPrUaxPqAw7"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "RTW",
-        "url": "https://open.spotify.com/album/6Q6lhCdjZtPAviBxNHIxhw"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 145925,
-      "name": "RTW",
-      "url": "https://open.spotify.com/track/4kvTPJZYo4qkxtEfTURoxY"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "KNUSTE HJERTER HELER ALDRIG",
         "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
@@ -213,7 +181,7 @@
       "url": "https://open.spotify.com/track/6UMdjOGgEJE1khAnrGJk2k"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Infinity Action: Kult & B-sider",
         "url": "https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A"
@@ -229,7 +197,39 @@
       "url": "https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "RTW",
+        "url": "https://open.spotify.com/album/6Q6lhCdjZtPAviBxNHIxhw"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 145925,
+      "name": "RTW",
+      "url": "https://open.spotify.com/track/4kvTPJZYo4qkxtEfTURoxY"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "Noget Med Noget",
+        "url": "https://open.spotify.com/album/1AD9rLclpmI9abg4LMYYNH"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "Noget Med Noget",
+      "url": "https://open.spotify.com/track/256J9I7Vp9SiPrUaxPqAw7"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "Kronisk Skeptisk",
-        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 140089,
-      "name": "Gode Dage, Gode Drinks",
-      "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -285,7 +269,23 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "Kronisk Skeptisk",
+        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 140089,
+      "name": "Gode Dage, Gode Drinks",
+      "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -301,27 +301,7 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "All In (feat. Lamin)",
-        "url": "https://open.spotify.com/album/5YaoLpCckKTrxe1CDfrI8h"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 176430,
-      "name": "All In (feat. Lamin)",
-      "url": "https://open.spotify.com/track/5PIiJ3kodpPftCM6alodDE"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -341,7 +321,67 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "All In (feat. Lamin)",
+        "url": "https://open.spotify.com/album/5YaoLpCckKTrxe1CDfrI8h"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 176430,
+      "name": "All In (feat. Lamin)",
+      "url": "https://open.spotify.com/track/5PIiJ3kodpPftCM6alodDE"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "Lidt Endnu (Medina x D1MA)",
+        "url": "https://open.spotify.com/album/0IudkxHfRwub8ugNwr3UzN"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        },
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Lidt Endnu (Medina x D1MA)",
+      "url": "https://open.spotify.com/track/0QiwUoiD9DZ6VGF5qgf6yg"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "Hjalmer",
+          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+        }
+      ],
+      "duration_ms": 167850,
+      "name": "Frie Fugle (feat. Hjalmer)",
+      "url": "https://open.spotify.com/track/0OHnyBb5ybSWlNpGrCvDLa"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -361,7 +401,27 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "Starboy (Deluxe)",
+        "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Die For You (with Ariana Grande) - Remix",
+      "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Elo Elo",
         "url": "https://open.spotify.com/album/0x7BDbNbdoXcFcsHrd3lft"
@@ -389,67 +449,39 @@
       "url": "https://open.spotify.com/track/3i0kzCSbAY2kDX2xiJdRLE"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
-        "name": "Lidt Endnu (Medina x D1MA)",
-        "url": "https://open.spotify.com/album/0IudkxHfRwub8ugNwr3UzN"
+        "name": "Terrier",
+        "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
-        },
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
         }
       ],
-      "duration_ms": 197586,
-      "name": "Lidt Endnu (Medina x D1MA)",
-      "url": "https://open.spotify.com/track/0QiwUoiD9DZ6VGF5qgf6yg"
+      "duration_ms": 200500,
+      "name": "Terrier",
+      "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
       },
       "artists": [
         {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "Hjalmer",
-          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 167850,
-      "name": "Frie Fugle (feat. Hjalmer)",
-      "url": "https://open.spotify.com/track/0OHnyBb5ybSWlNpGrCvDLa"
+      "duration_ms": 260388,
+      "name": "ALIVE ALIVE ALIVE",
+      "url": "https://open.spotify.com/track/7JqI6lxV0zDu8wIUYegsGE"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "Starboy (Deluxe)",
-        "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 232857,
-      "name": "Die For You (with Ariana Grande) - Remix",
-      "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Ferrari (D1MA Remix)",
         "url": "https://open.spotify.com/album/5i0B1JwfduRTWXo34U0yoJ"
@@ -473,59 +505,7 @@
       "url": "https://open.spotify.com/track/7tleRLLNqW5yH7846TguuZ"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "Terrier",
-        "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Terrier",
-      "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 260388,
-      "name": "ALIVE ALIVE ALIVE",
-      "url": "https://open.spotify.com/track/7JqI6lxV0zDu8wIUYegsGE"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
@@ -545,7 +525,27 @@
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "DAGLIG DOSIS",
         "url": "https://open.spotify.com/album/6KOcLxccxeq201TdCkJStd"
@@ -561,59 +561,23 @@
       "url": "https://open.spotify.com/track/1ESgWcgtrW1ihRZumDnhop"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
-        "name": "Dit Liv Dit Valg",
-        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+        "name": "ALFABET (ABC)",
+        "url": "https://open.spotify.com/album/37fZ1SkONFJQssZlxx39QN"
       },
       "artists": [
         {
-          "name": "Stepz",
-          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
-        },
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
         }
       ],
-      "duration_ms": 144197,
-      "name": "Jet Li (feat. Benny Jamz)",
-      "url": "https://open.spotify.com/track/4Kwem7PKNogrUOYlAHIbFY"
+      "duration_ms": 158438,
+      "name": "ALFABET (ABC)",
+      "url": "https://open.spotify.com/track/5wtZL3jOm24JwIFZrzLbmc"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "EV1GT&ALT1D",
-        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 253548,
-      "name": "Forsvinder Aldrig",
-      "url": "https://open.spotify.com/track/15QQbeYrlEBsvpumfwFn4X"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 170457,
-      "name": "+45 1888",
-      "url": "https://open.spotify.com/track/3Pj6gzNBqFGI9Z1d9awvU2"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "DR\u00d8M MIG V\u00c6K",
         "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
@@ -629,7 +593,39 @@
       "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "EV1GT&ALT1D",
+        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 253548,
+      "name": "Forsvinder Aldrig",
+      "url": "https://open.spotify.com/track/15QQbeYrlEBsvpumfwFn4X"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 170457,
+      "name": "+45 1888",
+      "url": "https://open.spotify.com/track/3Pj6gzNBqFGI9Z1d9awvU2"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Dit Liv Dit Valg",
         "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
@@ -653,7 +649,7 @@
       "url": "https://open.spotify.com/track/54U7i6gFHvyk8y4j8gTTor"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "V\u00e5gen (Artigeardit X Lamin)",
         "url": "https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx"
@@ -673,23 +669,27 @@
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
-        "name": "ALFABET (ABC)",
-        "url": "https://open.spotify.com/album/37fZ1SkONFJQssZlxx39QN"
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
       },
       "artists": [
         {
-          "name": "Skinz",
-          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
         }
       ],
-      "duration_ms": 158438,
-      "name": "ALFABET (ABC)",
-      "url": "https://open.spotify.com/track/5wtZL3jOm24JwIFZrzLbmc"
+      "duration_ms": 144197,
+      "name": "Jet Li (feat. Benny Jamz)",
+      "url": "https://open.spotify.com/track/4Kwem7PKNogrUOYlAHIbFY"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "L\u00c6NGE LEVE",
         "url": "https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7"
@@ -705,27 +705,7 @@
       "url": "https://open.spotify.com/track/12YCYHtGcwm9kbSmbcWB4f"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "Kronisk Skeptisk",
-        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 178183,
-      "name": "Hvad Skal Der Ske (feat. ICEKIID)",
-      "url": "https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
@@ -741,23 +721,7 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 221811,
-      "name": "Feberdr\u00f8mmer Xx Dubai",
-      "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Hustle & K\u00e6rlighed (feat. KESI & ICEKIID)",
         "url": "https://open.spotify.com/album/5SbOppRfBG2wDQxwap0hHP"
@@ -781,7 +745,43 @@
       "url": "https://open.spotify.com/track/7w07uwsutDZbpnfW4mhYW2"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "Kronisk Skeptisk",
+        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 178183,
+      "name": "Hvad Skal Der Ske (feat. ICEKIID)",
+      "url": "https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 221811,
+      "name": "Feberdr\u00f8mmer Xx Dubai",
+      "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "EV1GT&ALT1D",
         "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Bedre Sent End Aldrig",
         "url": "https://open.spotify.com/album/5ltSOF7fD6ujjdKb3w9QsM"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/43gebe9VUqbC0hEu92HpzZ"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Infinity Action",
         "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
@@ -833,7 +833,23 @@
       "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
+      "album": {
+        "name": "Suave World",
+        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 136710,
+      "name": "Paid",
+      "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
+    },
+    {
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -853,23 +869,7 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
-      "album": {
-        "name": "Suave World",
-        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 136710,
-      "name": "Paid",
-      "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
-    },
-    {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/3fe2pEkW24bNn4WCOt1b0s"
     },
     {
-      "added_at": "2023-03-28 12:08:50",
+      "added_at": "2023-03-29 09:45:05",
       "album": {
         "name": "Held & Lykke Med At Komme Hjem",
         "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"

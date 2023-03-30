@@ -1,12 +1,12 @@
 {
   "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Nie; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 17053,
+  "num_followers": 17089,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkxODQwMCwwMDAwMDAwMDg2MGZiMmM5NjY2NzJkNmJmMDA0Mjc0NzA3ZmU0Y2Zm",
+  "snapshot_id": "MTY4MDA5MTIwMCwwMDAwMDAwMDQyZjZhYmM5Y2Q4ZTIzZDRjZDI4M2E3ZGJmMWQ4Njg0",
   "tracks": [
     {
       "added_at": "2023-03-27 12:00:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-03-27 12:00:00",
       "album": {
-        "name": "T\u00ecnh B\u1eb1ng Kh\u00f4ng",
-        "url": "https://open.spotify.com/album/611J4KG26gSqBMTkDgKfVZ"
-      },
-      "artists": [
-        {
-          "name": "Czee",
-          "url": "https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd"
-        }
-      ],
-      "duration_ms": 249625,
-      "name": "T\u00ecnh B\u1eb1ng Kh\u00f4ng",
-      "url": "https://open.spotify.com/track/21ht6s6XlzisEPTXz0GIzM"
-    },
-    {
-      "added_at": "2023-03-27 12:00:00",
-      "album": {
         "name": "T\u00edn Hi\u1ec7u T\u1eeb Tr\u00e1i Tim",
         "url": "https://open.spotify.com/album/2TRarkutMUlaOAPtEice3r"
       },
@@ -175,22 +159,6 @@
       "duration_ms": 155026,
       "name": "Gh\u00e9 V\u00e0o Tai",
       "url": "https://open.spotify.com/track/3XP9bOhkTumhnp4C9kWgtz"
-    },
-    {
-      "added_at": "2023-03-27 12:00:00",
-      "album": {
-        "name": "H\u1ea0NH PH\u00daC TR\u00d2N",
-        "url": "https://open.spotify.com/album/2Xo823O8Hy7wGUFrQGc9m5"
-      },
-      "artists": [
-        {
-          "name": "Lang T\u0103ng",
-          "url": "https://open.spotify.com/artist/2IWMsFbcKo1eb4gtgCuOmV"
-        }
-      ],
-      "duration_ms": 257174,
-      "name": "H\u1ea1nh ph\u00fac tr\u00f2n",
-      "url": "https://open.spotify.com/track/1ZCCXfXl7FFeYMuMXm4bqn"
     },
     {
       "added_at": "2023-03-27 12:00:00",
@@ -269,6 +237,58 @@
       "url": "https://open.spotify.com/track/2LhXE2daNpLVv9LYXvYm8F"
     },
     {
+      "added_at": "2023-03-29 12:00:00",
+      "album": {
+        "name": "SALANGHAE (feat. Quantran)",
+        "url": "https://open.spotify.com/album/0j0jpJ4lbH03Ff8fnQbdvV"
+      },
+      "artists": [
+        {
+          "name": "stizky",
+          "url": "https://open.spotify.com/artist/79og3sTJllYOuSgQPdtpHM"
+        },
+        {
+          "name": "Quan Tran",
+          "url": "https://open.spotify.com/artist/6f7ELSXEzVJ0GmeOYmELRw"
+        }
+      ],
+      "duration_ms": 144663,
+      "name": "SALANGHAE (feat. Quantran)",
+      "url": "https://open.spotify.com/track/4aMHZJi8oqGFXPK5NmflJv"
+    },
+    {
+      "added_at": "2023-03-29 12:00:00",
+      "album": {
+        "name": "PANADOL",
+        "url": "https://open.spotify.com/album/2vUOgWyIDJW1kzx5k17kGx"
+      },
+      "artists": [
+        {
+          "name": "Meii",
+          "url": "https://open.spotify.com/artist/2ZAYNi4sNWslPjGvtG0qmi"
+        }
+      ],
+      "duration_ms": 152818,
+      "name": "PANADOL",
+      "url": "https://open.spotify.com/track/2G9B5GJOWI8vREC93h52uV"
+    },
+    {
+      "added_at": "2023-03-29 12:00:00",
+      "album": {
+        "name": "Qu\u00ean \u0110i B\u00ecnh Y\u00ean M\u00ecnh T\u1eebng C\u00f3",
+        "url": "https://open.spotify.com/album/79wUh8mxfR8d7ppa48kvw2"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1DsuMvxjjWbfju1FGdcH3w"
+        }
+      ],
+      "duration_ms": 213761,
+      "name": "Qu\u00ean \u0110i B\u00ecnh Y\u00ean M\u00ecnh T\u1eebng C\u00f3",
+      "url": "https://open.spotify.com/track/4RzpvnSDXsknrwH3B8Uagu"
+    },
+    {
       "added_at": "2023-03-27 12:00:00",
       "album": {
         "name": "H\u1eb9n Em \u1ede L\u1ea7n Y\u00eau Th\u1ee9 2",
@@ -339,22 +359,6 @@
     {
       "added_at": "2023-03-27 12:00:00",
       "album": {
-        "name": "V\u00f2ng Xoay",
-        "url": "https://open.spotify.com/album/4rnUxTfcedtf8mMwmrQyFE"
-      },
-      "artists": [
-        {
-          "name": "KoQuet",
-          "url": "https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv"
-        }
-      ],
-      "duration_ms": 176385,
-      "name": "V\u00f2ng Xoay",
-      "url": "https://open.spotify.com/track/6vpBwdPBDQwGmcXSw35RhP"
-    },
-    {
-      "added_at": "2023-03-27 12:00:00",
-      "album": {
         "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i (Piano Version)",
         "url": "https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ"
       },
@@ -407,6 +411,22 @@
       "duration_ms": 151519,
       "name": "V\u00ec Sao Em L\u1ea1i Th\u1ee9c \u0110\u00eam",
       "url": "https://open.spotify.com/track/0333AP2YyQ9x3IDp809S5O"
+    },
+    {
+      "added_at": "2023-03-29 12:00:00",
+      "album": {
+        "name": "ch\u1edd",
+        "url": "https://open.spotify.com/album/6QBN7YlyEjz1FgJZAvJooB"
+      },
+      "artists": [
+        {
+          "name": "m\u1ed1i",
+          "url": "https://open.spotify.com/artist/2rDOa0khaLnzba0zxlwjIX"
+        }
+      ],
+      "duration_ms": 284801,
+      "name": "d\u1ed1c ti\u00ean long",
+      "url": "https://open.spotify.com/track/7s6ovGQrG5gWLvA9lC1bnh"
     },
     {
       "added_at": "2023-03-27 12:00:00",
@@ -631,26 +651,6 @@
       "duration_ms": 211004,
       "name": "Anh \u0110\u1eebng Lo",
       "url": "https://open.spotify.com/track/25nhiKq3gnw6pE3NeQ7uBH"
-    },
-    {
-      "added_at": "2023-03-27 12:00:00",
-      "album": {
-        "name": "Trong \u0110\u00eam T\u1ed1i",
-        "url": "https://open.spotify.com/album/661ZRyHqvdoNlE3JoRRcqd"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/27XJWR2pMOiXrQ5TOpRU6J"
-        },
-        {
-          "name": "fueled by boba",
-          "url": "https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Trong \u0110\u00eam T\u1ed1i",
-      "url": "https://open.spotify.com/track/0wLIVj72V9LDCYnqDfkhU0"
     },
     {
       "added_at": "2023-03-27 12:00:00",

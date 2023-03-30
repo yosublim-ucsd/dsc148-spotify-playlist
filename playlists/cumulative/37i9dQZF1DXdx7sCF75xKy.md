@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: SHN
 
-648 songs - 1 day 13 hr 30 min
+650 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,8 @@
 | [Safe](https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Safe](https://open.spotify.com/album/0B29tKx7e38MjW4NBSvcZF) | 3:30 | 2023-02-28 |  |
 | [Salahku](https://open.spotify.com/track/1cJU7QmOGvTbqssQUDC70K) | [Qis Maraj](https://open.spotify.com/artist/0rRWud0f3XEpYgiHcIiBSv) | [SYG](https://open.spotify.com/album/6zIGgB4pt8LoNAdUtVogfo) | 1:47 | 2023-01-03 | 2023-02-01 |
 | [Sama\-Sama \(Lagu Tema "JUANG"\)](https://open.spotify.com/track/4xJDuICdepVuATjr9Tzph8) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Sama\-Sama \(Lagu Tema "JUANG"\)](https://open.spotify.com/album/0TRMkhbHNMAcyDX5avMlsL) | 4:45 | 2022-09-06 | 2022-10-05 |
-| [Same Sunrise](https://open.spotify.com/track/0MGx8iGZ96saTtNlGFYqll) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:31 | 2023-02-28 |  |
+| [Same Sunrise](https://open.spotify.com/track/0MGx8iGZ96saTtNlGFYqll) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:31 | 2023-02-28 | 2023-03-30 |
+| [Same Sunrise](https://open.spotify.com/track/4geh0YJEYzwhNUn6g5gE2u) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:31 | 2023-02-28 |  |
 | [Sampai Bila](https://open.spotify.com/track/3cvpEmLI6MbnDqZstyqWxK) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Sampai Bila](https://open.spotify.com/album/4CKqizZ82xFQTDAEWKPvwe) | 3:43 | 2022-08-02 | 2022-09-07 |
 | [Sang Purnama](https://open.spotify.com/track/1g3uWT3yVbhbawngA32BxN) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1), [Wani Syaz](https://open.spotify.com/artist/1UjX1v1UPrGgz2JQGqnmkx) | [Sang Purnama](https://open.spotify.com/album/0B6SrALvCCIyjt2opFs9Kw) | 3:16 | 2022-11-30 | 2023-01-04 |
 | [Save Me from Myself \(Theme Song for "KIN"\)](https://open.spotify.com/track/3sVDPDA3DUs0J1gfHEXx1l) | [Serene Koong](https://open.spotify.com/artist/3B9noenUAgnsXz5UIaFBj3) | [Save Me from Myself \(Theme Song for "KIN"\)](https://open.spotify.com/album/2e9DXBQllpO3X17BF4KCF4) | 4:34 | 2022-11-30 | 2023-01-04 |
@@ -538,7 +539,8 @@
 | [Wake up to a Dream](https://open.spotify.com/track/5xl5QzAuhsQlwey2hHCFe0) | [Alicia Pan](https://open.spotify.com/artist/7MrVXflQntKvbvZ4MgGeoP) | [Alicia Pan](https://open.spotify.com/album/0RtWTehBBmzakRAxSK1SjU) | 3:21 | 2022-07-07 | 2022-08-03 |
 | [Waktu](https://open.spotify.com/track/49Pc8ji0ZrXnCBw1kkwK9b) | [Wafahish](https://open.spotify.com/artist/3WQ25uq7gf44zKBb0ymo7r) | [Waktu](https://open.spotify.com/album/7xiFbGEjlbhrB82HR3q8wr) | 3:21 | 2023-01-03 | 2023-02-01 |
 | [walk away](https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [walk away](https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B) | 2:55 | 2022-09-06 | 2022-10-05 |
-| [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 | 2023-02-28 |  |
+| [Walking Away](https://open.spotify.com/track/1w6SNBw6Br6o3odm5FA4n5) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:07 | 2023-02-28 |  |
+| [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 | 2023-02-28 | 2023-03-30 |
 | [Wandering Gohst](https://open.spotify.com/track/2JCDFHDa6BWNhIFsYDMROS) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Wandering Ghost](https://open.spotify.com/album/2WUawbml042bnH26sxvjuX) | 3:18 | 2022-05-03 | 2022-06-01 |
 | [Wanita Adalah Rakyat](https://open.spotify.com/track/3VNOx80dBiSor9BZa9Oql0) | [S.B.H](https://open.spotify.com/artist/700R8NVCYbd8CEzCVO2Ado), [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa), [LOCA B](https://open.spotify.com/artist/63PZAg9EDmsVpftrqz1uih), [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV), [Takahara Suiko](https://open.spotify.com/artist/5A0MEXxWFOFT6iyJAfqh9U), [Sharifah Amani](https://open.spotify.com/artist/2C6cvmLHqOSt3bUEnAnCO9), [Fatimah Abu Bakar](https://open.spotify.com/artist/7hWswYx8yD1XAJkqmkp3xj), [YB Nurul Izzah](https://open.spotify.com/artist/6aQLKxuWnegUv1lpyvyLLe) | [Wanita Adalah Rakyat](https://open.spotify.com/album/5gqGY9MIgfo5hJvSipc4cj) | 3:50 | 2022-03-07 | 2022-04-06 |
 | [WANT](https://open.spotify.com/track/7hqlbKbYWLnoIEg9GxyfWu) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [WANT](https://open.spotify.com/album/0moqUbZQR7GxfDNZTQ8gIA) | 3:45 | 2022-09-06 | 2023-03-01 |

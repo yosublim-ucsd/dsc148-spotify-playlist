@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 870500,
+  "num_followers": 870782,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2NTA0NywwMDAwMDAwMDIwNTRkMTEyNDNkZDgzNTlkYTU2YTA5ZTQ5MmVhNWRk",
+  "snapshot_id": "MTY3NDY2NTA0NywwMDAwMDAwMDdmODA2Y2IxMDVkMTY0MWQxODhkNjQ3YTBhNmM5ODUz",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 282386,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
         "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 282386,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
-      },
-      "artists": [
-        {
-          "name": "The Primitives",
-          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Rio (Collector's Edition)",
         "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 321533,
       "name": "The Chauffeur - 2009 Remaster",
       "url": "https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
+      },
+      "artists": [
+        {
+          "name": "The Primitives",
+          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
-      },
-      "artists": [
-        {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Seventeen Seconds",
         "url": "https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 220640,
       "name": "Play for Today - 2006 Remaster",
       "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Hounds Of Love",
+      "url": "https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
         "name": "ESP: The 808 State Effect",
         "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 351400,
       "name": "Pacific State",
       "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Our Favourite Shop",
-        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
-      },
-      "artists": [
-        {
-          "name": "The Style Council",
-          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Walls Come Tumbling Down",
-      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
     }
   ],
   "unique_name": "Alternative 80s",

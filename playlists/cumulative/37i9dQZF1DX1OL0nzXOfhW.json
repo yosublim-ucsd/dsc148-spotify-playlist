@@ -390,10 +390,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 199964,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo"
+    },
+    {
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j"
+      },
+      "artists": [
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes"
     },
     {
       "album": {
@@ -950,6 +968,28 @@
     {
       "album": {
         "name": "WHO A U ?",
+        "url": "https://open.spotify.com/album/0Lc6Tipv0n7tiBbI880STO"
+      },
+      "artists": [
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        },
+        {
+          "name": "MAEL",
+          "url": "https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "WHO A U ?",
+      "url": "https://open.spotify.com/track/1niM8dlyurDRTsrQCMKMiB"
+    },
+    {
+      "album": {
+        "name": "WHO A U ?",
         "url": "https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD"
       },
       "artists": [
@@ -964,7 +1004,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 202000,
       "name": "WHO A U ?",
       "url": "https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf"
@@ -1416,10 +1456,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 215716,
       "name": "\u7121\u6059",
       "url": "https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt"
+    },
+    {
+      "album": {
+        "name": "\u7121\u6059",
+        "url": "https://open.spotify.com/album/1hXG3QL5UbDDVZBzeGKWK0"
+      },
+      "artists": [
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215716,
+      "name": "\u7121\u6059",
+      "url": "https://open.spotify.com/track/5wBEfArISjXabZSDcg1vfV"
     },
     {
       "album": {

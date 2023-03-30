@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 163498,
       "name": "Dream of You",
       "url": "https://open.spotify.com/track/2WF1F1BeYTsYVxAJcKicV9"
@@ -8278,6 +8278,24 @@
       "duration_ms": 193292,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
+    },
+    {
+      "album": {
+        "name": "Turn Me On",
+        "url": "https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163007,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600"
     },
     {
       "album": {

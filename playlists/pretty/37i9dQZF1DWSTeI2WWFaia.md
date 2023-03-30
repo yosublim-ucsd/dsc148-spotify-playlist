@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Armani Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,605,725 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,605,813 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 23 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 |
 | 24 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
 | 25 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 |
-| 26 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 |
-| 27 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 |
+| 26 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 |
+| 27 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 |
 | 28 | [Moon Roof](https://open.spotify.com/track/4ViKU2hlW6dOMTJ7yzXTgR) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Moon Roof](https://open.spotify.com/album/3xm4cV4UPNCSqpLe4X8JMs) | 3:01 |
 | 29 | [TV Dinners \(feat\. Boldy James & Sideshow\)](https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [This Thing Of Ours](https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT) | 2:57 |
 | 30 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 45 | [Good Wine](https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Good Wine](https://open.spotify.com/album/6898YVDudEoCou54LQrbrd) | 2:06 |
 | 46 | [Gold Rings \(feat\. Pusha T\)](https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:42 |
 | 47 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 |
-| 48 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
-| 49 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 |
+| 48 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 |
+| 49 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
 | 50 | [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGU3Y2M4NDY3OTViZmJkY2JjOTQ0ZTBiZDBmYzQ4NTc3`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDI2MDZiNDIyOTE4YjdhMmUyZjVlN2RjODZlYjgwZWEz`

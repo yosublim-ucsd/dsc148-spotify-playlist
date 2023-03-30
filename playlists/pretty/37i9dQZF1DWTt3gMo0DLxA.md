@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,529 likes - 52 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,560 likes - 52 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 19 | [Saana Kastam](https://open.spotify.com/track/6GbObXudr6oFWk8FdHHLeh) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Acharya](https://open.spotify.com/album/5UlyI2OfFD3HPWgsui3YL3) | 4:04 |
 | 20 | [Mass Biriyani \(From "Krack"\)](https://open.spotify.com/track/1z3tN40wH9dixW1aSaRDd5) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Mass Biriyani \(From "Krack"\)](https://open.spotify.com/album/2j4BXFHljGo2IWurG8eUOY) | 3:58 |
 | 21 | [Apple Beauty](https://open.spotify.com/track/2o6DT527sOB7r20jVlyhzJ) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 3:51 |
-| 22 | [](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 0:00 |
-| 23 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 |
-| 24 | [Sarrainodu](https://open.spotify.com/track/5FybVtlnyWXL6ntfToOkm3) | [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:55 |
+| 22 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 |
+| 23 | [Sarrainodu](https://open.spotify.com/track/5FybVtlnyWXL6ntfToOkm3) | [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:55 |
+| 24 | [](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 0:00 |
 | 25 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
 | 26 | [Mama Ek Peg La](https://open.spotify.com/track/1D8dEFWzWPCs9kk2BaWDGS) | [Balakrishna Nandamuri, Divya Divakar](https://open.spotify.com/artist/0kAzI0IwtEwKqfdndPhEBY) | [Paisa Vasool](https://open.spotify.com/album/2mvMBtAd07PuPbmBH56YcF) | 3:36 |
 | 27 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Elluvochi Godaramma \(Remix\) \[From "Valmiki"\]](https://open.spotify.com/track/0XqW5wprbdA808lOGxzhjw) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK), [K\. Chakravarthy](https://open.spotify.com/artist/3UOiixLqrkiZEyZUKng1t0), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Elluvochi Godaramma \(Remix\) \[From "Valmiki"\] \- Single](https://open.spotify.com/album/7jV1XjhgXGeCQSQbEpQZI9) | 3:27 |
 | 52 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 
-Snapshot ID: `MTY2OTgwNDkyNywwMDAwMDAwMGFiOTEwYWQxY2M4ZWExMjQ5Yjc1OWM1OTg2OTJmMjRl`
+Snapshot ID: `MTY2OTgwNDkyNywwMDAwMDAwMDQ3MWRmM2M3MzgyNjQ2MTg3N2RkZWEyNTY2MjRkOTVh`

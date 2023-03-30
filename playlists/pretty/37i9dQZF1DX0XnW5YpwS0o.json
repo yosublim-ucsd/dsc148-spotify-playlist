@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 62753,
+  "num_followers": 62823,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMDA3ZTM3YTY4ODM2NTcxYmU2NDQ5YWNhN2ViODg3MWY2",
+  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMGJlZDk1ZGU3ODM3MDg3NGNmMDFmNmExYWI3ZTlmOGQw",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Bcos U Will Never B Free",
         "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 136000,
       "name": "A Song About Being Sad",
       "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "Phase (Deluxe)",
+        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
         }
       ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+      "duration_ms": 242560,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K"
     }
   ],
   "unique_name": "Best of Indie 2016",

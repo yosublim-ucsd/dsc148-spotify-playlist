@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-361 songs - 18 hr 31 min
+362 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,8 +209,9 @@
 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 | 2022-04-05 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-04-05 |  |
 | [Morning Glory](https://open.spotify.com/track/1p9F3GkrCNZDnR0hro4m8d) | [SunZunSun](https://open.spotify.com/artist/5SKcOlTnoLFO3fKYCnLRWN) | [The Best II](https://open.spotify.com/album/55v7tN175TJKDdbmzbriGh) | 2:46 | 2023-01-13 |  |
-| [mountain](https://open.spotify.com/track/2ESkSYaMnGAUy8gDba6Yg5) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/4FuF8OKCgjUFDV3OdEbus9) | 1:54 | 2022-10-28 |  |
+| [mountain](https://open.spotify.com/track/2ESkSYaMnGAUy8gDba6Yg5) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/4FuF8OKCgjUFDV3OdEbus9) | 1:54 | 2022-10-28 | 2023-03-30 |
 | [mountain](https://open.spotify.com/track/3uZy1y9JuMAGTtBwCqKMt1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/1WsIywiW8a84ekqfvcsMot) | 1:54 | 2022-07-29 | 2022-11-20 |
+| [mountain](https://open.spotify.com/track/6JtMovP0UgsvVVf1vASe6E) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/4GeP2NS4IWAa9gf24uAz6W) | 1:54 | 2023-03-16 |  |
 | [Myst](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Myst](https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv) | 3:02 | 2022-04-05 |  |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2022-04-05 | 2022-07-29 |
 | [New Begs](https://open.spotify.com/track/4rODkpSqMBFfnBpw9V8Zln) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [New Begs EP](https://open.spotify.com/album/4F3J30MOpILKFohP0IfrFx) | 3:50 | 2022-04-05 | 2022-07-29 |

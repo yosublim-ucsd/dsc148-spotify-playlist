@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,085 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,150 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 34 | [This Damn Song](https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers](https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7) | 4:06 |
 | 35 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 36 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
-| 37 | [Outlaw Angel](https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Outlaw Angel](https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf) | 2:58 |
-| 38 | [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 |
+| 37 | [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 |
+| 38 | [Outlaw Angel](https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Outlaw Angel](https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf) | 2:58 |
 | 39 | [Kill a Man](https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye EP](https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy) | 5:19 |
 | 40 | [Leave Me My Heart](https://open.spotify.com/track/6oAp4G5TCSVu8S76x51h4N) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:17 |
 | 41 | [Creek Don't Rise](https://open.spotify.com/track/1dNQi8MaLrbMF2ibAYwUqS) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 2:30 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 79 | [Hold My Beer](https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer](https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh) | 3:59 |
 | 80 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 |
 | 81 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 |
-| 82 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
-| 83 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 |
+| 82 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 |
+| 83 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
 | 84 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 |
 | 85 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
 | 86 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 96 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 |
 | 97 | [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 |
 | 98 | [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 |
-| 99 | [Honky Tonk On](https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Red Dirt Texas](https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28) | 3:26 |
-| 100 | [Whiskey Over Wine](https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa) | [David McMahon](https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT), [Jake Parshall](https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U) | [Whiskey Over Wine](https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs) | 3:50 |
+| 99 | [Whiskey Over Wine](https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa) | [David McMahon](https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT), [Jake Parshall](https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U) | [Whiskey Over Wine](https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs) | 3:50 |
+| 100 | [Honky Tonk On](https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Red Dirt Texas](https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28) | 3:26 |
 
-Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMGIxM2E2NWM0NjM5MjhiZjg2NTEwNTY3ZjlkZmQ5NWM4`
+Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDVkZTk3NzQwOWEzYTk0ZjM4ZDgzMWU3MTIzODYzODYw`

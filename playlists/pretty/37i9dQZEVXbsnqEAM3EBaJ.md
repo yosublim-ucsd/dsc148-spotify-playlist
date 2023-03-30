@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 34 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 34 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 21 | [Nothing Compares 2 U](https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Nothing Compares 2 U](https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd) | 4:22 |
 | 22 | [Leyendas del Mic, Vol\. III](https://open.spotify.com/track/1el4PB6DPL3DGhxpKPg8Sh) | [LeyendasdelFree](https://open.spotify.com/artist/0pqDSWOxO8cUDJrIQwEHHn), [Frainstrumentos](https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI), [PelySayon](https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T), [Clap Psycho](https://open.spotify.com/artist/4dX6dhS8e0BIoLqp9YByvC), [Senc](https://open.spotify.com/artist/12cygJZmz2aa87fXBgThs6), [Karloz](https://open.spotify.com/artist/1K1pt9uJfTMyJYaoiz1fdJ), [Mc Samo](https://open.spotify.com/artist/4lwXp3kVfxqwRA7LF8awdw), [ANDY'S](https://open.spotify.com/artist/6Ew6fMQrQ8YZbaxdsfs8l6) | [Leyendas del Mic, Vol\. III](https://open.spotify.com/album/64BD8r4QJYkzFSAaSCFiGS) | 5:19 |
 | 23 | [Are You There?](https://open.spotify.com/track/4xN3AWi8wsaVA1j9J426qE) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D) | 3:12 |
-| 24 | [Stand Up \(feat\. The Battle Drum Marching Band\)](https://open.spotify.com/track/3axomqagNVJCINvAjDGDYd) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [The Battle Drum Marching Band](https://open.spotify.com/artist/71y7Vv0TCOzeFXcBQwuG1L) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:50 |
-| 25 | [The Mind of God](https://open.spotify.com/track/0t2RjyABc0IIVP9wbRA7kA) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Suffer in Heaven](https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x) | 3:12 |
-| 26 | [Willow](https://open.spotify.com/track/0Y3JU2NmksU7dd9iWxQFHd) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 3:51 |
+| 24 | [Midsummer's Eve \(feat\. Tina Guo\)](https://open.spotify.com/track/6NYVHxzpSsvq4vy3EweKrD) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 4:27 |
+| 25 | [Stand Up \(feat\. The Battle Drum Marching Band\)](https://open.spotify.com/track/3axomqagNVJCINvAjDGDYd) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [The Battle Drum Marching Band](https://open.spotify.com/artist/71y7Vv0TCOzeFXcBQwuG1L) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:50 |
+| 26 | [The Mind of God](https://open.spotify.com/track/0t2RjyABc0IIVP9wbRA7kA) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Suffer in Heaven](https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x) | 3:12 |
 | 27 | [Put You Down \- Live](https://open.spotify.com/track/1KtcoMqjzFva50M3MFleLl) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Buried \(Live\)](https://open.spotify.com/album/3J19k6oHkIYygdbuDgZfL3) | 3:12 |
 | 28 | [China Girl \- Cinemix](https://open.spotify.com/track/6S6r6DVJTEaKrHjXouXkDU) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Trip:tonic](https://open.spotify.com/artist/6yjxs6JrPRxwmCfXUJUEp5) | [China Girl \(Riff & Vox Mixes\)](https://open.spotify.com/album/1fjD6WYAoxf33Cihy8YjQD) | 7:30 |
 | 29 | [Careless Whisper \- Dance Again Remix](https://open.spotify.com/track/1XVABOeb3TLa504dWQLeus) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Sasha Elektroniker](https://open.spotify.com/artist/1potfEkpwJSilfSYH2AtJ5) | [Careless Whispers \(Dance Again Remix\)](https://open.spotify.com/album/6coitKUK8bSwJTTTOGHxBz) | 7:39 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 33 | [Trio No\. 2 'Reveille': Ii\. Prelude to Guajira y Fuga](https://open.spotify.com/track/3qYo08xufG1Zf78XcDfaJ2) | [Stanley Silverman](https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW), [Kalichstein\-Laredo\-Robinson Trio](https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy) | [In Celebration: The Piano Trios of Stanley Silverman](https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ) | 2:21 |
 | 34 | [Save Face](https://open.spotify.com/track/6bo9WfTpX4pSsd0HZO8neM) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Save Face](https://open.spotify.com/album/0LV8a81HrP6fPxEPXvVjS7) | 6:23 |
 
-Snapshot ID: `Mjc5OTM3ODAsMDAwMDAwMDBjMmRkM2NmODBjNzc3OTRkZTAyYzU0MmMyYTFiMzMzMA==`
+Snapshot ID: `Mjc5OTM3ODAsMDAwMDAwMDBlZTc0MDZiZGRmODYxMmVlZDhiYzQ1NzQyMjA4YWM0Yw==`

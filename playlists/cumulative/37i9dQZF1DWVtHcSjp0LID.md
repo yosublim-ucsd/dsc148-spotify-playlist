@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-147 songs - 14 hr 18 min
+148 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Epoch](https://open.spotify.com/track/5EeNRe6Fi29tTrssVzl4dw) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch](https://open.spotify.com/album/0GXI4iAc5FshqWgIlaNAXO) | 5:45 | 2022-03-22 | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh) | [A Forest Mighty Black](https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y) | [Mellowdramatic](https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3) | 7:58 | 2022-03-22 | 2022-11-20 |
 | [Everything](https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS) | [A Forest Mighty Black](https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5) | [Mellowdramatic](https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN) | 7:58 | 2022-07-15 |  |
-| [Excess](https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Excess EP](https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE) | 7:12 | 2022-03-22 |  |
+| [Excess](https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Excess EP](https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE) | 7:12 | 2022-03-22 | 2023-03-30 |
 | [Fading](https://open.spotify.com/track/770zzJRmEN0sudaxuD7GkB) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 8:07 | 2022-03-22 |  |
 | [fantastic planet](https://open.spotify.com/track/6F3SGjnVcUUGILalpmnHcr) | [xJK.](https://open.spotify.com/artist/6BeveIeeB8IPP6EYHYcWI6) | [spacewalk](https://open.spotify.com/album/2oH7eSeoXQuRfpV4ngUXTB) | 3:12 | 2022-03-22 | 2022-07-29 |
 | [Freundchen \- Phil Gerus Remix](https://open.spotify.com/track/6f01jb7840IvrEbgAEc9e2) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Phil Gerus](https://open.spotify.com/artist/1q4zY8qzOsCqIypqC5iQnd) | [Freundchen Remixes](https://open.spotify.com/album/0kKF5ZMS9jIUa6LNQ5PkvH) | 5:53 | 2022-03-22 | 2022-06-21 |
@@ -103,6 +103,7 @@
 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 | 2022-03-22 |  |
 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 | 2022-03-22 |  |
 | [Opal Waltz](https://open.spotify.com/track/058bYtysQS0bnt7KtEnZsg) | [Supernaive](https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq) | [Dazed & Confused](https://open.spotify.com/album/15egQXR5QFe5oyqH0U4rlE) | 3:43 | 2022-03-22 | 2023-03-16 |
+| [Opal Waltz](https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG) | [Supernaive](https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq) | [Dazed & Confused](https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2) | 3:43 | 2022-07-15 |  |
 | [Orbital Hypnosis \- Erly Tepshi Remix](https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Passengers](https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP) | 6:06 | 2022-03-22 |  |
 | [Overhead](https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb) | [Professor Kliq](https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW) | [The Scientific Method, Vol 2](https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb) | 5:15 | 2022-03-22 |  |
 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 | 2022-03-22 |  |

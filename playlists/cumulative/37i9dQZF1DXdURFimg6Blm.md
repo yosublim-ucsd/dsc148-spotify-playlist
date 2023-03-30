@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-377 songs - 18 hr 52 min
+378 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Down](https://open.spotify.com/track/3E7NvHQfe0GNagcVW3fzlm) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Down](https://open.spotify.com/album/6FzpGsnMM5OMVw2xY8tCm5) | 3:12 | 2022-01-28 | 2022-07-29 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-07 | 2022-04-09 |
 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 | 2022-03-18 | 2022-07-30 |
+| [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-30 |  |
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2022-01-07 | 2022-05-07 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-10-28 |  |
 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-01-07 | 2022-04-16 |
@@ -123,7 +124,7 @@
 | [Ghost \- Bounce Inc\. & Mairee Remix](https://open.spotify.com/track/1P9dPTbYJcLWCbuM78JzN5) | [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q), [Bounce Inc.](https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Ghost \(Remixes\)](https://open.spotify.com/album/4QULdjGMudDihOa4Xrn0gN) | 2:29 | 2022-05-27 | 2022-05-31 |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-02-24 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-04-22 | 2022-05-27 |
-| [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-05-20 |  |
+| [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-05-20 | 2023-03-30 |
 | [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 | 2023-03-19 |
 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 | 2022-03-18 | 2022-04-23 |
 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 | 2022-01-07 | 2022-04-09 |

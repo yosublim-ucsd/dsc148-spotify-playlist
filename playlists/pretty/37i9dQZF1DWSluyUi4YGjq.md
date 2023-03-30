@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Winter on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,681 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,169 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 32 | [Into Black](https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk) | 3:28 |
 | 33 | [Chinatown](https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W) | 3:18 |
 | 34 | [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 |
-| 35 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 |
-| 36 | [pg.4 a picture of three hedges](https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 4:09 |
+| 35 | [pg.4 a picture of three hedges](https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 4:09 |
+| 36 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 |
 | 37 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 |
 | 38 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 |
 | 39 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
@@ -59,29 +59,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 49 | [ERROR](https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [eye cue rew see](https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0) | 2:58 |
 | 50 | [Cranekiss](https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa) | 3:50 |
 | 51 | [Famine Asylum](https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:10 |
-| 52 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
+| 52 | [In Your Room](https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE) | 9:26 |
 | 53 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 |
-| 54 | [In Your Room](https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE) | 9:26 |
+| 54 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
 | 55 | [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v) | 3:29 |
 | 56 | [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 |
 | 57 | [Dopamine](https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:55 |
-| 58 | [Better Off Alone](https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Better Off Alone](https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK) | 4:07 |
-| 59 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 |
+| 58 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 |
+| 59 | [Better Off Alone](https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Better Off Alone](https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK) | 4:07 |
 | 60 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 |
 | 61 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 |
 | 62 | [Handsome Man](https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 2:28 |
-| 63 | [Strawberry Cream](https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Urban Twilight \(Remaster\)](https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI) | 3:50 |
-| 64 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 |
+| 63 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 |
+| 64 | [Strawberry Cream](https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Urban Twilight \(Remaster\)](https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI) | 3:50 |
 | 65 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 |
-| 66 | [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 |
-| 67 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
+| 66 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
+| 67 | [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 |
 | 68 | [Out of Line](https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Out of Line](https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo) | 2:11 |
-| 69 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 |
+| 69 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 |
 | 70 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 |
-| 71 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 |
+| 71 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 |
 | 72 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 73 | [Kaleidoscope](https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB) | 2:05 |
 | 74 | [Drag Me into the Woods](https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:27 |
 | 75 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
 
-Snapshot ID: `MTY4MDAyNDI5OSwwMDAwMDAwMDM2OWUxYzU3NDUzN2ExMTgwNjIwNjI3MjhkZjExNGU3`
+Snapshot ID: `MTY4MDAyNDI5OSwwMDAwMDAwMGUxMDRlZjNlNjU2ODA3ZjkwMjgyNGIwZGU5ZTdkYmIy`

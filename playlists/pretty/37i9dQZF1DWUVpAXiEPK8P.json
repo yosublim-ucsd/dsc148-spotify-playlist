@@ -1,12 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4189353,
+  "num_followers": 4190055,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5MjA1NCwwMDAwMDAwMDE5ZmMzNGY2MThmNGU0MTcxOTM3NjI1MmY4ZWQ4ODI3",
+  "snapshot_id": "MTY3Nzc5MjA1NCwwMDAwMDAwMDc1NmI3MjNjZThmN2ZlMWUxM2ZiNmRjZTYxOTIxMGJh",
   "tracks": [
     {
       "added_at": "2023-03-02 21:20:54",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-02 21:20:54",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 167915,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
-    },
-    {
-      "added_at": "2023-03-02 21:20:54",
-      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 237706,
       "name": "Just A Lil Bit",
       "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
+    },
+    {
+      "added_at": "2023-03-02 21:20:54",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
     },
     {
       "added_at": "2023-03-02 21:20:54",

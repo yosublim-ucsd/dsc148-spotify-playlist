@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "A Comforting Notion",
+        "url": "https://open.spotify.com/album/1glYcAS1dwwRDApSyq9GQW"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215733,
+      "name": "A Comforting Notion",
+      "url": "https://open.spotify.com/track/2tniPhDw3ucCvxH3F9DHCt"
+    },
+    {
+      "album": {
         "name": "A Ghost In The Weed Garden",
         "url": "https://open.spotify.com/album/7ygpAZedWTikPn8PtNJbGU"
       },
@@ -96,6 +114,24 @@
       "duration_ms": 113936,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/75NgXlkXMMtUI9611uR5kX"
+    },
+    {
+      "album": {
+        "name": "Compact Trauma",
+        "url": "https://open.spotify.com/album/6ADAOhSIu5dIJqBN2rxMtz"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "Accidental Momentary Blur",
+      "url": "https://open.spotify.com/track/5J5oJAE95Es8IZfN5umlqr"
     },
     {
       "album": {
@@ -504,7 +540,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 256799,
       "name": "Apology Letter",
       "url": "https://open.spotify.com/track/4oXnbBWDIPQni02ZJ5vKSx"
@@ -750,7 +786,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 189219,
       "name": "Betwixt and Between - Edit",
       "url": "https://open.spotify.com/track/04Hz7yeWenKDK8AgOOV6uK"
@@ -2515,6 +2551,44 @@
     },
     {
       "album": {
+        "name": "fix",
+        "url": "https://open.spotify.com/album/7BCGtoJvre4iSFFC4a9UYv"
+      },
+      "artists": [
+        {
+          "name": "Speakers Corner Quartet",
+          "url": "https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH"
+        },
+        {
+          "name": "Kwake Bass",
+          "url": "https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7"
+        },
+        {
+          "name": "Raven Bush",
+          "url": "https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs"
+        },
+        {
+          "name": "Peter Bennie",
+          "url": "https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G"
+        },
+        {
+          "name": "Biscuit",
+          "url": "https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0"
+        },
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "fix",
+      "url": "https://open.spotify.com/track/2tNPnxwwjJbyhEsqgJqxqK"
+    },
+    {
+      "album": {
         "name": "(Herman\u2019s) House / Follow Me",
         "url": "https://open.spotify.com/album/06WAdZd3Ty6SpqW6NPepJW"
       },
@@ -2580,7 +2654,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 204895,
       "name": "Force 10 From Navarone",
       "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
@@ -2968,6 +3042,24 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "album": {
+        "name": "Gold Duck",
+        "url": "https://open.spotify.com/album/5dmuVewBPhnnGP9MO4aJHN"
+      },
+      "artists": [
+        {
+          "name": "Terry",
+          "url": "https://open.spotify.com/artist/7rVi5rhJnyxph7p39eKjJE"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196120,
+      "name": "Gold Duck",
+      "url": "https://open.spotify.com/track/5w7PpkRPHYHET9x0i5xTWk"
     },
     {
       "album": {
@@ -3384,7 +3476,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 232938,
       "name": "How It Starts",
       "url": "https://open.spotify.com/track/3lATVxAMvFaussyy90K72j"
@@ -4282,7 +4374,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 163385,
       "name": "Linden Boulevard",
       "url": "https://open.spotify.com/track/6t1KWQAwWKNY9tDIRMyw8a"
@@ -4424,6 +4516,24 @@
       "duration_ms": 208933,
       "name": "Loose Future",
       "url": "https://open.spotify.com/track/5KOpYJfDw5RKa07Bw8Whmh"
+    },
+    {
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518320,
+      "name": "Lord Abore and Mary Flynn",
+      "url": "https://open.spotify.com/track/0I45pciMC6VuczIknGsl0i"
     },
     {
       "album": {
@@ -6150,7 +6260,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 444720,
       "name": "Sinatra Drive Breakdown",
       "url": "https://open.spotify.com/track/0qe5zk6E7SnQkMmIheGx4E"
@@ -6588,7 +6698,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 269015,
       "name": "Swing (In A Dream)",
       "url": "https://open.spotify.com/track/1IEulXF7S08dapSxx8L0z2"
@@ -6794,7 +6904,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 269195,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/5nBzXJfSqVtPKr5rRocFrZ"
@@ -6906,6 +7016,24 @@
       "duration_ms": 240590,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/0OKaXYZRIY25YhaZZxLtIQ"
+    },
+    {
+      "album": {
+        "name": "The Town That Cursed Your Name",
+        "url": "https://open.spotify.com/album/6EK87hPjgzt1b7DT9SPJrC"
+      },
+      "artists": [
+        {
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147436,
+      "name": "The Town That Cursed Your Name",
+      "url": "https://open.spotify.com/track/39NtyBYkSjt8Cl9sABANiS"
     },
     {
       "album": {
@@ -7492,6 +7620,24 @@
       "duration_ms": 409943,
       "name": "Untitled #1",
       "url": "https://open.spotify.com/track/5xk9fGfVzaa3k9dcjDmUpJ"
+    },
+    {
+      "album": {
+        "name": "Live at Bush Hall",
+        "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "Up Song - Live at Bush Hall",
+      "url": "https://open.spotify.com/track/3b6suhvxtWPIF0tZe5xDCL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: V\u00c9RIT\u00c9\n",
-  "num_followers": 6117,
+  "num_followers": 6175,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGYwMjM3MzkzYWY2M2YxOWE3NmRjYjJiYjBhZWIxYzQ1",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGQ5ODg4YjU0YTAxNWVmMWI1NWViODI4M2Y5NDVlNWFl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-01-05 16:59:25",
       "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
+      "duration_ms": 246755,
+      "name": "Buzzcut Season",
+      "url": "https://open.spotify.com/track/51QEyJI5M7uyd8DOh9tqQY"
     },
     {
       "added_at": "2023-01-05 16:59:25",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-01-05 16:59:25",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
         }
       ],
-      "duration_ms": 246755,
-      "name": "Buzzcut Season",
-      "url": "https://open.spotify.com/track/51QEyJI5M7uyd8DOh9tqQY"
+      "duration_ms": 205733,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
     },
     {
       "added_at": "2023-01-05 16:59:25",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-05 16:59:25",
       "album": {
-        "name": "Bunny Is A Rider",
-        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 193957,
-      "name": "Bunny Is A Rider",
-      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
-    },
-    {
-      "added_at": "2023-01-05 16:59:25",
-      "album": {
         "name": "Nothing's Real",
         "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 214555,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B"
+    },
+    {
+      "added_at": "2023-01-05 16:59:25",
+      "album": {
+        "name": "Bunny Is A Rider",
+        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 193957,
+      "name": "Bunny Is A Rider",
+      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
     },
     {
       "added_at": "2023-01-05 16:59:25",

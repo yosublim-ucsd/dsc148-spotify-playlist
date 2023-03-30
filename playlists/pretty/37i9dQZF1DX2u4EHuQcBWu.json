@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 167521,
+  "num_followers": 167567,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMGM0YTk5ZDkxZWY0YjQ4MjNhMmRhNDEwNjljMjIxODBh",
+  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMDkyNjA0MDZiNDU0NzliNTg3YTg1YWQ3NzA5MzJmMDlm",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -979,18 +979,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Cantos revolucionarios de america latina",
-        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
       "artists": [
         {
-          "name": "Soledad Bravo",
-          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 270160,
-      "name": "Hasta siempre",
-      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
+      "duration_ms": 242216,
+      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
+      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+        "name": "Cantos revolucionarios de america latina",
+        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "Soledad Bravo",
+          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
         }
       ],
-      "duration_ms": 242216,
-      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
-      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
+      "duration_ms": 270160,
+      "name": "Hasta siempre",
+      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
       },
       "artists": [
         {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 268467,
-      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
-      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
+      "duration_ms": 182880,
+      "name": "Por Qu\u00e9 No Se Van",
+      "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1107,6 +1107,22 @@
       "duration_ms": 226922,
       "name": "Somos Sur",
       "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
+      },
+      "artists": [
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        }
+      ],
+      "duration_ms": 268467,
+      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
+      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Por Qu\u00e9 No Se Van",
-      "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Almismotiempo",
         "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
         "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 240716,
       "name": "El Mundo Que Nos Toc\u00f3 Vivir",
       "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Autogesti\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Viva el Planeta",
         "url": "https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 199105,
       "name": "Exigimos",
       "url": "https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Autogesti\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Octubre",
         "url": "https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 228456,
       "name": "Octubre",
       "url": "https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2021-09-24 14:38:22",

@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Rawayana, Danny Ocean",
-  "num_followers": 1231885,
+  "num_followers": 1231989,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGY5ZmIzM2QwMDI5YjM3MWEwNmFlNTUyYTM0NmJmMTU1",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGU3MzNhYjM2NTliYzdmMTdlMTI3Y2FhMDkwMzI1YjU0",
   "tracks": [
     {
       "added_at": "2023-03-03 05:01:00",
@@ -879,18 +879,30 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "La Distancia",
-        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+        "name": "A Tu Manera (feat. Ky-Mani Marley)",
+        "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
         }
       ],
-      "duration_ms": 227143,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
+      "duration_ms": 190836,
+      "name": "A Tu Manera (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -943,30 +955,18 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "A Tu Manera (feat. Ky-Mani Marley)",
-        "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
+        "name": "La Distancia",
+        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 190836,
-      "name": "A Tu Manera (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
+      "duration_ms": 227143,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1003,26 +1003,6 @@
       "duration_ms": 363120,
       "name": "Orillas",
       "url": "https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 269013,
-      "name": "Waitin (En Vivo) (feat. MAGIC!)",
-      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 269013,
+      "name": "Waitin (En Vivo) (feat. MAGIC!)",
+      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
         "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
         "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 249906,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "YO",
+        "url": "https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 206328,
+      "name": "Lo M\u00e1s Sincero",
+      "url": "https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1231,18 +1247,26 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "YO",
-        "url": "https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX"
+        "name": "Keep The Fyah Burning",
+        "url": "https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm"
       },
       "artists": [
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Brinsley Forde",
+          "url": "https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8"
+        },
+        {
+          "name": "Flabba Holt",
+          "url": "https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl"
         }
       ],
-      "duration_ms": 206328,
-      "name": "Lo M\u00e1s Sincero",
-      "url": "https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM"
+      "duration_ms": 256974,
+      "name": "Keep The Fyah Burning",
+      "url": "https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1283,30 +1307,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Keep The Fyah Burning",
-        "url": "https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        },
-        {
-          "name": "Brinsley Forde",
-          "url": "https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8"
-        },
-        {
-          "name": "Flabba Holt",
-          "url": "https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl"
-        }
-      ],
-      "duration_ms": 256974,
-      "name": "Keep The Fyah Burning",
-      "url": "https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "C\u00f3mo Te Hago Entender",
         "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Worrrrssss!!!!",
-        "url": "https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu"
-      },
-      "artists": [
-        {
-          "name": "Resistencia Suburbana",
-          "url": "https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ"
-        }
-      ],
-      "duration_ms": 309259,
-      "name": "Por Cultivar Marihuana",
-      "url": "https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 316440,
       "name": "Ilegal - En Vivo",
       "url": "https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Worrrrssss!!!!",
+        "url": "https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu"
+      },
+      "artists": [
+        {
+          "name": "Resistencia Suburbana",
+          "url": "https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ"
+        }
+      ],
+      "duration_ms": 309259,
+      "name": "Por Cultivar Marihuana",
+      "url": "https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Obvio S\u00ed",
-        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
-      },
-      "artists": [
-        {
-          "name": "Rastacuando",
-          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
-        }
-      ],
-      "duration_ms": 177536,
-      "name": "El Seis",
-      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Vuela Alto",
         "url": "https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+        "name": "Obvio S\u00ed",
+        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Rastacuando",
+          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
         }
       ],
-      "duration_ms": 308756,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
+      "duration_ms": 177536,
+      "name": "El Seis",
+      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 233000,
       "name": "Las Ganas de Vivir",
       "url": "https://open.spotify.com/track/7CUnSaxzKJT5ntbqBKz1fr"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Hasta Que Me Olvides",
-        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 255744,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 292552,
       "name": "Lenguas de Signos (feat. Monsieur Perin\u00e9)",
       "url": "https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 255744,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "MIL Canciones",
-        "url": "https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Sin Ti (feat. Quique Neira)",
-      "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Si T\u00fa Me Quieres",
         "url": "https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm"
       },
@@ -1819,6 +1803,26 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

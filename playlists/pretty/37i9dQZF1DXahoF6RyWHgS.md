@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,734 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,782 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 87 | [La Sitiera](https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK) | [Lobo](https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y) | [15 Super Exitos De Lobo Y Melon \- Versiones Originales](https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO) | 2:56 |
 | 88 | [A Love Supreme](https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn) | [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz) | [Echu Mingua](https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx) | 5:49 |
 | 89 | [Fina Estampa](https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Mujeres con Cajones](https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz) | 2:51 |
-| 90 | [La Xochipitzahuatl](https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu) | [Lone Piñon](https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR) | [Trio Nuevomexicano](https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b) | 3:59 |
-| 91 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
-| 92 | [Los Sabores Del Porro](https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Maremagnum](https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul) | 4:19 |
-| 93 | [Pulque](https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:43 |
+| 90 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
+| 91 | [La Xochipitzahuatl](https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu) | [Lone Piñon](https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR) | [Trio Nuevomexicano](https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b) | 3:59 |
+| 92 | [Pulque](https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:43 |
+| 93 | [Los Sabores Del Porro](https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Maremagnum](https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul) | 4:19 |
 | 94 | [Mambo Los Quantic](https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Quantic and His Combo Barbaro](https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN) | [The Power of the Latin Music](https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE) | 4:43 |
 | 95 | [Moliendo Café \- Ritmo Orquidea](https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP) | [Hernán Gamboa](https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL) | [La Fiesta](https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM) | 3:07 |
 | 96 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 |
-| 97 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Luaka Bop Remix](https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O) | 2:46 |
-| 98 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
+| 97 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
+| 98 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Luaka Bop Remix](https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O) | 2:46 |
 | 99 | [Cumbia Pa Modernos](https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:19 |
 | 100 | [Allo Mambo](https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx) | [Karl Zéro](https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M) | [Songs for Moonlight Swim and Otros Tipos de Ocupaciones](https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni) | 2:45 |
 
-Snapshot ID: `MTY2NDUwOTU0MCwwMDAwMDAwMGRjMjY5NGJjZDliMzY0OGVmMTljNmE1NjRjZjZmNTU4`
+Snapshot ID: `MTY2NDUwOTU0MCwwMDAwMDAwMGE3NDQzODMxYjdjYzBjOWI1ODgyYTUwYmFiNjBiYTIz`

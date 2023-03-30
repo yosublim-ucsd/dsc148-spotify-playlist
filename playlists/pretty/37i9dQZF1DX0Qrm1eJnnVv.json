@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 3358,
+  "num_followers": 3366,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGY5ZmQwYWQ5M2M2YjE5ZmUxZGRkZmE3YWUwZjY0MmFm",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDNhODNmNGIxMGYxNjY5NTE4NGZiM2VhOTMyMGJiOGQy",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Revival",
-        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
-      },
-      "artists": [
-        {
-          "name": "Scott Cotton",
-          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bohemia Rag",
-      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The Complete Piano Works of Scott Joplin",
         "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 114194,
       "name": "Fig Leaf Rag",
       "url": "https://open.spotify.com/track/1yMqt5habP5GQsll993r1D"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+      },
+      "artists": [
+        {
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bohemia Rag",
+      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime, Vol. 1",
-        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
-      },
-      "artists": [
-        {
-          "name": "Squeek Steele",
-          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Broadway Rag",
-      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Christmas Eve 1915",
         "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 198173,
       "name": "Reindeer Rag",
       "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime, Vol. 1",
+        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
+      },
+      "artists": [
+        {
+          "name": "Squeek Steele",
+          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Broadway Rag",
+      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -807,22 +807,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Elite Syncopations",
-        "url": "https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez"
-      },
-      "artists": [
-        {
-          "name": "Scott Joplin",
-          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Scott Joplin's New Rag",
-      "url": "https://open.spotify.com/track/49uqrtWArmME93qBRrHamC"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The Greatest Ragtime Of The Century",
         "url": "https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 196720,
       "name": "Something Doing",
       "url": "https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Elite Syncopations",
+        "url": "https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Scott Joplin's New Rag",
+      "url": "https://open.spotify.com/track/49uqrtWArmME93qBRrHamC"
     }
   ],
   "unique_name": "Ragtime Piano",

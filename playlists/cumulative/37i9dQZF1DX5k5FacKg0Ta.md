@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-104 songs - 9 hr 14 min
+108 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Arcade](https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z) | [Kalevi Hämäläinen Group](https://open.spotify.com/artist/4Kc8F50zSN0op8lEcKm6c2) | [Arcade](https://open.spotify.com/album/5viGCnQLCBvMYEdAaxkM54) | 6:28 | 2022-09-02 |  |
 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 | 2022-10-13 |  |
 | [Aurinko](https://open.spotify.com/track/0prylnSBXShJ37C8nZZwld) | [Sami Jaakkola Quartet](https://open.spotify.com/artist/0cmKg90nLDc7vf2fPngnnr) | [Aurinko](https://open.spotify.com/album/0jxJ3dubcZ3DTV0JdsBYHm) | 4:14 | 2022-09-02 |  |
+| [Avanto](https://open.spotify.com/track/5LyLPzWnFNxv42Hwi3ARph) | [Juho Peltoniemi Trio](https://open.spotify.com/artist/4Sbu45UJpAypGbK9u1QBKa) | [Avanto](https://open.spotify.com/album/7mlcm953YiLSKkF39a0V6n) | 6:44 | 2023-03-29 |  |
 | [Big Push](https://open.spotify.com/track/4igcQEY87rKolBPqiWZKvs) | [Aleksi Heinola Quartet](https://open.spotify.com/artist/1wqgTdQxJwz27q0AjYJAMp) | [Big Push](https://open.spotify.com/album/0trbA2SbGyvjpGim97zxfe) | 6:25 | 2023-02-17 |  |
 | [Births Today](https://open.spotify.com/track/3daOwvvlyswZiRgw6Spb3j) | [RinneRadio](https://open.spotify.com/artist/4qjNgDN11K9KIhXSNbMQPt), [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Births Today](https://open.spotify.com/album/5Cu7wpoRwOErMpUfJWQA3X) | 3:30 | 2023-01-27 |  |
 | [Brand New Games](https://open.spotify.com/track/1rbRTcz5o8BrewfMPTLbZk) | [Dynamic Dynamic](https://open.spotify.com/artist/0zj1eZZdo7x3QfeID5TDCd) | [Brand New Games](https://open.spotify.com/album/73Yk3EqWeBP7MhHKRQohEL) | 5:31 | 2022-09-02 |  |
@@ -63,7 +64,9 @@
 | [Kullankaivaja](https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u) | [Sofia Perhomaa](https://open.spotify.com/artist/7I6tcN1kF9cD5sqOLuqgAW) | [Kullankaivaja](https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572) | 3:51 | 2022-09-02 |  |
 | [Liar](https://open.spotify.com/track/7HSKioNnSt9EDYJSrUrxX4) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Liar](https://open.spotify.com/album/1kbcdOfwC0dFUOK2DmAWzj) | 4:57 | 2023-03-03 |  |
 | [Like Steel](https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB) | [Esa Pethman](https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg) | [In Belgium 1967](https://open.spotify.com/album/7K7ZPq67v0pdmlyQXhr4ph) | 5:07 | 2022-09-22 |  |
+| [Lost in Marrakech Souk](https://open.spotify.com/track/5upMlh6OdTk0aG5x3OeYnA) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Lost in Marrakech Souk](https://open.spotify.com/album/4sCJR6VSHWfVD7nnwInL0B) | 6:23 | 2023-03-29 |  |
 | [Love and Maladies](https://open.spotify.com/track/5kHdEAX0zIB3DV2Yg8AsSy) | [Alder Ego](https://open.spotify.com/artist/5lnac6VXp2oB9RSmUFV67V), [Joonas Leppänen](https://open.spotify.com/artist/7tssiqMSglLWZRKPMFW3Fg), [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [Jarno Tikka](https://open.spotify.com/artist/5xFUZqOD0dGWFwF7cDdIzL), [Nathan Francis](https://open.spotify.com/artist/5jf2gBULW0kRu9YXQ0L6oL) | [III](https://open.spotify.com/album/2GmTfaTiwX055jsxaiKPuE) | 8:16 | 2022-09-02 | 2022-09-23 |
+| [Löyly](https://open.spotify.com/track/5PajsYtW5p4Ouut9qxesuZ) | [Teea Aarnio](https://open.spotify.com/artist/4OOpIlBLL7ldq83P15jkQM) | [Löyly](https://open.spotify.com/album/4rlRsxnaAZusRH6DtiLrQc) | 5:22 | 2023-03-29 |  |
 | [Mercy](https://open.spotify.com/track/5g7R1HYpEUNtD1G0yYadAI) | [Northern gospel project](https://open.spotify.com/artist/0B4CulblTpweOC0a5uHoF9) | [Mercy](https://open.spotify.com/album/7wBPnoHvTAXNkPTuAmgCbU) | 5:00 | 2022-09-02 |  |
 | [Moon Over Mysore](https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY) | [Kokko Quartet](https://open.spotify.com/artist/3KHGL7g4Udxn7D3Tja53Ve) | [Moon over Mysore](https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT) | 4:39 | 2022-09-02 |  |
 | [Mountain Man Exit](https://open.spotify.com/track/7xKRYjwpDJHiWBSRNFscJ0) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Mountain Man Exit](https://open.spotify.com/album/2HeNwpxn83O3GoMtIf4EUQ) | 4:31 | 2022-09-02 |  |
@@ -109,6 +112,7 @@
 | [Trial by Fire](https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Trial by Fire](https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK) | 4:48 | 2022-10-13 |  |
 | [Utu](https://open.spotify.com/track/1vaPcZgalYASmWeOmFwNsq) | [Melomatic Orchestra](https://open.spotify.com/artist/1gwwXyk6bfMPCEGaEMvPvp) | [Utu](https://open.spotify.com/album/5O1QSu0FXMEOmb0cK2dsif) | 5:31 | 2022-09-02 |  |
 | [Vanhatie](https://open.spotify.com/track/1hLUkwJHzvVRhbPDkkhaWI) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Vanhatie](https://open.spotify.com/album/2v4r8lY7yaGYP0TKJXpVZN) | 6:44 | 2022-09-02 |  |
+| [Veden alla \- 2023](https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM) | [Emma Salokoski](https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Viileässä virrassa](https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k) | 5:40 | 2023-03-29 |  |
 | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF) | [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [5tet](https://open.spotify.com/artist/5Qm3npTJ6kO8wV8ZySNUbg) | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/album/34Br3pPRXwTkNWo9nIWjJp) | 6:33 | 2022-09-02 | 2023-02-18 |
 | [Wild Eyes](https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Wild Eyes](https://open.spotify.com/album/5WLUEKECPdjEr6OKG4YGlA) | 5:37 | 2022-09-02 | 2022-10-14 |
 | [Wings](https://open.spotify.com/track/2aIABbDuZrdLfmKZBFaxUN) | [Uxila Exile](https://open.spotify.com/artist/6I5HxrvGxLIEgDUaXUQjiy) | [Wings](https://open.spotify.com/album/4Qcz7q7xBtkcgfitmaWDnE) | 5:52 | 2022-09-02 |  |

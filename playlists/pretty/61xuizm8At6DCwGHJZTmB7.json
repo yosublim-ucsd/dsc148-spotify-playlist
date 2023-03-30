@@ -1,13 +1,29 @@
 {
-  "description": "Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Brooke Ligertwood",
-  "num_followers": 115407,
-  "original_name": "Worship 2023",
+  "description": "Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Chris Tomlin",
+  "num_followers": 115416,
+  "original_name": "Easter Worship 2023",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "Njg2OSwwOWY1ODJhMDQ4ZTU4NDJmYWY5MWQ3NzUxOTMwMTUwZDM1ZjA5NDJh",
+  "snapshot_id": "Njg3OSw2N2ZjNTU2YzljM2RlZTYyZDQ3N2UwNGQxMTgxNjM4ZmJhYzJhYjll",
   "tracks": [
+    {
+      "added_at": "2023-01-04 20:22:53",
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
     {
       "added_at": "2023-03-10 19:24:17",
       "album": {
@@ -123,22 +139,6 @@
     {
       "added_at": "2023-01-04 20:22:53",
       "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
-      "added_at": "2023-01-04 20:22:53",
-      "album": {
         "name": "SEVEN (Live)",
         "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
       },
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/0kY1gXASKakozyS63qLgIr"
     },
     {
-      "added_at": "2023-02-10 20:37:08",
-      "album": {
-        "name": "Sundown (Live)",
-        "url": "https://open.spotify.com/album/2uFAfVjkwOukZJGWjWf1oT"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        }
-      ],
-      "duration_ms": 344826,
-      "name": "Like Honey - Live",
-      "url": "https://open.spotify.com/track/6fx2RDzhFaiqRW3TVpskdk"
-    },
-    {
       "added_at": "2023-02-24 21:22:28",
       "album": {
         "name": "Same God (feat. Chris Quilala) [Live]",
@@ -291,6 +275,38 @@
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "added_at": "2023-03-27 15:32:24",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
+    },
+    {
+      "added_at": "2023-02-10 20:37:08",
+      "album": {
+        "name": "Sundown (Live)",
+        "url": "https://open.spotify.com/album/2uFAfVjkwOukZJGWjWf1oT"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        }
+      ],
+      "duration_ms": 344826,
+      "name": "Like Honey - Live",
+      "url": "https://open.spotify.com/track/6fx2RDzhFaiqRW3TVpskdk"
     },
     {
       "added_at": "2023-01-27 17:51:03",
@@ -373,42 +389,6 @@
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
     },
     {
-      "added_at": "2023-03-11 00:15:02",
-      "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 421616,
-      "name": "Long Live The King - Live At The Grove",
-      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
-    },
-    {
-      "added_at": "2023-03-24 21:26:44",
-      "album": {
-        "name": "All To Jesus (Live)",
-        "url": "https://open.spotify.com/album/5u3wyUEBom81pTF57qjwZW"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 360690,
-      "name": "Abide - Live",
-      "url": "https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw"
-    },
-    {
       "added_at": "2023-01-04 20:22:53",
       "album": {
         "name": "Goodness Of God (Live)",
@@ -433,24 +413,24 @@
       "url": "https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2"
     },
     {
-      "added_at": "2023-01-04 20:22:53",
+      "added_at": "2023-03-11 00:15:02",
       "album": {
-        "name": "God Is Good! (Live)",
-        "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
         },
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
         }
       ],
-      "duration_ms": 316250,
-      "name": "Take You At Your Word (with Benjamin William Hastings) - Live",
-      "url": "https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz"
+      "duration_ms": 421616,
+      "name": "Long Live The King - Live At The Grove",
+      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
     },
     {
       "added_at": "2023-01-04 20:22:53",
@@ -479,6 +459,42 @@
       "duration_ms": 221274,
       "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
       "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
+    },
+    {
+      "added_at": "2023-03-24 21:26:44",
+      "album": {
+        "name": "All To Jesus (Live)",
+        "url": "https://open.spotify.com/album/5u3wyUEBom81pTF57qjwZW"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 360690,
+      "name": "Abide - Live",
+      "url": "https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw"
+    },
+    {
+      "added_at": "2023-01-04 20:22:53",
+      "album": {
+        "name": "God Is Good! (Live)",
+        "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 316250,
+      "name": "Take You At Your Word (with Benjamin William Hastings) - Live",
+      "url": "https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz"
     },
     {
       "added_at": "2023-03-03 16:03:33",
@@ -739,22 +755,6 @@
       "duration_ms": 342493,
       "name": "10,000 Reasons (Bless The Lord) - Live",
       "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
-      "added_at": "2023-03-27 15:32:24",
-      "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
     },
     {
       "added_at": "2023-01-04 20:22:53",
@@ -2065,6 +2065,6 @@
       "url": "https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse"
     }
   ],
-  "unique_name": "Worship 2023",
+  "unique_name": "Easter Worship 2023",
   "url": "https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7"
 }

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:2QwnSHVij7aOFnIb1UVAF6">NARA</a>
+> Solo musica indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:2QwnSHVij7aOFnIb1UVAF6">NARA</a>
 
 654 songs - 1 day 8 hr 48 min
 

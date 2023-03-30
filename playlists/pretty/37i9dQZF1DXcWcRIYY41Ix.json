@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Lucas Hill.",
-  "num_followers": 106833,
+  "num_followers": 106874,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzNDAwMCwwMDAwMDAwMGU5YTgxYzQzMzAwN2ZlMzBlODQyNTExY2RjMjAyNDk2",
+  "snapshot_id": "MTY3OTYzNDAwMCwwMDAwMDAwMDM4Nzc4NThkOTg3ODIzZjY2MWU0ZjI2YjE2NjJhOTk4",
   "tracks": [
     {
       "added_at": "2023-03-17 05:00:00",
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
     },
     {
-      "added_at": "2023-03-29 04:56:11",
+      "added_at": "2023-03-30 01:42:35",
       "album": {
         "name": "Estocolmo",
         "url": "https://open.spotify.com/album/67dNzRETE0I7bRmoUPoW9i"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq"
     },
     {
-      "added_at": "2023-03-29 04:56:11",
+      "added_at": "2023-03-30 01:42:35",
       "album": {
         "name": "D\u00e9jame de Matar",
         "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
     },
     {
-      "added_at": "2023-03-29 04:56:11",
+      "added_at": "2023-03-30 01:42:35",
       "album": {
         "name": "S\u00ed",
         "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
     },
     {
-      "added_at": "2023-03-29 04:56:11",
+      "added_at": "2023-03-30 01:42:35",
       "album": {
         "name": "Inventar",
         "url": "https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr"
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
+        "name": "Las Bestias Que Me Acompa\u00f1an",
+        "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "Las Bestias Que Me Acompa\u00f1an",
+      "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
         "name": "Tu Casa",
         "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
       },
@@ -1399,26 +1415,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "La Despedida (feat. Valeria Castro)",
-        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 218028,
-      "name": "La Despedida (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
@@ -1435,6 +1431,26 @@
       "duration_ms": 188769,
       "name": "La Aguja",
       "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "La Despedida (feat. Valeria Castro)",
+        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 218028,
+      "name": "La Despedida (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
         "name": "Como el Mar",
         "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
       },
@@ -1543,6 +1559,26 @@
       "duration_ms": 195744,
       "name": "Corazoncito M\u00edo",
       "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
+    },
+    {
+      "added_at": "2023-03-30 01:42:35",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/2449GfQD7Hrt4pCUAzQEPX"
+      },
+      "artists": [
+        {
+          "name": "Fran Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe"
+        },
+        {
+          "name": "Carlos Chaouen",
+          "url": "https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt"
+        }
+      ],
+      "duration_ms": 157943,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/6RHODL2iJY8lvbyrQD9omn"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1639,6 +1675,22 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1655,38 +1707,22 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+        "name": "La Sangre del Mundo",
+        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
-    },
-    {
-      "added_at": "2023-03-29 04:56:11",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/2449GfQD7Hrt4pCUAzQEPX"
-      },
-      "artists": [
-        {
-          "name": "Fran Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         },
         {
-          "name": "Carlos Chaouen",
-          "url": "https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 157943,
-      "name": "Fe",
-      "url": "https://open.spotify.com/track/6RHODL2iJY8lvbyrQD9omn"
+      "duration_ms": 264160,
+      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
+      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1703,6 +1739,46 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "added_at": "2023-03-30 01:42:35",
+      "album": {
+        "name": "Quietud",
+        "url": "https://open.spotify.com/album/0htvDhfnlEHorNRhOB12mv"
+      },
+      "artists": [
+        {
+          "name": "Anna Andreu",
+          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Pol Batlle",
+          "url": "https://open.spotify.com/artist/7DIjIDnFSYofxjb1ARdOM5"
+        }
+      ],
+      "duration_ms": 174654,
+      "name": "Quietud",
+      "url": "https://open.spotify.com/track/0akgM4a7uiPyuOaUcPvX90"
+    },
+    {
+      "added_at": "2023-03-30 01:42:35",
+      "album": {
+        "name": "La Santa Patrona de los Corazones Negros",
+        "url": "https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Entrar a la luna",
+      "url": "https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1743,82 +1819,6 @@
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "La Sangre del Mundo",
-        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
-      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
-    },
-    {
-      "added_at": "2023-03-29 04:56:11",
-      "album": {
-        "name": "La Santa Patrona de los Corazones Negros",
-        "url": "https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Entrar a la luna",
-      "url": "https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Cuchara Chueca",
-        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Alma Sola",
-      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
-    },
-    {
-      "added_at": "2023-03-29 04:56:11",
-      "album": {
-        "name": "Quietud",
-        "url": "https://open.spotify.com/album/0htvDhfnlEHorNRhOB12mv"
-      },
-      "artists": [
-        {
-          "name": "Anna Andreu",
-          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "Pol Batlle",
-          "url": "https://open.spotify.com/artist/7DIjIDnFSYofxjb1ARdOM5"
-        }
-      ],
-      "duration_ms": 174654,
-      "name": "Quietud",
-      "url": "https://open.spotify.com/track/0akgM4a7uiPyuOaUcPvX90"
     }
   ],
   "unique_name": "Cancionistas",

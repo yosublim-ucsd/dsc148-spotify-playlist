@@ -673,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Fables",
+        "url": "https://open.spotify.com/album/5H2wrctr9Ft7PL6pn8UE81"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291400,
+      "name": "Fables",
+      "url": "https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX"
+    },
+    {
+      "album": {
         "name": "Human and Kind",
         "url": "https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40"
       },
@@ -1042,7 +1064,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 304990,
       "name": "I Just Want To Love You - Club Version",
       "url": "https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk"
@@ -1832,7 +1854,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 492316,
       "name": "Someone Close",
       "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
@@ -1924,6 +1946,24 @@
       "duration_ms": 161322,
       "name": "Summer Is Calling - LF SYSTEM Remix",
       "url": "https://open.spotify.com/track/2fzSI3xVHCdqGB8zAMqgJT"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 77189,
+  "num_followers": 77207,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDk5ODgxZGQwMDc4MDViMzM0MmE4YzFkZjY0YWM2MGZi",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDliNzFlNDY4ZDAzOWViZWFlYjI2YWY1ZGJiNmY2ZWNk",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 358640,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 762453,
-      "name": "Piano Concerto in F Major: II. Adagio",
-      "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
+      "duration_ms": 949253,
+      "name": "2nd Rhapsody",
+      "url": "https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 949253,
-      "name": "2nd Rhapsody",
-      "url": "https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV"
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Adagio",
+      "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
     },
     {
       "added_at": "2022-08-05 04:02:00",

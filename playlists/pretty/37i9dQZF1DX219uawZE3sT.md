@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,540 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,578 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 62 | [A Dónde Va Nuestro Amor \- Versión Telenovela](https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\) \(Centro Cultural Roberto Cantoral\)](https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw) | 3:31 |
 | 63 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
 | 64 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
-| 65 | [La Usurpadora](https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [1985\-1998](https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP) | 3:25 |
-| 66 | [Corazón Que Miente](https://open.spotify.com/track/4f7bWZTU5RDLAnD3DkLScO) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazón Que Miente](https://open.spotify.com/album/1mWGwFqEGAfvm6qh8PAOgr) | 3:20 |
+| 65 | [Corazón Que Miente](https://open.spotify.com/track/4f7bWZTU5RDLAnD3DkLScO) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazón Que Miente](https://open.spotify.com/album/1mWGwFqEGAfvm6qh8PAOgr) | 3:20 |
+| 66 | [La Usurpadora](https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [1985\-1998](https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP) | 3:25 |
 | 67 | [Sólo Un Suspiro](https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE) | [Alejandra Orozco](https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3), [Oscar Cruz](https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF) | [Los Ganadores De La Voz](https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6) | 3:49 |
 | 68 | [Contra Viento Y Marea](https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:40 |
 | 69 | [Se Dice de Mi \(Yo Soy Betty la Fea\) \(Versión Completa\)](https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc) | [Yolanda Rayo](https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU) | [Se Dice de Mi, Yo Soy Betty la Fea.](https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x) | 2:25 |
 | 70 | [Amantes Prohibidos](https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Amantes Prohibidos](https://open.spotify.com/album/7KGRiWQIcO3aUqY5NowYK6) | 3:27 |
 
-Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDJhODA2ZTM5NzZkMjdlZDkzZGY4MGQwOTA5NzAwNTA5`
+Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDQwZTQ1NTRiNGRkZDVjN2JiMjllMDMyMjY0ZDgyMTZl`

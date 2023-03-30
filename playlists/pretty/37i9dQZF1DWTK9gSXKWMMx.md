@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 
 > Sit back and relax to the smooth sound of blues piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,653 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,693 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 | 13 | [Back Alley Blues](https://open.spotify.com/track/0YPkT8etYJykLRJIOUza6y) | [Peter Calandra](https://open.spotify.com/artist/3PtLe7U5nAWhiPJ8jKp6VB) | [Back Alley Blues](https://open.spotify.com/album/0G2mdy68fvOMjNszsGLuA8) | 6:33 |
 | 14 | [C.M\. Blues](https://open.spotify.com/track/2l8voBWRaYxvDNkzVim7p6) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Solo Piano](https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K) | 4:32 |
 | 15 | [Piano Blues: 100% Blues](https://open.spotify.com/track/1xJo9dOq8D3EguvNEjQAvQ) | [Background Instrumental Music Collective](https://open.spotify.com/artist/3DA9ZQAHHWQ2xFawOLaMPj), [Marcus Frye](https://open.spotify.com/artist/74YUYrxRyPvgtyMIWNOSH1) | [Memories of Piano Blues: Quiet Piano Blues, Greatest Dinner Jazz Piano Blues](https://open.spotify.com/album/3T86jLfPsO9z0yWY975jQc) | 4:25 |
-| 16 | [The Homeless Wanderer](https://open.spotify.com/track/1NUdV2Lc7e2sbC14T7kG4q) | [Tsegue\-Maryam Guebrou](https://open.spotify.com/artist/1wJQvcfqhxMm2X6ErAZNrq) | [Ethiopiques, vol\. 21: Emahoy \(Piano Solo\)](https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk) | 7:07 |
+| 16 | [The Homeless Wanderer](https://open.spotify.com/track/1NUdV2Lc7e2sbC14T7kG4q) | [Emahoy Tsegué\-Maryam Guébrou](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Ethiopiques, vol\. 21: Emahoy \(Piano Solo\)](https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk) | 7:07 |
 | 17 | [Blues for Anna](https://open.spotify.com/track/54uy5cIM0AGD2C5icmZtII) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 2:55 |
 | 18 | [Boogies](https://open.spotify.com/track/26DY6PwAh2BHagNyEzcldn) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Blues Piano](https://open.spotify.com/album/3EFQ3EAe9LZnwMmGSS5RZ1) | 4:30 |
 | 19 | [In Effigy](https://open.spotify.com/track/53aweR2cvoXfE4zwffiDnt) | [Kevin G\. Pace](https://open.spotify.com/artist/2xiNCnt5ncRZ90Gmvluky7) | [Piano Major Blues \(Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists\)](https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh) | 1:46 |

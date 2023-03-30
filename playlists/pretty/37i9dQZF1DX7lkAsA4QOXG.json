@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 91106,
+  "num_followers": 91390,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAwOTMxNywwMDAwMDAwMGY2NDFkMTgyMmFiNWRiNWNjY2JjZTdlNzJmZWVlYWZi",
+  "snapshot_id": "MTY4MDAwOTMxNywwMDAwMDAwMDljNDgxZWVhZmY1ZTZkYzZkMmEwZmYyOTQyZDU4ZWJh",
   "tracks": [
     {
       "added_at": "2023-03-28 13:15:17",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "The Sexy EP",
         "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 174466,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Take To The Sky",
-        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -379,6 +363,38 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "Take To The Sky",
+        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -407,22 +423,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
-      },
-      "artists": [
-        {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Karen Souza Essentials",
         "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 299040,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Pointless Nostalgic",
         "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 294293,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/32MYjAA4HpI6il0dZ7pe8e"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 299040,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Steer Your Way",
-        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 288880,
-      "name": "Steer Your Way (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
       },
@@ -543,18 +523,22 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
+        "name": "Steer Your Way",
+        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
       },
       "artists": [
         {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 262173,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
+      "duration_ms": 288880,
+      "name": "Steer Your Way (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -579,6 +563,22 @@
       "duration_ms": 228190,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ZcDIHP2IAuluC75GAZkz2"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 267279,
-      "name": "Blackbird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Always on my mind",
         "url": "https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 211528,
       "name": "Always on my mind",
       "url": "https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 267279,
+      "name": "Blackbird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Most of the Time",
-        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 216120,
       "name": "Wind Cries Mary",
       "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "Diamonds And Pearls",
-      "url": "https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 250133,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "Diamonds And Pearls",
+      "url": "https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
+        "name": "Mother Stands For Comfort",
+        "url": "https://open.spotify.com/album/3VMS5nN5sKgqt1GAvihrkt"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Mother Stands for Comfort",
+      "url": "https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
         "name": "Karen Souza Essentials",
         "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 214080,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3pMwgThbs4lcXs9h4EAIJg"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
-        "name": "Mother Stands For Comfort",
-        "url": "https://open.spotify.com/album/3VMS5nN5sKgqt1GAvihrkt"
-      },
-      "artists": [
-        {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "Mother Stands for Comfort",
-      "url": "https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
-        "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "For No One",
-      "url": "https://open.spotify.com/track/1fszxlX9SnaiWOZvIEjGFq"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 243314,
       "name": "Take a Walk On the Wild Side",
       "url": "https://open.spotify.com/track/3mZuoV46mUS6MkzF7ACeZN"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
+        "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "For No One",
+      "url": "https://open.spotify.com/track/1fszxlX9SnaiWOZvIEjGFq"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "If It's Magic",
-        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
-      },
-      "artists": [
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        }
-      ],
-      "duration_ms": 209338,
-      "name": "If It's Magic",
-      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "If It's Magic",
+        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "duration_ms": 209338,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
+        "name": "Start Again EP",
+        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "One Flight Down",
+      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
         "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
-        "name": "Start Again EP",
-        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "One Flight Down",
-      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
-      },
-      "artists": [
-        {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
-        }
-      ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "Basie's Beatle Bag",
-        "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "A Hard Day's Night",
-      "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
-    },
-    {
-      "added_at": "2023-03-28 13:15:17",
-      "album": {
         "name": "Just the Way You Are",
         "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 272625,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN"
+    },
+    {
+      "added_at": "2023-03-28 13:15:17",
+      "album": {
+        "name": "Basie's Beatle Bag",
+        "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "A Hard Day's Night",
+      "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
     },
     {
       "added_at": "2023-03-28 13:15:17",
@@ -1779,22 +1779,18 @@
     {
       "added_at": "2023-03-28 13:15:17",
       "album": {
-        "name": "The Gallery Concerts II (Jazz Poetry)",
-        "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
+        "name": "Viva la Vida",
+        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
       },
       "artists": [
         {
-          "name": "Jan Lundgren",
-          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
-        },
-        {
-          "name": "Hans Backenroth",
-          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
         }
       ],
-      "duration_ms": 303186,
-      "name": "She's Leaving Home - Live",
-      "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+      "duration_ms": 159541,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
     }
   ],
   "unique_name": "Jazz Covers",

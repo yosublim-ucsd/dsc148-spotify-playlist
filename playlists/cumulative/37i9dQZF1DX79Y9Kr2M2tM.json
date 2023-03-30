@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 187370,
       "name": "Haven Lea",
       "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
@@ -3472,6 +3472,24 @@
       "duration_ms": 234000,
       "name": "White Water",
       "url": "https://open.spotify.com/track/3D2jsYmtwlnK4kQLXHPUb5"
+    },
+    {
+      "album": {
+        "name": "Words Come Back",
+        "url": "https://open.spotify.com/album/0of3QHY3PLEAZSpF4fyxQS"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240097,
+      "name": "Words Come Back - Cover",
+      "url": "https://open.spotify.com/track/4johm4AP75seVlvuZaBUlg"
     },
     {
       "album": {

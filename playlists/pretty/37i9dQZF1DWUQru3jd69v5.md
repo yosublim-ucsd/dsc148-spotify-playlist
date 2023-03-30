@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Il Ghost in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,163 likes - 59 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,187 likes - 59 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

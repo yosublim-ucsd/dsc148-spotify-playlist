@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,462 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,575 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 2 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 |
 | 3 | [static cruising](https://open.spotify.com/track/7H5PrdZyqVYJTcsZq3a3rj) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [static cruising](https://open.spotify.com/album/6H1wcIEMZkuTHdJswlnM06) | 5:40 |
 | 4 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
-| 5 | [porco rosso](https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS) | 3:39 |
+| 5 | [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA) | 2:26 |
 | 6 | [Setra](https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [SETRA](https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4) | 2:08 |
-| 7 | [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA) | 2:26 |
+| 7 | [porco rosso](https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS) | 3:39 |
 | 8 | [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 |
 | 9 | [The Hills](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Hills / True Fours](https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp) | 2:40 |
 | 10 | [Drive](https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 3:59 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 20 | [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 |
 | 21 | [Pastis](https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Pastis](https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV) | 4:04 |
 | 22 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 |
-| 23 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
-| 24 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 |
+| 23 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 |
+| 24 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 25 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
 | 26 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
 | 27 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 38 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 39 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
 | 40 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
-| 41 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
-| 42 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
+| 41 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
+| 42 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
 | 43 | [14 Joints in a Spaceship](https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [14 Joints in a Spaceship](https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6) | 5:40 |
-| 44 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
-| 45 | [I Gotta Cry](https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 5:12 |
+| 44 | [I Gotta Cry](https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 5:12 |
+| 45 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
 | 46 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
 | 47 | [Mellina](https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Mellina](https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw) | 2:29 |
 | 48 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 54 | [YOU CAN DO IT](https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq) | 2:56 |
 | 55 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
 | 56 | [10Min JAM\_V2](https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [10Min JAM\_V2](https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D) | 1:39 |
-| 57 | [A Big Life](https://open.spotify.com/track/7cCJyKpa73zXiFI9FPJgmi) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [A Big Life](https://open.spotify.com/album/2WlDtr84VuvnCjK9C5XeY2) | 2:30 |
+| 57 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
 | 58 | [House Magic](https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY) | [Peter Schumann](https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I) | [Deeper Conversations EP](https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR) | 8:01 |
 | 59 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
 | 60 | [Chilli Heatwave](https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [31 Minutes of Relaxing ASMR](https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk) | 4:35 |
 
-Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMDU1NTE1N2YwOGFmMmQxNzMyYjMyNWFlNDllMjcxNzU1`
+Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMGQyMTA0NmNjYjVkMzgzNzA0ZTg4ZjI0N2E3ZGZhZjYx`

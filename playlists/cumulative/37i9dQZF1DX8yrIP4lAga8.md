@@ -4,7 +4,7 @@
 
 > The best Piano House tracks out now.
 
-166 songs - 9 hr 38 min
+167 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Paris \- Robbie Rivera Remix](https://open.spotify.com/track/3k8HoWASE0jPGjHhF8JBIf) | [68 Beats](https://open.spotify.com/artist/1C1Gl4V2wN91qazn4uPYzi), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Paris](https://open.spotify.com/album/4jJC7czg9yXpJh387wJ69g) | 3:09 | 2021-10-01 | 2022-07-14 |
 | [Paris City Jazz](https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Paris City Jazz](https://open.spotify.com/album/74oUF61TEC97Wbh4y3YsPS) | 5:43 | 2021-12-05 |  |
 | [Passion \(Do You Want It Right Now\) \- Radio Edit](https://open.spotify.com/track/2ZHdAm1SHNQc4BYSVAsK9I) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:11 | 2021-12-05 | 2022-05-23 |
-| [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 | 2021-10-01 |  |
+| [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 | 2021-10-01 | 2023-03-30 |
 | [Piece of Me](https://open.spotify.com/track/1ZQnV7ePl8yXoLjPfhWE5L) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Piece of Me](https://open.spotify.com/album/64wvW9YtNDyMBWgNjVl3v8) | 3:08 | 2021-12-05 | 2022-05-18 |
 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 | 2021-12-05 |  |
 | [Power](https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Power](https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL) | 3:18 | 2021-10-01 |  |
@@ -134,6 +134,7 @@
 | [Set You Free \- Secondcity Terrace 91 Remix](https://open.spotify.com/track/105u0Fvp88RztRoMU6ljrH) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [Set You Free \(Secondcity Terrace 91 Remix\)](https://open.spotify.com/album/3WHsUtkTJTqI3GekLLdESG) | 3:38 | 2021-10-01 | 2022-07-29 |
 | [Shout It Back](https://open.spotify.com/track/7hm7VeisaprvXd1OEdmCPu) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Shout It Back](https://open.spotify.com/album/1XBM1dFQTxEEuhQ5ONh9pK) | 3:23 | 2021-10-01 | 2022-07-26 |
 | [Simple Hit](https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/4cNRNpj5a81e2iF5cIb1n5) | 3:39 | 2021-10-01 | 2023-01-28 |
+| [Simple Hit](https://open.spotify.com/track/1WRYsNOdajLvZ1qLP1op73) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/69nHxXntI0fz61QeB9n4On) | 3:39 | 2021-10-01 |  |
 | [Sing Your Praises \- Shermanology Remix](https://open.spotify.com/track/6JyKEYpkTA1kfgfQC6XU9O) | [DEMOU](https://open.spotify.com/artist/734X8KsOPXz8PJxhsdIaxX), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sing Your Praises](https://open.spotify.com/album/6TE6re45whlz44erqEg2DF) | 3:03 | 2021-10-01 | 2022-07-29 |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-12-05 |  |
 | [Smile](https://open.spotify.com/track/7AV1g7h1KJlAvi8JoXBQ0p) | [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx) | [Smile](https://open.spotify.com/album/1dDZe1JQ7wnGY1roOOujNm) | 3:25 | 2021-10-01 | 2022-07-25 |

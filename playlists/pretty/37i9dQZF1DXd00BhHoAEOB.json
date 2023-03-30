@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 46288,
+  "num_followers": 46356,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA4MzU2MywwMDAwMDAwMDgxNjA4ZmZhZmRjN2RjMmNjMDA2MTcwZTdkN2ZlMzc4",
+  "snapshot_id": "MTY3NzA4MzU2MywwMDAwMDAwMDc1ZDQ0NjExNmVkZTg2Nzg1NTVhNGU1ODVlMDQ0Y2I1",
   "tracks": [
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1551,22 +1551,26 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Eso",
-        "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
+        "name": "Sol Redondo",
+        "url": "https://open.spotify.com/album/4VxzckECYwhZLsOZtFIxtm"
       },
       "artists": [
         {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+          "name": "Fernanda Ulibarri",
+          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
         },
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+        },
+        {
+          "name": "Musas Ensamble de Arpas",
+          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
         }
       ],
-      "duration_ms": 242944,
-      "name": "Eso",
-      "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
+      "duration_ms": 225365,
+      "name": "Sol Redondo",
+      "url": "https://open.spotify.com/track/3l2VZMsl934nTrNck6WNFa"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1611,26 +1615,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Sol Redondo",
-        "url": "https://open.spotify.com/album/4VxzckECYwhZLsOZtFIxtm"
+        "name": "Eso",
+        "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
       },
       "artists": [
         {
-          "name": "Fernanda Ulibarri",
-          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
         },
         {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
-        },
-        {
-          "name": "Musas Ensamble de Arpas",
-          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 225365,
-      "name": "Sol Redondo",
-      "url": "https://open.spotify.com/track/3l2VZMsl934nTrNck6WNFa"
+      "duration_ms": 242944,
+      "name": "Eso",
+      "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
     },
     {
       "added_at": "2023-02-22 16:32:42",

@@ -4657,6 +4657,24 @@
     },
     {
       "album": {
+        "name": "ch\u1edd",
+        "url": "https://open.spotify.com/album/6QBN7YlyEjz1FgJZAvJooB"
+      },
+      "artists": [
+        {
+          "name": "m\u1ed1i",
+          "url": "https://open.spotify.com/artist/2rDOa0khaLnzba0zxlwjIX"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284801,
+      "name": "d\u1ed1c ti\u00ean long",
+      "url": "https://open.spotify.com/track/7s6ovGQrG5gWLvA9lC1bnh"
+    },
+    {
+      "album": {
         "name": "Em ah em \u01a1i",
         "url": "https://open.spotify.com/album/4NryrTPc8NszuswYIxxfRh"
       },
@@ -6612,7 +6630,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 257174,
       "name": "H\u1ea1nh ph\u00fac tr\u00f2n",
       "url": "https://open.spotify.com/track/1ZCCXfXl7FFeYMuMXm4bqn"
@@ -10973,6 +10991,24 @@
     },
     {
       "album": {
+        "name": "PANADOL",
+        "url": "https://open.spotify.com/album/2vUOgWyIDJW1kzx5k17kGx"
+      },
+      "artists": [
+        {
+          "name": "Meii",
+          "url": "https://open.spotify.com/artist/2ZAYNi4sNWslPjGvtG0qmi"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152818,
+      "name": "PANADOL",
+      "url": "https://open.spotify.com/track/2G9B5GJOWI8vREC93h52uV"
+    },
+    {
+      "album": {
         "name": "PEACH 2",
         "url": "https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ"
       },
@@ -11439,6 +11475,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00ean \u0110i B\u00ecnh Y\u00ean M\u00ecnh T\u1eebng C\u00f3",
+        "url": "https://open.spotify.com/album/79wUh8mxfR8d7ppa48kvw2"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1DsuMvxjjWbfju1FGdcH3w"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213761,
+      "name": "Qu\u00ean \u0110i B\u00ecnh Y\u00ean M\u00ecnh T\u1eebng C\u00f3",
+      "url": "https://open.spotify.com/track/4RzpvnSDXsknrwH3B8Uagu"
+    },
+    {
+      "album": {
         "name": "Qu\u00ean \u0110\u1eb7t T\u00ean",
         "url": "https://open.spotify.com/album/0mSAYqvDCz9BcjSGLaRSyS"
       },
@@ -11826,6 +11880,28 @@
       "duration_ms": 220187,
       "name": "SAD BORDER (feat. Pajn)",
       "url": "https://open.spotify.com/track/0AhQIbDf55F8CscT7IDTqG"
+    },
+    {
+      "album": {
+        "name": "SALANGHAE (feat. Quantran)",
+        "url": "https://open.spotify.com/album/0j0jpJ4lbH03Ff8fnQbdvV"
+      },
+      "artists": [
+        {
+          "name": "stizky",
+          "url": "https://open.spotify.com/artist/79og3sTJllYOuSgQPdtpHM"
+        },
+        {
+          "name": "Quan Tran",
+          "url": "https://open.spotify.com/artist/6f7ELSXEzVJ0GmeOYmELRw"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144663,
+      "name": "SALANGHAE (feat. Quantran)",
+      "url": "https://open.spotify.com/track/4aMHZJi8oqGFXPK5NmflJv"
     },
     {
       "album": {
@@ -13826,7 +13902,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 202886,
       "name": "Trong \u0110\u00eam T\u1ed1i",
       "url": "https://open.spotify.com/track/0wLIVj72V9LDCYnqDfkhU0"
@@ -14106,7 +14182,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 249625,
       "name": "T\u00ecnh B\u1eb1ng Kh\u00f4ng",
       "url": "https://open.spotify.com/track/21ht6s6XlzisEPTXz0GIzM"
@@ -15078,7 +15154,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 176385,
       "name": "V\u00f2ng Xoay",
       "url": "https://open.spotify.com/track/6vpBwdPBDQwGmcXSw35RhP"

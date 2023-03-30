@@ -1515,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "crow's nest",
+        "url": "https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "crow's nest (feat. Ollie)",
+      "url": "https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko"
+    },
+    {
+      "album": {
         "name": "Crybaby",
         "url": "https://open.spotify.com/album/1P7qBeQFQthjTSOTQ1FmEy"
       },
@@ -5302,7 +5324,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 136153,
       "name": "Leaving (feat. the bootleg boy & Heroe)",
       "url": "https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL"
@@ -7419,6 +7441,24 @@
     },
     {
       "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "album": {
         "name": "promise I won't mess up",
         "url": "https://open.spotify.com/album/3j1zmRaTDsDLg5lkDzk352"
       },
@@ -8584,7 +8624,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 160900,
       "name": "Stoner",
       "url": "https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh"

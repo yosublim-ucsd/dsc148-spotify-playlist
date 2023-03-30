@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-247 songs - 16 hr 28 min
+248 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Homosapien](https://open.spotify.com/track/7gBZxDfVolYTmpJ8eBCU68) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Homosapien](https://open.spotify.com/album/59sf1CK6QyJ5DDaeru4xqG) | 4:34 | 2022-09-29 | 2022-11-13 |
 | [Homosapien](https://open.spotify.com/track/36XJWjuNKBax6KqdzpH7Wb) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Homosapien](https://open.spotify.com/album/2ADodHRpsTpPnd8PASc4i8) | 4:35 | 2021-11-17 | 2022-07-28 |
 | [Hounds Of Love](https://open.spotify.com/track/0iluWxTpC9QOdVPg3PROvm) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 3:03 | 2022-05-30 | 2022-07-29 |
+| [Hounds Of Love](https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 3:03 | 2022-11-17 |  |
 | [Hounds Of Love \- 2018 Remaster](https://open.spotify.com/track/7Gmds7ZyvhKdoU0Ho4GIxK) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 3:02 | 2022-05-30 | 2022-11-17 |
 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 | 2021-11-17 |  |
 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 | 2021-11-17 |  |
@@ -237,7 +238,7 @@
 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 | 2022-05-30 |  |
 | [Waiting Room](https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:53 | 2021-11-17 | 2022-07-29 |
 | [Walk out to Winter](https://open.spotify.com/track/6Z2TIb43jnjHcmMGSkxJcI) | [Aztec Camera](https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J) | [Original Album Series](https://open.spotify.com/album/2NDeCoNZbptYiw5tPMiwfa) | 3:24 | 2021-11-17 | 2022-07-02 |
-| [Walls Come Tumbling Down](https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Our Favourite Shop](https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa) | 3:24 | 2022-05-30 |  |
+| [Walls Come Tumbling Down](https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Our Favourite Shop](https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa) | 3:24 | 2022-05-30 | 2023-03-30 |
 | [Walls Come Tumbling Down](https://open.spotify.com/track/5LYXn7sJCHCIpf9ZiB31H0) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Our Favourite Shop \(Deluxe Edition\)](https://open.spotify.com/album/589d7vHMtOyqhXGsf5h9Rc) | 3:24 | 2021-11-17 | 2022-07-27 |
 | [Waterfall \- Remastered](https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:38 | 2021-11-17 |  |
 | [When It's Over](https://open.spotify.com/track/59RkLuqY3LSqK3rJGds6cP) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Youth of America](https://open.spotify.com/album/4rIPnx6cXrmLeDVkzT5poN) | 6:34 | 2021-11-17 | 2022-03-13 |

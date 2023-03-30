@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > The top tracks from RADAR Philippines in 2022\. Cover: Adie
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,331 likes - 20 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,402 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3130,10 +3130,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
+    },
+    {
+      "album": {
+        "name": "Kitsch",
+        "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
     },
     {
       "album": {
@@ -5824,7 +5842,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 179172,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
@@ -11022,6 +11040,28 @@
       "duration_ms": 265935,
       "name": "\u96e8\u4e0d\u505c\u3002\u6d41 - \u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur"
+    },
+    {
+      "album": {
+        "name": "Uniconfication",
+        "url": "https://open.spotify.com/album/7xlWrNZ5NHxhQz9hHFqgbv"
+      },
+      "artists": [
+        {
+          "name": "Capper",
+          "url": "https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba"
+        },
+        {
+          "name": "\u7f57\u8a00",
+          "url": "https://open.spotify.com/artist/34j9L1hyeq9JDSwUTgBhoE"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165989,
+      "name": "\u96ea Distance",
+      "url": "https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC"
     },
     {
       "album": {

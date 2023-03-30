@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll",
+        "url": "https://open.spotify.com/album/4qqK6IrMUj5S7nbv6RNrDm"
+      },
+      "artists": [
+        {
+          "name": "The Genies",
+          "url": "https://open.spotify.com/artist/0pxIV7HgczzPnHLTPQqsNu"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138004,
+      "name": "Who's That Knockin'",
+      "url": "https://open.spotify.com/track/7eG80yBKCgkReWgbgJyv5Z"
+    },
+    {
+      "album": {
         "name": "Goodies Old Is New: Come Dance With Me",
         "url": "https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy"
       },
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 137920,
       "name": "Who's That Knocking",
       "url": "https://open.spotify.com/track/3eYHhoaTGFYJ5XAjRFduUd"

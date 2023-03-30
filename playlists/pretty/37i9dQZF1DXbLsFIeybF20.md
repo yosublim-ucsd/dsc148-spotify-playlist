@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,371 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,378 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 36 | [His Eye Is On The Sparrow](https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Shake That Thing](https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k) | 6:12 |
 | 37 | [When I Get You Alone Tonight](https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB) | [Wingy Manone](https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG) | [Swinging Mainstream Sides](https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al) | 3:12 |
 | 38 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 |
-| 39 | [I Found a New Baby](https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq) | [Jazz In Hi\-Fi](https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn) | 2:44 |
-| 40 | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV) | [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5), [5th Ward Weebie](https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH) | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK) | 4:36 |
+| 39 | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV) | [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5), [5th Ward Weebie](https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH) | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK) | 4:36 |
+| 40 | [I Found a New Baby](https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq) | [Jazz In Hi\-Fi](https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn) | 2:44 |
 | 41 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
 | 42 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
 | 43 | [I Gotta Woman \- Bonus Track](https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J) | [Dejan's Olympia Brass Band](https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk) | [Here Come da Great Olympia Band](https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17) | 6:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Down by the Old Mill Stream](https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD) | [Chester Zardis](https://open.spotify.com/artist/3majGyUaFd1gTXhLtv4xOL), [Sammy Rimington](https://open.spotify.com/artist/3702astwMNkkYTOHIyl7iq), [Cliff'Kid'Bastien](https://open.spotify.com/artist/73h2V3iw1tcd1jTnBKNpwi), [Fredrik John](https://open.spotify.com/artist/4iidJfOVWQJdBef7MdsG7R), [Jon Marks](https://open.spotify.com/artist/7lRtDnRD2Ms6Wa3cG8JsDP), [Sven Stahlberg](https://open.spotify.com/artist/6lx7rmfwTNb6ZP4HMILwLh) | [New Orleans Footwarmers](https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ) | 4:18 |
 | 50 | [Somebody Stole My Gal](https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb) | [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN) | [Johnny St\. Cyr](https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf) | 3:38 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDkzYzM0MGUyYmJjZjllZTU4NTRhODMyMjA3MmRmN2U4`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDQ5MzE3OWI2NzU0MjVkYTgzNTZkMjlhMjI3MTQ3ZjJi`

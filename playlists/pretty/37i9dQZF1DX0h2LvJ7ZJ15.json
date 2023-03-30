@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 790827,
+  "num_followers": 792226,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5Njc5MSwwMDAwMDAwMDIxYjE5ZjRiNGIzMzg4ZGI1NmEwNDYyMmM1NmE2MDRi",
+  "snapshot_id": "MTY3NzU5Njc5MSwwMDAwMDAwMGZkZmU1NTM5ODFiZjEzNTg3N2I4MTM2NmE0NzRlZjE3",
   "tracks": [
     {
       "added_at": "2023-01-12 20:35:32",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
+        "name": "The Arrival: Part I (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+        }
+      ],
+      "duration_ms": 279250,
+      "name": "Renegade - (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
         "name": "Mary On A Cross (slowed + reverb)",
         "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
       },
@@ -291,18 +307,18 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "The Arrival: Part I (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg"
+        "name": "drowning (remixes)",
+        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
       },
       "artists": [
         {
-          "name": "Aaryan Shah",
-          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+          "name": "Vague003",
+          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
         }
       ],
-      "duration_ms": 279250,
-      "name": "Renegade - (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"
+      "duration_ms": 132576,
+      "name": "drowning (slowed + reverb)",
+      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -319,22 +335,6 @@
       "duration_ms": 195573,
       "name": "No Idea - Dj Purpberry Chopped and Screwed",
       "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
-        "name": "drowning (remixes)",
-        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
-      },
-      "artists": [
-        {
-          "name": "Vague003",
-          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
-        }
-      ],
-      "duration_ms": 132576,
-      "name": "drowning (slowed + reverb)",
-      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
+        "name": "Where's My Love (Slowed)",
+        "url": "https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 289536,
+      "name": "Where's My Love - Slowed",
+      "url": "https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
         "name": "Escapism. (Slowed Down)",
         "url": "https://open.spotify.com/album/3JHBuPAYgG72bLORrTFSTU"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 287135,
       "name": "Escapism. - Slowed Down",
       "url": "https://open.spotify.com/track/4D8h7lEUY0tVRGuX17tz3f"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
-        "name": "Where's My Love (Slowed)",
-        "url": "https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 289536,
-      "name": "Where's My Love - Slowed",
-      "url": "https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "Faster (Slowed & Reverb)",
-        "url": "https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16"
-      },
-      "artists": [
-        {
-          "name": "A.Oonthebeat",
-          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
-        },
-        {
-          "name": "Jupyter",
-          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
-        }
-      ],
-      "duration_ms": 199817,
-      "name": "Faster (Slowed & Reverb)",
-      "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
         "name": "Please Don\u2019t Kill My Vibes",
         "url": "https://open.spotify.com/album/7wZAMRDwtGZqiUDy1fxIbz"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 208793,
       "name": "Losing It - Slowed and Reverb",
       "url": "https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
+        "name": "Faster (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16"
+      },
+      "artists": [
+        {
+          "name": "A.Oonthebeat",
+          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
+        }
+      ],
+      "duration_ms": 199817,
+      "name": "Faster (Slowed & Reverb)",
+      "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        },
-        {
-          "name": "Slowed Down Songs + Reverb",
-          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
         "name": "My Head In The Sky",
         "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
       },
@@ -955,18 +935,38 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "Villains (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/6FZKyNYrKmICp07GkFjsAx"
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
       "artists": [
         {
-          "name": "Solstice",
-          "url": "https://open.spotify.com/artist/0jowzILNRrPmfpajO2iWmz"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
         }
       ],
-      "duration_ms": 187559,
-      "name": "Bad Habits (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr"
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
+        "name": "Desolation (Slowed)",
+        "url": "https://open.spotify.com/album/2G6duQAkO8EpK1BvnvpqQD"
+      },
+      "artists": [
+        {
+          "name": "CREEPYMANE",
+          "url": "https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz"
+        }
+      ],
+      "duration_ms": 120009,
+      "name": "Desolation - Slowed",
+      "url": "https://open.spotify.com/track/1AjVuojxTZXTdea148KbHJ"
     }
   ],
   "unique_name": "slowed and reverbed",

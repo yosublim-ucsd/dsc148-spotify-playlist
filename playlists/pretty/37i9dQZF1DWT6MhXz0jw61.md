@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,341 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,624 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 7 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 |
 | 8 | [Higher](https://open.spotify.com/track/5674iMrLRLr8Cl2TR1uEFM) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Look Both Ways](https://open.spotify.com/album/55NDLkwKO2idO20my0dXs8) | 3:08 |
 | 9 | [Gratuity](https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Gratuity](https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e) | 3:37 |
-| 10 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 10 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 11 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
 | 12 | [Settle Down](https://open.spotify.com/track/0i6Folip2JpQLM28EAyBj1) | [LOCS](https://open.spotify.com/artist/4sf3RuCPLlavd2EGv8JNEr) | [Settle Down](https://open.spotify.com/album/1lJbmC9VvgHEmuAwLChZEY) | 3:28 |
 | 13 | [Cold As Love](https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Live At The Novo](https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg) | 1:23 |

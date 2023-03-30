@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-620 songs - 1 day 22 hr 28 min
+621 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-05-24 |  |
 | [Looking Forward](https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Looking Forward](https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH) | 3:11 | 2023-01-26 |  |
 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 | 2022-04-14 | 2022-10-08 |
+| [Lost in Loneliness](https://open.spotify.com/track/6btI0640swxVX0ylPLwWFF) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Lost in Loneliness](https://open.spotify.com/album/1pmz9xQ1NpXrz6vceqxjne) | 3:56 | 2023-03-30 |  |
 | [Lost In Your Eyes](https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 4:02 | 2023-03-09 |  |
 | [Love and Peace](https://open.spotify.com/track/7kdZlgkWHnivQNSGe6AsTa) | [Joachim Kühn](https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg), [Chris Jennings](https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1) | [Love & Peace](https://open.spotify.com/album/7LhEJGta4uIPtAMC5AQm5n) | 1:59 | 2022-04-14 | 2022-10-08 |
 | [Love For Sale](https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Love For Sale](https://open.spotify.com/album/4qsdh6qILDPYgRXxo5ZRqO) | 3:52 | 2023-01-19 |  |
@@ -592,7 +593,7 @@
 | [We've Been Through This Before](https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [We've Been Through This Before](https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT) | 2:25 | 2023-01-19 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-05-24 |  |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-17 |  |
-| [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2022-04-14 |  |
+| [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2022-04-14 | 2023-03-30 |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-06-28 |  |
 | [When It's Sleepytime Down South](https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 5:09 | 2022-04-14 | 2023-03-29 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2022-04-14 |  |

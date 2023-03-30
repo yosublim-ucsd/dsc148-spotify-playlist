@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Vicenta",
-  "num_followers": 127751,
+  "num_followers": 127752,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGQ5MjYzMGU4NmFhMzA0N2EwYmEyNzQwZDMwMDEwZWVl",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDEzM2VmZjMxYTRlODE5YTU0ZGJjYjc3NmU3N2YzZTlj",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -315,22 +315,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Una Mitad de M\u00ed",
-        "url": "https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8"
+        "name": "Ella Me Dijo",
+        "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
       },
       "artists": [
         {
-          "name": "Era de Oro",
-          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 221625,
-      "name": "Una Mitad de M\u00ed",
-      "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"
+      "duration_ms": 187062,
+      "name": "Ella Me Dijo",
+      "url": "https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -359,18 +355,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ella Me Dijo",
-        "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
+        "name": "Una Mitad de M\u00ed",
+        "url": "https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+          "name": "Era de Oro",
+          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 187062,
-      "name": "Ella Me Dijo",
-      "url": "https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu"
+      "duration_ms": 221625,
+      "name": "Una Mitad de M\u00ed",
+      "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Inventar",
+        "url": "https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Vicentes",
+          "url": "https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39"
+        }
+      ],
+      "duration_ms": 222544,
+      "name": "Inventar",
+      "url": "https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Donde Mueren Todos",
         "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "La Sombra del Olvido",
-        "url": "https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 171390,
-      "name": "La Sombra del Olvido",
-      "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "intento 2: pi\u00e9nsalo bien",
         "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Inventar",
-        "url": "https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr"
+        "name": "La Sombra del Olvido",
+        "url": "https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Vicentes",
-          "url": "https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 222544,
-      "name": "Inventar",
-      "url": "https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ"
+      "duration_ms": 171390,
+      "name": "La Sombra del Olvido",
+      "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "De un Solo Aliento",
-        "url": "https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI"
-      },
-      "artists": [
-        {
-          "name": "Tunacola",
-          "url": "https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2"
-        }
-      ],
-      "duration_ms": 216502,
-      "name": "De un Solo Aliento",
-      "url": "https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Albor",
         "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 201123,
       "name": "Esta vislumbra",
       "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "De un Solo Aliento",
+        "url": "https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI"
+      },
+      "artists": [
+        {
+          "name": "Tunacola",
+          "url": "https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2"
+        }
+      ],
+      "duration_ms": 216502,
+      "name": "De un Solo Aliento",
+      "url": "https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "\u00c1rboles y Pasarelas",
+        "url": "https://open.spotify.com/album/42v671Ws24mgeGvj298gQB"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 335832,
+      "name": "\u00c1rboles y Pasarelas",
+      "url": "https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Rally",
         "url": "https://open.spotify.com/album/6QfsP07cjoW5kXagEQ4pUU"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 124009,
       "name": "Rally",
       "url": "https://open.spotify.com/track/7qq884i3tcpxJ1UIMPuH8g"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "\u00c1rboles y Pasarelas",
-        "url": "https://open.spotify.com/album/42v671Ws24mgeGvj298gQB"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 335832,
-      "name": "\u00c1rboles y Pasarelas",
-      "url": "https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "I Luz",
-        "url": "https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd"
-      },
-      "artists": [
-        {
-          "name": "Como Asesinar a Felipes",
-          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
-        }
-      ],
-      "duration_ms": 282084,
-      "name": "I Luz",
-      "url": "https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "arde lento (remixes)",
         "url": "https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8"
       },
@@ -1463,6 +1447,38 @@
       "duration_ms": 391125,
       "name": "diamantes (lorelei remix)",
       "url": "https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "I Luz",
+        "url": "https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        }
+      ],
+      "duration_ms": 282084,
+      "name": "I Luz",
+      "url": "https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
+      },
+      "artists": [
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+        }
+      ],
+      "duration_ms": 174654,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1499,42 +1515,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Tu Momento",
-        "url": "https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki"
-      },
-      "artists": [
-        {
-          "name": "Blanco Leal",
-          "url": "https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq"
-        },
-        {
-          "name": "EnSecreto",
-          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
-        }
-      ],
-      "duration_ms": 229985,
-      "name": "Tu Momento",
-      "url": "https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
-      },
-      "artists": [
-        {
-          "name": "Benji B",
-          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
-        }
-      ],
-      "duration_ms": 174654,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "TAMAGOTCHI",
         "url": "https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 199453,
       "name": "TAMAGOTCHI",
       "url": "https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Tu Momento",
+        "url": "https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki"
+      },
+      "artists": [
+        {
+          "name": "Blanco Leal",
+          "url": "https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq"
+        },
+        {
+          "name": "EnSecreto",
+          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
+        }
+      ],
+      "duration_ms": 229985,
+      "name": "Tu Momento",
+      "url": "https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD"
-      },
-      "artists": [
-        {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "sudreik",
         "url": "https://open.spotify.com/album/1nfU1ud5v3bMwpoFeeitI6"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 177405,
       "name": "sudreik",
       "url": "https://open.spotify.com/track/0H5ntnGLMwYbmhnHjicnYZ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD"
+      },
+      "artists": [
+        {
+          "name": "Paracaidistas",
+          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n"
     },
     {
       "added_at": "2023-03-24 03:00:00",

@@ -2,9 +2,9 @@
 
 ### [No Wahala](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
 
-> The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=fojlNFrTTAqXuhHrXxWftA"> AKA </a>
+> The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw"> ODUMODUBLVCK </a>
 
-154 songs - 8 hr 11 min
+155 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dangerous](https://open.spotify.com/track/71ozkaqkgsWV2aUl7zYHty) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Dangerous](https://open.spotify.com/album/6qPd7nTNkXx4VhmgryxRVH) | 4:51 | 2022-06-30 | 2022-09-23 |
 | [danser](https://open.spotify.com/track/576lLNRA4HnejTI5Q0c3zd) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [danser](https://open.spotify.com/album/2fmRDcnFbSR2T9oxDVcXPw) | 2:24 | 2022-02-17 | 2022-09-09 |
 | [David](https://open.spotify.com/track/04C965GjVjZ5QkqpykklEB) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [B4Now](https://open.spotify.com/album/0n3oKXQQknEwbBywUgiBzp) | 3:52 | 2021-10-14 | 2022-05-06 |
+| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-29 |  |
 | [Deposit](https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | ["EHH Baby" The Big Bang Theory](https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo) | 2:08 | 2022-05-12 | 2022-06-10 |
 | [DRK SKN](https://open.spotify.com/track/15LjBARGx20a8qAiNF4T0H) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:01 | 2022-02-17 | 2022-05-13 |
 | [Ease](https://open.spotify.com/track/39qkz1q7TkelO5Eb6YTKOv) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 4:17 | 2023-02-23 |  |
@@ -135,7 +136,7 @@
 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 | 2021-10-14 | 2022-03-08 |
 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 | 2021-10-14 | 2022-03-18 |
 | [Strip Club](https://open.spotify.com/track/6RoCWJW5MqFUiofRyWsbj9) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Strip Club / Over You](https://open.spotify.com/album/3xmtrrprZW5gWE0vv4QUXu) | 3:02 | 2022-06-09 | 2022-07-22 |
-| [Style & Fashion \(feat\. Obongjayar\)](https://open.spotify.com/track/3BhgQ0PWWyy7xaSd3ZjwWw) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 4:26 | 2021-10-14 |  |
+| [Style & Fashion \(feat\. Obongjayar\)](https://open.spotify.com/track/3BhgQ0PWWyy7xaSd3ZjwWw) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 4:26 | 2021-10-14 | 2023-03-30 |
 | [SUN](https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SUN / BABY BLUE 4’s](https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD) | 2:27 | 2021-11-18 |  |
 | [Take My Losses](https://open.spotify.com/track/2rdOsy3zOycov3yZb8y733) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [BONDZIE](https://open.spotify.com/album/73EY9M5qvGZY1UGBXfDBeu) | 3:21 | 2021-10-22 | 2022-08-19 |
 | [That Chick \(feat\. Money Badoo\)](https://open.spotify.com/track/5w6n5yb6UPcxz20naEYHlN) | [Faith K](https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba) | [Nangena](https://open.spotify.com/album/7hWvhVZIutFixBf5g62C4f) | 2:18 | 2022-03-04 | 2022-04-22 |

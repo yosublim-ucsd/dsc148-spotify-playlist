@@ -4,7 +4,7 @@
 
 > 結集香港EQUAL女聲力量！\(cover: Kiri T\)
 
-225 songs - 14 hr 27 min
+226 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Grey is the New Blue](https://open.spotify.com/track/4rwBzrDw4KJYCfaxlQaunW) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [Grey is the New Blue](https://open.spotify.com/album/0bqRnMd1qwAfb7I1M7upVT) | 5:03 | 2022-04-05 | 2022-05-04 |
 | [Hey u](https://open.spotify.com/track/3vJKrE9ZYD4qOuHShG8vrf) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [Hey u](https://open.spotify.com/album/5EGo1lAzXuQZtM4aEkNEgt) | 3:32 | 2022-11-30 |  |
 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-05-03 |  |
-| [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-11-30 |  |
+| [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-11-30 | 2023-03-30 |
+| [Hypocrite](https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j) | 3:20 | 2023-03-24 |  |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-10-05 |  |
 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 | 2022-11-01 |  |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-10-05 | 2022-12-01 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
-  "num_followers": 92903,
+  "num_followers": 92944,
   "original_name": "Mambo Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIzNDYzOCwwMDAwMDAwMGM0MGNkODNmZWU5MjU5MDE4YjU5NGE0OTQ0YmE3MGVm",
+  "snapshot_id": "MTY3ODIzNDYzOCwwMDAwMDAwMGI5MzliZTliMzFmMTFlODBjNTExNGYzMjlhM2QzOWY3",
   "tracks": [
     {
       "added_at": "2023-03-08 00:17:18",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Salsa With Me",
-        "url": "https://open.spotify.com/album/3kTrNkkPo0Vi3X5RSI6ygQ"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        },
-        {
-          "name": "Manny Roman",
-          "url": "https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Kimbya (feat. Manny Roman)",
-      "url": "https://open.spotify.com/track/5F9gVtm6rD5uGlkPgfXzRt"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Salsa Na' Ma'",
         "url": "https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W"
       },
@@ -699,6 +679,22 @@
       "duration_ms": 145358,
       "name": "El Yerbero",
       "url": "https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "The Golden Era of Salsa & Boogaloo",
+        "url": "https://open.spotify.com/album/0iGO2hS2EpQveaZlZ2nrwT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Marin",
+          "url": "https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Kimbya",
+      "url": "https://open.spotify.com/track/02ywqhNjMWGMX5oQC1v8fL"
     },
     {
       "added_at": "2023-03-08 00:17:18",

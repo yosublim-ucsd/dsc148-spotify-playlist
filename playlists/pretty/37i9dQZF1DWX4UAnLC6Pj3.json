@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel El Flaco & Josi Cuen en portada.",
-  "num_followers": 1098752,
+  "num_followers": 1099075,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMGE0MGZlNWU5MjVhODE1MDAwNmIzZWYxMDJiNWMyZDlm",
+  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMDMyN2M4YjAxNmY0YTk5NjY3YjdhNTE5MDE4NmM5MzFm",
   "tracks": [
     {
       "added_at": "2023-01-20 06:00:00",
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/3mUe9jWtdpNk9qkE976D1j"
     },
     {
-      "added_at": "2023-03-29 05:13:51",
+      "added_at": "2023-03-30 00:12:30",
       "album": {
         "name": "Gente Corriente",
         "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
     },
     {
+      "added_at": "2023-03-30 00:12:30",
+      "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
+    },
+    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "Me Rindo",
@@ -1087,22 +1103,6 @@
       "duration_ms": 220653,
       "name": "Me Rindo",
       "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
-    },
-    {
-      "added_at": "2023-03-29 05:13:51",
-      "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
     },
     {
       "added_at": "2023-01-16 19:52:16",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
     },
     {
-      "added_at": "2023-01-20 06:00:00",
-      "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Porque Soy Abeja Reina",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
       "added_at": "2023-01-16 19:52:16",
       "album": {
         "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
@@ -1283,6 +1267,22 @@
       "duration_ms": 196360,
       "name": "De Ti Exclusivo",
       "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
+    },
+    {
+      "added_at": "2023-01-20 06:00:00",
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Porque Soy Abeja Reina",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/0eomXwhvCUSFUtgrGzSLSX"
     },
     {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Lo Que No Es Pa' Uno",
-        "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Lo Que No Es Pa' Uno",
-      "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
-    },
-    {
       "added_at": "2023-02-17 06:00:00",
       "album": {
         "name": "Prefiero Estar Contigo (Deluxe)",
@@ -1387,6 +1371,22 @@
       "duration_ms": 220746,
       "name": "Te Va A Ir Bien",
       "url": "https://open.spotify.com/track/7nHD3IwYISHWeX946ZBUhp"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Lo Que No Es Pa' Uno",
+        "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Lo Que No Es Pa' Uno",
+      "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1437,7 +1437,23 @@
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
     },
     {
-      "added_at": "2023-03-29 05:13:51",
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Modo Crudo",
+        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 128513,
+      "name": "Modo Crudo",
+      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
+    },
+    {
+      "added_at": "2023-03-30 00:12:30",
       "album": {
         "name": "Prefiero Estar Muerto",
         "url": "https://open.spotify.com/album/6b227pi8A1XHMFZkU4aWyl"
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Modo Crudo",
-        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 128513,
-      "name": "Modo Crudo",
-      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "Las Edades (En Vivo)",
         "url": "https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF"
       },
@@ -1489,7 +1489,7 @@
       "url": "https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT"
     },
     {
-      "added_at": "2023-03-29 05:13:51",
+      "added_at": "2023-03-30 00:12:30",
       "album": {
         "name": "Hoy Me Puse A Tomar",
         "url": "https://open.spotify.com/album/7kmd08ir57Dian9BkXRNFf"
@@ -1593,7 +1593,23 @@
       "url": "https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S"
     },
     {
-      "added_at": "2023-03-29 05:13:51",
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "El HT",
+        "url": "https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 150056,
+      "name": "El HT",
+      "url": "https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK"
+    },
+    {
+      "added_at": "2023-03-30 00:12:30",
       "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/3ryD37i3Mw2gYL5PJwytTf"
@@ -1609,7 +1625,7 @@
       "url": "https://open.spotify.com/track/11lwWnUgcjlGTzGv4WnDnP"
     },
     {
-      "added_at": "2023-03-29 05:13:51",
+      "added_at": "2023-03-30 00:12:30",
       "album": {
         "name": "XV Aniversario",
         "url": "https://open.spotify.com/album/0ham1Jdp5A6r5issDCJQ3t"
@@ -1623,22 +1639,6 @@
       "duration_ms": 159538,
       "name": "Jugaste a Quererme",
       "url": "https://open.spotify.com/track/5gQROsI8b7Hn3p0U942kR6"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "El HT",
-        "url": "https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 150056,
-      "name": "El HT",
-      "url": "https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1693,7 +1693,7 @@
       "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
     },
     {
-      "added_at": "2023-03-29 05:13:51",
+      "added_at": "2023-03-30 00:12:30",
       "album": {
         "name": "Es Demasiado Tarde (En Vivo)",
         "url": "https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b"

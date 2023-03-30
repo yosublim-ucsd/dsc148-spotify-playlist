@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 84497,
+  "num_followers": 84545,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDkwMTNiODZlYWQwZjFmYmY5NThmN2EzOTdjZWVjN2Vm",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMGE1MzdhZjFjOTIwZWNhNGY5ZDQwYTc0MDBmZjhhOTFl",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Obi Ate Meso Buo",
@@ -423,6 +407,22 @@
       "duration_ms": 339253,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -475,6 +475,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Gasper Lawal",
+          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Kita Kita",
+      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Gasper Lawal",
-          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Kita Kita",
-      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -543,22 +543,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
-      },
-      "artists": [
-        {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Ojah Awake",
-      "url": "https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "The Best Of The Black President 2",
         "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 793200,
       "name": "Expensive Shit",
       "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Ojah Awake",
+      "url": "https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71"
     },
     {
       "added_at": "2019-06-28 16:54:51",

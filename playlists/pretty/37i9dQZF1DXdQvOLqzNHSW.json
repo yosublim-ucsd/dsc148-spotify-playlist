@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 907776,
+  "num_followers": 907949,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMzMDU3MSwwMDAwMDAwMDkzNjlhYTkyNzcwYjdlZTVkOTU1YWVlOTJkNjY1NmVk",
+  "snapshot_id": "MTY3OTMzMDU3MSwwMDAwMDAwMGUxNzllMmFhNDRlMDdmNjRjZjQzZmYyZDBlNzJjZjA2",
   "tracks": [
     {
       "added_at": "2023-01-04 15:03:16",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
-      "added_at": "2023-03-29 05:04:35",
+      "added_at": "2023-03-30 01:42:49",
       "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 183894,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 183894,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C"
     },
     {
+      "added_at": "2023-03-10 01:31:02",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 151565,
+      "name": "Talk Down",
+      "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO"
+    },
+    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Want U Around (feat. Ruel)",
@@ -659,22 +675,6 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
-      "added_at": "2023-03-10 01:31:02",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 151565,
-      "name": "Talk Down",
-      "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Business Solutions",
-        "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
-      },
-      "artists": [
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Business Solutions",
-      "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 134240,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6GH5wjtkTqJsS7tC3TjaWq"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Business Solutions",
+        "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Business Solutions",
+      "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
     },
     {
-      "added_at": "2022-11-17 20:14:42",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
       "added_at": "2023-01-05 18:22:41",
       "album": {
         "name": "A Violent Dichotomy",
@@ -1263,6 +1247,22 @@
       "duration_ms": 255113,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
+    },
+    {
+      "added_at": "2022-11-17 20:14:42",
+      "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
+        "name": "cz",
+        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 228946,
+      "name": "cz",
+      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 224448,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "cz",
-        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 228946,
-      "name": "cz",
-      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
     },
     {
       "added_at": "2023-01-03 14:46:39",

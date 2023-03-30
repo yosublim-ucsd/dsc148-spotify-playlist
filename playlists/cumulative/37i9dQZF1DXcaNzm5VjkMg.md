@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-74 songs - 5 hr 0 min
+75 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 | 2023-02-03 |  |
 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 | 2023-02-03 |  |
 | [Just You](https://open.spotify.com/track/6L68DyIsn6SqEN9rStOXb9) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Question Mark \(\(?\)\)](https://open.spotify.com/album/6VBu0XUEgmljCOxqJPbzWx) | 3:02 | 2023-02-03 |  |
-| [Kala Cinta Menggoda](https://open.spotify.com/track/1NmxBjg8ybFwQkiKVnRxws) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [By Request\-Seperti Yang Kau Minta](https://open.spotify.com/album/1n3e2JeVY2SUPD6LIYV16S) | 5:24 | 2023-02-03 |  |
+| [Kala Cinta Menggoda](https://open.spotify.com/track/4bYc6nyol1jKnCTUYtcr2E) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [My Love](https://open.spotify.com/album/1JGRzUgWJcj0mlgqsfiPGt) | 5:19 | 2023-02-03 |  |
+| [Kala Cinta Menggoda](https://open.spotify.com/track/1NmxBjg8ybFwQkiKVnRxws) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [By Request\-Seperti Yang Kau Minta](https://open.spotify.com/album/1n3e2JeVY2SUPD6LIYV16S) | 5:24 | 2023-02-03 | 2023-03-30 |
 | [Kamulah Satu\-Satunya](https://open.spotify.com/track/7qd2gICEYvgNJvYFWmDzA1) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Kamulah Satu\-Satunya](https://open.spotify.com/album/5yG5winkGz0uJNUofbpaiH) | 4:01 | 2023-02-03 |  |
 | [Karena Kucinta Kau](https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 4:52 | 2023-02-03 |  |
 | [Kasih Putih](https://open.spotify.com/track/3Qiv7UhkqYeBExD6gZ1m3k) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Kembali](https://open.spotify.com/album/7c9NuorRkB2t9ioSaRucBx) | 3:57 | 2023-02-03 |  |

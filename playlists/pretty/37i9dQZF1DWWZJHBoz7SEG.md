@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡\#Rauwsalía, Maluma y Anuel, Biza y Arcángel, Miranda! y Cristian Castro y más power couples para recibir la primavera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,350 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,482 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

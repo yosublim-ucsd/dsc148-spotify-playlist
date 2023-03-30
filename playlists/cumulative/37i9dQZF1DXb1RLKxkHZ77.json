@@ -576,7 +576,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 231019,
       "name": "Cincin",
       "url": "https://open.spotify.com/track/1EJg6foawSmh0vWKuIhm3m"
@@ -740,6 +740,28 @@
       "duration_ms": 306377,
       "name": "Di Alam Fana Cintamu",
       "url": "https://open.spotify.com/track/5WPTrrhMfB3U5B2N6rMMUR"
+    },
+    {
+      "album": {
+        "name": "Di Ujung Hari",
+        "url": "https://open.spotify.com/album/6EKeNdmZmzZpZanXKYA5wY"
+      },
+      "artists": [
+        {
+          "name": "Ungu",
+          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
+        },
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250034,
+      "name": "Di Ujung Hari",
+      "url": "https://open.spotify.com/track/1IZfp6REaaY2dF9U4fkEXV"
     },
     {
       "album": {
@@ -1562,6 +1584,28 @@
       "duration_ms": 201813,
       "name": "Kecewa",
       "url": "https://open.spotify.com/track/5kulMDqE2C0uCVUQ8X1Lby"
+    },
+    {
+      "album": {
+        "name": "Keluarga Bahagia",
+        "url": "https://open.spotify.com/album/5ne132S4dQd6cmaWKrZiXv"
+      },
+      "artists": [
+        {
+          "name": "Siti Nordiana",
+          "url": "https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH"
+        },
+        {
+          "name": "Saujana",
+          "url": "https://open.spotify.com/artist/0DRuczcdIj65lgrV8pF2mB"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308537,
+      "name": "Keluarga Bahagia",
+      "url": "https://open.spotify.com/track/2O4iDAgnQauDgSa1nX3UtN"
     },
     {
       "album": {
@@ -3026,7 +3070,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 199000,
       "name": "Sesaat Kau Hadir",
       "url": "https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP"

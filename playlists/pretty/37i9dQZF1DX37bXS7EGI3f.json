@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: REXORIA",
-  "num_followers": 723288,
+  "num_followers": 723459,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDBkNjhhZTIxNDY0ZTg2OTFhOTM4YjkwZTFjMTc1MDM4",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMGMyZGJhMTBjNjU0NzI4ODgyZDNjNDBjYWZhNDhjOGY2",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
       },
@@ -279,22 +295,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Reincarnation",
         "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
       },
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Venerate Me",
-        "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 283338,
-      "name": "Venerate Me",
-      "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 189533,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Venerate Me",
+        "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "duration_ms": 283338,
+      "name": "Venerate Me",
+      "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "What Else Is There?",
         "url": "https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0"
       },
@@ -475,38 +491,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
-      },
-      "artists": [
-        {
-          "name": "Dark Sarah",
-          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
-        }
-      ],
-      "duration_ms": 259068,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
+      },
+      "artists": [
+        {
+          "name": "Dark Sarah",
+          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
+        }
+      ],
+      "duration_ms": 259068,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -863,38 +863,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Towards The Dying Lands",
-        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
-      },
-      "artists": [
-        {
-          "name": "Horizon Ignited",
-          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Pop Metal",
-        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
-      },
-      "artists": [
-        {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "The Widow Maker",
         "url": "https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 235453,
       "name": "The Widow Maker - feat. Gunship",
       "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Over the Horizon Radar",
+        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
+      },
+      "artists": [
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 323990,
+      "name": "Over the Horizon Radar",
+      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Over the Horizon Radar",
-        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
       "artists": [
         {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
         }
       ],
-      "duration_ms": 323990,
-      "name": "Over the Horizon Radar",
-      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -975,22 +959,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Ishimura",
-        "url": "https://open.spotify.com/album/0hknSBplV9DntqhvmXEl1y"
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
       },
       "artists": [
         {
-          "name": "Jason Richardson",
-          "url": "https://open.spotify.com/artist/4fsZkYcSEUEvZK2tEjzrVY"
-        },
-        {
-          "name": "Luke Holland",
-          "url": "https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb"
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
         }
       ],
-      "duration_ms": 340280,
-      "name": "Ishimura",
-      "url": "https://open.spotify.com/track/3t49GXyhiMgs9xLmpoGFMo"
+      "duration_ms": 237000,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1007,6 +987,26 @@
       "duration_ms": 206400,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Ishimura",
+        "url": "https://open.spotify.com/album/0hknSBplV9DntqhvmXEl1y"
+      },
+      "artists": [
+        {
+          "name": "Jason Richardson",
+          "url": "https://open.spotify.com/artist/4fsZkYcSEUEvZK2tEjzrVY"
+        },
+        {
+          "name": "Luke Holland",
+          "url": "https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb"
+        }
+      ],
+      "duration_ms": 340280,
+      "name": "Ishimura",
+      "url": "https://open.spotify.com/track/3t49GXyhiMgs9xLmpoGFMo"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "God Is Silent",
-        "url": "https://open.spotify.com/album/66xCgz4iKULVQ44Ymthzog"
+        "name": "Deadnight Warrior",
+        "url": "https://open.spotify.com/album/4udcCVFs8yisGUOUnpB0zK"
       },
       "artists": [
         {
-          "name": "Avatarium",
-          "url": "https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 366483,
-      "name": "God Is Silent",
-      "url": "https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV"
+      "duration_ms": 173234,
+      "name": "Deadnight Warrior",
+      "url": "https://open.spotify.com/track/6KzQedLjxK2WTnN7B1zn16"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Deadnight Warrior",
-        "url": "https://open.spotify.com/album/4udcCVFs8yisGUOUnpB0zK"
+        "name": "God Is Silent",
+        "url": "https://open.spotify.com/album/66xCgz4iKULVQ44Ymthzog"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Avatarium",
+          "url": "https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA"
         }
       ],
-      "duration_ms": 173234,
-      "name": "Deadnight Warrior",
-      "url": "https://open.spotify.com/track/6KzQedLjxK2WTnN7B1zn16"
+      "duration_ms": 366483,
+      "name": "God Is Silent",
+      "url": "https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Black Venom",
-        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
-      },
-      "artists": [
-        {
-          "name": "Without Warning",
-          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Black Venom",
-      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 224200,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Load Your Cannons",
+        "url": "https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j"
+      },
+      "artists": [
+        {
+          "name": "Saint Deamon",
+          "url": "https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Load Your Cannons",
+      "url": "https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ"
     }
   ],
   "unique_name": "Epic & Melodic",

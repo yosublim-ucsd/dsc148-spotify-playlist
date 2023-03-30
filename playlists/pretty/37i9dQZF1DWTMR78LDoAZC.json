@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Miya Folick",
-  "num_followers": 110542,
+  "num_followers": 110634,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIxNzM4MSwwMDAwMDAwMGYwZTA5ZGJmZWJiNGY5NWIyNDc2N2Y2ZTQ0MDEzMzRm",
+  "snapshot_id": "MTY3ODIxNzM4MSwwMDAwMDAwMDM1YmZiMWMxZTJjNDBkYjZlYTZjMTlkMTQ5NmI3ZWYz",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Super Monster",
         "url": "https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 188097,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Got Weird",
-        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 202435,
-      "name": "Got Weird",
-      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -632,22 +632,6 @@
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
@@ -659,6 +643,22 @@
       "duration_ms": 229341,
       "name": "You're The One - Spotify Singles",
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "claire (deluxe)",
-        "url": "https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA"
-      },
-      "artists": [
-        {
-          "name": "kezia",
-          "url": "https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI"
-        }
-      ],
-      "duration_ms": 149955,
-      "name": "megan fox",
-      "url": "https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 241097,
       "name": "Tenderness",
       "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "claire (deluxe)",
+        "url": "https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA"
+      },
+      "artists": [
+        {
+          "name": "kezia",
+          "url": "https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI"
+        }
+      ],
+      "duration_ms": 149955,
+      "name": "megan fox",
+      "url": "https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Ur Gonna Wish U Believed Me",
-        "url": "https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 271420,
-      "name": "Ur Gonna Wish U Believed Me",
-      "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Ur Gonna Wish U Believed Me",
+        "url": "https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 271420,
+      "name": "Ur Gonna Wish U Believed Me",
+      "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Pretty Girl hi!",
-        "url": "https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 112413,
-      "name": "Pretty Girl hi!",
-      "url": "https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "nice",
         "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 176318,
       "name": "death proof",
       "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Pretty Girl hi!",
+        "url": "https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 112413,
+      "name": "Pretty Girl hi!",
+      "url": "https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj"
     },
     {
       "added_at": "2023-03-07 19:29:41",

@@ -1,12 +1,12 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1718991,
+  "num_followers": 1719369,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MTMyNiwwMDAwMDAwMGE4ZmZmZTQ2YmRlYjJlNGVmMzY2YWY3ZGE3MDg1MTgx",
+  "snapshot_id": "MTY3NjY0MTMyNiwwMDAwMDAwMDkwMWE1N2FjYmU0ODBlMmUwYzZhNGNiOWFhMmI2ZjZh",
   "tracks": [
     {
       "added_at": "2023-02-17 13:42:06",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "In Deep",
-        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
+        "name": "Saving My Love",
+        "url": "https://open.spotify.com/album/2nUiM1iTSLxDIvvohxrKl8"
       },
       "artists": [
         {
-          "name": "Beachwax",
-          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 171289,
-      "name": "In Deep",
-      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
+      "duration_ms": 292667,
+      "name": "Saving My Love",
+      "url": "https://open.spotify.com/track/3je1VcyoT3FEH6AbttouZj"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Saving My Love",
-        "url": "https://open.spotify.com/album/2nUiM1iTSLxDIvvohxrKl8"
+        "name": "In Deep",
+        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+          "name": "Beachwax",
+          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
         }
       ],
-      "duration_ms": 292667,
-      "name": "Saving My Love",
-      "url": "https://open.spotify.com/track/3je1VcyoT3FEH6AbttouZj"
+      "duration_ms": 171289,
+      "name": "In Deep",
+      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -491,38 +491,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Looking for You",
-        "url": "https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN"
-      },
-      "artists": [
-        {
-          "name": "Novino",
-          "url": "https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X"
-        }
-      ],
-      "duration_ms": 115188,
-      "name": "Looking for You",
-      "url": "https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
-        "name": "Happy Days",
-        "url": "https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw"
-      },
-      "artists": [
-        {
-          "name": "Beachwax",
-          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
-        }
-      ],
-      "duration_ms": 196369,
-      "name": "Happy Days",
-      "url": "https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 157992,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Looking for You",
+        "url": "https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN"
+      },
+      "artists": [
+        {
+          "name": "Novino",
+          "url": "https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X"
+        }
+      ],
+      "duration_ms": 115188,
+      "name": "Looking for You",
+      "url": "https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -591,6 +575,38 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
+        "name": "Happy Days",
+        "url": "https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw"
+      },
+      "artists": [
+        {
+          "name": "Beachwax",
+          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
+        }
+      ],
+      "duration_ms": 196369,
+      "name": "Happy Days",
+      "url": "https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1X5uwgpBZCygtKeR9Ebp1o"
+      },
+      "artists": [
+        {
+          "name": "Jako Diaz",
+          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2qsUw1xPsAZIZMIKQlVP7y"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
         "name": "The Lovers",
         "url": "https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1X5uwgpBZCygtKeR9Ebp1o"
-      },
-      "artists": [
-        {
-          "name": "Jako Diaz",
-          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2qsUw1xPsAZIZMIKQlVP7y"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Vella",
         "url": "https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Boardwalk Lullaby",
-        "url": "https://open.spotify.com/album/5czR37oCAa3TYKxuAQzfJJ"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 164869,
-      "name": "Boardwalk Lullaby",
-      "url": "https://open.spotify.com/track/36Y9QenzjmEBtuOBz14dNA"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 220954,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Boardwalk Lullaby",
+        "url": "https://open.spotify.com/album/5czR37oCAa3TYKxuAQzfJJ"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 164869,
+      "name": "Boardwalk Lullaby",
+      "url": "https://open.spotify.com/track/36Y9QenzjmEBtuOBz14dNA"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67"
-      },
-      "artists": [
-        {
-          "name": "Pool Blue",
-          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "All Equal",
         "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 222992,
       "name": "All Equal",
       "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67"
+      },
+      "artists": [
+        {
+          "name": "Pool Blue",
+          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Demurity",
-        "url": "https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v"
-      },
-      "artists": [
-        {
-          "name": "Plomb",
-          "url": "https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Demurity",
-      "url": "https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Rising Tide",
         "url": "https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 451013,
       "name": "Rising Tide",
       "url": "https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Demurity",
+        "url": "https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v"
+      },
+      "artists": [
+        {
+          "name": "Plomb",
+          "url": "https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Demurity",
+      "url": "https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Running Faster",
-        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
+        "name": "Be Your Home",
+        "url": "https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M"
       },
       "artists": [
         {
-          "name": "Mellowdy",
-          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+          "name": "minite",
+          "url": "https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY"
         }
       ],
-      "duration_ms": 140263,
-      "name": "Running Faster",
-      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
+      "duration_ms": 151111,
+      "name": "Be Your Home",
+      "url": "https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Be Your Home",
-        "url": "https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M"
+        "name": "Running Faster",
+        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
       },
       "artists": [
         {
-          "name": "minite",
-          "url": "https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY"
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
         }
       ],
-      "duration_ms": 151111,
-      "name": "Be Your Home",
-      "url": "https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat"
+      "duration_ms": 140263,
+      "name": "Running Faster",
+      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
+        "name": "Curvature",
+        "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
+      },
+      "artists": [
+        {
+          "name": "Colton Jefferson",
+          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
+        }
+      ],
+      "duration_ms": 153027,
+      "name": "Curvature",
+      "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
         "name": "flux de vibrations",
         "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Curvature",
-        "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
+        "name": "Glassy Haze",
+        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
       },
       "artists": [
         {
-          "name": "Colton Jefferson",
-          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
+          "name": "Kubicova",
+          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
         }
       ],
-      "duration_ms": 153027,
-      "name": "Curvature",
-      "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
+      "duration_ms": 153652,
+      "name": "Glassy Haze",
+      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1207,18 +1223,34 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Glassy Haze",
-        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
+        "name": "Suen\u0303o Lu\u0301cido",
+        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
       },
       "artists": [
         {
-          "name": "Kubicova",
-          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+          "name": "Ralf",
+          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Glassy Haze",
-      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
+      "duration_ms": 245106,
+      "name": "Suen\u0303o Lu\u0301cido",
+      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Day Drinks",
+        "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
+      },
+      "artists": [
+        {
+          "name": "Sonic",
+          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
+        }
+      ],
+      "duration_ms": 137454,
+      "name": "Day Drinks",
+      "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1235,22 +1267,6 @@
       "duration_ms": 161590,
       "name": "Carte blanche",
       "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
-        "name": "Suen\u0303o Lu\u0301cido",
-        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
-      },
-      "artists": [
-        {
-          "name": "Ralf",
-          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Suen\u0303o Lu\u0301cido",
-      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1283,22 +1299,6 @@
       "duration_ms": 346214,
       "name": "Soldiner",
       "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
-        "name": "Day Drinks",
-        "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
-      },
-      "artists": [
-        {
-          "name": "Sonic",
-          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
-        }
-      ],
-      "duration_ms": 137454,
-      "name": "Day Drinks",
-      "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Vibrant Presence",
-        "url": "https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL"
-      },
-      "artists": [
-        {
-          "name": "Dye O",
-          "url": "https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Vibrant Presence",
-      "url": "https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 228130,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Vibrant Presence",
+        "url": "https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL"
+      },
+      "artists": [
+        {
+          "name": "Dye O",
+          "url": "https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Vibrant Presence",
+      "url": "https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "As Long As You Love Me",
-        "url": "https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m"
-      },
-      "artists": [
-        {
-          "name": "Lilly Bay",
-          "url": "https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31"
-        }
-      ],
-      "duration_ms": 158368,
-      "name": "As Long As You Love Me",
-      "url": "https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 182267,
       "name": "Still Need People",
       "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "As Long As You Love Me",
+        "url": "https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m"
+      },
+      "artists": [
+        {
+          "name": "Lilly Bay",
+          "url": "https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31"
+        }
+      ],
+      "duration_ms": 158368,
+      "name": "As Long As You Love Me",
+      "url": "https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs"
     },
     {
       "added_at": "2023-02-17 13:42:06",

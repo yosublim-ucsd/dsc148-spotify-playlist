@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-262 songs - 22 hr 1 min
+263 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [It's Beginning To Rain Again](https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [It's Beginning to Rain Again](https://open.spotify.com/album/1F5qfxG8bGJkrlymdB3C2N) | 4:47 | 2022-05-18 | 2022-07-29 |
 | [It's Easy To Remember](https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 2:45 | 2022-09-16 | 2023-03-18 |
 | [It's Easy To Remember \- Live](https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 7:08 | 2022-05-18 | 2022-11-11 |
+| [Kept running](https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Kept running](https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt) | 2:44 | 2023-03-23 |  |
 | [Lazy Steps](https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lazy Steps](https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj) | 3:48 | 2023-02-12 |  |
 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 | 2022-05-18 |  |
 | [Left Alone](https://open.spotify.com/track/66EfRZTVNbOU5hQasXP1dK) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Left Alone](https://open.spotify.com/album/6R6AEilPIJEoPSDITHiJIn) | 6:04 | 2022-05-18 | 2022-07-29 |
@@ -252,7 +253,7 @@
 | [When October Goes](https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27) | [John Brown](https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5) | [Quiet Time](https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT) | 8:12 | 2022-09-22 |  |
 | [When You Are Near](https://open.spotify.com/track/0b7B42MUMSywoNjY43dkD3) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n) | 8:22 | 2022-06-29 | 2022-09-23 |
 | [When You Are Near](https://open.spotify.com/track/7dWzkzCjOVVkJDTEeWrCZ0) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/2n12HqIagVlEPeXY4hhWUs) | 8:22 | 2022-05-18 | 2022-07-29 |
-| [When You Return](https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [When You Return](https://open.spotify.com/album/2qwg1oqLV6X7JgsB774y0H) | 5:45 | 2022-11-10 |  |
+| [When You Return](https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [When You Return](https://open.spotify.com/album/2qwg1oqLV6X7JgsB774y0H) | 5:45 | 2022-11-10 | 2023-03-30 |
 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 | 2022-05-18 | 2023-03-18 |
 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 | 2022-09-08 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2022-06-03 |  |

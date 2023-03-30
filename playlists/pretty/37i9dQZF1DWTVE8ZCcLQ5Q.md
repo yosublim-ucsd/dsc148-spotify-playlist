@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,752 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,748 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 33 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 |
 | 34 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
 | 35 | [Te Deixo Crazy](https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Te Deixo Crazy](https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan) | 2:44 |
-| 36 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 |
-| 37 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
+| 36 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
+| 37 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 |
 | 38 | [aff...](https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [aff...](https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo) | 2:44 |
 | 39 | [Garrafa Colorida](https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl) | [Garrafa Colorida](https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC) | 2:44 |
 | 40 | [O Último Xote do Ano](https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe), [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [O Último Xote do Ano](https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Devagarin](https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Devagarin](https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F) | 2:34 |
 | 60 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 |
 
-Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDhiNWQ5YmMzZGU3Y2Q4ZjkyN2FmMGFhOTk3MWFmNDcx`
+Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDdmNDU5YmQ0Y2QzODdkNDZmNTc4ODdjYTBiNzNjZTgz`

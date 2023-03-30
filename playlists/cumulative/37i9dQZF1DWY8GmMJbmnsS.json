@@ -52,7 +52,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 191320,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 325946,
       "name": "A Song for You",
       "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Joy Ride",
+        "url": "https://open.spotify.com/album/2wJt6u240XneVkyLc0ixla"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271466,
+      "name": "Be My Girl",
+      "url": "https://open.spotify.com/track/34nT7RkrF1bimYlQUFEpkq"
+    },
+    {
+      "album": {
         "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
         "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198920,
       "name": "Betcha By Golly, Wow",
       "url": "https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb"
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Crying In The Chapel",
       "url": "https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 196640,
       "name": "Do Right Woman, Do Right Man",
       "url": "https://open.spotify.com/track/6cLEpgDcEldV1n9gusHQUX"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201866,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/0oQtjAjUeksVd9gHE5fl02"
@@ -365,6 +383,24 @@
     },
     {
       "album": {
+        "name": "The Complete Atco, Loma & Warner Bros. Recordings",
+        "url": "https://open.spotify.com/album/3JZq1orvyb2MxF4iFDY80t"
+      },
+      "artists": [
+        {
+          "name": "Linda Jones",
+          "url": "https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160626,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/4TTKacCeIq21weP36gy6AS"
+    },
+    {
+      "album": {
         "name": "One More Mountain",
         "url": "https://open.spotify.com/album/4Am0fajokK3jCMfhThAZll"
       },
@@ -376,7 +412,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241586,
       "name": "I Believe In You And Me",
       "url": "https://open.spotify.com/track/1a6o3Lh2T6u1m3FRCf1hcB"
@@ -560,7 +596,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 182520,
       "name": "In the Still of the Night",
       "url": "https://open.spotify.com/track/3Dd3FK9DSaoMoUKA5ZPVgw"
@@ -596,7 +632,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 381360,
       "name": "Just To Be Close To You",
       "url": "https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ"
@@ -632,7 +668,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 216600,
       "name": "Let Me Make Love To You",
       "url": "https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR"
@@ -704,7 +740,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 217066,
       "name": "Love on a Two Way Street",
       "url": "https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI"
@@ -906,7 +942,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 148886,
       "name": "Pledging My Love",
       "url": "https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT"
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 373560,
       "name": "Stay In My Corner",
       "url": "https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4"
@@ -1219,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "The Best of Sam & Dave",
+        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+    },
+    {
+      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -1252,6 +1306,24 @@
       "duration_ms": 187586,
       "name": "Wholy Holy",
       "url": "https://open.spotify.com/track/5NsWakKHyPAKSlLEtgHQZb"
+    },
+    {
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Wholy Holy",
+      "url": "https://open.spotify.com/track/4KyyKvKDgVYiwoGJOa0xVd"
     },
     {
       "album": {

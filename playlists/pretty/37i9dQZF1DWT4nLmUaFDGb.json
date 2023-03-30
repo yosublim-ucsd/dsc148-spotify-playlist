@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 367974,
+  "num_followers": 368428,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAwMjUyMiwwMDAwMDAwMDdkYTg0MDQ2MTg5OTczMTI3NGQxN2M5YTAzNTcyOTM1",
+  "snapshot_id": "MTY4MDAwMjUyMiwwMDAwMDAwMDI0MGZhYzc0NzMxYWVjMmY4OTFjMjllODgyY2MzOTI4",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -551,38 +567,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "end credits",
-        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 248500,
-      "name": "end credits",
-      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 150813,
       "name": "Jimmy Jazz",
       "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Currency Of Man (The Artist's Cut)",
-        "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 305578,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 216453,
       "name": "Just Like Chet",
       "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Currency Of Man (The Artist's Cut)",
+        "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305578,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "The Complete Great American Songbook",
-        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 236469,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "The Complete Great American Songbook",
+        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1219,26 +1219,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
-        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
+        "name": "Bells On Sand",
+        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
       "artists": [
         {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
         },
         {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 344223,
-      "name": "Calling You",
-      "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
+      "duration_ms": 329306,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1259,22 +1255,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Bells On Sand",
-        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
+        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
+        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
       "artists": [
         {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
         },
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 329306,
-      "name": "Just A Dream",
-      "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
+      "duration_ms": 344223,
+      "name": "Calling You",
+      "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
       },
       "artists": [
         {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm"
     }
   ],
   "unique_name": "Easy Jazz",

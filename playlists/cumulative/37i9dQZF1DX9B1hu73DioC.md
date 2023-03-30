@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-605 songs - 1 day 12 hr 42 min
+606 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2020-10-05\* | 2022-09-30 |
 | [Friends](https://open.spotify.com/track/0q0fJWjbiK5DSKCSN1GKsK) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/2ylgkcYanTrAeBdqQSSDBE) | 3:06 | 2020-10-05\* | 2022-04-15 |
 | [From the Back of a Cab \- Ben Böhmer Remix](https://open.spotify.com/track/6OrLovzoCKCwsiGYydDpKt) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Changephobia Remixes: Part I + II](https://open.spotify.com/album/52hx36jPOBdw8Olunoirf5) | 3:26 | 2022-03-07 | 2022-07-22 |
-| [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2020-10-16 |  |
+| [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2020-10-16 | 2023-03-30 |
 | [GARDEN 2 \- Spencer\. Remix](https://open.spotify.com/track/4PTVeseRKeHsJyw3VuOKGS) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [SLEEP CYCLE Remixes](https://open.spotify.com/album/4WGEDA8ooTjCiOHgWz6sjT) | 1:29 | 2021-06-04 | 2022-06-03 |
 | [Gemini and Leo \- Edit](https://open.spotify.com/track/00aTAUXcHPWUDxupOKMauy) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Gemini and Leo](https://open.spotify.com/album/2GWtyxZd4E4kPM98yglBVY) | 3:42 | 2021-06-25 | 2022-07-21 |
 | [Get Closer](https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Get Closer](https://open.spotify.com/album/1SKAfddsLQC9iKrYq1dAOm) | 3:21 | 2021-06-04 | 2022-07-28 |
@@ -251,6 +251,7 @@
 | [Heaven's Hands](https://open.spotify.com/track/5DPnQp2C5zLg26KBoSE0iQ) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Heaven's Hands](https://open.spotify.com/album/7wVHU8SpsV9KGzD51MdN6G) | 3:20 | 2021-10-08 | 2022-07-16 |
 | [Heavenly](https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:48 | 2020-10-05\* | 2022-04-18 |
 | [Hedonism](https://open.spotify.com/track/3kdmNxqlcuQf7ddHFEaHiJ) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Hedonism](https://open.spotify.com/album/7w6PvWIy5xdMWrSIBFwF44) | 2:54 | 2022-10-07 | 2022-10-15 |
+| [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-03-29 |  |
 | [Here It Comes \(The Road\) Let's Go](https://open.spotify.com/track/4xpx3cBdkzHR78IwDPjIGP) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Here It Comes \(The Road\) Let's Go](https://open.spotify.com/album/7ztjR9QRu3A6eMEAEtFRlf) | 4:41 | 2020-10-05\* | 2020-10-06 |
 | [Hesitate](https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj) | 4:11 | 2020-10-16 | 2022-11-11 |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2022-07-25 |  |
@@ -489,7 +490,7 @@
 | [Sixty Summers](https://open.spotify.com/track/595FAzn7RvuGdSn473jOaI) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Sixty Summers](https://open.spotify.com/album/51xOggJs98Kdp21rkQQexX) | 3:19 | 2021-05-10 | 2022-05-29 |
 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-07 |  |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
-| [Sole Obsession](https://open.spotify.com/track/7KyUA18iLNvY4rrIXtM9vN) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Sole Obsession](https://open.spotify.com/album/457QUbOQKv5pXEzvNXE1l8) | 4:17 | 2023-03-28 |  |
+| [Sole Obsession](https://open.spotify.com/track/7KyUA18iLNvY4rrIXtM9vN) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Sole Obsession](https://open.spotify.com/album/457QUbOQKv5pXEzvNXE1l8) | 4:17 | 2023-03-27 |  |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2020-10-05\* | 2022-04-21 |
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2022-07-25 | 2022-09-30 |
 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 | 2020-10-20 |  |

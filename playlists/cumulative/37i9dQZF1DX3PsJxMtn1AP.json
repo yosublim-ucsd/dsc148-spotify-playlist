@@ -184,10 +184,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 244772,
       "name": "Be On Your Way",
       "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Bedroom Exile - Spotify Singles",
+      "url": "https://open.spotify.com/track/41nuWG6XRUTGlFSOumec21"
     },
     {
       "album": {
@@ -552,7 +570,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 256915,
       "name": "Hiding In My Room",
       "url": "https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 241003,
       "name": "Lain (phone clone)",
       "url": "https://open.spotify.com/track/2JGvSzxJASZkdGxOVPQ0sP"
@@ -774,6 +792,24 @@
       "duration_ms": 216053,
       "name": "Moody Cumbia",
       "url": "https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9"
+    },
+    {
+      "album": {
+        "name": "Mormor",
+        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
       "album": {
@@ -842,7 +878,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 224760,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
@@ -930,6 +966,24 @@
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
+    },
+    {
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166039,
+      "name": "Perfect Blue",
+      "url": "https://open.spotify.com/track/4c7nNdZi1x61Pjvrgww4HD"
     },
     {
       "album": {
@@ -1104,7 +1158,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 160624,
       "name": "Same Old Story",
       "url": "https://open.spotify.com/track/1xDVhh7gk3g9lkzRNQUDBq"
@@ -1209,6 +1263,42 @@
     },
     {
       "album": {
+        "name": "Su S\u0131z\u0131yor",
+        "url": "https://open.spotify.com/album/0eVvTt2KZztpxztS0JvgMd"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Su S\u0131z\u0131yor",
+      "url": "https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te"
+    },
+    {
+      "album": {
         "name": "The Smell of Your Hair",
         "url": "https://open.spotify.com/album/5ShXw6uLiiBezqx1ODEABH"
       },
@@ -1260,7 +1350,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 219106,
       "name": "This World Couldn\u2019t See Us",
       "url": "https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm"
@@ -1318,6 +1408,24 @@
       "duration_ms": 202844,
       "name": "una pistola",
       "url": "https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m"
+    },
+    {
+      "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/3lD8cKHQpYN6YFAogSaUoV"
+      },
+      "artists": [
+        {
+          "name": "SEVENESTO",
+          "url": "https://open.spotify.com/artist/2Vt899iZ2UknL3rdjNIEkN"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191274,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/6ByKclwVHHpCQTyqNtzZzA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3PsJxMtn1AP"

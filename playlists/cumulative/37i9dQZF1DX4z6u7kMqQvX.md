@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-413 songs - 23 hr 35 min
+414 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Amarrados](https://open.spotify.com/track/2VQs7EuamXdesJdZ7WMZdo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tanta Mentira](https://open.spotify.com/album/5GnCrMgngU8v3fNCAOTV7f) | 3:13 | 2022-01-07 | 2023-03-03 |
 | [Amor Amor](https://open.spotify.com/track/26c4FxlTwUr202Cl9k07gV) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 4:15 | 2022-01-07 | 2022-07-28 |
 | [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 | 2022-07-15 |  |
-| [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 | 2022-04-01 |  |
+| [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 | 2022-04-01 | 2023-03-30 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-01 | 2022-04-18 |
 | [Amor de Verano](https://open.spotify.com/track/60hPM9MOu0wjKInZzYwYH8) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Amor de Verano](https://open.spotify.com/album/1KDE0rBIiV7nUkSwV0GvzZ) | 2:31 | 2022-01-07 | 2022-07-29 |
 | [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2022-12-23 |  |
@@ -144,6 +144,7 @@
 | [Entra En Mi Vida](https://open.spotify.com/track/6kpB9L4r25GM9i6a8YF8hC) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Entra En Mi Vida](https://open.spotify.com/album/4MtfCKfYPxHrZlDBGFWlPa) | 3:38 | 2022-01-28 | 2023-03-03 |
 | [Entre Paraísos](https://open.spotify.com/track/02P3oPhKA2SAlLlFvTvEgg) | [Arial](https://open.spotify.com/artist/0oegQ94V48WQtfYpkvaW2G) | [Entre Paraísos](https://open.spotify.com/album/0m1nXpYzV1JYQNp3hJrKGe) | 3:34 | 2022-01-07 | 2022-07-20 |
 | [Enumerar \(feat\. CLUBZ\)](https://open.spotify.com/track/5Khk0aRv1joKTcWbzNJvMB) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [TIMELESS](https://open.spotify.com/album/21WJxzQvyHOzHJHMUlD1MO) | 3:27 | 2022-04-01 | 2022-04-17 |
+| [Eres](https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Eres](https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs) | 3:24 | 2023-03-30 |  |
 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2022-01-07 | 2022-08-28 |
 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2022-08-26 |  |
 | [Escondidos](https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:51 | 2022-07-15 |  |
@@ -383,7 +384,7 @@
 | [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 | 2022-04-01 | 2022-04-16 |
 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 | 2022-01-07 | 2023-03-03 |
 | [Tu Recuerdo](https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Tu Recuerdo](https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6) | 3:53 | 2022-01-28 | 2022-07-13 |
-| [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2023-03-18 |  |
+| [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2023-03-13 |  |
 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 | 2022-01-07 |  |
 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 | 2022-05-09 | 2022-07-29 |
 | [Turista](https://open.spotify.com/track/5cBuCi1BUv9Tah6aBDwy27) | [La Playa](https://open.spotify.com/artist/3mRz1jPyfOO3MD4BnkQPiO), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Turista](https://open.spotify.com/album/10HW520SZb9WIKWwAlTX1l) | 3:29 | 2022-01-07 | 2022-05-17 |

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1244322,
+  "num_followers": 1245836,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDMzNWNmYmQxZDU0MzcwZDZhOThkZTcxNDc5MDRiNDNk",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDg3ZTE3ZThhZWNmN2ZjMTE5OTliY2E0NmUxMjBjNzE1",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -735,26 +751,6 @@
       "duration_ms": 219692,
       "name": "Teenage Fever",
       "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 111640,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -775,18 +771,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+      "duration_ms": 111640,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 202536,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Selfless",
         "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 181266,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 202536,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
     },
     {
       "added_at": "2023-03-24 04:01:00",

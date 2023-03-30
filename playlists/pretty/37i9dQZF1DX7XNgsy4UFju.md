@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,845 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,877 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 45 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
 | 46 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 47 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 |
-| 48 | [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 |
+| 48 | [saturday](https://open.spotify.com/track/54iqx8FozDfH95XVTOwRZn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 2:11 |
 | 49 | [Pontius Pilate's Home Movies](https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Pontius Pilate's Home Movies](https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1) | 3:54 |
 | 50 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
 | 51 | [Gun Shy](https://open.spotify.com/track/2g44BeDO4tQpJqyT5Wpf5F) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [Gun Shy](https://open.spotify.com/album/5LlDx6jpT2hit9RynClr6Z) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Nobody](https://open.spotify.com/track/3LMbVR5cYVK5ovMCR3tyDO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:26 |
 | 100 | [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 |
 
-Snapshot ID: `MTY3OTY4MzkyMCwwMDAwMDAwMGY2YzNiZDE4NzZlODhlMGY3MjkzNmY2YjUxMWVjM2Yw`
+Snapshot ID: `MTY3OTY4MzkyMCwwMDAwMDAwMDQyZWNiZjc5MzM3ZGI0NDBmZGJjNzc4NGNjNDRkOGJh`

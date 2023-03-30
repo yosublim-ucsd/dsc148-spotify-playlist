@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 488240,
+  "num_followers": 488243,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDg3ZmEzODEwYjRhZGM2MTA4OTY4NjViZWM4NTkxMGM0",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGY2M2UwMDUxMWNmZTk0YmFlMzAwY2VjNTJmNTgxYjY2",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Belt",
         "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 285613,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Take Good Care",
         "url": "https://open.spotify.com/album/10cYvuRfY8IpASva845zgF"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 243319,
       "name": "Things Happen",
       "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
       },
@@ -755,22 +739,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hold On For Dear Life",
-        "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        },
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
         }
       ],
-      "duration_ms": 227117,
-      "name": "Hold On For Dear Life",
-      "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -787,6 +767,26 @@
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Hold On For Dear Life",
+        "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        },
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 227117,
+      "name": "Hold On For Dear Life",
+      "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Grizfolk",
         "url": "https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 169066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "Dog Has Its Day",
+      "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Dog Has Its Day",
-      "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Why You Gotta Be",
-      "url": "https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Head of Roses",
         "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 382455,
       "name": "Price of Blue",
       "url": "https://open.spotify.com/track/17R1gfKdZ1m2MBeTBwD68c"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Why You Gotta Be",
+      "url": "https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25"
     },
     {
       "added_at": "2023-02-24 05:00:00",

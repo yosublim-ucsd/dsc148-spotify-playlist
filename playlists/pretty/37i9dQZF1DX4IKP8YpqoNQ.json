@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 23335,
+  "num_followers": 23343,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMDY2Y2ZkMjEyODlhYjYwNjZmYjYxNjIwNDNmZTYyMzRl",
+  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMDc3YjYzZWQ1NzE3NTYwYmY2NWFlYzFkNDU2ZjcxNTAw",
   "tracks": [
     {
       "added_at": "2023-01-09 13:08:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "'Live' At The Apollo (Vol. II)",
         "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 247106,
       "name": "That's Life - Live At The Apollo Theater, 1967",
       "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "The Womack Live",
-        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
+        "name": "Live And In Living Color",
+        "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
       },
       "artists": [
         {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
         }
       ],
-      "duration_ms": 366773,
-      "name": "California Dreamin' - Live In Hollywood / 1968",
-      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
+      "duration_ms": 394973,
+      "name": "What Is Hip? - Live Version",
+      "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
     }
   ],
   "unique_name": "Soul Live",

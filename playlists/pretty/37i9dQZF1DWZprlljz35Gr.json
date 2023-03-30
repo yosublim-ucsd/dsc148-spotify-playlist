@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 6909,
+  "num_followers": 6914,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMGZjNjk3OGM1NmFlYWEyOWIwMjE3NjhlMjVkMTM0OGY4",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDg3YjMxYjRkMWU3OTc2OTU3YjVjMDg4NGQxNWExNWI1",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Heavy On My Heart",
-        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
       },
       "artists": [
         {
-          "name": "Caiti Baker",
-          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
         }
       ],
-      "duration_ms": 210430,
-      "name": "Heavy On My Heart",
-      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
+      "duration_ms": 199040,
+      "name": "FaiBless",
+      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+        "name": "Heavy On My Heart",
+        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
       },
       "artists": [
         {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+          "name": "Caiti Baker",
+          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
         }
       ],
-      "duration_ms": 199040,
-      "name": "FaiBless",
-      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
+      "duration_ms": 210430,
+      "name": "Heavy On My Heart",
+      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Different Beat",
-        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        },
-        {
-          "name": "E-Z Rollers",
-          "url": "https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl"
-        }
-      ],
-      "duration_ms": 738306,
-      "name": "Can't Help Myself - E-Z Rollers Remix",
-      "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Why Not?",
         "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 380406,
       "name": "Robot Blues",
       "url": "https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "A Different Beat",
+        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        },
+        {
+          "name": "E-Z Rollers",
+          "url": "https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl"
+        }
+      ],
+      "duration_ms": 738306,
+      "name": "Can't Help Myself - E-Z Rollers Remix",
+      "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
     }
   ],
   "unique_name": "Bluestronica",

@@ -1380,6 +1380,28 @@
     {
       "album": {
         "name": "C\u0153ur blanc",
+        "url": "https://open.spotify.com/album/7rEzID1MsdhMXLvOVMf2h4"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Je le savais",
+      "url": "https://open.spotify.com/track/14ZjIKANKmux9oHz1Rif55"
+    },
+    {
+      "album": {
+        "name": "C\u0153ur blanc",
         "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
       },
       "artists": [
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 172160,
       "name": "Je le savais",
       "url": "https://open.spotify.com/track/1Z4sgyFkiwLHuKXCaX7oiO"

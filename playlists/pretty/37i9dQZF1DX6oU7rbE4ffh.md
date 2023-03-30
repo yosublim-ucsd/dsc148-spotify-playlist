@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,160 likes - 116 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,206 likes - 116 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 6 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 |
 | 7 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 |
 | 8 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 |
-| 9 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7MKc42QGjmI7HbZYnUokFj) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
+| 9 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
 | 10 | [Evangelic](https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Evangelic](https://open.spotify.com/album/6Aa9HH5W8IQHhPuFChIJj1) | 2:33 |
 | 11 | [Before Sunrise](https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Before Sunrise](https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU) | 3:01 |
 | 12 | [Lost in Drone](https://open.spotify.com/track/2pb3QDAHMNsNzsv1hsk3WG) | [Boran Duibhe](https://open.spotify.com/artist/5OVxbsgojWXKQQTojykDwx) | [Lost in Drone](https://open.spotify.com/album/3AI3ATqLKIfmnpGQtjjoHN) | 2:28 |

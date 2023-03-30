@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 86083,
+  "num_followers": 86088,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDQxNTQ3ODkxYWY5NzgyN2U3OTFjMDVkNWJkODI1ODI2",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDA4ZWVjMzM2NzNmMTc1NjdiZDIxOWYyZGVkNTkxZTIz",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "DON'T YOU WORRY",
         "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Baile no Morro",
         "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 140307,
       "name": "Baile no Morro",
       "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/05f4GTA4Okt2L7VEiLWns9"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "MC Mari",
-          "url": "https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth"
-        }
-      ],
-      "duration_ms": 132044,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/5PZAbR6JHYYV9xp5gv0XES"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
@@ -1075,6 +1055,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/05f4GTA4Okt2L7VEiLWns9"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "MC Mari",
+          "url": "https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth"
+        }
+      ],
+      "duration_ms": 132044,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/5PZAbR6JHYYV9xp5gv0XES"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "If You Really Love Me (How Will I Know)",
         "url": "https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY"
       },
@@ -1095,30 +1095,6 @@
       "duration_ms": 184390,
       "name": "If You Really Love Me (How Will I Know)",
       "url": "https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
-        "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
-      },
-      "artists": [
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
-      "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1147,6 +1123,30 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
+        "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
+      "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "N\u00e3o Nasceu pra Namorar",
         "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "MORENA",
         "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 193221,
       "name": "MORENA",
       "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
     },
     {
       "added_at": "2022-10-13 23:00:00",

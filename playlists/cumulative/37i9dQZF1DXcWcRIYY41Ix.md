@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Lucas Hill.
 
-365 songs - 22 hr 19 min
+366 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 | 2021-12-24 | 2022-07-23 |
 | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw) | 3:14 | 2021-12-24 |  |
 | [Alma Mantra](https://open.spotify.com/track/5LA6XlS8iZGbRlO4Z6lr4G) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Grupo Cluster](https://open.spotify.com/artist/6UaPnqedipLYiyEIj4edj6) | [El Viejo Comunista \(+ Adelantos\)](https://open.spotify.com/album/5SCD19jQdSs6g7RtJup5Po) | 3:09 | 2021-12-24 | 2022-07-29 |
-| [Alma Sola](https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 4:31 | 2022-05-27 |  |
+| [Alma Sola](https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 4:31 | 2022-05-27 | 2023-03-30 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-07-22 | 2022-09-03 |
 | [Animal](https://open.spotify.com/track/0IzsR7RRJ4zS536vbcalpJ) | [Amaia Miranda](https://open.spotify.com/artist/4ij2OlNjoDeAZBcqmOkqh8) | [Cuando se nos mueren los amores](https://open.spotify.com/album/6W4jvb8vWYveJ724rxO7VQ) | 3:21 | 2022-04-01 | 2022-05-06 |
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2021-12-24 | 2022-04-24 |
@@ -186,6 +186,7 @@
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-04-21 |
 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 | 2023-03-17 |  |
 | [Las Bestias Que Me Acompañan](https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Las Bestias Que Me Acompañan](https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa) | 3:42 | 2022-03-11 | 2023-03-07 |
+| [Las Bestias Que Me Acompañan](https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Las Bestias Que Me Acompañan](https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9) | 3:42 | 2023-03-17 |  |
 | [Las Cinco Disonante](https://open.spotify.com/track/0jgdxy6KbfweX6liNYOoGv) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Las Cinco Disonante](https://open.spotify.com/album/0IG5NKTssLEZqXZq1u19uD) | 5:23 | 2021-12-24 | 2022-07-29 |
 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 | 2021-12-24 |  |
 | [Las Palmeras y el Viento](https://open.spotify.com/track/3CjKoT9BGRkBz2sJIOCJDv) | [Daniel Cros](https://open.spotify.com/artist/2EBnlu2fEvZOfOIAnv7TUQ) | [Las Palmeras y el Viento](https://open.spotify.com/album/79aUZpDngdq8hpSG2Cl8vz) | 4:40 | 2021-12-24 | 2021-12-29 |

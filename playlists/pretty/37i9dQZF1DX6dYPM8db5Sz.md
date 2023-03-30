@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54?si=XY6tsMJ4S3GRQ5\-2UUeVPw">Thabo Krouwkam</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,691 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,694 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

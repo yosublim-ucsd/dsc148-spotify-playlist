@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: 6LACK
 
-780 songs - 1 day 17 hr 59 min
+781 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-15 | 2022-09-24 |
 | [Mercy](https://open.spotify.com/track/4VZbrCVlI5piIPDqPqCmwD) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs), [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Mercy](https://open.spotify.com/album/4D0K6xwqS0a7TdTYY5Ls54) | 3:13 | 2022-12-09 | 2023-01-21 |
 | [Merry Go Round](https://open.spotify.com/track/1sySMZ2LJzvBqZBmauhge7) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/3gWV141PUDjaZigwAFF1jQ) | 3:31 | 2022-04-01 | 2022-06-08 |
+| [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/album/2uykIyf5aQOuwSfpfEo8zL) | 3:50 | 2023-03-24 |  |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-05 | 2022-09-10 |
 | [mi pce](https://open.spotify.com/track/5x8NG7geEXz3yVDsfCSDRw) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [no u don't / intres\-ting / mi pce](https://open.spotify.com/album/5tfO8WwTGATVF4wmMSulqF) | 4:06 | 2021-03-19 | 2022-01-28 |
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2022-04-01 | 2022-04-15 |
@@ -619,7 +620,7 @@
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2021-09-17 | 2022-09-10 |
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-11-12 |
 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 | 2022-10-21 |  |
-| [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 | 2022-08-19 |  |
+| [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 | 2022-08-19 | 2023-03-30 |
 | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse) | 3:44 | 2022-08-26 | 2022-09-10 |
 | [Soakin \(feat\. Gwen Bunn\)](https://open.spotify.com/track/7epN5VB7jzztkow06wBzzP) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Birds & Bees](https://open.spotify.com/album/1HAbHnM7A3saeFtPaoAtAN) | 4:00 | 2021-11-05 | 2022-01-07 |
 | [Solid](https://open.spotify.com/track/7AhEDoVzlBZT3nFxzoGqwX) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Solid](https://open.spotify.com/album/2Cc42kwECFHrRY0LRFB63q) | 3:39 | 2021-03-19 | 2022-01-23 |

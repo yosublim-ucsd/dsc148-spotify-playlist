@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,454 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,531 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 37 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
 | 38 | [You Only Want Me When You're Lonely](https://open.spotify.com/track/2rPV7Qofx9EVqW1EKfIHWB) | [Jim Boyd](https://open.spotify.com/artist/1xv0CwhbbNJfGSRDhndfRi) | [Mascot Records Retrospective, Vol\. 2](https://open.spotify.com/album/2uiRLhcycNyjkYT9qDyQyl) | 2:12 |
 | 39 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\) \- As heard in the Netflix series The Umbrella Academy](https://open.spotify.com/track/2ghZP9SEs9NrvcOk0VgQJn) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Essential Perry Como](https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw) | 2:19 |
-| 40 | [Who's That Knocking](https://open.spotify.com/track/3eYHhoaTGFYJ5XAjRFduUd) | [A Look At Yesterday](https://open.spotify.com/artist/4RujBj5x2TPbUgjrdgPmSn), [The Genies](https://open.spotify.com/artist/0pxIV7HgczzPnHLTPQqsNu) | [Goodies Old Is New: Come Dance With Me](https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy) | 2:17 |
+| 40 | [Who's That Knockin'](https://open.spotify.com/track/7eG80yBKCgkReWgbgJyv5Z) | [The Genies](https://open.spotify.com/artist/0pxIV7HgczzPnHLTPQqsNu) | [Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll](https://open.spotify.com/album/4qqK6IrMUj5S7nbv6RNrDm) | 2:18 |
 | 41 | [I'm A Man](https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [The Best Of Spencer Davis Group](https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb) | 2:51 |
 | 42 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
 | 43 | [Bach, JS: Partita for Solo Violin No\. 2 in D Minor, BWV 1004: V\. Chaconne](https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Bach \- Solo Violin Sonatas](https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj) | 15:46 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 85 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 86 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `MTY1NjA3OTQ0NywwMDAwMDAwMDUzNDgwOTBlOTMwNzc3YzMyZGI4YTNkNDQ1NzI3MzNi`
+Snapshot ID: `MTY1NjA3OTQ0NywwMDAwMDAwMGY1Y2JiOTY3Y2MxZjdiYzBiZGEwMDc2MjY2ZTdhNDM3`

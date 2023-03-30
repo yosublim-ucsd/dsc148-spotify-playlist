@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: Jennifer Hudson
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,135 likes - 82 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,132 likes - 82 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 10 | [Carried Away \- From the “Lyle Lyle Crocodile” Original Motion Picture Soundtrack](https://open.spotify.com/track/7GsdXZI26fL2mFqAhGDGZr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Lyle, Lyle, Crocodile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kchX1pzbXOv6VRpd7vu5G) | 3:46 |
 | 11 | [Tell Her](https://open.spotify.com/track/5Z0WrP05lXzIDFmq104Knq) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [13: The Musical \(Soundtrack From the Netflix Film\)](https://open.spotify.com/album/1gvMZVaVH0AWCzoaXBMc9h) | 2:58 |
 | 12 | [Something There](https://open.spotify.com/track/3gifBCwPR8K9KA3U1hG5jp) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Martin Short](https://open.spotify.com/artist/0dV9xcjrW5YwkxG3gEBhRx), [David Alan Grier](https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 2:16 |
-| 13 | [The Night\-Time Sky's Got Nothing on You](https://open.spotify.com/track/3uAVOVnJkgRNCImQJyhlFl) | [Chris Wood](https://open.spotify.com/artist/5yM1DQUmKUfdc4FRpgp4Cx), [Solea Pfeiffer](https://open.spotify.com/artist/2crTNLaQdRWk74CNuccUOs), [Original Broadway Cast of Almost Famous \- The Musical](https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG) | [No Friends / Morocco / The Night\-Time Sky's Got Nothing on You / Everybody's Coming Together](https://open.spotify.com/album/60egNAAXo34MtpEPW3nRkE) | 3:35 |
+| 13 | [The Night\-Time Sky's Got Nothing on You](https://open.spotify.com/track/3pKYpK9sxIHbAEKzPmsQqR) | [Chris Wood](https://open.spotify.com/artist/5yM1DQUmKUfdc4FRpgp4Cx), [Solea Pfeiffer](https://open.spotify.com/artist/2crTNLaQdRWk74CNuccUOs), [Original Broadway Cast of Almost Famous \- The Musical](https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG) | [The Real World \| Almost Famous \- The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0jmsgMEMJci6CiQDCoBCuE) | 3:37 |
 | 14 | [People](https://open.spotify.com/track/7i49kMKvaJM0TMoeAEMA8x) | [Julie Benko](https://open.spotify.com/artist/2VxiprvyXzmROUx8sObjkO), [Jason Yeager](https://open.spotify.com/artist/2R0IYswtBomFBfEHX0KFEk) | [Hand in Hand](https://open.spotify.com/album/1iP7Fdly3Zc1PwBFCLmFHY) | 3:35 |
 | 15 | [Still Holding My Hand](https://open.spotify.com/track/1Nye4OrwEUTDjF1UBiqBJY) | [The Cast of Roald Dahl's Matilda The Musical](https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf) | [Roald Dahl's Matilda The Musical \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo) | 4:19 |
 | 16 | [Easy Way Out](https://open.spotify.com/track/7nwH6jOOzg0T6ZM5iKFESi) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK) | [Easy Way Out](https://open.spotify.com/album/4uFnmd6UA4f2wNG031sQ2o) | 3:11 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 81 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 | 82 | [New York Lonely Boy](https://open.spotify.com/track/21LzxdHPxlWGdcUH6FfBow) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Girls5eva \(Music From The Peacock Original Series\)](https://open.spotify.com/album/6IxbJg2NoDKjxxza4uJjgU) | 2:34 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGM0MDIxNmI0NzU4YzIyZTc3ZjhkMjI0ZjUxMTE2MWVl`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDVkOWI4M2ViNGZiMGNjOTVkM2NmZWZhZThlYWIyM2Q0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKavYU3DLE1.md) - [plain]
 
 > Hear all of MINO's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,926 likes - 46 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,935 likes - 46 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

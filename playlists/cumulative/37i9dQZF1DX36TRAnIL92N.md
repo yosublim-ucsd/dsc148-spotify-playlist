@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-150 songs - 14 hr 15 min
+151 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [In a Dream](https://open.spotify.com/track/7cIwpNlGQccW1LufQbLKF4) | [Karim Alkhayat](https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25) | [In a Dream](https://open.spotify.com/album/3A6kZChl99Ml9jA7Fd0sNw) | 5:55 | 2022-07-11 | 2022-07-29 |
 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 | 2022-07-11 |  |
 | [In Trance](https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [In Trance](https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7) | 5:57 | 2022-07-29 | 2022-12-08 |
-| [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2022-07-05 |  |
+| [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2022-07-05 | 2023-03-30 |
 | [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 | 2022-08-15 |  |
 | [Journey To The Underworld](https://open.spotify.com/track/0O4H5enNBIDR3k0ibZBKa2) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Journey To The Underworld EP](https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB) | 7:39 | 2022-07-11 | 2022-07-27 |
 | [Katarze](https://open.spotify.com/track/47HUapTIiVAORkL3Eu04Su) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Katarze](https://open.spotify.com/album/5oadbRzPuGPkHAy3sRSINV) | 6:11 | 2022-07-05 | 2022-07-27 |
@@ -145,6 +145,7 @@
 | [Tunnel](https://open.spotify.com/track/6J8CNMeXUBKpoTxGNxvHG1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Tunnel](https://open.spotify.com/album/5uDI9IsrUmEBWXT9hFRZpN) | 6:01 | 2022-07-05 | 2022-07-29 |
 | [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 | 2023-03-29 |  |
 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 | 2022-09-09 | 2023-03-29 |
+| [Underground \- Original Mix](https://open.spotify.com/track/5n6AgtEn2SSGH6ZYuZFQwE) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Underground \(Original Mix\)](https://open.spotify.com/album/32QwA3nRlFwvewFnRkFric) | 5:41 | 2023-03-30 |  |
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-07-05 |  |
 | [Usp](https://open.spotify.com/track/0hvQ5NMd7h7BrGr4lAVn3Z) | [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Usp](https://open.spotify.com/album/5GCITrupnOeUYSQCuiX0dh) | 6:24 | 2022-12-16 | 2023-02-01 |
 | [Vesperi](https://open.spotify.com/track/5OBh7R8k3gEsG2o7clnPdQ) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Vesperi](https://open.spotify.com/album/1rFF39EMZK1CK5S3vpc2yK) | 6:03 | 2022-07-05 | 2022-07-29 |

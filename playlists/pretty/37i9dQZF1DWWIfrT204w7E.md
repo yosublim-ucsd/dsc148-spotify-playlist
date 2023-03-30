@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,424 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,490 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 34 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
 | 35 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
 | 36 | [IN THE UK](https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [IN THE UK](https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh) | 3:03 |
-| 37 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
+| 37 | [Suburban, Pt\. 2](https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 3:10 |
 | 38 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 |
-| 39 | [Suburban, Pt\. 2](https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 3:10 |
+| 39 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 | 40 | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU) | 2:58 |
 | 41 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 | 42 | [A92 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/0goOUCNL6MYrqSVvGhvsxw) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [A92 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/2d2jGNehp3V4MKWusgvMbk) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Demons \(feat\. Fivio Foreign & Sosa Geek\)](https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sosa Geek](https://open.spotify.com/artist/2UyyBkpzN5w3hzZBZGvRZb) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:24 |
 | 50 | [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 |
 
-Snapshot ID: `MTY2NjU1NDgxMywwMDAwMDAwMGI4YTRkODZlZGUzNTRlM2RjYTEzMmI2YWRkYTBkNDI5`
+Snapshot ID: `MTY2NjU1NDgxMywwMDAwMDAwMGZhOGYyMTcwNDBlMjhhYTg0ZDg3NThlOTNjMWJjODgx`

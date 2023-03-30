@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-136 songs - 6 hr 54 min
+137 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [In the Middle](https://open.spotify.com/track/2Lxbb6vdH4alF5d9BQ0hVI) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 3:23 | 2022-12-01 |  |
 | [J'ai tout su](https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 3:09 | 2022-09-23 |  |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2022-07-28 |  |
-| [Je le savais](https://open.spotify.com/track/1Z4sgyFkiwLHuKXCaX7oiO) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:52 | 2022-12-14 |  |
+| [Je le savais](https://open.spotify.com/track/14ZjIKANKmux9oHz1Rif55) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cœur blanc](https://open.spotify.com/album/7rEzID1MsdhMXLvOVMf2h4) | 2:52 | 2023-03-27 |  |
+| [Je le savais](https://open.spotify.com/track/1Z4sgyFkiwLHuKXCaX7oiO) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:52 | 2022-12-14 | 2023-03-30 |
 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 | 2022-09-09 |  |
 | [Keșke](https://open.spotify.com/track/457tUZZugWzzX60RDE55pt) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0PNe8ruEaoLVDGIXDyZzA7) | 2:36 | 2022-10-03 | 2023-02-15 |
 | [Keșke](https://open.spotify.com/track/6BsCtl2xauC7m2n0j44rJv) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0uQNTw0R83Su7uyPNnPFMN) | 2:36 | 2022-07-28 | 2022-10-23 |

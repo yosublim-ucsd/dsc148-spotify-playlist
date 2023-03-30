@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-562 songs - 1 day 9 hr 52 min
+563 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [King Kong](https://open.spotify.com/track/1UJYWfzyPjRwmlCawgJroV) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [King Kong](https://open.spotify.com/album/3JKrNHh8gVviwWycHE9DDm) | 3:46 | 2022-06-09 | 2023-02-01 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-09-25 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
-| [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 | 2023-03-28 |  |
+| [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 | 2023-03-28 | 2023-03-30 |
+| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 |  |
 | [K同學](https://open.spotify.com/track/2QOMOEdrKdYjTJVi7aGIyG) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:00 | 2021-09-01 | 2021-09-02 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-27 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-02 |
@@ -370,7 +371,7 @@
 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2023-02-27 | 2023-03-03 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2023-02-28 | 2023-03-02 |
 | [你把我的](https://open.spotify.com/track/6bJ4x48rEaF6brX20Ho3pY) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [你把我的](https://open.spotify.com/album/4a5X6NxbbpqbtbUnke0KxR) | 2:25 | 2022-07-07 | 2022-10-20 |
-| [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* | 2023-03-29 |
+| [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* |  |
 | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/track/5w3SN2UjZRuuvPLAisQuaC) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/album/6R3nshWX358S0cbKfS1fmz) | 3:44 | 2023-01-31 | 2023-02-05 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2021-08-01 | 2022-04-30 |
 | [俏郎君](https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [The Brightest Darkness](https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8) | 4:40 | 2021-03-27\* | 2023-03-28 |
@@ -409,7 +410,7 @@
 | [坐看雲起時](https://open.spotify.com/track/6K6L5LL0lvfGGEqJxDavTn) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [坐看雲起時](https://open.spotify.com/album/6CmHdkmAUj3vvMpr4ap2rm) | 5:15 | 2022-11-26 | 2023-02-17 |
 | [報復式浪漫](https://open.spotify.com/track/6N47H7GFm8SBwdJMkS9sqj) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [報復式浪漫](https://open.spotify.com/album/0eCNcbQPLF8HNXE2iOsOR1) | 3:24 | 2022-02-16 | 2022-05-28 |
 | [塵世美](https://open.spotify.com/track/4cenGIbbIWlcryBPsgtQXy) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [塵世美](https://open.spotify.com/album/0yBWVChnY7Yp8QSdasyyAh) | 4:44 | 2021-09-11 | 2021-11-21 |
-| [塵大師](https://open.spotify.com/track/3L6TLaJxYbHOyJTVKdjGPP) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [塵大師](https://open.spotify.com/album/5X8uYWmktbfwM4x7hKVeka) | 4:27 | 2023-03-12 |  |
+| [塵大師](https://open.spotify.com/track/3L6TLaJxYbHOyJTVKdjGPP) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [塵大師](https://open.spotify.com/album/5X8uYWmktbfwM4x7hKVeka) | 4:27 | 2023-03-12 | 2023-03-30 |
 | [夏之風物詩](https://open.spotify.com/track/0u3En4cJMAjcIQ6zLIlmqY) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [夏之風物詩](https://open.spotify.com/album/2upqPm9Pq0youkJZ9qgoJa) | 3:28 | 2022-06-30 | 2022-10-13 |
 | [夕陽之歌](https://open.spotify.com/track/5tVzG4tw3M9VLkcQ0fOtgF) | [Anita Mui](https://open.spotify.com/artist/06RD8CxzApXzuhHx54BhQL) | [情歌1](https://open.spotify.com/album/73iJ1OmPN2lYxyDTPSkkqg) | 5:10 | 2021-11-22 | 2021-11-25 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2021-03-27\* | 2022-06-08 |

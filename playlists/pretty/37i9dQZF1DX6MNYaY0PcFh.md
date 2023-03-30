@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,558 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,609 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 50 | [With Me \(feat\. Sâlo\)](https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [With Me](https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH) | 3:48 |
 | 51 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
 | 52 | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW) | 2:56 |
-| 53 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 |
-| 54 | [Closer \(Higgo Remix\)](https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Closer \(Higgo Remix\)](https://open.spotify.com/album/5RlEEIkT3FV1DcpR9iV9nb) | 2:15 |
+| 53 | [Closer \(Higgo Remix\)](https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Closer \(Higgo Remix\)](https://open.spotify.com/album/5RlEEIkT3FV1DcpR9iV9nb) | 2:15 |
+| 54 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 |
 | 55 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 56 | [Belly](https://open.spotify.com/track/2HpCoa9ca8wJJ16MfTCO2g) | [Sakawah Boys](https://open.spotify.com/artist/6acCQ9HxRoWqOHUMMROhkP) | [Belly](https://open.spotify.com/album/3P0RwvqGI07Nxj7KnjVyku) | 3:56 |
-| 57 | [Tenner](https://open.spotify.com/track/4RxXfDfpBPIIVnL4uUye4G) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/75pJctjbKXSKDy1V0A2cVb) | 2:26 |
-| 58 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 |
+| 57 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 |
+| 58 | [Tenner](https://open.spotify.com/track/4RxXfDfpBPIIVnL4uUye4G) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/75pJctjbKXSKDy1V0A2cVb) | 2:26 |
 | 59 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
 | 60 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 |
 
-Snapshot ID: `MTY3OTUwMzAxNSwwMDAwMDAwMDkxM2FjYmE5Yzk1NDM1NzgxNGQxNWE4YTQwN2FmODA4`
+Snapshot ID: `MTY3OTUwMzAxNSwwMDAwMDAwMDk4YjNlODMwY2QzYjZkNmY1MjhiZjY4ZDZlODljYjBk`

@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 110226,
+  "num_followers": 110438,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUxMDQxMywwMDAwMDAwMGM2MmNjN2I1NmFhNjU0ODA3MTBjZDUyZjdjY2U4YWQ2",
+  "snapshot_id": "MTY3OTUxMDQxMywwMDAwMDAwMDA3MWZhYmMwMGRhZTA0YmFhMTY4NzkzMzgyYTc1YzI4",
   "tracks": [
     {
       "added_at": "2023-03-22 18:40:13",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-22 18:40:13",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
-    },
-    {
-      "added_at": "2023-03-22 18:40:13",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2023-03-22 18:40:13",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
       "added_at": "2023-03-22 18:40:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-22 18:40:13",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK"
-    },
-    {
-      "added_at": "2023-03-22 18:40:13",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2023-03-22 18:40:13",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK"
     },
     {
       "added_at": "2023-03-22 18:40:13",

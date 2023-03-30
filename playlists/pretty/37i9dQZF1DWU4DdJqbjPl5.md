@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=iVAmRdf\-TqqsvoMIZVRHpg" >Elaine </a>  and  <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=eLzvHGmyRYG1Rm\-ko0pp\-w" >Blxckie </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,116 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,214 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

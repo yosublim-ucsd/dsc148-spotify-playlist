@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
-  "num_followers": 68061,
+  "num_followers": 68073,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMGI5MDk2NDQ3NDA1NTY0MTY4YTEyOTk4Y2NlNDkyZTll",
+  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDM2MmQ2MTFmNzZkYWY5MDQzNjg3NTNkYjQ0OWMxOTE4",
   "tracks": [
     {
       "added_at": "2023-01-11 06:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2wUqPgGEWs29RVjinkYXeC"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dj Yaso",
+          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
+        }
+      ],
+      "duration_ms": 166173,
+      "name": "R9 Aleteo (feat. Dj Yaso)",
+      "url": "https://open.spotify.com/track/3smiIP1lD8dG4r4RjK5r0X"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "No Lo Pod\u00eda Hacer Mejor",
         "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 178980,
       "name": "No Lo Pod\u00eda Hacer Mejor",
       "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC"
     },
     {
       "added_at": "2022-08-26 05:00:00",
@@ -651,22 +651,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/2wUqPgGEWs29RVjinkYXeC"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         },
         {
-          "name": "Dj Yaso",
-          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
         }
       ],
-      "duration_ms": 166173,
-      "name": "R9 Aleteo (feat. Dj Yaso)",
-      "url": "https://open.spotify.com/track/3smiIP1lD8dG4r4RjK5r0X"
+      "duration_ms": 213658,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC"
     },
     {
       "added_at": "2022-11-12 17:00:21",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "M\u00e1s Tarde (Remix)",
         "url": "https://open.spotify.com/album/3YeYvTtjuhqI0syIeMAhaA"
       },
@@ -777,6 +761,22 @@
       "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
     },
     {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "no me caigo tan bien",
+        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 208443,
+      "name": "no me caigo tan bien",
+      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
+    },
+    {
       "added_at": "2022-06-07 05:00:00",
       "album": {
         "name": "Mala Man\u00eda",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "no me caigo tan bien",
-        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 208443,
-      "name": "no me caigo tan bien",
-      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
+      "duration_ms": 210857,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Tumbando Avi\u00f3n",
-        "url": "https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tumbando Avi\u00f3n",
-      "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Caf\u00e9 Conmigo",
         "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Petite Amie",
+        "url": "https://open.spotify.com/album/4dCj9ZcOfgd6mRw346lc0o"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "C'est Pas Moi",
+      "url": "https://open.spotify.com/track/0oLX98sKL7axVJKnmuCBvT"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

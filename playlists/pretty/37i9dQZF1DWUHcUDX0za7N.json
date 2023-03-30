@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=etL81vA_Qsmu3lQ2SG7Cfw\" > Odumodublvck </a> ",
-  "num_followers": 17419,
+  "num_followers": 17496,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNDE0MSwwMDAwMDAwMDY4ZjVhNzMyNWE0NzAxMjQyZmM5Y2E1YzQwYmZlNzc1",
+  "snapshot_id": "MTY3OTYxNDE0MSwwMDAwMDAwMDc2MDNjNzY1YTBhMDI4NDg5MjNjMjBkYjFhMzJhZDk2",
   "tracks": [
     {
       "added_at": "2023-03-17 07:52:31",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
+      "added_at": "2023-03-30 00:37:15",
       "album": {
         "name": "DECLAN RICE",
         "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
+      "added_at": "2023-03-30 00:37:15",
       "album": {
         "name": "You Go Know",
         "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
@@ -763,26 +763,22 @@
     {
       "added_at": "2023-03-17 07:52:31",
       "album": {
-        "name": "TOP BOY",
-        "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 112941,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/67a6PjhPku8MgieSPof2dD"
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-03-17 07:52:31",
@@ -803,22 +799,26 @@
     {
       "added_at": "2023-03-17 07:52:31",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "TOP BOY",
+        "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
         },
         {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 112941,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/67a6PjhPku8MgieSPof2dD"
     },
     {
       "added_at": "2023-03-17 07:52:31",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-03-17 07:52:31",
       "album": {
-        "name": "YPSZN3",
-        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+        "name": "Moving Mad",
+        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
         }
       ],
-      "duration_ms": 200833,
-      "name": "Silent Mode",
-      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
+      "duration_ms": 142894,
+      "name": "Moving Mad",
+      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
     },
     {
       "added_at": "2023-03-17 07:52:31",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-03-17 07:52:31",
       "album": {
-        "name": "Moving Mad",
-        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
+        "name": "YPSZN3",
+        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 142894,
-      "name": "Moving Mad",
-      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
+      "duration_ms": 200833,
+      "name": "Silent Mode",
+      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
     },
     {
       "added_at": "2023-03-17 07:52:31",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-17 07:52:31",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2023-03-17 07:52:31",
-      "album": {
         "name": "Symbiosis",
         "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
       },
@@ -1069,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
+      "added_at": "2023-03-30 00:37:15",
       "album": {
         "name": "Highest Student",
         "url": "https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK"
@@ -1129,6 +1113,22 @@
       "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
     },
     {
+      "added_at": "2023-03-30 00:37:15",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        }
+      ],
+      "duration_ms": 241738,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
+    },
+    {
       "added_at": "2023-03-17 07:52:31",
       "album": {
         "name": "Sex Over Love (Deluxe Edition)",
@@ -1147,6 +1147,22 @@
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2023-03-17 07:52:31",
+      "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2023-03-17 07:52:31",
@@ -1189,22 +1205,6 @@
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
-      },
-      "artists": [
-        {
-          "name": "Aguero Banks",
-          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
-        }
-      ],
-      "duration_ms": 241738,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
-    },
-    {
       "added_at": "2023-03-17 07:52:31",
       "album": {
         "name": "All I Please",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-03-17 07:52:31",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
-    },
-    {
-      "added_at": "2023-03-17 07:52:31",
-      "album": {
         "name": "Barawo",
         "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
       },
@@ -1261,7 +1241,7 @@
       "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
+      "added_at": "2023-03-30 00:37:15",
       "album": {
         "name": "TURN THE LIGHTS ON",
         "url": "https://open.spotify.com/album/4U0WHiCDdvYJ6CuphEVi0Z"
@@ -1285,7 +1265,7 @@
       "url": "https://open.spotify.com/track/2HALiTg5hzBA3z3zRKzdGQ"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
+      "added_at": "2023-03-30 00:37:15",
       "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3TZIgQWteQktQ1HLS5776X"
@@ -1305,23 +1285,43 @@
       "url": "https://open.spotify.com/track/6q85h6RomSM8STj1Qbpk3E"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
+      "added_at": "2023-03-17 07:52:31",
       "album": {
-        "name": "Cold Feet",
-        "url": "https://open.spotify.com/album/66PmhCyBUndD6HmxKq7bDH"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
       },
       "artists": [
         {
-          "name": "Acebergtm",
-          "url": "https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 212112,
-      "name": "Cold Feet",
-      "url": "https://open.spotify.com/track/4bX7mMAAnHCUPE9MXELTv8"
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
+      "added_at": "2023-03-30 00:37:15",
+      "album": {
+        "name": "Yours Unfaithfully",
+        "url": "https://open.spotify.com/album/4xvlrR1wtd9unOqq1xMkEN"
+      },
+      "artists": [
+        {
+          "name": "Jake Doe",
+          "url": "https://open.spotify.com/artist/6ya83yRCbdYDSSMHWp8wWU"
+        }
+      ],
+      "duration_ms": 151437,
+      "name": "CHANGE AM",
+      "url": "https://open.spotify.com/track/6sDacNyxcOBkYQ5URsVd24"
+    },
+    {
+      "added_at": "2023-03-30 00:37:15",
       "album": {
         "name": "Can\u2019t Explain",
         "url": "https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC"
@@ -1341,20 +1341,20 @@
       "url": "https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb"
     },
     {
-      "added_at": "2023-03-29 05:13:59",
+      "added_at": "2023-03-30 00:37:15",
       "album": {
-        "name": "Yours Unfaithfully",
-        "url": "https://open.spotify.com/album/4xvlrR1wtd9unOqq1xMkEN"
+        "name": "Cold Feet",
+        "url": "https://open.spotify.com/album/66PmhCyBUndD6HmxKq7bDH"
       },
       "artists": [
         {
-          "name": "Jake Doe",
-          "url": "https://open.spotify.com/artist/6ya83yRCbdYDSSMHWp8wWU"
+          "name": "Acebergtm",
+          "url": "https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4"
         }
       ],
-      "duration_ms": 151437,
-      "name": "CHANGE AM",
-      "url": "https://open.spotify.com/track/6sDacNyxcOBkYQ5URsVd24"
+      "duration_ms": 212112,
+      "name": "Cold Feet",
+      "url": "https://open.spotify.com/track/4bX7mMAAnHCUPE9MXELTv8"
     },
     {
       "added_at": "2023-03-17 07:52:31",

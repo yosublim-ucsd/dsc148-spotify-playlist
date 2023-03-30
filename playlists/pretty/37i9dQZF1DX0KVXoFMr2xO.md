@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,796 likes - 97 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,800 likes - 97 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 74 | [Halloween Night in the Forest](https://open.spotify.com/track/1Jfouo7BPAseH72MXYNS9n) | [Spooky Night](https://open.spotify.com/artist/5UmKC7zMZ7FW2s4EBVDr6N) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:04 |
 | 75 | [Scary Dungeon Sounds](https://open.spotify.com/track/0CqOE8IivihmGwVwZmMLS4) | [Hal Loween](https://open.spotify.com/artist/7CGCus4E0WZumJlneHwc2k) | [Halloween Sound Effects](https://open.spotify.com/album/2Vlx1C6rxNNspuNdkXbTCf) | 3:20 |
 | 76 | [At Night in the Forest \(Howling Werewolf\)](https://open.spotify.com/track/1Alu6IRYqAMjl8OGOVI2GJ) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [Creepy Background Music for Videos & Games \(Halloween Party 2018, Best Selection of Scarry Horror Music, Instrumental Spooky Songs\)](https://open.spotify.com/album/0El8S4BHbD3zP08mxF6okG) | 4:00 |
-| 77 | [Dark Tone Creepy Laughs](https://open.spotify.com/track/6iolLAJWju2Zg7ChdYYvec) | [Halloween Sounds \(REMOVED\)](https://open.spotify.com/artist/6aS5IL4cmXbjl81JWjaMgv) | [Spooky Halloween](https://open.spotify.com/album/5D27AbxVVpxiqvicoeeiFa) | 0:33 |
+| 77 | [Dark Tone Creepy Laughs](https://open.spotify.com/track/3jpBYn3guojBQpqtulW7ea) | [Halloween Sounds](https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo) | [Creepy Party Sounds](https://open.spotify.com/album/7AvgoBeich1YQDZMbZgS8L) | 0:33 |
 | 78 | [Metallic Terror](https://open.spotify.com/track/6AvM4HWzQ2SYuowYcyG2uz) | [Halloween FX Productions](https://open.spotify.com/artist/2JCBXi3V2tlTwXp8Q3tGnY) | [Halloween: The Extreme Haunted House Experience \(Horrific Sounds of Zombies, Witches, Vampires, Ghosts & More\)](https://open.spotify.com/album/57p2V19XdcqB1jySM06LUA) | 3:07 |
 | 79 | [Chilling Whispers](https://open.spotify.com/track/0Mfo7pttrJxJ2YqBABqXPs) | [Halloween Music](https://open.spotify.com/artist/4OfDxabDQVhfThUuSS19za), [Halloween Sound Effects](https://open.spotify.com/artist/0xdm6Qolge99Rs4OAdz0LB), [Halloween All\-Stars](https://open.spotify.com/artist/4MxljuctoDWaocnEfKThfX) | [Spooky Songs for Halloween Parties & Haunted Houses](https://open.spotify.com/album/4UxjeLpQnNbU9LhWYf3yk8) | 2:07 |
 | 80 | [Bat Cave](https://open.spotify.com/track/6GnrTcXFjPptbrmitkEHpU) | [Hell on Halloween](https://open.spotify.com/artist/4tUZxqyxEFaXK1XAT8uqcl) | [Midnight Haunting](https://open.spotify.com/album/03YPB9DDVhuZ35nt4USxyq) | 3:34 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 96 | [Scary Clown Music](https://open.spotify.com/track/77Q6CMrGkO8WRPOaJASNAw) | [It Lives Down Below](https://open.spotify.com/artist/0ipGOWlHJM0yrDidQ0s2XF) | [Scary Clown Music: Suspense Horror Sounds, Night at the Carnival with Carillon Creepy Songs](https://open.spotify.com/album/7uQAi1a2CQmfWdgjF6z1Qp) | 4:21 |
 | 97 | [Chainsaw Bloody Massacre](https://open.spotify.com/track/5tsURkMATlBZ6DeUhFN7eJ) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [I'm Bloody Scared: Halloween Horror Music 2020, Like in Nightmare, Halloween Party, Scary Sounds](https://open.spotify.com/album/70BqiOr9cDH2WpGV7FB8eZ) | 4:00 |
 
-Snapshot ID: `MTY2NjYxODQ3OSwwMDAwMDAwMGIxYTM3ZWRkNTVjOTVhOGJjZDlhNGI1MmIzNDNkMTA3`
+Snapshot ID: `MTY2NjYxODQ3OSwwMDAwMDAwMDk0OWYzMzY4NWYzMjhiNDJkMjgwOTE0ZGY1NTAzMDU2`

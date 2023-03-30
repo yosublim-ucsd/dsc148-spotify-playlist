@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,879 likes - 53 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,946 likes - 53 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Outta Town Freestyle](https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:20 |
 | 53 | [Do It On The Tip \(feat\. City Girls & Hot Girl Meg\)](https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Hot Girl Meg](https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:47 |
 
-Snapshot ID: `MjgwMDAyMzYsMDAwMDAwMDA4ODIwMjdiNDZhZGIzM2M4ODVmNTAyNTk1MGM3YjgwNg==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDAzNDhhODk5OTIzZDc1NmQxMWEwMjQzNTUxZDQxMjhiNw==`

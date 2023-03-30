@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 23 | [MY BEST](https://open.spotify.com/track/2sYjGMRMMg4o0p0IYLCafl) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [MY BEST](https://open.spotify.com/album/4J5aiB9seZIjro3cG6xE4Q) | 3:54 |
 | 24 | [LTAL](https://open.spotify.com/track/0vYPK4AH1s18cpc4uBkY1n) | [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES) | [Let's Talk About Love](https://open.spotify.com/album/7keqZmk1fm6mUd8XWVTK1b) | 3:32 |
 | 25 | [Still](https://open.spotify.com/track/7kJO1LGZX9fXioVbeI6KRt) | [Mars B](https://open.spotify.com/artist/3WmvQooo0fKwYMFuCpa7yo), [Naztykeys](https://open.spotify.com/artist/3XOLDVuQheBegICAbrgSVb) | [Still](https://open.spotify.com/album/45Hi3XBRsv0BrJi9ma226C) | 3:18 |
-| 26 | [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 |
+| 26 | [Walking Away](https://open.spotify.com/track/1w6SNBw6Br6o3odm5FA4n5) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:07 |
 | 27 | [Yang Kau Minta](https://open.spotify.com/track/0pWTcAVezL3Nq4xp9qfiRR) | [Salma Asis](https://open.spotify.com/artist/2AErcAntrtfnIB2tuRxCVn) | [Yang Kau Minta](https://open.spotify.com/album/67eMyWfK7o8G9jVCvXltOb) | 3:54 |
 | 28 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
 | 29 | [Hey Love](https://open.spotify.com/track/1gGVs5VYqj912AJCNp2sSe) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [Hey Love](https://open.spotify.com/album/5UNISFP0L5IJ3uRub35raQ) | 3:45 |
 | 30 | [We'll Be Okay](https://open.spotify.com/track/6uptYZuPpko5v4NxPikGmw) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [We'll Be Okay](https://open.spotify.com/album/6TKYSEQ5i7pk7LiqXQaOSo) | 2:54 |
 | 31 | [Andai Hatiku Bersuara](https://open.spotify.com/track/12Cu2Qo80vOSPE1QnZfJv4) | [Damia](https://open.spotify.com/artist/3Lvh8uQIPZjn7HojYCdHEE) | [Andai Hatiku Bersuara](https://open.spotify.com/album/715HPNak5ExGn7v8bM8gGC) | 3:42 |
 | 32 | [TERMS & CONDITIONS](https://open.spotify.com/track/3I69ylSTzkrx1vWCHQXoDo) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [θi = θr](https://open.spotify.com/album/2kn0Bvqiq98iZlIPEw4DLE) | 2:27 |
-| 33 | [Same Sunrise](https://open.spotify.com/track/0MGx8iGZ96saTtNlGFYqll) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:31 |
+| 33 | [Same Sunrise](https://open.spotify.com/track/4geh0YJEYzwhNUn6g5gE2u) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:31 |
 | 34 | [Irama](https://open.spotify.com/track/5YxZ62YzIE3h31g7MDUATb) | [Shiha Zikir](https://open.spotify.com/artist/1S2qOJwpoeUkoJuToOZXU5) | [Irama](https://open.spotify.com/album/43Bn9dR02QXM0bSXGRh0Pe) | 3:17 |
 | 35 | [Shoot](https://open.spotify.com/track/6zlio0K6QpRC4R9czfzPV8) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Shoot](https://open.spotify.com/album/2t3ar6rVWNqkBYU9LibAwi) | 2:59 |
 | 36 | [Maybe](https://open.spotify.com/track/3tQAZFrBa4nOPW2dFsM7xY) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [Maybe](https://open.spotify.com/album/7FM4ChgZ4rkqLrvUOV9PUe) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Boneka](https://open.spotify.com/track/1C9wjvXDwQQEaVlNJn4lAV) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Koleksi Terbaik Ernie Zakri](https://open.spotify.com/album/0RJfa9ixS7mhDhhQLvlKXg) | 3:50 |
 | 50 | [不, 要不要](https://open.spotify.com/track/53dWaPiPkR1bJKpqJZN7Sd) | [Angelloweee](https://open.spotify.com/artist/3VKXShqcZPqG6OPlvIAQ7t) | [不, 要不要](https://open.spotify.com/album/6cNHhVnI9wvR1KNAzgRp7O) | 3:04 |
 
-Snapshot ID: `MTY3ODc3NDAxOCwwMDAwMDAwMDE5N2I2MmMyZTBjYmFjYWIyNDM4Njg5M2JkZmM5ZDFl`
+Snapshot ID: `MTY3ODc3NDAxOCwwMDAwMDAwMGI1NmYyZmZiOTM4OTI0ODQyZTU0NDBmOGZkYzIzNjYy`

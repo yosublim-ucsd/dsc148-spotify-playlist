@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,779 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,798 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 19 | [Spicy \(feat\. Fivio Foreign & A$AP Ferg\)](https://open.spotify.com/track/661wc0CTq5MbppEG6zYP5n) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:46 |
 | 20 | [U Don't Know](https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 3:19 |
 | 21 | [Cafeteria \(feat\. Gunna\)](https://open.spotify.com/track/7l28SBHS3zmKDVnOzG8BM7) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Cafeteria \(feat\. Gunna\)](https://open.spotify.com/album/01XHfJ7cuU8QjJ5pwCpMW8) | 3:34 |
-| 22 | [Otherside Of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
+| 22 | [Otherside of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
 | 23 | [I'm Ready](https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:41 |
 | 24 | [Light Up](https://open.spotify.com/track/0PWQqF5PvqRq0OPLSH0FKI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 4:34 |
 | 25 | [Wetty](https://open.spotify.com/track/6DuxLU1Uqvjgz1S2YdcpbG) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [800 BC](https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0) | 3:55 |

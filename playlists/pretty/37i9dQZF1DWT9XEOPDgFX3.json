@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: hey, nothing",
-  "num_followers": 63346,
+  "num_followers": 63403,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDYxN2Q4NDEyNWI1MTBjMmI4Yzc1OTI1ZjNiZDlmYzFj",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDM3NTdjYThjZjk3ZTczYTNkNzUyOWE5YTZhMGY4NDUz",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Hailaker",
         "url": "https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 253666,
       "name": "Not Much",
       "url": "https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Sundowner",
-        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Campfire",
-      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Sundowner",
+        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Every Once In A While",
-      "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Oak Hill",
-        "url": "https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo"
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
       "artists": [
         {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
         }
       ],
-      "duration_ms": 257401,
-      "name": "Oak Hill",
-      "url": "https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ"
+      "duration_ms": 277261,
+      "name": "Every Once In A While",
+      "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 287150,
       "name": "Oh Canada",
       "url": "https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Oak Hill",
+        "url": "https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 257401,
+      "name": "Oak Hill",
+      "url": "https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1387,6 +1387,38 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "duration_ms": 235587,
+      "name": "Gossamer",
+      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "bc i love you",
+        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 237052,
+      "name": "bc i love you",
+      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Deep Routed",
         "url": "https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD"
       },
@@ -1407,18 +1439,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
       "artists": [
         {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
         }
       ],
-      "duration_ms": 235587,
-      "name": "Gossamer",
-      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1439,18 +1471,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9"
       },
       "artists": [
         {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+      "duration_ms": 222333,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1471,22 +1503,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Let It Be",
-        "url": "https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Wayfinder",
         "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "bc i love you",
-        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 237052,
-      "name": "bc i love you",
-      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Old Peel",
         "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Jenny",
-      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 281252,
       "name": "Truth Nugget",
       "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Sundry Rock Song Stock",
+        "url": "https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 223761,
+      "name": "For Props",
+      "url": "https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Serpentine Prison (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 184853,
       "name": "bike again",
       "url": "https://open.spotify.com/track/2D7pGG31lR1WNjPY4x8gEY"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Sundry Rock Song Stock",
-        "url": "https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy"
-      },
-      "artists": [
-        {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
-        }
-      ],
-      "duration_ms": 223761,
-      "name": "For Props",
-      "url": "https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/6Am8g1lq0cXcOCmv5fwnzk"
+        "name": "Sam Amidon",
+        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
       "artists": [
         {
-          "name": "Brooke Bentham",
-          "url": "https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A"
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
         }
       ],
-      "duration_ms": 240146,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3C37PWNd6ojQD8OhIp9aKu"
+      "duration_ms": 294360,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Sam Amidon",
-        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/6Am8g1lq0cXcOCmv5fwnzk"
       },
       "artists": [
         {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+          "name": "Brooke Bentham",
+          "url": "https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A"
         }
       ],
-      "duration_ms": 294360,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv"
+      "duration_ms": 240146,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3C37PWNd6ojQD8OhIp9aKu"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "EC",
+        "url": "https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "duration_ms": 113692,
+      "name": "EC",
+      "url": "https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
@@ -2003,18 +2019,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Wooh Dang",
-        "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/6Hfps8ijDGS0blJR1YqvZ5"
       },
       "artists": [
         {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+          "name": "Lael Neale",
+          "url": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF"
         }
       ],
-      "duration_ms": 246293,
-      "name": "Rolling Rolling Rolling",
-      "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
+      "duration_ms": 170497,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/478PwX4m7LBB6nOMFGl2U7"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -2035,34 +2051,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "EC",
-        "url": "https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO"
+        "name": "Wooh Dang",
+        "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
       },
       "artists": [
         {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
         }
       ],
-      "duration_ms": 113692,
-      "name": "EC",
-      "url": "https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "VBS",
-        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 236864,
-      "name": "VBS",
-      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
+      "duration_ms": 246293,
+      "name": "Rolling Rolling Rolling",
+      "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
     }
   ],
   "unique_name": "Folk Arc",

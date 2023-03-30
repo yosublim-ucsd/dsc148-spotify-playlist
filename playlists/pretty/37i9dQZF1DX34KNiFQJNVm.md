@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Simone Mendes, LUDMILLA, Ed Sheeran, Filipe Ret, Maiara & Maraisa, ROSALÍA e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,854,163 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854,601 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 48 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
 | 49 | [Fica Empinada](https://open.spotify.com/track/5AU2BAA0ZfCmLj52ryqP6Q) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Borest](https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46) | [Fica Empinada](https://open.spotify.com/album/4ZOC3O8VW4tXDak5gL2HPt) | 2:34 |
 | 50 | [Bota Nela, Me Chama de Cadela](https://open.spotify.com/track/5FcBmux7K1MyorMhYQpUFE) | [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ FELYPINHO 013](https://open.spotify.com/artist/6ReTdS1woQ2Qx7h8VwXRgS) | [Bota Nela, Me Chama de Cadela](https://open.spotify.com/album/0lzdNG79Z8lrldVWhNlPha) | 2:42 |
-| 51 | [Deixa Eu Entrar](https://open.spotify.com/track/3qBWX8rZ94T6NDwCkNwTCK) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Deixa Eu Entrar](https://open.spotify.com/album/1XeI3Paw7sye3uUjNsiWWD) | 2:57 |
+| 51 | [Deixa Eu Entrar](https://open.spotify.com/track/3qBWX8rZ94T6NDwCkNwTCK) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Deixa Eu Entrar](https://open.spotify.com/album/1XeI3Paw7sye3uUjNsiWWD) | 2:57 |
 | 52 | [Red Dot](https://open.spotify.com/track/5O4dyvMVJaGcxvawaCGQDy) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Red Dot](https://open.spotify.com/album/1ImUpotlDDUWdmevkE192Y) | 2:08 |
 | 53 | [Berço do Trap](https://open.spotify.com/track/5dfEz3Qzoi9UPGc9P0HMDO) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Berço do Trap](https://open.spotify.com/album/732DRyaUobCSyjzjbxvpTM) | 2:22 |
 | 54 | [Ai Ai Ai](https://open.spotify.com/track/1zaPLy70EDETZvhErzb9VL) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Ai Ai Ai](https://open.spotify.com/album/2IWjtNIo56K5l3JaE9bpgb) | 1:58 |

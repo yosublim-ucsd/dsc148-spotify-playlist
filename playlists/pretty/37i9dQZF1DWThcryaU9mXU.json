@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 37461,
+  "num_followers": 37524,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDk1Y2NiYWVjODUzZjhlODYwNDRlNWRiOGI1NDBhNjVi",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDg0YTEyNzA1NmU3Mzc0YjdkZDc4MmU3NTQyM2ExNGQ5",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "That's It! / Duke Recordings Vol. III",
         "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
@@ -375,6 +375,26 @@
       "duration_ms": 208000,
       "name": "Driftin' Blues - Single Version / Stereo",
       "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262869,
+      "name": "Broken & Blue (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -423,26 +443,6 @@
       "duration_ms": 231000,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 262869,
-      "name": "Broken & Blue (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "I Shall Know Him",
+      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "I Shall Know Him",
-      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Live At The Regal",
-        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Help The Poor",
-      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Jackie Sings The Blues",
         "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 124786,
       "name": "Please Tell Me Why",
       "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Live At The Regal",
+        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Help The Poor",
+      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Straight from the Heart",
         "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "What do You Feel?",
-        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
+        "name": "Marshall Texas Is My Home",
+        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
       },
       "artists": [
         {
-          "name": "Renato Genestra",
-          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
         }
       ],
-      "duration_ms": 334000,
-      "name": "What do You Feel?",
-      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
+      "duration_ms": 184760,
+      "name": "Hard Living Alone",
+      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Marshall Texas Is My Home",
-        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
+        "name": "What do You Feel?",
+        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
       },
       "artists": [
         {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+          "name": "Renato Genestra",
+          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Hard Living Alone",
-      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
+      "duration_ms": 334000,
+      "name": "What do You Feel?",
+      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
     }
   ],
   "unique_name": "Just Me and the Blues",

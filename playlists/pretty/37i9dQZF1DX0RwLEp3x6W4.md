@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems\. Cover: Hazel Dickens & Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,469 likes - 56 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,493 likes - 56 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: NLE Choppa, Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 708 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 732 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 21 | [SCARING THE HOES](https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/2W8QmJ48TFvnkjrrQOHDBR) | 2:22 |
 | 22 | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/track/4nZ4aGaAixvW9D7TethGee) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/album/6v6K6TQa2Scbn2OKhDCnDp) | 2:06 |
 | 23 | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/track/1GyoJBAjrIkVkPdcl7yCn3) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/album/5ikRefLmkwyGl5UEVyQTCX) | 2:16 |
-| 24 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 24 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 25 | [Different Cloth](https://open.spotify.com/track/1xMZya9eNmNbchdwQACfoP) | [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7) | [Different Cloth](https://open.spotify.com/album/3BRJ8WmwNNljYCIuPrt3kj) | 2:17 |
 | 26 | [Baby](https://open.spotify.com/track/22AmDuCepmnwIVF0WHz3uw) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Baby](https://open.spotify.com/album/0OHrgSPp5Wa9XObU1FCEgh) | 3:19 |
 | 27 | [Temperatures Rise](https://open.spotify.com/track/4oTG7A2xcJHdBM7671td9p) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [Temperatures Rise](https://open.spotify.com/album/4aIAQTNYaxAqY7E6KIX3YB) | 2:48 |

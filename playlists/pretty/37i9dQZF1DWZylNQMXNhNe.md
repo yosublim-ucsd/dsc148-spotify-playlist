@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Pabllo Vittar
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,000 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,013 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 32 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 |
 | 33 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 |
 | 34 | [Libélula](https://open.spotify.com/track/33IQ1mcWwKe7lyLm5oUrCv) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Libélula](https://open.spotify.com/album/4a5LkqjxtJOAgpyvjogAxe) | 2:36 |
-| 35 | [Arrasany](https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245) | [YOHAN](https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw), [Dan Murata](https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI), [Sanvtto](https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw) | [Arrasany 3.0](https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR) | 2:33 |
+| 35 | [Arrasany 3.0](https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245) | [YOHAN](https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw), [Dan Murata](https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI), [Sanvtto](https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw) | [Arrasany 3.0](https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR) | 2:33 |
 | 36 | [Sócia](https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [BOROGODÓ pt.1](https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2) | 2:49 |
 | 37 | [VRAU](https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:17 |
 | 38 | [PODE DALE](https://open.spotify.com/track/0M7NT1s4Ne6wRjPzSfPxsC) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Batooke Native](https://open.spotify.com/artist/4ndInxAXKQ9fT571SOPkJt) | [PODE DALE](https://open.spotify.com/album/1hvyiV92xrJUiJHiJmmqTf) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,173 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,283 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 59 | [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 |
 | 60 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 |
 | 61 | [Bluebird \- Acoustic](https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Bluebird \(Acoustic\)](https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB) | 3:40 |
-| 62 | [The Night \(Part 2 \- Acoustic\)](https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [The Night: The Collection](https://open.spotify.com/album/1GyXxGLL5CydaN34idnfzr) | 3:33 |
-| 63 | [All I Know About Girls](https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [All I Know About Girls](https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR) | 2:42 |
+| 62 | [All I Know About Girls](https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [All I Know About Girls](https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR) | 2:42 |
+| 63 | [The Night \(Part 2 \- Acoustic\)](https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [The Night: The Collection](https://open.spotify.com/album/1GyXxGLL5CydaN34idnfzr) | 3:33 |
 | 64 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 |
 | 65 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 |
 | 66 | [A Special Place \- Acoustic](https://open.spotify.com/track/0d8gLQvm05n2DR2FdUdPYU) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place \(Acoustic\)](https://open.spotify.com/album/2e6ZHZ1LMzlh0vwpC35NGh) | 2:54 |
 | 67 | [Peaked In High School](https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Peaked In High School](https://open.spotify.com/album/7KVwTd8XEzs4AapEn192w5) | 2:39 |
 | 68 | [Handful \- Acoustic](https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Handful / Already Broke Up](https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS) | 2:42 |
-| 69 | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN) | 3:01 |
-| 70 | [Take My Name \- Wedding Version](https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z) | 2:54 |
+| 69 | [Take My Name \- Wedding Version](https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z) | 2:54 |
+| 70 | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN) | 3:01 |
 | 71 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
 | 72 | [Forever and Always \(Acoustic\)](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 |
 | 73 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/2ZVec8GTFATsJBkYdKhagf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:44 |
 | 100 | [Sunrise Tells The Story \- Acoustic](https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story \(Acoustic\)](https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z) | 3:25 |
 
-Snapshot ID: `MTY3ODk3MTQ1NywwMDAwMDAwMGE1YzcyNGU4NDliMWQ3N2JkZTdiNjZkZTZhOWQzYjdh`
+Snapshot ID: `MTY3ODk3MTQ1NywwMDAwMDAwMDRhOGNlNmIwYTllYmQ4MWZiNzYxYzlkZjU0M2ZkMmYy`

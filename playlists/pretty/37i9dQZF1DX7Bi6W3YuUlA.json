@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 10266,
+  "num_followers": 10379,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5OTkyMSwwMDAwMDAwMGUzNTQ5ZDk5Njg2MDdjYzY4NDVmZDZmZGE0Mjc1NjBk",
+  "snapshot_id": "MTY3NjY5OTkyMSwwMDAwMDAwMDBmNDZjNGMyMmI3ZTcwNzkyOWVjYjRiZWE3NDUzYWVl",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Any Attack",
         "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 113051,
       "name": "Any Attack",
       "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 150169,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Spread The Opps",
-        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 181795,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
+      "duration_ms": 260708,
+      "name": "Jesus Called My Name",
+      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -347,38 +347,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 260708,
-      "name": "Jesus Called My Name",
-      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 201204,
-      "name": "Great Is He",
-      "url": "https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Never Land II",
         "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
       },
@@ -399,6 +367,38 @@
       "duration_ms": 197519,
       "name": "You Know the Drill",
       "url": "https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 201204,
+      "name": "Great Is He",
+      "url": "https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 173522,
       "name": "Look Up to the Sky",
       "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 229324,
       "name": "Libre (feat. Tommy Royale)",
       "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 240357,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "H O L O G R A P H I C",
         "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 164886,
       "name": "Slidin'",
       "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "SIX THIRTY",
-        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
-      },
-      "artists": [
-        {
-          "name": "Sean C. Johnson",
-          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "SIX THIRTY",
-      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "STILL GOING",
         "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 88294,
       "name": "STILL GOING",
       "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "SIX THIRTY",
+        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+      },
+      "artists": [
+        {
+          "name": "Sean C. Johnson",
+          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SIX THIRTY",
+      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "WINGS OF AN ANGEL",
-        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "butterfly vibes 2",
-      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "ON THA SEAT",
         "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 207068,
       "name": "ON THA SEAT",
       "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     }
   ],
   "unique_name": "Blessings",

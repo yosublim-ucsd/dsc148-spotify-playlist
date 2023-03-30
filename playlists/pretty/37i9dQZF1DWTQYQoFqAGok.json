@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 55042,
+  "num_followers": 55056,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk5OTg5MCwwMDAwMDAwMGQ2MmZiMTBkNTRmOTE3ODllOGNhZTUyMWU5M2JjNzc1",
+  "snapshot_id": "MTY3ODk5OTg5MCwwMDAwMDAwMGYzYTI2NmVhMTk4OTZiMWRiOWM0YTFjMTAyYmM3NDYx",
   "tracks": [
     {
       "added_at": "2023-01-07 01:43:47",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Vinil (Remastered 2018)",
-        "url": "https://open.spotify.com/album/5znSMHPjGTn0JtDtexRTzT"
-      },
-      "artists": [
-        {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
-        }
-      ],
-      "duration_ms": 249599,
-      "name": "F\u00edjate Que Suave - Remastered 2018",
-      "url": "https://open.spotify.com/track/1o597QjfCG2jZRVYUxXUpv"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
       },
@@ -431,18 +415,34 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+        "name": "Jazz Vinil (Remastered 2018)",
+        "url": "https://open.spotify.com/album/5znSMHPjGTn0JtDtexRTzT"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Troker",
+          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+      "duration_ms": 249599,
+      "name": "F\u00edjate Que Suave - Remastered 2018",
+      "url": "https://open.spotify.com/track/1o597QjfCG2jZRVYUxXUpv"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
       },
       "artists": [
         {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -559,6 +559,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Frente A Frente: Mexican Jazz Jam",
+        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Safo (La Sacerdotiza Del Amor)",
+      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 246539,
       "name": "Aquel Incendio",
       "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Frente A Frente: Mexican Jazz Jam",
-        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Safo (La Sacerdotiza Del Amor)",
-      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -755,6 +755,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Musica Infinita",
+        "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 283841,
+      "name": "Orbita 13",
+      "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 335725,
       "name": "To Chick",
       "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Musica Infinita",
-        "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 283841,
-      "name": "Orbita 13",
-      "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -851,6 +851,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Lines In The Sand",
         "url": "https://open.spotify.com/album/0rOMKaWPJScXu76Vm6GglX"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 523748,
       "name": "Bad Hombres Y Mujeres",
       "url": "https://open.spotify.com/track/4NGb4Tkvgzqz58SA3NNl8W"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
-      },
-      "artists": [
-        {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

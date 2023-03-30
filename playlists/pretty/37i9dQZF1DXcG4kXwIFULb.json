@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 113070,
+  "num_followers": 113173,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDljOGY0YzZkMjQxMjgyZGI1ZjNiYzRjZjU3MTMzNTEw",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDA5ODUyMGE1MDBhYmRiMzFkNTBkYjMyNzMzOGI3YWUw",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -135,6 +135,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "A Calf Born in Winter",
+        "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 209024,
+      "name": "A Calf Born in Winter",
+      "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 317933,
       "name": "Ghostwriter",
       "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "A Calf Born in Winter",
-        "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 209024,
-      "name": "A Calf Born in Winter",
-      "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -687,18 +687,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Magic Love (Remixes)",
-        "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
       "artists": [
         {
-          "name": "Bent",
-          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
         }
       ],
-      "duration_ms": 202333,
-      "name": "Magic Love - Radio Edit",
-      "url": "https://open.spotify.com/track/01K42inuuCqOB731ugiQAd"
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -719,18 +719,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+        "name": "Magic Love (Remixes)",
+        "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
       },
       "artists": [
         {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+          "name": "Bent",
+          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
         }
       ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+      "duration_ms": 202333,
+      "name": "Magic Love - Radio Edit",
+      "url": "https://open.spotify.com/track/01K42inuuCqOB731ugiQAd"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Constructions",
-        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
-      },
-      "artists": [
-        {
-          "name": "Sofa Surfers",
-          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
-        }
-      ],
-      "duration_ms": 308612,
-      "name": "Sofa Rockers - Richard Dorfmeister Remix",
-      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Constructions",
+        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
+      },
+      "artists": [
+        {
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+        }
+      ],
+      "duration_ms": 308612,
+      "name": "Sofa Rockers - Richard Dorfmeister Remix",
+      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Satta",
         "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 426614,
       "name": "La femme d'argent",
       "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Love Pussycats & Carwrecks",
         "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 277333,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1399,8 +1399,8 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
       "artists": [
         {
@@ -1408,25 +1408,25 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 325583,
-      "name": "Emkay",
-      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+        "name": "The Cosmic Game",
+        "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
       },
       "artists": [
         {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 312333,
-      "name": "Melt - Remastered",
-      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
+      "duration_ms": 139226,
+      "name": "The Cosmic Game",
+      "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The Cosmic Game",
-        "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
       "artists": [
         {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
         }
       ],
-      "duration_ms": 139226,
-      "name": "The Cosmic Game",
-      "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
+      "duration_ms": 312333,
+      "name": "Melt - Remastered",
+      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1519,8 +1519,8 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
       "artists": [
         {
@@ -1528,9 +1528,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+      "duration_ms": 325583,
+      "name": "Emkay",
+      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
     },
     {
       "added_at": "2020-09-04 01:12:56",

@@ -4,7 +4,7 @@
 
 > Indie music to keep your gaming session properly soundtracked.
 
-401 songs - 22 hr 18 min
+402 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Don't Look Back into the Sun](https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Don't Look Back into the Sun](https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI) | 3:00 | 2022-02-28 | 2022-04-21 |
 | [Doves In The Wind \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:26 | 2021-10-20 | 2022-02-22 |
 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 | 2023-01-03 |  |
-| [down bad \- fanclubwallet & Preloved Remix](https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [down bad](https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ) | 3:09 | 2023-01-20 |  |
+| [down bad \- fanclubwallet & Preloved Remix](https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [down bad](https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ) | 3:09 | 2023-01-20 | 2023-03-30 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/52L8AnUkPWl7FGDlZjNAnJ) | 2:38 | 2022-02-25 | 2022-07-29 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-06-08 | 2022-10-07 |
 | [Dream Sweet in Sea Major](https://open.spotify.com/track/3RznzRnsl8mzP63l4AF2M7) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 7:00 | 2021-10-20 | 2022-02-26 |
@@ -344,6 +344,7 @@
 | [Televised](https://open.spotify.com/track/35Ki1lvKPC2sFBD3GmKdRG) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Windows I](https://open.spotify.com/album/3veiAKm8GGN4fhcfh58PBr) | 3:14 | 2021-10-20 | 2022-02-26 |
 | [Television / So Far So Good](https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:22 | 2021-12-14 | 2022-04-06 |
 | [thankful](https://open.spotify.com/track/20KoZCmyHM38j0IEv5gtOM) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compliation 3](https://open.spotify.com/album/6IDTygdHOI25vItwUt4ZTZ) | 2:26 | 2021-10-25 | 2022-04-21 |
+| [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 | 2023-03-20 |  |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2021-10-20 | 2022-02-26 |
 | [The Cult of Dionysus](https://open.spotify.com/track/08KTQSs3ickNki7FFTb6fY) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Cosmicandy](https://open.spotify.com/album/5W8NoCn4BTWzfiCH4VsOAb) | 3:07 | 2021-10-20 | 2022-01-21 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-01-20 |  |

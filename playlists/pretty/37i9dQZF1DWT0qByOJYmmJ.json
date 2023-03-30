@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 605562,
+  "num_followers": 605763,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMDNkYmNhNWZjZDM2M2YzNjEzOWJhY2ZiMTM4YTdiODE3",
+  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMDU1NDBkODhjMDMyNWRlZmQzNTRkMjlmNmIzZmU4MzZm",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "pero qu\u00e9 cosa",
-        "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
-      },
-      "artists": [
-        {
-          "name": "Fer",
-          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "pero qu\u00e9 cosa",
-      "url": "https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "2 A.M.",
         "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 182966,
       "name": "Solo Aqu\u00ed",
       "url": "https://open.spotify.com/track/7N3XV7eGhrnJLpghBEA15n"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "pero qu\u00e9 cosa",
+        "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
+      },
+      "artists": [
+        {
+          "name": "Fer",
+          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "pero qu\u00e9 cosa",
+      "url": "https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Elefante Rosado",
-        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Elefante Rosado",
-      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Ma\u00f1ana Te Escribo Otra Canci\u00f3n",
         "url": "https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 183282,
       "name": "Lo Que Sol\u00edamos Ser",
       "url": "https://open.spotify.com/track/7pmyyC7HUNMtEqT3w6QWTn"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

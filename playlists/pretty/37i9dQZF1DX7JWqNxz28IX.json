@@ -1,12 +1,12 @@
 {
   "description": "un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 37782,
+  "num_followers": 37793,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQ2MCwwMDAwMDAwMDVjM2UzYTcxNDkxYmRkMmE5YTI4MTM3MGE3YzEzMGNl",
+  "snapshot_id": "MTY3OTYxMjQ2MCwwMDAwMDAwMDlhYTAzZWY2ZDgzZWU5OTE0OTdkNjc1ZTUzMzBmNzZk",
   "tracks": [
     {
       "added_at": "2023-03-23 23:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Favole",
-        "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 102567,
-      "name": "Favole",
-      "url": "https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Io Sono",
         "url": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Favole",
+        "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 102567,
+      "name": "Favole",
+      "url": "https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Dove sei??",
-        "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
-      },
-      "artists": [
-        {
-          "name": "Agon",
-          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
-        }
-      ],
-      "duration_ms": 181281,
-      "name": "Dove sei??",
-      "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Volevo dirti",
         "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 181953,
       "name": "Volevo dirti",
       "url": "https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Dove sei??",
+        "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
+      },
+      "artists": [
+        {
+          "name": "Agon",
+          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
+        }
+      ],
+      "duration_ms": 181281,
+      "name": "Dove sei??",
+      "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Letto grande",
         "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 211500,
       "name": "Letto grande",
       "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -719,8 +719,8 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -855,42 +855,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "MOVIMENTO + THE DAY AFTER",
-        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Devil May Cry",
         "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
@@ -907,6 +871,42 @@
       "duration_ms": 148818,
       "name": "Devil May Cry",
       "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "MOVIMENTO + THE DAY AFTER",
+        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Acqua salata",
-        "url": "https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv"
-      },
-      "artists": [
-        {
-          "name": "chiello",
-          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
-        }
-      ],
-      "duration_ms": 229175,
-      "name": "Acqua salata",
-      "url": "https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "TAXI DRIVER (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 205358,
       "name": "APNEA - MTV Unplugged",
       "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Acqua salata",
+        "url": "https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "duration_ms": 229175,
+      "name": "Acqua salata",
+      "url": "https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "bellacomestai",
-        "url": "https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM"
-      },
-      "artists": [
-        {
-          "name": "Tear&Drugz",
-          "url": "https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT"
-        }
-      ],
-      "duration_ms": 118928,
-      "name": "bellacomestai",
-      "url": "https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 180763,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "bellacomestai",
+        "url": "https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM"
+      },
+      "artists": [
+        {
+          "name": "Tear&Drugz",
+          "url": "https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT"
+        }
+      ],
+      "duration_ms": 118928,
+      "name": "bellacomestai",
+      "url": "https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Zucchero Bianco",
-        "url": "https://open.spotify.com/album/36f8upLYp7KLmskF1xyO36"
-      },
-      "artists": [
-        {
-          "name": "Milly>",
-          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
-        }
-      ],
-      "duration_ms": 133269,
-      "name": "Zucchero Bianco",
-      "url": "https://open.spotify.com/track/0BJUff7q1HgjJd0pb3AtpM"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Palude 4",
         "url": "https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu"
       },
@@ -1431,22 +1415,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Non piover\u00e0 per sempre",
-        "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
+        "name": "Zucchero Bianco",
+        "url": "https://open.spotify.com/album/36f8upLYp7KLmskF1xyO36"
       },
       "artists": [
         {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+          "name": "Milly>",
+          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Non piover\u00e0 per sempre",
-      "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
+      "duration_ms": 133269,
+      "name": "Zucchero Bianco",
+      "url": "https://open.spotify.com/track/0BJUff7q1HgjJd0pb3AtpM"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1467,6 +1447,26 @@
       "duration_ms": 176666,
       "name": "Bombay Lemon",
       "url": "https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Non piover\u00e0 per sempre",
+        "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Non piover\u00e0 per sempre",
+      "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Io non voglio pi\u00f9 soffrire",
-        "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
+        "name": "La cura, non sei te",
+        "url": "https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz"
       },
       "artists": [
         {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglia",
-          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+          "name": "Chanoir Hdn",
+          "url": "https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O"
         }
       ],
-      "duration_ms": 156378,
-      "name": "Io non voglio pi\u00f9 soffrire",
-      "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
+      "duration_ms": 128192,
+      "name": "La cura, non sei te",
+      "url": "https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1647,18 +1643,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "La cura, non sei te",
-        "url": "https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz"
+        "name": "Io non voglio pi\u00f9 soffrire",
+        "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
       },
       "artists": [
         {
-          "name": "Chanoir Hdn",
-          "url": "https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+        },
+        {
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
         }
       ],
-      "duration_ms": 128192,
-      "name": "La cura, non sei te",
-      "url": "https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT"
+      "duration_ms": 156378,
+      "name": "Io non voglio pi\u00f9 soffrire",
+      "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7"
+        "name": "Segnali di fumo",
+        "url": "https://open.spotify.com/album/4fmwfuMhCQHB2GUcGkivn1"
       },
       "artists": [
         {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglia",
-          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+          "name": "alessioego",
+          "url": "https://open.spotify.com/artist/2rFgWypbBE4LzXAGKDwNb6"
         }
       ],
-      "duration_ms": 174814,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT"
+      "duration_ms": 186857,
+      "name": "Segnali di fumo",
+      "url": "https://open.spotify.com/track/0jiy4Q3fQCkAvVPAFGpylh"
     }
   ],
   "unique_name": "ragazzo triste",

@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 166699,
+  "num_followers": 166703,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NDcxNywwMDAwMDAwMDQyODZmNDM4NTMwNjAzY2ZjOGU0ZGRlYWQ0OGZhNTFl",
+  "snapshot_id": "MTY3OTA0NDcxNywwMDAwMDAwMGM2YjQ0ZTg0NGFjYTZlNjVlYmYzZDY1Njg1YWVjNjA5",
   "tracks": [
     {
       "added_at": "2023-03-17 09:18:37",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Tell It To My Heart",
         "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 170184,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 140011,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 140011,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Happy Machine",
-        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 135265,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Don't Forget My Love",
         "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Happy Machine",
+        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "duration_ms": 135265,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1423,30 +1423,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/01mtRGu4b4Q6FigZ2PAyAn"
       },
@@ -1487,6 +1463,30 @@
       "duration_ms": 177560,
       "name": "Take Me To The Sunshine (feat. BullySongs)",
       "url": "https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
     },
     {
       "added_at": "2023-03-17 09:18:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,452 likes - 26 songs - 1 hr 23 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,456 likes - 26 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 13 | [WE GOT THE JAZZ](https://open.spotify.com/track/2vMZUk7qnupORI4eNFC5q7) | [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Kyle Kidd](https://open.spotify.com/artist/4X5Nbu5dWoMABqM0KORu9d), [Keir Neuringer](https://open.spotify.com/artist/2Yx49B2ByFhBKcSrQvaQib), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ) | [WE GOT THE JAZZ](https://open.spotify.com/album/1ZzvNoEwYaJHmoFUyv4BKD) | 1:54 |
 | 14 | [giftbag](https://open.spotify.com/track/1xi2Knd4pP48wp0Jxy5Frk) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [giftbag](https://open.spotify.com/album/4GPhMblkfeLwJkTXDxaYBx) | 2:49 |
 | 15 | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/track/4nZ4aGaAixvW9D7TethGee) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/album/6v6K6TQa2Scbn2OKhDCnDp) | 2:06 |
-| 16 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 16 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 17 | [Something Other Than Years](https://open.spotify.com/track/3bp0kF3hu0kc548UyIjBXK) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [YIAN](https://open.spotify.com/album/2ZEqm7UAvrdy4MQHITOiA6) | 4:10 |
 | 18 | [Soul With Me](https://open.spotify.com/track/4KyjDltC4B68pef319qLjJ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 4:15 |
 | 19 | [Ghosts Again](https://open.spotify.com/track/1j6vXqYXUHurXpQS1fAodP) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [Ghosts Again](https://open.spotify.com/album/22asE5EVfQVpKRBdWfSebC) | 4:25 |

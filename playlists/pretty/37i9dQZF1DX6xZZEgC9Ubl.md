@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: BONES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,026 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,456,230 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,19 +79,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 69 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 |
 | 70 | [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 |
 | 71 | [On & On](https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [On & On](https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM) | 2:16 |
-| 72 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 |
-| 73 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 |
-| 74 | [KILL CUPID](https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 4:09 |
-| 75 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
+| 72 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
+| 73 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 |
+| 74 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 |
+| 75 | [KILL CUPID](https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 4:09 |
 | 76 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 |
-| 77 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 |
-| 78 | [MORBID MIND](https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:16 |
+| 77 | [MORBID MIND](https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:16 |
+| 78 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 |
 | 79 | [Sad Nibba Hours](https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [EP](https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF) | 2:30 |
 | 80 | [jaded](https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [jaded](https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p) | 2:40 |
-| 81 | [Suicidal](https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp) | [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K), [Tommy Ice](https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z) | [Suicidal](https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc) | 2:22 |
-| 82 | [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 |
-| 83 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 |
-| 84 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 |
+| 81 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 |
+| 82 | [Suicidal](https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp) | [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K), [Tommy Ice](https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z) | [Suicidal](https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc) | 2:22 |
+| 83 | [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 |
+| 84 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 |
 | 85 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 |
 | 86 | [Dying](https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [The OC Season 3](https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0) | 3:29 |
 | 87 | [Outta Time](https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Outta Time](https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 |
 | 100 | [Read Your Mind](https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Read Your Mind](https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B) | 3:08 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDQxY2JjMzY4YjlmOTU4ZWQwMzk5OTk2YzU5NTJkM2Zj`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGMzMTVkYTlhNjgzNjA0YTdkY2UyMmFkM2E5NDkyNzcw`

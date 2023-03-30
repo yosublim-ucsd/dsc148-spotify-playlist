@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > capybara, capybara, capybara ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,014 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,385 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 |
 | 2 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
-| 3 | [Капибара](https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm) | [Сто\-Личный Она\-Нас](https://open.spotify.com/artist/2gcrsPrJGDnAgpOJ0EkToD) | [Капибара](https://open.spotify.com/album/0Nrvx6G0Ldu1ilJqzeSINk) | 2:04 |
+| 3 | [Капибара \- Capybara](https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm) | [Сто\-Личный Она\-Нас](https://open.spotify.com/artist/2gcrsPrJGDnAgpOJ0EkToD) | [Капибара \(Capybara\)](https://open.spotify.com/album/0Nrvx6G0Ldu1ilJqzeSINk) | 2:04 |
 | 4 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 5 | [Flores Amarillas](https://open.spotify.com/track/4PUmVspCOFioja8MFM653t) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/2X3U1Ra8bYgf0wXMjYJ1rN) | 3:43 |
 | 6 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |

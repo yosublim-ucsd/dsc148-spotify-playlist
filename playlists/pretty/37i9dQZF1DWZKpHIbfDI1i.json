@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Kenia OS en portada.",
-  "num_followers": 530905,
+  "num_followers": 531313,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAzODIzMywwMDAwMDAwMGNkZjJjMDAzZmY1NGZiMGU4N2U4ODI1MmRhOTE0Y2Jh",
+  "snapshot_id": "MTY4MDAzODIzMywwMDAwMDAwMDliODMwZmU4MmI1Mzc1NDdlZWVhN2FlMDdkN2JjYzY3",
   "tracks": [
     {
       "added_at": "2023-03-28 21:17:13",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
+        "name": "Uno Mas Uno Igual A Zero",
+        "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 159683,
+      "name": "Uno mas Uno Igual a Zero",
+      "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
+    },
+    {
+      "added_at": "2023-03-28 21:17:13",
+      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 193621,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2023-03-28 21:17:13",
-      "album": {
-        "name": "Uno Mas Uno Igual A Zero",
-        "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 159683,
-      "name": "Uno mas Uno Igual a Zero",
-      "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
     },
     {
       "added_at": "2023-03-28 21:17:13",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
+        "name": "Sin Rencores",
+        "url": "https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 148624,
+      "name": "Sin Rencores",
+      "url": "https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw"
+    },
+    {
+      "added_at": "2023-03-28 21:17:13",
+      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
-    },
-    {
-      "added_at": "2023-03-28 21:17:13",
-      "album": {
-        "name": "Sin Rencores",
-        "url": "https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 148624,
-      "name": "Sin Rencores",
-      "url": "https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw"
     },
     {
       "added_at": "2023-03-28 21:17:13",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
-    },
-    {
-      "added_at": "2023-03-28 21:17:13",
-      "album": {
         "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
         "url": "https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 232178,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-03-28 21:17:13",
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+      "duration_ms": 232178,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
     },
     {
       "added_at": "2023-03-28 21:17:13",
@@ -1143,6 +1127,22 @@
       "duration_ms": 113130,
       "name": "Una 45",
       "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
+    },
+    {
+      "added_at": "2023-03-28 21:17:13",
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
     },
     {
       "added_at": "2023-03-28 21:17:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
-        "name": "sanvalent\u00edn:(",
-        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242424,
-      "name": "sanvalent\u00edn:(",
-      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
-    },
-    {
-      "added_at": "2023-03-28 21:17:13",
-      "album": {
         "name": "Sandro Malandro Por Amor Al Mic",
         "url": "https://open.spotify.com/album/7fWRP3KUkm4PdTL5OPCqzv"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
+        "name": "sanvalent\u00edn:(",
+        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242424,
+      "name": "sanvalent\u00edn:(",
+      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
+    },
+    {
+      "added_at": "2023-03-28 21:17:13",
+      "album": {
         "name": "Te Invito a Ser Feliz",
         "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
       },
@@ -1247,6 +1247,26 @@
       "duration_ms": 196406,
       "name": "Te Invito a Ser Feliz",
       "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
+    },
+    {
+      "added_at": "2023-03-28 21:17:13",
+      "album": {
+        "name": "Tu Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/1p1LvWM0ysgMEPmK8paYm0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Tu Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/0367uF6vbcYnIYAgilNWYX"
     },
     {
       "added_at": "2023-03-28 21:17:13",
@@ -1343,26 +1363,6 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
-        "name": "Tu Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/1p1LvWM0ysgMEPmK8paYm0"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Tu Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/0367uF6vbcYnIYAgilNWYX"
-    },
-    {
-      "added_at": "2023-03-28 21:17:13",
-      "album": {
         "name": "Se Me Solt\u00f3 El Hocico",
         "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
       },
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2023-03-28 21:17:13",
       "album": {
-        "name": "Un Viaje a Todas Partes",
-        "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
+        "name": "\u00bfC\u00f3mo Se Supera?",
+        "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         },
         {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 203836,
-      "name": "Un Viaje a Todas Partes",
-      "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
+      "duration_ms": 203916,
+      "name": "\u00bfC\u00f3mo Se Supera?",
+      "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
     }
   ],
   "unique_name": "Top M\u00e9xico",

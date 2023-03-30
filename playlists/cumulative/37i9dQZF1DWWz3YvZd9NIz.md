@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-106 songs - 5 hr 26 min
+107 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Feel \- Hardstyle Remix](https://open.spotify.com/track/3gxvKQig5mhR52ypQL41iF) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Bruno Power](https://open.spotify.com/artist/6G6JlX1DE2Val7zPadVTzY), [Eggwyte](https://open.spotify.com/artist/5VzIPn6munZ3O3n29BnZI8) | [Feel \(Hardstyle Remix\)](https://open.spotify.com/album/4YyPm2yc7HQIIQxgQawOiw) | 2:57 | 2023-02-02 | 2023-02-24 |
 | [Fire to the Rain \- Hardstyle Remix](https://open.spotify.com/track/4tZULb84s9ELGycuPWGa2k) | [ANDONIS](https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP) | [Fire to the Rain Hardstyle](https://open.spotify.com/album/1BLoFaML69GcWFn8uWkvX8) | 2:30 | 2023-02-09 |  |
 | [Firework](https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Firework](https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w) | 2:08 | 2022-12-05 |  |
-| [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 | 2022-12-05 |  |
+| [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 | 2022-12-05 | 2023-03-30 |
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2022-12-05 |  |
 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 | 2023-02-09 |  |
 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 | 2022-12-05 | 2023-03-16 |
@@ -100,6 +100,7 @@
 | [Sweater Weather](https://open.spotify.com/track/77y3caTFtC3n4tGgyPUF87) | [Jomarijan](https://open.spotify.com/artist/5iHZxQtcP3E5hjuzPeocgW) | [Sweater Weather](https://open.spotify.com/album/49oEQTuxnqqiOw66AfI5zc) | 3:22 | 2023-01-26 |  |
 | [Sweet Caroline](https://open.spotify.com/track/4x2onqROU58WR516xPqqWO) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:30 | 2022-12-06 | 2022-12-29 |
 | [Sweet Dreams](https://open.spotify.com/track/0pZpFpP9nInJjyfVAQTMsf) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Sweet Dreams](https://open.spotify.com/album/1VNd4mu5ggXFsI4bAwaPIN) | 3:21 | 2023-03-23 |  |
+| [TAKE CONTROL](https://open.spotify.com/track/3m8lxfcEwx7jhkhvxagyQR) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [TAKE CONTROL](https://open.spotify.com/album/4uJSudgTRYbyjEyeqMp3CV) | 2:29 | 2023-03-23 |  |
 | [The Game \- Dr\. Rude & Lunaticz Remix](https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj) | [DJ Galaga](https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Lunaticz](https://open.spotify.com/artist/21P8yUQqDBC15Yj8RizZv7) | [The Game \(Dr\. Rude & Lunaticz Remix\)](https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG) | 3:20 | 2022-12-15 | 2023-02-10 |
 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 | 2022-12-05 | 2023-02-10 |
 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 | 2023-02-09 |  |

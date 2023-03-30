@@ -4,7 +4,7 @@
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: REXORIA
 
-520 songs - 1 day 16 hr 3 min
+521 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Beneath Your Skin](https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f) | [Chaos Magic](https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC), [Caterina Nix](https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S) | [Emerge \(Deluxe Edition\)](https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b) | 4:40 | 2022-07-08 |  |
 | [Bereavement \- Instrumental](https://open.spotify.com/track/2DZqH9cwi33v4t4e2hqC9B) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Bereavement \(Instrumental Edition\)](https://open.spotify.com/album/1O2eEwO3sJSkrfNOg16ekw) | 2:38 | 2022-07-13 | 2022-07-23 |
 | [BEST TIME](https://open.spotify.com/track/0cTHs20lsSAahzUnlG05Lg) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [HELLOWEEN](https://open.spotify.com/album/6ZOpyAm1HCU9Z0aRSLMPnn) | 3:35 | 2021-06-19 | 2022-02-11 |
-| [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 | 2022-06-11 |  |
+| [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 | 2022-06-11 | 2023-03-30 |
 | [Blank Infinity \- Live At Paradiso](https://open.spotify.com/track/0GmZSnIUgQRJfGKR0NSaUl) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Live At Paradiso](https://open.spotify.com/album/0cSFIq70TNkZvsqSfAQrXe) | 4:02 | 2022-09-01 | 2022-12-13 |
 | [Blood of Heaven](https://open.spotify.com/track/47cPM0m5L7l06hAprdV0NX) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Blood of Heaven](https://open.spotify.com/album/5uvgEF7Cpbdf4eokVESORA) | 3:17 | 2022-01-14 | 2022-01-22 |
 | [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 | 2022-11-19 |
@@ -254,6 +254,7 @@
 | [Live or Die \(feat\. Joakim Brodén\)](https://open.spotify.com/track/2tSyGmqhFvYongMdFaQNe3) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [Joakim Brodén](https://open.spotify.com/artist/2U2L1YxD0FCUkCdDfEbHm1) | [Live Or Die \(feat\. Joakim Brodén\)](https://open.spotify.com/album/6dksdceqBM8roInjffIaZw) | 3:44 | 2020-11-29\* | 2021-07-10 |
 | [Living Room](https://open.spotify.com/track/3i7mgkkVYOJzKYJUoXw6l6) | [David Maxim Micic](https://open.spotify.com/artist/0wQa1N4q3HmLwxqkpVcYhs) | [Who Bit The Moon](https://open.spotify.com/album/2ebQIr3K0LajX9pwW81X2w) | 5:01 | 2022-07-13 | 2022-07-30 |
 | [Living Room](https://open.spotify.com/track/4siB4DG9qAUrACMcIJOhGF) | [David Maxim Micic](https://open.spotify.com/artist/0wQa1N4q3HmLwxqkpVcYhs) | [Who Bit the Moon](https://open.spotify.com/album/4XlMNDp7GSFGF56dw5CJG5) | 5:01 | 2022-07-13 | 2022-07-29 |
+| [Load Your Cannons](https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ) | [Saint Deamon](https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG) | [Load Your Cannons](https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j) | 3:30 | 2023-03-24 |  |
 | [Loki](https://open.spotify.com/track/5p1QCPjzj78AugCNUMsxCi) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Loki](https://open.spotify.com/album/3f3Qg35UJ1vXOU8CJcreMj) | 3:56 | 2020-11-29\* | 2021-02-26 |
 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 | 2022-05-27 |  |
 | [Lonely Tears in Chinatown](https://open.spotify.com/track/3poXKPjtgJdt9Y1WbTsZOv) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Lonely Tears in Chinatown](https://open.spotify.com/album/41wAvfdHHgyW20L37DcYQr) | 3:40 | 2021-10-16 | 2021-11-20 |

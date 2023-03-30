@@ -5350,7 +5350,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 269142,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl"
@@ -8174,6 +8174,28 @@
       "duration_ms": 317130,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP"
+    },
+    {
+      "album": {
+        "name": "The Burden Ov Faith",
+        "url": "https://open.spotify.com/album/4aJaWEbDcfXTy38AU6V1F6"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        },
+        {
+          "name": "Light The Torch",
+          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306775,
+      "name": "Wide Open (feat. Howard Jones of Light The Torch)",
+      "url": "https://open.spotify.com/track/13rGelXjCH89kW138X5hrd"
     },
     {
       "album": {

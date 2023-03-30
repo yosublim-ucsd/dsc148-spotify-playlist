@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Preto no Branco",
-  "num_followers": 239585,
+  "num_followers": 239698,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDdlMGVkZGJiMmE3YWMyZWZiNmNiYzMyYTZhZTQ1ZTk5",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGY0MmJjMGIxY2FlMzExNDNlYzUxNTU0Nzc2ODk2NDMx",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
         }
       ],
-      "duration_ms": 342250,
-      "name": "A Casa \u00c9 Sua - Acoustic Session",
-      "url": "https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5"
+      "duration_ms": 280161,
+      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
+      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
         }
       ],
-      "duration_ms": 280161,
-      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
-      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
+      "duration_ms": 342250,
+      "name": "A Casa \u00c9 Sua - Acoustic Session",
+      "url": "https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Existe uma Sa\u00edda (Acoustic)",
+        "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Existe uma Sa\u00edda",
+      "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 302750,
       "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Existe uma Sa\u00edda (Acoustic)",
-        "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
-      },
-      "artists": [
-        {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Existe uma Sa\u00edda",
-      "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
     },
     {
       "added_at": "2023-03-24 03:00:00",

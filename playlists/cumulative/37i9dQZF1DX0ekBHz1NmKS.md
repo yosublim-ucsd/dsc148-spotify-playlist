@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-664 songs - 1 day 11 hr 11 min
+665 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [My Name](https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [My Name](https://open.spotify.com/album/5yqYKtzpJhpsqN1666cQXt) | 2:14 | 2021-12-16 | 2022-05-13 |
 | [Naked](https://open.spotify.com/track/5xVUzNOpWbmBmOJn1Jb4Am) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Naked](https://open.spotify.com/album/7BVMjlnTbiCcEuzwRgcVRU) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Naked Love](https://open.spotify.com/track/0tBKRyjgUWvU7zNjYqnoDz) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Naked Love](https://open.spotify.com/album/2x1WdqyybAl3oe9hGMG074) | 3:16 | 2022-05-05 | 2022-07-28 |
+| [Nattbuss](https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Nattbuss](https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ) | 3:26 | 2023-03-29 |  |
 | [Neon Lights](https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Neon Lights](https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE) | 3:29 | 2022-05-12 |  |
 | [Never Enough](https://open.spotify.com/track/7dzSmIEjI8AO2ET2SLMUlw) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [Never Enough](https://open.spotify.com/album/3njKzpqfXbFpiZoSzPZeMe) | 3:06 | 2021-12-16 | 2022-02-15 |
 | [New World Coming](https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [New World Coming](https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE) | 2:05 | 2022-11-10 | 2023-03-25 |
@@ -521,7 +522,7 @@
 | [Solen i Göteborg](https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Solen i Göteborg](https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB) | 2:51 | 2022-08-11 | 2023-02-09 |
 | [Solnedgångar](https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Solnedgångar](https://open.spotify.com/album/3rAowKXyLvIx0NQqCzDtk8) | 4:02 | 2022-04-01 | 2022-07-28 |
 | [Som du vill](https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Som du vill](https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU) | 2:53 | 2022-02-05 | 2022-09-16 |
-| [Som en sång](https://open.spotify.com/track/0cVDXsKlmi4ANSpld0XTSq) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Som en sång](https://open.spotify.com/album/5FW9X0S4UqnM9QuSqITB11) | 3:50 | 2023-02-23 |  |
+| [Som en sång](https://open.spotify.com/track/0cVDXsKlmi4ANSpld0XTSq) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Som en sång](https://open.spotify.com/album/5FW9X0S4UqnM9QuSqITB11) | 3:50 | 2023-02-23 | 2023-03-30 |
 | [Som ett minne blott](https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Som ett minne blott](https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE) | 3:11 | 2022-09-29 |  |
 | [Someone Always Knows](https://open.spotify.com/track/3ws3fXwBlZRSWbPgtEcTii) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Someone Always Knows](https://open.spotify.com/album/3JPLJcTfUJ7wsQiTifHmM1) | 2:30 | 2022-02-24 | 2022-05-13 |
 | [Sometimes](https://open.spotify.com/track/2z3p0draElJoHuLwPIeEyt) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Sometimes](https://open.spotify.com/album/7xIeb2a6nj8eUcx9kkY0oe) | 2:42 | 2021-12-16 | 2022-01-14 |

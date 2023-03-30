@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-350 songs - 21 hr 21 min
+351 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [All These Things That I've Done](https://open.spotify.com/track/0kYUrLVQOfx21xuXu7OGrT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 5:01 | 2021-03-26 | 2022-07-29 |
 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 | 2021-03-26 |  |
 | [All These Things That I've Done](https://open.spotify.com/track/65m5l8o19KawZ814Ky7SPl) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Chillax Hits](https://open.spotify.com/album/2FOGiB9hLtTBPpr69ocwaK) | 5:03 | 2022-10-13 | 2022-11-13 |
-| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2021-03-26 |  |
+| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2021-03-26 | 2023-03-30 |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2021-03-26 |  |
 | [American Honey](https://open.spotify.com/track/2CG6oeuMEtbL5OvKsyT7JL) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [American Honey](https://open.spotify.com/album/3V9AjOHddNkAIx7fmX9UcP) | 4:13 | 2021-04-02 | 2022-07-16 |
 | [American Teen](https://open.spotify.com/track/312WNtMs3F28cUukaPY9bo) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 4:10 | 2021-03-26 | 2022-04-13 |
@@ -181,6 +181,7 @@
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2021-03-26 |  |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-09 | 2022-06-08 |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2021-03-26 |  |
+| [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-29 |  |
 | [Last Words of a Shooting Star](https://open.spotify.com/track/0zCm4JTVBuIWSSL8rMUChT) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/472GvzwE3EZ0i2EEaly5mX) | 2:44 | 2021-08-06 | 2022-04-19 |
 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 | 2021-03-26 | 2022-04-19 |
 | [leading me on but i'm not mad about it](https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [leading me on but i'm not mad about it](https://open.spotify.com/album/5FrXGtQvP3jyfycc9CXrKe) | 2:54 | 2021-03-26 | 2022-07-29 |
@@ -236,7 +237,7 @@
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2021-08-06 | 2022-04-20 |
 | [out 4 a breather](https://open.spotify.com/track/73aXl4EIbQsY8ufuopTAaZ) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/0Yyb7bR8VvEfrJ0sBoEhMl) | 3:21 | 2021-03-26 | 2022-07-29 |
 | [Out of My League](https://open.spotify.com/track/5qEn8c0MBzyRKgQq91Vevi) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Out of My League](https://open.spotify.com/album/5MAlo86ggKHtumwFZPdii2) | 3:29 | 2021-03-26 | 2022-11-16 |
-| [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-29 |  |
+| [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-28 |  |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2021-03-26 | 2022-07-29 |
 | [Perfect Places](https://open.spotify.com/track/1wC93sZRGcTgKLN2UWRSwW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/4JeJPyNnsB3tqnHR7RL5v5) | 3:41 | 2021-03-26 | 2022-04-18 |
 | [Perfect Places](https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:41 | 2022-10-13 | 2022-12-06 |

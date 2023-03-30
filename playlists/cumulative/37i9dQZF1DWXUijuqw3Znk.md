@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-345 songs - 20 hr 9 min
+346 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [DEAR MOM](https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:44 | 2022-08-12 | 2022-09-23 |
 | [Diamonds](https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. II](https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22) | 4:01 | 2022-07-22 |  |
 | [Diamonds \(lose yourself\)](https://open.spotify.com/track/09ROb5p7L1K3t8D6eRKAsq) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. Ⅱ](https://open.spotify.com/album/4gWRs41UedPrkIkQl5qcoh) | 4:01 | 2022-05-11 | 2022-07-28 |
-| [Double Up \(Feat\. skinny brown, CK\)](https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Ck](https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 3:09 | 2022-05-11 |  |
+| [Double Up \(Feat\. skinny brown, CK\)](https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Ck](https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 3:09 | 2022-05-11 | 2023-03-30 |
 | [Drama \(prod\. Kidstone\)](https://open.spotify.com/track/1O7B5qXJNerHlouNYQnNFK) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Never](https://open.spotify.com/album/7Ch8RqlX6xkhKOO13YaFcn) | 3:06 | 2022-05-11 | 2022-07-28 |
 | [Dream Chaser](https://open.spotify.com/track/0xhgq74P8mfT91TWat0fZV) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/0jwKufwplmqcfVNSFdm5co) | 4:33 | 2022-05-11 | 2022-07-26 |
 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 | 2022-07-22 |  |
@@ -153,6 +153,7 @@
 | [Infectious \(Til Infinity\)](https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 3:35 | 2022-08-12 |  |
 | [Infectious \(Til Infinity\)](https://open.spotify.com/track/3PD7TU75pn7DCLgBGOTUUg) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/6LB9gCiUqrrHOZEoYZ730k) | 3:35 | 2022-05-11 | 2022-07-29 |
 | [INSIDE \(Feat\. Khundi Panda\)](https://open.spotify.com/track/1uWnfgrdfHWdrrO7G2ippM) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 2:51 | 2022-06-03 | 2022-07-19 |
+| [It's Your Turn \(Feat\. Futuristic Swaver\)](https://open.spotify.com/track/37gsND37Afaqykeo0forwU) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Futuristic Swaver](https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF) | [It's Your Turn \(Feat\. Futuristic Swaver\)](https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt) | 3:13 | 2023-03-30 |  |
 | [it\`s you !](https://open.spotify.com/track/6kpfvMTZloulv2faEtzbSL) | [LBD](https://open.spotify.com/artist/24l2NyLxnsdCgxOp8sjxJ2) | [it\`s you !](https://open.spotify.com/album/6CdDtwBEEbkTATymrY7CSK) | 2:52 | 2022-06-09 | 2022-07-19 |
 | [I′m](https://open.spotify.com/track/02z64Z7bwglULhHNg7OviQ) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [FLASH 2/2](https://open.spotify.com/album/4cRkA4hk9RG03SPhJPWidN) | 3:20 | 2022-05-11 | 2022-07-15 |
 | [J.O.T.S](https://open.spotify.com/track/1f5i6Jz6UCxJ5ZFxHpZCcP) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [GRAND CARNIVAL](https://open.spotify.com/album/2X5Zysb7GhMf81Bpbq75FA) | 3:50 | 2022-05-11 | 2022-07-25 |

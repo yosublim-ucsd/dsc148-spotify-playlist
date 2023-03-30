@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Chris Wendell
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,691 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,673 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 58 | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc) | 2:51 |
 | 59 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
 | 60 | [NOTEVI](https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jimmix](https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP) | [NOTEVI](https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw) | 4:20 |
-| 61 | [NINFÓMANA](https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Dalyan](https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN) | [NINFÓMANA](https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U) | 3:40 |
+| 61 | [Personal](https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Personal](https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB) | 3:24 |
 | 62 | [cuenta \(remix\)](https://open.spotify.com/track/4nO1LWkotCnxfoyhqkGk4I) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [cuenta \(remix\)](https://open.spotify.com/album/1beSwSwTDfsVxq3KGv6yF0) | 3:40 |
-| 63 | [Personal](https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Personal](https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB) | 3:24 |
+| 63 | [NINFÓMANA](https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Dalyan](https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN) | [NINFÓMANA](https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U) | 3:40 |
 | 64 | [Guitarra](https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Guitarra](https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn) | 2:54 |
 | 65 | [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 |
 | 66 | [NO MAN](https://open.spotify.com/track/5pZhTh1X9lQQQoknYuM3Ds) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Mike Snell](https://open.spotify.com/artist/2fxKX3blmv0SZfVvuwopd8) | [NO MAN](https://open.spotify.com/album/2QqkPOYsFBdvpFq6RFfAnz) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 79 | [Nobody Like Me](https://open.spotify.com/track/6V1LNio3PtaoiePzCAJF9t) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Nobody Like Me](https://open.spotify.com/album/5yNTTe5Y9eyjEdNLKY2TPL) | 3:06 |
 | 80 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 |
 
-Snapshot ID: `MTY3OTA0MDE4MiwwMDAwMDAwMDk5MDUwNzkxM2FiZDMyMzAzZGExMDJjYmM0ZjViZWIx`
+Snapshot ID: `MTY3OTA0MDE4MiwwMDAwMDAwMDQxMTNhMzRlNmI4ZmQ2ODYzYWZiZDdiZDgyZGY0ZTMz`

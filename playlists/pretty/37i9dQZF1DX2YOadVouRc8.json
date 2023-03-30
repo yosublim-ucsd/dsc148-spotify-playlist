@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11481,
+  "num_followers": 11510,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NDkxMiwwMDAwMDAwMDhlODQ1MzQ0MmEyNmFiYjZhNzk3YTMyZGYzOTkwOWQx",
+  "snapshot_id": "MTY3OTY3NDkxMiwwMDAwMDAwMDNhYWQwMGU2ODM3NGIzYTE2ZDIzZjQzY2E3ODNkZjIz",
   "tracks": [
     {
       "added_at": "2023-03-24 16:21:52",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-03-24 16:21:52",
       "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 208350,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
-    },
-    {
-      "added_at": "2023-03-24 16:21:52",
-      "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 158400,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+    },
+    {
+      "added_at": "2023-03-24 16:21:52",
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
       "added_at": "2023-03-24 16:21:52",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-03-24 16:21:52",
       "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+        "name": "san siro",
+        "url": "https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
         }
       ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+      "duration_ms": 194318,
+      "name": "san siro",
+      "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
     },
     {
       "added_at": "2023-03-24 16:21:52",
@@ -587,18 +583,22 @@
     {
       "added_at": "2023-03-24 16:21:52",
       "album": {
-        "name": "san siro",
-        "url": "https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD"
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
       },
       "artists": [
         {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
         }
       ],
-      "duration_ms": 194318,
-      "name": "san siro",
-      "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
       "added_at": "2023-03-24 16:21:52",
@@ -835,26 +835,18 @@
     {
       "added_at": "2023-03-24 16:21:52",
       "album": {
-        "name": "KOA II Part 1",
-        "url": "https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q"
+        "name": "APOLLO",
+        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
       },
       "artists": [
         {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Nia Pearl",
-          "url": "https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK"
-        },
-        {
-          "name": "MDU aka TRP",
-          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 384893,
-      "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
-      "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
+      "duration_ms": 172191,
+      "name": "ELI",
+      "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
     },
     {
       "added_at": "2023-03-24 16:21:52",
@@ -879,18 +871,26 @@
     {
       "added_at": "2023-03-24 16:21:52",
       "album": {
-        "name": "APOLLO",
-        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
+        "name": "KOA II Part 1",
+        "url": "https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Nia Pearl",
+          "url": "https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
         }
       ],
-      "duration_ms": 172191,
-      "name": "ELI",
-      "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
+      "duration_ms": 384893,
+      "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
+      "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
     },
     {
       "added_at": "2023-03-24 16:21:52",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-03-24 16:21:52",
       "album": {
+        "name": "That's Alright",
+        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 232021,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
+    },
+    {
+      "added_at": "2023-03-24 16:21:52",
+      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2023-03-24 16:21:52",
       "album": {
-        "name": "That's Alright",
-        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 232021,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     },
     {
       "added_at": "2023-03-24 16:21:52",
@@ -1199,22 +1215,6 @@
       "duration_ms": 186666,
       "name": "Fine Wine (ft. Amaarae)",
       "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
-    },
-    {
-      "added_at": "2023-03-24 16:21:52",
-      "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     },
     {
       "added_at": "2023-03-24 16:21:52",
@@ -1299,6 +1299,42 @@
     {
       "added_at": "2023-03-24 16:21:52",
       "album": {
+        "name": "No letting guh",
+        "url": "https://open.spotify.com/album/1nW3aKGYni9OSGk2311kr9"
+      },
+      "artists": [
+        {
+          "name": "July Drama",
+          "url": "https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "duration_ms": 144465,
+      "name": "No letting guh",
+      "url": "https://open.spotify.com/track/4C0DwDS6OzrUjtU8VtwhUN"
+    },
+    {
+      "added_at": "2023-03-24 16:21:52",
+      "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+    },
+    {
+      "added_at": "2023-03-24 16:21:52",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef"
       },
@@ -1335,22 +1371,6 @@
       "duration_ms": 133392,
       "name": "I Saw An Angel On The Roof & Wept",
       "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
-    },
-    {
-      "added_at": "2023-03-24 16:21:52",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2023-03-24 16:21:52",
@@ -1423,26 +1443,6 @@
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
-    },
-    {
-      "added_at": "2023-03-24 16:21:52",
-      "album": {
-        "name": "No letting guh",
-        "url": "https://open.spotify.com/album/1nW3aKGYni9OSGk2311kr9"
-      },
-      "artists": [
-        {
-          "name": "July Drama",
-          "url": "https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 144465,
-      "name": "No letting guh",
-      "url": "https://open.spotify.com/track/4C0DwDS6OzrUjtU8VtwhUN"
     },
     {
       "added_at": "2023-03-24 16:21:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,189 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,206 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 14 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 |
 | 15 | [Duerme negrito](https://open.spotify.com/track/7HMHqxqrr1exm1O5QuyPI0) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:36 |
 | 16 | [The Bath Song](https://open.spotify.com/track/6t5tUvTg4BY4syBRFYATxD) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 2:01 |
-| 17 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 |
-| 18 | [Agua](https://open.spotify.com/track/7tBhKomsIxF7pTkVDnh6sa) | [Magdalena Fleitas](https://open.spotify.com/artist/7vUHOeU5ADsenylCCvlaQV) | [Risas Del Sol](https://open.spotify.com/album/1PxnhW7McgHUjAUlF8q9md) | 3:04 |
+| 17 | [Agua](https://open.spotify.com/track/7tBhKomsIxF7pTkVDnh6sa) | [Magdalena Fleitas](https://open.spotify.com/artist/7vUHOeU5ADsenylCCvlaQV) | [Risas Del Sol](https://open.spotify.com/album/1PxnhW7McgHUjAUlF8q9md) | 3:04 |
+| 18 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 |
 | 19 | [Baby Shark](https://open.spotify.com/track/5k71IudErIAnPklwCbgbgR) | [Mini Stars](https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Baby Shark](https://open.spotify.com/album/2a6Jc7yO9JJw870sjR8dbq) | 1:37 |
 | 20 | [Nana Boruca](https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz) | [Mariana Baggio](https://open.spotify.com/artist/72l6wuv5Ic1Lm9yAMayCKx) | [Nana Boruca](https://open.spotify.com/album/2hnrMIBi0zullEG1TYCZEJ) | 1:41 |
 | 21 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 49 | [Vivir Mi Vida](https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 4:15 |
 | 50 | [Jamming](https://open.spotify.com/track/1C3myqXSGq5ulhe1eqGsiB) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 2:41 |
 
-Snapshot ID: `MTY3OTUxMTI1NywwMDAwMDAwMGY4N2IwMjM2MjcxZDc5NzQzYThmZThjNjMxOTYyZWE5`
+Snapshot ID: `MTY3OTUxMTI1NywwMDAwMDAwMDRlY2YwNjJmMDRkNDIxNjRlZDY4MjFhYWQ1NjYyNjE2`

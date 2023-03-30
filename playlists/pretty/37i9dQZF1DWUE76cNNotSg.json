@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 427866,
+  "num_followers": 428026,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMzNzE3OSwwMDAwMDAwMDMxMzgxZmJlYWYzYzFjMzYzZjcxZWZkMmZhNjhjNWVm",
+  "snapshot_id": "MTY3OTMzNzE3OSwwMDAwMDAwMDdmNTc5Nzk3Y2IwOWFiNmVjMWI3MmY5NzE4NDk2ZmFk",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
-    },
-    {
       "added_at": "2021-03-19 20:47:30",
       "album": {
         "name": "Canary Islands",
@@ -267,6 +251,22 @@
       "duration_ms": 204521,
       "name": "Canary Islands",
       "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -323,6 +323,22 @@
       "duration_ms": 368783,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Casita",
+        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Casita",
+      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -411,22 +427,6 @@
       "duration_ms": 198000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Casita",
-        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Casita",
-      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -587,6 +587,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 233454,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/6mjVNuxWS73gi2nPvvtJFB"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 217296,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/0feV26ESzVptPP83N82VAO"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 233454,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 267962,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191253,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 267962,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -823,26 +823,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Loud Places",
-      "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Loud Places",
+      "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
     },
     {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en"
-      },
-      "artists": [
-        {
-          "name": "Mishegas",
-          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
-        }
-      ],
-      "duration_ms": 244267,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n"
-    },
-    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Home For Now",
@@ -1135,6 +1119,22 @@
       "duration_ms": 222439,
       "name": "Drift",
       "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en"
+      },
+      "artists": [
+        {
+          "name": "Mishegas",
+          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+        }
+      ],
+      "duration_ms": 244267,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "S\u00e9quences (Remixes)",
+        "url": "https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "S\u00e9quences - Parcels Remix",
+      "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/7crhe15k1Qn72AWzAHMVOt"
       },
@@ -1387,22 +1407,6 @@
       "duration_ms": 216032,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     }
   ],
   "unique_name": "golden hour",

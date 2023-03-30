@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 708 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 713 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 3 | [Li tourné \- Version ambiance](https://open.spotify.com/track/3TytI9LFOL2aByywkSKDvP) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Suprem séga \(Li tourné / timbali\)](https://open.spotify.com/album/0BK5lSpjL5MLgi8U6J0QyD) | 4:02 |
 | 4 | [Rev nou ancétres](https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd) | [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Le meilleur de Cassiya avec Désiré François \(Best Of, vol\. 1\)](https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh) | 4:33 |
 | 5 | [Roule Matak, Pt\. 1](https://open.spotify.com/track/1RQPzvQfwJlgCXL24cs3mj) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya), [Jor'dan](https://open.spotify.com/artist/5bfaXvOfbazvljanbZvHqu) | [Roule Matak](https://open.spotify.com/album/4v3b53w4gWZyHSUqBObEyf) | 2:23 |
-| 6 | [Pomper](https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:22 |
-| 7 | [Tik tike](https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g) | [Laura Beg](https://open.spotify.com/artist/3CjANrHEK3lSf6TkuVuqSf) | [Tik tiker](https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW) | 4:06 |
+| 6 | [Tik tike](https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g) | [Laura Beg](https://open.spotify.com/artist/3CjANrHEK3lSf6TkuVuqSf) | [Tik tiker](https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW) | 4:06 |
+| 7 | [Pomper](https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:22 |
 | 8 | [La force l'amour](https://open.spotify.com/track/0JIvxiw7QnoNeyQSo9PV5D) | [Clara](https://open.spotify.com/artist/443OVqDhZDFnORwaL5QRuB) | [Mon univers](https://open.spotify.com/album/5qQ2QdNViIJp553V4KS86y) | 3:40 |
 | 9 | [Kifer to Pale Danse](https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK) | [Nou Sime](https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6) | 3:45 |
 | 10 | [Trottinette](https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Abdoul](https://open.spotify.com/artist/23IOAUeDv9mxdPgXvGW8ES), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF) | [Trottinette](https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z) | 3:04 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 17 | [Dhobi de classe](https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT) | [Jean\-Claude](https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5) | [Les meilleurs ségas de Jean\-Claude \(Folk Music of Mauritius Island\)](https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ) | 5:52 |
 | 18 | [Zoli mamzel \(Remix 2016\) \[feat\. Kymai, DJ Cutson & DJ Cedrik\]](https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1), [Kymaï](https://open.spotify.com/artist/4oMiFNFu7BdGvGD4dusuhn), [DJ Cutson](https://open.spotify.com/artist/3DHm7ZLJ4OeVF8eAzbAUh2), [Dj Cedrik](https://open.spotify.com/artist/5qnz040bwCnHXrqgBAv4f5) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:36 |
 | 19 | [Met dan la joie](https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ) | [AUBIN](https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19) | [La vie est belle \(Best Of\)](https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ) | 4:10 |
-| 20 | [Ingra](https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK), [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9) | [La famille](https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7) | 4:07 |
-| 21 | [Moris](https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG) | [Evoloziq](https://open.spotify.com/artist/7MFxyq8uWZZo0eP48b80m8) | [Koleksyon Dor](https://open.spotify.com/album/7x2ysdP957dBY4KY2oKDUD) | 3:24 |
+| 20 | [Moris](https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG) | [Evoloziq](https://open.spotify.com/artist/7MFxyq8uWZZo0eP48b80m8) | [Koleksyon Dor](https://open.spotify.com/album/7x2ysdP957dBY4KY2oKDUD) | 3:24 |
+| 21 | [Ingra](https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK), [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9) | [La famille](https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7) | 4:07 |
 | 22 | [Prisonnier](https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [La Réunion lé la](https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk) | 4:15 |
 | 23 | [Medley marcel](https://open.spotify.com/track/5QQhJPbtk9b75jlM0bg8t9) | [Morgan](https://open.spotify.com/artist/0WuwdC5RXZ3UNa1CI64O6p) | [Crazé séga 2019](https://open.spotify.com/album/3gcsbOnQDbwUzjGMgbJNnF) | 3:38 |
 | 24 | [Longanis](https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM) | [Sky to Be](https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch) | [Sega Ar Pwa](https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 
-Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDYzNTgzOTk1MTgwMzAxOTU4ZWNjNzM3NzE5ZjA3MWQ1`
+Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMGYzMzM2ODM1NDU1MGVjOTg4NTlhOWRlMTkyZGI1MWNm`

@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Armani Caesar",
-  "num_followers": 1605725,
+  "num_followers": 1605813,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGU3Y2M4NDY3OTViZmJkY2JjOTQ0ZTBiZDBmYzQ4NTc3",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDI2MDZiNDIyOTE4YjdhMmUyZjVlN2RjODZlYjgwZWEz",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -264,7 +264,7 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 192314,
+      "duration_ms": 192306,
       "name": "89 Earthquake",
       "url": "https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv"
     },
@@ -448,7 +448,7 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 199498,
+      "duration_ms": 199493,
       "name": "60 Days",
       "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
     },
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Gang Signs (feat. ScHoolboy Q)",
-        "url": "https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "Gang Signs (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
         "url": "https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 185454,
       "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
       "url": "https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gang Signs (feat. ScHoolboy Q)",
+        "url": "https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "Gang Signs (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Church Clothes 4",
-        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Still In America",
-      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Cocodrillo Turbo",
         "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 175306,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Church Clothes 4",
+        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Still In America",
+      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
     },
     {
       "added_at": "2023-03-24 04:00:00",

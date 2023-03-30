@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-371 songs - 23 hr 25 min
+372 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Breaking Skin](https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [The Return](https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA) | 2:54 | 2022-06-17 |  |
 | [Breaking Skin](https://open.spotify.com/track/4sCvTmUx2f1FC6Qds5GKIm) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Breaking Skin](https://open.spotify.com/album/6AREv57v8nBZFdpPok7o9M) | 2:54 | 2021-12-28 | 2022-07-18 |
 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 | 2021-11-12 |  |
-| [Broken](https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Future](https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC) | 3:20 | 2021-11-12 |  |
+| [Broken](https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Future](https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC) | 3:20 | 2021-11-12 | 2023-03-30 |
 | [Broken Heart](https://open.spotify.com/track/5LV0oQV98daZAUoWnQEW6N) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/0b4KJR48ZibGZafb5sviX3) | 3:07 | 2021-11-12 |  |
 | [Brother](https://open.spotify.com/track/2lll6vULr73q49c5osOjal) | [Saul](https://open.spotify.com/artist/3bpsYqqHc3GqU3WclK4dpp) | [Brother](https://open.spotify.com/album/33IMh58wEKJ3kxbiIBwClY) | 4:19 | 2021-11-12 | 2022-07-29 |
 | [Bullet \- Single Version](https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Bullet](https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h) | 2:53 | 2021-11-12 | 2022-07-29 |
@@ -252,6 +252,7 @@
 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 | 2021-11-12 |  |
 | [Peace](https://open.spotify.com/track/58WnCtoXAG5IBx3rpK8IDM) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Peace](https://open.spotify.com/album/34gjdGi2pGk04DSt5ccPeZ) | 4:18 | 2021-11-12 | 2022-07-29 |
 | [Pet](https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:34 | 2022-11-02 | 2023-02-02 |
+| [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-23 |  |
 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 | 2021-11-12 |  |
 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 | 2022-11-02 |  |
 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 | 2022-07-13 | 2022-11-03 |

@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 671545,
+  "num_followers": 671643,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGMzNjJkYzgxMmNjZTU1Yjg4Y2QzNmQ2NjY4NTY5MTcw",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDFlM2QxMTc2OGFiM2NkMjBlYjcxM2Q5YmQ3MGZkODJk",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
-      },
-      "artists": [
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 185755,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
+      },
+      "artists": [
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 185755,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Into The Mystic",
         "url": "https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 168354,
       "name": "Into The Mystic",
       "url": "https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Ben Folds Live",
-        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
       },
       "artists": [
         {
-          "name": "Ben Folds",
-          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
         }
       ],
-      "duration_ms": 323600,
-      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
-      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
+        "name": "Ben Folds Live",
+        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
       },
       "artists": [
         {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
         }
       ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
+      "duration_ms": 323600,
+      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
+      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "What a Wonderful World",
+        "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Fredericks",
+          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
+        }
+      ],
+      "duration_ms": 162907,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Rita Wilson Now & Forever: Duets",
         "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 293066,
       "name": "Slip Slidin' Away",
       "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "What a Wonderful World",
-        "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Fredericks",
-          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
-        }
-      ],
-      "duration_ms": 162907,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
     },
     {
       "added_at": "2022-09-30 04:00:00",

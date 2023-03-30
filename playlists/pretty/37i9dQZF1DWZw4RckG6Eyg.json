@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMDVmZjJmYWY3NzI1YWE1NTJlNTVkYTA1M2U5ZmU2ODk5",
+  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMGI0NjQ3ZDE2ODM5NjJkZDNkOGRlYmUwYzk5NjNkM2Vi",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
-      },
-      "artists": [
-        {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
-        }
-      ],
-      "duration_ms": 284970,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Love You By Myself",
         "url": "https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 181090,
       "name": "Love You By Myself",
       "url": "https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
+      },
+      "artists": [
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "duration_ms": 284970,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "EN EL CIELO",
         "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Go",
+          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "We Don't Talk",
+      "url": "https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Close to Your Heart",
         "url": "https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Air Guitar",
-        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
-      },
-      "artists": [
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
-        }
-      ],
-      "duration_ms": 183273,
-      "name": "Air Guitar",
-      "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Not There",
         "url": "https://open.spotify.com/album/6T6Esg6eUxOmcAj8zb1iU2"
       },
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx"
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
       },
       "artists": [
         {
-          "name": "Phoebe Go",
-          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
         }
       ],
-      "duration_ms": 205000,
-      "name": "We Don't Talk",
-      "url": "https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR"
+      "duration_ms": 183273,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr"
+      },
+      "artists": [
+        {
+          "name": "Deco",
+          "url": "https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Se Eu Acordar",
         "url": "https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 150540,
       "name": "Se Eu Acordar",
       "url": "https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr"
-      },
-      "artists": [
-        {
-          "name": "Deco",
-          "url": "https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 230169,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/19UqVT2WgSz39uvT28mCHg"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Nada de M\u00ed Vale Dinero",
         "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 257897,
       "name": "Nada de M\u00ed Vale Dinero",
       "url": "https://open.spotify.com/track/5imr697dT1gPajZWd376fL"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 230169,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/19UqVT2WgSz39uvT28mCHg"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "strange love",
-        "url": "https://open.spotify.com/album/58rxRlN5yLTcZVSoBKYhlJ"
-      },
-      "artists": [
-        {
-          "name": "byelian",
-          "url": "https://open.spotify.com/artist/7ow8DBsuPdfjt83fdeDRzn"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "strange love",
-      "url": "https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "The Year of February",
         "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 193960,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "strange love",
+        "url": "https://open.spotify.com/album/58rxRlN5yLTcZVSoBKYhlJ"
+      },
+      "artists": [
+        {
+          "name": "byelian",
+          "url": "https://open.spotify.com/artist/7ow8DBsuPdfjt83fdeDRzn"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "strange love",
+      "url": "https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Acting Funny",
+        "url": "https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk"
+      },
+      "artists": [
+        {
+          "name": "Sharktank",
+          "url": "https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K"
+        }
+      ],
+      "duration_ms": 166526,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/1MotJM9gUDBLEPXn84V1U0"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Mute",
         "url": "https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 315648,
       "name": "KiSeKi",
       "url": "https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Acting Funny",
-        "url": "https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk"
-      },
-      "artists": [
-        {
-          "name": "Sharktank",
-          "url": "https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K"
-        }
-      ],
-      "duration_ms": 166526,
-      "name": "Busy",
-      "url": "https://open.spotify.com/track/1MotJM9gUDBLEPXn84V1U0"
     }
   ],
   "unique_name": "Indie songs from 2022 you may have missed",

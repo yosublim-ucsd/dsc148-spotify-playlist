@@ -4740,7 +4740,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 187187,
       "name": "Legendary Love",
       "url": "https://open.spotify.com/track/3JXtJtFkP8gVIl3BM2ajr5"
@@ -8958,6 +8958,24 @@
       "duration_ms": 129071,
       "name": "The Slow Down",
       "url": "https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G"
+    },
+    {
+      "album": {
+        "name": "They'll be out for us",
+        "url": "https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Di Umbra",
+          "url": "https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137013,
+      "name": "They'll be out for us",
+      "url": "https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC"
     },
     {
       "album": {

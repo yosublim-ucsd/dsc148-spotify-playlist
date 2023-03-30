@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 916582,
+  "num_followers": 917084,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU3MDY0MywwMDAwMDAwMGYxMTBhYWMyMTVhMDFjNGFhNmU5MDg3MTFiMjFhMGVl",
+  "snapshot_id": "MTY3OTU3MDY0MywwMDAwMDAwMDBlZjg2NDkwYWYwNGI0MjY2ZjU3ODBjZWQ3OTFlNmI1",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
-      "added_at": "2023-03-29 05:15:32",
+      "added_at": "2023-03-30 01:20:16",
       "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "My God Has a Telephone",
         "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Meters",
-        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
       "artists": [
         {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 186853,
-      "name": "Cissy Strut",
-      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
+      "duration_ms": 256946,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 226946,
       "name": "Right Here - Human Nature Radio Mix",
       "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Meters",
+        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 186853,
+      "name": "Cissy Strut",
+      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Seven Days in Sunny June",
-      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Fun Machine EP",
         "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 217920,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Seven Days in Sunny June",
+      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "How Do You Do",
-        "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Beautifully Human: Words and Sounds Vol. 2",
         "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 231560,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 254480,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
+      "duration_ms": 257733,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/2zee8Zcesqwnnwliw2Jy8M"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+        "name": "Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
         }
       ],
-      "duration_ms": 257733,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/2zee8Zcesqwnnwliw2Jy8M"
+      "duration_ms": 254480,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Loose Tonight",
-        "url": "https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D"
-      },
-      "artists": [
-        {
-          "name": "Hips",
-          "url": "https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Loose Tonight",
-      "url": "https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Much Love",
         "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 291120,
       "name": "You Might Need Somebody",
       "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Loose Tonight",
+        "url": "https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D"
+      },
+      "artists": [
+        {
+          "name": "Hips",
+          "url": "https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Loose Tonight",
+      "url": "https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Man of the Woods",
-        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Higher Higher",
-      "url": "https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Isina Muva (Gold Deluxe)",
         "url": "https://open.spotify.com/album/7ne6pspiugeCQzVItPEmnn"
       },
@@ -2387,18 +2371,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Playing For You",
-        "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
+        "name": "Man of the Woods",
+        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
       "artists": [
         {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 258895,
-      "name": "Playing For You",
-      "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
+      "duration_ms": 258506,
+      "name": "Higher Higher",
+      "url": "https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2415,6 +2399,22 @@
       "duration_ms": 218027,
       "name": "Move On",
       "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Playing For You",
+        "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
+      },
+      "artists": [
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "duration_ms": 258895,
+      "name": "Playing For You",
+      "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2451,22 +2451,6 @@
       "duration_ms": 206160,
       "name": "Fool to Love",
       "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "SoulMate",
-        "url": "https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "SoulMate",
-      "url": "https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2531,6 +2515,22 @@
       "duration_ms": 272360,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "SoulMate",
+        "url": "https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "SoulMate",
+      "url": "https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD"
     }
   ],
   "unique_name": "Kitchen Swagger",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,092 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,110 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 32 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
 | 33 | [Old Friends](https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Hooked On Your Love](https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1) | 4:37 |
 | 34 | [Yellow Dog Blues](https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Plays W\. C\. Handy](https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2) | 4:15 |
-| 35 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
-| 36 | [I've Grown So Ugly](https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM) | [Robert Pete Williams](https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib) | [Free Again](https://open.spotify.com/album/0dKhAtXVPeUZZxebx81HMD) | 2:47 |
+| 35 | [I've Grown So Ugly](https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM) | [Robert Pete Williams](https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib) | [Free Again](https://open.spotify.com/album/0dKhAtXVPeUZZxebx81HMD) | 2:47 |
+| 36 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
 | 37 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 |
 | 38 | [Steal Away](https://open.spotify.com/track/2bEuccJk2nIN7Ltlk2Ao5r) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [My Future Is My Past](https://open.spotify.com/album/5KvFzpKxckyhy7QkuebuY0) | 4:14 |
 | 39 | [Let's Get High](https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3) | [Henry Gray](https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Bob Stroger](https://open.spotify.com/artist/1JjFeW5yiXLb18bozbG1pe), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Vol\. 1: Blues Won't Let Me Take My Rest](https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb) | 3:52 |
 | 40 | [Gather by the River](https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ) | [Davell Crawford](https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
 
-Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMDBkZWQ0ZGViN2RkNzUzNDUyMmFhMGEzZGQzNTJkYjk0`
+Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMDVmNmUyYWMyNTIwYWE5YzQ1NGI1NDgwOTc4MTc1OWE4`

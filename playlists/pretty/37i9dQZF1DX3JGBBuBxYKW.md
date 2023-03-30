@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,525 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,546 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 26 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 |
 | 27 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 |
 | 28 | [Fuera](https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tiempo de Cambio](https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP) | 3:22 |
-| 29 | [Quién la Juna](https://open.spotify.com/track/1SRB1DWfs5AQgnYrzRYY93) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [De Mi Barrio Con Pasión](https://open.spotify.com/album/6qfu3pbFZPTpftQEr7qBNp) | 2:46 |
-| 30 | [La Cantaleta](https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 TropiExitos](https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm) | 3:38 |
+| 29 | [La Cantaleta](https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 TropiExitos](https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm) | 3:38 |
+| 30 | [Quién la Juna](https://open.spotify.com/track/1SRB1DWfs5AQgnYrzRYY93) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [De Mi Barrio Con Pasión](https://open.spotify.com/album/6qfu3pbFZPTpftQEr7qBNp) | 2:46 |
 | 31 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
 | 32 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 |
 | 33 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 36 | [Bien Warrior \(feat\. DJ Krass\)](https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [DJ Krass](https://open.spotify.com/artist/0Ft52aTdmeD5N2ncuniI0d) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:42 |
 | 37 | [Metrosexual](https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:16 |
 | 38 | [La Mejor Versión de Mi](https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [La Mejor Versión de Mi](https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5) | 4:05 |
-| 39 | [En Peligro de Extinción](https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [En Peligro de Extinción](https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5) | 3:41 |
-| 40 | [El Club de Mujeres Engañadas](https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [La Reina](https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6) | 4:08 |
+| 39 | [El Club de Mujeres Engañadas](https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [La Reina](https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6) | 4:08 |
+| 40 | [En Peligro de Extinción](https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [En Peligro de Extinción](https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5) | 3:41 |
 | 41 | [Ahora Se](https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO) | 3:54 |
 | 42 | [China](https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:19 |
 | 43 | [Que no se entere](https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No te confundas](https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4) | 3:18 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 |
 | 65 | [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 |
 
-Snapshot ID: `MTY3NzgxMjQwMCwwMDAwMDAwMGEwMDA4MjI0MGMxMTYzYzJiYTY3OGQyNzIwYThmOTA2`
+Snapshot ID: `MTY3NzgxMjQwMCwwMDAwMDAwMGQ3ODQwNDJiMDNkMmI0ZmM4MzRkMGFkYjNmNTM4NTdl`

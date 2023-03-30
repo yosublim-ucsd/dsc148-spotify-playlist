@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Muerejoven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,078 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,118 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,14 +4,15 @@
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-85 songs - 7 hr 44 min
+86 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18 & Over](https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [18 & Over](https://open.spotify.com/album/1sd55O8hXHGhK2qH2WvsLn) | 3:38 | 2023-01-27 |  |
 | [A Little Fun](https://open.spotify.com/track/5iDUcLvvGUMaHpmlBZUpfG) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Long Way Home](https://open.spotify.com/album/1KKVWZHhfIJ86BYFsro40P) | 3:49 | 2023-01-27 |  |
 | [Adonis](https://open.spotify.com/track/53qNIDmee0TE6GaS9WkGiS) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Sylvia Rebecca](https://open.spotify.com/artist/0U0GnvXF1qwXWnLF8p4f5y) | [Adonis](https://open.spotify.com/album/1IxANPUvfBsyFeRZqdsN0j) | 8:35 | 2023-01-27 |  |
-| [Aguas da Amazonia: Japurá River](https://open.spotify.com/track/5mugT9d5ag9RIDfZjFdpPS) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Uakti](https://open.spotify.com/artist/2LZqtMQsKjghZlfABYwaPn) | [Landscapes: Minimalism](https://open.spotify.com/album/5vypb8nVoqWkBEGYhEkUDb) | 4:44 | 2023-01-27 |  |
+| [Aguas da Amazonia: Japurá River](https://open.spotify.com/track/3pUflNd59N3Qn4VaGCYaxc) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Uakti](https://open.spotify.com/artist/2LZqtMQsKjghZlfABYwaPn) | [Philip Glass: Aguas da Amazonia](https://open.spotify.com/album/5O2nQMDT5UlLbBJeLnkzYF) | 4:44 | 2023-01-27 |  |
+| [Aguas da Amazonia: Japurá River](https://open.spotify.com/track/5mugT9d5ag9RIDfZjFdpPS) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Uakti](https://open.spotify.com/artist/2LZqtMQsKjghZlfABYwaPn) | [Landscapes: Minimalism](https://open.spotify.com/album/5vypb8nVoqWkBEGYhEkUDb) | 4:44 | 2023-01-27 | 2023-03-30 |
 | [Alageyik Destanı](https://open.spotify.com/track/26xK6N0byHCa4e7hIwjhSX) | [Moğollar](https://open.spotify.com/artist/5dMPhj9s9v91MpdGNpInLy) | [Alageyik Destanı / Moğol Halayı](https://open.spotify.com/album/46b4u9O93rd47B1UHgLvTX) | 3:02 | 2023-01-27 |  |
 | [All I Want is You](https://open.spotify.com/track/44OZPn5il5c0XA7KTU1lnS) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [DJ DIVO](https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN), [OliO](https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN), [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [All I Want is You](https://open.spotify.com/album/2CGvJdm4QW7nhWUVP099DK) | 9:58 | 2023-01-27 |  |
 | [Bataille's Will \- Oceanvs Orientalis Remix](https://open.spotify.com/track/35jUZgmjDmVyvchmhczt82) | [Emin Gök](https://open.spotify.com/artist/0G6CKdqtwYDdGOgqw3GSNE), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Continuity](https://open.spotify.com/album/2P6JiDOFgHLOT4VsDR6NTw) | 5:31 | 2023-01-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,720 likes - 100 songs - 5 hr 19 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,723 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 82 | [RUMOURS](https://open.spotify.com/track/7nMKFLHD6PrCFkOzz2uaxv) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [RUMOURS](https://open.spotify.com/album/12YejSJSWzgDpld4GVpKZi) | 3:23 |
 | 83 | [Nothing Can Change](https://open.spotify.com/track/3SRo7ahuKyBkcqBPPxA0R1) | [Adetoro](https://open.spotify.com/artist/6dVbP9Oj00YfBaL125vLOg), [PONZ](https://open.spotify.com/artist/0mXqchgm5Vksrxi73qOlsF) | [Nothing Can Change](https://open.spotify.com/album/4FXXNkicOJitJDBPM9A0RQ) | 4:49 |
 | 84 | [Bad Habits](https://open.spotify.com/track/1V44LL6hG1Xuok2odQV5pP) | [Craigiewave](https://open.spotify.com/artist/5hyWABAvbkg8RUsCY4pwsu), [Gabriel LCR](https://open.spotify.com/artist/07SDf1XAm27AoAODF470jW) | [Bad Habits](https://open.spotify.com/album/1vZkvh1EkCACZmdJV0fVcW) | 2:40 |
-| 85 | [Mountain \- B\-Side.](https://open.spotify.com/track/1TSQ907GAsVCJIbYG6PqCX) | [Gabriella Cohen](https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy) | [Blue No More \(Deluxe Edition\)](https://open.spotify.com/album/34w0qtj5VvIyEb2SmYI5ck) | 3:17 |
+| 85 | [Mountain \- B\-Side](https://open.spotify.com/track/1TSQ907GAsVCJIbYG6PqCX) | [Gabriella Cohen](https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy) | [Blue No More \(Deluxe Edition\)](https://open.spotify.com/album/34w0qtj5VvIyEb2SmYI5ck) | 3:17 |
 | 86 | [God Is Dead](https://open.spotify.com/track/6HtMR3B1EZqozoB2CSymxe) | [Chloe Gallardo](https://open.spotify.com/artist/3R6rkVKR0D5iNDBL4wIOm3) | [God Is Dead](https://open.spotify.com/album/452DBCx6eivEvybHW980oh) | 4:09 |
 | 87 | [Stella](https://open.spotify.com/track/2jnkPkrP7cxUFdS0iXzZb5) | [CHASSEUR](https://open.spotify.com/artist/09up7cWzY9mTzQJJ6LY4wd) | [Stella](https://open.spotify.com/album/5GeMPgwGd5BDjS1klAM7DK) | 3:17 |
 | 88 | [Ailleurs](https://open.spotify.com/track/6NA517wB1ECfVSrvxZiJhx) | [Ritzo](https://open.spotify.com/artist/6bCejSflHl05c1pJm3snGt) | [Ailleurs](https://open.spotify.com/album/3zpPt9LxYeNRc99QYPLh2T) | 4:47 |

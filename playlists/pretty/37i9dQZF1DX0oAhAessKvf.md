@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,165 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,224 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 31 | [Robi\-Rob's Boriqua Anthem](https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Grandes Exitos](https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc) | 8:57 |
 | 32 | [Ella Se Arrebata](https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Tranquilo](https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W) | 3:32 |
 | 33 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 |
-| 34 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
+| 34 | [Full Up a Class](https://open.spotify.com/track/6FFeBtCaawK4WqtKfWeoSX) | [Bunny General](https://open.spotify.com/artist/64N2jWrlxw6DSwWZ6BHCOI) | [Dancehall Reggae Connection...\. Top Ragga DJs From Fashion](https://open.spotify.com/album/4Uygzhu2CQ3UvZiaUbGKMW) | 3:40 |
 | 35 | [Quieren Chorizo](https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:24 |
-| 36 | [Full Up a Class](https://open.spotify.com/track/6FFeBtCaawK4WqtKfWeoSX) | [Bunny General](https://open.spotify.com/artist/64N2jWrlxw6DSwWZ6BHCOI) | [Dancehall Reggae Connection...\. Top Ragga DJs From Fashion](https://open.spotify.com/album/4Uygzhu2CQ3UvZiaUbGKMW) | 3:40 |
+| 36 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
 | 37 | [La Química](https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Sin Parar](https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v) | 3:26 |
 | 38 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
 | 39 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
-| 40 | [Puerto Rico Todos Quieren Fumar](https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp) | [Grupo Nizze](https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm) | [Playero 38 Special Edition](https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha) | 2:21 |
-| 41 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
+| 40 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
+| 41 | [Puerto Rico Todos Quieren Fumar](https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp) | [Grupo Nizze](https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm) | [Playero 38 Special Edition](https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha) | 2:21 |
 | 42 | [A Mi Me Gusta](https://open.spotify.com/track/46aYwWPK8JEwhJJ9arlQM9) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Los Dueños De La Disco Clasico](https://open.spotify.com/album/4rVTwbTlIJsw4Gw9Y4bOZY) | 3:17 |
 | 43 | [Wild Gilbert](https://open.spotify.com/track/5PKdhX6Gvqg7tnV6xB4MMp) | [Lovindeer](https://open.spotify.com/artist/2BHBhGqqA96TeKQB3Hrzcx) | [Jamaica Land of the People](https://open.spotify.com/album/2LOKPTo1YbmstOsqGURysV) | 6:16 |
 | 44 | [Playero Live Radio Version](https://open.spotify.com/track/2FUpJIirJxB2NLkmqDucCd) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt), [Kalil](https://open.spotify.com/artist/3giLiOpNJX75bzEP8QEzNn), [Mexicano](https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 4:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [El Marciano \- Cocoman](https://open.spotify.com/track/2WMt2WhT943HFwH6Cy7wax) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Reggaeton BC](https://open.spotify.com/album/3GwevLTFFZYTh9Np2z5mYE) | 5:35 |
 | 75 | [Unknown \(Nicky Jam Y Daddy Yankee / Gargolas 3\)](https://open.spotify.com/track/4hjUnVZdQKMflAaLQvxM7M) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Gargolas 3](https://open.spotify.com/album/5epQeyQpmcBbpbh62AwTNp) | 2:49 |
 
-Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMGFkN2NiYmE2MjJjMGQ2MTU2NjZmMmQ0MjU4OWFmMWEx`
+Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDQ2NTMyNDU0NzgyMmRlMDQ5YThlMGY3YjU5ZDQ1NTIw`

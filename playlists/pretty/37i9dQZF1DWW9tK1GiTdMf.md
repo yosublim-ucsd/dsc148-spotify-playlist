@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ in cover: Naska
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,894 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,912 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

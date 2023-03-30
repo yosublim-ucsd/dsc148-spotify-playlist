@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,673 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,689 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 34 | [Ffun](https://open.spotify.com/track/2H0nOH0pgs3DBoPoR852cC) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Secrets](https://open.spotify.com/album/2AI6n3Nzxts19gax5K23bm) | 4:11 |
 | 35 | [Who Is She \(And What Is She To You\)](https://open.spotify.com/track/7aqJzVdVIAwCokmju1Oid8) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 4:13 |
 | 36 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 |
-| 37 | [Mighty Mighty](https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 3:03 |
-| 38 | [Standing On The Verge Of Getting It On](https://open.spotify.com/track/3JMtGlh9gg0UCN7E2MLZUj) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Standing On The Verge Of Getting It On](https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf) | 5:10 |
+| 37 | [Standing On The Verge Of Getting It On](https://open.spotify.com/track/3JMtGlh9gg0UCN7E2MLZUj) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Standing On The Verge Of Getting It On](https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf) | 5:10 |
+| 38 | [Mighty Mighty](https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 3:03 |
 | 39 | [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 |
 | 40 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 |
 | 41 | [On a Good One](https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo III](https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX) | 3:29 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 65 | [Let's Work](https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 3:54 |
 | 66 | [Take What You Need](https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Breaks from the Border](https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH) | 3:11 |
 | 67 | [Dance Or Die](https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV) | [Funk Ain't Ova](https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM) | 4:56 |
-| 68 | [I Can Understand It](https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8) | [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Birth Day](https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3) | 6:23 |
-| 69 | [Drum Machine](https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Drum Machine](https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk) | 3:03 |
-| 70 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
-| 71 | [All This Love That I'm Giving](https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 4:34 |
+| 68 | [Drum Machine](https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Drum Machine](https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk) | 3:03 |
+| 69 | [I Can Understand It](https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8) | [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Birth Day](https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3) | 6:23 |
+| 70 | [All This Love That I'm Giving](https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 4:34 |
+| 71 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
 | 72 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 |
 | 73 | [Ready to Live](https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 4:05 |
 | 74 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 |
 | 100 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 |
 
-Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMDJmZTk2OTI5MWExNjNkZmU3MTk3Mzk3ZTdiNjIxNmRj`
+Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMDkyMmQ1MTI4NTlhNjBjMmYzZGM4MGRhNGE0ZjU3ZTIy`

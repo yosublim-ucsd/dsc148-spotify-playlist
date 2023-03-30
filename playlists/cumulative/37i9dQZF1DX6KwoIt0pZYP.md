@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-524 songs - 1 day 5 hr 2 min
+525 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [die tryin](https://open.spotify.com/track/6zjuUubQ26bJCSKRHl7HWe) | [PETITE](https://open.spotify.com/artist/5vWJurEtxoZLhVxk7IyUzF) | [die tryin](https://open.spotify.com/album/5s12mNEdkZejLi53ujMoyb) | 3:13 | 2023-02-19 | 2023-02-24 |
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-02-18 | 2022-07-29 |
 | [Do Me Right](https://open.spotify.com/track/419qEKI3RalGHPVzEDQeNY) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 3:25 | 2022-12-15 | 2023-01-06 |
-| [Do U Really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Do U Really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-02 |  |
+| [Do U Really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-02 |  |
 | [Do You Feel Like You Have No One to Turn to?](https://open.spotify.com/track/7IM7JCGA6lNktX9ORtyQS8) | [Yayyoung](https://open.spotify.com/artist/1mefU9eSDsjTwOJK0gn7xZ) | [Do You Feel Like You Have No One to Turn to?](https://open.spotify.com/album/0DNpPinecj0SJVNJTSPoXd) | 3:06 | 2022-01-28 | 2022-05-24 |
 | [do you still think \(about me?\)](https://open.spotify.com/track/4edE57uW5nXnoXJch8qtLl) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [do you still think \(about me?\)](https://open.spotify.com/album/5taBTQoZaJsGa3sC9F4CTw) | 3:57 | 2023-02-23 | 2023-03-03 |
 | [Do You Think You Know Me?](https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do You Think You Know Me?](https://open.spotify.com/album/2pZYi5d7n0Ns1dBVFodbf3) | 3:26 | 2022-01-28 | 2022-07-24 |
@@ -376,7 +376,7 @@
 | [Rise from That Grave](https://open.spotify.com/track/73zUsdEURW8XGo0lW5sOEV) | [Navakaine](https://open.spotify.com/artist/0B3WJF8227hFTw63XPQ891) | [Rise from That Grave](https://open.spotify.com/album/3QoLD9ajafgo2FymhRE6o0) | 3:35 | 2022-03-29 | 2022-05-26 |
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-22 | 2022-09-26 |
 | [Romantic Comedies](https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Crash & Burn](https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb) | 2:49 | 2023-02-19 |  |
-| [Rumours](https://open.spotify.com/track/19rYI8oRZAdz0gQIQ2yHld) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Rumours](https://open.spotify.com/album/7vawAmxGohhTYN53lzenQW) | 3:19 | 2023-03-18 |  |
+| [Rumours](https://open.spotify.com/track/19rYI8oRZAdz0gQIQ2yHld) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Rumours](https://open.spotify.com/album/7vawAmxGohhTYN53lzenQW) | 3:19 | 2023-03-18 | 2023-03-30 |
 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 | 2022-04-15 | 2022-07-26 |
 | [sallow](https://open.spotify.com/track/5oT0zTD2I38HEqJpPUYBaS) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [sallow](https://open.spotify.com/album/7GjFkGCRrqXnLiDs111rWU) | 4:05 | 2022-03-29 | 2022-04-18 |
 | [same old](https://open.spotify.com/track/1NPugQ5FaJ3rySdrWUSdoJ) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [same old](https://open.spotify.com/album/1JGJWLg9Sl86XrH4u8VynZ) | 2:28 | 2023-01-26 | 2023-02-20 |
@@ -524,6 +524,7 @@
 | [you look so beautiful](https://open.spotify.com/track/1J5xz1F0BvYRJTpOJdXHJo) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [you look so beautiful](https://open.spotify.com/album/1j71Uy4eOOuxtBxxnk152F) | 4:51 | 2022-01-28 | 2022-07-03 |
 | [you should have said so](https://open.spotify.com/track/5WodEIKkgtFPmfqSB7Ve8e) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [you should have said so](https://open.spotify.com/album/5H8nls3xG7OgydbrNQ27Va) | 2:42 | 2022-01-28 | 2022-07-23 |
 | [You Should Know](https://open.spotify.com/track/5my3W0CKAb8kb6Z2Z7NjGx) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [You Should Know](https://open.spotify.com/album/47k8LFRZGbI3TKNSzuHAjq) | 3:03 | 2022-08-12 | 2022-08-27 |
+| [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 | 2023-03-23 |  |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-01-28 | 2023-03-18 |
 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-01-28 |  |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |

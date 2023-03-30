@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Half Moon Run",
-  "num_followers": 1016,
+  "num_followers": 1023,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDZmNmEwYzg3NDg5NjNkM2Y1NGE0NDk2OGM0Mjg3OTI1",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGIyNDgwZmU5MjEzZmZmZDIwYWIyMzE5Mjc4ODQ2MmY4",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Rencontrer Looloo",
-        "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
+        "name": "Notre-Dame-des-Sept-Douleurs",
+        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
       "artists": [
         {
-          "name": "Chocolat",
-          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Ah Ouin",
-      "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
+      "duration_ms": 170293,
+      "name": "M\u00e9lamine",
+      "url": "https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Notre-Dame-des-Sept-Douleurs",
-        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
+        "name": "Rencontrer Looloo",
+        "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
         }
       ],
-      "duration_ms": 170293,
-      "name": "M\u00e9lamine",
-      "url": "https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI"
+      "duration_ms": 150320,
+      "name": "Ah Ouin",
+      "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Viendras-tu pleurer?",
         "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
-        "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
-      },
-      "artists": [
-        {
-          "name": "FELP",
-          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
-        },
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
-      "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -987,6 +967,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
+        "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
+      },
+      "artists": [
+        {
+          "name": "FELP",
+          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
+      "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 239951,
       "name": "Wave",
       "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "La hi\u00e9rarchill",
+        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "duration_ms": 286826,
+      "name": "La hi\u00e9rarchill",
+      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1019,22 +1035,6 @@
       "duration_ms": 257880,
       "name": "creusercreuser",
       "url": "https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "La hi\u00e9rarchill",
-        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
-        }
-      ],
-      "duration_ms": 286826,
-      "name": "La hi\u00e9rarchill",
-      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Rock & roll sur ton chemin",
-        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 238019,
-      "name": "Rock & roll sur ton chemin",
-      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "O\u00f9 nos corps s'en vont mourir",
         "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Liszt-o-mania",
-        "url": "https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x"
+        "name": "Rock & roll sur ton chemin",
+        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
       },
       "artists": [
         {
-          "name": "LUMI\u00c8RE",
-          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
         }
       ],
-      "duration_ms": 232315,
-      "name": "Liszt-o-mania",
-      "url": "https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48"
+      "duration_ms": 238019,
+      "name": "Rock & roll sur ton chemin",
+      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 194239,
       "name": "Et Hop",
       "url": "https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Liszt-o-mania",
+        "url": "https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "duration_ms": 232315,
+      "name": "Liszt-o-mania",
+      "url": "https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48"
     },
     {
       "added_at": "2023-03-24 04:00:00",

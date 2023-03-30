@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,794 likes - 51 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,802 likes - 51 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 42 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 |
 | 43 | [Hell](https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:19 |
 | 44 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 |
-| 45 | [All 100s](https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:11 |
-| 46 | [Cold Gangsta](https://open.spotify.com/track/700cZW0tW9q1amsUhsUDkA) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Cold Gangsta](https://open.spotify.com/album/59XP7yesh6A9KlpST9Rx11) | 3:31 |
+| 45 | [Cold Gangsta](https://open.spotify.com/track/700cZW0tW9q1amsUhsUDkA) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Cold Gangsta](https://open.spotify.com/album/59XP7yesh6A9KlpST9Rx11) | 3:31 |
+| 46 | [All 100s](https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:11 |
 | 47 | [Blood](https://open.spotify.com/track/2mcunJucOjUZfPzfBwXal6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:34 |
 | 48 | [Fight That Switch \(Walk\) \[with EST Gee\]](https://open.spotify.com/track/28yy6AId4shZVCSjTRdCa9) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Fight That Switch \(Walk\) \[with EST Gee\]](https://open.spotify.com/album/3oLGzMCN8fnmDXff3hCtMH) | 3:19 |
 | 49 | [Bigger Than Life Or Death](https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:43 |
 | 50 | [Gangsta Art \(Yo Gotti, Moneybagg Yo feat\. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta\)](https://open.spotify.com/track/63u4taM8CTklMQhrcV3via) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 4:58 |
 | 51 | [At Will \(feat\. EST Gee\)](https://open.spotify.com/track/1inQjfrPjWSM8DehYMfIxi) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [At Will \(feat\. EST Gee\)](https://open.spotify.com/album/1efkAIrYwFqFvHUFzWBq3d) | 2:50 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDA0ZDk3NDhiZjgzYWZiMzc2MWYyZjUyZDdlNWJlNTA1NA==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDBjNDMxZGJhYTQ1YTM5MTVjNGY5NDNjZjhhNzk5OTFkZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 121639,
+  "num_followers": 121651,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDI1NmE0MmE3MWJiZGEwMzc1MWJkNDhkYjFjZTRhZjM2",
+  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDU2OWVhZDhmMTNkMDJkZWFkZDg3Yjk2MTg1MGU4MjYz",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -231,18 +231,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Ch'usay",
-        "url": "https://open.spotify.com/album/5aYodFC2rZJsJrUSWizQzn"
+        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
+        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+          "name": "Luzmila Carpio",
+          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 226780,
-      "name": "Herejia",
-      "url": "https://open.spotify.com/track/54M4kdHYlMY0xO2ENIE5KV"
+      "duration_ms": 260504,
+      "name": "Tarpuricusum Sarata - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -267,22 +271,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
-        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
+        "name": "Ch'usay",
+        "url": "https://open.spotify.com/album/5aYodFC2rZJsJrUSWizQzn"
       },
       "artists": [
         {
-          "name": "Luzmila Carpio",
-          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
         }
       ],
-      "duration_ms": 260504,
-      "name": "Tarpuricusum Sarata - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
+      "duration_ms": 226780,
+      "name": "Herejia",
+      "url": "https://open.spotify.com/track/54M4kdHYlMY0xO2ENIE5KV"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Hoja de Coca",
-        "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
-      },
-      "artists": [
-        {
-          "name": "Rumillajta",
-          "url": "https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Hoja de Coca",
-      "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 202008,
       "name": "Francisca Pizarro",
       "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Hoja de Coca",
+        "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
+      },
+      "artists": [
+        {
+          "name": "Rumillajta",
+          "url": "https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Hoja de Coca",
+      "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Viaje de Mixturas",
-        "url": "https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA"
+        "name": "Ay Palomita",
+        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
       },
       "artists": [
         {
-          "name": "Paulopulus",
-          "url": "https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo"
-        },
-        {
-          "name": "Juan Luis Pereira",
-          "url": "https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40"
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Viaje Andino",
-      "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
+      "duration_ms": 391452,
+      "name": "Ay Palomita",
+      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -839,34 +835,42 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Ay Palomita",
-        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
+        "name": "Viaje de Mixturas",
+        "url": "https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA"
       },
       "artists": [
         {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+          "name": "Paulopulus",
+          "url": "https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo"
+        },
+        {
+          "name": "Juan Luis Pereira",
+          "url": "https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40"
         }
       ],
-      "duration_ms": 391452,
-      "name": "Ay Palomita",
-      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
+      "duration_ms": 246000,
+      "name": "Viaje Andino",
+      "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
     },
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
+        "name": "No Me Quiero Doler",
+        "url": "https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ"
       },
       "artists": [
         {
-          "name": "LaTorre",
-          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+        },
+        {
+          "name": "Carlos Rizzi",
+          "url": "https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7"
         }
       ],
-      "duration_ms": 170037,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
+      "duration_ms": 326037,
+      "name": "No Me Quiero Doler",
+      "url": "https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG"
     }
   ],
   "unique_name": "Entre los Andes",

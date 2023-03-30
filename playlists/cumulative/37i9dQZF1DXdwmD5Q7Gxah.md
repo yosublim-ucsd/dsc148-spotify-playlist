@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: The Japanese House
 
-2,130 songs - 4 day 18 hr 23 min
+2,131 songs - 4 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,7 +532,8 @@
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-08 | 2022-05-28 |
 | [Doubt of Revival](https://open.spotify.com/track/1ba4s0V7UuidW0PAWBAer9) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Doubt of Revival](https://open.spotify.com/album/4JJRgLTqfdIxE0zSb6Rq4u) | 3:34 | 2021-03-06 | 2021-06-24 |
 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 | 2022-06-22 | 2022-07-16 |
-| [down bad \- fanclubwallet & Preloved Remix](https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [down bad](https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ) | 3:09 | 2023-01-13 |  |
+| [down bad \- fanclubwallet & Preloved Remix](https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [down bad](https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ) | 3:09 | 2023-01-13 | 2023-03-30 |
+| [down bad \- fanclubwallet & Preloved Remix](https://open.spotify.com/track/3pZ7PvECBWMc0hgZzaTxt4) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 3:09 | 2023-01-13 |  |
 | [DownTown](https://open.spotify.com/track/3dr9xQbzvcLMXGRES9wPuI) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [DownTown](https://open.spotify.com/album/0RfoyySV06N5QQhukS77kE) | 2:57 | 2020-08-14 | 2020-08-21 |
 | [Drama Queen](https://open.spotify.com/track/7K4vZUin6BMe1QOM0QpmLO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Drama Queen](https://open.spotify.com/album/4g9Q2JI0ehh0VQ40vLcbFz) | 4:52 | 2021-05-22 | 2021-07-31 |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-06-05 | 2021-08-14 |

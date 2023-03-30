@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,686 likes - 56 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,711 likes - 56 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

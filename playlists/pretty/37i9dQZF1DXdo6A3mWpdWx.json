@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 494601,
+  "num_followers": 495391,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MDQ0NiwwMDAwMDAwMDliYjk1MTNlZTkzYWU1OGE2ODE1NjVkYzQxYmQyMWJm",
+  "snapshot_id": "MTY3Nzc2MDQ0NiwwMDAwMDAwMDY1ZjNiOWQyMjk4YjQyZWMzYmVmMDE4YjlmZTQyNmI5",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 254933,
       "name": "Black or White",
       "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Who Am I (What\u2019s My Name)?",
+      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Who Am I (What\u2019s My Name)?",
-      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "No Limits",
-        "url": "https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0"
-      },
-      "artists": [
-        {
-          "name": "2 Unlimited",
-          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
-        }
-      ],
-      "duration_ms": 224220,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "No Limits",
+        "url": "https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0"
+      },
+      "artists": [
+        {
+          "name": "2 Unlimited",
+          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
+        }
+      ],
+      "duration_ms": 224220,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 285706,
       "name": "Heartbreaker (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Blacks' Magic",
-        "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Let's Talk About Sex",
-      "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Tougher Than Love",
         "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 258560,
       "name": "Shy Guy",
       "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Blacks' Magic",
+        "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Let's Talk About Sex",
+      "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Robyn Is Here",
+        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Show Me Love - Radio Version",
+      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Robyn Is Here",
-        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Show Me Love - Radio Version",
-      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36"
-      },
-      "artists": [
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "I'm Too Sexy",
-      "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Everything Changes (Expanded Edition)",
         "url": "https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 251760,
       "name": "Relight My Fire (feat. Lulu)",
       "url": "https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36"
+      },
+      "artists": [
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "I'm Too Sexy",
+      "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Turn Around - Single",
         "url": "https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 212146,
       "name": "Turn Around - Radio Edit",
       "url": "https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1"
     },
     {
       "added_at": "2022-10-11 00:00:00",

@@ -4,7 +4,7 @@
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Immasoul
 
-411 songs - 22 hr 12 min
+412 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [H2O](https://open.spotify.com/track/3S6dUc6K59ciPiOuNH57Xr) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [H2O](https://open.spotify.com/album/4afpvkbRnopag8f3lEP3XE) | 3:05 | 2022-05-25 | 2022-10-13 |
 | [H2O](https://open.spotify.com/track/4SvapyLwOJj2Z7EJJbTfx9) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [H2O](https://open.spotify.com/album/3fkGTOHCbKr33dHLgsgjrg) | 3:05 | 2022-09-06 | 2023-02-17 |
 | [Hablando x Hablar](https://open.spotify.com/track/1EZd7OHOk3n4tIR3viDAmP) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Hablando x Hablar](https://open.spotify.com/album/0BrRFSX1OmcrnSC35UoexJ) | 2:20 | 2021-12-02 | 2022-01-25 |
-| [Hamster](https://open.spotify.com/track/6ENNbWw5drUoXhgcuDqBqh) | [Coy Panda](https://open.spotify.com/artist/0jyKeOg8R6F3VGHh7qWHM8), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [Hamster](https://open.spotify.com/album/77Q34IlOURpIv3CLxQ78Hi) | 3:41 | 2023-03-29 |  |
+| [Hamster](https://open.spotify.com/track/6ENNbWw5drUoXhgcuDqBqh) | [Coy Panda](https://open.spotify.com/artist/0jyKeOg8R6F3VGHh7qWHM8), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [Hamster](https://open.spotify.com/album/77Q34IlOURpIv3CLxQ78Hi) | 3:41 | 2023-03-29 | 2023-03-30 |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2022-01-24 | 2022-06-04 |
 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 | 2023-03-22 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2022-01-24 | 2022-12-31 |
@@ -364,6 +364,7 @@
 | [Swing](https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Swing](https://open.spotify.com/album/3ni5JwJQNe9oWuXJmFcQmu) | 3:33 | 2021-12-02 | 2022-01-29 |
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2022-01-24 | 2022-04-20 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-31 | 2022-04-20 |
+| [Tatuaje](https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Tatuaje](https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X) | 3:06 | 2023-03-29 |  |
 | [te di mi luz](https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [SI ME ELEVO](https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr) | 2:22 | 2023-02-17 |  |
 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 | 2021-12-02 | 2022-01-25 |
 | [TEK](https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [TEK](https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA) | 2:43 | 2022-04-08 | 2023-02-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,590 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,673 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 61 | [Hello, Planet](https://open.spotify.com/track/4HV2zdfNV6hxc9f97jtDh5) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Do Vocaloids Dream of Doomsday Bird?](https://open.spotify.com/album/1olwRiTXgJqGJL5ASMLJaP) | 5:01 |
 | 62 | [ぽっぴっぽー \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 1:51 |
 | 63 | [Sweet Devil \- Eight Mix](https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:54 |
-| 64 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 |
-| 65 | [Online Game Addicts Sprechchor feat.Hatsune Miku](https://open.spotify.com/track/5UX2XYxGf9s10kmkSObPpA) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Jinchikumugai Satsuki ga Tenkomori feat.Hatsune Miku](https://open.spotify.com/album/4ChriIFZHY2BtIjzyTU1Jq) | 4:51 |
+| 64 | [Online Game Addicts Sprechchor feat.Hatsune Miku](https://open.spotify.com/track/5UX2XYxGf9s10kmkSObPpA) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Jinchikumugai Satsuki ga Tenkomori feat.Hatsune Miku](https://open.spotify.com/album/4ChriIFZHY2BtIjzyTU1Jq) | 4:51 |
+| 65 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン\\\(^o^\)/](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 |
 | 66 | [39](https://open.spotify.com/track/3wmmuJJ1G9Ykkhp3NAqk8u) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39](https://open.spotify.com/album/5YX7NCGvKobJjYjmbs1maK) | 3:39 |
-| 67 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン\\\(^o^\)/](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 |
+| 67 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 |
 | 68 | [東京テディベア](https://open.spotify.com/track/6m5Rk67linNHu66VBK434T) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [世界征服](https://open.spotify.com/album/6bUhLpHUvNZmABsIWHV3F9) | 3:14 |
 | 69 | [Knife](https://open.spotify.com/track/3Ihw9dUCollBvcOIqyByx1) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Knife](https://open.spotify.com/album/6egL3SdcmszqLuVd3Fw2DW) | 4:33 |
 | 70 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 95 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
 | 96 | [壊セ壊セ](https://open.spotify.com/track/06AJbMq7KMewWZmJuzuPgS) | [E.L.V.N](https://open.spotify.com/artist/219XzPMmtHGUDe8bJeWo6M) | [壊セ壊セ](https://open.spotify.com/album/1K6bz5XZya2k1t21LAUk5F) | 3:37 |
 | 97 | [サンドリヨン](https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
-| 98 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
-| 99 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
+| 98 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
+| 99 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 | 100 | [E? Aa, Sou.](https://open.spotify.com/track/4laMKU1xcpbFdsX3LnA1Xb) | [Chouchou\-P](https://open.spotify.com/artist/13p1b6oCr8TusEButZxHZL) | [Exit Tunes Academy Best 3](https://open.spotify.com/album/67LlLI8CaW8avwTaoZDTHl) | 3:27 |
 
-Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDRiYWMwZTI0MWNiNDY5OTM3YmE2YWFmZThhNTdkZTk3`
+Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMGYwNmNmZjkzOWRiMzU5MGQ3MjI5YjRkZTQ2ZmE5M2E5`

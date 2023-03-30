@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,806 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,896 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [thoughts](https://open.spotify.com/track/5omnAwQmmDlJ4DOXlZWMVO) | [guessing](https://open.spotify.com/artist/6EiUsyrZU50GTbJzhH8CJQ) | [thoughts](https://open.spotify.com/album/2wcdpxNc6vzFcL3FedKi9f) | 2:28 |
 | 60 | [Ache](https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Ache](https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU) | 1:40 |
 
-Snapshot ID: `MTY3OTYzNDAwMCwwMDAwMDAwMGRkNDIyNjM0OTE3NWQ5ZTEwZDVlN2NkNTQ3NmZkZTlm`
+Snapshot ID: `MTY4MDA2ODE3NCwwMDAwMDAwMGM2YTQ0NGEzMzQ4YTE0M2EzOWNkNDFmNDNmYjQ5M2Jh`

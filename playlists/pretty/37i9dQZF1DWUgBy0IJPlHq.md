@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Lukas Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,061 likes - 140 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,214 likes - 140 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

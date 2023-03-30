@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,297 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,438 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [I FEEL IT \(with Burna Boy\)](https://open.spotify.com/track/6NoTgpadvWX0qKEK6aJYsg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I FEEL IT \(with Burna Boy\)](https://open.spotify.com/album/2Rmmtayyms1LsKbc0PoxlH) | 3:44 |
 | 50 | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9) | 2:39 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDA2Nzg4NDRkZGM2YTcyZTY0NGFhYTE4ZTExNDk0N2E0MA==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDAyMjYxYzcxYzAxOWQzMTg1YzlkZjQ0YjYyNDk2NjE3Ng==`

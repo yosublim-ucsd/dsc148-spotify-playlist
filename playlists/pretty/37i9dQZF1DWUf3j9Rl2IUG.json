@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4?si=EnDHgxrxS5u4g8MZPaC7qA\"> Ajebo Hustlers </a> ",
-  "num_followers": 50050,
+  "num_followers": 50166,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNDM0MiwwMDAwMDAwMDE2ZWM5MTFkZWQ2MzczOGFhY2RhYWIzNWU1MDIyZWY1",
+  "snapshot_id": "MTY3OTYxNDM0MiwwMDAwMDAwMDA1MGZhODZkODg3MTVjZGIzYTJiNjZhYzAyYmY5MzE1",
   "tracks": [
     {
       "added_at": "2023-03-23 23:32:22",
@@ -271,6 +271,34 @@
     {
       "added_at": "2023-03-23 23:32:22",
       "album": {
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "added_at": "2023-03-23 23:32:22",
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
@@ -327,26 +355,6 @@
     {
       "added_at": "2023-03-23 23:32:22",
       "album": {
-        "name": "Cold Outside",
-        "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Cold Outside",
-      "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
-    },
-    {
-      "added_at": "2023-03-23 23:32:22",
-      "album": {
         "name": "Reckless & Sweet",
         "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
       },
@@ -395,30 +403,38 @@
     {
       "added_at": "2023-03-23 23:32:22",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+        "name": "Cold Outside",
+        "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+      "duration_ms": 181224,
+      "name": "Cold Outside",
+      "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
+    },
+    {
+      "added_at": "2023-03-23 23:32:22",
+      "album": {
+        "name": "RTID (Rich Till I Die)",
+        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 172881,
+      "name": "RTID (Rich Till I Die)",
+      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
     },
     {
       "added_at": "2023-03-23 23:32:22",
@@ -439,22 +455,6 @@
       "duration_ms": 155789,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
-    },
-    {
-      "added_at": "2023-03-23 23:32:22",
-      "album": {
-        "name": "RTID (Rich Till I Die)",
-        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 172881,
-      "name": "RTID (Rich Till I Die)",
-      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
     },
     {
       "added_at": "2023-03-23 23:32:22",
@@ -895,22 +895,26 @@
     {
       "added_at": "2023-03-23 23:32:22",
       "album": {
-        "name": "Otilo (Izz Gone)",
-        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
+        "name": "PICANTO",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
       "artists": [
         {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
         }
       ],
-      "duration_ms": 162782,
-      "name": "Otilo (Izz Gone)",
-      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
+      "duration_ms": 184077,
+      "name": "PICANTO",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
       "added_at": "2023-03-23 23:32:22",
@@ -971,6 +975,26 @@
     {
       "added_at": "2023-03-23 23:32:22",
       "album": {
+        "name": "Otilo (Izz Gone)",
+        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Otilo (Izz Gone)",
+      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
+    },
+    {
+      "added_at": "2023-03-23 23:32:22",
+      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -987,26 +1011,42 @@
     {
       "added_at": "2023-03-23 23:32:22",
       "album": {
-        "name": "PICANTO",
-        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+        "name": "The One (Chop Life)",
+        "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
       },
       "artists": [
         {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ECko Miles",
-          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
         }
       ],
-      "duration_ms": 184077,
-      "name": "PICANTO",
-      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+      "duration_ms": 197454,
+      "name": "The One (Chop Life)",
+      "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
+    },
+    {
+      "added_at": "2023-03-23 23:32:22",
+      "album": {
+        "name": "Grit & Lust",
+        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153523,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
     },
     {
       "added_at": "2023-03-23 23:32:22",
@@ -1043,46 +1083,6 @@
       "duration_ms": 175792,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
-    },
-    {
-      "added_at": "2023-03-23 23:32:22",
-      "album": {
-        "name": "Grit & Lust",
-        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153523,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
-    },
-    {
-      "added_at": "2023-03-23 23:32:22",
-      "album": {
-        "name": "The One (Chop Life)",
-        "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        }
-      ],
-      "duration_ms": 197454,
-      "name": "The One (Chop Life)",
-      "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
     },
     {
       "added_at": "2023-03-23 23:32:22",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-03-23 23:32:22",
       "album": {
+        "name": "Who Is Your Guy? (Remix)",
+        "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Who Is Your Guy? - Remix",
+      "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
+    },
+    {
+      "added_at": "2023-03-23 23:32:22",
+      "album": {
         "name": "Hypertension / Things I Need",
         "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
       },
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2023-03-23 23:32:22",
       "album": {
-        "name": "Who Is Your Guy? (Remix)",
-        "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Who Is Your Guy? - Remix",
-      "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
-    },
-    {
-      "added_at": "2023-03-23 23:32:22",
-      "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 223005,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
-    },
-    {
-      "added_at": "2023-03-23 23:32:22",
-      "album": {
-        "name": "2 Bad",
-        "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "2 Bad",
-      "url": "https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R"
     },
     {
       "added_at": "2023-03-23 23:32:22",
@@ -1439,6 +1423,22 @@
       "duration_ms": 252986,
       "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
       "url": "https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp"
+    },
+    {
+      "added_at": "2023-03-23 23:32:22",
+      "album": {
+        "name": "2 Bad",
+        "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "2 Bad",
+      "url": "https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R"
     },
     {
       "added_at": "2023-03-23 23:32:22",

@@ -756,6 +756,24 @@
     {
       "album": {
         "name": "Loco (Version Mariachi)",
+        "url": "https://open.spotify.com/album/0tG5uSGSrroWvjjfHljhas"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181356,
+      "name": "Loco (Version Mariachi)",
+      "url": "https://open.spotify.com/track/1n2PoW1W7t6u2OtHPfYHYq"
+    },
+    {
+      "album": {
+        "name": "Loco (Version Mariachi)",
         "url": "https://open.spotify.com/album/67sPpbNpfW5iOFwrZmbWb6"
       },
       "artists": [
@@ -766,7 +784,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 181356,
       "name": "Loco - Version Mariachi",
       "url": "https://open.spotify.com/track/1SFSlKPiGIhMUuTULvzdSO"

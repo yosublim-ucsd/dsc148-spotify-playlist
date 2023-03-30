@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: BABYMETAL",
-  "num_followers": 252885,
+  "num_followers": 252988,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMGRmZjBiMTFhM2NjNmU4Yjc2ZjIwYzg3ZDg4NjhjZTEx",
+  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDdhYmE3MzkyZGQwMTgzYzA4YzQ1YTRkYzFiN2JhMDU0",
   "tracks": [
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/2JAJGIjBaeM1m5f9yNfWDM"
-      },
-      "artists": [
-        {
-          "name": "BACK-ON",
-          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
-        },
-        {
-          "name": "TOTALFAT",
-          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
-        }
-      ],
-      "duration_ms": 211841,
-      "name": "1994",
-      "url": "https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "Rekishichi",
         "url": "https://open.spotify.com/album/2mOomPDvaYSmHgexSdxWq7"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 211746,
       "name": "TABUN MAYBE MEIJI feat. A, TAGIRENTAROU",
       "url": "https://open.spotify.com/track/4A82whhuPt2nvg4InDrtYP"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/2JAJGIjBaeM1m5f9yNfWDM"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+        }
+      ],
+      "duration_ms": 211841,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq"
     },
     {
       "added_at": "2023-03-28 15:00:00",

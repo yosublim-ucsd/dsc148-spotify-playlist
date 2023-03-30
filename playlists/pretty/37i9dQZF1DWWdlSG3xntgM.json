@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 33751,
+  "num_followers": 33761,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMDRkMzRkYzM4ZDVjYWIxYzE3MmZiMTZiZWM3YjJiMWQ0",
+  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMDJkN2NmMjE0MDEyNTZhZTEzZGUwZjZjYjE3YWE4MTY4",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "G\u00f5 C\u1eeda Tr\u00e1i Tim",
-        "url": "https://open.spotify.com/album/0xvLPPcHv9ssU71RNZKgBb"
-      },
-      "artists": [
-        {
-          "name": "Mai Thien Van",
-          "url": "https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz"
-        },
-        {
-          "name": "Quang Le",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        }
-      ],
-      "duration_ms": 325450,
-      "name": "G\u00f5 C\u1eeda Tr\u00e1i Tim",
-      "url": "https://open.spotify.com/track/0JM9iBk3XplmIDvyC9rGyF"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
         "name": "Co The Thoi",
         "url": "https://open.spotify.com/album/4P3hhiIUP0kY4HMYL0tdJF"
       },
@@ -455,6 +435,22 @@
       "duration_ms": 285893,
       "name": "Dem Buon Tinh Le",
       "url": "https://open.spotify.com/track/2S5oQ1s3p0cl5Zss33bVg5"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
+        "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
+      },
+      "artists": [
+        {
+          "name": "Nh\u1eadt Tr\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA"
+        }
+      ],
+      "duration_ms": 305349,
+      "name": "Chuy\u1ec7n h\u1eb9n h\u00f2",
+      "url": "https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt"
     },
     {
       "added_at": "2023-01-19 04:02:47",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
-        "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
+        "name": "G\u00f5 C\u1eeda Tr\u00e1i Tim",
+        "url": "https://open.spotify.com/album/0xvLPPcHv9ssU71RNZKgBb"
       },
       "artists": [
         {
-          "name": "Nh\u1eadt Tr\u01b0\u1eddng",
-          "url": "https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA"
+          "name": "Mai Thien Van",
+          "url": "https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz"
+        },
+        {
+          "name": "Quang Le",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         }
       ],
-      "duration_ms": 305349,
-      "name": "Chuy\u1ec7n h\u1eb9n h\u00f2",
-      "url": "https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt"
+      "duration_ms": 325450,
+      "name": "G\u00f5 C\u1eeda Tr\u00e1i Tim",
+      "url": "https://open.spotify.com/track/0JM9iBk3XplmIDvyC9rGyF"
     },
     {
       "added_at": "2023-01-19 04:02:47",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "Hoa Trinh N\u1eef (The Best Of Ch\u1ebf Linh 1)",
-        "url": "https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0"
-      },
-      "artists": [
-        {
-          "name": "Che Linh",
-          "url": "https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "Hoa Trinh N\u1eef",
-      "url": "https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
         "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
         "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 321760,
       "name": "M\u1ed9t ng\u01b0\u1eddi \u0111i",
       "url": "https://open.spotify.com/track/5l2aK6ogZ7qHDrxZDOqm0V"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "Hoa Trinh N\u1eef (The Best Of Ch\u1ebf Linh 1)",
+        "url": "https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0"
+      },
+      "artists": [
+        {
+          "name": "Che Linh",
+          "url": "https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "Hoa Trinh N\u1eef",
+      "url": "https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp"
     },
     {
       "added_at": "2023-01-19 04:02:47",

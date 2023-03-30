@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 10849,
+  "num_followers": 10855,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTAxOCwwMDAwMDAwMDMwOGVmMDlkZWFlNTRkZGRhOTRlNDA1NjFjN2NhNTQ0",
+  "snapshot_id": "MTY3OTkwNTAxOCwwMDAwMDAwMGVhNmVlODE4NTI0MDE0OWQxNDIwMmYyYzYwZTBiM2Q2",
   "tracks": [
     {
       "added_at": "2023-03-27 05:17:29",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-03-27 05:17:29",
       "album": {
-        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Every day, Every Moment",
-      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
-    },
-    {
-      "added_at": "2023-03-27 05:17:29",
-      "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 217044,
       "name": "Bom",
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
+    },
+    {
+      "added_at": "2023-03-27 05:17:29",
+      "album": {
+        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
     },
     {
       "added_at": "2023-03-27 05:17:29",
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     },
     {
-      "added_at": "2023-03-29 05:40:33",
+      "added_at": "2023-03-30 00:41:20",
       "album": {
         "name": "Errr Day",
         "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
     },
     {
+      "added_at": "2023-03-30 00:41:20",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
+    },
+    {
       "added_at": "2023-03-27 05:17:29",
       "album": {
         "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
@@ -615,22 +631,6 @@
       "duration_ms": 184066,
       "name": "For You",
       "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
-    },
-    {
-      "added_at": "2023-03-29 05:40:33",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 165433,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
     },
     {
       "added_at": "2023-03-27 05:17:29",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-27 05:17:29",
       "album": {
-        "name": "Snowy Stars",
-        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Snowy Stars",
-      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
-    },
-    {
-      "added_at": "2023-03-27 05:17:29",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2023-03-27 05:17:29",
+      "album": {
+        "name": "Snowy Stars",
+        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Snowy Stars",
+      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
     },
     {
       "added_at": "2023-03-27 05:17:29",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-27 05:17:29",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "WANT U",
-      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
-    },
-    {
-      "added_at": "2023-03-27 05:17:29",
-      "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2023-03-27 05:17:29",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "WANT U",
+      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
     },
     {
       "added_at": "2023-03-27 05:17:29",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-27 05:17:29",
       "album": {
-        "name": "I LOVE YOU",
-        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 177831,
-      "name": "ONLY YOU",
-      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
-    },
-    {
-      "added_at": "2023-03-27 05:17:29",
-      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2023-03-27 05:17:29",
+      "album": {
+        "name": "I LOVE YOU",
+        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 177831,
+      "name": "ONLY YOU",
+      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
     },
     {
       "added_at": "2023-03-27 05:17:29",

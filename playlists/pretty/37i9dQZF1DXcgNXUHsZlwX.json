@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 107474,
+  "num_followers": 107501,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDU0YjQyNTVhYjJhMGZhNTY0YmM0YTIzMjdlOTEwMGU4",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDNkNjYxMGU5NWE0N2UyZGJkNDhmNGQ5ZjkxODZjNjNj",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Fables (The Garden Version)",
+        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 176536,
+      "name": "Fables - The Garden Version",
+      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 251186,
       "name": "M\u00eame les loups versent des larmes de joie",
       "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Fables (The Garden Version)",
-        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 176536,
-      "name": "Fables - The Garden Version",
-      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Dans tes bras",
+        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Dans tes bras",
+      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Dans tes bras",
-        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Dans tes bras",
-      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 215506,
       "name": "Antigone",
       "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Ma chanson Natashquan",
-        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "Ma chanson Natashquan",
-      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -839,6 +823,22 @@
       "duration_ms": 239040,
       "name": "Height of the Feeling",
       "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Ma chanson Natashquan",
+        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "Ma chanson Natashquan",
+      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "No Water, No Flowers",
-        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
-        }
-      ],
-      "duration_ms": 195235,
-      "name": "Sans Toi",
-      "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Les choses ext\u00e9rieures",
         "url": "https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 230346,
       "name": "Ton \u00e9quilibre",
       "url": "https://open.spotify.com/track/1PktdmpT9r2gAOQtASLK4z"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "No Water, No Flowers",
+        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "duration_ms": 195235,
+      "name": "Sans Toi",
+      "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "M\u00e8res",
         "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 167920,
       "name": "Nous sommes",
       "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1171,38 +1171,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -1219,18 +1187,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "La fum\u00e9e des bougies",
-        "url": "https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 237000,
-      "name": "La fum\u00e9e des bougies",
-      "url": "https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1251,6 +1219,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Valhalla Dancer",
         "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 223533,
       "name": "Valhalla Dancer",
       "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "La fum\u00e9e des bougies",
+        "url": "https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "La fum\u00e9e des bougies",
+      "url": "https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1335,6 +1319,38 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Bo\u00eete aux lettres",
+        "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
+      },
+      "artists": [
+        {
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "Fontaine \u00e0 v\u0153ux",
+      "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Bo\u00eete aux lettres",
-        "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
-      },
-      "artists": [
-        {
-          "name": "Les Hay Babies",
-          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "Fontaine \u00e0 v\u0153ux",
-      "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Piton",
-          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "Californie",
-      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Ceci est une esp\u00e8ce aim\u00e9e",
         "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 299320,
       "name": "Morceaux",
       "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Piton",
+          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Californie",
+      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
     },
     {
       "added_at": "2023-03-24 04:00:00",

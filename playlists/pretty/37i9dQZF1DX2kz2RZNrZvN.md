@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 
 > The biggest Drum 'n' Bass bangers of 2022\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,283 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,292 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

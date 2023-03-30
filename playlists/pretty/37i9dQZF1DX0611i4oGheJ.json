@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 391890,
+  "num_followers": 392084,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDNjMjFmMmUzOGI4ZmJiYWUzZDUxM2E4OGIwY2NjNTc3",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGU3YjYwNWI1ZWU4M2Q0YmU1MWM1ZmY4MjlkYjAzZDUx",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Bravado",
-        "url": "https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 247631,
-      "name": "The Swimmer (To Be an Old Man)",
-      "url": "https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Bravado",
+        "url": "https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 247631,
+      "name": "The Swimmer (To Be an Old Man)",
+      "url": "https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Big Red Machine",
-        "url": "https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2"
-      },
-      "artists": [
-        {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "I Won't Run From It",
-      "url": "https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 351296,
       "name": "Imagining My Man",
       "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Big Red Machine",
+        "url": "https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2"
+      },
+      "artists": [
+        {
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "I Won't Run From It",
+      "url": "https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Best (On the Back Porch)",
-        "url": "https://open.spotify.com/album/5RsYXz1VxtpYA48dBc8BYO"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 149970,
-      "name": "The Best (On the Back Porch)",
-      "url": "https://open.spotify.com/track/0K0RGnqg8FYIo2zKJdNUvm"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 243680,
       "name": "Humble & Kind",
       "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Best (On the Back Porch)",
+        "url": "https://open.spotify.com/album/5RsYXz1VxtpYA48dBc8BYO"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 149970,
+      "name": "The Best (On the Back Porch)",
+      "url": "https://open.spotify.com/track/0K0RGnqg8FYIo2zKJdNUvm"
     },
     {
       "added_at": "2023-03-17 04:00:00",

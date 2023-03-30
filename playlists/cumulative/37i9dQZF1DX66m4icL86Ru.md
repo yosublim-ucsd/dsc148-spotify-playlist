@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Chlöe
 
-350 songs - 17 hr 11 min
+351 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 | 2022-02-25 | 2022-03-27 |
 | [Pedi](https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pedi](https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU) | 2:05 | 2021-10-29 | 2022-02-05 |
 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 | 2021-10-15 | 2022-04-11 |
+| [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 | 2023-03-29 |  |
 | [Perfect](https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:52 | 2022-09-30 | 2023-01-21 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-22 | 2022-09-10 |
 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-09-16 | 2022-11-12 |

@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 200310,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
@@ -4470,6 +4470,24 @@
       "duration_ms": 274333,
       "name": "Pet",
       "url": "https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH"
+    },
+    {
+      "album": {
+        "name": "Poison Pill",
+        "url": "https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Poison Pill",
+      "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
     },
     {
       "album": {

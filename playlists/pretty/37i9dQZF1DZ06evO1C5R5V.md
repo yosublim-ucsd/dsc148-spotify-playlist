@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,433 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,442 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 38 | [Bajando en la Esquina](https://open.spotify.com/track/2TQxrmwp570FOy45G5Au53) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf) | 2:42 |
 | 39 | [Alma de Negro](https://open.spotify.com/track/3VRZUJyO4Y9KxfkrHc2OBC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 2:47 |
 | 40 | [A la Basura Se Va](https://open.spotify.com/track/3NyKFQuBj5DR57rBqw4tiM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:18 |
-| 41 | [Presentación, Pt\. 2 \- En Vivo](https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 1:00 |
+| 41 | [Nena \- En Vivo](https://open.spotify.com/track/0g0dTi9c09eqbyezuzR1v6) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:47 |
 | 42 | [Como las Hojas](https://open.spotify.com/track/2WtlUoUJHSjrOFZg3VGgOv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 4:05 |
 | 43 | [Vivir por Vivir](https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:29 |
 | 44 | [Debe Haber un Lugar](https://open.spotify.com/track/5c0ZzLnCkk4Hqp3kXy8lYS) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf) | 3:41 |
-| 45 | [Nena \- En Vivo](https://open.spotify.com/track/0g0dTi9c09eqbyezuzR1v6) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:47 |
+| 45 | [Presentación, Pt\. 2 \- En Vivo](https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 1:00 |
 | 46 | [Un Día A La Vez](https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 5:06 |
 | 47 | [Tuve un Sueño](https://open.spotify.com/track/3ppByciySUKj5peYAhF9fu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 3:13 |
 | 48 | [Lloré, Lloré, Lloré](https://open.spotify.com/track/5Mw6WWOT9hlB6UbQKcgiqR) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [Raíces \(Blues\)](https://open.spotify.com/album/47rNdwCYK03r88tVbjrHJP) | 3:11 |
 | 49 | [Rebel Blues](https://open.spotify.com/track/3fWnWeIoR1WDqh1ZjxTnbf) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:16 |
 | 50 | [A Esa Gran Velocidad](https://open.spotify.com/track/5uPFqmkyDLPqAUgzEWlfGm) | [Vista Point](https://open.spotify.com/artist/6GcedqINdaO2unhQdd81lL), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Esa Gran Velocidad](https://open.spotify.com/album/6aCHw9uQXaadhfe7TmTZL6) | 4:11 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDBhNzA4N2JlYTgwOWUzNGZhOTI3NjllNDAyYzg0ZTMwZQ==`
+Snapshot ID: `MjgwMDE1MjMsMDAwMDAwMDA5YzRiNzA0YmZjODJjZWI5ODZiYjA3M2EzM2Y0OWM3Mg==`

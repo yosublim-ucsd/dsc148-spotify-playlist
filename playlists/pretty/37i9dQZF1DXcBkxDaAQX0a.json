@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 321184,
+  "num_followers": 321240,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMGMyMTBkZDcwZGIwODhiZDMxYzc3MmUxZTc2NGU2ZmE1",
+  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMDI2MzY1NDRkZjJmY2I3ZTBhMDM3MTc3NzY1MzAxNmQw",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Love and Loathing",
-        "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "P\u00e2querette (Without Me)",
-      "url": "https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "SUP",
         "url": "https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 185604,
       "name": "how big is your brain?",
       "url": "https://open.spotify.com/track/2g6FvhvSzYUq9f6uZeyDip"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Love and Loathing",
+        "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "P\u00e2querette (Without Me)",
+      "url": "https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Monsters (Acoustic - Live From Lockdown)",
-        "url": "https://open.spotify.com/album/6dP9IbytNzRKcHJZXkjKis"
+        "name": "Dammit (Acoustic)",
+        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "FigureItOut",
+          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
         }
       ],
-      "duration_ms": 183615,
-      "name": "Monsters - Acoustic - Live From Lockdown",
-      "url": "https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV"
+      "duration_ms": 241714,
+      "name": "Dammit (Acoustic)",
+      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Dammit (Acoustic)",
-        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
+        "name": "Monsters (Acoustic - Live From Lockdown)",
+        "url": "https://open.spotify.com/album/6dP9IbytNzRKcHJZXkjKis"
       },
       "artists": [
         {
-          "name": "FigureItOut",
-          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Dammit (Acoustic)",
-      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
+      "duration_ms": 183615,
+      "name": "Monsters - Acoustic - Live From Lockdown",
+      "url": "https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV"
     },
     {
       "added_at": "2022-04-04 15:03:53",

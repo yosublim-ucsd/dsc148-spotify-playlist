@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 118605,
+  "num_followers": 118718,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc4ODY0NiwwMDAwMDAwMGE3M2Q5ZDMzMDY2NjJmM2I4YzM4MjE2MDBkNDVjYmIy",
+  "snapshot_id": "MTY3ODc4ODY0NiwwMDAwMDAwMDg1ZjY2NDgyMzQ5OWY3NzZlZTc5NDY3YWEyOGYyZmVj",
   "tracks": [
     {
       "added_at": "2023-03-14 10:10:46",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-03-14 10:10:46",
       "album": {
+        "name": "SWAZZ",
+        "url": "https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ"
+      },
+      "artists": [
+        {
+          "name": "The Manor",
+          "url": "https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ"
+        }
+      ],
+      "duration_ms": 212286,
+      "name": "SWAZZ",
+      "url": "https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O"
+    },
+    {
+      "added_at": "2023-03-14 10:10:46",
+      "album": {
         "name": "Remedies",
         "url": "https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-03-14 10:10:46",
       "album": {
-        "name": "SWAZZ",
-        "url": "https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ"
-      },
-      "artists": [
-        {
-          "name": "The Manor",
-          "url": "https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ"
-        }
-      ],
-      "duration_ms": 212286,
-      "name": "SWAZZ",
-      "url": "https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O"
-    },
-    {
-      "added_at": "2023-03-14 10:10:46",
-      "album": {
         "name": "Ghost (feat. DJ Rae)",
         "url": "https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH"
       },
@@ -1407,26 +1407,6 @@
       "duration_ms": 166103,
       "name": "Ghost (feat. DJ Rae)",
       "url": "https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E"
-    },
-    {
-      "added_at": "2023-03-14 10:10:46",
-      "album": {
-        "name": "All To Me",
-        "url": "https://open.spotify.com/album/5KgrT8AuRSZ202tqBdvrPW"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/28TJ1DLGBJ9BddLpWwwuXQ"
     },
     {
       "added_at": "2023-03-14 10:10:46",
@@ -1467,6 +1447,26 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "added_at": "2023-03-14 10:10:46",
+      "album": {
+        "name": "All To Me",
+        "url": "https://open.spotify.com/album/5KgrT8AuRSZ202tqBdvrPW"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/28TJ1DLGBJ9BddLpWwwuXQ"
     }
   ],
   "unique_name": "Proper Naughty ",

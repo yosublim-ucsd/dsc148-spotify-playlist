@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,491 likes - 317 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,590 likes - 317 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,7 +207,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 197 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 |
 | 198 | [The Little Things](https://open.spotify.com/track/7AoMssgMP6vK7QPrKg4wkf) | [Headie Nines](https://open.spotify.com/artist/2gGo4Y4A7rKSSIRAfXxYyu) | [The Little Things](https://open.spotify.com/album/3DvppFZflvsgmMH6RzkChO) | 2:29 |
 | 199 | [Pear Pressure](https://open.spotify.com/track/51YRwAeesNlpvB5U51lZY7) | [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4), [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Future of Lofi Δ1](https://open.spotify.com/album/4jLLWC947hBiykcBewxneR) | 2:22 |
-| 200 | [So Addictive](https://open.spotify.com/track/2BDKKL4We7h8JwGk4NWpE5) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [So Addictive](https://open.spotify.com/album/5YoehEM1Hr5aE4gtrkN95m) | 3:12 |
+| 200 | [So Seductive](https://open.spotify.com/track/2BDKKL4We7h8JwGk4NWpE5) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [So Seductive](https://open.spotify.com/album/5YoehEM1Hr5aE4gtrkN95m) | 3:12 |
 | 201 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 |
 | 202 | [Tokyo Trainspotting](https://open.spotify.com/track/1bFNVPttUZyzRxfsJAFkJx) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:00 |
 | 203 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 |

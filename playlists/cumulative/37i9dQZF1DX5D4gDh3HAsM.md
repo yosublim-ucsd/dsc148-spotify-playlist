@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-107 songs - 6 hr 22 min
+108 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 | 2021-11-12 | 2022-11-26 |
 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1FGO7AYk1tg2jEgfptla6O) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/1qnpNMKpPzIC0eXrzVSh6K) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 3:42 | 2021-11-12 | 2022-11-11 |
+| [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 | 2021-11-12 |  |
 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-11-12 | 2023-03-11 |
 | [Fly Santa Fly](https://open.spotify.com/track/7DI1HipOBEAMSEGmfVVNgw) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 2:48 | 2021-11-12 | 2022-09-26 |
 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2021-11-12 |  |
@@ -111,7 +112,7 @@
 | [What Child Is This?](https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 4:46 | 2021-11-12 |  |
 | [White Christmas](https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 4:57 | 2021-11-12 |  |
 | [White Christmas](https://open.spotify.com/track/3o8DXco2Vu4B1pJD6FSVz6) | [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY) | [White Christmas](https://open.spotify.com/album/1wM4AzpmaYbWUES7MvW3Z2) | 2:52 | 2021-11-12 | 2022-07-27 |
-| [Winter Wonderland](https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Pretty/Groovy \(Expanded Edition\)](https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ) | 2:28 | 2021-11-12 |  |
+| [Winter Wonderland](https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Pretty/Groovy \(Expanded Edition\)](https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ) | 2:28 | 2021-11-12 | 2023-03-30 |
 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 | 2021-11-12 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/6qaVpEUBt6tLOrzZkRjhJB) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/2KxLBRm5ZqsiiTs6efbZHb) | 5:20 | 2022-11-11 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/7pDKjFyrECfNrXScLg5MM9) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [Wonderful Christmastime](https://open.spotify.com/album/3fa8tkY8qCM6rmxp4p2xUd) | 5:20 | 2022-11-11 | 2022-11-27 |

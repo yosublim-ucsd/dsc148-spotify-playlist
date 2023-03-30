@@ -1,12 +1,12 @@
 {
   "description": "Throw it back to the biggest, best hits of the 2000's.",
-  "num_followers": 1353929,
+  "num_followers": 1354246,
   "original_name": "Throwback Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5MjM0MiwwMDAwMDAwMGM0N2Q2YWUyZWE4NTAzNWEyMTAzMmI4MjlkMDQ2YWVl",
+  "snapshot_id": "MTY3MjI5MjM0MiwwMDAwMDAwMGVjODI1NjliYzYyYmIzNDYxZDgzZjU4MTA2NjgyNWI2",
   "tracks": [
     {
       "added_at": "2022-12-29 05:39:02",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Smack That",
-      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 161506,
       "name": "The Next Episode",
       "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
     },
     {
       "added_at": "2022-12-29 05:39:02",

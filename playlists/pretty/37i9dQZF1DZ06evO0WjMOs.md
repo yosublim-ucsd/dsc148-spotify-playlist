@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,650 likes - 32 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,713 likes - 32 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 31 | [Just the Two of Us](https://open.spotify.com/track/7kjvp3gUi1BzmcUsjk1k6I) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Just the Two of Us](https://open.spotify.com/album/6ppQvrvuJh7YAiAsz5IMp8) | 3:15 |
 | 32 | [Dancing Queen](https://open.spotify.com/track/1dHbjQmKlr15e6xP7VDfWi) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Dancing Queen](https://open.spotify.com/album/7kPywVWHVzRTrlzPMXFIWq) | 3:05 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDBlODcxYmQyYWJjODA3YzczODNlNTA4MmY1MGY3ZDkwYw==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDBlZDZhYjk4ZDM4ZmE5ODVkYTQ5NjljMjA1MDQ2NGM4Yw==`

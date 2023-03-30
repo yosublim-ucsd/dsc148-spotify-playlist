@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Traetwothree & Sevyn Streeter",
-  "num_followers": 40409,
+  "num_followers": 40429,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGE1Zjc0NDE1MmRjNTljY2EyZDliMTlhMmU5OTY5NjNl",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGQ5Y2M3ZmRkOWY4YTFlNGViM2NiZTExZjIwMDM0MDdh",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -541,6 +541,26 @@
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Temporary (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Do You Mind",
@@ -575,26 +595,6 @@
       "duration_ms": 201621,
       "name": "Feature Me",
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Temporary (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "GANGSTER ROMANTIC",
+        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 175031,
+      "name": "IYD",
+      "url": "https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
@@ -755,22 +771,6 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "GANGSTER ROMANTIC",
-        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 175031,
-      "name": "IYD",
-      "url": "https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg"
     },
     {
       "added_at": "2022-08-26 04:41:34",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Still Over It",
@@ -975,22 +991,6 @@
       "duration_ms": 110400,
       "name": "Step 2 Me",
       "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
@@ -1319,6 +1303,22 @@
       "duration_ms": 166472,
       "name": "Put You On",
       "url": "https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Out The Way",
-        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 155414,
-      "name": "Out The Way",
-      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
-    },
-    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "Overrated",
@@ -1367,6 +1351,22 @@
       "duration_ms": 187484,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Out The Way",
+        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 155414,
+      "name": "Out The Way",
+      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1399,22 +1399,6 @@
       "duration_ms": 141428,
       "name": "DOWN BAD",
       "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 135024,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -1465,6 +1449,22 @@
       "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 135024,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u"
+    },
+    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "Swerve",
@@ -1501,6 +1501,22 @@
       "url": "https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt"
     },
     {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Glowin 4 Me",
+        "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Glowin 4 Me",
+      "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "$weet n $our",
@@ -1515,22 +1531,6 @@
       "duration_ms": 183588,
       "name": "$weet n $our",
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Thanks 4 Nothing",
-        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 149020,
-      "name": "New Nigga",
-      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1549,40 +1549,20 @@
       "url": "https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Glowin 4 Me",
-        "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
+        "name": "Thanks 4 Nothing",
+        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
       },
       "artists": [
         {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 145609,
-      "name": "Glowin 4 Me",
-      "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "By My Side (feat. Kai Ca$h)",
-        "url": "https://open.spotify.com/album/1qZALfmBBt0NgdHLIHysET"
-      },
-      "artists": [
-        {
-          "name": "Nieman J",
-          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
-        },
-        {
-          "name": "Kai Ca$h",
-          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "By My Side (feat. Kai Ca$h)",
-      "url": "https://open.spotify.com/track/79YzNNX7vZpaC0ThGTnTJX"
+      "duration_ms": 149020,
+      "name": "New Nigga",
+      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1615,6 +1595,26 @@
       "duration_ms": 198888,
       "name": "How Many",
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "By My Side (feat. Kai Ca$h)",
+        "url": "https://open.spotify.com/album/1qZALfmBBt0NgdHLIHysET"
+      },
+      "artists": [
+        {
+          "name": "Nieman J",
+          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "By My Side (feat. Kai Ca$h)",
+      "url": "https://open.spotify.com/track/79YzNNX7vZpaC0ThGTnTJX"
     },
     {
       "added_at": "2022-08-05 04:11:54",

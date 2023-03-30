@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,104 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,189 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 27 | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/track/3A3S5pdCJdePtJ0oKeCrCP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:17 |
 | 28 | [Face Of My City \(feat\. Lil Baby\)](https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:03 |
 | 29 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
-| 30 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 |
+| 30 | [Don’t Matter To Me \(with Michael Jackson\)](https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 4:05 |
 | 31 | [Outside](https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Outside](https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ) | 1:27 |
 | 32 | [Charlie, Last Name Wilson](https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 3:35 |
 | 33 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 49 | [I Wish Grandpas Never Died \- Live](https://open.spotify.com/track/7KYUPObhhhayMQleMepg3u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [We Out Here: Live](https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB) | 5:59 |
 | 50 | [Biggest Opp \(feat\. 5th Ward Greedy, Real Taker & Yung Mal\)](https://open.spotify.com/track/6slucYWVAkGbdMXxrmwMED) | [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [5th Ward Greedy](https://open.spotify.com/artist/6vv9MooabxcG6oEZAzrgnF), [Real Taker](https://open.spotify.com/artist/5pVXtBRmHkw3lQRONcNQdA), [Yung Mal](https://open.spotify.com/artist/51UYpk7RRrgbC51ydS0KNg) | [Gotti Outta Here](https://open.spotify.com/album/28UAekns23I51HBjwmAaAN) | 4:34 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDYzMGFlMzBjMDJjNGExNGJmMzQ3N2E4NjZhOTczYTE2`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDM4YjZkOGQzOTIzZmUzNzM1ZjIxMTgwZTE0YTJjZGMz`

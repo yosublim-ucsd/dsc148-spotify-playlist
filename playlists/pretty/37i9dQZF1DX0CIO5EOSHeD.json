@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 417505,
+  "num_followers": 417710,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMDY4NDk1ODQ0YjMxMGM1ZWE2YzU5MTA1ODljNDBhMWFk",
+  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMDNlNjNmNzUyNDNjOTc4MzNhNDhhODZhOTI1YjE1NThk",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1256,8 +1256,8 @@
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
         }
       ],
       "duration_ms": 133090,
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
+      },
+      "artists": [
+        {
+          "name": "Launder",
+          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
+        }
+      ],
+      "duration_ms": 203444,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "FULL TIME LOVER",
         "url": "https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 102500,
       "name": "IN THE DOG HOUSE",
       "url": "https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
-      },
-      "artists": [
-        {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
     },
     {
       "added_at": "2022-09-13 23:04:24",

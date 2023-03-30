@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,038 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,068 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Everything that's happening in indie right now\. Cover: Lana Del Rey
 
-1,486 songs - 3 day 16 hr 54 min
+1,487 songs - 3 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,6 +956,7 @@
 | [One Night](https://open.spotify.com/track/5ZxhHEdMDGitVjy53Cm3Pp) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 3:49 | 2022-10-24 | 2022-11-13 |
 | [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 | 2022-11-25 | 2023-02-19 |
 | [Only Friend](https://open.spotify.com/track/5q6Ue2SuMhMBxFPDP2VWXm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 3:01 | 2019-05-26\* | 2019-09-06 |
+| [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-03-17 |  |
 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-24 | 2023-03-10 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-01-28 | 2022-04-07 |
 | [Onto Me \(with UMI\)](https://open.spotify.com/track/49YDCahXCIaY44snUKv8JS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 2:47 | 2021-07-20 | 2021-10-14 |
@@ -1278,7 +1279,7 @@
 | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N) | 4:04 | 2020-12-22 | 2021-05-22 |
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2023-01-06 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-20 |  |
-| [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2023-01-06 |  |
+| [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2023-01-06 | 2023-03-30 |
 | [The Princess and the Clock](https://open.spotify.com/track/0awsB9ACtbWMxhgNVx6GRW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [The Princess and the Clock](https://open.spotify.com/album/6qSZk7WnfIunKMAxo3RngF) | 3:49 | 2021-04-30 | 2021-10-16 |
 | [The River](https://open.spotify.com/track/0ZSNmNgMmYT7o9cn57MESt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [The River](https://open.spotify.com/album/4ACrGzTgs016EkxPHMIGfQ) | 3:52 | 2020-03-06 | 2020-10-13 |
 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 | 2022-07-15 | 2022-08-05 |

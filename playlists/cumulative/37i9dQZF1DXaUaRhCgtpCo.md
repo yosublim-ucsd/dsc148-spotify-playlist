@@ -4,10 +4,11 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
 
-127 songs - 6 hr 39 min
+129 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Castle](https://open.spotify.com/track/4pzG7RTbaEMug1aR3guLDl) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 1 \(Chapters 17\-20\) \[Original Score\]](https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b) | 3:34 | 2023-03-29 |  |
 | [A New Alliance](https://open.spotify.com/track/2Q1MtRb1XIJ9bD5q2SIHtH) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:13 | 2021-05-14 |  |
 | [Across the Stars \(Love Theme from "Star Wars: Attack of the Clones"\)](https://open.spotify.com/track/3rUMH7i22tlkymhDPOmXUv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Attack of the Clones \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A) | 5:33 | 2021-05-14 |  |
 | [Adventure](https://open.spotify.com/track/3AP3GrI8DwcMK7lX8x5aiX) | [A\-bee](https://open.spotify.com/artist/0ZstxjqVmLXd0bjATOB1u9) | [Star Wars: Visions \- T0\-B1 \(Original Soundtrack\)](https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0) | 2:28 | 2021-10-14 |  |
@@ -127,6 +128,7 @@
 | [The Supremacy](https://open.spotify.com/track/6VVazVCT7PMofEkMXDdbEo) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 4:00 | 2021-05-14 |  |
 | [The Throne Room and End Title](https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:34 | 2021-05-14 |  |
 | [The Village Bride](https://open.spotify.com/track/4xbc2NEgK7K2NXgldhfhMq) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y), [Emi Evans](https://open.spotify.com/artist/0WgqipmDarta23FAzzhDer) | [Star Wars: Visions \- The Village Bride \(Original Soundtrack\)](https://open.spotify.com/album/5rPbPjB9rABojv7WVhO265) | 4:30 | 2021-10-14 |  |
+| [There Are No Others](https://open.spotify.com/track/6rij7q7SkqkUsfhwCKmguI) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 1 \(Chapters 17\-20\) \[Original Score\]](https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b) | 5:39 | 2023-03-29 |  |
 | [Trace & Rafa](https://open.spotify.com/track/1fqsyRQVJReNyGNj1xZQX9) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \- The Final Season \(Episodes 5\-8\) \[Original Soundtrack\]](https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj) | 3:39 | 2021-05-14 |  |
 | [Train Heist](https://open.spotify.com/track/1ezCMM6GbB6JW6yXltlCaD) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 4:48 | 2021-05-14 |  |
 | [Train Heist \- "The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\)" Bonus Track](https://open.spotify.com/track/7I0Wha0ZV4GEq2PxWpg1mb) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 2 \(Chapters 5\-7\) \[Original Soundtrack\]](https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC) | 6:15 | 2022-02-11 |  |

@@ -4,11 +4,11 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/4gP93834jVbocef9R42gQz?si=E9SyvXp9Rs2fj13j9vm27w" > Kwaku DMC</a>
 
-88 songs - 4 hr 31 min
+89 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 By 2](https://open.spotify.com/track/3YiAKOhUJSplRyROIAOxMs) | [Komla MC](https://open.spotify.com/artist/1YzRdveJSpKhAPbVoMr8J2) | [2 By 2](https://open.spotify.com/album/2OQTBLs49TBA9Aqeetopnu) | 2:47 | 2023-03-10 |  |
+| [2 By 2](https://open.spotify.com/track/3YiAKOhUJSplRyROIAOxMs) | [Komla MC](https://open.spotify.com/artist/1YzRdveJSpKhAPbVoMr8J2) | [2 By 2](https://open.spotify.com/album/2OQTBLs49TBA9Aqeetopnu) | 2:47 | 2023-03-10 | 2023-03-30 |
 | [Abasakoom](https://open.spotify.com/track/2puqWsQHO7Ld5gutZNajtA) | [O'kenneth,reggie](https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu) | [Abasakoom](https://open.spotify.com/album/6recifnSNcbsFOKrc6d2ck) | 3:23 | 2022-06-09 |  |
 | [Adom Ntsi](https://open.spotify.com/track/2p4do2mYt62fuTZkqPIqZM) | [Goddy Wan](https://open.spotify.com/artist/5MEVb9eCqF903Lyi2OuJp1), [Kwesi Taadi](https://open.spotify.com/artist/3loHdUqZvhaFVaUXS1p0Wr), [2Feet](https://open.spotify.com/artist/2wHbFLafbtG7hcGz44gCz0) | [Adom Ntsi](https://open.spotify.com/album/2v7wM4sNmDQV2ZeDRqXsVd) | 4:22 | 2023-03-10 | 2023-03-18 |
 | [AGYEIWAA](https://open.spotify.com/track/6jiUTqGMy6CeiQtCxIjKKa) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [AGYEIWAA](https://open.spotify.com/album/4dhGN9UWrhHHR0DhhxfZKo) | 3:31 | 2022-06-09 |  |
@@ -95,6 +95,7 @@
 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2022-08-12 | 2022-11-05 |
 | [Wtf](https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Wtf](https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ) | 3:23 | 2022-11-18 | 2023-01-28 |
 | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/track/07bE9klPJH5xfXyj5hNlq8) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/album/3onPRPaXRaC4d7y2sqXgX4) | 4:23 | 2022-06-09 |  |
+| [Yaa Baby](https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Yaa Baby](https://open.spotify.com/album/2HW2hdH3U2Be05Ispz7Fyb) | 3:27 | 2023-03-29 |  |
 | [Yenda](https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo) | [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr), [MEDIKAL](https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE), [Qv](https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8) | [Yenda](https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp) | 3:51 | 2022-09-30 | 2023-01-14 |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 500931,
+  "num_followers": 501159,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDYxNzVmMGZiYmMwNmUxNDVmY2NhOTFkMjIyMzgwNmNk",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGNhNGIyNTg3MmE4Y2U0YWRkZWE0NjUxZjFjMmFiYTY1",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 140011,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Summer Feelings (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 160289,
       "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
       "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 140011,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1607,26 +1607,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Whenever (feat. Conor Maynard)",
-        "url": "https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9"
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/6eYxEOCIiUy763yQwd9Glm"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
         },
         {
-          "name": "The Boy Next Door",
-          "url": "https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs"
-        },
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+          "name": "Rasmus Hagen",
+          "url": "https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Whenever (feat. Conor Maynard)",
-      "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
+      "duration_ms": 170893,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/4UuGBDjt8gLXsANZqZxMBz"
     }
   ],
   "unique_name": "Powerwalk!",

@@ -1,15 +1,15 @@
 {
   "description": "mais brabo que a mclaren do ret",
-  "num_followers": 1094678,
+  "num_followers": 1095396,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjk4MCwwMDAwMDAwMGM5NTJlNTExZGExYzFmZmY5NGQ5MDg1NDczZjk4ZTA1",
+  "snapshot_id": "MTY3OTYyNjk4MCwwMDAwMDAwMGYxZGFiNDFlY2U4MjYyZjk1NmE4MWM4M2UxOTZmY2Jh",
   "tracks": [
     {
-      "added_at": "2023-03-29 05:36:40",
+      "added_at": "2023-03-30 00:50:24",
       "album": {
         "name": "Deus Perdoa",
         "url": "https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv"
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-03-21 16:03:47",
       "album": {
-        "name": "Modo Repeat",
-        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "M\u00f3 Viagem",
-      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
-    },
-    {
-      "added_at": "2023-03-21 16:03:47",
-      "album": {
         "name": "Mateca x Teto",
         "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 202909,
       "name": "Balazul",
       "url": "https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt"
+    },
+    {
+      "added_at": "2023-03-21 16:03:47",
+      "album": {
+        "name": "Modo Repeat",
+        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "M\u00f3 Viagem",
+      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
     },
     {
       "added_at": "2023-03-21 16:03:47",
@@ -999,34 +999,6 @@
     {
       "added_at": "2023-03-21 16:03:47",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
-    },
-    {
-      "added_at": "2023-03-21 16:03:47",
-      "album": {
         "name": "Desabafo",
         "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
       },
@@ -1051,6 +1023,34 @@
       "duration_ms": 150508,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
+    },
+    {
+      "added_at": "2023-03-21 16:03:47",
+      "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-03-21 16:03:47",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2023-03-21 16:03:47",
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 150697,
-      "name": "Konteiner",
-      "url": "https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit"
-    },
-    {
-      "added_at": "2023-03-21 16:03:47",
-      "album": {
         "name": "Me Espera",
         "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 142564,
       "name": "Metflix - Remix",
       "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
+    },
+    {
+      "added_at": "2023-03-21 16:03:47",
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 150697,
+      "name": "Konteiner",
+      "url": "https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit"
     },
     {
       "added_at": "2023-03-21 16:03:47",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2023-03-21 16:03:47",
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Modo Avi\u00e3o",
+      "url": "https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C"
+    },
+    {
+      "added_at": "2023-03-21 16:03:47",
+      "album": {
         "name": "1 Beat 1 Letra",
         "url": "https://open.spotify.com/album/2GjSmvspkIe32HTVw8rpOS"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 204461,
       "name": "Luz Apagada",
       "url": "https://open.spotify.com/track/7vT7jEmtlRnKNThbgRxug6"
-    },
-    {
-      "added_at": "2023-03-21 16:03:47",
-      "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Modo Avi\u00e3o",
-      "url": "https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C"
     },
     {
       "added_at": "2023-03-21 16:03:47",

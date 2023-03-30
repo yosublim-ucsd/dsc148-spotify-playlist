@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-780 songs - 1 day 19 hr 8 min
+781 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Cara Que Engana](https://open.spotify.com/track/1DHSj9pjlwGsVTQ2A2Z8gk) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cara Que Engana](https://open.spotify.com/album/0xtL6QER4C37WbjNRkhhC5) | 2:59 | 2022-04-05 | 2022-08-24 |
 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 | 2022-11-26 | 2022-12-03 |
 | [CASA](https://open.spotify.com/track/3hUk7wHp5Ruas0FLLVW69c) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [CASA](https://open.spotify.com/album/0MiBg6aI8QwreRNhrHOtGb) | 3:28 | 2022-12-29 |  |
-| [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-08-17 |  |
+| [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-08-17 | 2023-03-30 |
 | [chamada não atendida](https://open.spotify.com/track/0oKpBxCq4U5IvUZqMuVMM3) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [chamada não atendida](https://open.spotify.com/album/3BYMDX4fOqP8KI7UamT5Ji) | 3:24 | 2022-09-27 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-11 |
 | [Chapter V](https://open.spotify.com/track/5IM14v94odKKBZfpFjWmoH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 2:39 | 2023-03-18 | 2023-03-20 |
@@ -277,6 +277,7 @@
 | [Gosto de Ti](https://open.spotify.com/track/2dY8i8Mirb1YBoJt6aXUvp) | [Nininho](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6), [Cristiano Maia](https://open.spotify.com/artist/4FwY1BwlrABrU50B50Px08) | [Gosto de Ti](https://open.spotify.com/album/1jsgppcK0gaNw9E4gQ5C4d) | 3:52 | 2021-05-19 | 2021-05-25 |
 | [Gosto de Ti](https://open.spotify.com/track/57nPJRwCw60I0dX8ABXitI) | [Nininho](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6), [Cristiano Maia](https://open.spotify.com/artist/4FwY1BwlrABrU50B50Px08) | [Raízes](https://open.spotify.com/album/6t8AwDUwYp3jk6CgRo5PNP) | 3:53 | 2021-07-05 | 2021-07-07 |
 | [Gostosinho Tu Cai](https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Gostosinho Tu Cai](https://open.spotify.com/album/03YfAkvJjMXlA0T5I7vLMX) | 2:12 | 2022-04-29 | 2022-09-21 |
+| [Grandeza \- A COLORS SHOW](https://open.spotify.com/track/6A0M5aCuhdbSqs8pcPx3xf) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Grandeza \- A COLORS SHOW](https://open.spotify.com/album/7FjIa7xnJX7g4DiKiYnxsV) | 2:55 | 2023-03-29 |  |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-30 |
 | [Groupies](https://open.spotify.com/track/3ua3rqwBNmeGeQfcKnA3bT) | [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Groupies](https://open.spotify.com/album/6GyknQiPJF4HKS85cxB5Wi) | 2:44 | 2021-10-02 | 2021-11-17 |
 | [Grândola vila morena](https://open.spotify.com/track/4YTZhbzc5dV87hhup8HVuo) | [José Afonso](https://open.spotify.com/artist/7pPSDxHXT3VGLhn9XArHzB) | [Völker hört die Signale](https://open.spotify.com/album/2iSXxikFJDpeKQAt4qcV91) | 3:23 | 2021-04-26 | 2021-04-28 |

@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Paola Jara en portada. ",
-  "num_followers": 125523,
+  "num_followers": 125539,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI1NTIwMCwwMDAwMDAwMGE2OWI2MGYzMWNjM2RlNjQ3ZjQyODllYTIzNzY1Y2Jm",
+  "snapshot_id": "MTY3ODI1NTIwMCwwMDAwMDAwMDEzN2JhNjJkYzM0MmM1ZmZiMDkzNDdhNDkyYjQ2YjA2",
   "tracks": [
     {
       "added_at": "2023-03-03 17:06:47",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-03 17:06:47",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
-    },
-    {
-      "added_at": "2023-03-03 17:06:47",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+    },
+    {
+      "added_at": "2023-03-03 17:06:47",
+      "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
       "added_at": "2023-03-03 17:06:47",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-03-03 17:06:47",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 141756,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
-    },
-    {
-      "added_at": "2023-03-03 17:06:47",
-      "album": {
         "name": "No Te Apartes De M\u00ed",
         "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 239880,
       "name": "No Te Apartes De M\u00ed",
       "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
+    },
+    {
+      "added_at": "2023-03-03 17:06:47",
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 141756,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
     },
     {
       "added_at": "2023-03-03 17:06:47",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-03-03 17:06:47",
       "album": {
-        "name": "Amor Ilegal",
-        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Amor Ilegal",
-      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
-    },
-    {
-      "added_at": "2023-03-03 17:06:47",
-      "album": {
         "name": "Peca de Bonita",
         "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 147093,
       "name": "Peca de Bonita",
       "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
+    },
+    {
+      "added_at": "2023-03-03 17:06:47",
+      "album": {
+        "name": "Amor Ilegal",
+        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
     },
     {
       "added_at": "2023-03-03 17:06:47",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-03-03 17:06:47",
       "album": {
-        "name": "T\u00f3mbola",
-        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 165906,
-      "name": "T\u00f3mbola",
-      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
+      "duration_ms": 175306,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
     },
     {
       "added_at": "2023-03-03 17:06:47",
@@ -1091,34 +1091,18 @@
     {
       "added_at": "2023-03-03 17:06:47",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
+        "name": "T\u00f3mbola",
+        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 175306,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
-    },
-    {
-      "added_at": "2023-03-03 17:06:47",
-      "album": {
-        "name": "Los Besos Jam\u00e1s",
-        "url": "https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 195140,
-      "name": "Los Besos Jam\u00e1s",
-      "url": "https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd"
+      "duration_ms": 165906,
+      "name": "T\u00f3mbola",
+      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
     },
     {
       "added_at": "2023-03-03 17:06:47",
@@ -1135,6 +1119,22 @@
       "duration_ms": 228080,
       "name": "Te Quise Olvidar",
       "url": "https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU"
+    },
+    {
+      "added_at": "2023-03-03 17:06:47",
+      "album": {
+        "name": "Los Besos Jam\u00e1s",
+        "url": "https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 195140,
+      "name": "Los Besos Jam\u00e1s",
+      "url": "https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd"
     },
     {
       "added_at": "2023-03-03 17:06:47",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-03-03 17:06:47",
       "album": {
+        "name": "Buscando el Olvido",
+        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 152487,
+      "name": "Buscando el Olvido",
+      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
+    },
+    {
+      "added_at": "2023-03-03 17:06:47",
+      "album": {
         "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 182044,
       "name": "Ya Es Suficiente",
       "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
-    },
-    {
-      "added_at": "2023-03-03 17:06:47",
-      "album": {
-        "name": "Buscando el Olvido",
-        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 152487,
-      "name": "Buscando el Olvido",
-      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
     },
     {
       "added_at": "2023-03-03 17:06:47",

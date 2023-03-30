@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,403 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,426 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 47 | [Tíbiri Tábara](https://open.spotify.com/track/6pL9XBpYH2EqM6vN1I2smj) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 3:37 |
 | 48 | [Pulque para dos](https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo) | [Los Xochimilcas](https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd) | [Antología...Los Xochimilcas](https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ) | 3:12 |
 | 49 | [Vereda Tropical](https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:11 |
-| 50 | [Juana La Cubana](https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0) | 3:13 |
-| 51 | [El Ahualulco](https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:13 |
+| 50 | [El Ahualulco](https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:13 |
+| 51 | [Juana La Cubana](https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0) | 3:13 |
 | 52 | [Pasito Tun Tun](https://open.spotify.com/track/6vXP8taf6h8VGQYeBpt644) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [Espuma De Mar](https://open.spotify.com/album/0X8f23dP4XuKPgM8xaTisW) | 2:55 |
 | 53 | [Campanario](https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Algo Nuevo en Danzon](https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP) | 3:42 |
 | 54 | [La Diablesa del rock](https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 2:48 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 80 | [Alma llanera](https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aguanta Corazón \(1955 \-1959\)](https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c) | 2:54 |
 | 81 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
 | 82 | [Aguita de Coco](https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo), [Magia San juanera](https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA) | [Aguita de Coco](https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV) | 3:37 |
-| 83 | [La Sandunga](https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 4:07 |
-| 84 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
-| 85 | [El Trompo \(Son Jarocho\) \[Veracruz\]](https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [México](https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ) | 3:33 |
+| 83 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
+| 84 | [El Trompo \(Son Jarocho\) \[Veracruz\]](https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [México](https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ) | 3:33 |
+| 85 | [La Sandunga](https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 4:07 |
 | 86 | [Quinto Patio](https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 3:03 |
 | 87 | [Agua De Beber](https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [The Genius of Esquivel](https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj) | 2:55 |
 | 88 | [Espinita](https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [La Música en la Radio](https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [El Barbarazo](https://open.spotify.com/track/1jxqWXRBC2Ie6lYZKVFEOM) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 3:30 |
 | 100 | [Mambo Universitario](https://open.spotify.com/track/32xH84FLeD1lEuePV242FO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:27 |
 
-Snapshot ID: `MTY3NDUxMzc3MCwwMDAwMDAwMGYwNmYyZWJhYjhjNjQ4MTE1YjNhMDUxYWFiOTAyNjI1`
+Snapshot ID: `MTY3NDUxMzc3MCwwMDAwMDAwMDlkMzc5MTE3OTNjYTE2ZDg3MTBmY2RkMDZiZmFlZGQ1`

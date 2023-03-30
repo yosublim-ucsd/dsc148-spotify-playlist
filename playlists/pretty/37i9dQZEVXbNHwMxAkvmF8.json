@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 69491,
+  "num_followers": 69503,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMzMzgxODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMzNDUyNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "szosziazi",
         "url": "https://open.spotify.com/album/1y3BEzFK1hJ4FwOlpwKJVH"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4bHXbXDT0p9exqBsW49fDo"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Introvert\u00e1lt dal",
         "url": "https://open.spotify.com/album/6ZRIaIZEYI7HBPNPKmeAXw"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2SoIhnJXdHp8oo0w9pktub"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "silbak",
         "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -113,27 +113,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Csavarg\u00f3",
-        "url": "https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Csavarg\u00f3",
-      "url": "https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -153,7 +133,27 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Csavarg\u00f3",
+        "url": "https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Csavarg\u00f3",
+      "url": "https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "V\u00e1rn\u00e9k",
         "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
@@ -173,27 +173,7 @@
       "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Idegen",
-        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 191204,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "silbak",
         "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
@@ -209,27 +189,7 @@
       "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
@@ -253,27 +213,47 @@
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
-        "name": "Meg\u00e1ll Az Id\u0151",
-        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         },
         {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Afro Beat",
-      "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
+      "duration_ms": 191204,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -293,23 +273,27 @@
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
-        "name": "DESHPERADO",
-        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
+        "name": "Meg\u00e1ll Az Id\u0151",
+        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
         }
       ],
-      "duration_ms": 138712,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8"
+      "duration_ms": 192000,
+      "name": "Afro Beat",
+      "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Hajnali 2",
         "url": "https://open.spotify.com/album/3gKXbVGcmQgSV9cbj2QA57"
@@ -329,7 +313,7 @@
       "url": "https://open.spotify.com/track/1gwphQDBqnWXO37xTMdbCN"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -349,79 +333,23 @@
       "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
-        "name": "AZ ALBUM",
-        "url": "https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN"
+        "name": "DESHPERADO",
+        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Szeretsz-e",
-      "url": "https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM"
+      "duration_ms": 138712,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Idegen",
-        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 218461,
-      "name": "Popstar",
-      "url": "https://open.spotify.com/track/4ZT1QMxxsqYTQnlIlQmj4l"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "SZ\u00cdNVAK",
-        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        }
-      ],
-      "duration_ms": 198278,
-      "name": "SZ\u00cdNVAK",
-      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Zokni",
-        "url": "https://open.spotify.com/album/1tVc0HOHQnE6HWrBpneRTq"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        },
-        {
-          "name": "Marics",
-          "url": "https://open.spotify.com/artist/23syIjFiskNNxqOKEpU4PC"
-        }
-      ],
-      "duration_ms": 152794,
-      "name": "Zokni",
-      "url": "https://open.spotify.com/track/25bM4zmalHioTOMMGt8Jn9"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -441,111 +369,7 @@
       "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Topshit",
-        "url": "https://open.spotify.com/album/01JynwSYkEtKdbcdY9zJDS"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 166164,
-      "name": "Topshit",
-      "url": "https://open.spotify.com/track/6w9aIT3TyqClXIcKyw6W1a"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "KDT",
-        "url": "https://open.spotify.com/album/3oNmJ7bGRUMkzzBs2f37ix"
-      },
-      "artists": [
-        {
-          "name": "Kolg8eight",
-          "url": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
-        },
-        {
-          "name": "Csoky",
-          "url": "https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV"
-        },
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 224697,
-      "name": "Rizik\u00f3",
-      "url": "https://open.spotify.com/track/6WBuRbov384zl6wPJ49piD"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Csinibaba",
-        "url": "https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7"
-      },
-      "artists": [
-        {
-          "name": "Kiss Kevin",
-          "url": "https://open.spotify.com/artist/2qiyCYzYvsFEsMn1gSMNed"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Csinibaba",
-      "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Meg\u00e1ll Az Id\u0151",
-        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
-        }
-      ],
-      "duration_ms": 172774,
-      "name": "Fiendul\u00f3",
-      "url": "https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Idegen",
         "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
@@ -556,48 +380,12 @@
           "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Idegen",
-      "url": "https://open.spotify.com/track/35LInpwVpTlTBSMraEOjeY"
+      "duration_ms": 218461,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/4ZT1QMxxsqYTQnlIlQmj4l"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Idegen",
-        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 173454,
-      "name": "100 Hiba",
-      "url": "https://open.spotify.com/track/2OcJ6IFLooNGjyiL9HaDab"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -625,7 +413,171 @@
       "url": "https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "KDT",
+        "url": "https://open.spotify.com/album/3oNmJ7bGRUMkzzBs2f37ix"
+      },
+      "artists": [
+        {
+          "name": "Kolg8eight",
+          "url": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
+        },
+        {
+          "name": "Csoky",
+          "url": "https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 224697,
+      "name": "Rizik\u00f3",
+      "url": "https://open.spotify.com/track/6WBuRbov384zl6wPJ49piD"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "SZ\u00cdNVAK",
+        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        }
+      ],
+      "duration_ms": 198278,
+      "name": "SZ\u00cdNVAK",
+      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Topshit",
+        "url": "https://open.spotify.com/album/01JynwSYkEtKdbcdY9zJDS"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 166164,
+      "name": "Topshit",
+      "url": "https://open.spotify.com/track/6w9aIT3TyqClXIcKyw6W1a"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Meg\u00e1ll Az Id\u0151",
+        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        }
+      ],
+      "duration_ms": 172774,
+      "name": "Fiendul\u00f3",
+      "url": "https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Zokni",
+        "url": "https://open.spotify.com/album/1tVc0HOHQnE6HWrBpneRTq"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        },
+        {
+          "name": "Marics",
+          "url": "https://open.spotify.com/artist/23syIjFiskNNxqOKEpU4PC"
+        }
+      ],
+      "duration_ms": 152794,
+      "name": "Zokni",
+      "url": "https://open.spotify.com/track/25bM4zmalHioTOMMGt8Jn9"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "AZ ALBUM",
+        "url": "https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Szeretsz-e",
+      "url": "https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Forog a vil\u00e1g",
         "url": "https://open.spotify.com/album/7apll1uOGqxEzQHmc7PlB5"
@@ -641,43 +593,71 @@
       "url": "https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
-        "name": "AZ ALBUM",
-        "url": "https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN"
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Csiri\u00f3",
-      "url": "https://open.spotify.com/track/0jJVsraMUoXKk8SCiE5fQz"
+      "duration_ms": 156600,
+      "name": "Idegen",
+      "url": "https://open.spotify.com/track/35LInpwVpTlTBSMraEOjeY"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
-        "name": "Meztelen",
-        "url": "https://open.spotify.com/album/5LhVVVtCePRdN8BpUTQAKb"
+        "name": "Csinibaba",
+        "url": "https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7"
       },
       "artists": [
         {
-          "name": "ibbigang",
-          "url": "https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy"
+          "name": "Kiss Kevin",
+          "url": "https://open.spotify.com/artist/2qiyCYzYvsFEsMn1gSMNed"
         }
       ],
-      "duration_ms": 186923,
-      "name": "K\u00f3borl\u00f3",
-      "url": "https://open.spotify.com/track/5SIWaBphpIP5bzab2iObnW"
+      "duration_ms": 150000,
+      "name": "Csinibaba",
+      "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "100 Hiba",
+      "url": "https://open.spotify.com/track/2OcJ6IFLooNGjyiL9HaDab"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "t\u00e9veszm\u00e9k",
+      "url": "https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -697,7 +677,43 @@
       "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "AZ ALBUM",
+        "url": "https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Csiri\u00f3",
+      "url": "https://open.spotify.com/track/0jJVsraMUoXKk8SCiE5fQz"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -721,119 +737,23 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+        "name": "GG VS GRASA",
+        "url": "https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
         }
       ],
-      "duration_ms": 210133,
-      "name": "t\u00e9veszm\u00e9k",
-      "url": "https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK"
+      "duration_ms": 124186,
+      "name": "Tilidin",
+      "url": "https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Idegen",
-        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 122833,
-      "name": "Utols\u00f3 dal",
-      "url": "https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "OneRepublic (Japan Paradise Tour Edition)",
-        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Gett\u00f3 csirke",
-        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 136286,
-      "name": "Gett\u00f3 csirke",
-      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Fotof\u00f3bia",
         "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
@@ -853,23 +773,55 @@
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
       "album": {
-        "name": "GG VS GRASA",
-        "url": "https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ"
+        "name": "Gett\u00f3 csirke",
+        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
       },
       "artists": [
         {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 124186,
-      "name": "Tilidin",
-      "url": "https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc"
+      "duration_ms": 136286,
+      "name": "Gett\u00f3 csirke",
+      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
@@ -885,7 +837,23 @@
       "url": "https://open.spotify.com/track/708JXY4n5r7F5ZNoJ2Sez4"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Meztelen",
+        "url": "https://open.spotify.com/album/5LhVVVtCePRdN8BpUTQAKb"
+      },
+      "artists": [
+        {
+          "name": "ibbigang",
+          "url": "https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "K\u00f3borl\u00f3",
+      "url": "https://open.spotify.com/track/5SIWaBphpIP5bzab2iObnW"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -913,7 +881,55 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2023-03-28 12:08:53",
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 122833,
+      "name": "Utols\u00f3 dal",
+      "url": "https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
+      "album": {
+        "name": "Tr\u00f3nfoszt\u00f3",
+        "url": "https://open.spotify.com/album/4N8b0i798ZKaMDpAXvMhj6"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Tr\u00f3nfoszt\u00f3",
+      "url": "https://open.spotify.com/track/1k5srHy6QKbhOCApsBRFYu"
+    },
+    {
+      "added_at": "2023-03-29 09:45:07",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
@@ -935,26 +951,6 @@
       "duration_ms": 337348,
       "name": "12+1",
       "url": "https://open.spotify.com/track/52GlArsRTqvo36GXJQa7ab"
-    },
-    {
-      "added_at": "2023-03-28 12:08:53",
-      "album": {
-        "name": "Meg\u00e1ll Az Id\u0151",
-        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "Zomblaze",
-          "url": "https://open.spotify.com/artist/2NlZgmkk2CW1TDlaBleSW5"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "Tropicalli",
-      "url": "https://open.spotify.com/track/4aHCAQLGI3ekZm8rqwP2VC"
     }
   ],
   "unique_name": "Top 50 - Hungary",

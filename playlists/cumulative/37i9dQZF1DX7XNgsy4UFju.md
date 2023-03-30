@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Lana Del Rey
 
-987 songs - 2 day 10 hr 32 min
+988 songs - 2 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,8 @@
 | [Safe Space](https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Safe Space](https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY) | 3:23 | 2022-09-30 | 2022-12-17 |
 | [Satan](https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I) | 3:16 | 2022-02-11 | 2022-05-07 |
 | [Satellite](https://open.spotify.com/track/6kG8HRKKUAmhYVybHuumQs) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/3BiFlyltCdmuo1z2Yjf85R) | 3:04 | 2022-05-13 | 2022-07-09 |
-| [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 | 2023-02-24 |  |
+| [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 | 2023-02-24 | 2023-03-30 |
+| [saturday](https://open.spotify.com/track/54iqx8FozDfH95XVTOwRZn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 2:11 | 2023-03-24 |  |
 | [SAVING GRACE](https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAVING GRACE](https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr) | 2:52 | 2022-04-15 | 2022-06-11 |
 | [scared](https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [scared](https://open.spotify.com/album/2ghWrNy09Smk2if26srIGz) | 4:16 | 2022-01-21 | 2022-02-19 |
 | [Schönsee](https://open.spotify.com/track/3ns8rbtj6SC4dKg29cEN7e) | [Royal Castles](https://open.spotify.com/artist/3T7Js4rHi7Z5pLKXPG6X3J) | [Just The Hits](https://open.spotify.com/album/0CrKcap6DZhNjArOhDnIOZ) | 2:35 | 2021-12-31 | 2022-02-05 |

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-674 songs - 1 day 14 hr 33 min
+675 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [君の幸せ喜べない、ごめんね](https://open.spotify.com/track/6jpGvizv7JIMm9jBUuGKHr) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [君の幸せ喜べない、ごめんね](https://open.spotify.com/album/5y7SUJ28Fzab8T4FV2045N) | 3:02 | 2022-06-28 | 2022-07-27 |
 | [君はいなせなガール](https://open.spotify.com/track/3QFzoUHBlSLAA7RMR4umgU) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws), [日本松 ひとみ](https://open.spotify.com/artist/2HewoxIYwiA5DoOk4rFgNc) | [君はいなせなガール](https://open.spotify.com/album/0a8wJacfTpSenRSb4TCrNC) | 4:22 | 2022-06-30 | 2022-07-28 |
 | [君よ 気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ 気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 | 2022-10-12 | 2023-02-07 |
+| [呼吸率](https://open.spotify.com/track/5Ll0FDp02V7fqi3x6pykqi) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [呼吸率](https://open.spotify.com/album/1uNlZms7aHHagkz2wHcnsk) | 2:50 | 2023-03-30 |  |
 | [命に嫌われている。](https://open.spotify.com/track/4iJkPFfvhKL08H9dhHhr3c) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [命に嫌われている。](https://open.spotify.com/album/00IVbq106tRZe6RJqk9Jy8) | 4:34 | 2022-06-09 | 2022-07-29 |
 | [命に嫌われている。](https://open.spotify.com/track/1D9l3S2uqYTVAAPL825H73) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [命に嫌われている。](https://open.spotify.com/album/759u4zcGJPIBbhlMGI717p) | 4:38 | 2022-09-22 | 2022-10-05 |
 | [命の行方](https://open.spotify.com/track/492GY9Jp8F8QK2eQfMDZXq) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [命の行方](https://open.spotify.com/album/02S9ytTyWvDtuZjDVOyxJY) | 3:20 | 2022-07-19 | 2022-07-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 311402,
+  "num_followers": 311432,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDk5MTIyNjFkOGFiZDg5ODlkZDUyM2E4OTcwNzA0OGU5",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDJlNzg1OWM2NzA5OWMwNmE1NDcwNDZjZjFiYjg2Y2Y4",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 280146,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "En Extasis",
         "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 242840,
       "name": "Gracias A Dios",
       "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 280146,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "La Diferencia - (En Vivo)",
-      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 143994,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "La Diferencia - (En Vivo)",
+      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
     },
     {
       "added_at": "2021-12-29 23:38:25",

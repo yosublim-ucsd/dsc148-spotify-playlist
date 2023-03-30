@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 603707,
+  "num_followers": 604158,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMGQxNjhlYmE3ZTRmYjZlMDA0Mzg2MDA5NTYxMzIwOTlm",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMGFhNzE5OTY0ZDIwOGY2ZDU4ZDJhNDlmMTJhYTM3ZWI1",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -304,8 +304,8 @@
       },
       "artists": [
         {
-          "name": "VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+          "name": "Violent Vira",
+          "url": "https://open.spotify.com/artist/4eR4UlF3qdtcAUffVGyYlS"
         }
       ],
       "duration_ms": 175229,
@@ -785,6 +785,22 @@
       "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
     },
     {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "The Cost of Greatness",
@@ -799,22 +815,6 @@
       "duration_ms": 188388,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Sunset over the Empire",
-        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
     },
     {
       "added_at": "2023-03-17 17:53:23",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 300647,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 132391,
       "name": "Off With Your Head",
       "url": "https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK"
-    },
-    {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1067,6 +1051,22 @@
       "duration_ms": 170373,
       "name": "Life's a Bitch (But I Like it So Much)",
       "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 300647,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
     },
     {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "Eternal Spirits",
+        "url": "https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Eternal Spirits",
+      "url": "https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg"
+    },
+    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Cure 4 Psycho",
@@ -1289,22 +1305,6 @@
       "url": "https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9"
     },
     {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "Eternal Spirits",
-        "url": "https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Eternal Spirits",
-      "url": "https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "The Bitter Truth",
@@ -1321,20 +1321,20 @@
       "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Antagonist",
-        "url": "https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw"
+        "name": "Pigs",
+        "url": "https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC"
       },
       "artists": [
         {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Antagonist",
-      "url": "https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31"
+      "duration_ms": 233000,
+      "name": "Pigs",
+      "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
     }
   ],
   "unique_name": "Heavy Queens",

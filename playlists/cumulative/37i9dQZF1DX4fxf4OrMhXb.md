@@ -4,7 +4,7 @@
 
 > Close the curtains, it's time for some leftfield gems.
 
-188 songs - 16 hr 8 min
+190 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Baby](https://open.spotify.com/track/4FokLpQRijcH4xTN3fLLVb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Baby](https://open.spotify.com/album/7avcBxKmsxDBMXbikffSEy) | 3:28 | 2022-05-06 | 2022-07-28 |
 | [Bifurcation Towards Chaos](https://open.spotify.com/track/7ilulch8bT3gQy6RH0X1VN) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Bifurcation Towards Chaos](https://open.spotify.com/album/0ExkmUPEOuh9Ib7MnVhjvI) | 4:50 | 2022-05-06 | 2022-07-08 |
 | [Blitz](https://open.spotify.com/track/7EofNNezAKzt0nPeWXjjyA) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS03BLITZ](https://open.spotify.com/album/2dHeINo143XXuJJhi14H7j) | 5:53 | 2022-05-06 | 2022-07-29 |
+| [Blur Vid](https://open.spotify.com/track/2RZYUs29b9tcsXsxoZkI8j) | [Alps 2](https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd) | [Blur Vid](https://open.spotify.com/album/6ga3txioAOf3rqEUtbzSZW) | 3:46 | 2023-03-30 |  |
 | [Bon Bini](https://open.spotify.com/track/6ytVMBHu1ZXvaBvufHCBOX) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Bon Bini EP](https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF) | 6:01 | 2022-05-06 | 2022-11-15 |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2022-05-06 |  |
 | [Calling Out](https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Calling Out](https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg) | 4:41 | 2023-02-23 |  |
@@ -46,14 +47,15 @@
 | [Cyber Attack](https://open.spotify.com/track/3DlVBwjmezRNhbxlF0mjaD) | [Shinedoe](https://open.spotify.com/artist/7CEi2xVvKnwXqRZo9AhoVc) | [Garden of Eden](https://open.spotify.com/album/0Fiu1W5cMW5EbbwOLx5ofs) | 5:19 | 2022-05-06 | 2022-07-29 |
 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 | 2022-05-06 |  |
 | [Desire](https://open.spotify.com/track/5xR1NMAs89qMlE5tDh0HYR) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Desire](https://open.spotify.com/album/0VitxTKul3NXKutMMDCPBH) | 3:13 | 2022-07-08 |  |
+| [DEVOTION \- Flaurese Remix](https://open.spotify.com/track/1dP7yOoPiuBYTTu9ZLZetj) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [DEVOTION \(Flaurese Remix\)](https://open.spotify.com/album/0lcvCbKH3MQJtn00aPw7Zc) | 4:21 | 2023-03-30 |  |
 | [Disco Tech](https://open.spotify.com/track/6PJ2PkkoyuHQmdq7NFiVGo) | [DeusExMaschine](https://open.spotify.com/artist/3hcNCLF1EXk0SHCxe7Rtb9) | [Disco Tech](https://open.spotify.com/album/3uQZ29VZlBf1s7q63HPBF5) | 2:19 | 2023-02-01 |  |
 | [DPDR \- Original](https://open.spotify.com/track/34IsVi429ivIXxKZ5Dq4cz) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha) | [DPDR](https://open.spotify.com/album/3SbgsXnMicVH5OkvwNk6O7) | 4:42 | 2022-05-06 | 2022-07-27 |
 | [Dumbo](https://open.spotify.com/track/61FoKfO01ICwvYOULyDnfE) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rare, Forever](https://open.spotify.com/album/5xuDiceGUyCwxewhpqmeQB) | 5:10 | 2022-05-06 | 2022-07-25 |
-| [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 | 2022-05-06 |  |
+| [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 | 2022-05-06 | 2023-03-30 |
 | [Ego Rave D](https://open.spotify.com/track/0lS9dFaFRWNlYne6AGUCYt) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Ego Rave](https://open.spotify.com/album/1FZjqtGarKJCB38L042Vdw) | 5:19 | 2022-05-06 | 2022-07-28 |
 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 | 2022-09-09 |  |
 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 | 2022-07-08 |  |
-| [Favourite State \- Edit](https://open.spotify.com/track/5DFWLCK0UNHZLGZVmA1248) | [Alps 2](https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd) | [Favourite State](https://open.spotify.com/album/60WfBgmF4wWtWkzX4S4joD) | 4:04 | 2023-02-23 |  |
+| [Favourite State \- Edit](https://open.spotify.com/track/5DFWLCK0UNHZLGZVmA1248) | [Alps 2](https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd) | [Favourite State](https://open.spotify.com/album/60WfBgmF4wWtWkzX4S4joD) | 4:04 | 2023-02-23 | 2023-03-30 |
 | [Finding It Hard](https://open.spotify.com/track/3LcAaC8aHNv8SNuiAYMbt1) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv) | [Smoke The Monster Out](https://open.spotify.com/album/0GZxSds9VBGq0c1Ti8jYH5) | 4:03 | 2022-05-06 | 2022-07-09 |
 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 | 2022-05-06 |  |
 | [Flipside](https://open.spotify.com/track/7BCtV6MgAeAaNyQsq9eLmA) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Flipside EP](https://open.spotify.com/album/0adDPea4LtnZLn7rs88aSK) | 6:25 | 2022-05-26 | 2022-07-26 |

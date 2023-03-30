@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-115 songs - 9 hr 3 min
+116 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Melody](https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Melody](https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7) | 3:57 | 2023-01-20 |  |
 | [Mercy \(Sho Mo\)](https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Mercy \(Sho Mo\)](https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx) | 2:45 | 2022-11-18 | 2023-01-20 |
 | [Meto](https://open.spotify.com/track/14EvjEIycn85qYPwRLekr5) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW), [IGWE](https://open.spotify.com/artist/2VFULDBfmhd8oBrCNJ5WEG) | [Meto](https://open.spotify.com/album/5rFO9ALAdQq8wDFhdNdgS6) | 4:10 | 2022-06-30 | 2023-02-04 |
+| [Mighty God \- Live At Kairos Night](https://open.spotify.com/track/5ZkJihnxkWNFJA6l7NCpQt) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Mighty God \(Live At Kairos Night\)](https://open.spotify.com/album/4em67UPd4Q701rGceqOClt) | 7:04 | 2023-03-24 |  |
 | [Mine](https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Mine](https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN) | 3:23 | 2022-09-30 |  |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-02-03 |  |
 | [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 | 2022-06-30 | 2023-02-21 |
@@ -74,7 +75,7 @@
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2022-06-30 |  |
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 |  |
 | [Never Leave Me](https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Never Leave Me](https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG) | 2:40 | 2022-06-30 |  |
-| [Nhyira](https://open.spotify.com/track/1Xn4HToryYUuIPP1LJa8LQ) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [His Word](https://open.spotify.com/album/7k9GFfqeimzOkgR2nNYXlB) | 4:08 | 2022-06-30 |  |
+| [Nhyira](https://open.spotify.com/track/1Xn4HToryYUuIPP1LJa8LQ) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [His Word](https://open.spotify.com/album/7k9GFfqeimzOkgR2nNYXlB) | 4:08 | 2022-06-30 | 2023-03-30 |
 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 | 2022-06-30 | 2023-01-20 |
 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 | 2022-06-30 |  |
 | [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 | 2022-06-30 | 2023-03-04 |

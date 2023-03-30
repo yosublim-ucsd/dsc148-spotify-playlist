@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 150608,
+  "num_followers": 150667,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDcxNTZmN2E4YjM0MjNiMWNhOTIzNjczOWJiMjVjY2Fh",
+  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDNmZmMwMGM1NjJmMDFhYzFiZTA5MDBmNGNlYmYxOGU5",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Las No. 1 Instrumentales",
         "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 283573,
       "name": "Piano",
       "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -319,6 +319,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+      },
+      "artists": [
+        {
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -435,8 +435,8 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look for a Star",
-        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
+        "name": "Sail Along Silv'ry Moon",
+        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 135993,
-      "name": "Look for a Star",
-      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
+      "duration_ms": 129680,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -595,8 +595,8 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sail Along Silv'ry Moon",
-        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
+        "name": "Look for a Star",
+        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 129680,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
+      "duration_ms": 135993,
+      "name": "Look for a Star",
+      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Los Recuerdos Est\u00e1n Hechos de Esto Vol. 1",
         "url": "https://open.spotify.com/album/5aQPUujM556YFCGjR4FPof"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/2qQN7AqqDvUYbpjR7zidQm"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
-      },
-      "artists": [
-        {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
         "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 220240,
       "name": "Sleepy Shores",
       "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
         "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 204173,
       "name": "Somewhere In Time - Main Theme",
       "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Born Losers",
-        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
-      },
-      "artists": [
-        {
-          "name": "The Sidewalk Sounds",
-          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
-        }
-      ],
-      "duration_ms": 121333,
-      "name": "Billy Jack's Theme",
-      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
         "url": "https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 233333,
       "name": "Recuerdos De La Alhambra (with The Royal Philharmonic Orchestra)",
       "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Born Losers",
+        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
+      },
+      "artists": [
+        {
+          "name": "The Sidewalk Sounds",
+          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "Billy Jack's Theme",
+      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
+        "name": "Caravelli & His Orchestra",
+        "url": "https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ"
       },
       "artists": [
         {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+          "name": "Caravelli",
+          "url": "https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav"
         }
       ],
-      "duration_ms": 116400,
-      "name": "Java",
-      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
+      "duration_ms": 208960,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Caravelli & His Orchestra",
-        "url": "https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
       },
       "artists": [
         {
-          "name": "Caravelli",
-          "url": "https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav"
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL"
+      "duration_ms": 116400,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
     },
     {
       "added_at": "2020-12-08 19:02:01",

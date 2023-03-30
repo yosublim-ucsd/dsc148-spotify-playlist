@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-202 songs - 13 hr 1 min
+203 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cavaquinho](https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa) | [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Braziliana](https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST) | 2:13 | 2022-05-13 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2022-11-11 | 2022-11-13 |
 | [Chega de Saudade](https://open.spotify.com/track/5JltXlPJVIDwClIfnscM9v) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw) | 2:03 | 2022-05-13 | 2022-07-29 |
-| [Chega de Saudade](https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:03 | 2022-06-28 |  |
+| [Chega de Saudade](https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:03 | 2022-06-28 | 2023-03-30 |
 | [Cleopatra's Dream](https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V) | [Jonny Libonate](https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba) | [But Not for Me](https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE) | 3:08 | 2022-11-11 |  |
 | [Copacabana](https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Copacabana](https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE) | 3:35 | 2022-05-13 |  |
 | [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 | 2022-11-11 |  |
@@ -190,6 +190,7 @@
 | [Triste](https://open.spotify.com/track/0PHGV9pWYv91WCeCXhdWye) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:42 | 2022-05-13 |  |
 | [Unhappy Remark \(Palpite Infeliz\)](https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/0u32q4Evsx4fHtpkUUwodh) | 3:55 | 2022-05-13 | 2022-07-29 |
 | [Valle, M / Valle, P: So nice](https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Paulo Valle](https://open.spotify.com/artist/3aFqquhdDAG1uNtkTVdNKI), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Philippe Faurie](https://open.spotify.com/artist/4lA949N00pkYsq3xsvCd5f), [Richard Héry](https://open.spotify.com/artist/5fIfXCE9bblEKjtyo40NEm), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Brazil](https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs) | 4:24 | 2022-05-13 |  |
+| [Verano](https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verano](https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX) | 2:52 | 2023-03-23 |  |
 | [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 | 2023-03-15 |  |
 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 | 2022-11-11 |  |
 | [Voce Vai Ver](https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:52 | 2022-05-13 | 2022-08-19 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Thomas Rhett",
-  "num_followers": 436932,
+  "num_followers": 436991,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDExMjE3Y2IwMzcyNTY5ZjMwYjFiMWQ5ODI3NTBmYzRi",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDNjNTNlOTc3YTNkYjliYjE4ZTU3Zjk2OWQ4MGYyMWFl",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "The Way It Feels",
+        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Die From A Broken Heart",
+      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "The Way It Feels",
-        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Die From A Broken Heart",
-      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Ride the Lightning (717 Tapes)",
         "url": "https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 186458,
       "name": "Ride the Lightning - 717 Tapes",
       "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Worth A Shot (feat. Dierks Bentley)",
-        "url": "https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Worth A Shot (feat. Dierks Bentley)",
-      "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 178278,
       "name": "Beers And Sunshine",
       "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Worth A Shot (feat. Dierks Bentley)",
+        "url": "https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Worth A Shot (feat. Dierks Bentley)",
+      "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Throw It Back (feat. Keith Urban)",
-        "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Throw It Back (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 176146,
       "name": "Never Say Never (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Throw It Back (feat. Keith Urban)",
+        "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Throw It Back (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
     }
   ],
   "unique_name": "Country Favourites",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,883 likes - 120 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,153 likes - 120 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

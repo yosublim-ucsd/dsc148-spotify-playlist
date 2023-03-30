@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: 6LACK",
-  "num_followers": 1353944,
+  "num_followers": 1354257,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGM3YzA1MTM4NTc3ODkzMTYxNWY0MzQwOTI5MDM4ZWVm",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDFkM2U0YzNiNTEwMzVkOGI4ZGFhZDkwYjY3NmY1ZjUy",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "TODAY",
-        "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "TODAY",
-      "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "2 seater",
@@ -503,6 +487,22 @@
       "duration_ms": 65982,
       "name": "2 seater",
       "url": "https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "TODAY",
+        "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "TODAY",
+      "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -881,26 +881,6 @@
       "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Automatic (Orion Sun Remix)",
-        "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
-      },
-      "artists": [
-        {
-          "name": "Spencer.",
-          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 124736,
-      "name": "Automatic - Orion Sun Remix",
-      "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Circmvnt",
@@ -919,6 +899,26 @@
       "duration_ms": 220781,
       "name": "Luvaroq",
       "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Automatic (Orion Sun Remix)",
+        "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
+      },
+      "artists": [
+        {
+          "name": "Spencer.",
+          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 124736,
+      "name": "Automatic - Orion Sun Remix",
+      "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Enough",
@@ -991,6 +975,22 @@
       "duration_ms": 166156,
       "name": "Enough",
       "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -1085,26 +1085,6 @@
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "SUGAR DIVE",
-        "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
-      },
-      "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 194109,
-      "name": "SUGAR DIVE",
-      "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
-    },
-    {
       "added_at": "2023-02-24 05:23:50",
       "album": {
         "name": "Water My Heart (feat. Mereba)",
@@ -1125,20 +1105,24 @@
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
     },
     {
-      "added_at": "2022-07-24 02:54:27",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
+        "name": "SUGAR DIVE",
+        "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
       },
       "artists": [
         {
-          "name": "Kelz",
-          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 99454,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
+      "duration_ms": 194109,
+      "name": "SUGAR DIVE",
+      "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -1181,6 +1165,22 @@
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
     },
     {
+      "added_at": "2022-07-24 02:54:27",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
+      },
+      "artists": [
+        {
+          "name": "Kelz",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "duration_ms": 99454,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Another Life",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "THE PEACH",
@@ -1249,6 +1233,22 @@
       "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
+    },
+    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Selfish Soul",
@@ -1263,6 +1263,22 @@
       "duration_ms": 142666,
       "name": "Selfish Soul",
       "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Wild Animals",
+      "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 140556,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Girl In The Half Pearl",
-        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Wild Animals",
-      "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Gonna Go",
-        "url": "https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 177259,
-      "name": "Gonna Go",
-      "url": "https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Seltzer",
@@ -1383,6 +1367,22 @@
       "duration_ms": 184615,
       "name": "Seltzer",
       "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Gonna Go",
+        "url": "https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 177259,
+      "name": "Gonna Go",
+      "url": "https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/4GEL1AJUwD6BYlDxod9E4H"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
       "added_at": "2022-09-09 04:06:40",
       "album": {
         "name": "Like Neptune",
@@ -1571,6 +1555,22 @@
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Dreams 2 Reality",
@@ -1675,6 +1659,22 @@
       "duration_ms": 170937,
       "name": "Divide",
       "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1725,20 +1725,24 @@
       "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
-      "added_at": "2022-08-19 04:17:01",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq"
+        "name": "Mess Around (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/2uykIyf5aQOuwSfpfEo8zL"
       },
       "artists": [
         {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 213381,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
+      "duration_ms": 230557,
+      "name": "Mess Around (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP"
     }
   ],
   "unique_name": "Alternative R&B",

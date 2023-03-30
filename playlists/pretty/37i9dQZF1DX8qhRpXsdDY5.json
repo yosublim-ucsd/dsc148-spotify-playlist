@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 196926,
+  "num_followers": 196923,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMDkzMWY4ODQzN2ZhZTkzZTdjN2I0MjBmNDlmZTc0N2Jm",
+  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMDk3OWVmMDEzYWFmZTMwNWQ4OTBlMDIwNTY5ZGU1OTRi",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 221302,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
         "name": "Todos A Belen",
         "url": "https://open.spotify.com/album/0VVoCoNWhvrKXhG1W45W0u"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 257653,
       "name": "Son Tan Buenos Los Recuerdos",
       "url": "https://open.spotify.com/track/5gmaNKIe3nJrSnbyPjVP51"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 221302,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
     },
     {
       "added_at": "2022-12-19 23:50:20",

@@ -1,13 +1,69 @@
 {
   "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: RPT MCK",
-  "num_followers": 146327,
+  "num_followers": 146394,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM3MTgwNywwMDAwMDAwMDYwMmEwOTIwZjhhNDBhMDZkZTgwYWFkZDgyMzRiY2Qx",
+  "snapshot_id": "MTY4MDA3MDAxNCwwMDAwMDAwMGE5ODdlOGFmM2ZjMjBmMGNlNGM4NjUzMGQ5Yjg0MzBl",
   "tracks": [
+    {
+      "added_at": "2023-03-21 04:10:07",
+      "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
+    },
+    {
+      "added_at": "2023-03-21 04:10:07",
+      "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7"
+      },
+      "artists": [
+        {
+          "name": "MONSTAR",
+          "url": "https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8"
+        },
+        {
+          "name": "GREY-D",
+          "url": "https://open.spotify.com/artist/1DkeVIjKLcyWBdV47p2ogo"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "t\u00ecnh y\u00eau ch\u1eadm tr\u1ec5",
+      "url": "https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS"
+    },
+    {
+      "added_at": "2023-03-21 04:10:07",
+      "album": {
+        "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
+        "url": "https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ"
+      },
+      "artists": [
+        {
+          "name": "Madihu",
+          "url": "https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN"
+        },
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        }
+      ],
+      "duration_ms": 241919,
+      "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
+      "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
+    },
     {
       "added_at": "2023-03-21 04:10:07",
       "album": {
@@ -71,62 +127,6 @@
       "duration_ms": 192000,
       "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
       "url": "https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf"
-    },
-    {
-      "added_at": "2023-03-21 04:10:07",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        }
-      ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
-    },
-    {
-      "added_at": "2023-03-21 04:10:07",
-      "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7"
-      },
-      "artists": [
-        {
-          "name": "MONSTAR",
-          "url": "https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8"
-        },
-        {
-          "name": "GREY-D",
-          "url": "https://open.spotify.com/artist/1DkeVIjKLcyWBdV47p2ogo"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "t\u00ecnh y\u00eau ch\u1eadm tr\u1ec5",
-      "url": "https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS"
-    },
-    {
-      "added_at": "2023-03-21 04:10:07",
-      "album": {
-        "name": "Em \u0110\u1ed3ng \u00dd (I Do)",
-        "url": "https://open.spotify.com/album/1oZsMcVFQcEPyOqfiUgfd2"
-      },
-      "artists": [
-        {
-          "name": "\u0110\u1ee9c Ph\u00fac",
-          "url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs"
-        },
-        {
-          "name": "911",
-          "url": "https://open.spotify.com/artist/3H7pODXycF821OnRyAw2VT"
-        }
-      ],
-      "duration_ms": 203124,
-      "name": "Em \u0110\u1ed3ng \u00dd (I Do)",
-      "url": "https://open.spotify.com/track/0bgJPIvefuRnEU4MNJuJSA"
     },
     {
       "added_at": "2023-03-21 04:10:07",
@@ -195,6 +195,26 @@
     {
       "added_at": "2023-03-21 04:10:07",
       "album": {
+        "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
+        "url": "https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB"
+      },
+      "artists": [
+        {
+          "name": "T\u0103ng Duy T\u00e2n",
+          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
+        },
+        {
+          "name": "Ho\u00e0 Minzy",
+          "url": "https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
+      "url": "https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A"
+    },
+    {
+      "added_at": "2023-03-21 04:10:07",
+      "album": {
         "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
         "url": "https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 270643,
       "name": "Anh Ch\u01b0a Th\u01b0\u01a1ng Em \u0110\u1ebfn V\u1eady \u0110\u00e2u",
       "url": "https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7"
-    },
-    {
-      "added_at": "2023-03-21 04:10:07",
-      "album": {
-        "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
-        "url": "https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ"
-      },
-      "artists": [
-        {
-          "name": "Madihu",
-          "url": "https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN"
-        },
-        {
-          "name": "V\u0169.",
-          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
-        }
-      ],
-      "duration_ms": 241919,
-      "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
-      "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
     },
     {
       "added_at": "2023-03-21 04:10:07",
@@ -303,6 +303,26 @@
       "duration_ms": 166120,
       "name": "C\u00f4 G\u00e1i N\u00e0y L\u00e0 C\u1ee7a Ai? (feat. Rush & Nhi Nhi)",
       "url": "https://open.spotify.com/track/5sIgSa5Q1GEGWF0lrCQ0N6"
+    },
+    {
+      "added_at": "2023-03-21 04:10:07",
+      "album": {
+        "name": "Em \u0110\u1ed3ng \u00dd (I Do)",
+        "url": "https://open.spotify.com/album/1oZsMcVFQcEPyOqfiUgfd2"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1ee9c Ph\u00fac",
+          "url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs"
+        },
+        {
+          "name": "911",
+          "url": "https://open.spotify.com/artist/3H7pODXycF821OnRyAw2VT"
+        }
+      ],
+      "duration_ms": 203124,
+      "name": "Em \u0110\u1ed3ng \u00dd (I Do)",
+      "url": "https://open.spotify.com/track/0bgJPIvefuRnEU4MNJuJSA"
     },
     {
       "added_at": "2023-03-21 04:10:07",
@@ -643,26 +663,6 @@
     {
       "added_at": "2023-03-21 04:10:07",
       "album": {
-        "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
-        "url": "https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB"
-      },
-      "artists": [
-        {
-          "name": "T\u0103ng Duy T\u00e2n",
-          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
-        },
-        {
-          "name": "Ho\u00e0 Minzy",
-          "url": "https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
-      "url": "https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A"
-    },
-    {
-      "added_at": "2023-03-21 04:10:07",
-      "album": {
         "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
         "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 175255,
       "name": "T\u00ecnh Ca T\u00ecnh Ta",
       "url": "https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4"
-    },
-    {
-      "added_at": "2023-03-21 04:10:07",
-      "album": {
-        "name": "Th\u1ecb M\u1ea7u",
-        "url": "https://open.spotify.com/album/4cS8GtTlS8Q5SKrITbIvVB"
-      },
-      "artists": [
-        {
-          "name": "Ho\u00e0 Minzy",
-          "url": "https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8"
-        },
-        {
-          "name": "Masew",
-          "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
-        }
-      ],
-      "duration_ms": 205397,
-      "name": "Th\u1ecb M\u1ea7u",
-      "url": "https://open.spotify.com/track/2Nwi8X3bmgKU1zMQUsDTah"
     },
     {
       "added_at": "2023-03-21 04:10:07",

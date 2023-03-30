@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,974 likes - 47 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,985 likes - 47 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 9 | [Vengo Del Futuro](https://open.spotify.com/track/4mvtqRJpySaswY75a9WfVm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:16 |
 | 10 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
 | 11 | [No Te Olvido](https://open.spotify.com/track/02fOTpdqf477rKRoH4LeiD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 3:04 |
-| 12 | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf) | 3:34 |
+| 12 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 13 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 |
-| 14 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
+| 14 | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf) | 3:34 |
 | 15 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 |
 | 16 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
 | 17 | [16](https://open.spotify.com/track/55ftDFrREvV7yzdsoe55Hl) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:55 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 41 | [Kapitel 1.3 & Kapitel 2.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/6kHgcNWyUVCqOet4Yhgx3l) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:46 |
 | 42 | [La Mujer Perfecta \- En Vivo](https://open.spotify.com/track/4tCrl2uIZgACyuGTSvPcbM) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:30 |
 | 43 | [Kapitel 3.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/6s7OHMiFJb3AhF5LdLBOjg) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:25 |
-| 44 | [Kapitel 4.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/2XVVyz643oxZQTOLLOF42t) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 4:38 |
+| 44 | [Kapitel 5.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/1BdmIEWEmG9nwqzIHQnU9M) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 5:19 |
 | 45 | [Kapitel 3.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/7prZIfKOmh3he01CQT1IR5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 4:34 |
-| 46 | [Kapitel 5.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/1BdmIEWEmG9nwqzIHQnU9M) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 5:19 |
-| 47 | [Kapitel 5.3 & Kapitel 6.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/43ol5y74hLh1p3VPJnagBh) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:16 |
+| 46 | [Kapitel 4.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/2XVVyz643oxZQTOLLOF42t) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 4:38 |
+| 47 | [Kapitel 2.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/6Lax6hORnWTLolXwEBEZm8) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:52 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDBlYTRhMWNkYTM4YThhZWEzMjIxN2IyNDk4ZjUzYWJmNA==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDA5MGM2ZTZlZDNmMDQ4M2NjNzQzZTBhZDE2MjJiMTRkMw==`

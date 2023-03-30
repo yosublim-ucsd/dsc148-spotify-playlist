@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Alfonsina.",
-  "num_followers": 15210,
+  "num_followers": 15213,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMTgwMiwwMDAwMDAwMGQ1MmU4NzRmMzUxZjQ2MWI0Mjc4NjhkZTE1MDE1NzRh",
+  "snapshot_id": "MTY3OTYxMTgwMiwwMDAwMDAwMDk0MzFkM2ZiYjdlN2MxZTVjYWY0MDExZjNiODM4NGZi",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/555uSzxhjD72TQBEoPOfYT"
     },
     {
-      "added_at": "2023-03-29 05:28:24",
+      "added_at": "2023-03-30 01:22:47",
       "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Tu Color",
-        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Might Forgive You / Tkm",
         "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 249638,
       "name": "Might Forgive You",
       "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -593,7 +593,27 @@
       "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
     },
     {
-      "added_at": "2023-03-29 05:28:24",
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "NO MAS PROMESAS",
+        "url": "https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw"
+      },
+      "artists": [
+        {
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
+        },
+        {
+          "name": "Ill Quentin",
+          "url": "https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "SIN TITULOS (feat. Ill Quentin)",
+      "url": "https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc"
+    },
+    {
+      "added_at": "2023-03-30 01:22:47",
       "album": {
         "name": "\u00d3rbita",
         "url": "https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT"
@@ -615,26 +635,6 @@
       "duration_ms": 197933,
       "name": "\u00d3rbita",
       "url": "https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "NO MAS PROMESAS",
-        "url": "https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw"
-      },
-      "artists": [
-        {
-          "name": "Juan Lopez",
-          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
-        },
-        {
-          "name": "Ill Quentin",
-          "url": "https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "SIN TITULOS (feat. Ill Quentin)",
-      "url": "https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "7 canciones antes de que nos corten la luz",
-        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
-      },
-      "artists": [
-        {
-          "name": "DEFENSA",
-          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "BOTON",
         "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "7 canciones antes de que nos corten la luz",
+        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
+      },
+      "artists": [
+        {
+          "name": "DEFENSA",
+          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Cu\u00e1nto Falta",
         "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 240050,
       "name": "Cu\u00e1nto Falta",
       "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "pulso/yotuoro",
-        "url": "https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "pulso",
-      "url": "https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "pulso/yotuoro",
+        "url": "https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "pulso",
+      "url": "https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Diabla",
-        "url": "https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS"
-      },
-      "artists": [
-        {
-          "name": "Mu\u00f1ecas",
-          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
-        },
-        {
-          "name": "Diego Chamorro",
-          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
-        }
-      ],
-      "duration_ms": 345716,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/6UIvFuNTdRwxet1ha09tAE"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Les disques du bord de l'eau: Winter EP 2021",
         "url": "https://open.spotify.com/album/6PdsZ0lXptJ1cwutsHk7KL"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 310687,
       "name": "Del Tiempo - Original Mix",
       "url": "https://open.spotify.com/track/0gDKVCXvgaJj0tbf5TgyQ6"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1ecas",
+          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
+        },
+        {
+          "name": "Diego Chamorro",
+          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
+        }
+      ],
+      "duration_ms": 345716,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/6UIvFuNTdRwxet1ha09tAE"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Mejor no hablar de ciertas cosas",
-        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
-      },
-      "artists": [
-        {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
-        }
-      ],
-      "duration_ms": 300782,
-      "name": "Mejor no hablar de ciertas cosas",
-      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 235000,
       "name": "Mala",
       "url": "https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Mejor no hablar de ciertas cosas",
+        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
+      },
+      "artists": [
+        {
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+        }
+      ],
+      "duration_ms": 300782,
+      "name": "Mejor no hablar de ciertas cosas",
+      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Extra\u00f1o ser",
-        "url": "https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU"
+        "name": "soy gris",
+        "url": "https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC"
       },
       "artists": [
         {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
         }
       ],
-      "duration_ms": 247798,
-      "name": "Extra\u00f1o ser",
-      "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
+      "duration_ms": 180000,
+      "name": "soy gris",
+      "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1459,34 +1459,34 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "soy gris",
-        "url": "https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC"
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY"
       },
       "artists": [
         {
-          "name": "Catalina Bay\u00e1",
-          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+          "name": "Sof\u00eda Uzal",
+          "url": "https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd"
         }
       ],
-      "duration_ms": 180000,
-      "name": "soy gris",
-      "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
+      "duration_ms": 169227,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26"
     },
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Quem\u00e1ndome al Sol",
-        "url": "https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh"
+        "name": "Extra\u00f1o ser",
+        "url": "https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU"
       },
       "artists": [
         {
-          "name": "Axel Krygier",
-          "url": "https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF"
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
         }
       ],
-      "duration_ms": 201656,
-      "name": "Quem\u00e1ndome al Sol",
-      "url": "https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y"
+      "duration_ms": 247798,
+      "name": "Extra\u00f1o ser",
+      "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
     }
   ],
   "unique_name": "NE\u00d3N",

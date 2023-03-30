@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Catch the Queens of Bollywood. Cover- Neeti Mohan",
+  "description": "Reigning music queens to crowning princesses of Bollywood. Cover - Sunidhi Chauhan",
   "name": "EQUAL Bollywood",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0gPW9v2NYGnWzhz5I06ajD"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0rfAhUP8j7qarbiM6AyBga"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1bx6spmieE655BQvWdTYKA"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1fZSEDgHomhPmiDk1cyV2n"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3BrIC7D6rMMBvXp1Xpi77O"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5CSEaABQkS1hoLza0IpK2r"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7IC7D8HIUgBqPiKDpOFBQt"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7lmxu6XuLPcTfHtQdEsUk9"
@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+      },
+      "artists": [
+        {
+          "name": "Sohail Rana",
+          "url": "https://open.spotify.com/artist/3qOEJ6A1UQYy0qViPHHXxF"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Aaj Jane Ki Zid Na Karo",
+      "url": "https://open.spotify.com/track/10xpoX1VRYvPz9KwKtKbX4"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5XfOSDomcrv4lDvlrxknlt"
       },
@@ -244,7 +266,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 269032,
       "name": "Ae Dil Hai Mushkil Title Track (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/09OgnqJcTVQXiWTjgrkMIz"
@@ -299,6 +321,28 @@
     },
     {
       "album": {
+        "name": "Ragini Mms 2",
+        "url": "https://open.spotify.com/album/4FaSRAxBUEc4ovYBVVbQId"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros Anjjan",
+          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+        },
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213887,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/5c3mUtkS8FvumKaVkcpB0H"
+    },
+    {
+      "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
         "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
       },
@@ -337,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Chameli",
+        "url": "https://open.spotify.com/album/2KM6alMpwGJCiVnDNE6Z8C"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334053,
+      "name": "Bhage Re Mann",
+      "url": "https://open.spotify.com/track/2RktkeigsgvhuRNQl0ioGS"
+    },
+    {
+      "album": {
         "name": "Chaka Chak (From \"Atrangi Re\")",
         "url": "https://open.spotify.com/album/7bpePuWB0HBjVcosNkaVWd"
       },
@@ -360,6 +422,28 @@
       "duration_ms": 269780,
       "name": "Chaka Chak (From \"Atrangi Re\")",
       "url": "https://open.spotify.com/track/5pbOpE6CfRgGnPPZJSDfME"
+    },
+    {
+      "album": {
+        "name": "Roy",
+        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros Anjjan",
+          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+        },
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246100,
+      "name": "Chittiyaan Kalaiyaan",
+      "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
     },
     {
       "album": {
@@ -505,6 +589,32 @@
     },
     {
       "album": {
+        "name": "Ghodey Pe Sawaar (From \"Qala\")",
+        "url": "https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193832,
+      "name": "Ghodey Pe Sawaar (From \"Qala\")",
+      "url": "https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl"
+    },
+    {
+      "album": {
         "name": "Padmaavat",
         "url": "https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf"
       },
@@ -542,6 +652,32 @@
       "duration_ms": 243165,
       "name": "Girls Like To Swing",
       "url": "https://open.spotify.com/track/5JlZLXvZBEFD9u8OoJq6Yh"
+    },
+    {
+      "album": {
+        "name": "Halka Halka (From \"Fanney Khan\")",
+        "url": "https://open.spotify.com/album/58sXAhNuvqeQK02UiIh7de"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247381,
+      "name": "Halka Halka (From \"Fanney Khan\")",
+      "url": "https://open.spotify.com/track/44O26Gv1wQrlUj14PpTolM"
     },
     {
       "album": {
@@ -719,6 +855,36 @@
     },
     {
       "album": {
+        "name": "Tu Jhoothi Main Makkaar",
+        "url": "https://open.spotify.com/album/1t1gWslYejaaqicumEbdKU"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247714,
+      "name": "Maine Pi Rakhi Hai",
+      "url": "https://open.spotify.com/track/0OezGqk104NQrcaLpWuYL4"
+    },
+    {
+      "album": {
         "name": "Manike (From \"Thank God\")",
         "url": "https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3"
       },
@@ -768,6 +934,36 @@
       "duration_ms": 238103,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD"
+    },
+    {
+      "album": {
+        "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
+        "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Shamur",
+          "url": "https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164045,
+      "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
+      "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
     },
     {
       "album": {
@@ -838,6 +1034,24 @@
       "duration_ms": 289461,
       "name": "O Womaniya (Live)",
       "url": "https://open.spotify.com/track/1huBhQrh7Ki4G2D6yBz1FQ"
+    },
+    {
+      "album": {
+        "name": "Pushpa The Rise Part - 01",
+        "url": "https://open.spotify.com/album/5fSvW3ie7cwECAt9h9pgQl"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226313,
+      "name": "Oo Bolega Ya Oo Oo Bolega",
+      "url": "https://open.spotify.com/track/3eYJSa9PPW5f8piMpf1tMr"
     },
     {
       "album": {
@@ -929,6 +1143,80 @@
     },
     {
       "album": {
+        "name": "Psycho Saiyaan (From \"Saaho\")",
+        "url": "https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166461,
+      "name": "Psycho Saiyaan (From \"Saaho\")",
+      "url": "https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95"
+    },
+    {
+      "album": {
+        "name": "Vikrant Rona (HINDI)",
+        "url": "https://open.spotify.com/album/2hecU8zp7gJZtWTcqKqJyl"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "Ra Ra Rakkamma",
+      "url": "https://open.spotify.com/track/3pV3NgjOLKaPQLSW44CR0g"
+    },
+    {
+      "album": {
+        "name": "Raabta (Title Track) [From \"Raabta\"]",
+        "url": "https://open.spotify.com/album/4xju6tQ4eWUSxC7k7MAtUe"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297158,
+      "name": "Raabta (Title Track) [From \"Raabta\"]",
+      "url": "https://open.spotify.com/track/4e9dIemIXO8Tzg0k4aWujk"
+    },
+    {
+      "album": {
         "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
       },
@@ -977,6 +1265,110 @@
     },
     {
       "album": {
+        "name": "Ranjha (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228855,
+      "name": "Ranjha (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
+    },
+    {
+      "album": {
+        "name": "Shor in the City (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Tochi Raina",
+          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195253,
+      "name": "Saibo",
+      "url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR"
+    },
+    {
+      "album": {
+        "name": "Lootera",
+        "url": "https://open.spotify.com/album/3VrQeNAFHS4Vjl4uspl1s3"
+      },
+      "artists": [
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254699,
+      "name": "Sawaar Loon",
+      "url": "https://open.spotify.com/track/29YePgOxuPLfU7uZKxKf6w"
+    },
+    {
+      "album": {
+        "name": "Tu Jhoothi Main Makkaar",
+        "url": "https://open.spotify.com/album/1t1gWslYejaaqicumEbdKU"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236100,
+      "name": "Show Me The Thumka",
+      "url": "https://open.spotify.com/track/6Y1Dj1gxYqfPvAYtWPDBHZ"
+    },
+    {
+      "album": {
         "name": "Kabir Singh",
         "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
       },
@@ -992,7 +1384,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 236436,
       "name": "Tera Ban Jaunga",
       "url": "https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4"
@@ -1033,6 +1425,32 @@
     },
     {
       "album": {
+        "name": "Tip Tip (From \"Sooryavanshi\")",
+        "url": "https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250287,
+      "name": "Tip Tip (From \"Sooryavanshi\")",
+      "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"
+    },
+    {
+      "album": {
         "name": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
         "url": "https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM"
       },
@@ -1052,7 +1470,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 200991,
       "name": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
       "url": "https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp"

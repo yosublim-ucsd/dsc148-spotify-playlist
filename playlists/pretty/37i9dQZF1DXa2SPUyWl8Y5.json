@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 449298,
+  "num_followers": 449385,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGU2MmU3NDFlODNiMzU1N2JlMGNhY2RhNmRlOWRlOWU4",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDAzOGI4OWY0Mzc3ZGRiNjkzMzMwOGY0ODBmMzBjZmRi",
   "tracks": [
     {
       "added_at": "2023-01-13 13:30:00",
@@ -183,26 +183,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Petroleum (Fabio Vanore Remix)",
-        "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
-      },
-      "artists": [
-        {
-          "name": "Kris Davis",
-          "url": "https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY"
-        },
-        {
-          "name": "Fabio Vanore",
-          "url": "https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs"
-        }
-      ],
-      "duration_ms": 544957,
-      "name": "Petroleum - Fabio Vanore Remix",
-      "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 266730,
       "name": "Phases",
       "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Petroleum (Fabio Vanore Remix)",
+        "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
+      },
+      "artists": [
+        {
+          "name": "Kris Davis",
+          "url": "https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY"
+        },
+        {
+          "name": "Fabio Vanore",
+          "url": "https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs"
+        }
+      ],
+      "duration_ms": 544957,
+      "name": "Petroleum - Fabio Vanore Remix",
+      "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -303,18 +303,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+        "name": "Purple Days & Purple Nights",
+        "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
       "artists": [
         {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+          "name": "KlangTherapeuten",
+          "url": "https://open.spotify.com/artist/0QcOjrywD2cdYAZfbmeVCe"
+        },
+        {
+          "name": "Max Manie",
+          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
         }
       ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+      "duration_ms": 269531,
+      "name": "Purple Days",
+      "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -335,22 +339,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Purple Days & Purple Nights",
-        "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
       "artists": [
         {
-          "name": "KlangTherapeuten",
-          "url": "https://open.spotify.com/artist/0QcOjrywD2cdYAZfbmeVCe"
-        },
-        {
-          "name": "Max Manie",
-          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
         }
       ],
-      "duration_ms": 269531,
-      "name": "Purple Days",
-      "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
     },
     {
-      "added_at": "2023-03-29 05:40:04",
+      "added_at": "2023-03-30 01:38:39",
       "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
@@ -527,6 +527,26 @@
       "duration_ms": 308081,
       "name": "Close to the Edge",
       "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -567,22 +587,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
       },
       "artists": [
         {
-          "name": "Soul Button",
-          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
-        },
-        {
-          "name": "Rustboy",
-          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
         }
       ],
-      "duration_ms": 364918,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Infinity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 329032,
       "name": "Find You Again",
       "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
-    },
-    {
-      "added_at": "2023-03-29 05:40:04",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
-      },
-      "artists": [
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "GRAZZE",
-          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
-        }
-      ],
-      "duration_ms": 262926,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -687,6 +667,26 @@
       "duration_ms": 448770,
       "name": "June - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
+    },
+    {
+      "added_at": "2023-03-30 01:38:39",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "GRAZZE",
+          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
+        }
+      ],
+      "duration_ms": 262926,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -927,22 +927,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Loss/Bow To The Rain",
-        "url": "https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV"
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
       },
       "artists": [
         {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "Less Hate",
-          "url": "https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ"
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Loss",
-      "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+        "name": "Loss/Bow To The Rain",
+        "url": "https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV"
       },
       "artists": [
         {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Less Hate",
+          "url": "https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ"
         }
       ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+      "duration_ms": 225000,
+      "name": "Loss",
+      "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
     },
     {
-      "added_at": "2023-03-29 05:40:04",
-      "album": {
-        "name": "If I Had Wings",
-        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
-      },
-      "artists": [
-        {
-          "name": "Rauschhaus",
-          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
-        }
-      ],
-      "duration_ms": 420495,
-      "name": "If I Had Wings",
-      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
-    },
-    {
       "added_at": "2023-01-13 13:30:00",
       "album": {
         "name": "Rapture EP",
@@ -1109,6 +1093,22 @@
       "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
     },
     {
+      "added_at": "2023-03-30 01:38:39",
+      "album": {
+        "name": "If I Had Wings",
+        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
+      },
+      "artists": [
+        {
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
+        }
+      ],
+      "duration_ms": 420495,
+      "name": "If I Had Wings",
+      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
+    },
+    {
       "added_at": "2023-01-13 13:30:00",
       "album": {
         "name": "10 Years URSL - Reframed Future",
@@ -1123,26 +1123,6 @@
       "duration_ms": 425437,
       "name": "Reframed Future",
       "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Orchestra (Remixes)",
-        "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
-      },
-      "artists": [
-        {
-          "name": "Worakls",
-          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 412500,
-      "name": "Entrudo - Booka Shade Remix",
-      "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "Orchestra (Remixes)",
+        "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 412500,
+      "name": "Entrudo - Booka Shade Remix",
+      "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Dea Dia",
-        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 530979,
-      "name": "Dea Dia",
-      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 284187,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Dea Dia",
+        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 530979,
+      "name": "Dea Dia",
+      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
     },
     {
       "added_at": "2023-01-13 13:30:00",

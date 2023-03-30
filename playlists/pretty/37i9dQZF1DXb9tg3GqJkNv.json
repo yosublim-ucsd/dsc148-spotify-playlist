@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: KAYTRANADA",
-  "num_followers": 1101,
+  "num_followers": 1121,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyMzc2NSwwMDAwMDAwMDEzMzE5MmQ0ZDE1Y2RiYzg0NTQ0NzIxNWY0MDUzZDFj",
+  "snapshot_id": "MTY3OTYyMzc2NSwwMDAwMDAwMDQyMDRmY2FmMDc2NDYyNDI3NTM5MTQ0YjVmYzI2NTVj",
   "tracks": [
     {
       "added_at": "2023-03-24 02:09:25",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
+    },
+    {
+      "added_at": "2023-03-24 02:09:25",
+      "album": {
         "name": "002 / LOVE ME",
         "url": "https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN"
-    },
-    {
-      "added_at": "2023-03-24 02:09:25",
-      "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
-      },
-      "artists": [
-        {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
-        }
-      ],
-      "duration_ms": 198321,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
     },
     {
       "added_at": "2023-03-24 02:09:25",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
-        "name": "Repeat",
-        "url": "https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG"
-      },
-      "artists": [
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        },
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        }
-      ],
-      "duration_ms": 208991,
-      "name": "Repeat",
-      "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
-    },
-    {
-      "added_at": "2023-03-24 02:09:25",
-      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 245093,
       "name": "Realest In the City (feat. Meek Mill & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz"
+    },
+    {
+      "added_at": "2023-03-24 02:09:25",
+      "album": {
+        "name": "Repeat",
+        "url": "https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG"
+      },
+      "artists": [
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        },
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "duration_ms": 208991,
+      "name": "Repeat",
+      "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
     },
     {
       "added_at": "2023-03-24 02:09:25",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
-      },
-      "artists": [
-        {
-          "name": "LocoCity",
-          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "Job Done",
-      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
-    },
-    {
-      "added_at": "2023-03-24 02:09:25",
-      "album": {
         "name": "NightmareZ",
         "url": "https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 109446,
       "name": "NightmareZ",
       "url": "https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz"
+    },
+    {
+      "added_at": "2023-03-24 02:09:25",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
+      },
+      "artists": [
+        {
+          "name": "LocoCity",
+          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
+        }
+      ],
+      "duration_ms": 139213,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
     },
     {
       "added_at": "2023-03-24 02:09:25",

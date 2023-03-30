@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: SIRUP + Skaai + uin \*👉 <a href="https://spice.eplus.jp/articles/316198?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
+> 今週も話題の新曲を最速で。 Cover: SIRUP + Skaai + uin \*👉 <a href="https://spice.eplus.jp/articles/316521?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,360 likes - 68 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,464 likes - 69 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,17 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 54 | [Document](https://open.spotify.com/track/4LJidzx7SuW2lqDHkbApYh) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/0klLVAweT1Pxea8gSFxvW2) | 4:35 |
 | 55 | [空前絶後のジェネレーション](https://open.spotify.com/track/2XD0Fyup1w3s3Hej7h7G6M) | [Dumyy Lou](https://open.spotify.com/artist/5YdM8sVMtYW9BpkYiVVNcN) | [The Dumyy Lou](https://open.spotify.com/album/34yCoPGaslilVLqQrnvepi) | 1:43 |
 | 56 | [逆光](https://open.spotify.com/track/2skO0TsEvWhvcyFZMecHiD) | [AIRCRAFT](https://open.spotify.com/artist/56xP3O4YvqejlueiysaheO) | [逆光](https://open.spotify.com/album/2xi1cPT3wVznO0XPivoLLa) | 4:05 |
-| 57 | [桜小町\(feat.缶缶\)](https://open.spotify.com/track/2qLuqN1zsRZ3SrFkY8ydKF) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb), [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD) | [桜小町\(feat.缶缶\)](https://open.spotify.com/album/3fy0K8xPg0qvZJXSFHofmU) | 3:21 |
-| 58 | [Gravity](https://open.spotify.com/track/2WbhWMITV4H0pHjtxaNL64) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Gravity](https://open.spotify.com/album/7CgwLKs5MbzqhGxQAiXrgz) | 4:30 |
-| 59 | [SET ME FREE \(Lindgren Remix\) \(ENG\)](https://open.spotify.com/track/7K5LvTMS85SKWK6bYtHhAP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lindgren](https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 3:31 |
-| 60 | [LONELY LONELY \-ULTRA HEAVEN REMIX by ALI×鋭児\-](https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [鋭児](https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS) | [LONELY LONELY](https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh) | 6:26 |
-| 61 | [Kara Kara](https://open.spotify.com/track/470N0VSvBbMgoLXn7KvoNZ) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [Ice Cream Castle](https://open.spotify.com/artist/62OcnOfA8loH94d02kZhfn) | [Kara Kara](https://open.spotify.com/album/5rosWvMdxWGGHnP9LyVFaX) | 1:54 |
-| 62 | [Think About You](https://open.spotify.com/track/0eDnox8DdJF4f1ORvHzijh) | [NORTH](https://open.spotify.com/artist/48nDztq25G7XW2JF3iRD4y) | [Think About You](https://open.spotify.com/album/3TR8l6v9TkPrPKATuAyGF0) | 2:49 |
-| 63 | [各停で行こう](https://open.spotify.com/track/3kcEuewP2VldWBrKC5pNIr) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [各停で行こう](https://open.spotify.com/album/1mRuiPEhuXNmrv5LIbHIqX) | 2:47 |
-| 64 | [Invitation](https://open.spotify.com/track/5PXmlurbnMtI1Dt9ZOg5M1) | [Leon Top](https://open.spotify.com/artist/7fTmuayg1NszroLSD3TGpf) | [Invitation](https://open.spotify.com/album/1t9hrnuMwsuJ2BvJJigpRt) | 3:14 |
-| 65 | [Taion](https://open.spotify.com/track/664jBFz04MJNZEAVuUpBs3) | [NEMNE](https://open.spotify.com/artist/5ZUrPx2BfBk7xL3LbdFmFr) | [Taion](https://open.spotify.com/album/7zhe52wfOrQrY5LZdQoJj2) | 3:26 |
-| 66 | [guano](https://open.spotify.com/track/3HKwqinVhf5LBHpP1aFX95) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [guano](https://open.spotify.com/album/4B4oBMtq0iKiUr955gIMez) | 4:18 |
-| 67 | [Minari](https://open.spotify.com/track/7fSzV3YaugQjbfQJn1JOKf) | [Monenai](https://open.spotify.com/artist/3Z0IWHS1zD8VAjNoNqq4sB) | [Minari](https://open.spotify.com/album/712igKFozl7rB8zY3HqKiG) | 2:54 |
-| 68 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 |
+| 57 | [呼吸率](https://open.spotify.com/track/5Ll0FDp02V7fqi3x6pykqi) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [呼吸率](https://open.spotify.com/album/1uNlZms7aHHagkz2wHcnsk) | 2:50 |
+| 58 | [桜小町\(feat.缶缶\)](https://open.spotify.com/track/2qLuqN1zsRZ3SrFkY8ydKF) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb), [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD) | [桜小町\(feat.缶缶\)](https://open.spotify.com/album/3fy0K8xPg0qvZJXSFHofmU) | 3:21 |
+| 59 | [Gravity](https://open.spotify.com/track/2WbhWMITV4H0pHjtxaNL64) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Gravity](https://open.spotify.com/album/7CgwLKs5MbzqhGxQAiXrgz) | 4:30 |
+| 60 | [SET ME FREE \(Lindgren Remix\) \(ENG\)](https://open.spotify.com/track/7K5LvTMS85SKWK6bYtHhAP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lindgren](https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 3:31 |
+| 61 | [LONELY LONELY \-ULTRA HEAVEN REMIX by ALI×鋭児\-](https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [鋭児](https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS) | [LONELY LONELY](https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh) | 6:26 |
+| 62 | [Kara Kara](https://open.spotify.com/track/470N0VSvBbMgoLXn7KvoNZ) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [Ice Cream Castle](https://open.spotify.com/artist/62OcnOfA8loH94d02kZhfn) | [Kara Kara](https://open.spotify.com/album/5rosWvMdxWGGHnP9LyVFaX) | 1:54 |
+| 63 | [Think About You](https://open.spotify.com/track/0eDnox8DdJF4f1ORvHzijh) | [NORTH](https://open.spotify.com/artist/48nDztq25G7XW2JF3iRD4y) | [Think About You](https://open.spotify.com/album/3TR8l6v9TkPrPKATuAyGF0) | 2:49 |
+| 64 | [各停で行こう](https://open.spotify.com/track/3kcEuewP2VldWBrKC5pNIr) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [各停で行こう](https://open.spotify.com/album/1mRuiPEhuXNmrv5LIbHIqX) | 2:47 |
+| 65 | [Invitation](https://open.spotify.com/track/5PXmlurbnMtI1Dt9ZOg5M1) | [Leon Top](https://open.spotify.com/artist/7fTmuayg1NszroLSD3TGpf) | [Invitation](https://open.spotify.com/album/1t9hrnuMwsuJ2BvJJigpRt) | 3:14 |
+| 66 | [Taion](https://open.spotify.com/track/664jBFz04MJNZEAVuUpBs3) | [NEMNE](https://open.spotify.com/artist/5ZUrPx2BfBk7xL3LbdFmFr) | [Taion](https://open.spotify.com/album/7zhe52wfOrQrY5LZdQoJj2) | 3:26 |
+| 67 | [guano](https://open.spotify.com/track/3HKwqinVhf5LBHpP1aFX95) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [guano](https://open.spotify.com/album/4B4oBMtq0iKiUr955gIMez) | 4:18 |
+| 68 | [Minari](https://open.spotify.com/track/7fSzV3YaugQjbfQJn1JOKf) | [Monenai](https://open.spotify.com/artist/3Z0IWHS1zD8VAjNoNqq4sB) | [Minari](https://open.spotify.com/album/712igKFozl7rB8zY3HqKiG) | 2:54 |
+| 69 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 |
 
-Snapshot ID: `MTY4MDA2MjczMiwwMDAwMDAwMGQwMjNkYTkxMzg4YmU0NGM3NjUwNThkNjQxZGI2Njlm`
+Snapshot ID: `MTY4MDA4NDAwMCwwMDAwMDAwMGM4ZTEwY2IxOGUxMTM1YmVhNjVkMjVjM2Q0M2UwMDcz`

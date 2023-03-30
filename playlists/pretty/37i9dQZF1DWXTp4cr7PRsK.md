@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ogchaseb/">Chase B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,284 likes - 31 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,300 likes - 31 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 | 17 | [Ridin Strikers](https://open.spotify.com/track/6PHbWsTTlmQKF9i9VC1KFv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:45 |
 | 18 | [Reality Check](https://open.spotify.com/track/2p72O2JobPc9sVz520Hil5) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Reality Check](https://open.spotify.com/album/2ypwyxLk2t1LUWW6rKyePH) | 3:52 |
 | 19 | [Wavy \(Remix\) \[feat\. Travis Scott\]](https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 4:00 |
-| 20 | [Money Maker \(feat\. Lil Wayne\)](https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 2:58 |
-| 21 | [Respect It \(with Hit\-Boy feat\. Young Thug\)](https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:27 |
+| 20 | [Respect It \(with Hit\-Boy feat\. Young Thug\)](https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:27 |
+| 21 | [Money Maker \(feat\. Lil Wayne\)](https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 2:58 |
 | 22 | [Over Your Head](https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto \(Deluxe\)](https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR) | 3:06 |
 | 23 | [Barnacles](https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Barnacles](https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw) | 2:18 |
 | 24 | [Slidin](https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II \[CHOPPED NOT SLOPPED\]](https://open.spotify.com/album/263anqt2ayA25jSEXfs0i1) | 3:05 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 | 30 | [Almost There](https://open.spotify.com/track/4IfowS5OhB5DDYtuKmoo4v) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [PHOENIX MODE](https://open.spotify.com/album/3gp0vjA9L16pBIs0vrWzL9) | 3:15 |
 | 31 | [Luka/New President](https://open.spotify.com/track/0OIXxIL4UmAU0vO30lwEUY) | [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Without A Smile](https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr) | 3:04 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDE0MDczNTY2YmY1NTA0MWMyMTAxN2IxMDI0OTg3YTU3`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGIyMDFiODc1ZTlmNzk2YmRlNTMwYmEyMTg4NDlmODcz`

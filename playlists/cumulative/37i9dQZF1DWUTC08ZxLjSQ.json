@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Change Tomorrow",
+        "url": "https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn"
+      },
+      "artists": [
+        {
+          "name": "Jay Abo",
+          "url": "https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241939,
+      "name": "Change Tomorrow",
+      "url": "https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7"
+    },
+    {
+      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd"
       },

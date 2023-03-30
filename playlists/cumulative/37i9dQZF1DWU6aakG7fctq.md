@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Isra y Vale
 
-306 songs - 17 hr 8 min
+307 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [do re mi](https://open.spotify.com/track/0V90Q0ubClSBrxpAmxEytl) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [do re mi](https://open.spotify.com/album/4xBH1ldoCiXeiYwKf7rwRe) | 1:17 | 2022-04-01 | 2022-04-21 |
 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 | 2022-06-29 | 2022-09-07 |
 | [Don't Care](https://open.spotify.com/track/6TZUGi7lAOGfUyGKaIGJ4N) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Care](https://open.spotify.com/album/5V9xFMXmFn3EhDDeicghye) | 3:16 | 2021-11-18 | 2022-07-26 |
-| [eclipse de amor](https://open.spotify.com/track/6oU12RE1G6CxW8tHkYLiRl) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [eclipse de amor](https://open.spotify.com/album/1B0fg4RJtE53arBhogyE2B) | 2:51 | 2023-03-10 |  |
+| [eclipse de amor](https://open.spotify.com/track/6oU12RE1G6CxW8tHkYLiRl) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [eclipse de amor](https://open.spotify.com/album/1B0fg4RJtE53arBhogyE2B) | 2:51 | 2023-03-10 | 2023-03-30 |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2021-11-18 | 2022-11-25 |
 | [El Juego](https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [El Juego](https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH) | 2:48 | 2022-11-24 | 2023-01-07 |
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2022-12-09 |  |
@@ -111,6 +111,7 @@
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-11-18 | 2022-10-28 |
 | [Fuego \- A COLORS SHOW](https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Fuego \- A COLORS SHOW](https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k) | 3:19 | 2023-03-24 |  |
 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 | 2023-03-24 |  |
+| [Futuro Incierto](https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Futuro Incierto](https://open.spotify.com/album/4pFmMfwJjvoU8QKEJl7cRq) | 4:48 | 2023-03-24 |  |
 | [Ganas](https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Ganas](https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2) | 2:46 | 2022-10-27 | 2022-12-14 |
 | [Girasol](https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M) | [mi jardín](https://open.spotify.com/artist/2Wurz87TqcSpxiCTGDZPAo) | [Girasol](https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI) | 2:14 | 2022-01-10 | 2022-07-29 |
 | [Gobiérname](https://open.spotify.com/track/6Nh3jUe0llv1BsbyGraH5T) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Gobiérname](https://open.spotify.com/album/3cAjgVllvtmZAFN8xodK08) | 3:31 | 2022-09-06 | 2022-10-28 |

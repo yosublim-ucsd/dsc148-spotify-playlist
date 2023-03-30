@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 96561,
+  "num_followers": 96574,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU4MzYwMCwwMDAwMDAwMGI4NGQ4YmFmNWQ2NTlkNjMxMTRmYTFjZmY3MTg1ZmI5",
+  "snapshot_id": "MTY3OTU4MzYwMCwwMDAwMDAwMDI1OGU4ZGM5YmQyOThkZjAxYzVjYmM2MWJhNTIyYWRi",
   "tracks": [
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1201,7 +1201,7 @@
         }
       ],
       "duration_ms": 223200,
-      "name": "Brayford Odeon - Acoustic",
+      "name": "Brayford Odeon",
       "url": "https://open.spotify.com/track/3GaQZPrehbi2BCuBxNZPhI"
     },
     {
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Visiting Hours",
-        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Visiting Hours",
-      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "NIKI Acoustic Sessions: Head In The Clouds II",
         "url": "https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 208510,
       "name": "La La Lost You - Acoustic Version",
       "url": "https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "Visiting Hours",
+        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Visiting Hours",
+      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
       "artists": [
         {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 270400,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 149803,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
+        "name": "Heaven (Acoustic)",
+        "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 183644,
+      "name": "Heaven - Acoustic",
+      "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
         "name": "The Ones We Once Loved",
         "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 191826,
       "name": "Your Song - Bonus Track",
       "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     }
   ],
   "unique_name": "Acoustic Melodies Tokyo",

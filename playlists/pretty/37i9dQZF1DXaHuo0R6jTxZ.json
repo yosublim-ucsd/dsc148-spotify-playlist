@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 81727,
+  "num_followers": 81768,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcxOTU4OCwwMDAwMDAwMDUxMDgzOGQxMzE4Yjk4NjAwYzkzNTE1MDEwYzc5YTY2",
+  "snapshot_id": "MTY2OTcxOTU4OCwwMDAwMDAwMDk2ZDYyZjI1NWZlYTlkODc0MmRhZmZkYjNkYjMzZWVl",
   "tracks": [
     {
       "added_at": "2022-11-29 10:59:48",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "\u0641\u0631\u0642\u0629 \u0645\u064a\u0627\u0645\u064a 97",
-        "url": "https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ"
-      },
-      "artists": [
-        {
-          "name": "Miami Band",
-          "url": "https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "\u0634\u064a\u0644\u0648\u0647\u0627 \u0634\u064a\u0644\u0629",
-      "url": "https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "Ya Magnon",
         "url": "https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 272575,
       "name": "Ya Magnon",
       "url": "https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "\u0641\u0631\u0642\u0629 \u0645\u064a\u0627\u0645\u064a 97",
+        "url": "https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ"
+      },
+      "artists": [
+        {
+          "name": "Miami Band",
+          "url": "https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "\u0634\u064a\u0644\u0648\u0647\u0627 \u0634\u064a\u0644\u0629",
+      "url": "https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE"
     },
     {
       "added_at": "2022-11-29 10:59:48",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "Yashak Amar",
-        "url": "https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 372295,
-      "name": "Malhomsh Fel Tayeb",
-      "url": "https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "Sahra",
         "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 259666,
       "name": "A\u00efcha - Version Mixte",
       "url": "https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Yashak Amar",
+        "url": "https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 372295,
+      "name": "Malhomsh Fel Tayeb",
+      "url": "https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8"
     },
     {
       "added_at": "2022-11-29 10:59:48",
@@ -399,38 +399,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "Sahrany",
-        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Sahrany",
-      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
-        "name": "Nour El Chams",
-        "url": "https://open.spotify.com/album/6eugJv6YMD7lrYasmyOWOf"
-      },
-      "artists": [
-        {
-          "name": "Pascale Machaalani",
-          "url": "https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Nour El Chams",
-      "url": "https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "1, 2, 3 Soleils",
         "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 368933,
       "name": "Didi",
       "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Nour El Chams",
+        "url": "https://open.spotify.com/album/6eugJv6YMD7lrYasmyOWOf"
+      },
+      "artists": [
+        {
+          "name": "Pascale Machaalani",
+          "url": "https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Nour El Chams",
+      "url": "https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Sahrany",
+      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
     },
     {
       "added_at": "2022-11-29 10:59:48",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "Marasil",
-        "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 309942,
-      "name": "Marasil",
-      "url": "https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "Nubian Legends",
         "url": "https://open.spotify.com/album/2tkQvpsJdhTkF11z83PPuf"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 325120,
       "name": "Ah Yalali",
       "url": "https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Marasil",
+        "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 309942,
+      "name": "Marasil",
+      "url": "https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l"
     },
     {
       "added_at": "2022-11-29 10:59:48",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "Sahrany",
-        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "El Ayam El Helwa",
-      "url": "https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "Hayel",
         "url": "https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 232986,
       "name": "Ya Khsartaq Ya Alby",
       "url": "https://open.spotify.com/track/1EV6LK5yWxxCe7qtY2w0Rm"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Esa'aly",
+        "url": "https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Fouad & Haggag Abdul Rahman",
+          "url": "https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U"
+        }
+      ],
+      "duration_ms": 254955,
+      "name": "Esa'aly",
+      "url": "https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O"
     }
   ],
   "unique_name": "90s Arabic Hits",

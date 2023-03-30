@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,150 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,191 likes - 111 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 | 3 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 |
 | 4 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 |
 | 5 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 |
-| 6 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7MKc42QGjmI7HbZYnUokFj) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
+| 6 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
 | 7 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 |
 | 8 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 |
 | 9 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 |
@@ -108,5 +108,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 | 98 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 |
 | 99 | [Misquah Hills](https://open.spotify.com/track/1GQoCwdl4wQkg5ANrY7eGc) | [Stone Martyrs](https://open.spotify.com/artist/5TQiCNGub87gWCQRZuncKK) | [Agioi Deka](https://open.spotify.com/album/2FrbVqHALaeSUSfJ46sMes) | 3:19 |
 | 100 | [Standing Wave](https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Teegarden C](https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR) | 4:08 |
+| 101 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 |
+| 102 | [Transcendental Waves](https://open.spotify.com/track/0wHxhO1wW2Xa2sjszhpYfy) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Transcendental Waves](https://open.spotify.com/album/0R9tXgiJeGYi2qrWGh01E8) | 2:20 |
+| 103 | [Reflexion](https://open.spotify.com/track/5GYechptfXvISLcJKLMB0l) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Reflexion](https://open.spotify.com/album/75xsR4b1EL3pkChLyo1VGG) | 3:08 |
+| 104 | [Balm](https://open.spotify.com/track/0QluGNVWnSnUrc688kQwEN) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Balm](https://open.spotify.com/album/0kxlBRorKL49TM6f1VNnf2) | 3:12 |
+| 105 | [Sunchada](https://open.spotify.com/track/6hVfYrQuNBz9MT8Kk5JX0p) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Sunchada](https://open.spotify.com/album/2SLyvaAXcUDo3D2qWevpyj) | 3:27 |
+| 106 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 |
+| 107 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 |
+| 108 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 |
+| 109 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 |
+| 110 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 |
+| 111 | [Surficial](https://open.spotify.com/track/3Yf1WOs2Qmp26M0h81gJVr) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Surficial](https://open.spotify.com/album/06LUgatj9BWv7fuaGAGYjJ) | 2:34 |
 
 Snapshot ID: `MTY3OTYxNjA2MCwwMDAwMDAwMGRmNWE0OTcxYTRmOWRkZTk4MWI3NDJjNjY5YjdmYTMz`

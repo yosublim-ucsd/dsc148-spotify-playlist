@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jimin
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,764 likes - 79 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,768 likes - 79 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

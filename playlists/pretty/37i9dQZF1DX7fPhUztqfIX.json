@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 103576,
+  "num_followers": 103608,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMGVhZGI1YjRiY2UwOTdjOTlmNGFmN2Q3YThiNDk1MTJi",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDY1ZDc5ZGFkOGIwOWYzNjE0OTA1NWUyZjU5NjViN2E5",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Church Of The City (Live)",
         "url": "https://open.spotify.com/album/1eQch9c6HSlHyy9HJmGV1J"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 472093,
       "name": "Land Of The Living (You Don\u2019t Lie) - Live",
       "url": "https://open.spotify.com/track/6sfda4n7moZQvRtUHG3LwN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "What a Friend We Have in Jesus",
         "url": "https://open.spotify.com/album/5oiCKNE3Bxj6uSQ2LeeLum"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 274986,
       "name": "What a Friend We Have in Jesus",
       "url": "https://open.spotify.com/track/6FcRGaAH75N9aMVwjQzW7z"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "REBELS",
-        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 390579,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The Way Home",
         "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 186826,
       "name": "Only Have One",
       "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "REBELS",
+        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "duration_ms": 390579,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
+      },
+      "artists": [
+        {
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+        }
+      ],
+      "duration_ms": 320867,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
         "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
       },
@@ -2111,22 +2127,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
-      },
-      "artists": [
-        {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
-        }
-      ],
-      "duration_ms": 320867,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "As For Me & My House (Live)",
         "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
       },
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "He Wears A Crown (Live At CrossBridge)",
-        "url": "https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 312018,
-      "name": "He Wears A Crown - Live",
-      "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Altars",
         "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 321533,
       "name": "Both Sides",
       "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "He Wears A Crown (Live At CrossBridge)",
+        "url": "https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 312018,
+      "name": "He Wears A Crown - Live",
+      "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Kingdom Dreamers",
-        "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
-      },
-      "artists": [
-        {
-          "name": "KXC",
-          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
-        },
-        {
-          "name": "Tom Eccleshall",
-          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
-        }
-      ],
-      "duration_ms": 297070,
-      "name": "Kingdom Dreamers",
-      "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Holy Holy Here With Me (Live)",
         "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
       },
@@ -2299,6 +2279,46 @@
       "duration_ms": 297563,
       "name": "Holy Holy Here With Me - Live",
       "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Christ is Enough",
+        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
+      },
+      "artists": [
+        {
+          "name": "Dwell Songs",
+          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
+        },
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Christ is Enough",
+      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Kingdom Dreamers",
+        "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Tom Eccleshall",
+          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
+        }
+      ],
+      "duration_ms": 297070,
+      "name": "Kingdom Dreamers",
+      "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2335,26 +2355,6 @@
       "duration_ms": 240766,
       "name": "The King In All His Beauty",
       "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Christ is Enough",
-        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
-      },
-      "artists": [
-        {
-          "name": "Dwell Songs",
-          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
-        },
-        {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Christ is Enough",
-      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
     }
   ],
   "unique_name": "New & Bold",

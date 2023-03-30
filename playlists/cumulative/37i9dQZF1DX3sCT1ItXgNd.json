@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Marmi, Enol",
+  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Aitana",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+    },
+    {
+      "album": {
         "name": "Me He Pillao x Ti",
         "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
       },
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 178106,
       "name": "No Quiero A Nadie",
       "url": "https://open.spotify.com/track/3FPqolx3Gbz8bynQyKpnrJ"
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 237525,
       "name": "PLAYA DEL INGL\u00c9S",
       "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"

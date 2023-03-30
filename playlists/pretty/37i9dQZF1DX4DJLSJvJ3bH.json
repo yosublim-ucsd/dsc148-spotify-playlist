@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 105430,
+  "num_followers": 105416,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjczMjI0NiwwMDAwMDAwMDJjOTdhZGFlZDUzNjk0YWEzODUyNGYxN2ExYzBmYjY2",
+  "snapshot_id": "MTY3MjczMjI0NiwwMDAwMDAwMGYyOTRkNTljMWI2Y2U4YWZkNjc4ZTY4ZmZmM2M3MDFh",
   "tracks": [
     {
       "added_at": "2023-01-03 07:50:46",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 192420,
-      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Abide With Me",
         "url": "https://open.spotify.com/album/5zBhekiGUyciT3kBry7MRp"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 197744,
       "name": "Abide With Me",
       "url": "https://open.spotify.com/track/7qPYEUXACuFdUyywP24ZvO"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Magic Trio",
-          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
-        }
-      ],
-      "duration_ms": 163130,
-      "name": "The Chipmunk Song",
-      "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "My Favourite Time of Year",
         "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 242786,
       "name": "My Favourite Time of Year",
       "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Magic Trio",
+          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
+        }
+      ],
+      "duration_ms": 163130,
+      "name": "The Chipmunk Song",
+      "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
-        }
-      ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 138556,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 73034,
-      "name": "Up on the Housetop",
-      "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 73034,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
     },
     {
       "added_at": "2023-01-03 07:50:46",

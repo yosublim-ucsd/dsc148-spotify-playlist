@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-158 songs - 10 hr 44 min
+159 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Lost In The Grandeur \- Requiem Mass](https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem Mass \(Deluxe Edition\)](https://open.spotify.com/album/4fN6xfIrXPX8SMgcFU4A6h) | 4:00 | 2023-03-03 | 2023-03-05 |
 | [Lost Woman Blues \- \(Live at Mt Fuji Festival 2015 \- Sayonara Folks!\)](https://open.spotify.com/track/0cbjXXLwUlXGlXHU2rfaMh) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic: SERIOUSLY BAD MAGIC](https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay) | 5:46 | 2023-03-03 | 2023-03-25 |
 | [Magical Mystery Tour](https://open.spotify.com/track/5nKliAyd1vA7ojwU1W3eui) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Magical Mystery Tour](https://open.spotify.com/album/5VJWGEc9eVnU3NsAYvJdYk) | 2:58 | 2023-03-24 |  |
+| [Midsummer's Eve \(feat\. Tina Guo\)](https://open.spotify.com/track/6NYVHxzpSsvq4vy3EweKrD) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 4:27 | 2023-03-24 |  |
 | [MMM Simile \- Instrumental](https://open.spotify.com/track/3TZ9ZqA9qfra8i63cpDQvZ) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [\[Hwa Sa Show Vol.3\] MMM Simile](https://open.spotify.com/album/2xPznUnpJGiaIP1QrQnYAT) | 5:25 | 2023-03-03 | 2023-03-19 |
 | [MMM Simile \- Live ver.](https://open.spotify.com/track/0tyip3SICRMxPXitAbd1TS) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [\[Hwa Sa Show Vol.3\] MMM Simile](https://open.spotify.com/album/2xPznUnpJGiaIP1QrQnYAT) | 5:25 | 2023-03-03 | 2023-03-10 |
 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-03-03 | 2023-03-12 |
@@ -159,7 +160,7 @@
 | [We Work The Black Seam \- 1993 Version](https://open.spotify.com/track/5NXhCF9wQZGM7c3lUzTQZH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales \(Expanded Edition\)](https://open.spotify.com/album/5IKj6bT2X51L1xEuQhKcMC) | 6:08 | 2023-03-03 | 2023-03-04 |
 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 | 2023-03-03 | 2023-03-25 |
 | [Wicked Place](https://open.spotify.com/track/6hwEpA4b1XmlLv4x7TksbV) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Wicked Place](https://open.spotify.com/album/4ZVuN0AfvqrZCUWv5tyScu) | 5:00 | 2023-03-17 | 2023-03-25 |
-| [Willow](https://open.spotify.com/track/0Y3JU2NmksU7dd9iWxQFHd) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 3:51 | 2023-03-24 |  |
+| [Willow](https://open.spotify.com/track/0Y3JU2NmksU7dd9iWxQFHd) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 3:51 | 2023-03-24 | 2023-03-30 |
 | [Winner Takes All \(feat\. Alice Cooper\)](https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Winner Takes All \(feat\. Alice Cooper\)](https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ) | 3:25 | 2023-03-24 |  |
 | [WITH PRIDE](https://open.spotify.com/track/3VA8C7ViDQnDJxrscnW1ea) | [GALNERYUS](https://open.spotify.com/artist/3BNDjSD67jJE4fhxX1b2OV) | [BETWEEN DREAD AND VALOR](https://open.spotify.com/album/3SmknD92qODVEs7owlhTgI) | 4:48 | 2023-03-10 | 2023-03-22 |
 | [Woe \(I See It From Your Side\) \- Björk Remix](https://open.spotify.com/track/1cfLiIKKcBE2ReK1YW3Zu4) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Woe \(I See It From Your Side\) \[Björk Remix\]](https://open.spotify.com/album/385JXSHV11PUnppjIvepfb) | 3:44 | 2023-03-24 |  |

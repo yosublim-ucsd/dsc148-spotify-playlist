@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: The Panhandlers
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,340 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,428 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 71 | [The Bar Guy](https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Bar Guy](https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc) | 3:34 |
 | 72 | [Telling on My Heart](https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 3:37 |
 | 73 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
-| 74 | [Hood of That Car](https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Hood of That Car](https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ) | 3:18 |
+| 74 | [Don't It Make You Wanna Dance?](https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Josh Abbott Band and Friends, Vol\. 1](https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl) | 4:39 |
 | 75 | [Fine By Me](https://open.spotify.com/track/4X5GnkmymLagGzBmJRO0tf) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [Fine By Me](https://open.spotify.com/album/6Gnd8NfKh9x90a7lUURXZz) | 3:07 |
-| 76 | [Don't It Make You Wanna Dance?](https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Josh Abbott Band and Friends, Vol\. 1](https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl) | 4:39 |
+| 76 | [Hood of That Car](https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Hood of That Car](https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ) | 3:18 |
 | 77 | [Watered Down Whiskey](https://open.spotify.com/track/6F3ljY5dEQqgkinBfkffYc) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is for You](https://open.spotify.com/album/4JQRW8zHwam1pglpvoIxRy) | 3:28 |
 | 78 | [Sunny and 72 \- Extended Album Cut](https://open.spotify.com/track/2kovTGOIJ5HIEsXpbk1A12) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Cheaper Than the Truth](https://open.spotify.com/album/17fxEpm9d1gPl8RLkShdrZ) | 4:44 |
 | 79 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 91 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 | 92 | [West Texas Is The Best Texas](https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [West Texas Is The Best Texas](https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75) | 3:43 |
 | 93 | [Girl from Oklahoma](https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [Girl from Oklahoma](https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3) | 3:13 |
-| 94 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 |
-| 95 | [One of 'Em](https://open.spotify.com/track/44p9CEsVVIlKpBj8FF1QFe) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [One of 'Em](https://open.spotify.com/album/04wH6X2aDxsxp5dLeDp8eM) | 2:38 |
+| 94 | [One of 'Em](https://open.spotify.com/track/44p9CEsVVIlKpBj8FF1QFe) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [One of 'Em](https://open.spotify.com/album/04wH6X2aDxsxp5dLeDp8eM) | 2:38 |
+| 95 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 |
 | 96 | [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 |
 | 97 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 |
 | 98 | [Burnout](https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41), [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Burnout](https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE) | 4:02 |
 | 99 | [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 |
 | 100 | [Die Runnin'](https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Die Runnin'](https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5) | 3:11 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDM0MGIyYmM5ODcyYmNmNmVjMTgwYzk0OTRhZWIxZDVh`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGU0YzdkOTU3OWY1MmEzMWFjY2M4ZWNlMGU4OWI5MjQz`

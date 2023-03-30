@@ -1,15 +1,15 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: \bJuJu Secret(\uc8fc\uc8fc \uc2dc\ud06c\ub9bf)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 38004,
+  "num_followers": 38027,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTg5MDQyOSwwMDAwMDAwMDJiZjhjMzIzZTU4YmU5NDg5ZDkzZWMxYTA3NWQxMWJm",
+  "snapshot_id": "MTY3OTg5MDQyOSwwMDAwMDAwMGQ5OWNhNmFiN2IwYTUwNTdlMmI2MTU1MzA1NjM3MDEz",
   "tracks": [
     {
-      "added_at": "2023-03-29 05:10:05",
+      "added_at": "2023-03-30 00:51:14",
       "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "[#]",
-        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Naturalness",
         "url": "https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 200767,
       "name": "Someone like U",
       "url": "https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Love Note!",
-        "url": "https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Love Note!",
-      "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Lion Heart - The 5th Album",
         "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+        "name": "Love Note!",
+        "url": "https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq"
       },
       "artists": [
         {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
         }
       ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
+      "duration_ms": 194373,
+      "name": "Love Note!",
+      "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -883,6 +867,22 @@
       "duration_ms": 236746,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
-      },
-      "artists": [
-        {
-          "name": "LOO\u03a0\u0394 1/3",
-          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
-        }
-      ],
-      "duration_ms": 201409,
-      "name": "Rain 51db",
-      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "Rain 51db",
+      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "MOOD FOR LOVE",
-        "url": "https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls"
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
       "artists": [
         {
-          "name": "THE SOLUTIONS",
-          "url": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
         }
       ],
-      "duration_ms": 204012,
-      "name": "MOOD FOR LOVE",
-      "url": "https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT"
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1371,34 +1355,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
-        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
+        "name": "MOOD FOR LOVE",
+        "url": "https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls"
       },
       "artists": [
         {
-          "name": "Seoulmoon",
-          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
+          "name": "THE SOLUTIONS",
+          "url": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
         }
       ],
-      "duration_ms": 194772,
-      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
-      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 241144,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+      "duration_ms": 204012,
+      "name": "MOOD FOR LOVE",
+      "url": "https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1423,18 +1391,34 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Cristal Love",
-        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
       "artists": [
         {
-          "name": "En Sokum",
-          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 217058,
-      "name": "Cristal Love",
-      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
+      "duration_ms": 241144,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
+      },
+      "artists": [
+        {
+          "name": "Seoulmoon",
+          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
+        }
+      ],
+      "duration_ms": 194772,
+      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
+        "name": "Cristal Love",
+        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+      },
+      "artists": [
+        {
+          "name": "En Sokum",
+          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "Cristal Love",
+      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
         "name": "THE PARK IN THE NIGHT part three",
         "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
       },
@@ -1483,38 +1483,6 @@
       "duration_ms": 213150,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
-      },
-      "artists": [
-        {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
-        }
-      ],
-      "duration_ms": 190363,
-      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
-      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "AOA 4th Mini Album Good Luck",
-        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
-      },
-      "artists": [
-        {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
-        }
-      ],
-      "duration_ms": 236031,
-      "name": "10 Seconds",
-      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1535,22 +1503,34 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "New Wave City",
-        "url": "https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV"
+        "name": "AOA 4th Mini Album Good Luck",
+        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
       "artists": [
         {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
-        },
-        {
-          "name": "\uc2a4\ud398\uc774\uc2a4\uce74\uc6b0\ubcf4\uc774",
-          "url": "https://open.spotify.com/artist/0OIZ6VdAR9UGJ3UhfTpGYy"
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
         }
       ],
-      "duration_ms": 207398,
-      "name": "I Can't Let You Go (feat. Space Cowboy)",
-      "url": "https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th"
+      "duration_ms": 236031,
+      "name": "10 Seconds",
+      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
+      },
+      "artists": [
+        {
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+        }
+      ],
+      "duration_ms": 190363,
+      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
+      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1567,6 +1547,26 @@
       "duration_ms": 191587,
       "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
       "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "New Wave City",
+        "url": "https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV"
+      },
+      "artists": [
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        },
+        {
+          "name": "\uc2a4\ud398\uc774\uc2a4\uce74\uc6b0\ubcf4\uc774",
+          "url": "https://open.spotify.com/artist/0OIZ6VdAR9UGJ3UhfTpGYy"
+        }
+      ],
+      "duration_ms": 207398,
+      "name": "I Can't Let You Go (feat. Space Cowboy)",
+      "url": "https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th"
     },
     {
       "added_at": "2023-02-14 07:41:01",

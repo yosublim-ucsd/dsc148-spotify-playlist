@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 342207,
+  "num_followers": 342424,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMDBmOWI0OWQ3OTU0YTcyZGNhYjJlYTQ1MzAyMTkwNzA2",
+  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMDIxNzNjODAyZThjMzBjOTg1NTRmYTEzMjEzNGVhMjIy",
   "tracks": [
     {
       "added_at": "2023-03-23 10:18:42",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Morning Dance",
-        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
-      },
-      "artists": [
-        {
-          "name": "Amine Ayad",
-          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
-        }
-      ],
-      "duration_ms": 115124,
-      "name": "Morning Dance",
-      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "From Home",
         "url": "https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
+      },
+      "artists": [
+        {
+          "name": "Amine Ayad",
+          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
+        }
+      ],
+      "duration_ms": 115124,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Midsommarnatt",
-        "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
-      },
-      "artists": [
-        {
-          "name": "Christian Peterson-Bergling",
-          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Sommarvals",
-      "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "A Bad Dream That Will Pass Away",
         "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 176000,
       "name": "A Bad Dream That Will Pass Away",
       "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Midsommarnatt",
+        "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Sommarvals",
+      "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Mist",
-        "url": "https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Keen",
-          "url": "https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE"
-        }
-      ],
-      "duration_ms": 122698,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Estelle",
         "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 118500,
       "name": "Estelle",
       "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Mist",
+        "url": "https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Keen",
+          "url": "https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE"
+        }
+      ],
+      "duration_ms": 122698,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 127835,
       "name": "along the path",
       "url": "https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
         "name": "Sand Time",
         "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 143000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
-      },
-      "artists": [
-        {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Meditabundus",
-        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
-      },
-      "artists": [
-        {
-          "name": "Kellen Chase",
-          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Meditabundus",
-      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Mullaghmore",
         "url": "https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr"
       },
@@ -1295,22 +1279,6 @@
       "duration_ms": 122766,
       "name": "Mullaghmore",
       "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Evenings",
-        "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
-      },
-      "artists": [
-        {
-          "name": "Richard Sauzal",
-          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
-        }
-      ],
-      "duration_ms": 112152,
-      "name": "Evenings",
-      "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1331,6 +1299,22 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
+        "name": "Evenings",
+        "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
+      },
+      "artists": [
+        {
+          "name": "Richard Sauzal",
+          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
+        }
+      ],
+      "duration_ms": 112152,
+      "name": "Evenings",
+      "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
         "name": "Wolken Traum",
         "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 152690,
       "name": "Sternennacht",
       "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Meditabundus",
+        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
+      },
+      "artists": [
+        {
+          "name": "Kellen Chase",
+          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Meditabundus",
+      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/50svMr0LINrszUhzYD4vmK"
+        "name": "Om \u00e4n bara f\u00f6r en stund",
+        "url": "https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH"
       },
       "artists": [
         {
-          "name": "Sabr Alptekin",
-          "url": "https://open.spotify.com/artist/63kbSX61U1d74efq90Nqva"
+          "name": "Maya \u00c5str\u00f6m",
+          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
         }
       ],
-      "duration_ms": 108800,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6JQYaWXutl3Dqul7H5Zif0"
+      "duration_ms": 158591,
+      "name": "Om \u00e4n bara f\u00f6r en stund",
+      "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Om \u00e4n bara f\u00f6r en stund",
-        "url": "https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/50svMr0LINrszUhzYD4vmK"
       },
       "artists": [
         {
-          "name": "Maya \u00c5str\u00f6m",
-          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
+          "name": "Sabr Alptekin",
+          "url": "https://open.spotify.com/artist/63kbSX61U1d74efq90Nqva"
         }
       ],
-      "duration_ms": 158591,
-      "name": "Om \u00e4n bara f\u00f6r en stund",
-      "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
+      "duration_ms": 108800,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6JQYaWXutl3Dqul7H5Zif0"
     },
     {
       "added_at": "2023-03-23 10:18:42",

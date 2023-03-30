@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Tiago PZK en portada.",
-  "num_followers": 94840,
+  "num_followers": 94865,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY4ODkyMiwwMDAwMDAwMDA1OWEyMmUxZTIzYjlhYzVmNjI3ZTM5ODczZGRhOTdl",
+  "snapshot_id": "MTY3OTY4ODkyMiwwMDAwMDAwMGYyMmVlOTUwYWNhNjM3ZjgyOWVkY2M0NTQyZjJjYjY2",
   "tracks": [
     {
       "added_at": "2023-03-09 22:02:47",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9"
     },
     {
-      "added_at": "2023-03-09 22:02:47",
-      "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
       "added_at": "2023-03-17 06:00:00",
       "album": {
         "name": "Nico Valdi produciendo a Juli Martorell",
@@ -507,6 +491,22 @@
       "duration_ms": 164854,
       "name": "Nico Valdi produciendo a Juli Martorell",
       "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
+    },
+    {
+      "added_at": "2023-03-09 22:02:47",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
     },
     {
       "added_at": "2023-03-09 22:02:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-09 22:02:47",
       "album": {
-        "name": "Let Me Down Slow",
-        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Let Me Down Slow",
-      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
-    },
-    {
-      "added_at": "2023-03-09 22:02:47",
-      "album": {
         "name": "ahora A.K.A NAO",
         "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "added_at": "2023-03-09 22:02:47",
+      "album": {
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
       "added_at": "2023-03-09 22:02:47",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-09 22:02:47",
       "album": {
-        "name": "Not The One",
-        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
-    },
-    {
-      "added_at": "2023-03-09 22:02:47",
-      "album": {
         "name": "Quiz\u00e1s",
         "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 248550,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"
+    },
+    {
+      "added_at": "2023-03-09 22:02:47",
+      "album": {
+        "name": "Not The One",
+        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
     },
     {
       "added_at": "2023-03-09 22:02:47",

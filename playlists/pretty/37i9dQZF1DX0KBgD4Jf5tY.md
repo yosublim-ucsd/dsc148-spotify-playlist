@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:2QwnSHVij7aOFnIb1UVAF6">NARA</a>
+> Solo musica indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:2QwnSHVij7aOFnIb1UVAF6">NARA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,707 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,715 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Argento vivo](https://open.spotify.com/track/1a5UVlEtACRTXfPlpXHASb) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Argento vivo](https://open.spotify.com/album/0CgUv0dBRgF308paw3iQEF) | 2:36 |
 | 50 | [piedixterra](https://open.spotify.com/track/3pjRBRPgpLonKovRM3IEKe) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [piedixterra](https://open.spotify.com/album/1Idmo4y713JrQhFTNaWzEb) | 3:18 |
 
-Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMGVlZGI5YmE2ZGFkZWU2MWU5ZTVkNDVhZWI1NGYwNWVi`
+Snapshot ID: `MTY4MDA4NTUzNCwwMDAwMDAwMDNhOTYwYjJkZDcwOWNhODhiNzMxMWUzNGQ5Y2FhOWFk`

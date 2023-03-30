@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Armin van Buuren
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,326 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,898 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 24 | [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 |
 | 25 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 |
 | 26 | [Rave Love](https://open.spotify.com/track/0YHL0wDP6b7ov6h0yEhorO) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [SONJA](https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs) | [Rave Love](https://open.spotify.com/album/2OHcuJm8NlukM33GBSQUke) | 3:09 |
-| 27 | [Liang](https://open.spotify.com/track/3IJbDajiJ4EUu1iGsNzrqU) | [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Liang](https://open.spotify.com/album/46nV6goAp3URwXLErMs13s) | 2:30 |
-| 28 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 |
+| 27 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 |
+| 28 | [Liang](https://open.spotify.com/track/3IJbDajiJ4EUu1iGsNzrqU) | [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Liang](https://open.spotify.com/album/46nV6goAp3URwXLErMs13s) | 2:30 |
 | 29 | [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 |
 | 30 | [Safe](https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Safe](https://open.spotify.com/album/5edtT743uNFxgxSkITKKF3) | 3:45 |
 | 31 | [Annihilate](https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Annihilate](https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk) | 2:45 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 72 | [Apex](https://open.spotify.com/track/2rkYtkOUorjiLp4kDdnOzk) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Apex](https://open.spotify.com/album/39DFgihpiauLPgVncx2g4J) | 4:21 |
 | 73 | [Bassman](https://open.spotify.com/track/0X8PiJHcTFmmUwsGpvtFik) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Bassman](https://open.spotify.com/album/0DqcG0ERIGT3N9R5WtReg9) | 2:40 |
 | 74 | [Olé Olé](https://open.spotify.com/track/4jYDL5IFimcik9CHFePKnW) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Olé Olé](https://open.spotify.com/album/4duh0AQSzCu8nfx78E6GZ8) | 2:45 |
-| 75 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
+| 75 | [Whiskey Is My Holy Water](https://open.spotify.com/track/06BqWvPX05oFRxpMlNZZjh) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Whiskey Is My Holy Water](https://open.spotify.com/album/7s2Rdu06bmjbS4sKA50KKN) | 2:18 |
 | 76 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
-| 77 | [Whiskey Is My Holy Water](https://open.spotify.com/track/06BqWvPX05oFRxpMlNZZjh) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Whiskey Is My Holy Water](https://open.spotify.com/album/7s2Rdu06bmjbS4sKA50KKN) | 2:18 |
+| 77 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
 | 78 | [Burn It To The Ground \(feat\. Jay Mason\)](https://open.spotify.com/track/0MKp1X6mSiufIbIalTzgTn) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Burn It To The Ground \(feat\. Jay Mason\)](https://open.spotify.com/album/1PkH2IioGVPWzd0Jmh2Wk3) | 2:54 |
 | 79 | [Ride With Me \(feat\. Kid Ink\) \- Blasterjaxx & Tungevaag Remix](https://open.spotify.com/track/5A72ceCUwcsMUqkzd5t5Nu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Ride With Me \(feat\. Kid Ink\) \[Blasterjaxx & Tungevaag Remix\]](https://open.spotify.com/album/4aelIqUCHvwZEigEXvL6SI) | 2:56 |
 | 80 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 |
 
-Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMGVkYTliZTJmYzQ4YzcwM2I4ZjcyMjA1MmM2NGEzZDhj`
+Snapshot ID: `MTY3OTYxMjQ2MCwwMDAwMDAwMDViMTVhMDRlYTAyMDUwNGRmNDJmZjA2MDAwZDg3ODI4`

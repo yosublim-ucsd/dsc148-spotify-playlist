@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,548 likes - 104 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,571 likes - 104 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

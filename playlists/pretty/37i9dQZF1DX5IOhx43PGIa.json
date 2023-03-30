@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: beabadoobee.",
-  "num_followers": 260823,
+  "num_followers": 260891,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA2ODgwMCwwMDAwMDAwMGFlYmUzNmVlMmU1ODRlMWQ2YWVmN2U5OWExOTY4NTU4",
+  "snapshot_id": "MTY3OTA2ODgwMCwwMDAwMDAwMGVmMzE1MzE2ZDU4MDUyNTNlM2ZjNjM2MDAzZWM0NWJl",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
     },
     {
-      "added_at": "2023-03-29 04:50:01",
+      "added_at": "2023-03-30 01:28:36",
       "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
-      "added_at": "2023-03-29 04:50:01",
+      "added_at": "2023-03-30 01:28:36",
       "album": {
         "name": "star",
         "url": "https://open.spotify.com/album/6jyL2W13lASK3XF2AYlSBI"
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Gotta Get Back (feat. Pink Sweat$)",
         "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 179333,
       "name": "Gotta Get Back (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "VIVID",
         "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 248500,
       "name": "end credits",
       "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Done (Let's Get It)",
-        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
+        "name": "liar",
+        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 172613,
-      "name": "Done (Let\u2019s Get It)",
-      "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+        "name": "Done (Let's Get It)",
+        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+      "duration_ms": 172613,
+      "name": "Done (Let\u2019s Get It)",
+      "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "SUGAR DIVE",
-        "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
-      },
-      "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 194109,
-      "name": "SUGAR DIVE",
-      "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1611,22 +1591,6 @@
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "rollercoaster",
-        "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 151090,
-      "name": "rollercoaster",
-      "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1647,6 +1611,42 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "rollercoaster",
+        "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 151090,
+      "name": "rollercoaster",
+      "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "SUGAR DIVE",
+        "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 194109,
+      "name": "SUGAR DIVE",
+      "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "House We Share",
         "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
       },
@@ -1659,26 +1659,6 @@
       "duration_ms": 167453,
       "name": "House We Share",
       "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "honest (feat. moon tang)",
-        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        },
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "honest (feat. moon tang)",
-      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1699,6 +1679,26 @@
       "duration_ms": 166465,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "honest (feat. moon tang)",
+        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "honest (feat. moon tang)",
+      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "bayou",
-        "url": "https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "bayou",
-      "url": "https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "CAGE SCRIPT",
         "url": "https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 170476,
       "name": "THREE IN THE MORNING",
       "url": "https://open.spotify.com/track/36iU4gfHhUbjwk88kZAwgW"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "bayou",
+        "url": "https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "bayou",
+      "url": "https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "At Least I Had You",
+        "url": "https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 203006,
+      "name": "At Least I Had You",
+      "url": "https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Firetruck",
         "url": "https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN"
       },
@@ -2059,26 +2079,6 @@
       "duration_ms": 173454,
       "name": "Trust Yourself",
       "url": "https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "At Least I Had You",
-        "url": "https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 203006,
-      "name": "At Least I Had You",
-      "url": "https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2133,7 +2133,7 @@
       "url": "https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ"
     },
     {
-      "added_at": "2023-03-29 04:50:01",
+      "added_at": "2023-03-30 01:28:36",
       "album": {
         "name": "Flying Fish",
         "url": "https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl"
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Silly Love Songs",
+        "url": "https://open.spotify.com/album/5FZm6Nj2ulvZCo63obL8rx"
+      },
+      "artists": [
+        {
+          "name": "Jack Kwon",
+          "url": "https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld"
+        }
+      ],
+      "duration_ms": 118526,
+      "name": "Silly Love Songs",
+      "url": "https://open.spotify.com/track/6KEF78ngLEdX2lZ1kgiqOZ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Someday (feat. Sam Kim)",
         "url": "https://open.spotify.com/album/4ItcJtnRE5VsN9jJVk9CRA"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 250016,
       "name": "Someday (feat. Sam Kim)",
       "url": "https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Silly Love Songs",
-        "url": "https://open.spotify.com/album/5FZm6Nj2ulvZCo63obL8rx"
-      },
-      "artists": [
-        {
-          "name": "Jack Kwon",
-          "url": "https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld"
-        }
-      ],
-      "duration_ms": 118526,
-      "name": "Silly Love Songs",
-      "url": "https://open.spotify.com/track/6KEF78ngLEdX2lZ1kgiqOZ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        }
+      ],
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "MCQUEEN",
         "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
       },
@@ -2463,18 +2479,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "A Mere Blip In Your Timeline",
-        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+        "name": "Galipette (BIBI Remix)",
+        "url": "https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus"
       },
       "artists": [
         {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 206390,
-      "name": "A Mere Blip In Your Timeline",
-      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
+      "duration_ms": 122638,
+      "name": "Galipette - BIBI Remix",
+      "url": "https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2499,26 +2519,6 @@
       "duration_ms": 160443,
       "name": "lie to me",
       "url": "https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Galipette (BIBI Remix)",
-        "url": "https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus"
-      },
-      "artists": [
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 122638,
-      "name": "Galipette - BIBI Remix",
-      "url": "https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2627,6 +2627,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Nobody Sees Me Like You Do",
+        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 211635,
+      "name": "Nobody Sees Me Like You Do",
+      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Under The Rose",
         "url": "https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT"
       },
@@ -2643,22 +2659,6 @@
       "duration_ms": 230842,
       "name": "Me & Mrs. Wong",
       "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Nobody Sees Me Like You Do",
-        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 211635,
-      "name": "Nobody Sees Me Like You Do",
-      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
     }
   ],
   "unique_name": "Jasmine",

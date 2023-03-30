@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,398 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,408 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 22 | [Alive Again](https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:59 |
 | 23 | [Unconditional \- Live](https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Lamb of God \(Live\)](https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1) | 6:15 |
 | 24 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 |
-| 25 | [Joyful Noise](https://open.spotify.com/track/2OUV9Ryjnat1z8w1C0Igb0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:12 |
-| 26 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
+| 25 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
+| 26 | [Joyful Noise](https://open.spotify.com/track/2OUV9Ryjnat1z8w1C0Igb0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:12 |
 | 27 | [No Body \(feat\. Matt Maher\)](https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:06 |
 | 28 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |
 | 29 | [Your Grace Is Enough/Here I Am Lord \(Live\)](https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 6:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [It's You \- Tide Electric Remix](https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Tide Electric](https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 3:58 |
 | 50 | [The Answer Is Yes](https://open.spotify.com/track/6Y20ove4oX9Qh7vf4YVS0q) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:29 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDA5YWMwNzA0MGZhNjVlZDhiYWYwMmZhNTc4NzM3YzdmYQ==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDA2ZDI5YzQ5ZGJlODI2NmMzZGVlZDRmYjA4NTM0MjQzNA==`

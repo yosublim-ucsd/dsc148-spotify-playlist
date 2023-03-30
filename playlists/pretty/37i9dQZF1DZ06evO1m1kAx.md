@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,480 likes - 49 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,483 likes - 49 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 25 | [Raindrops](https://open.spotify.com/track/4cpQzHK4clbqMSQ1xBDpMY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 4:49 |
 | 26 | [Oya Come Make We Go](https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Oya Come Make We Go](https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1) | 4:19 |
 | 27 | [Ihe Ne Me](https://open.spotify.com/track/1A2wFAONqaU2BrzmFVqZQS) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 4:13 |
-| 28 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
+| 28 | [Suffer Head](https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:19 |
 | 29 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 |
-| 30 | [Suffer Head](https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:19 |
+| 30 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
 | 31 | [Higher \(Spiritual Healing\)](https://open.spotify.com/track/5IUBYuJQMaGUadUNws4czB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Huma Lara](https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:55 |
 | 32 | [Iworiwo](https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Living In Bondage: Breaking Free \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI) | 4:02 |
 | 33 | [Right Here](https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:48 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 44 | [Holy Holy](https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Holy Holy](https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS) | 4:27 |
 | 45 | [Siren \(feat\. 2Baba\)](https://open.spotify.com/track/7rzy41sQdrUDQ0DLGPq0Np) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Reality CHQ](https://open.spotify.com/album/1CdeE7uNA1vP0BpManopra) | 3:25 |
 | 46 | [Geshomo](https://open.spotify.com/track/5UrFUR3rGEuDQaKTQi4RQR) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Geshomo](https://open.spotify.com/album/5kDSduetHJQi0aCLtrBaXm) | 3:46 |
-| 47 | [Aristo](https://open.spotify.com/track/6AAipw8PkaB8SlVBIikMpC) | [Big A](https://open.spotify.com/artist/1xndT3Oq2C8Qb8IMLM4JK6), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Aristo](https://open.spotify.com/album/0bsISehIzYZbf0rtAWWele) | 2:56 |
-| 48 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
+| 47 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
+| 48 | [Aristo](https://open.spotify.com/track/6AAipw8PkaB8SlVBIikMpC) | [Big A](https://open.spotify.com/artist/1xndT3Oq2C8Qb8IMLM4JK6), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Aristo](https://open.spotify.com/album/0bsISehIzYZbf0rtAWWele) | 2:56 |
 | 49 | [Thank You Lord](https://open.spotify.com/track/04DolW3ekpEkVDL5fb26Y3) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:07 |
 
-Snapshot ID: `MjgwMDAyMzUsMDAwMDAwMDAyZDdlMTdiYzY0YTU0NzgwYTA3OWI1ZmU1ZWM1ZjAxYw==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDBhNWMxMTdmYjQ0MzIxZTI2NDJmOTkzMWY3YjRmZDAxYQ==`

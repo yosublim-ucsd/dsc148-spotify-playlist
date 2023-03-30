@@ -4,7 +4,7 @@
 
 > A creepy collection of scary sounds
 
-98 songs - 5 hr 20 min
+99 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Crow's Nest](https://open.spotify.com/track/7JsglBJE59Fp4ioRP3RAs0) | [Hell on Halloween](https://open.spotify.com/artist/4tUZxqyxEFaXK1XAT8uqcl) | [Midnight Haunting](https://open.spotify.com/album/03YPB9DDVhuZ35nt4USxyq) | 3:48 | 2022-10-24 |  |
 | [Dark Forest](https://open.spotify.com/track/6Jt5y3oAOHMPqBu1E4glNE) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:39 | 2022-10-24 |  |
 | [Dark of Night](https://open.spotify.com/track/3VZOAFqxNdfKtBDTX19vM0) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Ambience](https://open.spotify.com/album/17rnMzoPcedRwZvV5KIRBC) | 4:38 | 2022-10-24 |  |
-| [Dark Tone Creepy Laughs](https://open.spotify.com/track/6iolLAJWju2Zg7ChdYYvec) | [Halloween Sounds \(REMOVED\)](https://open.spotify.com/artist/6aS5IL4cmXbjl81JWjaMgv) | [Spooky Halloween](https://open.spotify.com/album/5D27AbxVVpxiqvicoeeiFa) | 0:33 | 2022-10-24 |  |
+| [Dark Tone Creepy Laughs](https://open.spotify.com/track/3jpBYn3guojBQpqtulW7ea) | [Halloween Sounds](https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo) | [Creepy Party Sounds](https://open.spotify.com/album/7AvgoBeich1YQDZMbZgS8L) | 0:33 | 2022-10-24 |  |
+| [Dark Tone Creepy Laughs](https://open.spotify.com/track/6iolLAJWju2Zg7ChdYYvec) | [Halloween Sounds \(REMOVED\)](https://open.spotify.com/artist/6aS5IL4cmXbjl81JWjaMgv) | [Spooky Halloween](https://open.spotify.com/album/5D27AbxVVpxiqvicoeeiFa) | 0:33 | 2022-10-24 | 2023-03-30 |
 | [Devil's Cauldron](https://open.spotify.com/track/62mrbUVRK0Ony4xII2rPUD) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:16 | 2022-10-24 |  |
 | [Don't Look Back](https://open.spotify.com/track/7kzvREKBZUTHY2RtUlIUot) | [Dark Dark Night](https://open.spotify.com/artist/2pfCaY4iv4rCELaEJrAPao) | [Scary Moments](https://open.spotify.com/album/3SYaFklowfZf9pRD1PI39O) | 5:16 | 2022-10-24 |  |
 | [Evil Laugh](https://open.spotify.com/track/4vpjYDERW21Zgxez2oTpXY) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [Epic Trick or Treat](https://open.spotify.com/album/2Sc462IPaaPTrb6ykn2wlR) | 3:22 | 2022-10-24 |  |

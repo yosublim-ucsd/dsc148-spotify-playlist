@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: GAYLE",
-  "num_followers": 96364,
+  "num_followers": 96459,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGNhNjI0OGJkZDVlYWMwNjU5YWEyZmM0ODFmOTEzYzYw",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGYyMTRiZDJkOWM5NDczMzRhNTk3OWQ5NTBiOGU5MTUy",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Insanity",
         "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
       },
@@ -499,26 +519,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
-      },
-      "artists": [
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        },
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Cinderella Snapped",
         "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 173103,
       "name": "Cinderella Snapped",
       "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "There\u2019d Better Be A Mirrorball",
-        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 215734,
-      "name": "Bad Omens",
-      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -595,6 +579,22 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Friends With Benefits",
         "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 187322,
       "name": "Friends With Benefits",
       "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "u turn me on (but u give me depression)",
         "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -923,22 +939,6 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 179482,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "cough drops",
+        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 163990,
+      "name": "cough drops",
+      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 166037,
       "name": "i'm too pretty for this",
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "cough drops",
-        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 163990,
-      "name": "cough drops",
-      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 200037,
-      "name": "Middle Of A Breakup",
-      "url": "https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "saddest soundtrack",
         "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Viva Las Vengeance",
+        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200037,
+      "name": "Middle Of A Breakup",
+      "url": "https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 180797,
-      "name": "Local God",
-      "url": "https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Slowly Healing",
         "url": "https://open.spotify.com/album/7AbtRZ6tCp19EsBFyAiVm7"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 204642,
       "name": "the idea",
       "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Viva Las Vengeance",
+        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 180797,
+      "name": "Local God",
+      "url": "https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "ugly",
+        "url": "https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "ugly",
+      "url": "https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Moderation",
         "url": "https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "m.i.a.",
-        "url": "https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "m.i.a.",
-      "url": "https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "<COPINGMECHANISM>",
         "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
       },
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Punkstar (feat. Royal & the Serpent)",
-        "url": "https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t"
+        "name": "m.i.a.",
+        "url": "https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8"
       },
       "artists": [
         {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
         }
       ],
-      "duration_ms": 140792,
-      "name": "Punkstar (feat. Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI"
+      "duration_ms": 152000,
+      "name": "m.i.a.",
+      "url": "https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez"
     }
   ],
   "unique_name": "Pop Rock",

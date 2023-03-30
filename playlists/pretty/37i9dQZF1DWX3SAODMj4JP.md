@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,790 likes - 69 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,908 likes - 69 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 44 | [Deus sabe, Deus ouve, Deus vê](https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [sentido](https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH) | 4:49 |
 | 45 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |
 | 46 | [Todo Medo](https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco) | [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Ocideia](https://open.spotify.com/album/0z4207UV2U8qFqxDEYhwPy) | 4:23 |
-| 47 | [Sobre Viver](https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Do Meu Interior](https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I) | 2:39 |
-| 48 | [Captured \- Live Session](https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Soul Hymns \(Live Sessions\)](https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1) | 5:21 |
+| 47 | [Captured \- Live Session](https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Soul Hymns \(Live Sessions\)](https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1) | 5:21 |
+| 48 | [Sobre Viver](https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Do Meu Interior](https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I) | 2:39 |
 | 49 | [Oração](https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Oração](https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W) | 4:37 |
 | 50 | [Intimidade](https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Vagner Dida](https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri) | [Intimidade](https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H) | 3:21 |
 | 51 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Mão No Arado](https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Mão No Arado](https://open.spotify.com/album/6RLHnVKEmEwjG2r5KRCIPx) | 3:30 |
 | 69 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
 
-Snapshot ID: `MTY3NzIzNzE1NSwwMDAwMDAwMDIzZGE4OTRhMjQyMGM2ZGIzZDhlODcwMGZmOTZjMWI4`
+Snapshot ID: `MTY3NzIzNzE1NSwwMDAwMDAwMGQ5YjM5ODFmMDMwNDJiNTA3ZWJlYzgzNjRjYjhkYmYx`

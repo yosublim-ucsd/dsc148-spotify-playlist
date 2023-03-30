@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,085 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,164 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 14 | [Atrasadinha \- Live](https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:52 |
 | 15 | [Te Assumi Pro Brasil \- Ao Vivo](https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 2:42 |
 | 16 | [Quando a vontade bater \(Participação especial de PK Delas\)](https://open.spotify.com/track/26WpOBpHiIMoBuMEIwtOCH) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3) | [Quando a vontade bater \(Participação especial de PK Delas\)](https://open.spotify.com/album/4xZooRPlL4QKyM0twraCtp) | 2:46 |
-| 17 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
-| 18 | [Tem Café](https://open.spotify.com/track/6EfnotM8sRsjXEsOgtZbCG) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Melhor Viagem](https://open.spotify.com/album/5NqdRURgrYqmk8H1GKGueM) | 4:22 |
+| 17 | [Tem Café](https://open.spotify.com/track/6EfnotM8sRsjXEsOgtZbCG) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Melhor Viagem](https://open.spotify.com/album/5NqdRURgrYqmk8H1GKGueM) | 4:22 |
+| 18 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
 | 19 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
 | 20 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 |
 | 21 | [Eu Mereço Ser Feliz \- Ao Vivo](https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [A Voz Do Meu Samba \- Ao Vivo](https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Fun Tonight \- Pabllo Vittar Remix](https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:20 |
 | 60 | [Você Partiu Meu Coração \(feat\. Anitta & Wesley Safadão\)](https://open.spotify.com/track/0u8aj0c4IxeVSLTUuuq9V5) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Você Partiu Meu Coração \(feat\. Anitta & Wesley Safadão\)](https://open.spotify.com/album/53y7OTl1WRQftTuaXoXYFk) | 2:59 |
 
-Snapshot ID: `MTY3NDgzNTE0NywwMDAwMDAwMDRjMmRiZWMxNThiNmRmOTU2ZTU5MTZmYTBkYWZhMTJm`
+Snapshot ID: `MTY3NDgzNTE0NywwMDAwMDAwMDRkZTQwNDM4OTc5ZTJiZDU0NjY4YjY4NDcyOGEwOTFm`

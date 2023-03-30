@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind and chill to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Alexandra Streliski, Yo\-Yo Ma, Esther Abrami and Alexis Ffrench\. The perfect background music for sleep and study.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 316,596 likes - 95 songs - 6 hr 13 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 316,588 likes - 95 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 |
 | 2 | [Of Time 2 \(JS Bach Variation\)](https://open.spotify.com/track/2LeiyTVlUV7gxkyYD8kpl9) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Of Time](https://open.spotify.com/album/0cOCjza7vp5R4L90PAe52B) | 2:49 |
-| 3 | [A Catalogue of Afternoons](https://open.spotify.com/track/5T9fH8uqLhdY3Gxqa4LX2t) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [A Catalogue of Afternoons](https://open.spotify.com/album/1axmsA0oP4buJ7lQIqvzjX) | 1:42 |
+| 3 | [A Catalogue of Afternoons](https://open.spotify.com/track/5T9fH8uqLhdY3Gxqa4LX2t) | [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [A Catalogue of Afternoons](https://open.spotify.com/album/1axmsA0oP4buJ7lQIqvzjX) | 1:42 |
 | 4 | [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/5Y4NircviB9cWOEn3oVrF8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [When the Bells Ring](https://open.spotify.com/album/39L6Mn2b1cuxpsUQ7Ck3qK) | 2:03 |
 | 5 | [Test Drive \(From "How To Train Your Dragon"\) \- Midnight Sessions at the Royal Albert Hall](https://open.spotify.com/track/1AHtfxuXvXhi4DQRFu0Fxg) | [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [Test Drive \(From "How To Train Your Dragon"\) \- Midnight Sessions at the Royal Albert Hall](https://open.spotify.com/album/7g0lNOAc7pPMIzeaMjBk75) | 2:17 |
 | 6 | [Anna's Theme](https://open.spotify.com/track/6YF1dwqfJs2khtmiUvtE8K) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Anna's Theme](https://open.spotify.com/album/1NUN5BS2lgbM45AoMgLOcu) | 1:55 |

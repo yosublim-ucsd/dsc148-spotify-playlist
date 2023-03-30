@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: SIRUP + Skaai + uin \*👉 <a href="https://spice.eplus.jp/articles/316198?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
+> 今週も話題の新曲を最速で。 Cover: SIRUP + Skaai + uin \*👉 <a href="https://spice.eplus.jp/articles/316521?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-823 songs - 2 day 2 hr 12 min
+824 songs - 2 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [君だけの歌](https://open.spotify.com/track/15EYIkRNsQTEtVftNpGjAh) | [FUNKY MONKEY BΛBY'S](https://open.spotify.com/artist/2w4WfstEu2xDTe7y0vLhN9) | [ファンキーモンキーベイビーズZ](https://open.spotify.com/album/3wwZDsoxIa0VJxrZPssYjE) | 4:06 | 2023-03-29 |  |
 | [君とサマー](https://open.spotify.com/track/0oBklBMSGZq8DAMoPkA9j5) | [KEYTALK](https://open.spotify.com/artist/0nES8AwBZpeQ69oZZp47OL) | [君とサマー](https://open.spotify.com/album/3RNRS2n7ipauGA2iMeGv6V) | 3:44 | 2023-02-21 | 2023-03-01 |
 | [君と水槽とクジラ](https://open.spotify.com/track/4jFs4ok2hT1jgYdFTL1Rnp) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [君と水槽とクジラ](https://open.spotify.com/album/2YLLIWLofnTx73Pv8okUwu) | 5:08 | 2023-03-29 |  |
+| [呼吸率](https://open.spotify.com/track/5Ll0FDp02V7fqi3x6pykqi) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [呼吸率](https://open.spotify.com/album/1uNlZms7aHHagkz2wHcnsk) | 2:50 | 2023-03-29 |  |
 | [命にふさわしい](https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate\(Special Edition\)](https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J) | 5:52 | 2023-02-28 | 2023-03-08 |
 | [回春](https://open.spotify.com/track/2pLINOdB1UVzBrgKMLpE4D) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 5:00 | 2023-01-31 | 2023-03-23 |
 | [回春](https://open.spotify.com/track/6iZygJfbfzt7eWeFtDUt3Z) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [回春](https://open.spotify.com/album/5Zr6Oy64wFgC0QbaGe2OPh) | 5:00 | 2023-03-22 | 2023-03-29 |

@@ -17493,6 +17493,24 @@
     },
     {
       "album": {
+        "name": "TROUBLE",
+        "url": "https://open.spotify.com/album/3IYrL8FzKrX5DOlxvqXOlZ"
+      },
+      "artists": [
+        {
+          "name": "Green",
+          "url": "https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162418,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/71IxXvEt2HWbLQ590hyWo3"
+    },
+    {
+      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },

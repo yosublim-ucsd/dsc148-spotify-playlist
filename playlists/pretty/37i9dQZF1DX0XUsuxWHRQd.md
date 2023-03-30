@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Roddy Ricch, Kodak Black, NLE Choppa and BIA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,144,193 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,146,106 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 20 | [Fact \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Fact \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX) | 2:54 |
 | 21 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 |
 | 22 | [Dirt](https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dirt](https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2) | 3:19 |
-| 23 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 23 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 24 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
 | 25 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 |
 | 26 | [Kant Nobody \(feat\. DMX\)](https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Kant Nobody](https://open.spotify.com/album/6Qi8Hf2PW97oZP2a4Tvd24) | 3:00 |

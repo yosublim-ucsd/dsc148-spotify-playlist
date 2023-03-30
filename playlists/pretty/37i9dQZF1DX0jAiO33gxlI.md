@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Zudizilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,278 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,288 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 7 | [SSA](https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [ajcookin](https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F) | [SSA](https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd) | 3:41 |
 | 8 | [Vim da Lama](https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Lil Ticy](https://open.spotify.com/artist/6LqIXTKtoJobKSOkgMjfo5) | [Vim da Lama](https://open.spotify.com/album/5m9mQG6q7vWB16c4FPVoa5) | 2:36 |
 | 9 | [A Volta Do Astro\-Rei](https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [A Volta Do Astro\-Rei](https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p) | 2:32 |
-| 10 | [Deixa Eu Entrar](https://open.spotify.com/track/3qBWX8rZ94T6NDwCkNwTCK) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Deixa Eu Entrar](https://open.spotify.com/album/1XeI3Paw7sye3uUjNsiWWD) | 2:57 |
+| 10 | [Deixa Eu Entrar](https://open.spotify.com/track/3qBWX8rZ94T6NDwCkNwTCK) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Deixa Eu Entrar](https://open.spotify.com/album/1XeI3Paw7sye3uUjNsiWWD) | 2:57 |
 | 11 | [Primeiro Lugar do Pódio](https://open.spotify.com/track/2o3NKh8bYMKSkJmBTQo5B5) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Primeiro Lugar do Pódio](https://open.spotify.com/album/0nnlmV8iDmTxj4Bon4EvNZ) | 2:03 |
 | 12 | [Classe](https://open.spotify.com/track/4lHxMEW42RcfvryJwdy5Md) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Classe](https://open.spotify.com/album/0Z9QrmKGFct34B17D7WzBT) | 1:17 |
 | 13 | [Favela Presente](https://open.spotify.com/track/3nTA6j8wg41EEWCUCNSMzK) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Favela Presente](https://open.spotify.com/album/1DJm9xYdpbuWCY60kUlT9w) | 2:24 |

@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,253 songs - 2 day 16 hr 3 min
+1,254 songs - 2 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Experience](https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Experience](https://open.spotify.com/album/4HUpIaMKPS0zPxMDl8P5fv) | 2:56 | 2020-06-19 | 2022-04-21 |
 | [Eye of the Storm \- Daði Freyr Remix](https://open.spotify.com/track/6pFalNTNRDbvzZFg3HZJsL) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Eye of the Storm \(Daði Freyr Remix\)](https://open.spotify.com/album/74RiwyVFTJqs7cnGUeBAv2) | 3:36 | 2020-11-13 | 2022-04-14 |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2RSqIGxbnTQQjZIS5Iyakn) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie](https://open.spotify.com/album/5oga4aKPFCUavGaIVSCyK6) | 3:56 | 2022-03-24 | 2022-04-20 |
+| [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2023-02-09 |  |
 | [F2020](https://open.spotify.com/track/3HZuxQ80VWOsBWws8XQdFB) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [F2020](https://open.spotify.com/album/0bwBpa7inaWZChPEOnVTIk) | 3:01 | 2020-07-11 | 2020-10-09 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2022-03-24 | 2022-09-30 |
 | [Fake](https://open.spotify.com/track/4Gt2kh3QbAGU6yquOWn4aW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Fake](https://open.spotify.com/album/6pbBHbkfs6i0JzhWjDmvb1) | 2:26 | 2020-10-16 | 2022-04-21 |
@@ -1124,7 +1125,7 @@
 | [Too Many Nights](https://open.spotify.com/track/6xB0rPxU3ncmMPgGDaD24M) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Too Many Nights](https://open.spotify.com/album/4Vuv40LsiUtYe7iriTaByr) | 3:08 | 2020-09-18 | 2021-01-08 |
 | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/track/4NY3dbgimhDmj4tFt4tIzS) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/album/1w8SeeBNLtPMoIBfgzHKcv) | 2:24 | 2021-04-22 | 2022-04-15 |
 | [Too Much](https://open.spotify.com/track/60NBh3Hbtes3ObiWkMhhrl) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Pity Party](https://open.spotify.com/album/14xTlrfCf7z4OeLP9nvHhz) | 3:25 | 2020-11-06 | 2021-03-22 |
-| [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-08 |  |
+| [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-08 | 2023-03-30 |
 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 | 2020-06-12 | 2020-09-14 |
 | [Torn](https://open.spotify.com/track/2GdxQw8NwoeH8tKySg6nym) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Torn](https://open.spotify.com/album/6a6Dy4LaFvh43Ed5lomDEd) | 3:18 | 2019-08-27 | 2019-08-28 |
 | [Touch](https://open.spotify.com/track/3jtYgsEzUr2RitAuymjQMI) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [FJØRA](https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk) | [Touch](https://open.spotify.com/album/2XaF3NlRliM5wem6DaVAkR) | 2:25 | 2020-01-01 | 2020-07-03 |

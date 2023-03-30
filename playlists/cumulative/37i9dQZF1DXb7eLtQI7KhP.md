@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb7eLtQI7KhP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb7eLtQI7KhP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7eLtQI7KhP)
 
-### [Inner Peace](https://open.spotify.com/playlist/37i9dQZF1DXb7eLtQI7KhP)
+### [Soothing Meditation](https://open.spotify.com/playlist/37i9dQZF1DXb7eLtQI7KhP)
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-129 songs - 6 hr 1 min
+130 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Keeping Secrets](https://open.spotify.com/track/6Gkl52QI2BIPzMvu3fF3AP) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keeping Secrets \(Ambient Version\)](https://open.spotify.com/album/1pcWYCCNfmYjogMKGZ92pU) | 2:16 | 2022-04-28 |  |
 | [Keepsake](https://open.spotify.com/track/7fB9VIIruC7mMRyRrToXet) | [4th & 6th](https://open.spotify.com/artist/6jBXezLiJ4IUPjLOJ9h67Z) | [Keepsake](https://open.spotify.com/album/0F39TMowBXEmXMCpvgOKEI) | 3:09 | 2022-04-28 |  |
 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 | 2022-04-28 |  |
-| [Laisse moi partir](https://open.spotify.com/track/5x2Pk6TkpnPYc1CYh5h7nC) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Laisse moi partir](https://open.spotify.com/album/6LUGapCiwOGA3qMGhJRtlv) | 3:46 | 2022-04-28 |  |
+| [Laisse moi partir](https://open.spotify.com/track/5x2Pk6TkpnPYc1CYh5h7nC) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Laisse moi partir](https://open.spotify.com/album/6LUGapCiwOGA3qMGhJRtlv) | 3:46 | 2022-04-28 | 2023-03-30 |
 | [Let Go](https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Let Go](https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW) | 3:11 | 2022-04-28 | 2022-07-28 |
 | [Light in the Dark](https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:35 | 2022-04-28 |  |
 | [Like Stars in Clouds](https://open.spotify.com/track/3nXM6IQAAaQby5qvuHezW2) | [PJ Montgomery](https://open.spotify.com/artist/28tWoUOf4pqhvoz6aaBezb) | [Like Stars in Clouds](https://open.spotify.com/album/7MDPF7wi1GP2IPnQU67tPW) | 2:39 | 2022-04-28 |  |
@@ -103,6 +103,7 @@
 | [Serene Sanctuary](https://open.spotify.com/track/69HNELzycnP7UucHMyfPv6) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Serene Sanctuary](https://open.spotify.com/album/06KfQjiKksP8mmCSdayolJ) | 2:31 | 2023-03-07 |  |
 | [Shadow Of A Thought](https://open.spotify.com/track/4X3GY7d1dAwOjLFsLl67Y6) | [Marcel Riviera](https://open.spotify.com/artist/6BMtPOM3rP39ICFOBxe5w7) | [Shadow Of A Thought](https://open.spotify.com/album/6eTmkgvSAZ0o3IpjOj44SF) | 2:41 | 2022-04-28 |  |
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2022-04-28 |  |
+| [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 | 2023-03-29 |  |
 | [Snow beats](https://open.spotify.com/track/48jvCEHvpV7oexBYtvqLBR) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Snow beats](https://open.spotify.com/album/1FZHcB8BTiupHAoKfOMLAj) | 3:25 | 2023-02-06 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2022-04-28 |  |
 | [Sopravvivendo](https://open.spotify.com/track/1RwI9IawkVnalfnHSVJyCy) | [Chiara Ambrosino](https://open.spotify.com/artist/0imVbuMRxysJRiLNiNCsva) | [Sopravvivendo](https://open.spotify.com/album/6UdQ4UWorZwPEcgRKAQ0Ot) | 2:03 | 2022-04-28 |  |

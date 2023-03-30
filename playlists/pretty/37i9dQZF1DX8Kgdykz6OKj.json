@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1092347,
+  "num_followers": 1092828,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwNzYwMCwwMDAwMDAwMDdmODJjOWQwYTljMTYyZWQwYWNiNGUwNzI3MTRmZGMz",
+  "snapshot_id": "MTY3OTAwNzYwMCwwMDAwMDAwMDJkNzJmMDdjNDNiMjQyYmI5OWJjNDIzMTAzOWU3ZmVk",
   "tracks": [
     {
       "added_at": "2023-03-16 23:00:00",
@@ -619,30 +619,6 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
-        }
-      ],
-      "duration_ms": 179463,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "duration_ms": 179463,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -967,30 +967,6 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Sleep Is the Cousin of Death",
-        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Dephlow",
-          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 154837,
-      "name": "Street Jazz",
-      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
         "name": "The Return (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "Sleep Is the Cousin of Death",
+        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Dephlow",
+          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 154837,
+      "name": "Street Jazz",
+      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
         "name": "Dando Vueltas",
         "url": "https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 121974,
       "name": "Dando Vueltas",
       "url": "https://open.spotify.com/track/314FEi04GJLNc89wCZVanH"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
+      },
+      "artists": [
+        {
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
+        }
+      ],
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -1383,18 +1399,22 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
       },
       "artists": [
         {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
         }
       ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1415,26 +1435,6 @@
       "duration_ms": 171061,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/5eAklfAJQPJjX6QLK98Mmq"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
-        }
-      ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1691,26 +1691,22 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2Esry53MOhCSaf5jOOcF4P"
+        "name": "Back At The House",
+        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
       },
       "artists": [
         {
-          "name": "Kyle McEvoy",
-          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+          "name": "Hemlock Ernst",
+          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
         },
         {
-          "name": "Ezzy",
-          "url": "https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu"
-        },
-        {
-          "name": "Michael Christmas",
-          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
         }
       ],
-      "duration_ms": 126839,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
+      "duration_ms": 258461,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1755,22 +1751,42 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2Esry53MOhCSaf5jOOcF4P"
       },
       "artists": [
         {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
         },
         {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+          "name": "Ezzy",
+          "url": "https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu"
+        },
+        {
+          "name": "Michael Christmas",
+          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
         }
       ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
+      "duration_ms": 126839,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "Freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
-      },
-      "artists": [
-        {
-          "name": "Freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
-        }
-      ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2023-03-16 23:00:00",

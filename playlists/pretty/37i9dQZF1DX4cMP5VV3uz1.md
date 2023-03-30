@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,605 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,718 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 67 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 68 | [Playing Games](https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Playing Games](https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL) | 3:08 |
 | 69 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3S95GLyxH7gcMjExPVAjxq) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/5VQRkU846ddPAvMX8heKxG) | 2:57 |
-| 70 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
-| 71 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 |
+| 70 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 |
+| 71 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
 | 72 | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH) | 2:46 |
-| 73 | [All To Me](https://open.spotify.com/track/28TJ1DLGBJ9BddLpWwwuXQ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [All To Me](https://open.spotify.com/album/5KgrT8AuRSZ202tqBdvrPW) | 3:26 |
-| 74 | [The Damn Guy](https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [The Damn Guy](https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7) | 5:44 |
-| 75 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
+| 73 | [The Damn Guy](https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [The Damn Guy](https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7) | 5:44 |
+| 74 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
+| 75 | [All To Me](https://open.spotify.com/track/28TJ1DLGBJ9BddLpWwwuXQ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [All To Me](https://open.spotify.com/album/5KgrT8AuRSZ202tqBdvrPW) | 3:26 |
 
-Snapshot ID: `MTY3ODc4ODY0NiwwMDAwMDAwMGE3M2Q5ZDMzMDY2NjJmM2I4YzM4MjE2MDBkNDVjYmIy`
+Snapshot ID: `MTY3ODc4ODY0NiwwMDAwMDAwMDg1ZjY2NDgyMzQ5OWY3NzZlZTc5NDY3YWEyOGYyZmVj`

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 134907,
+  "num_followers": 134927,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDljYjY3MDViMmU5YzQ1YzI3ZTNhNGY0YzQ4MGUwYzYy",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMGE4YTM3YTIzMDI0ZGRlZjM3NWYwZDQ1NzYyZWNlNTc0",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -555,6 +555,34 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Kx5",
+        "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Good Morning Music: Wake Up Workout",
         "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
       },
@@ -591,34 +619,6 @@
       "duration_ms": 145890,
       "name": "Sex & Love",
       "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Kx5",
-        "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
-      },
-      "artists": [
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 240445,
-      "name": "Escape (feat. Hayla)",
-      "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Gold Skies",
         "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 294466,
       "name": "Tremor - Sensation 2014 Anthem",
       "url": "https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "My Pony",
-        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "My Pony",
-      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
-      },
-      "artists": [
-        {
-          "name": "Bancali",
-          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
+      },
+      "artists": [
+        {
+          "name": "Bancali",
+          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 173215,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 176000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "duration_ms": 173215,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
     },
     {
       "added_at": "2022-10-12 15:43:07",

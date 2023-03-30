@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,100 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,096 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 15 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 |
 | 16 | [La La Lost You \- Acoustic Version](https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD) | 3:28 |
 | 17 | [napori](https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:23 |
-| 18 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 |
+| 18 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 |
 | 19 | [First Love](https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [First Love](https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp) | 4:18 |
-| 20 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 |
+| 20 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 |
 | 21 | [French Movie](https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb) | 3:19 |
 | 22 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
 | 23 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [The Little Prince \(feat\. Kevin Chung & suru\)](https://open.spotify.com/track/5uCnSxDkiDLnnO7kmHhl27) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kevin Chung](https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [The Little Prince](https://open.spotify.com/album/0kRywtnCwHW31d54CmrzSU) | 2:59 |
 | 50 | [あびばのんのん](https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [あびばのんのん](https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR) | 3:40 |
 
-Snapshot ID: `MTY4MDAxOTg5NywwMDAwMDAwMGY2YmMzNzgxMGM1ZmE1NjFkYmRhYzZmNDM0ZDcyZjE0`
+Snapshot ID: `MTY4MDAxOTg5NywwMDAwMDAwMDVkMjA3ZGM5ZjUyMmM2ZDZlMmU5Y2E5MDM5ZDMyMzNk`

@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 476861,
+  "num_followers": 477005,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1MTcwOSwwMDAwMDAwMDFkNTkyMjU2MWQ4MGFmZmExNzA2MDY3NDgxZDIzZDc5",
+  "snapshot_id": "MTY3OTA1MTcwOSwwMDAwMDAwMGI0ZDQxYzExNzM3MzAxYzJkYjE1MDg3YzUwOGRmMTA3",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 207164,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "One Call Away (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
-      },
-      "artists": [
-        {
-          "name": "CokeCarl",
-          "url": "https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 219000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
+      },
+      "artists": [
+        {
+          "name": "CokeCarl",
+          "url": "https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj"
     },
     {
       "added_at": "2023-02-10 11:00:00",

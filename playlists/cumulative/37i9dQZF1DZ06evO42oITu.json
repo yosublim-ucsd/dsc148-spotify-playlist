@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
@@ -928,6 +928,24 @@
       "duration_ms": 263746,
       "name": "I Shot The Sheriff",
       "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
+    },
+    {
+      "album": {
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "I'm Tore Down",
+      "url": "https://open.spotify.com/track/1udh1S7PnErSMMZoA1xF6x"
     },
     {
       "album": {

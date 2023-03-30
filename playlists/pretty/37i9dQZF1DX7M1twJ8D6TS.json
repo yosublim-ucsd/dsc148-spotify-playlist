@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 117085,
+  "num_followers": 117150,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGIxM2E2NWM0NjM5MjhiZjg2NTEwNTY3ZjlkZmQ5NWM4",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDVkZTk3NzQwOWEzYTk0ZjM4ZDgzMWU3MTIzODYzODYw",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Outlaw Angel",
-        "url": "https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf"
-      },
-      "artists": [
-        {
-          "name": "Joey Greer",
-          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "Outlaw Angel",
-      "url": "https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 246803,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Outlaw Angel",
+        "url": "https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf"
+      },
+      "artists": [
+        {
+          "name": "Joey Greer",
+          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "Outlaw Angel",
+      "url": "https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
-      "added_at": "2023-03-29 05:36:24",
+      "added_at": "2023-03-30 01:33:01",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
     },
     {
-      "added_at": "2023-03-29 05:36:24",
+      "added_at": "2023-03-30 01:33:01",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Don't Want To Go Home",
-        "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
-      },
-      "artists": [
-        {
-          "name": "Teague Brothers Band",
-          "url": "https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Don't Want to Go Home",
-      "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Keep on Moving",
         "url": "https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 196093,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Don't Want To Go Home",
+        "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
+      },
+      "artists": [
+        {
+          "name": "Teague Brothers Band",
+          "url": "https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Don't Want to Go Home",
+      "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Red Dirt Texas",
-        "url": "https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28"
-      },
-      "artists": [
-        {
-          "name": "Hayden Haddock",
-          "url": "https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Honky Tonk On",
-      "url": "https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Whiskey Over Wine",
         "url": "https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 230933,
       "name": "Whiskey Over Wine",
       "url": "https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Red Dirt Texas",
+        "url": "https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28"
+      },
+      "artists": [
+        {
+          "name": "Hayden Haddock",
+          "url": "https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Honky Tonk On",
+      "url": "https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF"
     }
   ],
   "unique_name": "Texas Country Rewind",

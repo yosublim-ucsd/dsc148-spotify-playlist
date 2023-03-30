@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 46984,
+  "num_followers": 47047,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMDZjYjFlYzVmYmQyMGY4OGZkNmE5MGExYjA3NDBkOGVk",
+  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMDQ0ZGU4ZjRmZmQzNTVlNWI3YjYzMmQzYzM1MmU4OTIy",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
     },
     {
-      "added_at": "2023-03-29 04:37:29",
+      "added_at": "2023-03-30 01:15:01",
       "album": {
         "name": "Et Bam",
         "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Effet miroir",
         "url": "https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 158800,
       "name": "Demain c'est toi",
       "url": "https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
+        "name": "Ch\u00e2telet les Halles",
+        "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Et un jour une femme",
+      "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
-        "name": "Ch\u00e2telet les Halles",
-        "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Et un jour une femme",
-      "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
     },
     {
-      "added_at": "2023-03-29 04:37:29",
+      "added_at": "2023-03-30 01:15:01",
       "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
+        "name": "La tarentelle",
+        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
+      },
+      "artists": [
+        {
+          "name": "Yves Duteil",
+          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Prendre un enfant",
+      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
         "name": "Les Frangines (Nouvelle \u00e9dition)",
         "url": "https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 271320,
       "name": "Ta reine - Version orchestrale",
       "url": "https://open.spotify.com/track/4hJljAGAHwfbeCx4y3UpgW"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
-        "name": "La tarentelle",
-        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
-      },
-      "artists": [
-        {
-          "name": "Yves Duteil",
-          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Prendre un enfant",
-      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
     },
     {
-      "added_at": "2023-03-29 04:37:29",
+      "added_at": "2023-03-30 01:15:01",
       "album": {
         "name": "Br\u00fbler le Feu 2",
         "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"

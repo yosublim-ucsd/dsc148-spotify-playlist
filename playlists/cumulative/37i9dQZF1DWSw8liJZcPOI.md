@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-406 songs - 1 day 4 hr 30 min
+407 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 | 2022-06-24 |  |
 | [Binding Garden](https://open.spotify.com/track/1y5LJojJ8mvRRn7YPFupjO) | [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh), [Eyvind Kang](https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV), [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Hilmar Jensson](https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy) | [Sería](https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ) | 5:04 | 2020-12-04 | 2020-12-11 |
 | [Bird's Tail \- Slow Meadow Rework](https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Bird's Tail \(Slow Meadow Rework\)](https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf) | 5:43 | 2022-01-21 |  |
-| [Black Dog](https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv) | [Autonomy](https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98) | [Black Dog](https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz) | 2:07 | 2020-10-20\* |  |
+| [Black Dog](https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv) | [Autonomy](https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98) | [Black Dog](https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz) | 2:07 | 2020-10-20\* | 2023-03-30 |
 | [Blood Family](https://open.spotify.com/track/6iLhDrW3ATqIyUtnTYIl6F) | [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Honey Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/610pt4TZf8kqG2zdiJ3ZnR) | 4:40 | 2021-01-18 | 2021-10-16 |
 | [Blossom](https://open.spotify.com/track/4aevsaCgjZ3MkXO5ctc0Km) | [Roary](https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd) | [Blossom](https://open.spotify.com/album/3tWkevxZNDag39cJiS2H91) | 4:24 | 2022-04-01 | 2022-04-21 |
 | [Blund](https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blund](https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK) | 2:46 | 2021-11-21 |  |
@@ -200,6 +200,7 @@
 | [Kirbu Epiphany](https://open.spotify.com/track/5LTUIQkmpwqLR7qCv2o4vB) | [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Nordic Pulse Ensemble](https://open.spotify.com/artist/1kmYLIvqkvkVJMy1KeHG4l) | [Kirbu Epiphany](https://open.spotify.com/album/7fOvC45iH0NDHTgUjeIcxn) | 3:14 | 2020-10-21 | 2020-11-13 |
 | [Klass](https://open.spotify.com/track/0pzyxIEZimzoJfwaBKdAdH) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Sensibus](https://open.spotify.com/album/7BJCfuM4BGuC1U3HvViT5y) | 6:32 | 2022-07-22 | 2023-03-09 |
 | [Klass](https://open.spotify.com/track/4YKGgZIimpmpWNKcfsaKEq) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass](https://open.spotify.com/album/3ZWS1N6F5NIUNjeX8n2SXP) | 6:32 | 2020-10-21 | 2022-07-29 |
+| [Klass](https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Sensibus](https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9) | 6:32 | 2023-03-24 |  |
 | [Krakow \(unsung\)](https://open.spotify.com/track/69UehRxU9c79kRwpsz3EID) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Quiet Recordings](https://open.spotify.com/album/0Ra8mjZnYdt3SyFSvkGZXv) | 2:32 | 2022-04-08 | 2022-04-21 |
 | [Kronetics](https://open.spotify.com/track/7ptMboU1nMdzpOE0wRMSWk) | [Joel Christian Goffin](https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF) | [Kronetics](https://open.spotify.com/album/0BfqkgTfwn4GV0CRJvMx7V) | 5:14 | 2020-10-20\* | 2022-05-22 |
 | [L'etoile](https://open.spotify.com/track/7IvdJ01TBvQHtD5inw52lG) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/50MjjfEEI1EayrtiSIYf3y) | 3:59 | 2020-11-20 | 2022-07-28 |

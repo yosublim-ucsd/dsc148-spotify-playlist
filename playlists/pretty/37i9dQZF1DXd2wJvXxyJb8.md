@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > a rihanna sempre avisou a gente!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,697 likes - 71 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,204 likes - 71 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,544 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,551 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 41 | [Swervo](https://open.spotify.com/track/1jzCbckrl7q2fELDrvkyCS) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 3:12 |
 | 42 | [Everything](https://open.spotify.com/track/4HNFreT8wNv9oOFC5RQew9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 2:41 |
 | 43 | [Aye \(feat\. Offset\)](https://open.spotify.com/track/3O0W0PorDwqsEuZRl7A9Pi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:11 |
-| 44 | [Glitches \(feat\. G Herbo\)](https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Glitches](https://open.spotify.com/album/33zs2J5lgdvrtKwJwQRKOh) | 1:58 |
-| 45 | [Chiraq Demons \(feat\. G Herbo\)](https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:54 |
+| 44 | [Chiraq Demons \(feat\. G Herbo\)](https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:54 |
+| 45 | [Glitches \(feat\. G Herbo\)](https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Glitches](https://open.spotify.com/album/33zs2J5lgdvrtKwJwQRKOh) | 1:58 |
 | 46 | [Up Next 3](https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summer Songs 2](https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri) | 2:35 |
 | 47 | [T.O.P.](https://open.spotify.com/track/0C0H3ceDDykj8FQR51gMZP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 2:40 |
 | 48 | [Focused](https://open.spotify.com/track/1jUz3W4cXv56omhrUacbwH) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 2:43 |
 | 49 | [FWM \(with Yosohn\)](https://open.spotify.com/track/6FgLgiZfogBrRLUKTL9DpW) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yosohn](https://open.spotify.com/artist/28X3uK2mhWGNFwFy145ZD4) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:21 |
 | 50 | [Chi\-Raq \(with G Herbo\)](https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:51 |
 
-Snapshot ID: `MjgwMDAyMzYsMDAwMDAwMDAxYzA5YTViNGMxNmRmMjk0NDJmYWU0NGNiNTAyYzEyNQ==`
+Snapshot ID: `MjgwMDE1MjQsMDAwMDAwMDBlZGI3NWNlOTAxZTgyMTY1ZmM3YjBlOWQ0NmU0YTRkMw==`

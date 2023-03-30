@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,168 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,175 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 2 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG) | 3:05 |
 | 3 | [A Country Girl Can Survive](https://open.spotify.com/track/4KAXqEF9LkQKEgSNMmxDHJ) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [A Country Girl Can Survive](https://open.spotify.com/album/3lPzSJhe2dcc94oMqRMnSe) | 2:53 |
 | 4 | [When I Pull Up](https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/7LfEgScSBQT6MD7ugKB6oa) | 2:26 |
-| 5 | [Colt 45 \(Country Remix\)](https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Colt 45 \(Country Remix\)](https://open.spotify.com/album/4hcoGCFaURlQwT0uFRdJd6) | 3:23 |
-| 6 | [Slow Ride](https://open.spotify.com/track/6OEX8FPaHyUyftZJWsve3Y) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 2:54 |
+| 5 | [Slow Ride](https://open.spotify.com/track/6OEX8FPaHyUyftZJWsve3Y) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 2:54 |
+| 6 | [Colt 45 \(Country Remix\)](https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Colt 45 \(Country Remix\)](https://open.spotify.com/album/4hcoGCFaURlQwT0uFRdJd6) | 3:23 |
 | 7 | [Way of Life](https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:45 |
 | 8 | [Beverly Hills](https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Beverly Hills](https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp) | 2:18 |
 | 9 | [Fire Up The Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 74 | [Country or Not](https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [DJ Cliffy D](https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P) | [Country or Not](https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc) | 2:54 |
 | 75 | [Redneck for Life](https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Redneck for Life](https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML) | 2:52 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDRmMDkzMjEwNWQ1YzM3OThkYWU1Y2NhZTgwODk4MjU3`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDQ3OGYxYWIwNTM5M2VkMDM4NmU4NTliNDExZmIxN2Ri`

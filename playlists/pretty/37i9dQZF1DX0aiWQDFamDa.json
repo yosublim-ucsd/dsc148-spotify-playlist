@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 30148,
+  "num_followers": 30198,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMDc0Y2UxOGY3YWIxM2VlZWYwYzY3YzE5MWQ3OTlmYjZk",
+  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMDViNjczOTMyYTIxMGE1NDc3ZGU0NGU4YTk5OTIyMDIz",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Mindful in Solitude",
+        "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "duration_ms": 233323,
+      "name": "The Way of the Winds",
+      "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 588840,
       "name": "Please Send Me Someone To Love",
       "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Mindful in Solitude",
-        "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
-      },
-      "artists": [
-        {
-          "name": "Ryder Quartet",
-          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
-        }
-      ],
-      "duration_ms": 233323,
-      "name": "The Way of the Winds",
-      "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "The Art of Intimacy, Vol. 2: His Muse",
+        "url": "https://open.spotify.com/album/1n106LRjOdLx8hJGpnNKPo"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 368066,
+      "name": "There'll Be Other Times",
+      "url": "https://open.spotify.com/track/13CZCdBlWMmulnz3VV2yjv"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Presenting Ray Bryant",
         "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 330615,
       "name": "Young and Foolish",
       "url": "https://open.spotify.com/track/2ncnr8AuzqAabOGEIoA863"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "The Art of Intimacy, Vol. 2: His Muse",
-        "url": "https://open.spotify.com/album/1n106LRjOdLx8hJGpnNKPo"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 368066,
-      "name": "There'll Be Other Times",
-      "url": "https://open.spotify.com/track/13CZCdBlWMmulnz3VV2yjv"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 438426,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Within a Dream",
         "url": "https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 258226,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 438426,
-      "name": "I Fall in Love Too Easily",
-      "url": "https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "The Now",
+        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "The Wind In The Night",
+      "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Correlations",
         "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 162887,
       "name": "Centre",
       "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "The Now",
-        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Goldberg",
-          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "The Wind In The Night",
-      "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Clear Skies",
+        "url": "https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 211757,
+      "name": "Nothing Like a Spring",
+      "url": "https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Changing Places",
         "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 354360,
       "name": "Deep As Love",
       "url": "https://open.spotify.com/track/2zLYr006x2323uleZZT1U2"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Sorrowful",
-        "url": "https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk"
-      },
-      "artists": [
-        {
-          "name": "Mandy",
-          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
-        }
-      ],
-      "duration_ms": 208929,
-      "name": "Sorrowful",
-      "url": "https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1323,6 +1323,22 @@
       "duration_ms": 572546,
       "name": "Where Can I Go Without You",
       "url": "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Sorrowful",
+        "url": "https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
+        }
+      ],
+      "duration_ms": 208929,
+      "name": "Sorrowful",
+      "url": "https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
-      },
-      "artists": [
-        {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
-        }
-      ],
-      "duration_ms": 239687,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "The Melody At Night, With You",
         "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 426000,
       "name": "I Got It Bad And That Ain't Good",
       "url": "https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 239687,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Clear Skies",
-        "url": "https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 211757,
-      "name": "Nothing Like a Spring",
-      "url": "https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Quiet Time",
         "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
       },
@@ -1563,6 +1563,38 @@
       "duration_ms": 316866,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Soul Dancer",
+        "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "duration_ms": 202802,
+      "name": "Morning Thoughts",
+      "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Kept running",
+        "url": "https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt"
+      },
+      "artists": [
+        {
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+        }
+      ],
+      "duration_ms": 164928,
+      "name": "Kept running",
+      "url": "https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1623,22 +1655,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Soul Dancer",
-        "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
-      },
-      "artists": [
-        {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
-        }
-      ],
-      "duration_ms": 202802,
-      "name": "Morning Thoughts",
-      "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Simplicitas",
         "url": "https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 377066,
       "name": "Blame It on My Youth",
       "url": "https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "When You Return",
-        "url": "https://open.spotify.com/album/2qwg1oqLV6X7JgsB774y0H"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 345818,
-      "name": "When You Return",
-      "url": "https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU"
     }
   ],
   "unique_name": "Sad Jazz",

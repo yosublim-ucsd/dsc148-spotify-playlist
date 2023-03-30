@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-205 songs - 18 hr 39 min
+206 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Acumulee](https://open.spotify.com/track/3Zros7lzYTaBOZTwV9Ex3u) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Four to the Floor 14](https://open.spotify.com/album/0CwCIOyY2ThLbis0aVnjMm) | 10:48 | 2022-11-23 | 2022-12-13 |
 | [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 | 2022-11-23 |  |
 | [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 | 2022-12-01 |
-| [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 |  |
+| [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 | 2023-03-30 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-11-23 |  |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-11-23 | 2023-03-11 |
 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 | 2022-11-23 | 2023-01-20 |
@@ -41,6 +41,7 @@
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-11-23 |  |
 | [Cycles](https://open.spotify.com/track/3EtEfnPhlRPuM6ShLIcd33) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Mardraüs](https://open.spotify.com/artist/3q5A1HlL3MuhN1DKH4UHSm) | [Cycles](https://open.spotify.com/album/4jpO0xkA40y6zJUPp2yMUm) | 5:00 | 2022-12-06 | 2023-02-20 |
 | [Dance Alone \- Hidden Empire Remix](https://open.spotify.com/track/6xcKHNfHEcyG0TG6gVEUrn) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Dance Alone](https://open.spotify.com/album/3OOU0i7XGbvVYWVjfb7Blx) | 6:34 | 2022-12-28 | 2023-01-06 |
+| [Dance for Me](https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dance for Me](https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W) | 4:05 | 2023-03-24 |  |
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-11-23 |  |
 | [Dark Waves](https://open.spotify.com/track/1BpjHYLMMGzCgfBa5NYze5) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Dark Waves](https://open.spotify.com/album/1jFxs3VUgiaGLCjrRqLciY) | 4:37 | 2023-02-17 | 2023-02-28 |
 | [Deeper Grounds](https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Mahri](https://open.spotify.com/artist/5aB4vV5H1O1zAoI4XLW7IX) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 4:13 | 2022-11-23 |  |

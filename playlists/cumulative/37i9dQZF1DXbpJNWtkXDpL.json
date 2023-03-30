@@ -446,6 +446,24 @@
     {
       "album": {
         "name": "Petite Amie",
+        "url": "https://open.spotify.com/album/4dCj9ZcOfgd6mRw346lc0o"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206093,
+      "name": "C'est Pas Moi",
+      "url": "https://open.spotify.com/track/0oLX98sKL7axVJKnmuCBvT"
+    },
+    {
+      "album": {
+        "name": "Petite Amie",
         "url": "https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu"
       },
       "artists": [
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 180000,
       "name": "Tumbando Avi\u00f3n",
       "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"

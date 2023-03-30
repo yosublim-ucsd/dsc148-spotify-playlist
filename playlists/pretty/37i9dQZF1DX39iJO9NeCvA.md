@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 
 > Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。© 2023 内藤泰弘・少年画報社／「TRIGUN STAMPEDE」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,138 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,196 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 15 | [Orphanage](https://open.spotify.com/track/3bdxYLFii4N9BYg9V3v0fQ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 3:13 |
 | 16 | [The Desert Rogue](https://open.spotify.com/track/36DCmJ2vGEVjcqOVtPH2DC) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 1:59 |
 | 17 | [Boyhood](https://open.spotify.com/track/1VywfMEGuXLmiPmYCfgPSB) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 2:29 |
-| 18 | [NICHOLAS THE PUNISHER](https://open.spotify.com/track/7KqLCHIGhFvNUyv5pfmLh6) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 2:02 |
+| 18 | [NICHOLAS THE PUNISHER](https://open.spotify.com/track/2UOUsItMAMwL0S7R38wyh4) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:02 |
 | 19 | [Whom to Kill, Whom to Let Live](https://open.spotify.com/track/4Edy149x6lgd7ovtxJ9FbL) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 2:16 |
 | 20 | [Reckless Driving](https://open.spotify.com/track/6zzgYqFzeLESKxMDmAXbrE) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 0:46 |
 | 21 | [Time Left](https://open.spotify.com/track/6RlvG1tavHYtkESC8dqLb3) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 5:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 79 | [get even](https://open.spotify.com/track/6f4G8cwwKtbURYV4P6eWEU) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:26 |
 | 80 | [snatch!snatch!snatch!](https://open.spotify.com/track/7KG0iTQojPBMdi0ZgSM2Lx) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:16 |
 
-Snapshot ID: `MTY3OTg1MDQ0NSwwMDAwMDAwMGJiZWNkMTBmOGU3NGI5YmRiMDhkZTgyZDA3YWJjZDZk`
+Snapshot ID: `MTY3OTg1MDQ0NSwwMDAwMDAwMDQ2NDY5YWQ0OWYxMGM5MDY4NTBlNGEyYTZlYTgxMGUx`

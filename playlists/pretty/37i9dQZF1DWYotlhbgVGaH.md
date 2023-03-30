@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,173 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,206 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 6 | [5\-10\-15 Hours](https://open.spotify.com/track/6s7xYIfyIZSYXUUwqmSkXO) | [Blue Harlem](https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90) | [Talk to Me](https://open.spotify.com/album/7tuadIRZpGHMY09YcdyNmk) | 3:17 |
 | 7 | [Hell \- Remastered 2016](https://open.spotify.com/track/4efAv86uRxR4yQBcb3Vczq) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [Hot \(Remastered / 20th Anniversary Edition\)](https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3) | 3:12 |
 | 8 | [Everybody's Talkin' Bout Miss Thing!](https://open.spotify.com/track/7wBss3MP3jfqAwPMT3L75S) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [Everybody's Talkin' Bout Miss Thing!](https://open.spotify.com/album/1dwJAx7zBEoBpR0UiVzSJ9) | 3:11 |
-| 9 | [This Cat's On A Hot Tin Roof](https://open.spotify.com/track/4CAwwZXWojksW05Q2pD840) | [The Brian Setzer Orchestra](https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8) | [The Dirty Boogie](https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4) | 2:19 |
+| 9 | [The Shim Sham Song](https://open.spotify.com/track/4ayZeCFcpODpQMwz9PRDQN) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Swingin' the Century](https://open.spotify.com/album/7rHzE5MqbD44u0IR8iV44R) | 3:00 |
 | 10 | [Minnie The Moocher](https://open.spotify.com/track/0LFIogdKLhuH3y1Tf78EYW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [How Big Can You Get?: The Music Of Cab Calloway](https://open.spotify.com/album/5EaHXOzSnLy8aRqD4gaCht) | 4:59 |
-| 11 | [The Shim Sham Song](https://open.spotify.com/track/4ayZeCFcpODpQMwz9PRDQN) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Swingin' the Century](https://open.spotify.com/album/7rHzE5MqbD44u0IR8iV44R) | 3:00 |
+| 11 | [This Cat's On A Hot Tin Roof](https://open.spotify.com/track/4CAwwZXWojksW05Q2pD840) | [The Brian Setzer Orchestra](https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8) | [The Dirty Boogie](https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4) | 2:19 |
 | 12 | [Rhythm](https://open.spotify.com/track/173Qo5lw33RFSTOahpwvtk) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 2:47 |
 | 13 | [Zip Gun Bop](https://open.spotify.com/track/4I4jQb4fkv51CLeTYMXGKT) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:26 |
 | 14 | [That's Where My Money Goes](https://open.spotify.com/track/5ZX97cAgS6kRjqnudi7Ffq) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [All Aboard!](https://open.spotify.com/album/2njHwS9Ic2gVrLrc2bgLwa) | 2:56 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 29 | [Swing Sweet Pussycat](https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW) | [The Atomic Fireballs](https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No) | [Torch This Place](https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L) | 3:09 |
 | 30 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
 | 31 | [Mambo Swing](https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 5:07 |
-| 32 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
-| 33 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
+| 32 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
+| 33 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
 | 34 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
 | 35 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
 | 36 | [Solid Gold Cadillac](https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Solid Gold Cadillac](https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Long, Lean And Lanky](https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Shakin' The Shack](https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a) | 3:04 |
 | 50 | [Ladies Man](https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a) | [The New Morty Show](https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r), [Brian Fishler](https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL), [Cynthia Lewis](https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh), [Jeff Whipp](https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Morty Okin](https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6), [Robert Castillo](https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df), [Trevor Kinsel](https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Matt Cowan](https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0) | [Rigormorty](https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk) | 3:19 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGY0YmRhODM3ZWYzOWUwMjJlYmE4Zjk0MjgwMzY4M2E3`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDRmNDYxYjc2NDAxZDk1Y2Y2MzgwYmFkODA5Mzc5MjVl`

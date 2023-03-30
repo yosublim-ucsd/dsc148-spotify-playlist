@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-358 songs - 15 hr 35 min
+360 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-19 |  |
 | [Lullaby](https://open.spotify.com/track/6kPyPhrxTK85bPB3DuvjME) | [George Hart](https://open.spotify.com/artist/6OxbaDDKrLN3DgWrl4JHS6) | [Lullaby](https://open.spotify.com/album/7luSqY1qpa7KQWiyHMsSVR) | 2:05 | 2023-01-26 |  |
+| [Luminescent](https://open.spotify.com/track/0nWuxLLVxkGJ9n8IxhMDr7) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Luminescent](https://open.spotify.com/album/255Dc0Ji6USbXmEDyorXBq) | 1:27 | 2023-03-29 |  |
 | [Luna Llena](https://open.spotify.com/track/11WbYgcb6E1FT0ouyqhopV) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Luna Llena](https://open.spotify.com/album/1cNgRDVEReVsIxA6i7Ap7Z) | 2:01 | 2023-03-14 |  |
 | [LYR](https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK) | [Aeden Azora](https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX) | [LYR](https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H) | 3:00 | 2022-10-14 | 2023-02-22 |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 |  |
@@ -218,7 +219,7 @@
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2021-12-07 | 2022-01-05 |
 | [Nostalgica](https://open.spotify.com/track/0N0Rxym9LnsVtwAdAVcWrQ) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Nostalgica](https://open.spotify.com/album/3zxaNFApLDuAYT2haPRbXq) | 2:06 | 2023-02-21 |  |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-02-01 |  |
-| [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-01 |  |
+| [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-01 | 2023-03-30 |
 | [November 9th](https://open.spotify.com/track/1ImEbpBXsZD9LYyQ67WXiX) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [November 9th](https://open.spotify.com/album/43sDDJJnnUwrgnCbaYqyZB) | 2:40 | 2022-05-20 |  |
 | [Nuageux](https://open.spotify.com/track/6SxecKjiavy2JnHSo3THF8) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Nuageux](https://open.spotify.com/album/4rOvg6YTNHv64HpShaU0lq) | 2:55 | 2021-12-07 | 2022-05-28 |
 | [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 | 2021-12-07 |  |
@@ -246,6 +247,7 @@
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 |  |
 | [Peninsula](https://open.spotify.com/track/4Mdh699pUIURrBHokfrmmE) | [Pio Roque](https://open.spotify.com/artist/4E4gkQpb8xu95BYH9j9hWW) | [Peninsula](https://open.spotify.com/album/5Z02PzorLGCAxWQF157nWa) | 2:08 | 2021-12-07 | 2022-04-15 |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-07 | 2022-12-24 |
+| [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 | 2023-03-29 |  |
 | [Pool of light](https://open.spotify.com/track/638iDsayTPgIScb5MSn4Qz) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Memoir](https://open.spotify.com/album/6ouP03HKu8kKGIZGXU4JcL) | 2:29 | 2022-09-20 |  |
 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 | 2021-12-07 | 2022-03-17 |
 | [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 | 2022-02-15 |  |
@@ -314,7 +316,7 @@
 | [Tagtraum](https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl) | [Lev Monticelli](https://open.spotify.com/artist/2PzaZCyLzfSqZN0Zy01Ys0) | [Im Lärchenwald](https://open.spotify.com/album/6gzewSzvAZpe24mTDvmiNy) | 2:47 | 2022-01-18 |  |
 | [Technicolor Dreamscape](https://open.spotify.com/track/3FCvuX0Q89RnHmGsSkZQ5U) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Petit Voyage](https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V) | 3:17 | 2023-01-26 |  |
 | [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2021-12-07 | 2022-12-24 |
-| [The Ballet Dancer](https://open.spotify.com/track/51Tg7MFrOSdbYnqUCxN20O) | [Krisztian Palmai](https://open.spotify.com/artist/4mqTUYPEd89xIjrv6BPxRm), [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballet Dancer](https://open.spotify.com/album/1pYBBBeg3nEtCc9sIlNc8g) | 1:57 | 2022-09-20 |  |
+| [The Ballet Dancer](https://open.spotify.com/track/51Tg7MFrOSdbYnqUCxN20O) | [Krisztian Palmai](https://open.spotify.com/artist/4mqTUYPEd89xIjrv6BPxRm), [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballet Dancer](https://open.spotify.com/album/1pYBBBeg3nEtCc9sIlNc8g) | 1:57 | 2022-09-20 | 2023-03-30 |
 | [The Distant Path](https://open.spotify.com/track/1nPQClKsAqd84PZU5hfVCB) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [A Place I Remember](https://open.spotify.com/album/7AKhyi9Ylbpga01pIsytVr) | 3:31 | 2021-12-07 | 2022-06-08 |
 | [The Emotion of Light \- Revisited](https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The Emotion Of Light \(Revisited\)](https://open.spotify.com/album/4bFCPQNJbkSJGVWogzUnVw) | 2:13 | 2022-06-07 |  |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 | 2023-01-27 |

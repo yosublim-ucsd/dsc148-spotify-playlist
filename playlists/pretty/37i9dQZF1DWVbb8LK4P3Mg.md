@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,458 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,444 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 38 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 |
 | 39 | [Candles](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Candles\]](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) | 3:51 |
 | 40 | [Dear Santa](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:58 |
-| 41 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 |
+| 41 | [Maybe Christmas \- Orchestra Version](https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Maybe Christmas \(Orchestra Version\)](https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2) | 5:03 |
 | 42 | [겨울나무 I’m all ears](https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:35 |
-| 43 | [Maybe Christmas \- Orchestra Version](https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Maybe Christmas \(Orchestra Version\)](https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2) | 5:03 |
+| 43 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 |
 | 44 | [Gift For You](https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Gift For You](https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6) | 3:33 |
 | 45 | [FOCUS](https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [FOCUS](https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af) | 2:26 |
 | 46 | [Let Me Know \- Bonus Track](https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Another Sad Love Song](https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE) | 3:04 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 63 | [Merry Christmas](https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:43 |
 | 64 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 |
 | 65 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
-| 66 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 |
+| 66 | [Happy Christmas](https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [YAOKI Project part.1](https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9) | 4:03 |
 | 67 | [Candy Cane](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:24 |
-| 68 | [Happy Christmas](https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [YAOKI Project part.1](https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9) | 4:03 |
+| 68 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 |
 | 69 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
 | 70 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 |
 | 71 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Warm wishes on christmas](https://open.spotify.com/track/0w5rkWapNdWfyCbXT8j3cS) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/4e3LtVVogcBvfdiaKHIPv0) | 1:46 |
 | 100 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 |
 
-Snapshot ID: `MTY3MzM2NDI1MywwMDAwMDAwMDQ5MjJmOTgyMmM5NmZiMjcwZmU0YjIzM2YwYTg4MWRk`
+Snapshot ID: `MTY3MzM2NDI1MywwMDAwMDAwMDJjNWFjZWEzNTlmNWU1N2FmNjNkMTBkNWY5Mjg4Njli`

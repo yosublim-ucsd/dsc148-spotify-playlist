@@ -4,7 +4,7 @@
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-72 songs - 3 hr 52 min
+73 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Se Vende un Caballo](https://open.spotify.com/track/4INGYD1uBRoEIwrIWLHoK3) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 2:42 | 2022-08-01 |  |
 | [Trato De Muerte \(feat\. Los Buchones De Culiacan\)](https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 | 2022-08-01 |  |
 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 | 2022-08-01 |  |
-| [Yegua Sebruna](https://open.spotify.com/track/7gSZDWpZIdWvhuXHtFE1Xe) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Los Viejitos](https://open.spotify.com/album/5tld9xZvr1q3oiUdmP2NsU) | 3:20 | 2022-08-01 |  |
+| [Yegua Sebruna](https://open.spotify.com/track/7gSZDWpZIdWvhuXHtFE1Xe) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Los Viejitos](https://open.spotify.com/album/5tld9xZvr1q3oiUdmP2NsU) | 3:20 | 2022-08-01 | 2023-03-30 |
 | [Yegua Sebruna](https://open.spotify.com/track/0f5WtuRcdI32JjJOkZo9iG) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Los Viejitos](https://open.spotify.com/album/1uXnvrwer247xjqQTaTW7p) | 3:20 | 2022-08-01 | 2023-03-29 |
+| [Yegua Sebruna](https://open.spotify.com/track/2TPR91U0kO62ZXei7JYSRD) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Los Viejitos](https://open.spotify.com/album/5FuC4XGFsNQZXUf84B3jGx) | 3:20 | 2022-08-01 |  |
 
 \*This playlist was first scraped on 2023-03-06. Prior content cannot be recovered.

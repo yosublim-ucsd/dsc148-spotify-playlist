@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,653 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,678 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 58 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
 | 59 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
 | 60 | [Feel Real](https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Life After Defo](https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW) | 4:12 |
-| 61 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
-| 62 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
+| 61 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
+| 62 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
 | 63 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 |
 | 64 | [cherry blossom](https://open.spotify.com/track/2pVym24miJgEbF170Is2lO) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 2:21 |
 | 65 | [Black Rain](https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Black Rain](https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b) | 3:51 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 93 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
 | 94 | [Run Run \- Japanese Wallpaper Remix](https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Run Run \(Japanese Wallpaper Remix\)](https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr) | 3:25 |
 | 95 | [Trip](https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH) | 2:53 |
-| 96 | [CLOVER](https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [CLOVER](https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF) | 3:18 |
-| 97 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
+| 96 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
+| 97 | [CLOVER](https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [CLOVER](https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF) | 3:18 |
 | 98 | [A Million Times \- HONNE remix](https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [A Million Times \(HONNE remix\)](https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt) | 4:06 |
 | 99 | [September Come](https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [The Accents](https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ) | [September Come](https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd) | 4:00 |
-| 100 | [Winter/Fall](https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [The Mathematics of Nature](https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W) | 6:03 |
+| 100 | [Edge of the Dark](https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 4:20 |
 
-Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMDFiNmQxOTNjYWViMThhY2E4ZjE1NjMwYWM3MDlkOWI5`
+Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMDMyNjcyN2I2YmJhZWQ1MjFjYjkzYmYwNjdiMzU4YmEz`

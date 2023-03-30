@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,666 songs - 3 day 10 hr 4 min
+1,667 songs - 3 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 | 2021-11-28 | 2022-12-29 |
 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 | 2021-12-25 | 2022-12-28 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-03 |
+| [Juicy](https://open.spotify.com/track/4i81SNeu64liIEAytWqIOK) | [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Juicy](https://open.spotify.com/album/4nM6Os9s6gzVzsp4dLiSmn) | 2:45 | 2023-03-29 |  |
 | [Juicy Money](https://open.spotify.com/track/5BfRL84y1LtmACz4UreC0S) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 2:46 | 2021-11-21 | 2021-11-25 |
 | [Julia](https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Julia](https://open.spotify.com/album/5pmizTJIFtVWJpb1PkKljc) | 2:17 | 2023-02-15 | 2023-02-17 |
 | [Jumper](https://open.spotify.com/track/1TM2i0pjWHpus4t3p6zs0V) | [Silva](https://open.spotify.com/artist/7ja62ZARrm20k4Sowt0ab8) | [Jumper](https://open.spotify.com/album/4l7PlVlDtmEHhdmbW208E1) | 2:10 | 2022-04-12 | 2022-05-22 |
@@ -1512,7 +1513,7 @@
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 | 2023-02-01 |
 | [Uninteressant](https://open.spotify.com/track/3kaaRmJhAekwEFiB6SRiPV) | [KASIMIR1441](https://open.spotify.com/artist/7ADRm1oT7VmhRRZrZqycV6), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq) | [Uninteressant](https://open.spotify.com/album/0HfWZpcaeccrP2zm9Sbckz) | 2:22 | 2021-07-18 | 2021-07-19 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-16 |
-| [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 | 2023-03-25 |  |
+| [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 | 2023-03-25 | 2023-03-30 |
 | [Unten kommt die Gurke rein](https://open.spotify.com/track/35ac3gdxwVTwYV2P1GC84h) | [Die Sacknähte](https://open.spotify.com/artist/6w6DStBcPNWDIfavmXaEh2), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Unten kommt die Gurke rein](https://open.spotify.com/album/2I6DGF9tcl7m3lo2Crrs9v) | 3:35 | 2021-11-28 | 2021-11-30 |
 | [Unter dem Radar](https://open.spotify.com/track/4NOSbom2QAjXJoyoJZehGe) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [Unter dem Radar](https://open.spotify.com/album/7GfVJQcmNw2Kc2NNg42jcY) | 2:23 | 2021-04-18 | 2021-05-03 |
 | [Unter die Haut](https://open.spotify.com/track/5Gf6qU9Ett00mOaQuXm9eM) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Unter die Haut](https://open.spotify.com/album/2nsaNwlGghj8P4rK8JaPZo) | 2:30 | 2022-01-29 | 2022-01-31 |

@@ -9338,7 +9338,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 143095,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/26jKVRgWdbQZRzMWuV6y22"
@@ -19880,6 +19880,24 @@
       "duration_ms": 134285,
       "name": "For Her",
       "url": "https://open.spotify.com/track/7BjabIgLdDlgTQrUfc5rfd"
+    },
+    {
+      "album": {
+        "name": "For Jay",
+        "url": "https://open.spotify.com/album/0yGoC4C5rp7egjVkmLnACm"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "For Jay",
+      "url": "https://open.spotify.com/track/0EaewujYRGsFrlkfxV6Ls9"
     },
     {
       "album": {
@@ -36476,7 +36494,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-30",
       "duration_ms": 112207,
       "name": "Midnight Dinner",
       "url": "https://open.spotify.com/track/288UlMNjTPKmHqSFg7m09C"
@@ -52378,6 +52396,28 @@
       "duration_ms": 113281,
       "name": "Slow Jazz",
       "url": "https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq"
+    },
+    {
+      "album": {
+        "name": "Slow Pace",
+        "url": "https://open.spotify.com/album/6ikHbzR6hpGdZgrJK1T0UB"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "Slow Pace",
+      "url": "https://open.spotify.com/track/3CZmilQh3BDtRn8R3k02nL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Speak
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,350 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,356 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 13 | [From The Bottom](https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Rittz](https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY) | [From The Bottom](https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68) | 3:30 |
 | 14 | [The One](https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [The One](https://open.spotify.com/album/75hXgReGq2RApC1h02kutn) | 3:47 |
 | 15 | [Ain't Feelin Us](https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ain't Feelin Us](https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F) | 2:33 |
-| 16 | [Frontline](https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Frontline](https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j) | 3:04 |
-| 17 | [With My Homies](https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y) | [Sevens Muzik](https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [With My Homies](https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl) | 3:37 |
+| 16 | [With My Homies](https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y) | [Sevens Muzik](https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [With My Homies](https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl) | 3:37 |
+| 17 | [Frontline](https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Frontline](https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j) | 3:04 |
 | 18 | [High](https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [High](https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP) | 2:15 |
 | 19 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 20 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 37 | [Gahdamn](https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Gahdamn](https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0) | 2:33 |
 | 38 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 | 39 | [N.Y Minute](https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [N.Y Minute](https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7) | 3:07 |
-| 40 | [Intoxicated](https://open.spotify.com/track/3iXqT4RJIxiTDwBgGYk2fu) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Intoxicated](https://open.spotify.com/album/3VRe7Q3WbWVvxohufXx1ea) | 3:12 |
+| 40 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 
-Snapshot ID: `MTY3ODQ4NTc3MywwMDAwMDAwMDYxNGYxMTkyYmIyZTkyMmQ2MWYwYWYyMzE0ZmM0ZGE0`
+Snapshot ID: `MTY3ODQ4NTc3MywwMDAwMDAwMDUxN2U0MTNiMTU5ZWQ3MGQ3NDRhMjU1NzgyYjA0NWRh`

@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 104503,
+  "num_followers": 104625,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDc3N2FmODVkMGU4M2Q1NzEwZDZlZGJiZjQwMzhiMzQ4",
+  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDQ4Y2Y0ZDY3ZWE2NDlmYzU0OWUxYTU3NzY2ZTIzOGU3",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/1wtfZcywQbynryjXGBNfMQ"
     },
     {
-      "added_at": "2023-03-29 05:42:48",
+      "added_at": "2023-03-30 01:24:14",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -479,6 +479,22 @@
       "duration_ms": 157687,
       "name": "\u00c9 Sal",
       "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Glockada",
+        "url": "https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 121678,
+      "name": "Glockada",
+      "url": "https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -523,22 +539,6 @@
       "duration_ms": 324016,
       "name": "Assault (Rio)",
       "url": "https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Glockada",
-        "url": "https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 121678,
-      "name": "Glockada",
-      "url": "https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Bendito",
+        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 177869,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Chega de Falar de Ice",
         "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
       },
@@ -715,6 +731,46 @@
       "duration_ms": 177245,
       "name": "Chega de Falar de Ice",
       "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "MIDNIGHT CALLS",
+        "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 251923,
+      "name": "30 Dias",
+      "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "A Cunhada",
+        "url": "https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 167937,
+      "name": "A Cunhada",
+      "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -763,48 +819,8 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "MIDNIGHT CALLS",
-        "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 251923,
-      "name": "30 Dias",
-      "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "A Cunhada",
-        "url": "https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 167937,
-      "name": "A Cunhada",
-      "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Bendito",
-        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
+        "name": "Love And Choppa",
+        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
       },
       "artists": [
         {
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
         }
       ],
-      "duration_ms": 177869,
-      "name": "Bendito",
-      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
+      "duration_ms": 140855,
+      "name": "Love And Choppa",
+      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Love And Choppa",
-        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF"
       },
       "artists": [
         {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
         }
       ],
-      "duration_ms": 140855,
-      "name": "Love And Choppa",
-      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
+      "duration_ms": 146165,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1011,22 +1027,6 @@
       "duration_ms": 152086,
       "name": "Como a chuva cai",
       "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Maleta",
+        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Maleta",
+      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -1187,30 +1211,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Maleta",
-        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Maleta",
-      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "Bvlgari",
         "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
       },
@@ -1235,30 +1235,18 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Oclin e Evoque",
-        "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
+        "name": "Obrigado, M\u00e3e.",
+        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
       },
       "artists": [
         {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
         }
       ],
-      "duration_ms": 212581,
-      "name": "Oclin e Evoque",
-      "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
+      "duration_ms": 157090,
+      "name": "Obrigado, M\u00e3e.",
+      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1287,18 +1275,30 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Obrigado, M\u00e3e.",
-        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
+        "name": "Oclin e Evoque",
+        "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
       },
       "artists": [
         {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
         }
       ],
-      "duration_ms": 157090,
-      "name": "Obrigado, M\u00e3e.",
-      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
+      "duration_ms": 212581,
+      "name": "Oclin e Evoque",
+      "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
     },
     {
       "added_at": "2023-02-07 20:52:54",

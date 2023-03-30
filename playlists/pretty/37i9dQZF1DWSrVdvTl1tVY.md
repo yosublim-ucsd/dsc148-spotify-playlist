@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Aluna & TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,373 likes - 84 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,441 likes - 84 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

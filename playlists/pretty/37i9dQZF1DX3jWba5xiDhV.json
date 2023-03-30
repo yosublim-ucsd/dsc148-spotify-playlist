@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 103714,
+  "num_followers": 104036,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5MDQ4NSwwMDAwMDAwMDVmMDNkNWMwOTIxOWVjYzMwZGQ0YzljMWEwYWRkOTBh",
+  "snapshot_id": "MTY3NzU5MDQ4NSwwMDAwMDAwMDFiOGFhYTc3NDc5OWZjZTE2YmJlYjdhOTFkZmFlNDMy",
   "tracks": [
     {
       "added_at": "2023-02-28 13:21:25",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-28 13:21:25",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
-    },
-    {
-      "added_at": "2023-02-28 13:21:25",
-      "album": {
         "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
+    },
+    {
+      "added_at": "2023-02-28 13:21:25",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
     },
     {
       "added_at": "2023-02-28 13:21:25",

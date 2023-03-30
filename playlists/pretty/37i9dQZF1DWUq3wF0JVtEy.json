@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 903701,
+  "num_followers": 903919,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDAzZDQzMzI2MjAyOGJkOTJmMjRkNmExODRlMmM0YzNl",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDgyNDQ3ZjNjMWEzMDNjNDQwZmE3YTgzMzJkMjEyNjM5",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Eye To Eye",
-        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        }
-      ],
-      "duration_ms": 155002,
-      "name": "Eye To Eye",
-      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "2 Things",
         "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 191250,
       "name": "2 Things",
       "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Eye To Eye",
+        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        }
+      ],
+      "duration_ms": 155002,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -751,30 +751,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "No Piensa",
-        "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Boaz van de Beatz",
-          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
-        }
-      ],
-      "duration_ms": 149268,
-      "name": "No Piensa",
-      "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Backseat Tape",
         "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 234285,
       "name": "Make U SWEAT!",
       "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "No Piensa",
+        "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+        }
+      ],
+      "duration_ms": 149268,
+      "name": "No Piensa",
+      "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Sextacy",
         "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 182765,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -991,6 +991,58 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Shakedown",
+        "url": "https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "Mo Falk",
+          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
+        }
+      ],
+      "duration_ms": 160367,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Losing My Head",
+        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Losing My Head",
+      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Miami (\u00d6wnboss Remix) [feat. Nile Rodgers]",
         "url": "https://open.spotify.com/album/2HTCGfMaVGgW5MJJaGH3oJ"
       },
@@ -1015,58 +1067,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Losing My Head",
-        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Losing My Head",
-      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Shakedown",
-        "url": "https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz"
-      },
-      "artists": [
-        {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        },
-        {
-          "name": "Mo Falk",
-          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
-        }
-      ],
-      "duration_ms": 160367,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Bring Et",
         "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
       },
@@ -1079,6 +1079,26 @@
       "duration_ms": 142857,
       "name": "Bring Et",
       "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1127,26 +1147,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Wish He Knew",
         "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
       },
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "duration_ms": 219523,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 242343,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "DJ Glen",
-          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
-        }
-      ],
-      "duration_ms": 219523,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
-        }
-      ],
-      "duration_ms": 169252,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
@@ -1351,26 +1331,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
       },
       "artists": [
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         },
         {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
+      "duration_ms": 169252,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1391,6 +1367,30 @@
       "duration_ms": 207385,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/139Tpi5zztQtv42a36TlMB"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "Famba",
+          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Power Stone",
         "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 167619,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Your Tongue",
-        "url": "https://open.spotify.com/album/2Wqy2IKWC5zai36LAin6eP"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 157428,
-      "name": "Your Tongue",
-      "url": "https://open.spotify.com/track/6uGNhZyjr139uPQIFQCVP2"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Rave Shake",
         "url": "https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 124761,
       "name": "Rave Shake",
       "url": "https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Your Tongue",
+        "url": "https://open.spotify.com/album/2Wqy2IKWC5zai36LAin6eP"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 157428,
+      "name": "Your Tongue",
+      "url": "https://open.spotify.com/track/6uGNhZyjr139uPQIFQCVP2"
     },
     {
       "added_at": "2023-03-24 04:01:00",

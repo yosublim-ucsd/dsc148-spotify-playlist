@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121062,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm"
+    },
+    {
+      "album": {
         "name": "Essential Truth",
         "url": "https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy"
       },
@@ -3481,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Friedliebend",
+        "url": "https://open.spotify.com/album/0ErzD4yq39nTwzDwAIIfhy"
+      },
+      "artists": [
+        {
+          "name": "Heike Blau",
+          "url": "https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132796,
+      "name": "Friedliebend",
+      "url": "https://open.spotify.com/track/1DhBkcETHP709aHSpJozE7"
+    },
+    {
+      "album": {
         "name": "Fr\u00fchlingsbach",
         "url": "https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb"
       },
@@ -4094,6 +4130,24 @@
       "duration_ms": 112540,
       "name": "Hope (Felt)",
       "url": "https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv"
+    },
+    {
+      "album": {
+        "name": "Hopelijk",
+        "url": "https://open.spotify.com/album/3CBJZX7YjdUt9Znda8dprR"
+      },
+      "artists": [
+        {
+          "name": "Annebelle Coenraad",
+          "url": "https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118252,
+      "name": "Hopelijk",
+      "url": "https://open.spotify.com/track/2s0aWHa34r7CbfzMjwfuOv"
     },
     {
       "album": {
@@ -11108,6 +11162,24 @@
       "duration_ms": 155660,
       "name": "Whisper Trail",
       "url": "https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB"
+    },
+    {
+      "album": {
+        "name": "Whispering Pines",
+        "url": "https://open.spotify.com/album/6859sgyqyzsrzEhQwoO91Q"
+      },
+      "artists": [
+        {
+          "name": "Logan Collier",
+          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133732,
+      "name": "Whispering Pines",
+      "url": "https://open.spotify.com/track/7Ia1tIQDGAFfZWYJc1vFcN"
     },
     {
       "album": {

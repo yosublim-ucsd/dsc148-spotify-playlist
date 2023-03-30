@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 421114,
+  "num_followers": 421457,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDVmNjQ1ZDQ2YWRiMmZhODgwZjYzMzM4OGU2NDZkNDlj",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGY5YjNhNmYzY2I4OGU4MWU5YzcyNDBjYTU5YTBiMWYw",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Seve (Radio Edit)",
-        "url": "https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4"
-      },
-      "artists": [
-        {
-          "name": "Tez Cadey",
-          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Seve - Radio Edit",
-      "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Seve (Radio Edit)",
+        "url": "https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4"
+      },
+      "artists": [
+        {
+          "name": "Tez Cadey",
+          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Seve - Radio Edit",
+      "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
     },
     {
       "added_at": "2022-01-18 14:54:04",

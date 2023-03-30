@@ -1,13 +1,133 @@
 {
   "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/4gP93834jVbocef9R42gQz?si=E9SyvXp9Rs2fj13j9vm27w\" > Kwaku DMC</a> ",
-  "num_followers": 16642,
+  "num_followers": 16665,
   "original_name": "Asakaa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MTc3OCwwMDAwMDAwMDlmMzk4ZjJhODdjNGZmZDgxZGZhMmI1NDNmNjY1MDhj",
+  "snapshot_id": "MTY4MDA5Nzc2MSwwMDAwMDAwMGZiZmNiMTllMjVmODRhNGE4ODBlMDFmNmQ1MWE0M2Ri",
   "tracks": [
+    {
+      "added_at": "2023-03-17 08:29:38",
+      "album": {
+        "name": "Anadwo",
+        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 170295,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
+    },
+    {
+      "added_at": "2023-03-29 13:49:21",
+      "album": {
+        "name": "Yaa Baby",
+        "url": "https://open.spotify.com/album/2HW2hdH3U2Be05Ispz7Fyb"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 207086,
+      "name": "Yaa Baby",
+      "url": "https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv"
+    },
+    {
+      "added_at": "2023-03-17 08:29:38",
+      "album": {
+        "name": "Obaa Hemaa",
+        "url": "https://open.spotify.com/album/0FhtqISRyEGe6YVxjySqN9"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 184555,
+      "name": "Obaa Hemaa",
+      "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
+    },
+    {
+      "added_at": "2023-03-17 08:29:38",
+      "album": {
+        "name": "GENG GENG (feat. City Boy, O'Kenneth, Jay Bahd & Sean Lifer)",
+        "url": "https://open.spotify.com/album/0Km1oJSuuHnhZMpbpTPdO9"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Sean Lifer",
+          "url": "https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "GENG GENG (feat. City Boy, O'Kenneth, Jay Bahd & Sean Lifer)",
+      "url": "https://open.spotify.com/track/1O8u2QYMb4fDdQFQYKFeaI"
+    },
+    {
+      "added_at": "2023-03-17 08:29:38",
+      "album": {
+        "name": "Stand Firm",
+        "url": "https://open.spotify.com/album/3sr8Z6gGLvnzOKXnejZs3r"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "duration_ms": 132231,
+      "name": "Stand Firm",
+      "url": "https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM"
+    },
     {
       "added_at": "2023-03-17 08:29:38",
       "album": {
@@ -243,42 +363,6 @@
     {
       "added_at": "2023-03-17 08:29:38",
       "album": {
-        "name": "Obaa Hemaa",
-        "url": "https://open.spotify.com/album/0FhtqISRyEGe6YVxjySqN9"
-      },
-      "artists": [
-        {
-          "name": "Skyface SDW",
-          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        },
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 184555,
-      "name": "Obaa Hemaa",
-      "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
-    },
-    {
-      "added_at": "2023-03-17 08:29:38",
-      "album": {
         "name": "Y3 Y3 DOM (feat. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth)",
         "url": "https://open.spotify.com/album/3onPRPaXRaC4d7y2sqXgX4"
       },
@@ -319,26 +403,6 @@
     {
       "added_at": "2023-03-17 08:29:38",
       "album": {
-        "name": "Stand Firm",
-        "url": "https://open.spotify.com/album/3sr8Z6gGLvnzOKXnejZs3r"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Skyface SDW",
-          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
-        }
-      ],
-      "duration_ms": 132231,
-      "name": "Stand Firm",
-      "url": "https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM"
-    },
-    {
-      "added_at": "2023-03-17 08:29:38",
-      "album": {
         "name": "Masherita (feat. Skyface SDW, CHICOGOD & City Boy)",
         "url": "https://open.spotify.com/album/2cng5y9rfb7QCbcjakftV5"
       },
@@ -363,38 +427,6 @@
       "duration_ms": 188731,
       "name": "Masherita (feat. Skyface SDW, CHICOGOD & City Boy)",
       "url": "https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK"
-    },
-    {
-      "added_at": "2023-03-17 08:29:38",
-      "album": {
-        "name": "GENG GENG (feat. City Boy, O'Kenneth, Jay Bahd & Sean Lifer)",
-        "url": "https://open.spotify.com/album/0Km1oJSuuHnhZMpbpTPdO9"
-      },
-      "artists": [
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "City Boy",
-          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Sean Lifer",
-          "url": "https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "GENG GENG (feat. City Boy, O'Kenneth, Jay Bahd & Sean Lifer)",
-      "url": "https://open.spotify.com/track/1O8u2QYMb4fDdQFQYKFeaI"
     },
     {
       "added_at": "2023-03-17 08:29:38",
@@ -543,22 +575,6 @@
       "duration_ms": 129427,
       "name": "COLD",
       "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
-    },
-    {
-      "added_at": "2023-03-17 08:29:38",
-      "album": {
-        "name": "Anadwo",
-        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 170295,
-      "name": "Anadwo",
-      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
     },
     {
       "added_at": "2023-03-17 08:29:38",
@@ -1191,22 +1207,6 @@
       "duration_ms": 215510,
       "name": "Brodo",
       "url": "https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd"
-    },
-    {
-      "added_at": "2023-03-17 08:29:38",
-      "album": {
-        "name": "2 By 2",
-        "url": "https://open.spotify.com/album/2OQTBLs49TBA9Aqeetopnu"
-      },
-      "artists": [
-        {
-          "name": "Komla MC",
-          "url": "https://open.spotify.com/artist/1YzRdveJSpKhAPbVoMr8J2"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "2 By 2",
-      "url": "https://open.spotify.com/track/3YiAKOhUJSplRyROIAOxMs"
     }
   ],
   "unique_name": "Asakaa",

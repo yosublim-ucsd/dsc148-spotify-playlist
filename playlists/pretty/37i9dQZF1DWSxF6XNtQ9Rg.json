@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 170382,
+  "num_followers": 170521,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NDA2NywwMDAwMDAwMGE0NDA4NmRjOTYxMWYzNmFhOWY1MmYxZTcwNmMwNzUz",
+  "snapshot_id": "MTY3ODA5NDA2NywwMDAwMDAwMDU2ZWY5MWIxNjczZTI5Mzk2MTRiMzdmZTg1NWQ5MTEz",
   "tracks": [
     {
       "added_at": "2023-03-06 09:09:52",
@@ -59,30 +59,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Hace Calor (Remix)",
-        "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 247384,
-      "name": "Hace Calor - Remix",
-      "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
+      "duration_ms": 181661,
+      "name": "Non Abbiamo Et\u00e0",
+      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -107,18 +95,30 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+        "name": "Hace Calor (Remix)",
+        "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 181661,
-      "name": "Non Abbiamo Et\u00e0",
-      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+      "duration_ms": 247384,
+      "name": "Hace Calor - Remix",
+      "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Rozzi",
-        "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "Rozzi",
-      "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Rozzi",
+        "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "Rozzi",
+      "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
+        "name": "Bellaria",
+        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "duration_ms": 211518,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 169671,
       "name": "Angelina Jolie",
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "Bellaria",
-        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "duration_ms": 211518,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "MOLOTOV",
-        "url": "https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 160204,
-      "name": "MOLOTOV",
-      "url": "https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Vita Vera Mixtape",
         "url": "https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 252991,
       "name": "Polvere (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "MOLOTOV",
+        "url": "https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 160204,
+      "name": "MOLOTOV",
+      "url": "https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1883,30 +1883,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Dilemme (with tha Supreme & Mara Sattei)",
-        "url": "https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Mara Sattei",
-          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Dilemme (with tha Supreme & Mara Sattei)",
-      "url": "https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Ossigeno - EP",
         "url": "https://open.spotify.com/album/0eAgD8ueJfUud98yLZ612P"
       },
@@ -1931,18 +1907,26 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "GASOLINA",
-        "url": "https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch"
+        "name": "Dilemme (with tha Supreme & Mara Sattei)",
+        "url": "https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
         }
       ],
-      "duration_ms": 145846,
-      "name": "GASOLINA",
-      "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
+      "duration_ms": 231333,
+      "name": "Dilemme (with tha Supreme & Mara Sattei)",
+      "url": "https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1979,6 +1963,22 @@
       "duration_ms": 202573,
       "name": "STAI ZITTO (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/2rgOAX5Cj3pk8JFnaPwJbd"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "GASOLINA",
+        "url": "https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "GASOLINA",
+      "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
     }
   ],
   "unique_name": "Hit Rap Italiane",

@@ -1,15 +1,15 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 57983,
+  "num_followers": 58027,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMDAyMzYsMDAwMDAwMDA0OGVmMGE4OWFjNmMwYjllYjYwYzdmYWZmZjJhMDA1Nw==",
+  "snapshot_id": "MjgwMDE1MjQsMDAwMDAwMDA3MDZkZWVlYzA0MzI3NmZhNjU0OWQ0MTEzNDgwZDliZQ==",
   "tracks": [
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
-      "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 338960,
-      "name": "Handshake with Hell",
-      "url": "https://open.spotify.com/track/4jPU94aF0U2PMNN0aBnhgX"
-    },
-    {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 338960,
+      "name": "Handshake with Hell",
+      "url": "https://open.spotify.com/track/4jPU94aF0U2PMNN0aBnhgX"
+    },
+    {
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7KoWRwwVUgZV5D0zmrr25s"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
@@ -89,23 +89,7 @@
       "url": "https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
-      "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "The Watcher",
-      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
-    },
-    {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/45eGeRq5VjhY6RTN1TOefI"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "The Watcher",
+      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
+    },
+    {
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
@@ -153,23 +153,7 @@
       "url": "https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
-      "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "House of Mirrors",
-      "url": "https://open.spotify.com/track/4mdop8Jx5BwspAQzvjF8pu"
-    },
-    {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
@@ -185,7 +169,23 @@
       "url": "https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "House of Mirrors",
+      "url": "https://open.spotify.com/track/4mdop8Jx5BwspAQzvjF8pu"
+    },
+    {
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
@@ -217,23 +217,7 @@
       "url": "https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
-      "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX"
-    },
-    {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/5oyCIQWuSgFB25yA66AIcG"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX"
+    },
+    {
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/7uqohNjCnZ8sZd5S2vh5vx"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
@@ -281,23 +281,7 @@
       "url": "https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
-      "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "In the Eye of the Storm",
-      "url": "https://open.spotify.com/track/3Ho41g5j1K5tiFmuU6DcZl"
-    },
-    {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
@@ -313,7 +297,23 @@
       "url": "https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "In the Eye of the Storm",
+      "url": "https://open.spotify.com/track/3Ho41g5j1K5tiFmuU6DcZl"
+    },
+    {
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/6tzxM7GwiC5Yci3s08n5B4"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
@@ -345,23 +345,7 @@
       "url": "https://open.spotify.com/track/47j6K08MLO1PiYsxv7VCVM"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
-      "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Deceiver, Deceiver",
-      "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
-    },
-    {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
@@ -377,7 +361,23 @@
       "url": "https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Deceiver, Deceiver",
+      "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
+    },
+    {
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/1qOzN09z3hBMfcUBaBi40Q"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/4jVjUOl1gwcHCWxwlWY0zf"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/122dV7zqPVekyeVmJQXnvD"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/3y9BI61Ssc71BX3Yh6aE5N"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/19lYRLj7L8F6oUejDM7pgX"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "The Root of All Evil",
         "url": "https://open.spotify.com/album/3lPgwuzDBUYL5eDb4n0w41"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/65MwtwKP0YlnmLf4R5nhf0"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
@@ -761,10 +761,10 @@
       "url": "https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35"
     },
     {
-      "added_at": "2023-03-28 14:36:09",
+      "added_at": "2023-03-29 12:04:21",
       "album": {
-        "name": "Black Earth (Reissue)",
-        "url": "https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z"
+        "name": "Covered In Blood",
+        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 264413,
-      "name": "Aces High - cover version",
-      "url": "https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo"
+      "duration_ms": 242813,
+      "name": "Symphony of Destruction - cover version",
+      "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
     }
   ],
   "unique_name": "This Is Arch Enemy",

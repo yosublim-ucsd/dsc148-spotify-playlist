@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 98296,
+  "num_followers": 98343,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDFjODAzNWQyMTFhMzA2NjdhNGY3ZTc5ZTVmZGY3YzRm",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGNkYWVjYmRlMjhkNWFkY2EzMWRiNjM3MzM2YjVmNDY5",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -139,30 +139,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Pode Morar Aqui (Remix)",
-        "url": "https://open.spotify.com/album/1VinOknA5ejR8imqhUsbYP"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "M\u00cbDNA",
-          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Pode Morar Aqui - Remix",
-      "url": "https://open.spotify.com/track/6pTd7vUXSGW19gGXuESNgE"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Pode Morar Aqui (Remix)",
+        "url": "https://open.spotify.com/album/1VinOknA5ejR8imqhUsbYP"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Pode Morar Aqui - Remix",
+      "url": "https://open.spotify.com/track/6pTd7vUXSGW19gGXuESNgE"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y"
+        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
       },
       "artists": [
         {
@@ -1124,21 +1124,17 @@
           "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
         },
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
           "name": "Lufra",
           "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         },
         {
-          "name": "Felipe Costa",
-          "url": "https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG"
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D"
+      "duration_ms": 158789,
+      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1239,8 +1235,8 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y"
       },
       "artists": [
         {
@@ -1248,17 +1244,21 @@
           "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
         },
         {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
           "name": "Lufra",
           "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         },
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+          "name": "Felipe Costa",
+          "url": "https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG"
         }
       ],
-      "duration_ms": 158789,
-      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
+      "duration_ms": 228480,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Meu Lugar",
         "url": "https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 161485,
       "name": "Meu Lugar",
       "url": "https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2023-03-17 03:00:00",

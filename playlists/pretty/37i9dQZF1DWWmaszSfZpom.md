@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,621 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,647 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 35 | [ATENÇÃO](https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ATENÇÃO](https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93) | 2:15 |
 | 36 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
 | 37 | [Hold On](https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g) | [very man](https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR) | [Hold On](https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT) | 2:59 |
-| 38 | [Vem Me Satisfazer](https://open.spotify.com/track/63SHcJzckFykS8faA5zojY) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ) | [Vem Me Satisfazer](https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN) | 3:08 |
-| 39 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
+| 38 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
+| 39 | [Vem Me Satisfazer](https://open.spotify.com/track/63SHcJzckFykS8faA5zojY) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ) | [Vem Me Satisfazer](https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN) | 3:08 |
 | 40 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 |
 | 41 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
 | 42 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 47 | [LARISSA](https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [LARISSA](https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy) | 2:05 |
 | 48 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 |
 | 49 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
-| 50 | [Espirra o Lança](https://open.spotify.com/track/0IOLlXSZt9z2ydmH5FzIj7) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/0Q8Ua0fbWMDzsEdZDFMhu4) | 3:10 |
+| 50 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
 | 51 | [Azul Piscina](https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Azul Piscina](https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF) | 3:34 |
-| 52 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
+| 52 | [Espirra o Lança](https://open.spotify.com/track/0IOLlXSZt9z2ydmH5FzIj7) | [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Espirra o Lança](https://open.spotify.com/album/0Q8Ua0fbWMDzsEdZDFMhu4) | 3:10 |
 | 53 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
 | 54 | [É sempre assim](https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu) | [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI) | [É sempre assim](https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3) | 2:38 |
 | 55 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 99 | [Bumbum Granada](https://open.spotify.com/track/261vtIjvKdSBzhvvu8q4nv) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7IZRQWJAd9E8qwh22Ijjar) | 3:07 |
 | 100 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
 
-Snapshot ID: `MTY3NzI1NTE4MiwwMDAwMDAwMGFjMjllMTJkMGIwMzNjOWM0YWNiZGE3NzY2NDQ5OTE4`
+Snapshot ID: `MTY3NzI1NTE4MiwwMDAwMDAwMDk5MGZmYzVmODY2YTU5NzQ0OWJmMzIwN2Q1ZmFhNDU4`

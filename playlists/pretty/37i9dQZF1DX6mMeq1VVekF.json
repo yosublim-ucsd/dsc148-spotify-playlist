@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 136893,
+  "num_followers": 136931,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDRjYWJmZTQ0YTA2MTdiNTAwOGMyMzJiZWZkN2JkMjM3",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDliZTBkNGExZmE1MzVlMzcyOTZkMzNmYjA4OWFhNWJk",
   "tracks": [
     {
       "added_at": "2022-10-28 10:36:10",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2022-10-28 10:36:10",
       "album": {
-        "name": "The Gang",
-        "url": "https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN"
+        "name": "Cheers to the Best Memories",
+        "url": "https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA"
       },
       "artists": [
         {
-          "name": "Jimmy",
-          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 153600,
-      "name": "The Gang",
-      "url": "https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf"
+      "duration_ms": 164565,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1ENMwElCCao8ejBvXCjWN1"
     }
   ],
   "unique_name": "Free Form",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-441 songs - 1 day 1 hr 49 min
+442 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |
 | [Double Tap](https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ) | [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Double Tap](https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo) | 3:21 | 2022-10-10 | 2022-12-10 |
 | [Dream Cycle](https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Dream Cycle](https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK) | 3:47 | 2022-01-26 | 2022-04-06 |
-| [Dream of You](https://open.spotify.com/track/2WF1F1BeYTsYVxAJcKicV9) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Dream of You](https://open.spotify.com/album/0b2VziRlntuir19sjg1thx) | 2:43 | 2023-01-13 |  |
+| [Dream of You](https://open.spotify.com/track/2WF1F1BeYTsYVxAJcKicV9) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Dream of You](https://open.spotify.com/album/0b2VziRlntuir19sjg1thx) | 2:43 | 2023-01-13 | 2023-03-30 |
 | [Dream On](https://open.spotify.com/track/1MmgvqDJPNcJf8zKXNdAXy) | [Glaue](https://open.spotify.com/artist/4LLym899uwEUeuVo6KdVom) | [Dream On](https://open.spotify.com/album/0aaBetdnkoTWbFliLbrtnA) | 3:17 | 2022-01-12 | 2022-03-19 |
 | [Dreaming Awake](https://open.spotify.com/track/0gz3HMJHno5uiLUaxexT59) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 3:33 | 2022-11-25 | 2022-11-29 |
 | [dreaming of you](https://open.spotify.com/track/0Hp6vVEvnAcUl6weg2tUBM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 1](https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA) | 3:19 | 2022-11-16 | 2023-02-11 |
@@ -412,6 +412,7 @@
 | [Try Me](https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Try Me](https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC) | 3:14 | 2022-09-02 | 2022-11-05 |
 | [Turn Back The Clocks](https://open.spotify.com/track/1YSpczovBtz4fk8BxWrhvn) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 3:28 | 2022-11-19 | 2023-02-17 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
+| [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-03-29 |  |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-03-24 |  |
 | [Uatchu](https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Uatchu](https://open.spotify.com/album/2Kdrhi2A9RY0gmB2yyBPUw) | 4:37 | 2021-11-19 | 2022-01-25 |

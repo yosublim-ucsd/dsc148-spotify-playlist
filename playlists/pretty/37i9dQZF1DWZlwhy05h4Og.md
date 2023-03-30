@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: FIFTY FIFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 68 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 689 likes - 68 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

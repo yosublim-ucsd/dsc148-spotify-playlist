@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-626 songs - 1 day 7 hr 41 min
+627 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Gözler](https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Gözler](https://open.spotify.com/album/3cXZMVNUyIrwOPIJZ94Ic1) | 2:24 | 2022-04-12 | 2022-06-05 |
 | [Gözler Yalan Söylemez](https://open.spotify.com/track/6Y7B1Jyw9RJJtCTbGnw6zJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gözler Yalan Söylemez](https://open.spotify.com/album/2WnAt4LEDWFMRn0bW3PR0s) | 2:13 | 2022-02-26 | 2022-04-22 |
 | [Gözlerim Seni Arıyor](https://open.spotify.com/track/0n6er4tGjAjLu6bEQFsdr6) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Gözlerim Seni Arıyor](https://open.spotify.com/album/3dHqKY3WcAYOWOlmM4keRp) | 2:34 | 2021-08-22 | 2021-08-29 |
+| [gözlerindeki ay](https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [gözlerindeki ay](https://open.spotify.com/album/3TMj9dY2lRO6TriDsDQWr6) | 3:09 | 2023-03-29 |  |
 | [Gözyaşı Rapsodi 3](https://open.spotify.com/track/7uECo8F02dr0NrMLCPP1Xr) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Gözyaşı Rapsodi 3](https://open.spotify.com/album/3KrOj8YmxQn30s62AEXS5f) | 3:46 | 2022-12-24 | 2022-12-26 |
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
 | [Günes lvbel NKBI](https://open.spotify.com/track/4QOar9YEh8K7vHHmgYf1wf) | [Dupzibaba](https://open.spotify.com/artist/4RQuo3XeI8JydMHBIFhAX9) | [Günes lvbel NKBI](https://open.spotify.com/album/2hrltZBlDrvMxMZnPpFmSX) | 2:58 | 2022-11-08 | 2022-11-10 |
@@ -604,7 +605,7 @@
 | [Yengen Kızar](https://open.spotify.com/track/6CwQscf339HEHADnbFSbTJ) | [Tuhan](https://open.spotify.com/artist/6jGOSwp1HD2Q4Z9mO8P20h), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Motorola](https://open.spotify.com/album/4I4r101V0UNVKvsN5HLv2I) | 2:08 | 2021-07-11 | 2021-08-14 |
 | [Yerle Yeksan](https://open.spotify.com/track/53hT91rbPCM2V5YVHQSc6r) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Yerle Yeksan](https://open.spotify.com/album/0f2SlmXKmMzyQ9hp39b5kN) | 2:54 | 2021-07-18 | 2021-09-07 |
 | [YOK \(Ee daha daha nasılsınız?\)](https://open.spotify.com/track/1CHaheVKXgbu4kkAJov2m8) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS) | [YOK \(Ee daha daha nasılsınız?\)](https://open.spotify.com/album/6Nq2X3vAOrYrGGH8bcZO1c) | 2:32 | 2021-09-08 | 2021-11-17 |
-| [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 | 2023-02-04 |  |
+| [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 | 2023-02-04 | 2023-03-30 |
 | [Yoksa Yasak](https://open.spotify.com/track/1jkCgqZdN8zEtMFwj8NnTa) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Yoksa Yasak](https://open.spotify.com/album/7KBNbngcjLETQ0n974bIee) | 2:57 | 2021-07-11 | 2021-10-05 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-16 |
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-07 | 2023-01-22 |

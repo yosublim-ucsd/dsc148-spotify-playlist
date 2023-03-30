@@ -1,15 +1,15 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30ad\u30e5\u30a6\u30bd\u30cd\u30b3\u30ab\u30df (KYUSONEKOKAMI)",
-  "num_followers": 96303,
+  "num_followers": 96375,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDNiYzQxMGIwZDE0OGI2YTA2ZGYzMmRlZDZmZWFlMmMw",
+  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDE4YmM3MmZhNDEwNjc2Yjk2YWY5ZjQ5NTNhY2IyMjVl",
   "tracks": [
     {
-      "added_at": "2023-03-29 05:36:37",
+      "added_at": "2023-03-30 00:50:21",
       "album": {
         "name": "Watashi Akinu Watashi",
         "url": "https://open.spotify.com/album/0SLWfFwN3psEdqNsS6qhIA"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9"
     },
     {
-      "added_at": "2023-03-29 05:36:37",
+      "added_at": "2023-03-30 00:50:21",
       "album": {
         "name": "\u30ae\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8"
     },
     {
-      "added_at": "2023-03-29 05:36:37",
+      "added_at": "2023-03-30 00:50:21",
       "album": {
         "name": "Watashi Akinu Watashi",
         "url": "https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR"
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
-        "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
-      },
-      "artists": [
-        {
-          "name": "GING NANG BOYZ",
-          "url": "https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
-      "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "ETERNAL RECURRENCE",
         "url": "https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 138893,
       "name": "SEE OFF",
       "url": "https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
+        "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
+      },
+      "artists": [
+        {
+          "name": "GING NANG BOYZ",
+          "url": "https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
+      "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Super Champon",
-        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "YAKITORI",
-      "url": "https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "BLOOMING",
         "url": "https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 221373,
       "name": "Open Up My Heart",
       "url": "https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "Super Champon",
+        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "YAKITORI",
+      "url": "https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "BeachBoys",
-        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
-      },
-      "artists": [
-        {
-          "name": "TENDOUJI",
-          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "BeachBoys",
-      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "The Cost Of My Freedom",
         "url": "https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+        "name": "BeachBoys",
+        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
       },
       "artists": [
         {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+      "duration_ms": 138305,
+      "name": "BeachBoys",
+      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 190166,
       "name": "\u5927\u5207\u306a\u3082\u306e",
       "url": "https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
+        "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
+        "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
+      },
+      "artists": [
+        {
+          "name": "175R",
+          "url": "https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI"
+        }
+      ],
+      "duration_ms": 275866,
+      "name": "SAKURA",
+      "url": "https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 254373,
       "name": "PLAYBACK",
       "url": "https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
-        "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
-        "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
-      },
-      "artists": [
-        {
-          "name": "175R",
-          "url": "https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI"
-        }
-      ],
-      "duration_ms": 275866,
-      "name": "SAKURA",
-      "url": "https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
+        "name": "77 Days",
+        "url": "https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib"
+      },
+      "artists": [
+        {
+          "name": "KEMURI",
+          "url": "https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Ohichyo",
+      "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
         "name": "GRAVITY",
         "url": "https://open.spotify.com/album/7AotoltMCQTbLyVq73371i"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 220200,
       "name": "HOTARU NO HIKARI",
       "url": "https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
-        "name": "77 Days",
-        "url": "https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib"
-      },
-      "artists": [
-        {
-          "name": "KEMURI",
-          "url": "https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Ohichyo",
-      "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "\u68b5\u5504 -bonbai-",
-        "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
+        "name": "more-AA-janaica",
+        "url": "https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5"
       },
       "artists": [
         {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+          "name": "Dohatsuten",
+          "url": "https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE"
         }
       ],
-      "duration_ms": 265746,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
+      "duration_ms": 327653,
+      "name": "OUT\u8001GUYS",
+      "url": "https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM"
     }
   ],
   "unique_name": "Punk Japan",

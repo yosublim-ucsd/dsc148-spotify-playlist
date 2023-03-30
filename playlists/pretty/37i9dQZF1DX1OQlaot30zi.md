@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ANNA, Tony, Neima e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,432 likes - 78 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,461 likes - 78 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 28 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 |
 | 29 | [DRIN DRIN \(feat\. Slings\)](https://open.spotify.com/track/1h5ydKuWLZXRCdM8fHw1Ys) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 2:31 |
 | 30 | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr) | 3:12 |
-| 31 | [Va Bene](https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb) | [LOKI](https://open.spotify.com/artist/4kD5wLdwyIuYfcAJIHYbaQ) | [Va Bene](https://open.spotify.com/album/0PFEZ3EBR8Qmyut1QGHfIS) | 1:53 |
+| 31 | [Va Bene](https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb) | [LOKI](https://open.spotify.com/artist/4kD5wLdwyIuYfcAJIHYbaQ), [Mitch](https://open.spotify.com/artist/3xS4uqr3q6umIa74qTP62H) | [Va Bene](https://open.spotify.com/album/0PFEZ3EBR8Qmyut1QGHfIS) | 1:53 |
 | 32 | [cose che non capisco](https://open.spotify.com/track/6YgkpEt3Md54yMx79Zajo5) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [UMORE 01](https://open.spotify.com/album/5hKSdj98yxxkm1yHZWuNZe) | 2:41 |
 | 33 | [PRIMMO AMMORE](https://open.spotify.com/track/0UuY3i8Ee0VZWDY5VJfKNw) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh) | [PRIMMO AMMORE](https://open.spotify.com/album/0jRDpJ2bMVD8JT43ifUd9E) | 2:34 |
 | 34 | [Tutta la Notte](https://open.spotify.com/track/19DTIJBVolckyDiluQ4vG1) | [KAYLER](https://open.spotify.com/artist/3RfIKCBcJ6Nb7OLrk2fV4S), [Kamyar](https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [Tutta la Notte](https://open.spotify.com/album/4GxqkMjfcQyqQri9igXu1K) | 2:14 |

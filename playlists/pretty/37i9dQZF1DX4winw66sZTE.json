@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 10003,
+  "num_followers": 10033,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDQ1MjM4OGFmZGJjMGUzZDQ5MmViODI2MWNkOGZjMDI0",
+  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDY1MzgzMWYxNmYwNTAyODhhMWY1MmVmODA5MGI1NjU0",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "HANN (Alone)",
-        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 205820,
-      "name": "HANN (Alone)",
-      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
         "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 272847,
       "name": "If It Is You",
       "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Trouble Maker",
-        "url": "https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm"
-      },
-      "artists": [
-        {
-          "name": "Trouble Maker",
-          "url": "https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9"
-        }
-      ],
-      "duration_ms": 219637,
-      "name": "Trouble Maker",
-      "url": "https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
         "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 216555,
       "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
       "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Trouble Maker",
+        "url": "https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm"
+      },
+      "artists": [
+        {
+          "name": "Trouble Maker",
+          "url": "https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9"
+        }
+      ],
+      "duration_ms": 219637,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "John Travolta Wanna Be",
-        "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
+        "name": "Lucifer - The 2nd Album",
+        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
       },
       "artists": [
         {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         }
       ],
-      "duration_ms": 214427,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW"
+      "duration_ms": 233986,
+      "name": "LUCIFER",
+      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Lucifer - The 2nd Album",
-        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
+        "name": "John Travolta Wanna Be",
+        "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
         }
       ],
-      "duration_ms": 233986,
-      "name": "LUCIFER",
-      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
+      "duration_ms": 214427,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/3X1fI5m8vwpqzCfhELxl2T"
-      },
-      "artists": [
-        {
-          "name": "miss A",
-          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
-        }
-      ],
-      "duration_ms": 198008,
-      "name": "\ub2e4\ub978 \ub0a8\uc790 \ub9d0\uace0 \ub108 Only You",
-      "url": "https://open.spotify.com/track/09CAOGrMHucCFL64TYGJ7H"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "INSANE LOVE",
         "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 221371,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/3X1fI5m8vwpqzCfhELxl2T"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "duration_ms": 198008,
+      "name": "\ub2e4\ub978 \ub0a8\uc790 \ub9d0\uace0 \ub108 Only You",
+      "url": "https://open.spotify.com/track/09CAOGrMHucCFL64TYGJ7H"
     },
     {
       "added_at": "2021-03-01 03:07:22",

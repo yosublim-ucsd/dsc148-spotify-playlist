@@ -1,12 +1,12 @@
 {
   "description": "L7NNON e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 190110,
+  "num_followers": 190358,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkyOTI3MSwwMDAwMDAwMDczNGJjZjczNzNiZjFiZDdjZGI1NGVjMzViMWU3ZWE3",
+  "snapshot_id": "MTY3OTkyOTI3MSwwMDAwMDAwMDkxMWZiMDA1NjVjOGY0MzA4MGE3OGVjZDZhN2E3OTlm",
   "tracks": [
     {
       "added_at": "2023-03-27 15:01:11",
@@ -735,6 +735,54 @@
     {
       "added_at": "2023-03-27 15:01:11",
       "album": {
+        "name": "Gucci, Prada",
+        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Gucci, Prada",
+      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
+    },
+    {
+      "added_at": "2023-03-27 15:01:11",
+      "album": {
+        "name": "Vestido da Fendi",
+        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 164203,
+      "name": "Vestido da Fendi",
+      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "added_at": "2023-03-27 15:01:11",
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -763,50 +811,30 @@
     {
       "added_at": "2023-03-27 15:01:11",
       "album": {
-        "name": "Vestido da Fendi",
-        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 164203,
-      "name": "Vestido da Fendi",
-      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
-    },
-    {
-      "added_at": "2023-03-27 15:01:11",
-      "album": {
-        "name": "Gucci, Prada",
-        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Gucci, Prada",
-      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-03-27 15:01:11",
@@ -855,34 +883,6 @@
       "duration_ms": 553536,
       "name": "Bokaloka",
       "url": "https://open.spotify.com/track/15MMy5OQqEyGBLkjVSsS9e"
-    },
-    {
-      "added_at": "2023-03-27 15:01:11",
-      "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-03-27 15:01:11",
@@ -943,30 +943,6 @@
     {
       "added_at": "2023-03-27 15:01:11",
       "album": {
-        "name": "Nasci Pra Vencer / Sou M\u00e1",
-        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Sou M\u00e1",
-      "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
-    },
-    {
-      "added_at": "2023-03-27 15:01:11",
-      "album": {
         "name": "Trap Funk Star",
         "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 252173,
       "name": "Bal\u00e3o 2",
       "url": "https://open.spotify.com/track/4y956Vqc68NtoH6Xpy91X2"
+    },
+    {
+      "added_at": "2023-03-27 15:01:11",
+      "album": {
+        "name": "Nasci Pra Vencer / Sou M\u00e1",
+        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Sou M\u00e1",
+      "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
     },
     {
       "added_at": "2023-03-27 15:01:11",
@@ -1255,34 +1255,6 @@
     {
       "added_at": "2023-03-27 15:01:11",
       "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 179488,
-      "name": "Lugar na mesa",
-      "url": "https://open.spotify.com/track/3CwSGsw1rxv3WsUI3X95ch"
-    },
-    {
-      "added_at": "2023-03-27 15:01:11",
-      "album": {
         "name": "Salve A Favela",
         "url": "https://open.spotify.com/album/6voO4re2hvr5NQVG7ho0Qs"
       },
@@ -1315,6 +1287,34 @@
       "duration_ms": 300000,
       "name": "Salve A Favela",
       "url": "https://open.spotify.com/track/63HYpMDcQo0Fryhmje08Bl"
+    },
+    {
+      "added_at": "2023-03-27 15:01:11",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 179488,
+      "name": "Lugar na mesa",
+      "url": "https://open.spotify.com/track/3CwSGsw1rxv3WsUI3X95ch"
     },
     {
       "added_at": "2023-03-27 15:01:11",

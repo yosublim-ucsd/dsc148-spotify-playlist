@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Los Bitchos",
-  "num_followers": 48364,
+  "num_followers": 48381,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0OTAzMiwwMDAwMDAwMDliNjBlZGVlNDQwMGNmMmRmY2Y5MWI5ZjU3YWNmZjE2",
+  "snapshot_id": "MTY3OTk0OTAzMiwwMDAwMDAwMGM0OTljNmY1YWI0ZDdlZmQzN2NlNGQwMDhkNjUxNGIw",
   "tracks": [
     {
       "added_at": "2023-03-20 13:21:43",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 179175,
-      "name": "Teenage Runaways",
-      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
-    },
-    {
       "added_at": "2023-03-20 13:21:43",
       "album": {
         "name": "Imposter",
@@ -367,6 +351,22 @@
       "duration_ms": 183491,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 179175,
+      "name": "Teenage Runaways",
+      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Silence Is Golden",
-      "url": "https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9"
-    },
-    {
       "added_at": "2023-03-20 13:21:43",
       "album": {
         "name": "Til' The Wheels Fall Off",
@@ -519,6 +503,22 @@
       "duration_ms": 186048,
       "name": "Til' The Wheels Fall Off",
       "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Silence Is Golden",
+      "url": "https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Totally Fine",
-      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
-    },
-    {
       "added_at": "2023-03-20 13:21:43",
       "album": {
         "name": "Sick Day",
@@ -603,6 +587,22 @@
       "duration_ms": 123337,
       "name": "Sick Day",
       "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Totally Fine",
+      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Six-Pack",
-        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Bob Vylan Presents The Price Of Life",
         "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Six-Pack",
+        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -1139,58 +1159,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Shane Told",
-          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Choose Your Fighter",
-        "url": "https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 135466,
-      "name": "Choose Your Fighter",
-      "url": "https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Ghost Brigade",
-        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Ghost Brigade",
-      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Waste",
         "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 105874,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Ghost Brigade",
+        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Ghost Brigade",
+      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Choose Your Fighter",
+        "url": "https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 135466,
+      "name": "Choose Your Fighter",
+      "url": "https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU"
     },
     {
       "added_at": "2023-03-03 00:00:00",

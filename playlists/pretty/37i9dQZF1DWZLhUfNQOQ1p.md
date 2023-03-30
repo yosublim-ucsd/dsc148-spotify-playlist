@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,951 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,953 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 35 | [Love Me \(Don't Worry\)](https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Love Me \(Don't Worry\)](https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l) | 2:42 |
 | 36 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 |
 | 37 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 |
-| 38 | [Movement](https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [Movement](https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk) | 2:52 |
-| 39 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 |
+| 38 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 |
+| 39 | [Movement](https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [Movement](https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk) | 2:52 |
 | 40 | [Horizon](https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Horizon](https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK) | 3:34 |
 | 41 | [Never Gonna Give You Up](https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Never Gonna Give You Up](https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8) | 3:32 |
 | 42 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 49 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
 | 50 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
 | 51 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
-| 52 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
-| 53 | [One Last Time](https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf) | 2:30 |
+| 52 | [One Last Time](https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf) | 2:30 |
+| 53 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
 | 54 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 |
 | 55 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 |
 | 56 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 59 | [Trembling](https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Fugue State](https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg) | 3:48 |
 | 60 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDQyYjQzZjM2NzcwNmQzZDliMGRhZjM1MGM1Yzg4N2Ey`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDQ2MDIxNWQxYTY3NmY4NDJhOWM1OThkYTVmNmRhN2M4`

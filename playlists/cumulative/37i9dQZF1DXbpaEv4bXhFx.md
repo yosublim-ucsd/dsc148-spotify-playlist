@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-201 songs - 12 hr 19 min
+202 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Abnormal Climate](https://open.spotify.com/track/67dt4RsTHDhCTbnrqKzhX9) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0XHinGNkFWk58KpzLxU5QF) | 4:06 | 2022-06-20 | 2022-08-10 |
 | [alarm](https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [tinge](https://open.spotify.com/album/6PzWM3WP8bBlBlY1a90vjT) | 6:12 | 2022-07-04 | 2022-07-09 |
 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 | 2022-09-17 |
-| [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 | 2022-06-20 |  |
+| [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 | 2022-06-20 | 2023-03-30 |
 | [All the lies](https://open.spotify.com/track/7kJIOZI4WdcD8oOXCSjtBf) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:35 | 2022-07-13 | 2022-07-19 |
 | [Alone At Night \(feat\. ByulHa\)](https://open.spotify.com/track/53OitzmAKmu0m9pdOurszx) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [ByulHa](https://open.spotify.com/artist/0206jPAMaD9eYyqADY140j) | [Alone At Night](https://open.spotify.com/album/5OloxqiMnBSs2kcthpVrFE) | 3:40 | 2022-07-04 | 2022-07-29 |
 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 | 2022-06-20 |  |
@@ -115,6 +115,7 @@
 | [Night Poem](https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Night Poem](https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU) | 3:05 | 2022-07-22 |  |
 | [No More Love](https://open.spotify.com/track/0FgzBnTAwEFcuO6bNYweaM) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:20 | 2022-06-20 | 2022-07-23 |
 | [Nobody's Fault](https://open.spotify.com/track/0Eqj077XY6OCq1NQReUviZ) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:24 | 2022-06-20 | 2022-07-14 |
+| [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 | 2023-03-11 |  |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-22 | 2023-03-03 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-20 | 2022-07-29 |
 | [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2022-06-20 | 2022-12-20 |

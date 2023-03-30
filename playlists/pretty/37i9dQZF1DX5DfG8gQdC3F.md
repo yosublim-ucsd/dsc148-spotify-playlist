@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ed Sheeran, Luke Combs, Lana Del Rey, and grandson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,815 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,826 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 66 | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/album/0Ow1LzDAS3hCPzGNK9TeOT) | 3:39 |
 | 67 | [Be With You](https://open.spotify.com/track/2cmhewaI5xCtAsW6pQoKKM) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [How Did I End Up Here \(Deluxe\)](https://open.spotify.com/album/2XpCNiDKLOB8kWh1P6154H) | 2:52 |
 | 68 | [Full Display](https://open.spotify.com/track/425TbSEfrxM6MsIsdoD1fg) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [7.3](https://open.spotify.com/album/0nDavBqq3bMno5DjiKInJw) | 4:55 |
-| 69 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:12 |
+| 69 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 70 | [Hit + Miss](https://open.spotify.com/track/45xKVPPSTcjFo5trdnBQV0) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Meeha](https://open.spotify.com/artist/3U9Cxqx1DIHzy1mf92Fg6Y) | [Shiny Things](https://open.spotify.com/album/0ky89qHAbyPxgmUVV5iwWI) | 1:52 |
 | 71 | [Slow Motion](https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/1CoSmqgRXyhy5vvI5hrDld) | 2:57 |
 | 72 | [blue](https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [blue](https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr) | 2:48 |
