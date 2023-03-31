@@ -4,7 +4,7 @@
 
 > Timeless, unforgettable melodies from the movies.
 
-114 songs - 6 hr 51 min
+115 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Introduction \(Titles\)](https://open.spotify.com/track/4T0M3ao3PfYRkIolo5wpLK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/5K8mB1LGyBDQBKnj6k64Uq) | 2:36 | 2021-07-16 | 2022-07-29 |
 | [Introduction \(Titles\)](https://open.spotify.com/track/55n2WpwjQnIM1lvmxkzllb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 2:36 | 2022-07-20 |  |
 | [Iron Man 3](https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Iron Man 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi) | 2:23 | 2022-07-19 |  |
+| [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 | 2023-03-30 |  |
 | [Lady Bird](https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Lady Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1) | 5:10 | 2021-07-16 |  |
 | [Lily's Theme](https://open.spotify.com/track/3Ra4rkq1ExwPXwrPQeHBWg) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1tkE7mAFHRLwrySs5mQzeN) | 2:28 | 2022-07-19 |  |
 | [Logos / The Matrix Main Title](https://open.spotify.com/track/1FwhTB4R0lOWII5tc6cl9P) | [Don Davis](https://open.spotify.com/artist/3eCpCUtYdBCM1twAb4mk8I) | [The Matrix \(The Complete Score\)](https://open.spotify.com/album/6D2bGAKmIYtMQtL14c4vAb) | 0:53 | 2021-07-16 |  |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Aberdeen",
+        "url": "https://open.spotify.com/album/6i9ncCIApWTzLU5T1auj3y"
+      },
+      "artists": [
+        {
+          "name": "Vee Jay",
+          "url": "https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152078,
+      "name": "Aberdeen",
+      "url": "https://open.spotify.com/track/5Zi4ss26YhBU16imt3WEJ3"
+    },
+    {
+      "album": {
         "name": "Ascendant Waveforms",
         "url": "https://open.spotify.com/album/3yGCpmSTGWnkkIqb2e5xcG"
       },
@@ -1746,6 +1764,24 @@
       "duration_ms": 233846,
       "name": "Quick Sand",
       "url": "https://open.spotify.com/track/6htTBHUpAE9VFfbCrR5rQH"
+    },
+    {
+      "album": {
+        "name": "Ramblas",
+        "url": "https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf"
+      },
+      "artists": [
+        {
+          "name": "Metra kit",
+          "url": "https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ramblas",
+      "url": "https://open.spotify.com/track/5yvdQZqYzMt191ssW3NvUD"
     },
     {
       "album": {

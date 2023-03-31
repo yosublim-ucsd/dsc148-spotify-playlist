@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-233 songs - 14 hr 17 min
+234 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Naiyyo](https://open.spotify.com/track/4AJUQBF0pIqQvBTGpNd8zZ) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Naiyyo](https://open.spotify.com/album/2k38QYHthjVY1sGM8X5dkE) | 2:52 | 2020-06-24 | 2022-04-19 |
 | [Nakhre \(Eyes on You 2\)](https://open.spotify.com/track/7cPvawYOfGFay7TANURYEO) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44) | [Nakhre \(Eyes on You 2\)](https://open.spotify.com/album/3IihUdUlq2JZ4TuVg9ib7F) | 2:38 | 2020-10-07 | 2022-01-14 |
 | [O Aashiqa](https://open.spotify.com/track/1P6K7Vuz2iDzqces3Wa7Th) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [99 Songs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zvGX2DvCOUKaRqfcWZrLi) | 5:24 | 2021-04-12 | 2022-04-19 |
+| [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2) | 5:13 | 2023-03-30 |  |
 | [O Saki Saki \(From "Batla House"\)](https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [O Saki Saki \(From "Batla House"\)](https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq) | 3:11 | 2019-08-05 | 2022-01-14 |
 | [Odhani \(From "Made in China"\)](https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Odhani \(From "Made in China"\)](https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR) | 3:15 | 2019-09-24 |  |
 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2022-04-18 | 2023-02-08 |

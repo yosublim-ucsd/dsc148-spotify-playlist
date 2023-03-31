@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Neighborly Nod",
+        "url": "https://open.spotify.com/album/1C7RHVtYees2YEL00XSsbs"
+      },
+      "artists": [
+        {
+          "name": "Leo Lind",
+          "url": "https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143001,
+      "name": "lessly",
+      "url": "https://open.spotify.com/track/2U62UKX9kl7lHsLn5ANsZp"
+    },
+    {
+      "album": {
         "name": "line up",
         "url": "https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl"
       },
@@ -1498,6 +1516,24 @@
       "duration_ms": 150174,
       "name": "moon in motion",
       "url": "https://open.spotify.com/track/3GOYS5D20KoipqTbLYjQRM"
+    },
+    {
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/5Ni8TucTmsz6B09o8CaYbv"
+      },
+      "artists": [
+        {
+          "name": "Melvin Barker",
+          "url": "https://open.spotify.com/artist/5LHH9TZxgk0aHI38pfmqGy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/5fQsQL1UxdRJ3Nstqg1Ifl"
     },
     {
       "album": {
@@ -2617,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "The Light We Saw",
+        "url": "https://open.spotify.com/album/0JoJa8DNkmRGQwCAo7amaC"
+      },
+      "artists": [
+        {
+          "name": "Parascope Doll",
+          "url": "https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216224,
+      "name": "The Light We Saw",
+      "url": "https://open.spotify.com/track/1V8ldResSotRaJmU14r1IX"
+    },
+    {
+      "album": {
         "name": "The World Is A House On Fire",
         "url": "https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J"
       },
@@ -2686,6 +2740,24 @@
       "duration_ms": 249601,
       "name": "Thinking About Thinking",
       "url": "https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC"
+    },
+    {
+      "album": {
+        "name": "This Ordinary Life",
+        "url": "https://open.spotify.com/album/5uI0QnIVhROGoYsgBIUdxa"
+      },
+      "artists": [
+        {
+          "name": "Northern Wind",
+          "url": "https://open.spotify.com/artist/0Ygkex704K6hhGBzs83esJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181314,
+      "name": "This Ordinary Life",
+      "url": "https://open.spotify.com/track/1MGotIT07umRv2PYorLkhO"
     },
     {
       "album": {

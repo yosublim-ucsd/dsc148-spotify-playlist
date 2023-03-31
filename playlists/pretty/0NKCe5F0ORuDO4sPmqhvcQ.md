@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,057 likes - 140 songs - 8 hr 6 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,055 likes - 142 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 138 | [Higher](https://open.spotify.com/track/53WYJw5FaSCUOzmQar0Jdy) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Higher](https://open.spotify.com/album/12mtnd8EWS3IN6ORdX99yy) | 4:45 |
 | 139 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 | 140 | [skyscraper](https://open.spotify.com/track/4i87u5anIS97aQmulZU11D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎skyscraper](https://open.spotify.com/album/78r14RCs0xkOIIM38usQXQ) | 1:25 |
+| 141 | [far gone](https://open.spotify.com/track/0vb4In2ytG8ZHsoY59ROA7) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [far gone](https://open.spotify.com/album/4Es18yYMmB0hcsCHpN6TqL) | 2:32 |
+| 142 | [tacit](https://open.spotify.com/track/2y9kGMUvKsikIQIvfjpNv1) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f), [Una Mey](https://open.spotify.com/artist/1XYC7U3Oqy30UdbliCXWNo) | [tacit](https://open.spotify.com/album/4FbPfRAnOxJJmHm1FhPkPn) | 3:08 |
 
-Snapshot ID: `MTAyNjEsYWI0NWYyNTYyZWE0ZTNlZTYyYzIyMzA3NDZlOWVkNDZmOWVjN2E5MQ==`
+Snapshot ID: `MTAyNjMsYWM2Nzk2YTgzMTUzODc5NzA1YmIxMzRhMzFhNmE4OGZlZDlhMTk3ZA==`

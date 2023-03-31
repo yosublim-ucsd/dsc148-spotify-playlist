@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Duane",
+        "url": "https://open.spotify.com/album/51Hqtsc3EsOYeDIuYunnjd"
+      },
+      "artists": [
+        {
+          "name": "Baron Malice",
+          "url": "https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Duane",
+      "url": "https://open.spotify.com/track/6OFnPWtW3pANhBtcG8orIg"
+    },
+    {
+      "album": {
         "name": "Picturesque",
         "url": "https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe"
       },

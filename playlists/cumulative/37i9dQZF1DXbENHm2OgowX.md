@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-112 songs - 10 hr 48 min
+113 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 | 2022-02-11 | 2022-11-10 |
 | [Spaces Inbetween.](https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt.1](https://open.spotify.com/album/3SDU0tsnoMO841qeOHlP8B) | 0:58 | 2022-11-09 | 2023-01-10 |
 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 | 2022-11-09 |  |
-| [stardust](https://open.spotify.com/track/71M0d7047A3ZLTQSKZt94p) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [stardust](https://open.spotify.com/album/5AAp97h2IQKCe94W5Wgsy3) | 3:10 | 2023-01-09 |  |
+| [stardust](https://open.spotify.com/track/2foA23OBrzFfhzrmLaFaCW) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [psych ward valentine](https://open.spotify.com/album/4FESVxhaPJwyDThjEs4hkG) | 3:10 | 2023-01-20 |  |
+| [stardust](https://open.spotify.com/track/71M0d7047A3ZLTQSKZt94p) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [stardust](https://open.spotify.com/album/5AAp97h2IQKCe94W5Wgsy3) | 3:10 | 2023-01-09 | 2023-03-31 |
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2022-02-11 |  |
 | [Still](https://open.spotify.com/track/1euWIfZZm1cd7E3pRbKxXB) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Still](https://open.spotify.com/album/2axI1ucvh4UcT2BjJWFSaH) | 3:17 | 2022-11-09 |  |
 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 | 2022-11-09 |  |

@@ -4,7 +4,7 @@
 
 > Restaurant style background music for chill dinner ambiance.
 
-309 songs - 13 hr 19 min
+310 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-04-27 |  |
 | [Largo "Poetique"](https://open.spotify.com/track/4sT4K3PhPyn44UuaMgMdHR) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Largo "Poetique"](https://open.spotify.com/album/7AIbY9qDsBHufKxI02EI1V) | 3:09 | 2022-12-21 |  |
 | [Larissa](https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Larissa](https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4) | 2:38 | 2022-04-27 | 2022-11-25 |
-| [Last Call](https://open.spotify.com/track/3iyJwNIStwx3PgLAvDIEYv) | [Dnoir](https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S) | [Last Call](https://open.spotify.com/album/473io8GXkklaweKoaaybJe) | 4:46 | 2022-11-24 |  |
+| [Last Call](https://open.spotify.com/track/178HZxPnNwqN2jjvOXVNCU) | [Dnoir](https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S) | [Bookends](https://open.spotify.com/album/0rfpnC6a3mwFWkqH2qw9HA) | 4:46 | 2023-03-30 |  |
+| [Last Call](https://open.spotify.com/track/3iyJwNIStwx3PgLAvDIEYv) | [Dnoir](https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S) | [Last Call](https://open.spotify.com/album/473io8GXkklaweKoaaybJe) | 4:46 | 2022-11-24 | 2023-03-31 |
 | [Late Winter](https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Stories](https://open.spotify.com/album/01PVhzdLyFu2b2XNuZ1qKC) | 2:24 | 2022-04-27 | 2022-12-22 |
 | [Lavender](https://open.spotify.com/track/4J4jCzN5VcNDsKzzwnIgHA) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Lavender](https://open.spotify.com/album/18U3bZljfZfvPI8w9kvQ2Z) | 2:55 | 2022-07-07 |  |
 | [Le Beau Ton](https://open.spotify.com/track/6IPrtCDS76Grm5CRTXiE6F) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Le Beau Ton](https://open.spotify.com/album/2vwDXCrkG3ig2oqwuf5t65) | 1:52 | 2022-08-29 | 2022-12-06 |

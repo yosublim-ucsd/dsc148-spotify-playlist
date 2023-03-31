@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-717 songs - 1 day 13 hr 46 min
+718 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Pure Air](https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Pure Air](https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq) | 3:31 | 2021-04-02 |  |
 | [Pure And Simple](https://open.spotify.com/track/4r5bGfbWE7xqjeGT6b7JqX) | [Edmund’s Oasis](https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ) | [Pure And Simple](https://open.spotify.com/album/2a3C0VnpOuNkCvnMIY82mp) | 2:29 | 2022-03-25 |  |
 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 | 2019-10-26 | 2020-05-18 |
-| [Pyramid Train](https://open.spotify.com/track/5TZdub1bKTE2XEaBEQDUil) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:36 | 2020-08-08 |  |
+| [Pyramid Train](https://open.spotify.com/track/5TZdub1bKTE2XEaBEQDUil) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:36 | 2020-08-08 | 2023-03-31 |
 | [Quadrants](https://open.spotify.com/track/0Q3G0y7cRXoje2e5EFDliS) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Forest Findings](https://open.spotify.com/album/4U6Hovsc1nKIbRr1Qr5fBI) | 3:11 | 2019-05-26\* | 2023-03-04 |
 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 | 2019-07-27 |  |
 | [Quest of Kind](https://open.spotify.com/track/334YKbZcvAR5Yk6FaG9t5d) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Dust of Titans](https://open.spotify.com/album/7fDorasrsBWNPYc0aH33wv) | 2:45 | 2023-03-24 |  |
@@ -664,6 +664,7 @@
 | [Truth](https://open.spotify.com/track/373jqeSKtGiGgfMLwNoCcv) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/0c2uw96zlJP8jMui1HA38h) | 1:52 | 2019-05-26\* | 2020-01-03 |
 | [Träumen](https://open.spotify.com/track/1jbroaceVo98T5eiFszvrS) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Träumen](https://open.spotify.com/album/6eYGxRPftv9vOQozQKTzw0) | 2:29 | 2020-01-03 |  |
 | [Tsubaki Bonfire](https://open.spotify.com/track/3rfQluHSsE4X0FOWQTgx6A) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 3:52 | 2020-01-03 | 2021-09-14 |
+| [Tsukubai](https://open.spotify.com/track/6bhK68oLgm0vwycmla8m2Q) | [fragile eyes](https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf) | [Blue Morning](https://open.spotify.com/album/3K1ywyQS4HoBNgXurhqm1O) | 2:43 | 2023-03-30 |  |
 | [Turncoat](https://open.spotify.com/track/6i0nz16kHbPINYReFwTh38) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Sometimes](https://open.spotify.com/album/4Ld49F7UxvyR2imnjF0Zqq) | 3:27 | 2019-05-26\* | 2020-05-18 |
 | [Twin Tales](https://open.spotify.com/track/6PO46m4WlD3kQAwGYtFwh0) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Chasing Cloud Nine](https://open.spotify.com/album/08Xx0YnRx2bfB0M94Pcjs9) | 2:28 | 2019-05-26\* | 2020-05-18 |
 | [Two One, Four](https://open.spotify.com/track/5aZiydPTohZchLHmPUUxTD) | [Fyfe](https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [Fyfe & Iskra Strings EP 1](https://open.spotify.com/album/0dxUL60NElc89vqxXypMrX) | 4:37 | 2019-05-26\* | 2021-09-14 |

@@ -10992,7 +10992,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 129130,
       "name": "blue in gray",
       "url": "https://open.spotify.com/track/4BmpS8fz6UNj8vJCppRkAG"
@@ -13300,7 +13300,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 103076,
       "name": "Bubbler",
       "url": "https://open.spotify.com/track/3BZpCq0Y4XnY2J3LPDQWkf"
@@ -14832,6 +14832,24 @@
       "duration_ms": 162560,
       "name": "Campfire Tales",
       "url": "https://open.spotify.com/track/09MUhosZ1UtxvffigTtd9m"
+    },
+    {
+      "album": {
+        "name": "Can Do",
+        "url": "https://open.spotify.com/album/0pUwnqkCbHQoVdc7TrlsCt"
+      },
+      "artists": [
+        {
+          "name": "Malia L\u00f8u",
+          "url": "https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Can Do",
+      "url": "https://open.spotify.com/track/17cUrQgR2mErga1fo4fxP7"
     },
     {
       "album": {
@@ -16728,7 +16746,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 158737,
       "name": "Cherished",
       "url": "https://open.spotify.com/track/60pC2l8LPjqZG087pXUOrC"
@@ -35825,6 +35843,24 @@
     },
     {
       "album": {
+        "name": "gemini",
+        "url": "https://open.spotify.com/album/5p0dEesOaHCZXAx2Q5QmX8"
+      },
+      "artists": [
+        {
+          "name": "fly_by_wire",
+          "url": "https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "gemini",
+      "url": "https://open.spotify.com/track/7fDBsKuj8mPlo9skY2sNv4"
+    },
+    {
+      "album": {
         "name": "Gentle",
         "url": "https://open.spotify.com/album/5VqY6czEUcJTpTHYV3yNkg"
       },
@@ -38268,7 +38304,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Great Scott",
       "url": "https://open.spotify.com/track/606EXUizJpLKDaDa0amOek"
@@ -43696,7 +43732,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 146866,
       "name": "ILY Eeve",
       "url": "https://open.spotify.com/track/3tSkSs0h0zeC6mtvmXz0Uu"
@@ -43888,7 +43924,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 96374,
       "name": "Impulse Response",
       "url": "https://open.spotify.com/track/2xUjW1zqoQdUD4ZaiSJhh0"
@@ -52322,7 +52358,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/6hRHaEUjl2cHW2P60wPywi"
@@ -52434,6 +52470,24 @@
       "duration_ms": 127228,
       "name": "Lincoln Heights",
       "url": "https://open.spotify.com/track/2kyZaqz0Z9GNOgBFX1SJ3t"
+    },
+    {
+      "album": {
+        "name": "Line Up",
+        "url": "https://open.spotify.com/album/4eMLxo5RURtljMVWe83OJV"
+      },
+      "artists": [
+        {
+          "name": "Brad Enbata",
+          "url": "https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108500,
+      "name": "Line Up",
+      "url": "https://open.spotify.com/track/2FlZNgXtSCwLlKFn4oFwpN"
     },
     {
       "album": {
@@ -57831,6 +57885,28 @@
     },
     {
       "album": {
+        "name": "metro",
+        "url": "https://open.spotify.com/album/5BmKxp9o7aeR5NuMvB7c5s"
+      },
+      "artists": [
+        {
+          "name": "Bastido",
+          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+        },
+        {
+          "name": "Mr.Mahous",
+          "url": "https://open.spotify.com/artist/3f3P7pxs9gtHuN7nNUDHFh"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172004,
+      "name": "metro",
+      "url": "https://open.spotify.com/track/3jPPfpQORgJLAUUwkcIhzx"
+    },
+    {
+      "album": {
         "name": "The World of Lofi",
         "url": "https://open.spotify.com/album/2jArlAnL0XftzK1qTgYzA7"
       },
@@ -60786,7 +60862,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 117162,
       "name": "Morning Rays",
       "url": "https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR"
@@ -79692,7 +79768,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 126857,
       "name": "Seed",
       "url": "https://open.spotify.com/track/46rN0dUTqxTeWtF0g1lgKr"
@@ -80518,7 +80594,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 123000,
       "name": "Shibui",
       "url": "https://open.spotify.com/track/3erUOU2fzvc9bwmwVIhFLB"
@@ -86868,7 +86944,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 102684,
       "name": "Steezy Days",
       "url": "https://open.spotify.com/track/4um5DQaOjpt3B5k8XeHP44"
@@ -102012,7 +102088,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 140571,
       "name": "What are we eating?",
       "url": "https://open.spotify.com/track/02vItcwtoE9ioCLqvMd7Pj"
@@ -102934,7 +103010,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 144545,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/56qBcUto6CZXjRJpqHxb3Y"
@@ -103862,7 +103938,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 140571,
       "name": "Wineyard bonanza",
       "url": "https://open.spotify.com/track/2eepnu15fsjc0UBgnlSXOA"

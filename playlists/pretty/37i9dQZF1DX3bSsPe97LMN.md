@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Rubén Figueroa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,911 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,973 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 54 | [Barba De Herencia](https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Barba De Herencia](https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE) | 3:24 |
 | 55 | [El Beso De Judas](https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Beso De Judas](https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc) | 3:06 |
 | 56 | [Eres](https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 4:08 |
-| 57 | [El Gordo Jona](https://open.spotify.com/track/6T1LYdANXOJM3N5ByoE9iq) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [El Gordo Jona](https://open.spotify.com/album/0VeQaZNNTz1ON4Bgv0StQI) | 3:38 |
-| 58 | [Que Vuelvas](https://open.spotify.com/track/0awei0Aq8SnWERdWxG70zf) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Que Vuelvas](https://open.spotify.com/album/1S7eFoVAALpAoiJXcsxF5Y) | 2:58 |
+| 57 | [Que Vuelvas](https://open.spotify.com/track/0awei0Aq8SnWERdWxG70zf) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Que Vuelvas](https://open.spotify.com/album/1S7eFoVAALpAoiJXcsxF5Y) | 2:58 |
+| 58 | [El Gordo Jona](https://open.spotify.com/track/6T1LYdANXOJM3N5ByoE9iq) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [El Gordo Jona](https://open.spotify.com/album/0VeQaZNNTz1ON4Bgv0StQI) | 3:38 |
 | 59 | [El Flaco](https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [El Flaco](https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd) | 2:27 |
 | 60 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 |
 | 61 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 66 | [Se Alborotaron Los Guachos \- En Vivo](https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Se Alborotaron Los Guachos](https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio) | 2:44 |
 | 67 | [Pequeña y Fragíl](https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Pequeña y Fragíl](https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58) | 2:53 |
 | 68 | [Bajo la Lluvía](https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Cuadra FL](https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt) | [Bajo la Lluvía](https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c) | 2:34 |
-| 69 | [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 |
-| 70 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 |
+| 69 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 |
+| 70 | [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 |
 | 71 | [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 |
 | 72 | [Odio](https://open.spotify.com/track/05Mh0eLIDdkUwQDOTe8VYZ) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 2:33 |
 | 73 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 |
 | 74 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 |
 | 75 | [Hombre Normal](https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Hombre Normal](https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04) | 4:14 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDMzOWI4YWU4OTNhMWYzNjZmM2JmODFjZDUwNDA3MzQ5`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDkwOTUwYjE1NmExYmJlN2NmNjMzYmNkOWM3MGZjNjhh`

@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Higher Than Heaven",
+        "url": "https://open.spotify.com/album/5NoumVwpAYQdSDo6DEknjZ"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209153,
+      "name": "Higher Than Heaven",
+      "url": "https://open.spotify.com/track/7MXzPMXtOGwDasatLf0LGX"
+    },
+    {
+      "album": {
         "name": "I Don't Love You",
         "url": "https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E"
       },
@@ -1248,6 +1266,24 @@
       "duration_ms": 223543,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5yRDS8rO2nWrNxcVcsCPl4"
+    },
+    {
+      "album": {
+        "name": "Midnight Dreams",
+        "url": "https://open.spotify.com/album/6VFJSjwJRS5qMf9z2FaxAP"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192783,
+      "name": "Midnight Dreams",
+      "url": "https://open.spotify.com/track/4vd3dfRNMQRVFnJjvMkl7U"
     },
     {
       "album": {

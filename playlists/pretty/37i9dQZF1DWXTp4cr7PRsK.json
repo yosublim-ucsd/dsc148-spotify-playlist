@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 2300,
+  "num_followers": 2305,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGIyMDFiODc1ZTlmNzk2YmRlNTMwYmEyMTg4NDlmODcz",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDBhZDMwNWU3ZWYxYjg3NjFiMDQ0NjJlNDM1MDgwMWVi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Prospect (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/0EmINljXosug1gnqewNqnn"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 226313,
-      "name": "Prospect (ft. Lil Baby)",
-      "url": "https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Make It Rain",
         "url": "https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 204000,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Prospect (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/0EmINljXosug1gnqewNqnn"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 226313,
+      "name": "Prospect (ft. Lil Baby)",
+      "url": "https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE"
     },
     {
       "added_at": "2022-10-01 16:00:00",

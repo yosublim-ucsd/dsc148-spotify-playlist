@@ -288,7 +288,7 @@
           "url": "https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201880,
@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 174393,
       "name": "Every Day and Every Night",
       "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
@@ -2104,7 +2104,7 @@
           "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 251053,
@@ -2440,6 +2440,24 @@
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
+    },
+    {
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
     },
     {
       "album": {
@@ -3082,7 +3100,7 @@
           "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211283,
@@ -3234,7 +3252,7 @@
           "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200039,

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 10855,
+  "num_followers": 10872,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTAxOCwwMDAwMDAwMGVhNmVlODE4NTI0MDE0OWQxNDIwMmYyYzYwZTBiM2Q2",
+  "snapshot_id": "MTY3OTkwNTAxOCwwMDAwMDAwMDUyY2QyMDE1N2E0YjA4MjI1OGRmMDY2ZDcxOGQ5Mzc0",
   "tracks": [
     {
       "added_at": "2023-03-27 05:17:29",
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     },
     {
-      "added_at": "2023-03-30 00:41:20",
+      "added_at": "2023-03-31 00:40:16",
       "album": {
         "name": "Errr Day",
         "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
     },
     {
+      "added_at": "2023-03-31 00:40:16",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
+    },
+    {
       "added_at": "2023-03-27 05:17:29",
       "album": {
         "name": "Crash Course in Romance OST Part 4",
@@ -567,22 +583,6 @@
       "duration_ms": 199766,
       "name": "Celeb",
       "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
-    },
-    {
-      "added_at": "2023-03-30 00:41:20",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 165433,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
     },
     {
       "added_at": "2023-03-27 05:17:29",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-03-27 05:17:29",
       "album": {
+        "name": "Dearest (feat. Sllo)",
+        "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
+      },
+      "artists": [
+        {
+          "name": "J.BASS",
+          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
+        },
+        {
+          "name": "Sllo",
+          "url": "https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Dearest (feat. Sllo)",
+      "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
+    },
+    {
+      "added_at": "2023-03-27 05:17:29",
+      "album": {
         "name": "I LUV U (with MIRANI)",
         "url": "https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 235197,
       "name": "I LUV U (with MIRANI)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
-    },
-    {
-      "added_at": "2023-03-27 05:17:29",
-      "album": {
-        "name": "Dearest (feat. Sllo)",
-        "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
-      },
-      "artists": [
-        {
-          "name": "J.BASS",
-          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
-        },
-        {
-          "name": "Sllo",
-          "url": "https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Dearest (feat. Sllo)",
-      "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
     },
     {
       "added_at": "2023-03-27 05:17:29",

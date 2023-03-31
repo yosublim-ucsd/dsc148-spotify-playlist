@@ -6499,6 +6499,24 @@
     },
     {
       "album": {
+        "name": "\u3081\u3056\u305b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc -with my friends - from THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/17NXHPufEpCJGK8ueDtvf4"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30c8\u30b7(CV:\u677e\u672c\u68a8\u9999)",
+          "url": "https://open.spotify.com/artist/4W1d1c48W1NQZArFVHyQO8"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248738,
+      "name": "\u3081\u3056\u305b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc -with my friends - from THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/0iuwg67YGJihSZlqbUMG4L"
+    },
+    {
+      "album": {
         "name": "\u30dd\u30b1\u30e2\u30f3TV\u30a2\u30cb\u30e1\u4e3b\u984c\u6b4c BEST OF BEST OF BEST 1997-2023 (Selected Edition)",
         "url": "https://open.spotify.com/album/6VW7oDVEYEBAGk9V0AOedH"
       },
@@ -6510,7 +6528,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 246253,
       "name": "\u3081\u3056\u305b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc -with my friends-",
       "url": "https://open.spotify.com/track/0nLGu3icAxmtS0KEvC1wOe"

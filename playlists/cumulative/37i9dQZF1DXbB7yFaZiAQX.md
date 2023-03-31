@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-430 songs - 1 day 6 hr 26 min
+431 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,12 +187,13 @@
 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 | 2019-08-01 |  |
 | [Johnny Come Home](https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [Fine Young Cannibals](https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB) | 3:35 | 2019-08-02 |  |
 | [Just Can't Get Enough \- Live in Hammersmith](https://open.spotify.com/track/5LAdBsIfjzAsusjc6WSLmH) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Love In Itself.2 and Live Tracks](https://open.spotify.com/album/2ETuIwkPPqtr9NJo6GatJB) | 5:35 | 2019-08-01 | 2022-07-29 |
+| [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 | 2018-12-12 |  |
 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 | 2018-12-12 | 2023-03-09 |
 | [Kid \- 2006 Remaster](https://open.spotify.com/track/56aPHyy70SdIBYWEdV0cEi) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:06 | 2018-12-12 | 2022-07-29 |
 | [Knife Slits Water](https://open.spotify.com/track/52MYRXpbbZp2f5qCD29KpG) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Sextet](https://open.spotify.com/album/3jbiklIIi8B4vxYLpTahbw) | 7:34 | 2019-08-02 | 2022-04-20 |
 | [Kristallnaach](https://open.spotify.com/track/2aZsp1KAJLMOaW2socza14) | [BAP](https://open.spotify.com/artist/39ukKqQOSUFJDAM9OLKQZg) | [Vun Drinne Noh Drusse](https://open.spotify.com/album/01DA2kVDaJ8I2Z6PETlZt7) | 4:59 | 2018-12-12 | 2022-11-13 |
 | [Lady Shave](https://open.spotify.com/track/1Ke1tdqlzpXxQvHPP7TC9L) | [Fad Gadget](https://open.spotify.com/artist/5IRIVOsIjIch3u8UfWdnBd) | [The Fad Gadget Singles](https://open.spotify.com/album/3odysxr7qnWKR2v6ZU8tc5) | 5:41 | 2019-08-02 | 2022-04-20 |
-| [Let Me Go](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 | 2021-08-31 |  |
+| [Let Me Go](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 | 2021-08-31 | 2023-03-31 |
 | [Let's Go To Bed](https://open.spotify.com/track/0sajbvtKzol0PeerLCCmtM) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:34 | 2022-01-06 | 2022-08-04 |
 | [Let's Go To Bed](https://open.spotify.com/track/1KjMhke2ildiZGnjmnVVlh) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:34 | 2022-01-06 | 2022-11-13 |
 | [Let's Go To Bed](https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:34 | 2022-01-06 | 2022-07-09 |

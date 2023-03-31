@@ -2,9 +2,9 @@
 
 ### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Yarea
+> Descubre hoy a los artistas de mañana\. Foto: Paula Koops
 
-180 songs - 8 hr 49 min
+181 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fuego](https://open.spotify.com/track/6PAq6cZYIiXXJYNsq3f2Wa) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Fuego](https://open.spotify.com/album/4ALqYOxSlR5zksyUYL3mqK) | 3:05 | 2021-12-31 | 2022-01-28 |
 | [Fuimos](https://open.spotify.com/track/06JbxvU7hdbBw1eoEOUWW6) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Fuimos](https://open.spotify.com/album/0r8nYWTQM6CnzwgjvQjlkP) | 3:01 | 2022-02-17 | 2022-07-15 |
 | [grisgrisgris](https://open.spotify.com/track/38QsArD3UEW1jptzNR0PH0) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [grisgrisgris](https://open.spotify.com/album/3uAfxiZxSBOTporlZvNF7X) | 2:49 | 2022-01-27 | 2022-06-07 |
+| [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 | 2023-03-30 |  |
 | [Huracán 2.0](https://open.spotify.com/track/1vVpGcJToyVgpH2n4QkSc5) | [Ruiseñora](https://open.spotify.com/artist/5lWL0858SCbKL77z7Ff5Vs) | [Huracán 2.0](https://open.spotify.com/album/7B1QXHzOmKxNVWuNTpwLEz) | 2:28 | 2021-12-31 | 2022-01-28 |
 | [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 | 2022-07-28 |  |
 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 | 2022-03-31 | 2023-02-08 |
@@ -151,7 +152,7 @@
 | [Reventar la Ciudad](https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Reventar la Ciudad](https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1) | 3:29 | 2022-09-23 |  |
 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 | 2022-10-27 |  |
 | [Salao](https://open.spotify.com/track/5wuBfsWYTT6N8r4hZxahzk) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [Salao](https://open.spotify.com/album/6r0tpGvnhXY0KZSIIOMsPQ) | 3:20 | 2021-12-31 | 2022-04-01 |
-| [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 | 2022-06-06 |  |
+| [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 | 2022-06-06 | 2023-03-31 |
 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-01-27 | 2022-06-07 |
 | [señal • atardecer](https://open.spotify.com/track/3FgeuqQls327vXIdoFezMW) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [de la luz](https://open.spotify.com/album/378yGSuUhqGyPCsI3eWzFK) | 2:06 | 2022-01-27 | 2022-06-07 |
 | [SHUT UP](https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS) | [SHUT UP](https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34) | 2:48 | 2022-01-27 | 2022-06-07 |

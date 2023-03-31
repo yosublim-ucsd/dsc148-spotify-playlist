@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX?si=OpJVbnKfTYOXqIq0QVMsnw\"> Zenesoul </a> ",
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=f5xUkCYQR_6Cx8RzfhTXsg\"> Bloody Samaritan </a> ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -370,6 +370,24 @@
       "duration_ms": 164584,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1dGiHUu8vWQmXTPtvvxlPr"
+    },
+    {
+      "album": {
+        "name": "Anna Bella",
+        "url": "https://open.spotify.com/album/5TknxCsCfGtHQKFzIOdHN8"
+      },
+      "artists": [
+        {
+          "name": "UCHE",
+          "url": "https://open.spotify.com/artist/2btRDq0MHpAfXJREWx4Xzs"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164621,
+      "name": "Anna Bella",
+      "url": "https://open.spotify.com/track/5Prz7Ei82FRd0qhB5lDMfT"
     },
     {
       "album": {
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 238588,
       "name": "Chill",
       "url": "https://open.spotify.com/track/5J2EQqHiopKv9cHX3zLSZg"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 186666,
       "name": "Fine Wine (ft. Amaarae)",
       "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
@@ -2607,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151983,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
+    },
+    {
+      "album": {
         "name": "I Don't Want Your Love",
         "url": "https://open.spotify.com/album/1VPQ1shDNq1OfSPfjLlLlP"
       },
@@ -3245,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "lonely forever",
+        "url": "https://open.spotify.com/album/2mZewkfHwNjs54Yb9tomvv"
+      },
+      "artists": [
+        {
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "lonely forever",
+      "url": "https://open.spotify.com/track/7367yPl8eNATrjThrwXq1l"
+    },
+    {
+      "album": {
         "name": "WONDERGIRL",
         "url": "https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a"
       },
@@ -3343,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Maame Water",
+        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179915,
+      "name": "Maame Water",
+      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
+    },
+    {
+      "album": {
         "name": "Many Man - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
@@ -3408,7 +3480,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 153756,
       "name": "Memories",
       "url": "https://open.spotify.com/track/69tiff9diPnJh3meXUYi5w"
@@ -3972,7 +4044,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 159268,
       "name": "Number One",
       "url": "https://open.spotify.com/track/4tLLYnrES2xSkEe9QwfGCP"
@@ -4334,7 +4406,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 173793,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/3iSPa1byIatby865yq5GwD"
@@ -4777,6 +4849,32 @@
     },
     {
       "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg"
+      },
+      "artists": [
+        {
+          "name": "Keziah Mallam",
+          "url": "https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs"
+        },
+        {
+          "name": "RnB Princess",
+          "url": "https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg"
+        },
+        {
+          "name": "Beezyx",
+          "url": "https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/6sUuJLWrG5IrN7UUcZEdIk"
       },
@@ -4792,6 +4890,24 @@
       "duration_ms": 169963,
       "name": "Run",
       "url": "https://open.spotify.com/track/06kJ2OCmock2wz7R1vyoSC"
+    },
+    {
+      "album": {
+        "name": "Run Me Love",
+        "url": "https://open.spotify.com/album/05k1xrbhXa0CyvX7Asfk4c"
+      },
+      "artists": [
+        {
+          "name": "Shalom Dubas",
+          "url": "https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Run Me Love",
+      "url": "https://open.spotify.com/track/7ce9vRVRbcy6JDwhCwrNKM"
     },
     {
       "album": {
@@ -5271,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm"
+      },
+      "artists": [
+        {
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132785,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/2Mz5SKy2CwLk7HLH0xNRU3"
       },
@@ -5326,7 +5460,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 296756,
       "name": "Song Of G",
       "url": "https://open.spotify.com/track/6Ug28Tl6LJs2V9fmBmKfeT"
@@ -5500,7 +5634,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 160225,
       "name": "Suga",
       "url": "https://open.spotify.com/track/1F5g8k6TxDecoXmI9NZJ0P"
@@ -5866,7 +6000,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 206400,
       "name": "Too Early",
       "url": "https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco"
@@ -5896,6 +6030,28 @@
       "duration_ms": 205000,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2I2SwHn2UQ0ikHGCqbhDru"
+    },
+    {
+      "album": {
+        "name": "Touch Your Soul / Love & Rage",
+        "url": "https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "Merlyn Wood",
+          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "Touch Your Soul (feat. Merlyn Wood)",
+      "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
     },
     {
       "album": {
@@ -6038,7 +6194,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 165957,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN"
@@ -6256,6 +6412,24 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
+    },
+    {
+      "album": {
+        "name": "You Don't Want Me",
+        "url": "https://open.spotify.com/album/6tCFYmrg7RnGvvFG3L9hoL"
+      },
+      "artists": [
+        {
+          "name": "Brum3h",
+          "url": "https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175065,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/0ZfgnAmVY5AGG6pSwPAPrm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75?si=DxT4tFNGSMSUpORON6JI1g">TWICE</a> y <a href="https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C?si=MqodaY\-QS\_WV2QlBGlr7cA">Generación 12</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,970 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,152 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

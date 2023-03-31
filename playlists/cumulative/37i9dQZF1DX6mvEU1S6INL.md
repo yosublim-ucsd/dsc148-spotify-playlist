@@ -4,7 +4,7 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-218 songs - 14 hr 7 min
+219 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,9 +145,10 @@
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-12-10 |  |
 | [Missing You](https://open.spotify.com/track/7IES4JqyvNDWqJ5dAt7sAz) | [DWNTWN](https://open.spotify.com/artist/1FF7wG3PnqUXBsLBIY3fVt) | [DWNTWN](https://open.spotify.com/album/2S5gOslfCKK6ZIJ7F9Krad) | 3:45 | 2019-05-26\* | 2022-07-29 |
 | [Missing You](https://open.spotify.com/track/71BRpopwW5EPyj7dLaKEWn) | [DWNTWN](https://open.spotify.com/artist/1FF7wG3PnqUXBsLBIY3fVt) | [Dwntwn](https://open.spotify.com/album/7Mwk7laxKx82MS02s9ADbR) | 3:45 | 2022-05-27 | 2023-02-14 |
-| [My Heart's Always Yours](https://open.spotify.com/track/2jOdSehOmeHwPbO4q7c4IP) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report](https://open.spotify.com/album/1gRxeBwATLxM5NezjAeAUk) | 4:13 | 2022-05-27 |  |
+| [My Heart's Always Yours](https://open.spotify.com/track/2jOdSehOmeHwPbO4q7c4IP) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report](https://open.spotify.com/album/1gRxeBwATLxM5NezjAeAUk) | 4:13 | 2022-05-27 | 2023-03-31 |
 | [My Heart's Always Yours](https://open.spotify.com/track/3SLdLEQ8xz6limRM51RpZ3) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report](https://open.spotify.com/album/1BPpUmhXJdmDVa07f1qQVz) | 4:13 | 2019-05-26\* | 2022-07-29 |
 | [My Heart's Always Yours](https://open.spotify.com/track/4nxW2kULPrJAZF10sZpETr) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe Edition\)](https://open.spotify.com/album/1UM7iFcI1HXhDQo27U6lWl) | 4:13 | 2022-08-26 | 2022-11-13 |
+| [My Heart's Always Yours](https://open.spotify.com/track/5Thu5cuRc1VtDeTu7p8Pni) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report](https://open.spotify.com/album/2WJ3wW5Uy58NOWkIzzK4a4) | 4:13 | 2023-01-05 |  |
 | [Need Your Love](https://open.spotify.com/track/6nAJ0MbKqLTLs1xhqh0Idb) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Need Your Love](https://open.spotify.com/album/5L5kZbLWarHKJf0hPn4OFg) | 3:51 | 2020-02-13 | 2020-05-20 |
 | [No Way](https://open.spotify.com/track/2UhhSTIAKDa5lwWItkYvIE) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 5:29 | 2019-05-26\* | 2022-08-27 |
 | [Old Pine](https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 5:28 | 2019-05-26\* | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Sans Soucis in cover, e <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">nella playlist global</a> \u2728 ",
-  "num_followers": 5308,
+  "num_followers": 5310,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3ODI4NiwwMDAwMDAwMGQ5ZmNmOTE4YzgyNjhjMTgxZjE2YzJiYmZhNTEyNDUw",
+  "snapshot_id": "MTY3OTY3ODI4NiwwMDAwMDAwMGIxYTg0ODZiNWJjYTkzNDI0ODllZGViMzFhMDEyOTIy",
   "tracks": [
     {
       "added_at": "2023-03-17 08:35:32",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5"
     },
     {
-      "added_at": "2023-03-30 01:42:45",
+      "added_at": "2023-03-31 01:35:19",
       "album": {
         "name": "She's so different\u0259",
         "url": "https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps"
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "SIAMO RAGAZZU",
-        "url": "https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o"
-      },
-      "artists": [
-        {
-          "name": "fantahouse",
-          "url": "https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd"
-        }
-      ],
-      "duration_ms": 94132,
-      "name": "SIAMO RAGAZZU",
-      "url": "https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
         "name": "Discodelic Edits Vol.1",
         "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
       },
@@ -883,6 +867,38 @@
       "duration_ms": 371705,
       "name": "Tentami & Rubami",
       "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "Leo Mas Presents Mediterraneo",
+        "url": "https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5"
+      },
+      "artists": [
+        {
+          "name": "La Bellini",
+          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
+        }
+      ],
+      "duration_ms": 217584,
+      "name": "Satan in Love",
+      "url": "https://open.spotify.com/track/19BrvODRFitoD156Syg7nW"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "SIAMO RAGAZZU",
+        "url": "https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o"
+      },
+      "artists": [
+        {
+          "name": "fantahouse",
+          "url": "https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd"
+        }
+      ],
+      "duration_ms": 94132,
+      "name": "SIAMO RAGAZZU",
+      "url": "https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -939,22 +955,6 @@
       "duration_ms": 170000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "Leo Mas Presents Mediterraneo",
-        "url": "https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5"
-      },
-      "artists": [
-        {
-          "name": "La Bellini",
-          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
-        }
-      ],
-      "duration_ms": 217584,
-      "name": "Satan in Love",
-      "url": "https://open.spotify.com/track/19BrvODRFitoD156Syg7nW"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1227,7 +1227,7 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "ASOKO, Vol. 2",
+        "name": "QUEERADISE",
         "url": "https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ"
       },
       "artists": [

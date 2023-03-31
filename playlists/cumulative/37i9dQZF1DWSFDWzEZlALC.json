@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: AnnenMayKantereit",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: KAFFKIEZ",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "7SD",
+        "url": "https://open.spotify.com/album/2ciBwnxtCe6oY62gAw3YAh"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        },
+        {
+          "name": "Bonnie Strange",
+          "url": "https://open.spotify.com/artist/5Jc1lyOYKyNogbbh6Rs5dh"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152673,
+      "name": "7SD",
+      "url": "https://open.spotify.com/track/0uSPEMHkNHifMbwYUP4LwH"
+    },
+    {
+      "album": {
         "name": "abcdefg",
         "url": "https://open.spotify.com/album/6DcG7tdGy2L5kImJdWs6wU"
       },
@@ -193,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Achilles",
+        "url": "https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Achilles",
+      "url": "https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH"
+    },
+    {
+      "album": {
         "name": "Achterbahn",
         "url": "https://open.spotify.com/album/4buWxLZ020iTdmt7PDGLL9"
       },
@@ -204,10 +244,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 190792,
       "name": "Achterbahn",
       "url": "https://open.spotify.com/track/1lLUon8AY1A8zd95Qxb47L"
+    },
+    {
+      "album": {
+        "name": "Alles Nur Gelogen",
+        "url": "https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168120,
+      "name": "Alles Nur Gelogen",
+      "url": "https://open.spotify.com/track/74eR8xSdraMDGsGPI7D5C9"
     },
     {
       "album": {
@@ -504,6 +562,24 @@
       "duration_ms": 175573,
       "name": "Blumen",
       "url": "https://open.spotify.com/track/4KQlhvy3r7aMWvgdEhgZ7J"
+    },
+    {
+      "album": {
+        "name": "Bothmer Schloss",
+        "url": "https://open.spotify.com/album/5uzWUjRAUuHKiVjl3IUKxc"
+      },
+      "artists": [
+        {
+          "name": "Marie Bothmer",
+          "url": "https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Bothmer Schloss",
+      "url": "https://open.spotify.com/track/44kwjttT281ppk7hKBqXvV"
     },
     {
       "album": {
@@ -1622,7 +1698,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 163080,
       "name": "Im Loop",
       "url": "https://open.spotify.com/track/5YWkLb7ffoZ9miA7pFQWnZ"
@@ -1644,6 +1720,24 @@
       "duration_ms": 221767,
       "name": "Im Walzerschritt Fahrradfahren",
       "url": "https://open.spotify.com/track/7DxjsdLPvzWgScr1XggOBe"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2cbAgiynVNUCo4vO9PsZao"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169554,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/5voBx32zUStgxAfTZ8d4Gv"
     },
     {
       "album": {
@@ -1800,7 +1894,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 167327,
       "name": "Kater",
       "url": "https://open.spotify.com/track/7y9Kp4Tjka2B52vtuY4Jse"
@@ -2278,7 +2372,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 182346,
       "name": "Nero",
       "url": "https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7"
@@ -2618,7 +2712,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 191266,
       "name": "Rette Mich",
       "url": "https://open.spotify.com/track/42p6RBRK50vm0lfJBpBtlH"

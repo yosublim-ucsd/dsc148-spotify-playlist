@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-116 songs - 6 hr 32 min
+117 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [ECHOES](https://open.spotify.com/track/0XcpGTkuGzXdp3CXb85uRt) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [ECHOES](https://open.spotify.com/album/6HE5jgyjgkKNuYQTaBeM9Z) | 3:09 | 2023-02-28 |  |
 | [Edge of The Unknown](https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Edge Of The Unknown](https://open.spotify.com/album/13mS26sOAVYfngzLevsf82) | 4:18 | 2022-12-08 |  |
 | [Electronic](https://open.spotify.com/track/0dJ2XvnUNk1BzvKAkXEIL9) | [JNXD](https://open.spotify.com/artist/4by5ENA6ZMNCQkOX3RIh0G), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [Electronic](https://open.spotify.com/album/3y2g6ukf1ZhFikUu6YQd84) | 3:24 | 2023-02-02 | 2023-03-14 |
-| [Euphoria](https://open.spotify.com/track/1MZQzrlsp8Lg4Zo8fBdJJ9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Euphoria](https://open.spotify.com/album/49tzGjcmL5kKOTJWloKggq) | 4:00 | 2022-12-08 |  |
+| [Euphoria](https://open.spotify.com/track/1MZQzrlsp8Lg4Zo8fBdJJ9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Euphoria](https://open.spotify.com/album/49tzGjcmL5kKOTJWloKggq) | 4:00 | 2022-12-08 | 2023-03-31 |
 | [Exhale](https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Exhale](https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU) | 3:32 | 2022-12-08 |  |
 | [Faith Of This World \- Original Mix](https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Faith Of This World \(Original Mix\)](https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE) | 4:02 | 2022-12-08 |  |
 | [Fight](https://open.spotify.com/track/5LR8IpevPBJKSyR5D8kqKu) | [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Fight](https://open.spotify.com/album/4N7kRozkMvE9IPHTIyycIW) | 2:33 | 2023-01-26 |  |
@@ -43,6 +43,7 @@
 | [Firestarter](https://open.spotify.com/track/0mGmrLTe4VlaWZ5DFWpnil) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Firestarter](https://open.spotify.com/album/6KKaf1IJOw4BiPnxbTLul0) | 3:21 | 2022-12-08 |  |
 | [Firestone](https://open.spotify.com/track/5rlO2Wr2jifgjiBbPy25Su) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Firestone](https://open.spotify.com/album/2GHFB4DuUJ68WuI5hD2HvX) | 4:01 | 2022-12-08 |  |
 | [For You](https://open.spotify.com/track/5VGRWK6AgM3BifNn5WPsXs) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [For You](https://open.spotify.com/album/1CAyRb6HyVWV9k7Pr7jntA) | 2:56 | 2022-12-08 | 2022-12-16 |
+| [Free Fall](https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Free Fall](https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS) | 3:15 | 2023-03-30 |  |
 | [Futurepower](https://open.spotify.com/track/5BEeBEAsRWIhAw18rkun9F) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Futurepower](https://open.spotify.com/album/2MG0xLJezHQAAlmpCVf7h6) | 4:06 | 2022-12-08 |  |
 | [Get Psycho](https://open.spotify.com/track/2qSbdjBKV4Ooa0yxZtA0px) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Get Psycho](https://open.spotify.com/album/4eqnUJrLMljVfSbomWiVgG) | 2:15 | 2022-12-08 | 2023-02-28 |
 | [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 | 2022-12-08 |  |

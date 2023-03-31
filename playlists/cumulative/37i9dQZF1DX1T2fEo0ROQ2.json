@@ -1841,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Dyheu",
+        "url": "https://open.spotify.com/album/5BakAaou4Ns1pxprMEeDUO"
+      },
+      "artists": [
+        {
+          "name": "Lee Azalea",
+          "url": "https://open.spotify.com/artist/5nQNc4ExpTTrS00gqk1J2y"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156885,
+      "name": "Dyheu",
+      "url": "https://open.spotify.com/track/4M4cdo4JsVFHwVwhjMRzR4"
+    },
+    {
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi"
       },
@@ -3710,6 +3728,24 @@
       "duration_ms": 169736,
       "name": "Mezame",
       "url": "https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz"
+    },
+    {
+      "album": {
+        "name": "Milujem",
+        "url": "https://open.spotify.com/album/1YYl7pJswJ8lGeDJHdOiLq"
+      },
+      "artists": [
+        {
+          "name": "Nova Kral",
+          "url": "https://open.spotify.com/artist/7uawp9f3qhlML7nNn4vB4B"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Milujem",
+      "url": "https://open.spotify.com/track/6QcpPiqS1BLG4W3W7ZsBf0"
     },
     {
       "album": {

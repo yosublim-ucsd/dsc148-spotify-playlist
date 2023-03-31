@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain]
 
 > Breathe in, breathe out and let this relaxing playlist help you focus on the task at hand.
 
-[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 32,481 likes - 89 songs - 5 hr 6 min
+[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 32,482 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain]
 | 5 | [Freddie's Theme](https://open.spotify.com/track/2oBPx5k5ejQcgzyDMoRlAU) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Freddie's Theme](https://open.spotify.com/album/7zJCUf2zTgutPRpweGoQiS) | 2:15 |
 | 6 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 |
 | 7 | [Stay](https://open.spotify.com/track/7HDH1wn0I9Uqk2gqkM4WGb) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Stay](https://open.spotify.com/album/13YFmbLomw1142gq3Z7ZoR) | 3:21 |
-| 8 | [Ala](https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ala](https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa) | 2:00 |
+| 8 | [Beving: Ala](https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ala](https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa) | 2:00 |
 | 9 | [Winter](https://open.spotify.com/track/0TnTf6JpDE2tQoO83zZfD0) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter](https://open.spotify.com/album/66JvWa2FrAi03M673DXRc7) | 3:08 |
 | 10 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 |
 | 11 | [Influences](https://open.spotify.com/track/3WDjgGtefZxEt3ctuBHTNL) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Influences](https://open.spotify.com/album/5d3ziR8ftmIVFz7Vg3Pj9K) | 3:07 |

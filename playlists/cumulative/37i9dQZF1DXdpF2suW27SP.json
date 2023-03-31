@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 242476,
       "name": "Cad\u00e1ver - Com Banda",
       "url": "https://open.spotify.com/track/6AYzHvfq4kQTSUrAuMKc5a"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 210504,
       "name": "Cobras e Serpentes",
       "url": "https://open.spotify.com/track/7mCgHTgHjdSA35JQ0xo3hR"
@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Forever Na Street",
+        "url": "https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk"
+      },
+      "artists": [
+        {
+          "name": "Landim",
+          "url": "https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153778,
+      "name": "Forever Na Street",
+      "url": "https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH"
+    },
+    {
+      "album": {
         "name": "Full MUN",
         "url": "https://open.spotify.com/album/1sVW0JK8GDwPiM3AmcIIKU"
       },
@@ -1906,6 +1924,42 @@
       "duration_ms": 218288,
       "name": "Gorillaz",
       "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
+    },
+    {
+      "album": {
+        "name": "Grafitar N\u00e3o \u00c9 Estragar",
+        "url": "https://open.spotify.com/album/73XnO45ut5eRoFeWcnrI1O"
+      },
+      "artists": [
+        {
+          "name": "MC Caixa D\u00f3culos",
+          "url": "https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154057,
+      "name": "Grafitar N\u00e3o \u00c9 Estragar",
+      "url": "https://open.spotify.com/track/2u3070e7rTNayuiwWTCiHp"
+    },
+    {
+      "album": {
+        "name": "Grandeza - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7FjIa7xnJX7g4DiKiYnxsV"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175659,
+      "name": "Grandeza - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6A0M5aCuhdbSqs8pcPx3xf"
     },
     {
       "album": {
@@ -2280,7 +2334,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 187972,
       "name": "LUMI ZOO",
       "url": "https://open.spotify.com/track/74lZ2yteCAFo7a5naosE3g"
@@ -3072,7 +3126,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 157035,
       "name": "N\u00e3o Posso Agora",
       "url": "https://open.spotify.com/track/5UaD8d3304kcnBtlOpxPL8"
@@ -4226,7 +4280,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 208000,
       "name": "Tenta\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV"
@@ -4252,6 +4306,28 @@
       "duration_ms": 215006,
       "name": "Teu Cheiro",
       "url": "https://open.spotify.com/track/4hwguRVq6Kv6llWmKf9G88"
+    },
+    {
+      "album": {
+        "name": "TGV",
+        "url": "https://open.spotify.com/album/1A43XMZzYYvCFGEUqFFr3Q"
+      },
+      "artists": [
+        {
+          "name": "Giovanni",
+          "url": "https://open.spotify.com/artist/7sMiAzj6PJ8f5yBFoJZgb4"
+        },
+        {
+          "name": "Michell",
+          "url": "https://open.spotify.com/artist/7mQvIzU4Q5g6FNera2Sh3C"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222921,
+      "name": "TGV",
+      "url": "https://open.spotify.com/track/1ksfoj3FU8XRjPZL9ZbqSD"
     },
     {
       "album": {
@@ -4424,6 +4500,24 @@
       "duration_ms": 208000,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT"
+    },
+    {
+      "album": {
+        "name": "T\u00f3xico",
+        "url": "https://open.spotify.com/album/1QMPrLfFFl8MqGh2ZTlKSD"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274965,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/7IrkYmj0PeJ887iBKanf17"
     },
     {
       "album": {

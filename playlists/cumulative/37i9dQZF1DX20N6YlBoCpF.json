@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"http://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP\">Wilma Van Heerden</a> ",
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io?si=5bdIe6ZEROS3VhYyTcVSeQ\">Wikus Botma</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Boeremeisie",
+        "url": "https://open.spotify.com/album/3mGCOx0NJRHAGVCdoy2tiU"
+      },
+      "artists": [
+        {
+          "name": "Zander van Wyk",
+          "url": "https://open.spotify.com/artist/1IvM3qTeipluXahp3qVbRt"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Boeremeisie",
+      "url": "https://open.spotify.com/track/2jfNsXSHjMm0XQlE5RR6p1"
+    },
+    {
+      "album": {
         "name": "Hardwerkende Man",
         "url": "https://open.spotify.com/album/5joOuKhuwIZvrZjUpMXHpK"
       },
@@ -775,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Coco Pops en Kaas",
+        "url": "https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1"
+      },
+      "artists": [
+        {
+          "name": "Nicholis Louw",
+          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Coco Pops en Kaas",
+      "url": "https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y"
+    },
+    {
+      "album": {
         "name": "Daai Ding",
         "url": "https://open.spotify.com/album/19IqK8AZOph118avK1LdaV"
       },
@@ -866,7 +902,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 249506,
       "name": "Dans Met Gevaar",
       "url": "https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof"
@@ -920,10 +956,28 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 184405,
       "name": "Die Dansvloer",
       "url": "https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy"
+    },
+    {
+      "album": {
+        "name": "Die Laaste Keer",
+        "url": "https://open.spotify.com/album/4xAsnq7uFDOQrlt2MXYuk2"
+      },
+      "artists": [
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/3q6m6kxjSndfgNlbd315ur"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201791,
+      "name": "Die Laaste Keer",
+      "url": "https://open.spotify.com/track/4igd3gDKp4OGAi9C2W4ovN"
     },
     {
       "album": {
@@ -999,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Die Son Kom Op",
+        "url": "https://open.spotify.com/album/5QB0DEXPWE4fWHM7cohmnk"
+      },
+      "artists": [
+        {
+          "name": "Tiaan Massyn",
+          "url": "https://open.spotify.com/artist/5kBNVv1oDDlPfx7mmf8ZGB"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236317,
+      "name": "Die Son Kom Op",
+      "url": "https://open.spotify.com/track/7qCrASJyo3JTjEpUauJMEA"
+    },
+    {
+      "album": {
         "name": "Die Vakansie Song - Shokbasse Remix",
         "url": "https://open.spotify.com/album/3zUSxdod87bOZ8I8hNjU0O"
       },
@@ -1058,7 +1130,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 205440,
       "name": "Disco Damage (feat. Loufi) [Jayms Remix]",
       "url": "https://open.spotify.com/track/72IeNUbUC1Zwa0l9uYLy6N"
@@ -2157,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Kleintjie",
+        "url": "https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH"
+      },
+      "artists": [
+        {
+          "name": "Wikus Botma",
+          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179018,
+      "name": "Kleintjie",
+      "url": "https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk"
+    },
+    {
+      "album": {
         "name": "Weer",
         "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
       },
@@ -2244,7 +2334,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 269853,
       "name": "Kom L\u00ea My Voor Jou",
       "url": "https://open.spotify.com/track/0V3iFpzRjflG0W9s4175n1"
@@ -2890,7 +2980,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 215400,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/6ehCbe3TFJmwqV5aNTYlCD"
@@ -3010,7 +3100,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 212951,
       "name": "My Persoon",
       "url": "https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc"
@@ -3032,6 +3122,24 @@
       "duration_ms": 243666,
       "name": "My Sonskyn",
       "url": "https://open.spotify.com/track/2CktNfTd3lvPHwVfBaSGxR"
+    },
+    {
+      "album": {
+        "name": "My Wolf",
+        "url": "https://open.spotify.com/album/1zLCBWxCWdinLZLX9KMiCf"
+      },
+      "artists": [
+        {
+          "name": "Hansie Roodt",
+          "url": "https://open.spotify.com/artist/78nUGs2i0NV2hsgPQya8E3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224558,
+      "name": "My Wolf",
+      "url": "https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL"
     },
     {
       "album": {
@@ -3324,7 +3432,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 186367,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
@@ -3520,6 +3628,24 @@
       "duration_ms": 214115,
       "name": "Pappa Probleme",
       "url": "https://open.spotify.com/track/0PJnQ3CdbPnj10s2rZ4R7a"
+    },
+    {
+      "album": {
+        "name": "Partytjie Slaap Herhaal",
+        "url": "https://open.spotify.com/album/0HSsTlnjrsWTpemTJWWwhZ"
+      },
+      "artists": [
+        {
+          "name": "Armand Hofmeyr",
+          "url": "https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200669,
+      "name": "Partytjie Slaap Herhaal",
+      "url": "https://open.spotify.com/track/5G9Gg9JtFDbbCUSjw1y3b0"
     },
     {
       "album": {
@@ -3852,6 +3978,24 @@
       "duration_ms": 184693,
       "name": "Sannie Die Loopdop",
       "url": "https://open.spotify.com/track/4IfngqUmK5sNeRfZBl5amD"
+    },
+    {
+      "album": {
+        "name": "Selfbeheer",
+        "url": "https://open.spotify.com/album/6pubg9uQtO0MNZpAFMtdYG"
+      },
+      "artists": [
+        {
+          "name": "Werner Olckers",
+          "url": "https://open.spotify.com/artist/0uGoWMIEm56ThYr7kIW4VG"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185268,
+      "name": "Selfbeheer",
+      "url": "https://open.spotify.com/track/0Iv5MLuR8yVpiAXE9BCrKX"
     },
     {
       "album": {
@@ -4260,7 +4404,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 190327,
       "name": "Stap Soldaat",
       "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"

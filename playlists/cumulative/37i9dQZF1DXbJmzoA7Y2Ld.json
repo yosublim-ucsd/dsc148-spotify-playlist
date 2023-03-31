@@ -1198,10 +1198,36 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 214946,
       "name": "Troubled Man",
       "url": "https://open.spotify.com/track/30M1CpW3ZUFHDkrl7SDu4I"
+    },
+    {
+      "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/34Jvqkq2fN1s8GmEGTo6X2"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        },
+        {
+          "name": "The Brotherhood",
+          "url": "https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW"
+        },
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214946,
+      "name": "Troubled Man",
+      "url": "https://open.spotify.com/track/40Um13ugeXKggVtaJF0i03"
     },
     {
       "album": {

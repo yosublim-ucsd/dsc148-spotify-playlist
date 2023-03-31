@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 271733,
+  "num_followers": 272592,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM3NzE4NywwMDAwMDAwMGNkY2MxYjk4NTYxMTRlMjFmYWMyYTc4MDdhMTE3OGE2",
+  "snapshot_id": "MTY3ODM3NzE4NywwMDAwMDAwMGNhOGM5NTRjOGIzZmQ0NmEwZmMzZmU1YzExMDNjZDlm",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
-      "added_at": "2023-03-09 15:53:07",
-      "album": {
-        "name": "The Traveling Wilburys, Vol. 1",
-        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
-      },
-      "artists": [
-        {
-          "name": "Traveling Wilburys",
-          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Handle With Care",
-      "url": "https://open.spotify.com/track/1vQxicuNSODoBECPMFjHMG"
-    },
-    {
       "added_at": "2022-03-04 19:00:59",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
@@ -683,6 +667,22 @@
       "duration_ms": 188083,
       "name": "Dance the Night Away - 2015 Remaster",
       "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
+    },
+    {
+      "added_at": "2023-03-09 15:53:07",
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Handle With Care",
+      "url": "https://open.spotify.com/track/1vQxicuNSODoBECPMFjHMG"
     },
     {
       "added_at": "2022-03-04 19:00:59",

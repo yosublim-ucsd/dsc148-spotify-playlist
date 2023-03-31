@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72537,
+  "num_followers": 72560,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDBjNmNjOWFiNmU2ZGQ0NDljMDg2YTUxMzlkZmM1ZTg4",
+  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDU1YTU5ZWNjNjk5MzM0MWYyZmM5MzNjOTJkMGY4N2Vi",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "Small Town Rituals",
+        "url": "https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Disappearing Light",
+      "url": "https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "To Enjoy Is the Only Thing",
         "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 297266,
       "name": "Standing Still",
       "url": "https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "Small Town Rituals",
-        "url": "https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Disappearing Light",
-      "url": "https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
     },
     {
-      "added_at": "2023-03-30 01:33:46",
+      "added_at": "2023-03-31 00:38:48",
       "album": {
         "name": "Higher Now",
         "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Outside Kinda Kids",
-        "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU"
       },
       "artists": [
         {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
         }
       ],
-      "duration_ms": 195299,
-      "name": "Outside Kinda Kids",
-      "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
+      "duration_ms": 238174,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
     },
     {
       "added_at": "2023-01-12 13:00:00",

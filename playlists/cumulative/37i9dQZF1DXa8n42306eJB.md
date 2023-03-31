@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-108 songs - 6 hr 31 min
+109 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-08-24 | 2022-04-22 |
 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 | 2022-08-07 |  |
 | [Hello](https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Get Soca 2018](https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc) | 3:19 | 2022-04-14 | 2022-10-05 |
+| [Herb, Whiskey & Reggae](https://open.spotify.com/track/3BC79FzFstIXyEs4it7MXy) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Herb, Whiskey & Reggae](https://open.spotify.com/album/41bzAr8fjnWZb4XuBf0iwE) | 3:21 | 2023-03-30 |  |
 | [Here to Stay](https://open.spotify.com/track/0qxTym0LJ6HMV4g87FYIdR) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4) | 4:17 | 2021-08-24 |  |
 | [Holiday](https://open.spotify.com/track/3zqbvsFfpYLBhtcVIw42Sz) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/3wTqGvbAcURFH1ALVckuhg) | 3:15 | 2021-08-24 |  |
 | [Homebound](https://open.spotify.com/track/70iZhm23HpNcFXGg3UMMSB) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Homebound](https://open.spotify.com/album/4bTVw0yJcmqbH0Sg9fsJCQ) | 3:46 | 2021-08-24 |  |

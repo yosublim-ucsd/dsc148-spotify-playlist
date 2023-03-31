@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eUekrgxJ8J.md) - [plain]
 
 > Discover hits signed Smokey Robinson that shaped the early sound of Motown.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,290 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,295 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eUekrgxJ8J.md) - [plain]
 | 22 | [Your Heart Belongs To Me \- Mono Version with Echo](https://open.spotify.com/track/20HpRfGcg3neSqboaQHvLC) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Meet The Supremes \- Expanded Edition](https://open.spotify.com/album/5Ij4Mpkh9xZi2csxPF3ziI) | 2:36 |
 | 23 | [Your Wonderful Sweet, Sweet Love](https://open.spotify.com/track/5SsTHh7JK6I0FYm0u3sIMX) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Floy Joy](https://open.spotify.com/album/7oJxT9aO3wZZI3r8WssASQ) | 3:02 |
 | 24 | [Ain't That Peculiar \- Single Version](https://open.spotify.com/track/1yyJNEU2gWG6QiJkhPwrde) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Moods Of Marvin Gaye](https://open.spotify.com/album/4pfaSNzd1uXEumYj6VAzF0) | 2:59 |
-| 25 | [I'll Be Doggone \- Juke Box Single Version](https://open.spotify.com/track/471yG3FpXwgKcbNlblZ1Yt) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Moods Of Marvin Gaye](https://open.spotify.com/album/4pfaSNzd1uXEumYj6VAzF0) | 2:46 |
+| 25 | [I'll Be Doggone](https://open.spotify.com/track/471yG3FpXwgKcbNlblZ1Yt) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Moods Of Marvin Gaye](https://open.spotify.com/album/4pfaSNzd1uXEumYj6VAzF0) | 2:46 |
 
 Snapshot ID: `MTU2MTQ5NzI4NywwMDAwMDAwMGEyYjAxM2E4YTJmN2MxMGM0MmY3NmE3ODNmNzg4YTQz`

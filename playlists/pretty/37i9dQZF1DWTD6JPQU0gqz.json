@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 46177,
+  "num_followers": 46205,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMGRjMjM0ODlkZjJiZjU5MTQ1YjE1ZTYwZjdlNjhiM2Ew",
+  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMGQ3NzRkODIxNTI4OGRjMTkxZTAyYjU2ZGRhNjUwNmVi",
   "tracks": [
     {
       "added_at": "2023-02-17 03:40:06",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+        "name": "Apretaito",
+        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
       },
       "artists": [
         {
           "name": "Ozuna",
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+      "duration_ms": 199627,
+      "name": "Apretaito",
+      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Apretaito",
-        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
       "artists": [
         {
           "name": "Ozuna",
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 199627,
-      "name": "Apretaito",
-      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "NI\u00d1XS ROTXS",
-        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
+        "name": "Tambores y Cantos",
+        "url": "https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh"
       },
       "artists": [
         {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
         }
       ],
-      "duration_ms": 206928,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
+      "duration_ms": 288586,
+      "name": "Prende La Vela",
+      "url": "https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Tambores y Cantos",
-        "url": "https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh"
+        "name": "NI\u00d1XS ROTXS",
+        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
       },
       "artists": [
         {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 288586,
-      "name": "Prende La Vela",
-      "url": "https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ"
+      "duration_ms": 206928,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "EnVy",
-        "url": "https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl"
-      },
-      "artists": [
-        {
-          "name": "Rauli V",
-          "url": "https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG"
-        }
-      ],
-      "duration_ms": 169412,
-      "name": "EnVy",
-      "url": "https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "50 \u00e9xitos de salsa cubana",
         "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 293173,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "EnVy",
+        "url": "https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl"
+      },
+      "artists": [
+        {
+          "name": "Rauli V",
+          "url": "https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG"
+        }
+      ],
+      "duration_ms": 169412,
+      "name": "EnVy",
+      "url": "https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx"
     },
     {
       "added_at": "2023-02-17 03:40:06",

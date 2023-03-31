@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from LP Giobbi & Sofi Tukker.",
-  "num_followers": 428285,
+  "num_followers": 428384,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0MjI5MywwMDAwMDAwMGVlYTFkZmRhMTkwN2MzODE0OGE1ZDI1NmY3ZDg4ZWY4",
+  "snapshot_id": "MTY3OTk0MjI5MywwMDAwMDAwMDAyY2Y1MDRlMGY4NzY1NTdiMGI1NWFkZTJkNmU1NjAx",
   "tracks": [
     {
       "added_at": "2023-03-24 14:53:09",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/0aFmKalKDhBOuA9atK89ge"
-      },
-      "artists": [
-        {
-          "name": "P.O.S",
-          "url": "https://open.spotify.com/artist/6PqtTOqDDdBJQzgCW2TbwU"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/7h7pLuwsSfGcVuNa23BipF"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
         "name": "Gam Gam (2023)",
         "url": "https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 248888,
       "name": "Gam Gam - 2023",
       "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/0aFmKalKDhBOuA9atK89ge"
+      },
+      "artists": [
+        {
+          "name": "P.O.S",
+          "url": "https://open.spotify.com/artist/6PqtTOqDDdBJQzgCW2TbwU"
+        }
+      ],
+      "duration_ms": 187619,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7h7pLuwsSfGcVuNa23BipF"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1uBf6Qwf4RiZkrz6pGHyj1"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 238129,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3b28eJuh4eW50jXjPKpf49"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -843,30 +843,6 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "WWYB3",
-        "url": "https://open.spotify.com/album/7nekGjX97RDHeXgvJ3HCgI"
-      },
-      "artists": [
-        {
-          "name": "Zingara",
-          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
-        },
-        {
-          "name": "Austeria",
-          "url": "https://open.spotify.com/artist/15VvV8dnWKZBNufin6LzzS"
-        },
-        {
-          "name": "Miracle",
-          "url": "https://open.spotify.com/artist/23YWBn2bIYg40acr6gcG1X"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "WWYB3",
-      "url": "https://open.spotify.com/track/66zxEGeCYTdrRQIEjZGudG"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
         "name": "A Radiant Sign (Remixed)",
         "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
       },
@@ -891,6 +867,30 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "WWYB3",
+        "url": "https://open.spotify.com/album/7nekGjX97RDHeXgvJ3HCgI"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        },
+        {
+          "name": "Austeria",
+          "url": "https://open.spotify.com/artist/15VvV8dnWKZBNufin6LzzS"
+        },
+        {
+          "name": "Miracle",
+          "url": "https://open.spotify.com/artist/23YWBn2bIYg40acr6gcG1X"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "WWYB3",
+      "url": "https://open.spotify.com/track/66zxEGeCYTdrRQIEjZGudG"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "KILO (Beltran Remix)",
         "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 247384,
       "name": "KILO - Beltran Remix",
       "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/2hGBOvM92KXih0rp5OGFhx"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/2hGBOvM92KXih0rp5OGFhx"
+        "name": "Dance for Me",
+        "url": "https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W"
       },
       "artists": [
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT"
+      "duration_ms": 245333,
+      "name": "Dance for Me",
+      "url": "https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "Dance for Me",
-        "url": "https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Dance for Me",
-      "url": "https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
         "name": "Take That",
         "url": "https://open.spotify.com/album/7cFPpACcw4uo8ioN0IY2Px"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "The Routine",
-        "url": "https://open.spotify.com/album/0cjGhY6GKW4M3ZzQu1HV5g"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "The Routine",
-      "url": "https://open.spotify.com/track/4EFZcJDWooySmgItqjbO8m"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
         "name": "Staring In The Dark",
         "url": "https://open.spotify.com/album/2jxqw18TEVeQ2GhNMq7Ht3"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 243521,
       "name": "Staring In The Dark",
       "url": "https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
+        "name": "The Routine",
+        "url": "https://open.spotify.com/album/0cjGhY6GKW4M3ZzQu1HV5g"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "The Routine",
+      "url": "https://open.spotify.com/track/4EFZcJDWooySmgItqjbO8m"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "Soy Gitano EP",
+        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 204848,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "Hum",
         "url": "https://open.spotify.com/album/2Ada1o4AzW1xxBaYniu6xi"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "Soy Gitano EP",
-        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
         "name": "Burning (feat. Lauren L'aimant)",
         "url": "https://open.spotify.com/album/1d6L2N9hDMo1XPzRyYHiTA"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 170156,
       "name": "Burning (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/2mPZOz3a2WHHSYeNyPL1Tj"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 182382,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 182382,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "Outlaws",
         "url": "https://open.spotify.com/album/4bAzbmRZ5kjPFRgNaHj2YR"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "ALALA",
-        "url": "https://open.spotify.com/album/0hPgKedmjPqkylrDeo86ho"
-      },
-      "artists": [
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        }
-      ],
-      "duration_ms": 176835,
-      "name": "ALALA",
-      "url": "https://open.spotify.com/track/0EA7SaogHX4PgvNe1cGjQ0"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/6fCdtGCowSifh43OPqO9t3"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "ALALA",
+        "url": "https://open.spotify.com/album/0hPgKedmjPqkylrDeo86ho"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "duration_ms": 176835,
+      "name": "ALALA",
+      "url": "https://open.spotify.com/track/0EA7SaogHX4PgvNe1cGjQ0"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/32t3XUIzAFAtfKuWbgv8au"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "New Worlds",
-        "url": "https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "New Worlds",
-      "url": "https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
         "name": "Let Yourself Go",
         "url": "https://open.spotify.com/album/1mZyYm3OwiQwfmlcZq8XDX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 207015,
       "name": "Let Yourself Go",
       "url": "https://open.spotify.com/track/0aM8D94Sfymu7gM5j8vF5p"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
+        "name": "New Worlds",
+        "url": "https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "New Worlds",
+      "url": "https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "Cry Cry Cry",
+        "url": "https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 202159,
+      "name": "Cry Cry Cry",
+      "url": "https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "\u2661 (Ricardo Villalobos Remixes)",
         "url": "https://open.spotify.com/album/09Sz1xnLiKWOXPz0BMxt51"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "Cry Cry Cry",
-        "url": "https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO"
-      },
-      "artists": [
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 202159,
-      "name": "Cry Cry Cry",
-      "url": "https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
         "name": "WHAT ABOUT ME",
         "url": "https://open.spotify.com/album/5JeEcAVNO88EVtdPw080Bh"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 259023,
       "name": "WHAT ABOUT ME",
       "url": "https://open.spotify.com/track/5Aidv1qBlj01SnUDh2SCvc"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
+        "name": "Someone Like You",
+        "url": "https://open.spotify.com/album/1Z9mfaM5XeMIqhlZzCeuyX"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/50er2te7txC3DkR4y8cANW"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1503,22 +1519,6 @@
       "duration_ms": 307240,
       "name": "Balsame - Ohxala Remix",
       "url": "https://open.spotify.com/track/3i8BdR2Q7hSl1XPByjtAm4"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
-        "name": "Someone Like You",
-        "url": "https://open.spotify.com/album/1Z9mfaM5XeMIqhlZzCeuyX"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/50er2te7txC3DkR4y8cANW"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "FEEL LUCKY",
+        "url": "https://open.spotify.com/album/64Sr8uSl3E2L5ZRkGgkf3R"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 216971,
+      "name": "FEEL LUCKY",
+      "url": "https://open.spotify.com/track/5uKWsS04iHProlH6S16bdf"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "Shiny Things",
         "url": "https://open.spotify.com/album/0ky89qHAbyPxgmUVV5iwWI"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 186971,
       "name": "Goodbye (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/6qML6z7wxbPgRMh96Je0Uu"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
-        "name": "FEEL LUCKY",
-        "url": "https://open.spotify.com/album/64Sr8uSl3E2L5ZRkGgkf3R"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 216971,
-      "name": "FEEL LUCKY",
-      "url": "https://open.spotify.com/track/5uKWsS04iHProlH6S16bdf"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "Overfreezing",
+        "url": "https://open.spotify.com/album/5RBhpmkBc68kBS284I5PW4"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 228302,
+      "name": "Overfreezing",
+      "url": "https://open.spotify.com/track/6V50LRtrB622VFSaDIcDdR"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "Get Right",
         "url": "https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 195555,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
-        "name": "Overfreezing",
-        "url": "https://open.spotify.com/album/5RBhpmkBc68kBS284I5PW4"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 228302,
-      "name": "Overfreezing",
-      "url": "https://open.spotify.com/track/6V50LRtrB622VFSaDIcDdR"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
+        "name": "Birds In Paradise",
+        "url": "https://open.spotify.com/album/28g69j7x2b2oBVGKhR1fct"
+      },
+      "artists": [
+        {
+          "name": "XIE",
+          "url": "https://open.spotify.com/artist/6nwfs1JBpPHU65twuciEbN"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Birds In Paradise",
+      "url": "https://open.spotify.com/track/5xVSIjVZYWnbgAygzX5kwR"
+    },
+    {
+      "added_at": "2023-03-24 14:53:09",
+      "album": {
         "name": "GLAMOUR Riddim",
         "url": "https://open.spotify.com/album/6RxndZ15v2o4VYDYECe4FZ"
       },
@@ -1895,18 +1911,18 @@
     {
       "added_at": "2023-03-24 14:53:09",
       "album": {
-        "name": "Birds In Paradise",
-        "url": "https://open.spotify.com/album/28g69j7x2b2oBVGKhR1fct"
+        "name": "Forever EP",
+        "url": "https://open.spotify.com/album/1Os6AtLQRHLzdMgwlEQwER"
       },
       "artists": [
         {
-          "name": "XIE",
-          "url": "https://open.spotify.com/artist/6nwfs1JBpPHU65twuciEbN"
+          "name": "Eddie Fowlkes",
+          "url": "https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny"
         }
       ],
-      "duration_ms": 178124,
-      "name": "Birds In Paradise",
-      "url": "https://open.spotify.com/track/5xVSIjVZYWnbgAygzX5kwR"
+      "duration_ms": 329101,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0sPSHm2B6ECdQaBz4LWj7H"
     },
     {
       "added_at": "2023-03-24 14:53:09",
@@ -1923,22 +1939,6 @@
       "duration_ms": 197230,
       "name": "Odile",
       "url": "https://open.spotify.com/track/3SVs5qlrL4O3NYw1Q0SnQb"
-    },
-    {
-      "added_at": "2023-03-24 14:53:09",
-      "album": {
-        "name": "Forever EP",
-        "url": "https://open.spotify.com/album/1Os6AtLQRHLzdMgwlEQwER"
-      },
-      "artists": [
-        {
-          "name": "Eddie Fowlkes",
-          "url": "https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny"
-        }
-      ],
-      "duration_ms": 329101,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0sPSHm2B6ECdQaBz4LWj7H"
     },
     {
       "added_at": "2023-03-24 14:53:09",

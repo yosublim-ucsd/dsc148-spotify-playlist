@@ -7312,7 +7312,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -7388,7 +7388,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -11702,7 +11702,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 227384,
       "name": "\u0412\u0442\u043e\u043c\u0438\u0432\u0441\u044f",
       "url": "https://open.spotify.com/track/3kRfAMotUWqRfPj5HLIn7m"
@@ -13320,7 +13320,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 130153,
       "name": "\u0417\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u043b",
       "url": "https://open.spotify.com/track/24wc81Y0AA6uMsikUF4NSv"
@@ -15332,7 +15332,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 158709,
       "name": "\u041d\u0435 \u0431\u043e\u043b\u0435\u0435",
       "url": "https://open.spotify.com/track/0jKcVTzhUmWPFSG8zCQXDL"
@@ -19090,6 +19090,24 @@
       "duration_ms": 125076,
       "name": "\u0425\u041e\u0422\u0415\u041b \u0422\u0415\u0411\u0415 \u0421\u041a\u0410\u0417\u0410\u0422\u042c...",
       "url": "https://open.spotify.com/track/6oDrOjhRPuKNy80r6iOCTY"
+    },
+    {
+      "album": {
+        "name": "\u0425\u043e\u0447\u0435\u0448",
+        "url": "https://open.spotify.com/album/2rJgsuytbx0DNv1ngQ2w6I"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u0456\u0441\u043b\u044f \u0414\u043e\u0449\u0443",
+          "url": "https://open.spotify.com/artist/7vUQFioWvCavqy0WKpo1yD"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147972,
+      "name": "\u0425\u043e\u0447\u0435\u0448",
+      "url": "https://open.spotify.com/track/2R8CylfWLqBcejsXu2mdcW"
     },
     {
       "album": {

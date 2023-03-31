@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by a number of our ambassadors for International Women\u2019s Day. Cover: Jamala.",
-  "num_followers": 876050,
+  "num_followers": 876037,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMDQ1ZjU3ODE4NmVhMmQ3MGNlMjEwYmNjYWZlYmQyYjE2",
+  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMGIzZDA5NmEzMjYxMWM4YzA2Y2M0MjE0ZjQzMjI5YTUx",
   "tracks": [
     {
       "added_at": "2023-03-05 05:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Baian\u00e1",
-        "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 152558,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -231,6 +215,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 152558,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "Admir\u00e1vel Chip Novo",
         "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
       },
@@ -243,6 +243,26 @@
       "duration_ms": 232240,
       "name": "Equalize",
       "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Shades Of Love (feat. The Joy)",
+        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Shades Of Love (feat. The Joy)",
+      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -267,26 +287,6 @@
       "duration_ms": 242166,
       "name": "Float (feat. Seun Kuti & Egypt 80)",
       "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "Shades Of Love (feat. The Joy)",
-        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Shades Of Love (feat. The Joy)",
-      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Strawberry Icecream",
-        "url": "https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD"
-      },
-      "artists": [
-        {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Strawberry Icecream",
-      "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Ex (feat. SKAAR)",
         "url": "https://open.spotify.com/album/46Z5rL7kMabzOWiOmyNtfw"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 186480,
       "name": "Ex (feat. SKAAR)",
       "url": "https://open.spotify.com/track/7wZ17yt2CbvDHj7dqfM2DR"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Strawberry Icecream",
+        "url": "https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Strawberry Icecream",
+      "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Majhail",
-        "url": "https://open.spotify.com/album/50XooNqT3gwRIsGEXaifSf"
-      },
-      "artists": [
-        {
-          "name": "Barbie Maan",
-          "url": "https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat"
-        }
-      ],
-      "duration_ms": 217402,
-      "name": "Majhail",
-      "url": "https://open.spotify.com/track/0Zg0M6BuusAQHHTmWgaHFD"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "kung nag-aatubili",
         "url": "https://open.spotify.com/album/0pjg8cFcbZyXiMnYLUx927"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 231605,
       "name": "kung nag-aatubili",
       "url": "https://open.spotify.com/track/6sDrozuLsdLbePAesxDvNy"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Majhail",
+        "url": "https://open.spotify.com/album/50XooNqT3gwRIsGEXaifSf"
+      },
+      "artists": [
+        {
+          "name": "Barbie Maan",
+          "url": "https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat"
+        }
+      ],
+      "duration_ms": 217402,
+      "name": "Majhail",
+      "url": "https://open.spotify.com/track/0Zg0M6BuusAQHHTmWgaHFD"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "KIDNAP ME PLS",
-        "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
-      },
-      "artists": [
-        {
-          "name": "ANNABELLE",
-          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
-        }
-      ],
-      "duration_ms": 162739,
-      "name": "SnOWfLAkE",
-      "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "All Hail the Queen",
         "url": "https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 238693,
       "name": "Ladies First",
       "url": "https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "KIDNAP ME PLS",
+        "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
+      },
+      "artists": [
+        {
+          "name": "ANNABELLE",
+          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
+        }
+      ],
+      "duration_ms": 162739,
+      "name": "SnOWfLAkE",
+      "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "O quarto (fado Pagem)",
-        "url": "https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ"
+        "name": "Portuguesa",
+        "url": "https://open.spotify.com/album/3YYC6lQ2PV71ncQrJbV1HE"
       },
       "artists": [
         {
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
         }
       ],
-      "duration_ms": 200000,
-      "name": "O quarto (fado Pagem)",
-      "url": "https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn"
+      "duration_ms": 240186,
+      "name": "Praias desertas",
+      "url": "https://open.spotify.com/track/7gZ23X1e0zDNTZ8Z8UAvcu"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Halluzinationen",
-        "url": "https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hunger",
-          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Everything Is Good",
-      "url": "https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "V\u00e9szterv",
         "url": "https://open.spotify.com/album/412dFhyBUdgL5zEJREk1r9"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 208000,
       "name": "V\u00e9szterv",
       "url": "https://open.spotify.com/track/2kEs4dk1Hjk6pay1XLyWFM"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Halluzinationen",
+        "url": "https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hunger",
+          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Everything Is Good",
+      "url": "https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Portuguesa",
-        "url": "https://open.spotify.com/album/3YYC6lQ2PV71ncQrJbV1HE"
+        "name": "O quarto (fado Pagem)",
+        "url": "https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
         }
       ],
-      "duration_ms": 240186,
-      "name": "Praias desertas",
-      "url": "https://open.spotify.com/track/7gZ23X1e0zDNTZ8Z8UAvcu"
+      "duration_ms": 200000,
+      "name": "O quarto (fado Pagem)",
+      "url": "https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "as long as you're there",
-        "url": "https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig"
-      },
-      "artists": [
-        {
-          "name": "SHN",
-          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "as long as you're there",
-      "url": "https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Babul Teri Galliyaan",
         "url": "https://open.spotify.com/album/6rmibXRijYIvOTmdezma9n"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 309473,
       "name": "Babul Teri Galliyaan",
       "url": "https://open.spotify.com/track/6v8zxfQJihReMngblfEiZZ"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "as long as you're there",
+        "url": "https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig"
+      },
+      "artists": [
+        {
+          "name": "SHN",
+          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "as long as you're there",
+      "url": "https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4"
     },
     {
       "added_at": "2023-03-05 05:00:00",

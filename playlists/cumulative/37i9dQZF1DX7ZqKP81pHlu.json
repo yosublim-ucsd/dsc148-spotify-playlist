@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Dbayli Ana (Fransa Daretha Biya)",
+        "url": "https://open.spotify.com/album/3V1yNsmV6eDPsCH6QyNhRH"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Khassani",
+          "url": "https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162384,
+      "name": "Dbayli Ana - Fransa Daretha Biya",
+      "url": "https://open.spotify.com/track/311Jnoa5h8dGNb1MphFeBu"
+    },
+    {
+      "album": {
         "name": "Derti Rayek",
         "url": "https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq"
       },
@@ -722,6 +740,24 @@
     {
       "album": {
         "name": "EL KHAYNA",
+        "url": "https://open.spotify.com/album/6oq7Pz3U9QHr0r0Xey5Riq"
+      },
+      "artists": [
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "EL KHAYNA",
+      "url": "https://open.spotify.com/track/6u9cTcjvEE0MDUxUKqwDd0"
+    },
+    {
+      "album": {
+        "name": "EL KHAYNA",
         "url": "https://open.spotify.com/album/7F80CSWX5JAlPQ7ryWVt9x"
       },
       "artists": [
@@ -736,7 +772,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 220000,
       "name": "EL KHAYNA",
       "url": "https://open.spotify.com/track/3vAhuFK6NTHS2VzHGmyxLV"
@@ -906,6 +942,28 @@
       "duration_ms": 284000,
       "name": "Engag\u00e9",
       "url": "https://open.spotify.com/track/5ONxNp0ytrI7xzk4PZ2Vaz"
+    },
+    {
+      "album": {
+        "name": "Enigme",
+        "url": "https://open.spotify.com/album/5WKMSxqfQoMpIB3cxeIuZc"
+      },
+      "artists": [
+        {
+          "name": "Chemsou Freeklane",
+          "url": "https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h"
+        },
+        {
+          "name": "Mezyane",
+          "url": "https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Enigme",
+      "url": "https://open.spotify.com/track/2tooxTRwQLT3obItqJ466q"
     },
     {
       "album": {
@@ -1464,7 +1522,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 201276,
       "name": "Liyam",
       "url": "https://open.spotify.com/track/4tRUx2gflnuk7v0Uvic04X"
@@ -2142,7 +2200,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 180000,
       "name": "SAH",
       "url": "https://open.spotify.com/track/1G3OTUGfbYcA5r2FgkBMZp"

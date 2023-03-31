@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98106,
+  "num_followers": 98114,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDdkMGMyYjIyNjlmOWVmNDY3NzgxNjdjODQ4ZmJlZjBl",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDUwMmU3ZThjOWExZDgwNTc3NThlZDM0MTk1Y2U1NWRl",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -379,22 +379,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Que Vas a Hacer",
-        "url": "https://open.spotify.com/album/4nrkaHH7b5PwDkrJ3AivRF"
+        "name": "Puro Pa' Delante",
+        "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
       },
       "artists": [
         {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "Jos\u00e9 Mej\u00eda",
-          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 185906,
-      "name": "Que Vas a Hacer",
-      "url": "https://open.spotify.com/track/6TLxQyd8AJG1zzbp3LXio0"
+      "duration_ms": 153679,
+      "name": "Puro Pa' Delante",
+      "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Puro Pa' Delante",
-        "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
+        "name": "Que Vas a Hacer",
+        "url": "https://open.spotify.com/album/4nrkaHH7b5PwDkrJ3AivRF"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
         }
       ],
-      "duration_ms": 153679,
-      "name": "Puro Pa' Delante",
-      "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
+      "duration_ms": 185906,
+      "name": "Que Vas a Hacer",
+      "url": "https://open.spotify.com/track/6TLxQyd8AJG1zzbp3LXio0"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
+        "name": "NO SE VA",
+        "url": "https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4"
       },
       "artists": [
         {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+          "name": "juanitoo2x",
+          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
         }
       ],
-      "duration_ms": 292236,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
+      "duration_ms": 251981,
+      "name": "NO SE VA",
+      "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "NO SE VA",
-        "url": "https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4"
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
       },
       "artists": [
         {
-          "name": "juanitoo2x",
-          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
         }
       ],
-      "duration_ms": 251981,
-      "name": "NO SE VA",
-      "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
+      "duration_ms": 292236,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "No Fuimos Nada",
-        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 182981,
-      "name": "No Fuimos Nada",
-      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
         "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 187500,
       "name": "Kenwood En Los Radios (En Vivo)",
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "No Fuimos Nada",
+        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 182981,
+      "name": "No Fuimos Nada",
+      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
       },
       "artists": [
         {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+          "name": "Panchito Vega",
+          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
         }
       ],
-      "duration_ms": 156354,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
+      "duration_ms": 255000,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
       },
       "artists": [
         {
-          "name": "Panchito Vega",
-          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
+      "duration_ms": 156354,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "AJUA",
+        "url": "https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 149887,
+      "name": "AJUA",
+      "url": "https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Para El Barrio",
         "url": "https://open.spotify.com/album/1KscIu4gQDfRNqPw0CEqMy"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 192000,
       "name": "Para El Barrio",
       "url": "https://open.spotify.com/track/2F9M3yMeJCiAzIJpnbSWRE"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "AJUA",
-        "url": "https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 149887,
-      "name": "AJUA",
-      "url": "https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
+        "name": "Borracha Te Recuerdo",
+        "url": "https://open.spotify.com/album/64TpPcl2RngKLBszfQxUeq"
       },
       "artists": [
         {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
         }
       ],
-      "duration_ms": 201848,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
+      "duration_ms": 158560,
+      "name": "Borracha Te Recuerdo",
+      "url": "https://open.spotify.com/track/6dgQkM0dJYMEpIoDhBrmQ8"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Borracha Te Recuerdo",
-        "url": "https://open.spotify.com/album/64TpPcl2RngKLBszfQxUeq"
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
         }
       ],
-      "duration_ms": 158560,
-      "name": "Borracha Te Recuerdo",
-      "url": "https://open.spotify.com/track/6dgQkM0dJYMEpIoDhBrmQ8"
+      "duration_ms": 201848,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Estilo Palazuelos",
-        "url": "https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC"
-      },
-      "artists": [
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        },
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 155821,
-      "name": "Estilo Palazuelos",
-      "url": "https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Te Voy a Extra\u00f1ar",
         "url": "https://open.spotify.com/album/1eYGKfBjoEEotKjRlqUTkG"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 144340,
       "name": "El Jamaico",
       "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Estilo Palazuelos",
+        "url": "https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC"
+      },
+      "artists": [
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        },
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "duration_ms": 155821,
+      "name": "Estilo Palazuelos",
+      "url": "https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF"
     },
     {
       "added_at": "2023-03-17 06:06:33",

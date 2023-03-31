@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 20835,
+  "num_followers": 20840,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGE2ZjVlMzlmNTU2ZGVjMjRlNjU4ZjhmYTc4Y2RiMTU2",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGRlY2U3OGY2MTdmNTk2NjBlOWZkY2U2NGRjYzdhZDUx",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf"
-      },
-      "artists": [
-        {
-          "name": "Tony Soleno",
-          "url": "https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd"
-        }
-      ],
-      "duration_ms": 201996,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Manh\u00e3 de Carnaval",
         "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 296106,
       "name": "Corcovado (Quiet Nights Of Quiet Stars)",
       "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf"
+      },
+      "artists": [
+        {
+          "name": "Tony Soleno",
+          "url": "https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd"
+        }
+      ],
+      "duration_ms": 201996,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
+        }
+      ],
+      "duration_ms": 192220,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Piano Jondo",
         "url": "https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 286933,
       "name": "El Llanto de la Lluvia",
       "url": "https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Bossa Nova EP",
-        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
-        }
-      ],
-      "duration_ms": 195366,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -555,18 +555,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Manh\u00e3 de Carnaval",
-        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
+        "name": "Bossa Nova EP",
+        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
       },
       "artists": [
         {
-          "name": "Pedro Santos",
-          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
         }
       ],
-      "duration_ms": 192220,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0"
+      "duration_ms": 195366,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -615,22 +615,6 @@
       "duration_ms": 332000,
       "name": "Setembro",
       "url": "https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Bossa Nova EP",
-        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -719,6 +703,22 @@
       "duration_ms": 143386,
       "name": "Palabras De Mujer-Hojas Secas",
       "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Bossa Nova EP",
+        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
     },
     {
       "added_at": "2021-01-18 15:57:14",

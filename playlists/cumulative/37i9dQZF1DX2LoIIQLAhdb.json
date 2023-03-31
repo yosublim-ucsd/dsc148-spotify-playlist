@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Bramsito",
   "name": "R&Bae",
   "tracks": [
     {
@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Colombe",
+        "url": "https://open.spotify.com/album/4icE1928MumHUI9Y1sxnHq"
+      },
+      "artists": [
+        {
+          "name": "Shana",
+          "url": "https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "Colombe",
+      "url": "https://open.spotify.com/track/5TABk5YGMSEzSfiY4wml4j"
+    },
+    {
+      "album": {
         "name": "Drama (Partie II)",
         "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
       },
@@ -332,6 +350,28 @@
       "duration_ms": 154285,
       "name": "Corps Chaud",
       "url": "https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5"
+    },
+    {
+      "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "CV (feat. RK)",
+      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
     },
     {
       "album": {
@@ -712,7 +752,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 159839,
       "name": "Inta habibi",
       "url": "https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO"
@@ -922,7 +962,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 169026,
       "name": "La vie de r\u00eave",
       "url": "https://open.spotify.com/track/7KjwR9ijEbm3BCVM3CrKnO"
@@ -1034,7 +1074,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 167293,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0H5UXo3J6LWUtsNwIgdQr8"
@@ -1684,6 +1724,24 @@
       "duration_ms": 157364,
       "name": "Seum",
       "url": "https://open.spotify.com/track/0MeCUpsImEB7mLBL8hk0eX"
+    },
+    {
+      "album": {
+        "name": "Soeurci\u00e8re",
+        "url": "https://open.spotify.com/album/4G1rSDRhgiL5nukWB3pJ7b"
+      },
+      "artists": [
+        {
+          "name": "Djena Della",
+          "url": "https://open.spotify.com/artist/3NwVTaECP58CZdzeXMPYVc"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "Soeurci\u00e8re",
+      "url": "https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7"
     },
     {
       "album": {

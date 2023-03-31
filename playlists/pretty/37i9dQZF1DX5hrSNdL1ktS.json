@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 55645,
+  "num_followers": 55677,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU5NjMyOCwwMDAwMDAwMGJkNzI4OTQzZWFhNDdlYTY5ODFiZTgxZjZkOTI3MTE0",
+  "snapshot_id": "MTY3OTU5NjMyOCwwMDAwMDAwMDcwNjlkYmE5MGNkZjRlYWEyMjU2YTliNWFmMzNmNDcz",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -415,18 +415,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk"
       },
       "artists": [
         {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
         }
       ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
+      "duration_ms": 163880,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -467,22 +471,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Bien Beb\u00e9",
-        "url": "https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk"
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
         }
       ],
-      "duration_ms": 163880,
-      "name": "Bien Beb\u00e9",
-      "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
       "added_at": "2023-02-17 06:00:00",
       "album": {
         "name": "La \u00daltima Noche",
@@ -647,6 +631,22 @@
       "duration_ms": 162186,
       "name": "La \u00daltima Noche",
       "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2023-01-27 18:00:00",
@@ -941,30 +941,6 @@
       "url": "https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW"
     },
     {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "SU\u00c9LTATE",
-        "url": "https://open.spotify.com/album/49UiQIdZCwPpf3KVo7RO2C"
-      },
-      "artists": [
-        {
-          "name": "ADRYY",
-          "url": "https://open.spotify.com/artist/5O63cA75kC3bexODJyDXRu"
-        },
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "JEANN",
-          "url": "https://open.spotify.com/artist/6MtGRdbt1jvr6GJJHTyOHy"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "SU\u00c9LTATE",
-      "url": "https://open.spotify.com/track/5nufaDKoPcE2A6P9aQG48Y"
-    },
-    {
       "added_at": "2023-03-03 06:00:00",
       "album": {
         "name": "\u00d1ero Session 2",
@@ -987,6 +963,30 @@
       "duration_ms": 146938,
       "name": "\u00d1ero Session 2",
       "url": "https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "SU\u00c9LTATE",
+        "url": "https://open.spotify.com/album/49UiQIdZCwPpf3KVo7RO2C"
+      },
+      "artists": [
+        {
+          "name": "ADRYY",
+          "url": "https://open.spotify.com/artist/5O63cA75kC3bexODJyDXRu"
+        },
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "JEANN",
+          "url": "https://open.spotify.com/artist/6MtGRdbt1jvr6GJJHTyOHy"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "SU\u00c9LTATE",
+      "url": "https://open.spotify.com/track/5nufaDKoPcE2A6P9aQG48Y"
     },
     {
       "added_at": "2023-03-10 06:00:00",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/7E3YhRU66U29zK5L7gT829"
     },
     {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Gato",
+        "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Gato",
+      "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
+    },
+    {
       "added_at": "2022-12-21 17:08:55",
       "album": {
         "name": "Me Tientas (Remix)",
@@ -1075,22 +1091,6 @@
       "duration_ms": 185493,
       "name": "Me Tientas - Remix",
       "url": "https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Gato",
-        "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
-      },
-      "artists": [
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Gato",
-      "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
     }
   ],
   "unique_name": "Urbano Fresh",

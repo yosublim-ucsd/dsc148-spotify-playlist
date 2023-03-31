@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,625 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,747 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 26 | [Manha](https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:57 |
 | 27 | [Gigante](https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [Gigante](https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC) | 2:27 |
 | 28 | [Fio a Fio](https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Fio a Fio](https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5) | 2:58 |
-| 29 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 |
-| 30 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
+| 29 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
+| 30 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 |
 | 31 | [Bendito](https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Bendito](https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm) | 2:57 |
 | 32 | [Chega de Falar de Ice](https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Chega de Falar de Ice](https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg) | 2:57 |
 | 33 | [30 Dias](https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [MIDNIGHT CALLS](https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 | 60 | [Lui Lui](https://open.spotify.com/track/3CPror2JNhqGuS8AjaAoKu) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 4:41 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDQ4Y2Y0ZDY3ZWE2NDlmYzU0OWUxYTU3NzY2ZTIzOGU3`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGMyNDdiZDk1OWVkZGE3ZGI0MTcyNjA5Yzg5Zjk2ZDU5`

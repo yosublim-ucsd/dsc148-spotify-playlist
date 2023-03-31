@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: LIE NING",
+  "description": "New music off the beaten track. Cover: Jungle",
   "name": "OFF POP",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 228338,
       "name": "01.39 AM",
       "url": "https://open.spotify.com/track/6lvkerHwEFR7Vm8ey2gEX2"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 295507,
       "name": "All Comes Crashing - CVCHE Remix",
       "url": "https://open.spotify.com/track/3HJmf591A9KspqCVPEiUja"
@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Blue Lights",
+        "url": "https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221323,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx"
+    },
+    {
+      "album": {
         "name": "Gonna Get You Real Good EP",
         "url": "https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 186061,
       "name": "butterfly (so free)",
       "url": "https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba"
@@ -668,6 +686,28 @@
       "duration_ms": 184065,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/455RNF1FhYAjgRI0nPI9DA"
+    },
+    {
+      "album": {
+        "name": "Candle Flame",
+        "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174020,
+      "name": "Candle Flame",
+      "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
     },
     {
       "album": {
@@ -740,7 +780,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 183826,
       "name": "Cinderblock",
       "url": "https://open.spotify.com/track/79soO0pk1njm8mrvl605A7"
@@ -958,7 +998,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 221386,
       "name": "Crystal in my mind",
       "url": "https://open.spotify.com/track/4RrITAqhxC4qVfDOJzFoSV"
@@ -1693,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Free Bird",
+        "url": "https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223050,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob"
+    },
+    {
+      "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/4bT00mv87OoRIJEUbyyr9R"
       },
@@ -1792,6 +1850,24 @@
       "duration_ms": 284970,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
+    },
+    {
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
     },
     {
       "album": {
@@ -2004,6 +2080,28 @@
       "duration_ms": 190000,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo"
+    },
+    {
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/0Zh0qIHtYQJNOI1ixL8Kcs"
+      },
+      "artists": [
+        {
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
+        },
+        {
+          "name": "Play Paul",
+          "url": "https://open.spotify.com/artist/7lIIilMB5xwbRUeZY6QfuQ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179125,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/5EtsAKJgceaLk9X6OfU0xB"
     },
     {
       "album": {
@@ -2447,6 +2545,32 @@
     },
     {
       "album": {
+        "name": "Last Exit Space",
+        "url": "https://open.spotify.com/album/7CpNIuRi9RJUi7BYUsVeUb"
+      },
+      "artists": [
+        {
+          "name": "Nicon\u00e9",
+          "url": "https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI"
+        },
+        {
+          "name": "Dirty Doering",
+          "url": "https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea"
+        },
+        {
+          "name": "Odara Sol",
+          "url": "https://open.spotify.com/artist/6ZNEx6uZP26nsoxOTeW2CF"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330759,
+      "name": "Last Exit Space",
+      "url": "https://open.spotify.com/track/40VMw76zEU8BxIjg6p2nuU"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -2658,7 +2782,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 262369,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2S3nwkJOnoNGGL40EWCBWW"
@@ -3001,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "Moonwalk",
+        "url": "https://open.spotify.com/album/31ZNKLwaw8yjYO5XdUhC4e"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324520,
+      "name": "Moonwalk",
+      "url": "https://open.spotify.com/track/27AON3rQgskdDM1fpjHHUt"
+    },
+    {
+      "album": {
         "name": "Secret Weapons Part 15",
         "url": "https://open.spotify.com/album/3iR7Xk7a6CYcPL3Jf6qXt6"
       },
@@ -3012,7 +3154,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 324520,
       "name": "Moonwalk",
       "url": "https://open.spotify.com/track/3uqOtjZRUIyNwGT2A2CRoZ"
@@ -3186,7 +3328,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 343933,
       "name": "No Answer",
       "url": "https://open.spotify.com/track/1Mn00Kq0cBXgksYJ3ERnwc"
@@ -3378,7 +3520,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 368512,
       "name": "One - Seth Troxler Remix",
       "url": "https://open.spotify.com/track/3IuBoswJW21ChJiKQ29QLX"
@@ -3546,6 +3688,28 @@
       "duration_ms": 221135,
       "name": "Passion (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
+    },
+    {
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345310,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
       "album": {
@@ -4142,7 +4306,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 267546,
       "name": "So Hard So Hot",
       "url": "https://open.spotify.com/track/3EkWwQyUB220deoBPcBWZl"
@@ -4332,6 +4496,28 @@
       "duration_ms": 379845,
       "name": "Surfside Sex",
       "url": "https://open.spotify.com/track/1popQOfGkea2VJ1VQLDL2X"
+    },
+    {
+      "album": {
+        "name": "When It's Going Wrong",
+        "url": "https://open.spotify.com/album/1y9pZMiGd5JbIi4rimq0Ja"
+      },
+      "artists": [
+        {
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7"
+        },
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "Swimming Away",
+      "url": "https://open.spotify.com/track/52uK2lEzonx7t74TIdnqKE"
     },
     {
       "album": {

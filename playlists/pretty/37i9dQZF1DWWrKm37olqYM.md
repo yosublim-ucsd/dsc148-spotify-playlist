@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Don3ydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,007 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,016 likes - 68 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 41 | [Postman](https://open.spotify.com/track/28Fv3emvzyMsOXfcnm1K4U) | [DJ Technics](https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 3: Operation Shut Em Down](https://open.spotify.com/album/1TrPAu7lRjyh4CiysQGDvu) | 2:59 |
 | 42 | [Samir's Theme](https://open.spotify.com/track/0k9F1DkyffXmLl9jMadQdB) | [Debonair Samir](https://open.spotify.com/artist/4l4sd3P2zK0zJP2Ak7o3wO) | [Samir's Theme \(Tujamo Remix\)](https://open.spotify.com/album/07nMwI9nOKvwnNj6TU51Ax) | 2:31 |
 | 43 | [Down The Hill](https://open.spotify.com/track/2L5D6asgJFrMuG3FBgUr8E) | [DJ Lil Jay](https://open.spotify.com/artist/3cV9Q9bJcoh6WLwZsxeoXO), [DJ Manny](https://open.spotify.com/artist/5lNeBpg9HE49u29zfWrpix) | [Operation: Playtime](https://open.spotify.com/album/4sunCiOcsmUiWC8POYyfnN) | 1:44 |
-| 44 | [African Rotation \(feat\. DJ Flex\)](https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:49 |
+| 44 | [African Rotation \(feat\. DJ Flex\)](https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/54L87Ji6ugFjw9oCleDoeL) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:49 |
 | 45 | [Rump](https://open.spotify.com/track/38Mosn1LG4vg8ZmazW8CwU) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 1: Operation Startup](https://open.spotify.com/album/43FIoknvVjGX6qLBWdLD2t) | 2:27 |
 | 46 | [Shake It To The Ground](https://open.spotify.com/track/2bI3kWsArBEHG4X54RCOET) | [Blaqstarr](https://open.spotify.com/artist/0gOlGdYlQ1Z0tacM4v6Bc7), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Supastarr \- EP](https://open.spotify.com/album/2QewQPilYVcvCUN92hc5kx) | 2:48 |
 | 47 | [Hands Up Thumbs Down \(feat\. Deuce Tre Deuce\)](https://open.spotify.com/track/50d71NpWqsaQfHdBCBv05g) | [DJ K\-Swift](https://open.spotify.com/artist/4ns7AGltssCJD5p7EebmzS) | [The Club Queen K\-Swift Story](https://open.spotify.com/album/7Cafdih328pdjYfIsnE56P) | 2:54 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 60 | [Birthday](https://open.spotify.com/track/3VyVcPOFxprHGJW6keV96X) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 1: Operation Startup](https://open.spotify.com/album/43FIoknvVjGX6qLBWdLD2t) | 2:14 |
 | 61 | [Hush That Fuss](https://open.spotify.com/track/7nsxgcx2mSkavqB5bAQ93j) | [Dukeyman](https://open.spotify.com/artist/3OeK0k6vkbUDkk0GSjYjcO) | [Baltimore Club Classics \(Dukeyman Greatest Hits\)](https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx) | 4:55 |
 | 62 | [Be Ya Girl](https://open.spotify.com/track/2SYtKPPZGyObiLe2XrqEfY) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu) | [The Sound Of Love International \#002 \- Beautiful Swimmers](https://open.spotify.com/album/2cxbgAp9U7ZubuZ2ygijXk) | 4:11 |
-| 63 | [Yupp Challenge \(feat\. DJ Flex\)](https://open.spotify.com/track/6ZeydF5POoBbhxY2XNk3BQ) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:21 |
+| 63 | [Yupp Challenge \(feat\. DJ Flex\)](https://open.spotify.com/track/6ZeydF5POoBbhxY2XNk3BQ) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/54L87Ji6ugFjw9oCleDoeL) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:21 |
 | 64 | [Dance My Pain Away](https://open.spotify.com/track/2sZrEIyHRqzEB4sBw8X9Jh) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 2:07 |
 | 65 | [P's and Q's \- Baltimore Club Remix](https://open.spotify.com/track/7wW943fWk1mAKatFFkZEYu) | [DJ Yae](https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ) | [The Cloud, Vol\. 2 \(Baltimore Club Remixes\)](https://open.spotify.com/album/22abjSnLJSlQeS3S5GbUgW) | 1:37 |
 | 66 | [Like This \- Original Mix](https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk) | [ClubHeadSLiiM](https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk) | [New Jersey Club vol.2](https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW) | 2:56 |

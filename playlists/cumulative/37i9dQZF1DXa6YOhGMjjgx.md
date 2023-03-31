@@ -4,7 +4,7 @@
 
 > The best of today's true alternative rock scene\. Cover: The Luka State
 
-285 songs - 16 hr 22 min
+286 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 | 2021-08-13 |  |
 | [Doom & Bloom](https://open.spotify.com/track/2xZRImWklE8cTFgcjAyHBc) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [Doom & Bloom](https://open.spotify.com/album/3c9KSgPgZ6XBdj7xJs7ep9) | 4:25 | 2021-09-17 | 2022-07-28 |
 | [Double Down \- 2019 Mix](https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Double Down](https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8) | 3:10 | 2021-03-31 | 2023-03-22 |
-| [Earth Is A Black Hole](https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA) | 2:55 | 2021-03-31 |  |
+| [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 | 2023-03-17 |  |
+| [Earth Is A Black Hole](https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA) | 2:55 | 2021-03-31 | 2023-03-31 |
 | [Enter Entirely](https://open.spotify.com/track/5b9PdT1iD3rKYkhlIPRCy8) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Life Without Sound](https://open.spotify.com/album/4xT80zh4DhVGVdc3QTObav) | 4:58 | 2021-03-31 | 2022-01-15 |
 | [Euphoria](https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Timebomb](https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR) | 4:24 | 2022-04-29 | 2023-01-28 |
 | [Euphoria](https://open.spotify.com/track/20g6mjmuL2V8bHTx5MTubE) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Euphoria](https://open.spotify.com/album/1jslok7INBkcqKIei9zfPF) | 4:24 | 2021-05-21 | 2022-07-29 |

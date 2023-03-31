@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 342424,
+  "num_followers": 342665,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMDIxNzNjODAyZThjMzBjOTg1NTRmYTEzMjEzNGVhMjIy",
+  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMDkxMmEyOGY5ZWMyNGM2YTE3MTkwMTcyYWU4ZmM1MjNl",
   "tracks": [
     {
       "added_at": "2023-03-23 10:18:42",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "L\u00e9opoldine",
-        "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Parentau",
-          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "L\u00e9opoldine",
-      "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "L\u00e9opoldine",
+        "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Parentau",
+          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "L\u00e9opoldine",
+      "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Con Cari\u00f1o",
         "url": "https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 146679,
       "name": "Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 117271,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
-      },
-      "artists": [
-        {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Meditabundus",
-        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
-      },
-      "artists": [
-        {
-          "name": "Kellen Chase",
-          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Meditabundus",
-      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Your Story",
         "url": "https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2"
       },
@@ -1359,22 +1343,6 @@
       "duration_ms": 106013,
       "name": "From Above",
       "url": "https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
-      },
-      "artists": [
-        {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
-        }
-      ],
-      "duration_ms": 132318,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 132318,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
         "name": "Open Sail",
         "url": "https://open.spotify.com/album/56DDWl85qAeO3r0FhsrYtq"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Le jardin de ma grand-m\u00e8re",
-        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
+        "name": "Meditabundus",
+        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
       },
       "artists": [
         {
-          "name": "Oscar Kowalski",
-          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+          "name": "Kellen Chase",
+          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
         }
       ],
-      "duration_ms": 176567,
-      "name": "Le jardin de ma grand-m\u00e8re",
-      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
+      "duration_ms": 150000,
+      "name": "Meditabundus",
+      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1439,6 +1423,22 @@
       "duration_ms": 184013,
       "name": "Arthur's Theme",
       "url": "https://open.spotify.com/track/2hvJks7wVAgPubs2ngNOwQ"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Le jardin de ma grand-m\u00e8re",
+        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Kowalski",
+          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+        }
+      ],
+      "duration_ms": 176567,
+      "name": "Le jardin de ma grand-m\u00e8re",
+      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Praxedis",
-        "url": "https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0"
-      },
-      "artists": [
-        {
-          "name": "Ploxxio",
-          "url": "https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Aufgang der Sonne",
-      "url": "https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 151500,
       "name": "Still",
       "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Praxedis",
+        "url": "https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0"
+      },
+      "artists": [
+        {
+          "name": "Ploxxio",
+          "url": "https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Aufgang der Sonne",
+      "url": "https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz"
     },
     {
       "added_at": "2023-03-23 10:18:42",

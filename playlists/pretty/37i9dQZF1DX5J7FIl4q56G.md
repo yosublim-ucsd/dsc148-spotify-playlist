@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,793 likes - 71 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,993 likes - 71 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

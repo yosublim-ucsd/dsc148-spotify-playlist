@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 456987,
       "name": "Aduro",
       "url": "https://open.spotify.com/track/6rIWBggXDvvVMID5Zv2Hy3"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 136954,
       "name": "Heya",
       "url": "https://open.spotify.com/track/1cK4YKVjfBdk6xR4U7cRSx"
@@ -1032,10 +1032,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 290786,
       "name": "noba bangathini",
       "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
+    },
+    {
+      "album": {
+        "name": "Oh Shoot",
+        "url": "https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169913,
+      "name": "Oh Shoot",
+      "url": "https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV"
     },
     {
       "album": {
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 218399,
       "name": "Oluwa Ku Ise",
       "url": "https://open.spotify.com/track/0FGgWQwCMaQ1gQRN7f6K5E"
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 127376,
       "name": "THE VALLEY",
       "url": "https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf"
@@ -1612,6 +1630,28 @@
       "duration_ms": 247533,
       "name": "Too Late for Mama",
       "url": "https://open.spotify.com/track/6xfGoZlwaIuBkDtTQV8lSX"
+    },
+    {
+      "album": {
+        "name": "Too Many Bags (Kaidi's Remix)",
+        "url": "https://open.spotify.com/album/4HahgyW7u9bosBKyyV8PfZ"
+      },
+      "artists": [
+        {
+          "name": "Nyamekye Junction",
+          "url": "https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389120,
+      "name": "Too Many Bags - Kaidi's Remix",
+      "url": "https://open.spotify.com/track/66lnFWtNlxv3MQbF7QNQoy"
     },
     {
       "album": {

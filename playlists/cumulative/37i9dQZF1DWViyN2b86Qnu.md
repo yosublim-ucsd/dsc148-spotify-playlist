@@ -2,7 +2,7 @@
 
 ### [Transcend](https://open.spotify.com/playlist/37i9dQZF1DWViyN2b86Qnu)
 
-> Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Sam Smith
+> Removing the barriers of genre and gender\. Cover: Quinn Christopherson
 
 203 songs - 11 hr 21 min
 

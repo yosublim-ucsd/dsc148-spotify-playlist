@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-425 songs - 23 hr 54 min
+427 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [fallforu](https://open.spotify.com/track/4PHm7uYgyYNQ5Kl2t4MU3D) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/39HS7epzzW2dowDQWJP047) | 2:36 | 2022-08-11 | 2022-09-17 |
 | [Falling In Love](https://open.spotify.com/track/1qkGT5wBhfWwbbHtkm2GMZ) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Falling In Love](https://open.spotify.com/album/4RM7dK7ScgLW1UG1k8kInQ) | 3:25 | 2023-03-03 |  |
 | [Fantasy](https://open.spotify.com/track/3vyKrUUszxdu0A5Ri9T68t) | [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Taste.test](https://open.spotify.com/album/12oUL69GdPvCu3D3jfyT4F) | 3:15 | 2023-02-23 |  |
+| [far gone](https://open.spotify.com/track/0vb4In2ytG8ZHsoY59ROA7) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [far gone](https://open.spotify.com/album/4Es18yYMmB0hcsCHpN6TqL) | 2:32 | 2023-03-30 |  |
 | [Feel Flows \- Vindata Remix](https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT) | [Feel Flows \(Vindata Remix\)](https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh) | 4:22 | 2022-04-15 | 2022-11-23 |
 | [Feel Like That](https://open.spotify.com/track/6OnoVlTab0GXCPqnu19Z9S) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [Feel Like That](https://open.spotify.com/album/2JRR9tOzrH6mczJQDiFfP7) | 2:57 | 2021-11-19 | 2022-01-08 |
 | [Fill Up My Soul](https://open.spotify.com/track/60GQWonONfgADHxYL6zudO) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Fill Up My Soul](https://open.spotify.com/album/1umGjanxEtYyHRmC0QStND) | 3:00 | 2021-12-07 | 2022-01-08 |
@@ -363,6 +364,7 @@
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-02-16 |
 | [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 | 2022-12-12 | 2023-01-30 |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2022-02-05 |
+| [tacit](https://open.spotify.com/track/2y9kGMUvKsikIQIvfjpNv1) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f), [Una Mey](https://open.spotify.com/artist/1XYC7U3Oqy30UdbliCXWNo) | [tacit](https://open.spotify.com/album/4FbPfRAnOxJJmHm1FhPkPn) | 3:08 | 2023-03-30 |  |
 | [take me far away](https://open.spotify.com/track/7zwBK6O9AXWSjqC4y7POIj) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [take me far away](https://open.spotify.com/album/7J3Y4DM5BkGJtG8FENL5ac) | 5:09 | 2021-11-22 | 2022-01-08 |
 | [Take Me Higher](https://open.spotify.com/track/3HiKUx9he5EtseHYyMv27L) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:43 | 2022-07-21 | 2022-07-23 |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-04-14 | 2023-01-30 |

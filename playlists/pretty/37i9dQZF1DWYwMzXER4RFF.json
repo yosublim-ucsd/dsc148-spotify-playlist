@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 260660,
+  "num_followers": 260711,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1ODUxMSwwMDAwMDAwMGNjYTI1ZGI4MjNkOGVkNWFjNDRjZjcyZjA0ZDZlYTU2",
+  "snapshot_id": "MTY3OTA1ODUxMSwwMDAwMDAwMDQwZGUzYzE5ZWEzZDQ3MmQ5YTA0ZGFmZmViNWQwNWE1",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
     },
     {
-      "added_at": "2023-03-30 00:34:35",
+      "added_at": "2023-03-31 01:09:54",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6"
     },
     {
-      "added_at": "2023-03-30 00:34:35",
+      "added_at": "2023-03-31 01:09:54",
       "album": {
         "name": "Nurse!",
         "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
@@ -263,6 +263,22 @@
       "duration_ms": 214578,
       "name": "One Rizla",
       "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
+    },
+    {
+      "added_at": "2023-03-31 01:09:54",
+      "album": {
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 189474,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -295,22 +311,6 @@
       "duration_ms": 149360,
       "name": "Calling It",
       "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
-    },
-    {
-      "added_at": "2023-03-30 00:34:35",
-      "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
-      },
-      "artists": [
-        {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        }
-      ],
-      "duration_ms": 189474,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Waterslide, Diving Board, Ladder To The Sky",
         "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Sun Coming Down",
+        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
+      },
+      "artists": [
+        {
+          "name": "Ought",
+          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
+        }
+      ],
+      "duration_ms": 463545,
+      "name": "Beautiful Blue Sky",
+      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Welfare Jazz",
         "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Sun Coming Down",
-        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
-      },
-      "artists": [
-        {
-          "name": "Ought",
-          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
-        }
-      ],
-      "duration_ms": 463545,
-      "name": "Beautiful Blue Sky",
-      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -623,22 +607,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Dogrel",
         "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
@@ -655,18 +623,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Six-Pack",
-        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
       },
       "artists": [
         {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -683,6 +651,22 @@
       "duration_ms": 251204,
       "name": "Happy Feet",
       "url": "https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Six-Pack",
+        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -715,22 +699,6 @@
       "duration_ms": 222544,
       "name": "Song About Love",
       "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -783,22 +751,34 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Feel Nothing",
-        "url": "https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf"
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
       },
       "artists": [
         {
-          "name": "Amen Dunes",
-          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
-        },
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+          "name": "Scott Lavene",
+          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
         }
       ],
-      "duration_ms": 331693,
-      "name": "Feel Nothing",
-      "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
+      "duration_ms": 481813,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -819,6 +799,26 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Feel Nothing",
+        "url": "https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf"
+      },
+      "artists": [
+        {
+          "name": "Amen Dunes",
+          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 331693,
+      "name": "Feel Nothing",
+      "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Rhythm Is Our Business (Edit)",
         "url": "https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
-      },
-      "artists": [
-        {
-          "name": "Scott Lavene",
-          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
-        }
-      ],
-      "duration_ms": 481813,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -895,6 +879,22 @@
       "duration_ms": 347506,
       "name": "Good morning (red)",
       "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Hunger for a Way Out",
+        "url": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hunger for a Way Out",
+      "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
     }
   ],
   "unique_name": "Post Punk",

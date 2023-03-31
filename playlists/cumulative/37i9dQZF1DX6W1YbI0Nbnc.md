@@ -4,7 +4,7 @@
 
 > 結集香港EQUAL女聲力量！\(cover: Kiri T\)
 
-226 songs - 14 hr 30 min
+227 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [What Am I Living For?](https://open.spotify.com/track/3E57cdzOQQmS2UTdCI1Oiz) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [What Am I Living For?](https://open.spotify.com/album/683hVWbcmRGo878DimrQ1X) | 2:52 | 2022-01-04 | 2022-05-04 |
 | [Where's Wally \(Day Version\)](https://open.spotify.com/track/6gMEdTwtla0u63r5Sv5icE) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [Where's Wally \(Day Version\)](https://open.spotify.com/album/4LzV60BDgEN0Z184L9m0uX) | 3:07 | 2021-12-07 | 2022-01-05 |
 | [Wish You Were Ok](https://open.spotify.com/track/2w69Skv6oxKvFJNmPzdYzb) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [Wish You Were Ok](https://open.spotify.com/album/3IjSBZBsyps4wwdD4f2x9G) | 4:27 | 2022-03-07 | 2022-05-04 |
-| [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-11-30 |  |
+| [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-11-30 | 2023-03-31 |
+| [· · 一](https://open.spotify.com/track/5TPsJ7t6JPtEkrpF8Ywq2W) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/60Gux8lIYWssy6HpIJ0a2s) | 4:36 | 2023-03-24 |  |
 | [一個傻瓜一個啞](https://open.spotify.com/track/0VlWjFvXbxqOYruXnE675K) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞](https://open.spotify.com/album/3yu6YCKuwt1CQRN4nYei1H) | 3:55 | 2022-08-02 | 2022-11-02 |
 | [一對一](https://open.spotify.com/track/3PBz91BGdmRVd02xIFiueK) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 3:09 | 2022-01-04 | 2022-03-08 |
 | [一馬平川](https://open.spotify.com/track/1EQJ3aWrUH3WprsMl3GeaU) | [鍾雨璇](https://open.spotify.com/artist/6h12jcWTZlK0p8ZBnwgaxV) | [一馬平川](https://open.spotify.com/album/4rAvGr3oHgyaXIfEAxW1Ft) | 4:15 | 2021-12-07 | 2022-01-05 |

@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5521,
+  "num_followers": 5527,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTU5NywwMDAwMDAwMGY2MDg2YmYwZWYwMWQwNzE5YmY0NDU0ZDJlYTJmYWVm",
+  "snapshot_id": "MTY3OTkwNTU5NywwMDAwMDAwMGQ5MTFkNTZhM2I0YzNjODc4NzgxZjZlYjBmZTE4MzJk",
   "tracks": [
     {
       "added_at": "2023-03-27 08:26:37",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Bad words with KozyPop",
-        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        },
-        {
-          "name": "Housekeepers",
-          "url": "https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1"
-        }
-      ],
-      "duration_ms": 197687,
-      "name": "Bad words",
-      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Mondegreen",
         "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
@@ -599,6 +579,42 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
+        "name": "Bad words with KozyPop",
+        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Housekeepers",
+          "url": "https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1"
+        }
+      ],
+      "duration_ms": 197687,
+      "name": "Bad words",
+      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "because I'm stupid?",
+        "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
+      },
+      "artists": [
+        {
+          "name": "KIXO",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "because I'm stupid?",
+      "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
         "name": "Used",
         "url": "https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -679,30 +695,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Wouldn't have",
-        "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
-      "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "kibun (feat. vntermude)",
         "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
@@ -723,18 +715,26 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "because I'm stupid?",
-        "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
+        "name": "Wouldn't have",
+        "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
       },
       "artists": [
         {
-          "name": "KIXO",
-          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
         }
       ],
-      "duration_ms": 151453,
-      "name": "because I'm stupid?",
-      "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
+      "duration_ms": 240000,
+      "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
+      "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -887,18 +887,22 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+      "duration_ms": 226866,
+      "name": "Room for You (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

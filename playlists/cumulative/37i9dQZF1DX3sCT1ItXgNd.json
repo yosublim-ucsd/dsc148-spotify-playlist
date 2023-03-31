@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Novia del A\u00f1o",
+        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "hey, goodbye",
+      "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
+    },
+    {
+      "album": {
         "name": "Los Cobardes Viven Siempre",
         "url": "https://open.spotify.com/album/3XlG8WaWzdjhDXuaRmOlaC"
       },
@@ -1066,6 +1084,24 @@
       "duration_ms": 184533,
       "name": "ME MATA(S)",
       "url": "https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg"
+    },
+    {
+      "album": {
+        "name": "Me Muero x Ti",
+        "url": "https://open.spotify.com/album/0sW2blqOU2M9P168xW7vPP"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157673,
+      "name": "Me Muero x Ti",
+      "url": "https://open.spotify.com/track/07iNPzOVxrNmy3FujFBc5z"
     },
     {
       "album": {

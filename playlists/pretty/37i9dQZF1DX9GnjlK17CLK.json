@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 88400,
+  "num_followers": 88542,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDFmMWY1MjY4MTk5YTY4MTIwMjA4YzM2YTdhOTA3NTAx",
+  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDAzMDdjNmE1NmY0OWI5OTFmYWQ0N2I5YmJiZjcxMmUy",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:49",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Al's Big Deal",
-        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
-      },
-      "artists": [
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 231333,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Al's Big Deal",
+        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
+      },
+      "artists": [
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Nine Below Zero",
-      "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "Blues 100",
         "url": "https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 283106,
       "name": "4:59am",
       "url": "https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Nine Below Zero",
+      "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
     },
     {
       "added_at": "2023-03-03 18:13:49",

@@ -1,6 +1,6 @@
 {
   "description": "Moody beats for sleepless nights.",
-  "num_followers": 117913,
+  "num_followers": 117964,
   "original_name": "Late Night Beats",
   "owner": {
     "name": "Spotify",
@@ -819,7 +819,7 @@
     {
       "added_at": "2023-03-27 15:14:55",
       "album": {
-        "name": "Jazz Love",
+        "name": "the moon is ours",
         "url": "https://open.spotify.com/album/5R9sUoJ4H14EEzolLKbnI9"
       },
       "artists": [
@@ -830,6 +830,10 @@
         {
           "name": "Shy Guy",
           "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
         }
       ],
       "duration_ms": 150857,

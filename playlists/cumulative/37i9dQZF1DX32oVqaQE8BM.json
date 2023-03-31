@@ -5205,6 +5205,24 @@
     },
     {
       "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/2BYszs7gtu78XTXlaxVhsi"
+      },
+      "artists": [
+        {
+          "name": "Moon Dog",
+          "url": "https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98250,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/6XvSncrNnxoRZSmUaPU3Gv"
+    },
+    {
+      "album": {
         "name": "Moon Rail",
         "url": "https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq"
       },
@@ -8796,6 +8814,24 @@
       "duration_ms": 192000,
       "name": "Under The Weather",
       "url": "https://open.spotify.com/track/3QdRVeDM7SZTX8YV6UtLKh"
+    },
+    {
+      "album": {
+        "name": "Underground Sound",
+        "url": "https://open.spotify.com/album/4em4imooU76fZnibhNhuB8"
+      },
+      "artists": [
+        {
+          "name": "LoWorld",
+          "url": "https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137143,
+      "name": "Underground Sound",
+      "url": "https://open.spotify.com/track/6qmAVLvlEvJdXtyEmHZ37M"
     },
     {
       "album": {

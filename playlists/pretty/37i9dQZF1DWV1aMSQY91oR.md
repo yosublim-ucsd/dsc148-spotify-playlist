@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: NLE Choppa, Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 732 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 756 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 31 | [Where Would I Be](https://open.spotify.com/track/1pExjTeIPJsPj26mpJOofO) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Recovery](https://open.spotify.com/album/4IKYFT82MQSmLwoz7gW6YT) | 2:02 |
 | 32 | [OUT THE WINDOW](https://open.spotify.com/track/25d7Trux92YqeS1iZpa0TN) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 3:56 |
 | 33 | [NUBIAN FARLOW](https://open.spotify.com/track/2Wv9KBIQe5WbKKtfPjtEGc) | [Varnish La Piscine](https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU) | [NUBIAN FARLOW](https://open.spotify.com/album/62KAVapI4hBEbKoTuTVvVy) | 3:27 |
-| 34 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
+| 34 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
 | 35 | [Yellow Diamonds](https://open.spotify.com/track/0VJnARijlKyC0jOvcQlYfE) | [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig), [Essex Boys](https://open.spotify.com/artist/3LVjqBF6OlWuuCEaLiaYPP), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Essex Boys](https://open.spotify.com/album/26MRWFBmtiE4dyop4mzuCp) | 3:25 |
 | 36 | [Up It](https://open.spotify.com/track/1LLdw50jSFEG7CaLQa4drf) | [Sns](https://open.spotify.com/artist/7EPOTd0v6jTEzHAiJ8xANB), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Up It](https://open.spotify.com/album/3VFcPclPIxF3mQml3QDUUC) | 3:31 |
 | 37 | [Pelle Pelle](https://open.spotify.com/track/2mSvuW1tjFx5uy17EVkaT5) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Pelle Pelle](https://open.spotify.com/album/27ca1WZ3NnFtcJrT2SqnHq) | 2:11 |

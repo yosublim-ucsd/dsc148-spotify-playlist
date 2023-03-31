@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 51169,
+  "num_followers": 51677,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAyNDI5OSwwMDAwMDAwMGUxMDRlZjNlNjU2ODA3ZjkwMjgyNGIwZGU5ZTdkYmIy",
+  "snapshot_id": "MTY4MDAyNDI5OSwwMDAwMDAwMDNkYjljODI2YTVlNDgyNTRiOWRjYzExM2YyMDgwZGVk",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "nightlife",
-        "url": "https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7"
-      },
-      "artists": [
-        {
-          "name": "yuragi",
-          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "night is young",
-      "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Deceiver",
@@ -763,6 +747,22 @@
       "duration_ms": 236746,
       "name": "Blankenship",
       "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "nightlife",
+        "url": "https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7"
+      },
+      "artists": [
+        {
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "night is young",
+      "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Cranekiss",
-        "url": "https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa"
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
       },
       "artists": [
         {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
         }
       ],
-      "duration_ms": 230408,
-      "name": "Cranekiss",
-      "url": "https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1"
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
       "artists": [
         {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+      "duration_ms": 235565,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -859,6 +859,22 @@
       "duration_ms": 150251,
       "name": "idk how to luv",
       "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Cranekiss",
+        "url": "https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "duration_ms": 230408,
+      "name": "Cranekiss",
+      "url": "https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -911,22 +927,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Dead Kids R.I.P. City",
         "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 211319,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Twin Plagues",
         "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 148453,
       "name": "Handsome Man",
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Flood Into",
-        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 181593,
-      "name": "Flood Into",
-      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
-    },
-    {
       "added_at": "2022-08-03 04:20:04",
       "album": {
         "name": "Pastel",
@@ -1085,20 +1069,20 @@
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
       },
       "artists": [
         {
-          "name": "Bedchamber",
-          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 131674,
-      "name": "Out of Line",
-      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "added_at": "2022-12-12 18:23:41",
@@ -1115,6 +1099,22 @@
       "duration_ms": 240500,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
+      },
+      "artists": [
+        {
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+        }
+      ],
+      "duration_ms": 131674,
+      "name": "Out of Line",
+      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
-    },
-    {
       "added_at": "2021-12-08 15:59:07",
       "album": {
         "name": "Death Spells",
@@ -1199,6 +1183,22 @@
       "duration_ms": 387065,
       "name": "Drag Me into the Woods",
       "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2021-10-19 01:47:29",

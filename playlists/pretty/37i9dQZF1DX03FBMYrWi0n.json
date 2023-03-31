@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Half Moon Run",
-  "num_followers": 1023,
+  "num_followers": 1036,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGIyNDgwZmU5MjEzZmZmZDIwYWIyMzE5Mjc4ODQ2MmY4",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDYyM2NlMzExMjBmNWIwOWVkYzJkZWI3NzMwNGIzNjZl",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
-      },
-      "artists": [
-        {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
-        }
-      ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "The Witness",
         "url": "https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 249072,
       "name": "Witness Protection",
       "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
+      },
+      "artists": [
+        {
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+        }
+      ],
+      "duration_ms": 239951,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -963,42 +979,6 @@
       "duration_ms": 179936,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
-        "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
-      },
-      "artists": [
-        {
-          "name": "FELP",
-          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
-        },
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
-      "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
-      },
-      "artists": [
-        {
-          "name": "SUUNS",
-          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
-        }
-      ],
-      "duration_ms": 239951,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1039,6 +1019,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
+        "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
+      },
+      "artists": [
+        {
+          "name": "FELP",
+          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
+      "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Tipatshimushtunan",
-        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
-      },
-      "artists": [
-        {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "40h semaine",
-      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Sweet Mont\u00e9r\u00e9gie",
         "url": "https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr"
       },
@@ -1115,6 +1115,38 @@
       "duration_ms": 229413,
       "name": "Sweet Mont\u00e9r\u00e9gie",
       "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Choses Sauvages II",
+        "url": "https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt"
+      },
+      "artists": [
+        {
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Chambre d'\u00e9cho",
+      "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Rock & roll sur ton chemin",
+        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "duration_ms": 238019,
+      "name": "Rock & roll sur ton chemin",
+      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Rock & roll sur ton chemin",
-        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 238019,
-      "name": "Rock & roll sur ton chemin",
-      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Et Hop",
         "url": "https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z"
       },
@@ -1199,34 +1215,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Choses Sauvages II",
-        "url": "https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt"
+        "name": "L'heure id\u00e9ale",
+        "url": "https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR"
       },
       "artists": [
         {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+          "name": "Jesuslesfilles",
+          "url": "https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Chambre d'\u00e9cho",
-      "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Musivision",
-        "url": "https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 187542,
-      "name": "Nyx",
-      "url": "https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU"
+      "duration_ms": 128186,
+      "name": "Antennes",
+      "url": "https://open.spotify.com/track/2IWRxRcB3MpsKptIzs4zdS"
     }
   ],
   "unique_name": "ALT_QC",

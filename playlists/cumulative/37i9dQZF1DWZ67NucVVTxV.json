@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw"
+    },
+    {
+      "album": {
         "name": "Back To Sender",
         "url": "https://open.spotify.com/album/0rThnN5X2Ktwkh8qEid6eH"
       },
@@ -862,10 +880,32 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 225312,
       "name": "Can't Trust No One",
       "url": "https://open.spotify.com/track/74CDK3OK2RLFYpG9pmAzPf"
+    },
+    {
+      "album": {
+        "name": "Great Is He (Deluxe)",
+        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227313,
+      "name": "Celebrate (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
     },
     {
       "album": {
@@ -1710,7 +1750,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 177250,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2yllhmitljxZR6RDvNY1W2"
@@ -1790,7 +1830,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 164281,
       "name": "Geh Monie",
       "url": "https://open.spotify.com/track/7BhDwkOIZ7E9HlmpNQDCUc"
@@ -2334,6 +2374,28 @@
       "duration_ms": 169549,
       "name": "Ina Jin",
       "url": "https://open.spotify.com/track/5sMl6iTfwS97ZxsuZNpwro"
+    },
+    {
+      "album": {
+        "name": "IRE",
+        "url": "https://open.spotify.com/album/1vrNczRrwYB6WVCNHpR7DY"
+      },
+      "artists": [
+        {
+          "name": "D Bliss",
+          "url": "https://open.spotify.com/artist/3gQm1VLHWfgsxdCybVW3LA"
+        },
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201639,
+      "name": "IRE",
+      "url": "https://open.spotify.com/track/3vowySAqVBASOj6qojv0e6"
     },
     {
       "album": {
@@ -2971,6 +3033,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156212,
+      "name": "NO COMPETITION (feat. Asake)",
+      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+    },
+    {
+      "album": {
         "name": "No Religion",
         "url": "https://open.spotify.com/album/3cyrejkXVcYbXQhiCcu2qB"
       },
@@ -3008,6 +3092,24 @@
       "duration_ms": 185662,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/06i7ObzxiHaT2dmRBTPTsj"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6OLL50q31uu23zvlCc4MtY"
     },
     {
       "album": {
@@ -3146,7 +3248,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 177250,
       "name": "Ojemba",
       "url": "https://open.spotify.com/track/4zqWVvzrPDFQmTH8lkeU5p"
@@ -3620,7 +3722,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 177600,
       "name": "Pray Hard",
       "url": "https://open.spotify.com/track/49CQhcJkjozkJqlWcaQUpC"
@@ -3712,7 +3814,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 148363,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/5Jf2MleQB4ZY3NuxggGwZy"
@@ -4718,6 +4820,28 @@
       "duration_ms": 155920,
       "name": "WO WO",
       "url": "https://open.spotify.com/track/2D1D9hmwCBApc1JHEA7WaB"
+    },
+    {
+      "album": {
+        "name": "Yakubu",
+        "url": "https://open.spotify.com/album/0jzWxlKJGSGcGPZb0AFdV8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189231,
+      "name": "Yakubu",
+      "url": "https://open.spotify.com/track/65CrCMwhTnHJiZ9TK1cFyV"
     },
     {
       "album": {

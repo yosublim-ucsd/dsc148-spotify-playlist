@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 185980,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2AQtxqUEmqd5mVUFD2UC61"
@@ -4348,6 +4348,24 @@
       "duration_ms": 173793,
       "name": "Quiet Times",
       "url": "https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R"
+    },
+    {
+      "album": {
+        "name": "Pantrana Calm",
+        "url": "https://open.spotify.com/album/2wc8UqKag2QJgjtENEcCMW"
+      },
+      "artists": [
+        {
+          "name": "Janinan.",
+          "url": "https://open.spotify.com/artist/7tj72nDddYtKjWHdQ7YadH"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Rainbow Days",
+      "url": "https://open.spotify.com/track/6mY7TTC8qzOURWVNjdiB03"
     },
     {
       "album": {

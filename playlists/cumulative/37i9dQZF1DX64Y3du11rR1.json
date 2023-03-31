@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Darkside (Acoustic)",
+        "url": "https://open.spotify.com/album/37wetBFXovcDRVMmRfT2LM"
+      },
+      "artists": [
+        {
+          "name": "Beth",
+          "url": "https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156671,
+      "name": "Darkside - Acoustic",
+      "url": "https://open.spotify.com/track/7EI5jemm1FyqmKQ7BLpdW9"
+    },
+    {
+      "album": {
         "name": "Here I Go Again - Acoustic EP",
         "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
       },
@@ -802,6 +820,24 @@
       "duration_ms": 261666,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/2bqjWTGDpFoG3YlRgKvqDo"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214260,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
     },
     {
       "album": {
@@ -1311,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/2EIAR4mEhjOhCNlFKnv6gl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172909,
+      "name": "I Wanna Dance With Somebody",
+      "url": "https://open.spotify.com/track/51oIXpuAbCMXnH4bTJxf9m"
+    },
+    {
+      "album": {
         "name": "I Will Wait",
         "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
       },
@@ -1648,6 +1702,24 @@
       "duration_ms": 149735,
       "name": "Lonely - Acoustic Piano",
       "url": "https://open.spotify.com/track/12AKFQyF4FaQY4AKYqBUvc"
+    },
+    {
+      "album": {
+        "name": "lonely together",
+        "url": "https://open.spotify.com/album/7CBEGifKjpuEP6MZZzEV1G"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201104,
+      "name": "lonely together",
+      "url": "https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn"
     },
     {
       "album": {

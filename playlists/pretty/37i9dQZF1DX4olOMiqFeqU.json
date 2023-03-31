@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2379880,
+  "num_followers": 2380402,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ3MTM2NiwwMDAwMDAwMDU3MjBjMTg3ODEzZjYzNDk0ODU3MWZiZmEyZjBjZTUy",
+  "snapshot_id": "MTY3OTQ3MTM2NiwwMDAwMDAwMGM2ODZmMzE3MDg2YzIwMzNjMzE1YWVlZTNlZjBhYzIx",
   "tracks": [
     {
       "added_at": "2023-03-09 08:35:13",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
     },
     {
-      "added_at": "2023-03-30 01:20:22",
+      "added_at": "2023-03-31 00:41:33",
       "album": {
         "name": "Ikaw Pa Rin",
         "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
     },
     {
-      "added_at": "2023-03-30 01:20:22",
+      "added_at": "2023-03-31 00:41:33",
       "album": {
         "name": "Mahika",
         "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
@@ -819,18 +819,22 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "Kabado",
-        "url": "https://open.spotify.com/album/4QKhoKIlxDjVcMgDznCt7A"
+        "name": "Romantico",
+        "url": "https://open.spotify.com/album/3rx77n7XvlsBj9N2u4pb2r"
       },
       "artists": [
         {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+          "name": "Kamikazee",
+          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
         }
       ],
-      "duration_ms": 246304,
-      "name": "Kabado",
-      "url": "https://open.spotify.com/track/7oLe1cVRqLpoH2NozJ78mh"
+      "duration_ms": 295413,
+      "name": "Huling Sayaw",
+      "url": "https://open.spotify.com/track/20WgDtVSk24lprETchbTt1"
     }
   ],
   "unique_name": "OPM Favorites",

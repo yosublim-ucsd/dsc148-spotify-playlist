@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 306666,
       "name": "Calatea",
       "url": "https://open.spotify.com/track/0Qd1Q9VksJiH0UAfmpauCf"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 265846,
       "name": "Coffee Time!",
       "url": "https://open.spotify.com/track/4BxeHP8DMn616l32EkF3xj"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 162586,
       "name": "Cute Melody, Window Down!",
       "url": "https://open.spotify.com/track/3PzwZ3xTYTmJ1MxtxxtP4c"
@@ -702,6 +702,28 @@
       "duration_ms": 236727,
       "name": "Droids",
       "url": "https://open.spotify.com/track/0dgA5EUIVNpiHNpVzguClf"
+    },
+    {
+      "album": {
+        "name": "EVEN MORE D4TA",
+        "url": "https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305518,
+      "name": "DRUM GLOW - DJ Lag Remix",
+      "url": "https://open.spotify.com/track/6TuykpJWmzazJrEzkO2e4r"
     },
     {
       "album": {
@@ -996,7 +1018,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 249363,
       "name": "Higher Beings Command",
       "url": "https://open.spotify.com/track/73DQSx8VuHiWQl3zuG5M4E"
@@ -1050,7 +1072,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 289430,
       "name": "Infinite Window",
       "url": "https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y"
@@ -1192,6 +1214,24 @@
     {
       "album": {
         "name": "Look Mum No Hands",
+        "url": "https://open.spotify.com/album/4xFANBZG8UzKKCqX9c8wVz"
+      },
+      "artists": [
+        {
+          "name": "Yushh",
+          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361483,
+      "name": "Look Mum No Hands",
+      "url": "https://open.spotify.com/track/4hYLBWPKVB9B5uZbArfhIa"
+    },
+    {
+      "album": {
+        "name": "Look Mum No Hands",
         "url": "https://open.spotify.com/album/7HgUt8ETh3yNdZK5qaoYS3"
       },
       "artists": [
@@ -1202,7 +1242,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 361483,
       "name": "Look Mum No Hands",
       "url": "https://open.spotify.com/track/4vMsZppXXo8BoFDiiHk9nd"
@@ -1260,7 +1300,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 235000,
       "name": "Marixylo",
       "url": "https://open.spotify.com/track/6hCpieIoM2tBlpn8JBBvUJ"
@@ -1409,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "EVEN MORE D4TA",
+        "url": "https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290841,
+      "name": "NEON RATS - SHERELLE's Sleepless in Philadelphia Remix",
+      "url": "https://open.spotify.com/track/2FlPHfGs4KUe2GDtNQfb3P"
+    },
+    {
+      "album": {
         "name": "Night Journeys Remixes",
         "url": "https://open.spotify.com/album/6evedkkGMc4VTjdL5CROVz"
       },
@@ -1552,7 +1614,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 253529,
       "name": "Penicillin Duck",
       "url": "https://open.spotify.com/track/1g2x6EJ0mgmwgrfU0ockwr"
@@ -1618,6 +1680,24 @@
       "duration_ms": 262360,
       "name": "Purity (feat. Frank Ocean)",
       "url": "https://open.spotify.com/track/2MF4HtZHBoUliOi9nOAbS0"
+    },
+    {
+      "album": {
+        "name": "Quer Dan\u00e7ar?",
+        "url": "https://open.spotify.com/album/4nReuKvl8guGUycWxZuSFG"
+      },
+      "artists": [
+        {
+          "name": "Amor Satyr",
+          "url": "https://open.spotify.com/artist/3OSzUMBfUgBgJ23gVEqsIX"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317837,
+      "name": "Quer Dan\u00e7ar?",
+      "url": "https://open.spotify.com/track/2tpaQkgGiBIplXgW2Rl8U8"
     },
     {
       "album": {
@@ -1875,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Calatea - EP",
+        "url": "https://open.spotify.com/album/0moITSwsvMsQ7BUediIgEK"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Urquieta",
+          "url": "https://open.spotify.com/artist/0FvPx0jMxVB5f1B9SECQXh"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347076,
+      "name": "Taro",
+      "url": "https://open.spotify.com/track/0svb2SpratxjWjQQUp8xEx"
+    },
+    {
+      "album": {
         "name": "Telepathic Abuse",
         "url": "https://open.spotify.com/album/0gK4e43yD6C7lXcujdUfip"
       },
@@ -1912,7 +2010,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 288388,
       "name": "The Corpse of a Frozen Flower",
       "url": "https://open.spotify.com/track/2yOadTm41F4Mz0npgZxYhe"
@@ -2093,6 +2191,28 @@
     },
     {
       "album": {
+        "name": "Town Crier",
+        "url": "https://open.spotify.com/album/5Z0BCd4myyzW45589ScKxi"
+      },
+      "artists": [
+        {
+          "name": "Peder Mannerfelt",
+          "url": "https://open.spotify.com/artist/3IuyAl5gMAvYhn0VjRzC1g"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278973,
+      "name": "Town Crier - Nikki Nair Remix",
+      "url": "https://open.spotify.com/track/2NQdM259a20wOrOVga3bIy"
+    },
+    {
+      "album": {
         "name": "Translation to Heaven",
         "url": "https://open.spotify.com/album/5IAiKs09l4DvJdTlG07oba"
       },
@@ -2162,7 +2282,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 232104,
       "name": "Vexed",
       "url": "https://open.spotify.com/track/5swPofqzzG0XZGCp8IokY9"

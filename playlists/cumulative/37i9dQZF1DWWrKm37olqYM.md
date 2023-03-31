@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [African Rotation \(feat\. DJ Flex\)](https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:49 | 2020-12-24 |  |
+| [African Rotation \(feat\. DJ Flex\)](https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/54L87Ji6ugFjw9oCleDoeL) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:49 | 2020-12-24 |  |
 | [AH BAH](https://open.spotify.com/track/3xaBmikNA88h9pR9JpOe3D) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv) | [AH BAH](https://open.spotify.com/album/5uCZUkhtQ8r0s3L6ZeNP0c) | 1:02 | 2022-11-11 |  |
 | [Ah Bah, Pt\. 2](https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr) | [Ah Bah, Pt\. 2](https://open.spotify.com/album/2hY16oXVooiBh1D646rlao) | 1:39 | 2022-12-30 |  |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-24 |  |
@@ -105,6 +105,6 @@
 | [Watch Out for the Big Girl](https://open.spotify.com/track/71C1N1mwADuLlSpVkIWgXq) | [Jimmy Jones](https://open.spotify.com/artist/3Jl6zZey7n9sVPK6vcZhtT) | [Watch Out for the Big Girl](https://open.spotify.com/album/7FoJmYkMDrOvRVQA0wtYnY) | 3:33 | 2020-12-24 |  |
 | [Work \- Baltimore Club Remix](https://open.spotify.com/track/3FD9IeAoWRq8LfFPK8nIrp) | [DJ Yae](https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ) | [The Cloud, Vol\. 2 \(Baltimore Club Remixes\)](https://open.spotify.com/album/1AjBIRPKNHyB1fLrxM4IT2) | 1:17 | 2020-12-24 | 2022-06-25 |
 | [Yeah Ooh](https://open.spotify.com/track/7i9gpCCp9gvVRi3LK83g1t) | [DJ Technics](https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 1:29 | 2020-12-24 | 2022-02-26 |
-| [Yupp Challenge \(feat\. DJ Flex\)](https://open.spotify.com/track/6ZeydF5POoBbhxY2XNk3BQ) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:21 | 2020-12-24 |  |
+| [Yupp Challenge \(feat\. DJ Flex\)](https://open.spotify.com/track/6ZeydF5POoBbhxY2XNk3BQ) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/54L87Ji6ugFjw9oCleDoeL) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:21 | 2020-12-24 |  |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi?si=BlraLf2eQtqbgRSe9JEpTA\"> Camidoh </a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=MpB7fQOiQemHUhrZZlEuBA\"> Stonebwoy </a>  ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/6uuL5ozmu2AopsmbKb7Qyq"
       },
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 177692,
       "name": "No Money",
       "url": "https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy"
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 229118,
       "name": "Nukedzor (What's Up)",
       "url": "https://open.spotify.com/track/0cKl5zPezLYU8c0F3MYvvT"
@@ -2266,6 +2284,28 @@
       "duration_ms": 300000,
       "name": "She Bad (feat. Oxlade)",
       "url": "https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5"
+    },
+    {
+      "album": {
+        "name": "Sho (feat. Mr Drew)",
+        "url": "https://open.spotify.com/album/5s7AjDdIfLDiYOBrga9T2f"
+      },
+      "artists": [
+        {
+          "name": "Maya Blu",
+          "url": "https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye"
+        },
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133392,
+      "name": "Sho (feat. Mr Drew)",
+      "url": "https://open.spotify.com/track/0FsTHHgr5E08aW0H7xcuF9"
     },
     {
       "album": {

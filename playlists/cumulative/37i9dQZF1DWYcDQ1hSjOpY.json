@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Emerge",
+        "url": "https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6"
+      },
+      "artists": [
+        {
+          "name": "Gordo Napalma",
+          "url": "https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Expression",
+      "url": "https://open.spotify.com/track/5zdCyjtjf8iQmgm0wTqDa8"
+    },
+    {
+      "album": {
         "name": "Fate",
         "url": "https://open.spotify.com/album/04QvfbZwhaFKDtp1Qou7vO"
       },
@@ -4956,6 +4974,24 @@
       "duration_ms": 212000,
       "name": "Pile",
       "url": "https://open.spotify.com/track/49gyEFmwyvHPkKkM3rs6Pu"
+    },
+    {
+      "album": {
+        "name": "Cloudy Texture",
+        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
+      },
+      "artists": [
+        {
+          "name": "Laura Dawson",
+          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
     },
     {
       "album": {

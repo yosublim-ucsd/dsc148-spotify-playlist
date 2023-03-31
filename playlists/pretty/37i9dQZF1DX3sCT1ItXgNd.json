@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Aitana",
-  "num_followers": 968845,
+  "num_followers": 969114,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
       "duration_ms": 147907,
       "name": "El Principio de algo",
       "url": "https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb"
+    },
+    {
+      "added_at": "2023-03-29 22:01:00",
+      "album": {
+        "name": "Novia del A\u00f1o",
+        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "hey, goodbye",
+      "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
     },
     {
       "added_at": "2023-03-29 22:01:00",
@@ -279,6 +295,22 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2023-03-29 22:01:00",
+      "album": {
+        "name": "Me Muero x Ti",
+        "url": "https://open.spotify.com/album/0sW2blqOU2M9P168xW7vPP"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 157673,
+      "name": "Me Muero x Ti",
+      "url": "https://open.spotify.com/track/07iNPzOVxrNmy3FujFBc5z"
     },
     {
       "added_at": "2023-03-29 22:01:00",

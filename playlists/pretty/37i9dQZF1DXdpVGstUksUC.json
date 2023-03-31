@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 493317,
+  "num_followers": 493498,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUwMTg1OCwwMDAwMDAwMGU4Y2IwODJiMGZiMjI1NDkwOWY2MDljOGY2NWIzOTA2",
+  "snapshot_id": "MTY3OTUwMTg1OCwwMDAwMDAwMDUzMDQ5NTU0ZWFmNTZhMjc5YTNlYWI5ZTMyOGVhZmI2",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "The Big Black",
         "url": "https://open.spotify.com/album/4zfCuQTmfsBNxYL0GUhSg0"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6jhYtTdUeFGX2X629AMd4r"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "From Beale Street to Oblivion",
         "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Gravity X",
         "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Stoner Witch",
         "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
@@ -455,22 +455,6 @@
       "duration_ms": 72800,
       "name": "Skweetis",
       "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Godzilla's / Eatin' Dust",
         "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 356200,
       "name": "Supa Scoopa and Mighty Scoop",
       "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Macho Libre",
+        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
+      },
+      "artists": [
+        {
+          "name": "Planet of Zeus",
+          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Dopethrone",
         "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
-      },
-      "artists": [
-        {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
     },
     {
-      "added_at": "2023-03-30 01:32:56",
+      "added_at": "2023-03-31 01:15:51",
       "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Get What You Deserve",
-        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
       "artists": [
         {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
         }
       ],
-      "duration_ms": 550665,
-      "name": "Get What You Deserve",
-      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+        "name": "Get What You Deserve",
+        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
       },
       "artists": [
         {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
         }
       ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+      "duration_ms": 550665,
+      "name": "Get What You Deserve",
+      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "SXSPLXN",
-        "url": "https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM"
-      },
-      "artists": [
-        {
-          "name": "Nicola Wincenc",
-          "url": "https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI"
-        }
-      ],
-      "duration_ms": 187199,
-      "name": "SXSPLXN",
-      "url": "https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Beyond the Wasteland",
         "url": "https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 266200,
       "name": "Rooster Booster",
       "url": "https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "SXSPLXN",
+        "url": "https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM"
+      },
+      "artists": [
+        {
+          "name": "Nicola Wincenc",
+          "url": "https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI"
+        }
+      ],
+      "duration_ms": 187199,
+      "name": "SXSPLXN",
+      "url": "https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6"
     },
     {
       "added_at": "2023-03-10 05:00:00",

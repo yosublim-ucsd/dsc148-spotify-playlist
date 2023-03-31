@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-266 songs - 14 hr 11 min
+267 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Hallowed](https://open.spotify.com/track/7F5hM0cyofRFOFPvIzcRfd) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [Le Murmure de Papeete](https://open.spotify.com/album/7knm1iMUlIIFMvXft32QQD) | 3:08 | 2021-12-08 |  |
 | [Healing](https://open.spotify.com/track/64U5PLgNrdaQtuKqquCWaQ) | [Jan Sandgreen](https://open.spotify.com/artist/6XeZHtclFhsvU54hfesohF) | [Healing](https://open.spotify.com/album/4Ad5hqfM5jXUtJArpJZX0w) | 2:59 | 2021-12-08 |  |
 | [Hiemal](https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Hiemal](https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i) | 2:47 | 2022-12-30 |  |
+| [Hiraeth](https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 3:00 | 2023-03-31 |  |
 | [Hong Kong Skyline](https://open.spotify.com/track/4Dj3FMZMMBXCxNkJ25o2Ta) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB) | 3:54 | 2021-12-08 | 2022-07-29 |
 | [Hong Kong Skyline](https://open.spotify.com/track/5EZbXvnbK2Cu59gVM31rWS) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g) | 3:54 | 2022-07-27 | 2022-08-24 |
 | [Horizon](https://open.spotify.com/track/0BnOGTQYYZYEXsgA1ryRYT) | [Landscapes Of Joy](https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99) | [Dreaming Of The Horizon](https://open.spotify.com/album/1W1RRw9eeGuoxoAhdr6APP) | 3:34 | 2021-12-08 | 2022-07-29 |
@@ -117,7 +118,7 @@
 | [Inombords](https://open.spotify.com/track/683KRaMJTVpf3As7wOyyev) | [Sammet](https://open.spotify.com/artist/6BAZrwUnf2R5WoLpj5iQ42) | [Inombords](https://open.spotify.com/album/1n0u2U39g0LjaYrDwH0rAn) | 3:12 | 2022-10-14 |  |
 | [Intuition](https://open.spotify.com/track/3VSHwYTtcZNrdwZuyOGjHo) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Intuition](https://open.spotify.com/album/021gMyQNpIiRxNspxbQuyR) | 3:59 | 2021-12-08 |  |
 | [Jamas In Heaven](https://open.spotify.com/track/0ekmQX29tnEb4TYPW2Mqpi) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Trust](https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk) | 2:46 | 2021-12-08 |  |
-| [Jeg kommer snart tilbake](https://open.spotify.com/track/1ooPh4BiWC3x393xLmeA0e) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Jeg kommer snart tilbake](https://open.spotify.com/album/0PCpkFn3ivZklKqyPVNzec) | 3:51 | 2021-12-08 |  |
+| [Jeg kommer snart tilbake](https://open.spotify.com/track/1ooPh4BiWC3x393xLmeA0e) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Jeg kommer snart tilbake](https://open.spotify.com/album/0PCpkFn3ivZklKqyPVNzec) | 3:51 | 2021-12-08 | 2023-03-31 |
 | [Just Because](https://open.spotify.com/track/7iPyN8KKPycEdDIDvtvUdJ) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Just Because](https://open.spotify.com/album/3721Y3lIW8EZKyHDxntnoP) | 2:51 | 2021-12-08 |  |
 | [Kyoto 5 AM](https://open.spotify.com/track/0lJAlB8iVsp6Y99MnTjlu8) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Kyoto 5 AM](https://open.spotify.com/album/1fwFa6VhMpBZpYboapGASG) | 2:34 | 2021-12-08 |  |
 | [La Lune](https://open.spotify.com/track/2CaJTDQRm5mss61P0dm6OE) | [Cécile Theroux](https://open.spotify.com/artist/2t2cTHZOCw0iz30wBxeTyh) | [La Lune](https://open.spotify.com/album/5P9kFLcgUPazvp1sBXWCqs) | 2:52 | 2022-02-03 |  |

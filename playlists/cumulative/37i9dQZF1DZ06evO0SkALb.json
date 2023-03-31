@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 228693,
       "name": "Chain Gang",
       "url": "https://open.spotify.com/track/121zWRGmvv3D1fNIGmPMQp"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 178626,
       "name": "Scotch & Soda",
       "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 268586,
       "name": "See You When I Git There",
       "url": "https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc"
@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "That's Where It's At",
+      "url": "https://open.spotify.com/track/5aJV6QT4rH2feDuUpk9Aim"
+    },
+    {
+      "album": {
         "name": "Hit After Hit",
         "url": "https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA"
       },
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 225600,
       "name": "They Call It Stormy Monday",
       "url": "https://open.spotify.com/track/71vtUr8NIGW8lqAgsxCO0M"
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"

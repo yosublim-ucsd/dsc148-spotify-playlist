@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Lucas Hill.
 
-366 songs - 22 hr 22 min
+367 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-07-22 | 2022-09-03 |
 | [Animal](https://open.spotify.com/track/0IzsR7RRJ4zS536vbcalpJ) | [Amaia Miranda](https://open.spotify.com/artist/4ij2OlNjoDeAZBcqmOkqh8) | [Cuando se nos mueren los amores](https://open.spotify.com/album/6W4jvb8vWYveJ724rxO7VQ) | 3:21 | 2022-04-01 | 2022-05-06 |
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2021-12-24 | 2022-04-24 |
+| [Aprenderé \- en directo 2K23](https://open.spotify.com/track/20G79dCVtx58sxPVtD4Ik2) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [Jhana Beat](https://open.spotify.com/artist/7a3ExgPUndI4Kyms3uVdAP) | [Aprenderé \(en directo 2K23\)](https://open.spotify.com/album/4BvBdWiBKnVUDykNp41pKS) | 3:41 | 2023-03-31 |  |
 | [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-23 | 2022-10-15 |
 | [Aunque No Sea Yo](https://open.spotify.com/track/4zrePmHHjkkic4xZGPg8PB) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Aunque No Sea Yo](https://open.spotify.com/album/74j5XhF4zIq06Y4Hq6zRtp) | 3:34 | 2022-01-27 | 2022-02-25 |
 | [Añada de lea](https://open.spotify.com/track/6XM7pJJhWqpxwgShVMi8ka) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Añada de lea](https://open.spotify.com/album/3FyQhJHpCaIcI7FmcPOSy5) | 3:05 | 2023-01-06 | 2023-01-28 |
@@ -210,7 +211,7 @@
 | [Me Fui](https://open.spotify.com/track/17IpNs6hv6Z6C6K31Phzkn) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Me Fui](https://open.spotify.com/album/1j7caKPPkCC1VUPChrAjmM) | 3:48 | 2022-12-23 | 2023-01-21 |
 | [Me mudo de casa](https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Me mudo de casa](https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3) | 4:04 | 2023-02-17 |  |
 | [Me Quedo Aquí \- Bonus Track](https://open.spotify.com/track/6cxVIwPmlGl6LSfo0iGSJv) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Me Quedo Aquí \(Bonus Track\)](https://open.spotify.com/album/491Dqm9bqKjGxkgvYNaXja) | 3:33 | 2022-10-28 | 2022-11-12 |
-| [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 | 2021-12-24 |  |
+| [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 | 2021-12-24 | 2023-03-31 |
 | [Mensajes en el Mar](https://open.spotify.com/track/4vgtji8ryyG6poEdMhSvE7) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/3uTW9z4Yhk9XnGwy6C7qiW) | 4:07 | 2021-12-24 | 2022-12-24 |
 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 | 2022-12-23 |  |
 | [Mesa Para Dos](https://open.spotify.com/track/2KFvKwbWqJKtjHq3Cblrtf) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Fredi Leis](https://open.spotify.com/artist/74JhFJgvnRd6yB9uVbtvLW) | [Mesa para dos](https://open.spotify.com/album/40NPpKJy5gaL9j9mKk1Lhn) | 2:27 | 2022-12-02 | 2022-12-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Remembering the showman Raj Kapoor with his biggest hits.",
-  "num_followers": 9250,
+  "num_followers": 9266,
   "original_name": "Starring Raj Kapoor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0MTk2MywwMDAwMDAwMDJkNTFiZmVmMTFkYzM5NGFiODk3YjI0ZDYwZmZhODlh",
+  "snapshot_id": "MTY3OTY0MTk2MywwMDAwMDAwMDdkZTBkODM5YzMwNTkzNzU3ODM5MmE0NzQ0Mjg5NTgx",
   "tracks": [
     {
       "added_at": "2023-03-24 07:12:20",
@@ -63,14 +63,10 @@
     {
       "added_at": "2023-03-24 07:12:20",
       "album": {
-        "name": "The Song Of Nargis: Songs From Indian Films, '50 - '60",
-        "url": "https://open.spotify.com/album/14AEdAMo1HyJj1Jfn5eS7m"
+        "name": "Shree 420 (The Bollywood Soundtrack)",
+        "url": "https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5"
       },
       "artists": [
-        {
-          "name": "Shankar Jaikishan",
-          "url": "https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc"
-        },
         {
           "name": "Manna Dey",
           "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
@@ -80,9 +76,9 @@
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         }
       ],
-      "duration_ms": 266786,
-      "name": "Pyaar Hua, Ikrar Hua (From \"Shri 420\") [1955]",
-      "url": "https://open.spotify.com/track/43XFnsDw9XnyOQrPUOtfff"
+      "duration_ms": 261000,
+      "name": "Pyar Hua Iqrar Hua",
+      "url": "https://open.spotify.com/track/2QGilBp4UILvAbBwykuq7p"
     },
     {
       "added_at": "2023-03-24 07:12:20",

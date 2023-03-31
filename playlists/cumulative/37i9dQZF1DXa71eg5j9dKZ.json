@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Elkka",
+  "description": "The home for alternative electronic music. Cover: Giulia Tess",
   "name": "Altar",
   "tracks": [
     {
@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "All Thru The Night (Locked On Vol 4)",
+        "url": "https://open.spotify.com/album/2jqtWThfb36fQEIi7LQLGE"
+      },
+      "artists": [
+        {
+          "name": "Sage Introspekt",
+          "url": "https://open.spotify.com/artist/4ekpVu17mXNnTLJ61iow2T"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283972,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/36dAiNzoMiYkP5DCRY7m4A"
+    },
+    {
+      "album": {
         "name": "All the Things We've Been Through",
         "url": "https://open.spotify.com/album/0OVCOixuhs9hfIvTGoIGbD"
       },
@@ -734,7 +752,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 420684,
       "name": "Apollo - Original Mix",
       "url": "https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN"
@@ -1497,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Blue Lights",
+        "url": "https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221323,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx"
+    },
+    {
+      "album": {
         "name": "Bluff (yeule & Kin Leonn Remix)",
         "url": "https://open.spotify.com/album/53gadAfcSnos0A24W747L3"
       },
@@ -1944,7 +1980,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 281370,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW"
@@ -2024,6 +2060,28 @@
       "duration_ms": 344226,
       "name": "Can't we just have fun?",
       "url": "https://open.spotify.com/track/25Si5xf0LQCYVAF4sRKmua"
+    },
+    {
+      "album": {
+        "name": "Candle Flame",
+        "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174020,
+      "name": "Candle Flame",
+      "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
     },
     {
       "album": {
@@ -2454,7 +2512,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 142720,
       "name": "Conveniency",
       "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
@@ -2714,7 +2772,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
@@ -3090,6 +3148,24 @@
       "duration_ms": 149976,
       "name": "Earn It",
       "url": "https://open.spotify.com/track/7dYCexMyeIX4gikhil1mV6"
+    },
+    {
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/4tEySm30Wxlad1GJSkky3J"
+      },
+      "artists": [
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM"
     },
     {
       "album": {
@@ -4364,7 +4440,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 228066,
       "name": "Give It 2 Me - Edit",
       "url": "https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9"
@@ -4455,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "album": {
         "name": "GOOD TIMES / PROBLEMZ",
         "url": "https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME"
       },
@@ -4488,7 +4582,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 269711,
       "name": "GOOD TIMES - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
@@ -5442,7 +5536,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 271791,
       "name": "In My Head - Rebecca & Fiona Remix",
       "url": "https://open.spotify.com/track/55GEZnn4x1v4nNKls9iVkD"
@@ -6610,7 +6704,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 219187,
       "name": "Made 4 U",
       "url": "https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD"
@@ -7158,7 +7252,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 308500,
       "name": "Mirage Over - Manami Remix",
       "url": "https://open.spotify.com/track/3CSqdtH7lGYFqTBbsbBFXy"
@@ -7256,6 +7350,24 @@
       "duration_ms": 285081,
       "name": "Moebius",
       "url": "https://open.spotify.com/track/2d8gocaOLCy3jhH10IDjbD"
+    },
+    {
+      "album": {
+        "name": "Vista Mare Forever",
+        "url": "https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274738,
+      "name": "Monica Vitti",
+      "url": "https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa"
     },
     {
       "album": {
@@ -7408,7 +7520,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 222107,
       "name": "My Life Dextrous",
       "url": "https://open.spotify.com/track/4nMnpPS42pG9TuQuUNRVWM"
@@ -7688,7 +7800,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 220393,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6"
@@ -8098,7 +8210,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 388644,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X"
@@ -8997,6 +9109,28 @@
     },
     {
       "album": {
+        "name": "Reflections ft. KiLLOWEN",
+        "url": "https://open.spotify.com/album/565HXPzi2uPRVjcwHpFOBA"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        },
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191323,
+      "name": "Reflections ft. KiLLOWEN",
+      "url": "https://open.spotify.com/track/0LtCpSLGkeHALMIIrbgAWs"
+    },
+    {
+      "album": {
         "name": "Revision feat. Giovanni",
         "url": "https://open.spotify.com/album/4fmY2RxbdZcvt2cgMmCJNZ"
       },
@@ -9757,6 +9891,24 @@
     },
     {
       "album": {
+        "name": "All Thru The Night (Locked On Vol 4)",
+        "url": "https://open.spotify.com/album/2jqtWThfb36fQEIi7LQLGE"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343887,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/20SVpIZOH8je9junaB8IJH"
+    },
+    {
+      "album": {
         "name": "She Gives U",
         "url": "https://open.spotify.com/album/0QYsPD9bqPwoIvQ5KdpFRf"
       },
@@ -9942,6 +10094,28 @@
       "duration_ms": 429011,
       "name": "Smiley",
       "url": "https://open.spotify.com/track/2qrhwoAn9s6q1C31811SVS"
+    },
+    {
+      "album": {
+        "name": "Faux Poly: Remixed 001",
+        "url": "https://open.spotify.com/album/2CcTG5fRtdzqdDHUUUyImz"
+      },
+      "artists": [
+        {
+          "name": "Jay Carder",
+          "url": "https://open.spotify.com/artist/2VVF5cjuSx97r3ND28ndlK"
+        },
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350163,
+      "name": "So Carelessly - Demi Riqu\u00edsimo Remix",
+      "url": "https://open.spotify.com/track/70HSOKDgRtsrNR6ady294S"
     },
     {
       "album": {
@@ -11876,7 +12050,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 194185,
       "name": "Walk Thru Water",
       "url": "https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr"
@@ -12246,7 +12420,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 196030,
       "name": "World Is Empty",
       "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"

@@ -2523,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Crop Top",
+        "url": "https://open.spotify.com/album/5xiTyVWNTCGR8AfOpeK8K3"
+      },
+      "artists": [
+        {
+          "name": "Main Foyer",
+          "url": "https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142767,
+      "name": "Crop Top",
+      "url": "https://open.spotify.com/track/7fZOSXCWCsvxIv3Ps5HW5d"
+    },
+    {
+      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/4gd3p8sokiAY66tb2NoMpU"
       },
@@ -3464,6 +3482,24 @@
       "duration_ms": 153136,
       "name": "Equanimity",
       "url": "https://open.spotify.com/track/5isIut0C8hN4bId0imeKog"
+    },
+    {
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/17U4iL5TD60vVhBE4EtD5V"
+      },
+      "artists": [
+        {
+          "name": "Zazzo",
+          "url": "https://open.spotify.com/artist/0IqdMYI4CDJgVZiioR7t3k"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140181,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/6NPvYtR9Zi1uIZqTj9CU53"
     },
     {
       "album": {

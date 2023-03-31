@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-74 songs - 5 hr 23 min
+75 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dodging The Blues](https://open.spotify.com/track/3I5wlSHXXMmVXTpPvN3wa5) | [Carl Verheyen](https://open.spotify.com/artist/3BpUUAvJhkvkpYI6nQ7OUf) | [Essential Blues](https://open.spotify.com/album/13I1hgOYUQTqPLpk0sGnO5) | 4:22 | 2022-11-30 |  |
 | [Don't Be Late](https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Don't Be Late](https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P) | 2:46 | 2022-11-30 |  |
 | [Donna](https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 7:23 | 2022-11-30 |  |
+| [Dont Lie](https://open.spotify.com/track/4jJCx5gt62d4yYvfy1Z7GQ) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Nickel for Your Troubles](https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY) | 2:58 | 2023-03-31 |  |
 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 | 2022-11-30 |  |
 | [Ferry Crossing Blues](https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:25 | 2023-02-24 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/3IXfelfYGAlNhpj2PAOIb7) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:10 | 2022-11-30 |  |

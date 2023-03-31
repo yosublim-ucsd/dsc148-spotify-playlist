@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 192659,
       "name": "Are You There?",
       "url": "https://open.spotify.com/track/4xN3AWi8wsaVA1j9J426qE"
@@ -687,6 +687,42 @@
     },
     {
       "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196232,
+      "name": "English Blood // American Heartache",
+      "url": "https://open.spotify.com/track/42Sz4aU1vA5FejFfO5GzLy"
+    },
+    {
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "Ephemera - Outro",
+      "url": "https://open.spotify.com/track/3ZK3LHD0x7GgvRiOhpUaLK"
+    },
+    {
+      "album": {
         "name": "Eventide",
         "url": "https://open.spotify.com/album/2ib7EVPNqDdFJ4eTSnixWT"
       },
@@ -1090,7 +1126,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 217269,
       "name": "I Don\u2019t Know How I Survive - Acoustic",
       "url": "https://open.spotify.com/track/12GEJSBjroCELIxLEnl3mC"
@@ -1628,7 +1664,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 267546,
       "name": "Midsummer's Eve (feat. Tina Guo)",
       "url": "https://open.spotify.com/track/6NYVHxzpSsvq4vy3EweKrD"
@@ -2106,6 +2142,24 @@
       "duration_ms": 696840,
       "name": "Rock Bottom - Live",
       "url": "https://open.spotify.com/track/4fLGVRfXjCmJ6Yoiy4NUrL"
+    },
+    {
+      "album": {
+        "name": "Asphalt Meadows (Acoustic)",
+        "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133673,
+      "name": "Roman Candles - Acoustic",
+      "url": "https://open.spotify.com/track/4RL12QBrlL78QCPdNvL5SR"
     },
     {
       "album": {

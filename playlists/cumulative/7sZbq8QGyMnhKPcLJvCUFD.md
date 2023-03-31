@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-229 songs - 11 hr 39 min
+231 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,14 @@
 | [Away](https://open.spotify.com/track/43yExGeOSTvdXzq3GJpeVS) | [James Roche](https://open.spotify.com/artist/4b2kEE2HzyOwcP1rVNBJPT) | [Away](https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX) | 3:25 | 2022-05-03 |  |
 | [Away From Me](https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [Away From Me](https://open.spotify.com/album/6TK2A3juCejutugbkArptL) | 3:02 | 2022-06-10 |  |
 | [AWOL](https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [AWOL](https://open.spotify.com/album/2h3pi4XeLI0OI5eu3IGaBr) | 3:35 | 2022-07-22 |  |
+| [aya](https://open.spotify.com/track/63IK5WSU4PJRlPWkNYIKZP) | [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [aya](https://open.spotify.com/album/2A6voGfhUhaF9fp6JlcMd3) | 3:44 | 2023-03-29 |  |
 | [Back For More](https://open.spotify.com/track/2ZNr0akG6bZggKDDI7PZAB) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Back For More](https://open.spotify.com/album/3FDe6WKhFluZ4qAu0Y90tI) | 3:39 | 2022-06-30 |  |
 | [Back To You](https://open.spotify.com/track/40ZIBWog1tqU5eaQH4Efdc) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Back To You](https://open.spotify.com/album/4oDFDTpIp2CQorDXd4nFsz) | 3:29 | 2022-11-25 |  |
 | [Bad Habit](https://open.spotify.com/track/39LleyvGIy48hCibZROiWD) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit](https://open.spotify.com/album/3lq84tIwKgWOnx0GNg2w1B) | 2:27 | 2023-03-24 |  |
 | [Beam \(ft\. Gabriella\)](https://open.spotify.com/track/0rE2636V6lX6xqlqILnRzS) | [Zeneth](https://open.spotify.com/artist/1Q0zpcJr81syOnC7SnbEGe), [Knoir](https://open.spotify.com/artist/7Knv331TlVGpUA1vRMZxZW), [Gabriella](https://open.spotify.com/artist/6SqSiJfIdigfPGJFq0DW9m) | [Beam \(ft\. Gabriella\)](https://open.spotify.com/album/2AfmqAi8KIlIEDvp98lYcx) | 3:34 | 2022-04-05 |  |
 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 | 2022-12-28 |  |
 | [Believe Me](https://open.spotify.com/track/1RtI5pMsCPuxoMzsk9etiE) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [JAMZ](https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ), [SIMONNE](https://open.spotify.com/artist/290WOVLmzJRsj8KJjDIEtD) | [Believe Me](https://open.spotify.com/album/78EOsgCPheBmkCwXtA1nbt) | 3:16 | 2022-08-04 |  |
+| [Blade Fury](https://open.spotify.com/track/0Ft0JLSiJ8IRPJeE3SHZK8) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW) | [Blade Fury](https://open.spotify.com/album/3KX7PcCiSCXOJO6vVErbTb) | 2:00 | 2023-03-30 |  |
 | [Blame It On Me](https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Blame It On Me](https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5) | 2:53 | 2022-09-01 |  |
 | [Blind Heart](https://open.spotify.com/track/13JoRkSnyap5xLLgJOZ6Dg) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [Blind Heart](https://open.spotify.com/album/4NL1J5S9Eucz3GEY0Tr9o1) | 2:25 | 2022-09-28 |  |
 | [Bloodpressure](https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB) | [Rogers & Dean](https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Bloodpressure](https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM) | 3:28 | 2022-10-14 |  |

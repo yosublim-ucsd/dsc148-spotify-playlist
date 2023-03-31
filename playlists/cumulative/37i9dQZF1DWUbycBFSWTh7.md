@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-159 songs - 15 hr 7 min
+160 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [This Beat](https://open.spotify.com/track/4onagusNvGUXp4OWSs13OM) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [This Beat EP](https://open.spotify.com/album/4SrNCRDDdBrzXI5ggewHcJ) | 2:56 | 2022-09-15 |  |
 | [Time To Smoke](https://open.spotify.com/track/2UwqX2RbyolszDlJnyqfWG) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Time To Smoke](https://open.spotify.com/album/7Fmb71wkVvWzNToQpklYu4) | 8:46 | 2022-11-10 | 2022-11-15 |
 | [Time To Smoke](https://open.spotify.com/track/0nXIRF7CP1a6pQocggvnDu) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/4CYp809RvpYL1gVuOvpfiV) | 8:46 | 2022-11-08 | 2022-11-13 |
-| [Time To Smoke](https://open.spotify.com/track/0yyjkRWv0FwNEDYiHZzJYn) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 8:46 | 2022-11-10 |  |
+| [Time To Smoke](https://open.spotify.com/track/0yyjkRWv0FwNEDYiHZzJYn) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 8:46 | 2022-11-10 | 2023-03-31 |
+| [Time To Smoke](https://open.spotify.com/track/685lvGCiR57tNoIZSZHyNX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo) | 8:46 | 2023-02-27 |  |
 | [Together We Rise](https://open.spotify.com/track/4sHYIG3VE8ZZKnf7lC5nFT) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [First Contact](https://open.spotify.com/album/4ULoeeCtktRn9rs6nf19jo) | 4:34 | 2022-11-10 |  |
 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 | 2022-09-15 | 2023-01-13 |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2022-09-15 |  |

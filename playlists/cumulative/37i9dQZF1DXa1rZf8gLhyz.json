@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Chemin de la lune",
+        "url": "https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP"
+      },
+      "artists": [
+        {
+          "name": "Neil Chapman Green",
+          "url": "https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129205,
+      "name": "Chemin de la lune",
+      "url": "https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ"
+    },
+    {
+      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
       },
@@ -1319,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Even The Stars Envy You",
+        "url": "https://open.spotify.com/album/2pJ5LiCawikMBLwHRdL1N7"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith",
+          "url": "https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141638,
+      "name": "Even the Stars Envy You",
+      "url": "https://open.spotify.com/track/4qRUqGrjmfp0Ng8ZLfNND5"
+    },
+    {
+      "album": {
         "name": "Evermore Street",
         "url": "https://open.spotify.com/album/1FOjdvtbdxKAAqB3FQ5Jg2"
       },
@@ -1658,6 +1694,42 @@
       "duration_ms": 182320,
       "name": "Grace #7",
       "url": "https://open.spotify.com/track/3B8IRT01MVf7v1iKBT6nv7"
+    },
+    {
+      "album": {
+        "name": "Happy Days",
+        "url": "https://open.spotify.com/album/7DIg6LQbbwVZNioht5hana"
+      },
+      "artists": [
+        {
+          "name": "Kim Winther",
+          "url": "https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177714,
+      "name": "Happy Days",
+      "url": "https://open.spotify.com/track/6OXbT5aTGZDURNRG9XBNi9"
+    },
+    {
+      "album": {
+        "name": "Have You Met Miss Jones",
+        "url": "https://open.spotify.com/album/2Jn4Vsvht7JcDihWent9iT"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Ambrosi",
+          "url": "https://open.spotify.com/artist/6xOxkOrdq0NoTTAIsrOVEB"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161784,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/3CNMWUJPO4LLndGl6RrSYR"
     },
     {
       "album": {
@@ -3443,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "Polka Dots And Moonbeams",
+        "url": "https://open.spotify.com/album/5Zx45mRq599ivk5YMI55Gx"
+      },
+      "artists": [
+        {
+          "name": "Cedar Wright",
+          "url": "https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229292,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/57vftsu5BB8muXDvzrMi0X"
+    },
+    {
+      "album": {
         "name": "prelude to a kiss",
         "url": "https://open.spotify.com/album/218dJkcubcykiRq5fUVovq"
       },
@@ -3458,6 +3548,24 @@
       "duration_ms": 261741,
       "name": "prelude to a kiss",
       "url": "https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE"
+    },
+    {
+      "album": {
+        "name": "Quiet Now",
+        "url": "https://open.spotify.com/album/33NWbG7zQYR3Fle9hw4JO2"
+      },
+      "artists": [
+        {
+          "name": "Roland Wilder",
+          "url": "https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168139,
+      "name": "Quiet Now",
+      "url": "https://open.spotify.com/track/6JciTIbmeoooRXZz741E8S"
     },
     {
       "album": {
@@ -4653,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "Times passed",
+        "url": "https://open.spotify.com/album/32jUZb2fxvTCchvt5FwNmE"
+      },
+      "artists": [
+        {
+          "name": "Montenegro Garner",
+          "url": "https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164515,
+      "name": "Times passed",
+      "url": "https://open.spotify.com/track/7EwupksVc4RcQW67OhlTs8"
+    },
+    {
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/5E4LIM4elfmb0vKJShZP7X"
       },
@@ -4826,7 +4952,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 271124,
       "name": "What's New",
       "url": "https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF"

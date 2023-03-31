@@ -4,7 +4,7 @@
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-503 songs - 1 day 10 hr 18 min
+504 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [England My Home](https://open.spotify.com/track/3B3wyJRrS7t4USKqYyhsrU) | [Levellers](https://open.spotify.com/artist/1TrwMxRrrlk0hZxJkw4jUF) | [Chaos Theory Live](https://open.spotify.com/album/6QGzaG2fOQgOtf7igpbmg6) | 5:15 | 2019-03-11 |  |
 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 | 2019-03-11 |  |
 | [Ever Fallen in Love \(With Someone You Shouldn't've\)?](https://open.spotify.com/track/4cHvNUjD8pzO8qNR8P5Gwl) | [Roger Daltrey](https://open.spotify.com/artist/5odf7hjI7hyvAw66tmxhGF), [The Datsuns](https://open.spotify.com/artist/2P6KPAphDMASmfHjnxSMmR), [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8), [Peter Hook](https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM), [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8), [El Presidente](https://open.spotify.com/artist/3oM6F3WLmGP5e8nPHVAzLy), [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Soledad Brothers](https://open.spotify.com/artist/4TAFRShd7vZ8HEp5yKdwo6) | [Ever Fallen in Love \(With Someone You Shouldn't've\)?](https://open.spotify.com/album/3RWRVqe3MESi2OuyqdXo4J) | 3:00 | 2019-03-11 |  |
-| [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/7i3DKOeA4rJ9SWn8OfvcZd) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 | 2019-03-11 |  |
+| [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 | 2019-03-11 |  |
 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 | 2019-03-11 |  |
 | [Everyday I Work on the Road \- Radio Edit](https://open.spotify.com/track/52bgukZKoIXhFT8srNkqXR) | [Voicst](https://open.spotify.com/artist/0kYxWyvbjsjFcc7aAAvbbl) | [Everyday I Work on the Road](https://open.spotify.com/album/49HIwcSd4N5fWyLqdtFC35) | 3:22 | 2019-03-11 |  |
 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 | 2019-03-12 |  |
@@ -358,7 +358,8 @@
 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 | 2019-03-11 |  |
 | [Rosie](https://open.spotify.com/track/69ODZ5WxYT8JLSddKBUjKE) | [Claw Boys Claw](https://open.spotify.com/artist/5t378xBMytAymycG84zIPv) | [Sugar](https://open.spotify.com/album/2ON43lpOS8y83gqmnbV5kF) | 4:24 | 2019-03-11 |  |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2019-03-11 |  |
-| [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4) | 3:24 | 2019-03-11 |  |
+| [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 | 2019-03-11 |  |
+| [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4) | 3:24 | 2019-03-11 | 2023-03-31 |
 | [Runaway Train \(2022 Remaster\)](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union \(2022 Remaster\)](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:26 | 2019-03-11 |  |
 | [Sajang É](https://open.spotify.com/track/6t6MsgqiPEQGC849NpYrZh) | [Massada](https://open.spotify.com/artist/1iYPhIT6I5iQ6WI1XirhYQ) | [De Jonge Jaren van Massada \- 50 Jaar Nederpop](https://open.spotify.com/album/7Ag3GdZ1uUuLMtJGTj89uo) | 4:22 | 2019-03-11 |  |
 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 | 2019-03-11 |  |

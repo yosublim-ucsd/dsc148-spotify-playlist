@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 113173,
+  "num_followers": 113306,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDA5ODUyMGE1MDBhYmRiMzFkNTBkYjMyNzMzOGI3YWUw",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDcwMDUxZmEwZjg4NGI0ZDc4ZWQyZmZkMDVlMzA1Y2Ni",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Safe in the Steep Cliffs",
         "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 250120,
       "name": "Rattlesnakes",
       "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Love Pussycats & Carwrecks",
-        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "Purrfect",
-      "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 277333,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Love Pussycats & Carwrecks",
+        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
+      },
+      "artists": [
+        {
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "Purrfect",
+      "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Apricot Morning",
-        "url": "https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Transatlantic",
-      "url": "https://open.spotify.com/track/3pJ0rv6o5HeIBWiO7mB1th"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "LemonJelly.ky",
         "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 440040,
       "name": "His Majesty King Raam",
       "url": "https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Apricot Morning",
+        "url": "https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Transatlantic",
+      "url": "https://open.spotify.com/track/3pJ0rv6o5HeIBWiO7mB1th"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Parts of the Process",
-        "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
-      },
-      "artists": [
-        {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "Part of the Process",
-      "url": "https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Hed Phone Sex",
         "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 441866,
       "name": "B Monkey",
       "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Parts of the Process",
+        "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 265293,
+      "name": "Part of the Process",
+      "url": "https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C"
     }
   ],
   "unique_name": "Chillout Classics",

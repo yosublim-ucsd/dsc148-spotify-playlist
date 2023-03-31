@@ -483,6 +483,32 @@
     },
     {
       "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "BassWar & CaoX",
+          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
+        },
+        {
+          "name": "HARRY",
+          "url": "https://open.spotify.com/artist/3KlBgpZwfiteVPV1KHzcfw"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
+    },
+    {
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/2CTx7HGQuhRZAu97bZ4ReU"
       },
@@ -1322,7 +1348,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 140800,
       "name": "Castle In The Sky",
       "url": "https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti"
@@ -1900,7 +1926,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 228800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw"
@@ -2086,6 +2112,24 @@
       "duration_ms": 248400,
       "name": "Das Boot",
       "url": "https://open.spotify.com/track/3dVVJDkYN8snyIICAvUbB0"
+    },
+    {
+      "album": {
+        "name": "Death Or Glory",
+        "url": "https://open.spotify.com/album/4hWYpsuKXpJ0YYRJAaAPFB"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221781,
+      "name": "Death Or Glory",
+      "url": "https://open.spotify.com/track/4PQ0ckfbPTkcxzFiIXAzG3"
     },
     {
       "album": {
@@ -2722,7 +2766,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 196896,
       "name": "Embracing The Madness",
       "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
@@ -4146,6 +4190,24 @@
       "duration_ms": 219200,
       "name": "Go Berzerk",
       "url": "https://open.spotify.com/track/6I3B1N6a5MB14HlqE9e73u"
+    },
+    {
+      "album": {
+        "name": "GO CRAZY",
+        "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "GO CRAZY",
+      "url": "https://open.spotify.com/track/4lj6c7zEcP6M03gjnybbzj"
     },
     {
       "album": {
@@ -5626,7 +5688,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 175496,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/2qD7jGzVXhPKr5zAv8CysM"
@@ -5692,7 +5754,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 178064,
       "name": "Ketamine Klappers",
       "url": "https://open.spotify.com/track/0MD8hVm6rOZ6HykEdxdk7m"
@@ -5714,7 +5776,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 229940,
       "name": "Killer",
       "url": "https://open.spotify.com/track/6jOnJuuHrAo8TER3UhfVsN"
@@ -6572,7 +6634,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 188008,
       "name": "Million Dreams",
       "url": "https://open.spotify.com/track/0yHP5chOwBC6BUWXPIxQcc"
@@ -6792,7 +6854,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 192014,
       "name": "My Beautiful Fantasy",
       "url": "https://open.spotify.com/track/0BAsf69u0gltlMFYMADpAn"
@@ -8545,6 +8607,28 @@
     },
     {
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/21TdAkXFQ1PHhUbjLgHC5U"
+      },
+      "artists": [
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        },
+        {
+          "name": "Mental Theo",
+          "url": "https://open.spotify.com/artist/3dOyTnBq9jKfRXJlJlddQq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146997,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/2LfLW1E8kN6He5nDog7aCl"
+    },
+    {
+      "album": {
         "name": "Rooftop (Jordiz Remix)",
         "url": "https://open.spotify.com/album/2aoSEx5cv3XNolGmCvskbv"
       },
@@ -10014,7 +10098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 212800,
       "name": "The 9th Gate",
       "url": "https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG"
@@ -11166,7 +11250,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 222400,
       "name": "Us Against The World (Da Tweekaz Remix)",
       "url": "https://open.spotify.com/track/3uJnYKR844kT7MLpm0cquz"

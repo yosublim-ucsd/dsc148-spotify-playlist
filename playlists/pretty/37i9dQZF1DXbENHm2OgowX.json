@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 31915,
+  "num_followers": 31985,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMDE4OWM4YmM5ODVkYTAzNjVjN2I5ODg5ZjYwMTk4ZTM0",
+  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMGM3NDZhNTI5YTQxYTVmMzBjODk4MzAzMDJlMzUwYmVl",
   "tracks": [
     {
       "added_at": "2023-01-20 15:04:59",
@@ -75,8 +75,8 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "stardust",
-        "url": "https://open.spotify.com/album/5AAp97h2IQKCe94W5Wgsy3"
+        "name": "psych ward valentine",
+        "url": "https://open.spotify.com/album/4FESVxhaPJwyDThjEs4hkG"
       },
       "artists": [
         {
@@ -86,7 +86,7 @@
       ],
       "duration_ms": 190250,
       "name": "stardust",
-      "url": "https://open.spotify.com/track/71M0d7047A3ZLTQSKZt94p"
+      "url": "https://open.spotify.com/track/2foA23OBrzFfhzrmLaFaCW"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
+        "name": "Earthbound Transmissions",
+        "url": "https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h"
+      },
+      "artists": [
+        {
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "River Whispering Run",
+      "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
         "name": "Set the Weather Fair: Seasons",
         "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 396773,
       "name": "Gold of the Azure - Marconi Union Remix",
       "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "Earthbound Transmissions",
-        "url": "https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h"
-      },
-      "artists": [
-        {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "River Whispering Run",
-      "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
-      "added_at": "2023-03-30 01:22:37",
+      "added_at": "2023-03-31 01:01:44",
       "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Dark Spring",
+      "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 315284,
       "name": "As I Came Through the Desert Thus It Was",
       "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Dark Spring",
-      "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
     },
     {
       "added_at": "2023-01-20 15:04:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,079 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,121 likes - 22 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 | 6 | [Stoned Love \- Single Version](https://open.spotify.com/track/03IOfDZjjJNG8lDrpEB0ZS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/7bPBdkx7Vm2vqDkwnfNlg8) | 2:57 |
 | 7 | [He Ain't Heavy, He's My Brother](https://open.spotify.com/track/70n6myJfcm0dOmqbu9iA4l) | [David Ruffin](https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR), [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [I Am My Brother's Keeper \- Expanded Edition](https://open.spotify.com/album/0ZSBkSovYAg7DxQQ8119tK) | 4:04 |
 | 8 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
-| 9 | [Message From A Black Man \- Stereo](https://open.spotify.com/track/7uwymVAAwqC5VI5IUkGt6s) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Psychedelic Soul](https://open.spotify.com/album/5zPOHYH3syqB7vMfo6hs6G) | 6:04 |
+| 9 | [Message From A Black Man](https://open.spotify.com/track/7uwymVAAwqC5VI5IUkGt6s) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Psychedelic Soul](https://open.spotify.com/album/5zPOHYH3syqB7vMfo6hs6G) | 6:04 |
 | 10 | [Brother's Gonna Work It Out \- The Mack/Soundtrack Version](https://open.spotify.com/track/1haurWCw5Yb1oP8xNQTfCV) | [Willie Hutch](https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD) | [The Mack \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0iOSxNFl6YhVjWxlzyq5T1) | 4:47 |
 | 11 | [My People...Hold On](https://open.spotify.com/track/5zKAlrdrdEkBkylhwT3cqH) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 5:40 |
 | 12 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:13 |

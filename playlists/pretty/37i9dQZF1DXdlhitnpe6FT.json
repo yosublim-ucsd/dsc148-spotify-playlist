@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 150667,
+  "num_followers": 150742,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDNmZmMwMGM1NjJmMDFhYzFiZTA5MDBmNGNlYmYxOGU5",
+  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDQxMjBlODQ0ZTgwNWM2NDQ5YmQzNThjYTk4MDFiNWQz",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sail Along Silv'ry Moon",
-        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 129680,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "In quintetto",
         "url": "https://open.spotify.com/album/6QRGjKHm12bdXFE2SJD7Rb"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 291996,
       "name": "La vita \u00e8 bella",
       "url": "https://open.spotify.com/track/7ob7mrVX7FEQIT2gSClVtA"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Sail Along Silv'ry Moon",
+        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 129680,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look for a Star",
-        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 135993,
-      "name": "Look for a Star",
-      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Fandango",
         "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 221174,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Look for a Star",
+        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 135993,
+      "name": "Look for a Star",
+      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -691,18 +691,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
       },
       "artists": [
         {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+      "duration_ms": 153346,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La Paloma",
-        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
       },
       "artists": [
         {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 153346,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -811,22 +811,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
       },
       "artists": [
         {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        },
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 260200,
-      "name": "Lily Was Here (feat. Candy Dulfer)",
-      "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -843,6 +839,26 @@
       "duration_ms": 234962,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+      },
+      "artists": [
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        },
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "Lily Was Here (feat. Candy Dulfer)",
+      "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -927,8 +943,8 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+        "name": "Orange Blossom Special And Wheels",
+        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
       },
       "artists": [
         {
@@ -936,9 +952,9 @@
           "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+      "duration_ms": 128785,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Orange Blossom Special And Wheels",
-        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 128785,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Temas Prohibidos del Cine",
         "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
-      },
-      "artists": [
-        {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
-        }
-      ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Danke Schoen - Helmut Zacharias",
         "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 145800,
       "name": "Claire",
       "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+      },
+      "artists": [
+        {
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
+        }
+      ],
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "First Cuckoo",
-        "url": "https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz"
-      },
-      "artists": [
-        {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Adam's Hotel",
-      "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
         "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 279320,
       "name": "M\u00e9lissa (de \"Bilitis\")",
       "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "First Cuckoo",
+        "url": "https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Adam's Hotel",
+      "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Latin-Esque",
-        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 186536,
-      "name": "Latin-Esque",
-      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Honeymoon in South America",
         "url": "https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 173616,
       "name": "Moon Over Montevideo",
       "url": "https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Latin-Esque",
+        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 186536,
+      "name": "Latin-Esque",
+      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Romantic Memories",
-        "url": "https://open.spotify.com/album/1Q8QtvjE9MDnEsA3D95ZjM"
+        "name": "Colecci\u00f3n de \u00c9xitos",
+        "url": "https://open.spotify.com/album/5iqRFuoGSCN6glQuBUhBHn"
       },
       "artists": [
         {
-          "name": "Anthony Ventura",
-          "url": "https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9"
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
         }
       ],
-      "duration_ms": 124240,
-      "name": "Last Waltz",
-      "url": "https://open.spotify.com/track/1OpaScCsFlq4tihFLEIZhu"
+      "duration_ms": 157022,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/3sseyXc0uWyhngxQxPQA8u"
     }
   ],
   "unique_name": "Golden Instrumentals",

@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 259040,
       "name": "90s",
       "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 350120,
       "name": "Ego",
       "url": "https://open.spotify.com/track/7uB6KGAyiz2fNmsYY2NdsX"
@@ -2549,6 +2549,28 @@
     },
     {
       "album": {
+        "name": "I Choose U (feat. RINI)",
+        "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202706,
+      "name": "I Choose U (feat. RINI)",
+      "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+    },
+    {
+      "album": {
         "name": "I Got Diplomas",
         "url": "https://open.spotify.com/album/4wol6rgjmq9Qr0KBubygGj"
       },
@@ -3000,7 +3022,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
@@ -3910,7 +3932,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 174440,
       "name": "Pieces ft Duckwrth",
       "url": "https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s"
@@ -5994,6 +6016,32 @@
       "duration_ms": 218764,
       "name": "Velvet (Remix) [feat. Lucky Daye] [from Insecure: Music From The HBO Original Series, Season 4]",
       "url": "https://open.spotify.com/track/2YZqTZTT2SCB3CYcO3AZ7c"
+    },
+    {
+      "album": {
+        "name": "Virgo (feat. Brandee Younger, Julius Rodriguez)",
+        "url": "https://open.spotify.com/album/1bOMTMO3847x39Tl9yvJyV"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518557,
+      "name": "Virgo (feat. Brandee Younger, Julius Rodriguez)",
+      "url": "https://open.spotify.com/track/6sN7bFaMaaIU986NPHqlor"
     },
     {
       "album": {

@@ -576,7 +576,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 223695,
       "name": "Aquece",
       "url": "https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc"
@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Serpentino",
+        "url": "https://open.spotify.com/album/4K4V9iG4mcGgJjd4vrCj3D"
+      },
+      "artists": [
+        {
+          "name": "Lucy Val",
+          "url": "https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Choro",
+      "url": "https://open.spotify.com/track/1wtUhw1rAMZpiPcBERS1l7"
+    },
+    {
+      "album": {
         "name": "Ciente Tamb\u00e9m Ama",
         "url": "https://open.spotify.com/album/4Vnwf8KlNEQ0Qc5bQvHoMD"
       },
@@ -1204,6 +1222,24 @@
       "duration_ms": 133224,
       "name": "Como eu",
       "url": "https://open.spotify.com/track/0Nl5o1LvEhrgJvS8FRxSH8"
+    },
+    {
+      "album": {
+        "name": "Como Ningu\u00e9m",
+        "url": "https://open.spotify.com/album/1uH4h5hzwDLmi4wDwVFWVl"
+      },
+      "artists": [
+        {
+          "name": "nastyfactor",
+          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173565,
+      "name": "Como Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/3EVZQ26xB4Z4Ky4aJZFDHe"
     },
     {
       "album": {
@@ -1784,10 +1820,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 181283,
       "name": "Don't Take Me Back",
       "url": "https://open.spotify.com/track/5ZrWoWMmeFQATS6rzacagW"
+    },
+    {
+      "album": {
+        "name": "Dona do Gang",
+        "url": "https://open.spotify.com/album/3oRCFj2tJ1r2Cux5gIjM2n"
+      },
+      "artists": [
+        {
+          "name": "Walter 4reignr",
+          "url": "https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194985,
+      "name": "Dona do Gang",
+      "url": "https://open.spotify.com/track/2cLNJR02ixyyu6L5eTZYYk"
     },
     {
       "album": {
@@ -2000,6 +2054,24 @@
       "duration_ms": 177124,
       "name": "EGOH",
       "url": "https://open.spotify.com/track/0wvvRPSaBPo0YEo2y0Nnkx"
+    },
+    {
+      "album": {
+        "name": "Eh",
+        "url": "https://open.spotify.com/album/6ygzizFzseHIKrWuTE0vns"
+      },
+      "artists": [
+        {
+          "name": "Westy",
+          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189023,
+      "name": "Eh",
+      "url": "https://open.spotify.com/track/5DVbWrpjCK4VPpiGhKXvcj"
     },
     {
       "album": {
@@ -3333,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Janela Aberta",
+        "url": "https://open.spotify.com/album/3EctdWL5JTPnjIhq3njjPz"
+      },
+      "artists": [
+        {
+          "name": "BudaF\u00e9",
+          "url": "https://open.spotify.com/artist/0OMJJOLTBdJBy2MEYnCSX5"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Janela Aberta",
+      "url": "https://open.spotify.com/track/2ys6BlpMmwkBUonOwUIRr6"
+    },
+    {
+      "album": {
         "name": "Jorge Mendes",
         "url": "https://open.spotify.com/album/0jkc34OGRBbCSWuz8Ft7lV"
       },
@@ -3534,7 +3624,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 231428,
       "name": "Lama",
       "url": "https://open.spotify.com/track/1O9Fy1FR7w2v6L0mfxZHYn"
@@ -4198,7 +4288,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 163887,
       "name": "Mira",
       "url": "https://open.spotify.com/track/4P8halZmD87IBnWNXLgWfO"
@@ -4372,6 +4462,24 @@
       "duration_ms": 220000,
       "name": "MUKA MUNDO, Pt.2",
       "url": "https://open.spotify.com/track/6VOhzSYCbPJY0oWiGpfuB0"
+    },
+    {
+      "album": {
+        "name": "MUTED",
+        "url": "https://open.spotify.com/album/4npu18lvzbBQFkKmTS1T9w"
+      },
+      "artists": [
+        {
+          "name": "Zalo",
+          "url": "https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165538,
+      "name": "MUTED",
+      "url": "https://open.spotify.com/track/5wcGg9WtDuScgT5Ev3MUKn"
     },
     {
       "album": {
@@ -5786,7 +5894,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 167923,
       "name": "P\u00b4ra Qu\u00ea?",
       "url": "https://open.spotify.com/track/637vvrn5yPjuk36L6p6av1"
@@ -5990,7 +6098,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 242627,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5AWW1r4OzIyXmxtcD3Kbci"
@@ -6088,6 +6196,24 @@
       "duration_ms": 205263,
       "name": "REVOLVER",
       "url": "https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj"
+    },
+    {
+      "album": {
+        "name": "RICKYBOBBY",
+        "url": "https://open.spotify.com/album/2T4xJYZQU4PuaQGC9GIZ5V"
+      },
+      "artists": [
+        {
+          "name": "ZA",
+          "url": "https://open.spotify.com/artist/5TtRsKNQQoP4po62oDREFn"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "RICKYBOBBY",
+      "url": "https://open.spotify.com/track/41pzVVRjNOb7pwqO2O8yP0"
     },
     {
       "album": {
@@ -6298,7 +6424,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 158368,
       "name": "SANTOS Freestyle",
       "url": "https://open.spotify.com/track/2el36MQD7IyDHAXq7NhKYV"
@@ -6316,7 +6442,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 133533,
       "name": "Sassutown",
       "url": "https://open.spotify.com/track/2MG4lz33Awo3Bt0jUyBRnH"
@@ -6400,6 +6526,28 @@
       "duration_ms": 189750,
       "name": "SAUDADE",
       "url": "https://open.spotify.com/track/2gKRe5wlOr7hwAYXIWTXeW"
+    },
+    {
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/1oEqwvcmoxw8dcWjqVucjI"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        },
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187682,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/1tMJTozkCDjpr0GHDQL7B4"
     },
     {
       "album": {
@@ -6719,6 +6867,24 @@
     },
     {
       "album": {
+        "name": "sombrero",
+        "url": "https://open.spotify.com/album/44741LBbRrfkVo7MxbJY86"
+      },
+      "artists": [
+        {
+          "name": "xtussy",
+          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228036,
+      "name": "sombrero",
+      "url": "https://open.spotify.com/track/5qEw0qCk0aDUqA9vrAMS64"
+    },
+    {
+      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/5kmrJzY3TS0ZkGUB0CvjoI"
       },
@@ -6792,7 +6958,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 147285,
       "name": "SPEED FREESTYLE",
       "url": "https://open.spotify.com/track/36LmGFTW2HLtcAYhMJ1U32"
@@ -7121,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "TIKI TAKA",
+        "url": "https://open.spotify.com/album/35BfHKk4U2qqhA3BEj6x2M"
+      },
+      "artists": [
+        {
+          "name": "Pedronumb",
+          "url": "https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151415,
+      "name": "TIKI TAKA",
+      "url": "https://open.spotify.com/track/1ha1LHd6yGfO6ihq9mOhq7"
+    },
+    {
+      "album": {
         "name": "Toma Nota",
         "url": "https://open.spotify.com/album/3R2YQ0hMkv7v2GujTrBnFj"
       },
@@ -7380,6 +7564,24 @@
       "duration_ms": 143466,
       "name": "Um Mais Um",
       "url": "https://open.spotify.com/track/6H5dHSlFPPw4YBoTE7qO9B"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/39PwtUwIWH7QoLli8lYOdi"
+      },
+      "artists": [
+        {
+          "name": "LOUIS DVART",
+          "url": "https://open.spotify.com/artist/1TL1qQoaFtWUt2D85hCOIl"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "V",
+      "url": "https://open.spotify.com/track/74J9zDuyFsz5VhJirO7FKQ"
     },
     {
       "album": {
@@ -7660,7 +7862,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 127477,
       "name": "Vida \u00e9 uma Life",
       "url": "https://open.spotify.com/track/6KlTIBMbDN39LQvCb4v9ru"
@@ -7758,7 +7960,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 120147,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/3dCiCqF57OdMhT9L46j5mM"

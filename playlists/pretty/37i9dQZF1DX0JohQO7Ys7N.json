@@ -1,13 +1,29 @@
 {
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg?si=L_TnsUhcTqutcsEV8Hpphg\">Merly Paige</a> ",
-  "num_followers": 14897,
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ?si=NFcKn9ptSQKDrBpayJhFQw\">Mutoriah</a> ",
+  "num_followers": 14935,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwNTE0MCwwMDAwMDAwMGMyN2UzNDljMzgwMTFkZjliNTFjNmZlODAwMTMzYTkw",
+  "snapshot_id": "MTY4MDIwOTk0MCwwMDAwMDAwMGI2YjM4MDU1Yzc5ZDg2MWI1NTFjZTg3NTZlNGM0OTY4",
   "tracks": [
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Nitangoja",
+        "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        }
+      ],
+      "duration_ms": 158479,
+      "name": "Nitangoja",
+      "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
+    },
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
@@ -27,8 +43,8 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Hivyo",
-        "url": "https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B"
+        "name": "Kesho Kutwa",
+        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
       },
       "artists": [
         {
@@ -36,25 +52,57 @@
           "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Hivyo",
-      "url": "https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw"
+      "duration_ms": 252623,
+      "name": "Kesho Kutwa",
+      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
     },
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Nitangoja",
-        "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
+        "name": "Aki Wewe",
+        "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
       },
       "artists": [
         {
-          "name": "Kinoti",
-          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+          "name": "Kwame R\u00edg\u00edi",
+          "url": "https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf"
         }
       ],
-      "duration_ms": 158479,
-      "name": "Nitangoja",
-      "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
+      "duration_ms": 267692,
+      "name": "Aki Wewe",
+      "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Qwarantunes",
+        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
+    },
+    {
+      "added_at": "2023-03-30 20:59:00",
+      "album": {
+        "name": "Wendo Mwaki - From Un-Adult-Erated",
+        "url": "https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM"
+      },
+      "artists": [
+        {
+          "name": "Tuku Kantu",
+          "url": "https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24"
+        }
+      ],
+      "duration_ms": 216172,
+      "name": "Wendo Mwaki - From Un-Adult-Erated",
+      "url": "https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -79,38 +127,6 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p"
-      },
-      "artists": [
-        {
-          "name": "mau from nowhere",
-          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Aki Wewe",
-        "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
-      },
-      "artists": [
-        {
-          "name": "Kwame R\u00edg\u00edi",
-          "url": "https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf"
-        }
-      ],
-      "duration_ms": 267692,
-      "name": "Aki Wewe",
-      "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
       },
@@ -131,8 +147,28 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Kesho Kutwa",
-        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
+        "name": "Pen & Paper",
+        "url": "https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Hook",
+          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Pen & Paper",
+      "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Hivyo",
+        "url": "https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B"
       },
       "artists": [
         {
@@ -140,25 +176,25 @@
           "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
         }
       ],
-      "duration_ms": 252623,
-      "name": "Kesho Kutwa",
-      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
+      "duration_ms": 198620,
+      "name": "Hivyo",
+      "url": "https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw"
     },
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Qwarantunes",
-        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p"
       },
       "artists": [
         {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
         }
       ],
-      "duration_ms": 262798,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
+      "duration_ms": 199090,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -179,26 +215,6 @@
       "duration_ms": 168000,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Pen & Paper",
-        "url": "https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        },
-        {
-          "name": "Hook",
-          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Pen & Paper",
-      "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -631,26 +647,6 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4Hu3aPRRM4bVU3kujeUT8H"
-      },
-      "artists": [
-        {
-          "name": "Pryshon",
-          "url": "https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w"
-        },
-        {
-          "name": "Wanjine",
-          "url": "https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe"
-        }
-      ],
-      "duration_ms": 207708,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
         "name": "Dark brown eyes",
         "url": "https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J"
       },
@@ -795,6 +791,46 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4Hu3aPRRM4bVU3kujeUT8H"
+      },
+      "artists": [
+        {
+          "name": "Pryshon",
+          "url": "https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w"
+        },
+        {
+          "name": "Wanjine",
+          "url": "https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe"
+        }
+      ],
+      "duration_ms": 207708,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/70ADS6R5K5AyVQWmOgaiAZ"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kay",
+          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
+        },
+        {
+          "name": "Mbithi",
+          "url": "https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/2n7w8jrTy842ypge1uoGxA"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
         "name": "A Side Of Me",
         "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
       },
@@ -823,26 +859,6 @@
       "duration_ms": 214200,
       "name": "Another",
       "url": "https://open.spotify.com/track/76IWDDiFRvh1KjmtwXSI7x"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/70ADS6R5K5AyVQWmOgaiAZ"
-      },
-      "artists": [
-        {
-          "name": "Wendy Kay",
-          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
-        },
-        {
-          "name": "Mbithi",
-          "url": "https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/2n7w8jrTy842ypge1uoGxA"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha"
-      },
-      "artists": [
-        {
-          "name": "Papa",
-          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
-        }
-      ],
-      "duration_ms": 149690,
-      "name": "sorry it didn't work out",
-      "url": "https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
         "name": "Nimetii",
         "url": "https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R"
       },
@@ -987,38 +987,6 @@
       "duration_ms": 175072,
       "name": "Nimetii",
       "url": "https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Drug",
-        "url": "https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF"
-      },
-      "artists": [
-        {
-          "name": "Bridget Blue",
-          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
-        }
-      ],
-      "duration_ms": 185208,
-      "name": "Drug",
-      "url": "https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "I Love the Way You",
-        "url": "https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72"
-      },
-      "artists": [
-        {
-          "name": "Basthma",
-          "url": "https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv"
-        }
-      ],
-      "duration_ms": 133833,
-      "name": "I Love the Way You",
-      "url": "https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -1075,6 +1043,22 @@
       "duration_ms": 188148,
       "name": "Sio Siri",
       "url": "https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Drug",
+        "url": "https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "duration_ms": 185208,
+      "name": "Drug",
+      "url": "https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU"
     }
   ],
   "unique_name": "NairoBae",

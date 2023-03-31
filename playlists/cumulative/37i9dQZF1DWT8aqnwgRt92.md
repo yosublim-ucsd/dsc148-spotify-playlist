@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-559 songs - 1 day 11 hr 37 min
+560 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,8 @@
 | [ひとりごつ \- バンドVer.](https://open.spotify.com/track/1lJxVW33lV1KDEN8sH9PSf) | [ハチワレ\(CV:田中 誠人\)](https://open.spotify.com/artist/61S5GoFsxHt9ZGOM55oVWe) | [ひとりごつ](https://open.spotify.com/album/1fL5U7EPRjkoXdz8zqEYTA) | 1:20 | 2022-06-13 | 2022-06-24 |
 | [ふたりピノキオ](https://open.spotify.com/track/0dJxpvpyvzKFhCJQTBFPXl) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [ふたりピノキオ](https://open.spotify.com/album/1Dcj7qqMLo1xYPYLpHVqbI) | 3:42 | 2022-07-14 | 2022-07-29 |
 | [またね](https://open.spotify.com/track/4f8MEWsOIymj4AIZs9VasU) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [またね](https://open.spotify.com/album/6cWyNSjyVH0Miq8FZ9ltEJ) | 3:59 | 2023-01-24 |  |
-| [めざせポケモンマスター \-with my friends\-](https://open.spotify.com/track/0nLGu3icAxmtS0KEvC1wOe) | [サトシ\(CV:松本梨香\)](https://open.spotify.com/artist/4W1d1c48W1NQZArFVHyQO8) | [ポケモンTVアニメ主題歌 BEST OF BEST OF BEST 1997\-2023 \(Selected Edition\)](https://open.spotify.com/album/6VW7oDVEYEBAGk9V0AOedH) | 4:06 | 2023-01-31 |  |
+| [めざせポケモンマスター \-with my friends \- from THE FIRST TAKE](https://open.spotify.com/track/0iuwg67YGJihSZlqbUMG4L) | [サトシ\(CV:松本梨香\)](https://open.spotify.com/artist/4W1d1c48W1NQZArFVHyQO8) | [めざせポケモンマスター \-with my friends \- from THE FIRST TAKE](https://open.spotify.com/album/17NXHPufEpCJGK8ueDtvf4) | 4:08 | 2023-03-30 |  |
+| [めざせポケモンマスター \-with my friends\-](https://open.spotify.com/track/0nLGu3icAxmtS0KEvC1wOe) | [サトシ\(CV:松本梨香\)](https://open.spotify.com/artist/4W1d1c48W1NQZArFVHyQO8) | [ポケモンTVアニメ主題歌 BEST OF BEST OF BEST 1997\-2023 \(Selected Edition\)](https://open.spotify.com/album/6VW7oDVEYEBAGk9V0AOedH) | 4:06 | 2023-01-31 | 2023-03-31 |
 | [もうひとくち](https://open.spotify.com/track/0OI5ER4W0AQr5YAdMKSIur) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [もうひとくち](https://open.spotify.com/album/5iGHRerQh0pBeI6JHOTUVM) | 3:56 | 2022-05-28 | 2022-07-27 |
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-05-28 | 2022-06-24 |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |

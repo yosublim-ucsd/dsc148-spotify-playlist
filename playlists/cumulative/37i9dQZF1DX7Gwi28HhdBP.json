@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 189152,
       "name": "Wallahy Ma Yanfaa",
       "url": "https://open.spotify.com/track/3AnnlxYSltiDIey3R4IRZK"
@@ -2216,6 +2216,24 @@
       "duration_ms": 297408,
       "name": "Yala Bara Mn Hayaty",
       "url": "https://open.spotify.com/track/5zUXH9sKfnGy6oIZSf2wkA"
+    },
+    {
+      "album": {
+        "name": "Zahmit Hayaty",
+        "url": "https://open.spotify.com/album/4BgsZvPh2AKXKOB82suKNc"
+      },
+      "artists": [
+        {
+          "name": "Moustafa Hagag",
+          "url": "https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257195,
+      "name": "Yamnana",
+      "url": "https://open.spotify.com/track/2dSBiSoVKqR16BxZnmanZv"
     },
     {
       "album": {

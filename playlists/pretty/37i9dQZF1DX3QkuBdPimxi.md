@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277 likes - 83 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308 likes - 83 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 21 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 22 | [Space Friends](https://open.spotify.com/track/31GeJjJyIVRNiW9AL8fERw) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits](https://open.spotify.com/album/4RWxjJqoAP90QbgzkQ3uyg) | 1:51 |
 | 23 | [The Sharing Song](https://open.spotify.com/track/1HrYaGXWzHQDZhQPk6C6ml) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Kids Songs: After School Fun!](https://open.spotify.com/album/3tAe0A2NzURsyNRrysCmFZ) | 2:45 |
-| 24 | [Mr\. Golden Sun](https://open.spotify.com/track/383D4yT1kW9tp5ibqVSMAH) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:13 |
+| 24 | [Mr\. Golden Sun](https://open.spotify.com/track/383D4yT1kW9tp5ibqVSMAH) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Finny the Shark](https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:13 |
 | 25 | [Let's Take a Rocketship to Space](https://open.spotify.com/track/1DAuRdoUEt3wEnhMfkEsiR) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas and Ferb](https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1) | 1:05 |
 | 26 | [The Planet Song](https://open.spotify.com/track/5FAI5aAGj7WFKMAdlx904u) | [Hopscotch Songs](https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x), [The Hoover Jam](https://open.spotify.com/artist/2l56XVHFv19M7Z39FO7IjU) | [The Planet Song](https://open.spotify.com/album/3fAbHn7PW6FKA0lzZLpRg0) | 3:51 |
 | 27 | [Spaceman Jam](https://open.spotify.com/track/1eNowQzDDCNzlInoAb8ybq) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v) | 2:11 |

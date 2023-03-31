@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-335 songs - 16 hr 52 min
+336 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,14 +23,14 @@
 | [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 | 2022-09-02 |  |
 | [After The Rain Has Fallen](https://open.spotify.com/track/0j7QCxrWopn9BaCvTY4EF8) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:33 | 2022-07-05 | 2023-03-04 |
 | [Against A Paler Sun](https://open.spotify.com/track/7yLum5NO3S84uFaKRnDbYV) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 2:20 | 2022-07-05 | 2023-03-10 |
-| [Against The Sky \- 2005 Digital Remaster](https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:52 | 2022-07-05 |  |
+| [Against The Sky \- 2005 Digital Remaster](https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:52 | 2022-07-05 | 2023-03-31 |
 | [aldrei endar elskan](https://open.spotify.com/track/0ov4xf6xaae92Ob0fppnSv) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [aldrei endar elskan](https://open.spotify.com/album/5daP5cHf9iBMspEtYajoFh) | 2:57 | 2022-07-05 |  |
 | [Align](https://open.spotify.com/track/5Nawyr4KZXikRk0ULZyBOY) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Align](https://open.spotify.com/album/3wkDTcaSDlCjoJ26BMucVD) | 3:35 | 2022-11-11 |  |
 | [All Rivers](https://open.spotify.com/track/5bw8YBybhZA37RZKjZ2voM) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [All Rivers](https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91) | 3:57 | 2022-07-05 | 2023-03-04 |
 | [Alterations](https://open.spotify.com/track/4IHpo5zDsNoT33clCtL24b) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Alterations](https://open.spotify.com/album/6CBggUkHr6HPMDMYvp0Xqm) | 2:31 | 2022-07-05 |  |
 | [Among The Clouds](https://open.spotify.com/track/1R4Z8BFmI4oLygCOjFj3kq) | [The Ambientalist](https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj) | [Among The Clouds](https://open.spotify.com/album/5rk8Iv0CB5ivtxeiRgUxVB) | 5:01 | 2022-07-05 | 2022-11-23 |
 | [Amoralis](https://open.spotify.com/track/2mTpYXCPuy7FVLyi958Qpl) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Amoralis](https://open.spotify.com/album/1O1xjqTSjZzCmAMIGNYYwg) | 4:13 | 2022-07-05 |  |
-| [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2022-07-05 |  |
+| [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2022-07-05 | 2023-03-31 |
 | [Angelical](https://open.spotify.com/track/6ESl6rt4YenKE7XJuv4LTN) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Know Yourself](https://open.spotify.com/album/0Xhp6naFew0khbul6bzuNt) | 2:30 | 2022-07-05 |  |
 | [Another Forest](https://open.spotify.com/track/5zV2bqDZ0MsjcVMHRGQ507) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Not Even In Dreams](https://open.spotify.com/album/46cDKYGzPmhdfVKlQgJ0VA) | 3:53 | 2022-07-05 | 2022-07-29 |
 | [Another Forest](https://open.spotify.com/track/7fVDQRwi4mJ0kPnvG9I7qW) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Not Even In Dreams](https://open.spotify.com/album/02VME3JiyaS0bVBPVh2WuM) | 3:53 | 2022-07-05 | 2023-02-10 |
@@ -177,7 +177,7 @@
 | [Life From Above](https://open.spotify.com/track/5t2EOrgbyupZmjFUROk1E0) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Life From Above](https://open.spotify.com/album/5W2etau8vKbNwCy0UGxJEj) | 2:25 | 2022-09-13 |  |
 | [Light in the Attic](https://open.spotify.com/track/5j7GcmiP6EuarM5DYwu5Et) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Light in the Attic](https://open.spotify.com/album/2rop9Z5oSSUDYt3gLjC4tu) | 2:23 | 2022-07-05 | 2022-07-29 |
 | [Light in the Attic](https://open.spotify.com/track/76Mxq4TEnB2dMzZ0FaWAS9) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Light in the Attic](https://open.spotify.com/album/4h8TBOpFKCjVAjBn1vmics) | 2:23 | 2022-07-05 | 2023-02-10 |
-| [Lighthouses](https://open.spotify.com/track/5T6VEFbP1ZgnQ9wqaD20Uy) | [Felix Werner](https://open.spotify.com/artist/3Ca0AyhocUD897XBmjixrN) | [Lighthouses](https://open.spotify.com/album/2S4C1NZvMZwGspJkqD11xH) | 3:07 | 2022-07-05 |  |
+| [Lighthouses](https://open.spotify.com/track/5T6VEFbP1ZgnQ9wqaD20Uy) | [Felix Werner](https://open.spotify.com/artist/3Ca0AyhocUD897XBmjixrN) | [Lighthouses](https://open.spotify.com/album/2S4C1NZvMZwGspJkqD11xH) | 3:07 | 2022-07-05 | 2023-03-31 |
 | [Liquid Breath 46 \- 494](https://open.spotify.com/track/14qQVSGcxvPJ5oclFIgKDb) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Stress Relief](https://open.spotify.com/album/0P4K45Zrhzo1cYcksMKz5H) | 3:20 | 2022-07-05 |  |
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2022-07-05 |  |
 | [Love Yourself](https://open.spotify.com/track/1qpLsOZLSvLH9rGwlz50Mw) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Love Yourself](https://open.spotify.com/album/64EmY2V8L3f6RsVdf6RL7x) | 2:46 | 2022-07-05 |  |
@@ -237,6 +237,7 @@
 | [Quiet Sun](https://open.spotify.com/track/6UmFPxEJ4b8R7ohfgUWosU) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Quiet Sun](https://open.spotify.com/album/0kwqAhKCk5l0nuO5VJ9fnL) | 3:28 | 2022-07-05 | 2022-11-23 |
 | [Quiet Times](https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Quiet Times](https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5) | 2:53 | 2022-07-05 |  |
 | [Rachel Talks To Roses](https://open.spotify.com/track/3E94GubY97lT8zQHKpPOAW) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Sparkles](https://open.spotify.com/album/1XQuLySsbrFuKnGjsdpI8r) | 3:30 | 2022-07-05 |  |
+| [Rainbow Days](https://open.spotify.com/track/6mY7TTC8qzOURWVNjdiB03) | [Janinan.](https://open.spotify.com/artist/7tj72nDddYtKjWHdQ7YadH) | [Pantrana Calm](https://open.spotify.com/album/2wc8UqKag2QJgjtENEcCMW) | 3:14 | 2023-03-30 |  |
 | [Raindrops in my heart](https://open.spotify.com/track/4dsIYysg4UCK4QmT71F5pW) | [Stephan Berg](https://open.spotify.com/artist/17uFWG2FVYgtw7fUhgGo7G) | [Raindrops in my heart](https://open.spotify.com/album/7sAMmRYHvQ6LtaDXyLKBjc) | 2:45 | 2022-07-05 | 2023-03-10 |
 | [Real Life](https://open.spotify.com/track/0fOLClKBd68VKRLbdp4JnZ) | [Boris Lafont](https://open.spotify.com/artist/7m3B2cd9TyrqbYIrZPm7Ye) | [Real Life](https://open.spotify.com/album/39nb5sz313dqFUFcL1xaKh) | 2:14 | 2022-07-05 | 2022-11-23 |
 | [Real Life](https://open.spotify.com/track/678as83LbwuAzcEMynQUon) | [Boris Lafont](https://open.spotify.com/artist/7m3B2cd9TyrqbYIrZPm7Ye) | [Real Life](https://open.spotify.com/album/775MetYoD6Fo5TxD58H6QO) | 2:14 | 2022-07-05 | 2022-07-29 |

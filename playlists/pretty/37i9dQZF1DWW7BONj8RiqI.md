@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Curated by <a href="https://myepiccarnival.com/">EPIC Carnival Experience</a> \- your premium experience to the Greatest Show On Earth\. Featuring a taste of the best Soca songs ever created!
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,839 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,889 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

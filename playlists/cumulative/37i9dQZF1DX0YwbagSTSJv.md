@@ -4,7 +4,7 @@
 
 > Let it all go and lift yourself up with inspiring ambient music.
 
-156 songs - 8 hr 54 min
+157 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 | 2021-12-23 |  |
 | [Brightest Blue](https://open.spotify.com/track/2e7bUVyj8XHkxQ3IKCyrMh) | [Leviticus Orion](https://open.spotify.com/artist/51fbzRiBO68g0TAVdw9B50) | [Brightest Blue](https://open.spotify.com/album/7d3sWCM4E49hHDmQUStSpC) | 3:38 | 2021-12-23 | 2023-02-10 |
 | [Bring Us Back](https://open.spotify.com/track/59Vt25MOgFp1CkzdRFzMJP) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Bring Us Back](https://open.spotify.com/album/6oUu8OWwS3L9YPYleN2Ofu) | 2:38 | 2022-08-15 |  |
-| [Calibration of Time](https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Calibration of Time](https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW) | 3:20 | 2021-12-23 |  |
+| [Calibration of Time](https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Calibration of Time](https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW) | 3:20 | 2021-12-23 | 2023-03-31 |
 | [Calm & Centered](https://open.spotify.com/track/6tnH44Kpqdt0kpZbmZYY24) | [Divinioso](https://open.spotify.com/artist/6Zh8cnbJ69ONeH5eDcUqpR) | [Calm & Centered](https://open.spotify.com/album/3aGnNxSM2Ibd8VXTMK9opd) | 3:22 | 2023-02-24 |  |
 | [Calm Embrace](https://open.spotify.com/track/5rMCyc5FUpkpAx2MIB9Bja) | [Esa Plant](https://open.spotify.com/artist/0QQlMFDABAtm2cdSGJdB4p) | [Calm Embrace](https://open.spotify.com/album/0ECjtVkMi9MHOwrDdsi3eo) | 2:56 | 2021-12-23 | 2023-02-10 |
 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 | 2021-12-23 |  |
@@ -65,6 +65,7 @@
 | [Finding Neverness](https://open.spotify.com/track/2Z76YJ8By50mep2bAonJ2Y) | [Amfora](https://open.spotify.com/artist/3H2cJb9BM31dAoETDvzosL) | [Gentle Sleep](https://open.spotify.com/album/267UdQxOhHcrW7ddx7lAjJ) | 3:25 | 2021-12-23 | 2022-09-03 |
 | [Fleuriste](https://open.spotify.com/track/5vX23o6aI02aIT5EiB4WSV) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Fleuriste](https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa) | 3:43 | 2022-09-13 |  |
 | [Floating Peace](https://open.spotify.com/track/1vpzs2y4nduldNWjJdPMQ6) | [Ee Ve](https://open.spotify.com/artist/18NItzXyxJgwcsJ6skOoPb) | [Transcend](https://open.spotify.com/album/12DfL5OyYopS4UqF8AgCyq) | 3:34 | 2021-12-23 |  |
+| [footprints](https://open.spotify.com/track/6igbt5hvZzH4kMliXPH6Ha) | [Hillside Dreams](https://open.spotify.com/artist/28ARkny6d5xO2f45bbhwJr) | [footprints](https://open.spotify.com/album/6pI4II27jxuVYVQIrAoiZL) | 2:38 | 2023-03-31 |  |
 | [Free Air](https://open.spotify.com/track/2bzmMxleX0343iCXyim9cI) | [Michael Arigato](https://open.spotify.com/artist/1GmOmktidNKbqV9Wbvqwyv) | [Forevermore](https://open.spotify.com/album/0tcUR682Jq6YI3Bs53i6j2) | 3:08 | 2022-09-02 |  |
 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-09 |  |
 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 | 2021-12-23 |  |

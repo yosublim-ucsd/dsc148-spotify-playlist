@@ -2,7 +2,7 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Marea.
+> Lo mejor del rock de aquí, como Jarabe de Palo.
 
 236 songs - 15 hr 39 min
 
@@ -232,7 +232,7 @@
 | [Un Poco de Amor](https://open.spotify.com/track/59gm4EA48jXDNrvfDGNlj4) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Un Poco de Amor](https://open.spotify.com/album/3kZtuPCnTQAy9IgTmxqi98) | 3:24 | 2022-05-19 | 2022-06-24 |
 | [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 | 2022-06-27 |
 | [Una Noche Sin Ti](https://open.spotify.com/track/3oUITstGqQVTlFyF32H1Un) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:19 | 2022-06-09 | 2022-07-13 |
-| [Urgente](https://open.spotify.com/track/6skMg3jxXmP2rYp5k7IIcY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Urgente](https://open.spotify.com/album/67ni11vAsCYVVuZgPkeigJ) | 4:19 | 2023-03-16 |  |
+| [Urgente](https://open.spotify.com/track/6skMg3jxXmP2rYp5k7IIcY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Urgente](https://open.spotify.com/album/67ni11vAsCYVVuZgPkeigJ) | 4:19 | 2023-03-16 | 2023-03-31 |
 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:42 | 2022-05-26 |  |
 | [Volando en círculos](https://open.spotify.com/track/3DsVJcC0vbrVogSnClLEWp) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Trece](https://open.spotify.com/album/612vcTVFD6ELo7NF3Xet1U) | 4:14 | 2022-09-15 | 2022-10-07 |
 | [Voy a pasármelo bien](https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 3:55 | 2022-05-26 |  |
@@ -240,7 +240,7 @@
 | [Y por Ejemplo, Quererte](https://open.spotify.com/track/17fT59JQs07VN5z3n45Oro) | [Los Cucas](https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW) | [Y por Ejemplo, Quererte](https://open.spotify.com/album/5soOia0YPvc1CdT6swJwjr) | 3:40 | 2022-05-19 | 2022-05-27 |
 | [Y volar \(con los Caligaris\)](https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ahora o nunca](https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD) | 3:09 | 2022-05-19 |  |
 | [Yo quiero bailar](https://open.spotify.com/track/4jY0UQJeRCudRQyzlGqoJD) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Yo quiero bailar](https://open.spotify.com/album/5QIvM7ivpXmJVU8hZ7nQio) | 2:55 | 2022-05-19 | 2022-05-27 |
-| [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD) | [Jaime Urrutia](https://open.spotify.com/artist/21gW1NJCe2sHZ485DBDNlb), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3) | 3:46 | 2022-05-19 | 2023-03-29 |
+| [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD) | [Jaime Urrutia](https://open.spotify.com/artist/21gW1NJCe2sHZ485DBDNlb), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3) | 3:46 | 2022-05-19 |  |
 | [Ángeles y Demonios](https://open.spotify.com/track/6kHPDIt9xOz5BWux4W3lkg) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Ángeles y Demonios](https://open.spotify.com/album/2RNqqNCMsxHAlxQfnChDEk) | 2:59 | 2022-06-23 | 2022-07-08 |
 | [Ícaros](https://open.spotify.com/track/79CTR3WOnaW3XzDQPdIfQh) | [el nido](https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka), [David Ruiz](https://open.spotify.com/artist/7aEuYgBWaCWbwnSld4LDIN) | [Ícaros](https://open.spotify.com/album/1eOouRCYNWwTYcE6qAZY3P) | 2:45 | 2022-11-24 | 2022-12-09 |
 | [Últimas Voluntades \- Canción Original De La Película](https://open.spotify.com/track/5A1iJXWsLLHZvpYPMQ5rRQ) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Últimas Voluntades \(Canción Original De La Película\)](https://open.spotify.com/album/5JxqDLN2I5bdXtFEnduaNY) | 3:46 | 2023-03-23 |  |

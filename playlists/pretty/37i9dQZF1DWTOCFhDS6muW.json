@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 18615,
+  "num_followers": 18624,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGI4MjY4MTJiZjI1ZjAwNWQzNDFlMDBjNDlkMTA3M2M5",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGE4OTE4ZmQ0YTM4N2RmMzY2YWUwMGM0ZGRkODQxMzZm",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -119,8 +119,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Fiesta de Punta USA",
-        "url": "https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s"
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
       },
       "artists": [
         {
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 268560,
-      "name": "El Amor de una Rosa",
-      "url": "https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt"
+      "duration_ms": 248894,
+      "name": "Punta Raton - Remix",
+      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 3",
-        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
+        "name": "Puro \u00c9xitos: Las Chicas Rolands",
+        "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
         }
       ],
-      "duration_ms": 248894,
-      "name": "Punta Raton - Remix",
-      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
+      "duration_ms": 203160,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -283,18 +283,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Puro \u00c9xitos: Las Chicas Rolands",
-        "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
+        "name": "Batalla de las Puntas, Vol. 8",
+        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
       },
       "artists": [
         {
-          "name": "Las Chicas Rolands",
-          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 203160,
-      "name": "Pai",
-      "url": "https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij"
+      "duration_ms": 325668,
+      "name": "Kazzabe Si Sabe",
+      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -399,22 +399,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 8",
-        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
-        }
-      ],
-      "duration_ms": 325668,
-      "name": "Kazzabe Si Sabe",
-      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "L\u00e1ndini",
         "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
       },
@@ -479,58 +463,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/1vEUcr8MsYafqKDkSF4ptW"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 443520,
-      "name": "Puntas Garifunas Criollas",
-      "url": "https://open.spotify.com/track/1dIQDYKOOoE4GuUXO5ReV9"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Puntas Garifunas Con Cache",
-        "url": "https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l"
-      },
-      "artists": [
-        {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
-        },
-        {
-          "name": "MC Productions",
-          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "Dona Amidi",
-      "url": "https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
-      },
-      "artists": [
-        {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
-        }
-      ],
-      "duration_ms": 205072,
-      "name": "Nafagua",
-      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Quemala",
         "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
@@ -567,18 +499,38 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+        "name": "Batalla de las Puntas, Vol. 10",
+        "url": "https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I"
       },
       "artists": [
         {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 255906,
-      "name": "Imagenes",
-      "url": "https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH"
+      "duration_ms": 230870,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Puntas Garifunas Con Cache",
+        "url": "https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Dona Amidi",
+      "url": "https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -599,6 +551,38 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "duration_ms": 205072,
+      "name": "Nafagua",
+      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "Imagenes",
+      "url": "https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Baila Baila",
         "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
       },
@@ -611,22 +595,6 @@
       "duration_ms": 113475,
       "name": "Vamos Vamos Todos Con la Seleccion",
       "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 10",
-        "url": "https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 230870,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -651,6 +619,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Va Ca\u00f1on!",
+        "url": "https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 238184,
+      "name": "Otro Amor Llego",
+      "url": "https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Pobre Marinero",
         "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+        "name": "La Ametralladora",
+        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
       },
       "artists": [
         {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
         }
       ],
-      "duration_ms": 166557,
-      "name": "Mira Honduras",
-      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
+      "duration_ms": 154476,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Bunabou Live",
+        "url": "https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc"
+      },
+      "artists": [
+        {
+          "name": "Xcstacy",
+          "url": "https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi"
+        }
+      ],
+      "duration_ms": 449201,
+      "name": "Bunabou Live - Live",
+      "url": "https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF"
     }
   ],
   "unique_name": "Punta",

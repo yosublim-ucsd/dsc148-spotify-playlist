@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDk1ZTkwMDkwNzgyMjI0M2ZkMmMxNWMxMzk1NDk3MDAy",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMGYwNWVlYjQwMTAyM2E0ZmExOWQ0YzJlZjU2YWZjMjY0",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Gentlemen Take Polaroids",
-        "url": "https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW"
-      },
-      "artists": [
-        {
-          "name": "Japan",
-          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "The Experience Of Swimming - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 256401,
       "name": "Sick Times",
       "url": "https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Gentlemen Take Polaroids",
+        "url": "https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "The Experience Of Swimming - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2"
     },
     {
       "added_at": "2022-07-06 17:58:03",

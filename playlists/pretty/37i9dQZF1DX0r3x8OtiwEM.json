@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 844271,
+  "num_followers": 844821,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDcyMDQ4MjQ0YTE3MzIzZTNkODZhOWE4NmU4NjUxZjI3",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGVkY2Q1ODM5ZjQ1MWI5NDhhOTNjYWU4ZTNiNDUwYjgx",
   "tracks": [
     {
       "added_at": "2023-01-13 13:30:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "The Mirage EP",
-        "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 371903,
-      "name": "The Mirage",
-      "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Apricots",
         "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 246506,
       "name": "Apricots",
       "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "The Mirage EP",
+        "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 371903,
+      "name": "The Mirage",
+      "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47"
     },
     {
-      "added_at": "2023-03-30 00:25:35",
+      "added_at": "2023-03-31 00:20:21",
       "album": {
         "name": "Keep Going",
         "url": "https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo"
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     }
   ],
   "unique_name": "Lowkey Tech",

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "The Ripverse",
+        "url": "https://open.spotify.com/album/4ym0hEJbyudABFyDGVcxWh"
+      },
+      "artists": [
+        {
+          "name": "Fractured Moons",
+          "url": "https://open.spotify.com/artist/0jOT2t9HcoueZ4JEDoY2IC"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "A Forgotten Realm",
+      "url": "https://open.spotify.com/track/19jXK8ehvuhMZ7oTsWuZFZ"
+    },
+    {
+      "album": {
         "name": "A Night In Magnesia",
         "url": "https://open.spotify.com/album/2iCikcgsEW5tpdPuIUvvZ2"
       },
@@ -1234,6 +1252,24 @@
       "duration_ms": 146666,
       "name": "Club Row",
       "url": "https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7"
+    },
+    {
+      "album": {
+        "name": "coffee and blankets",
+        "url": "https://open.spotify.com/album/5nPvRD5FAnZIkgHdidViWi"
+      },
+      "artists": [
+        {
+          "name": "Chill Collusion",
+          "url": "https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "coffee and blankets",
+      "url": "https://open.spotify.com/track/0qgvgNiQu76lnDRKqREj5h"
     },
     {
       "album": {
@@ -3520,7 +3556,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 130169,
       "name": "Lacando",
       "url": "https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI"
@@ -7024,6 +7060,24 @@
       "duration_ms": 250714,
       "name": "Totoro Talk (To Me)",
       "url": "https://open.spotify.com/track/1EWoiQJwIOtjm0fQD9CYFo"
+    },
+    {
+      "album": {
+        "name": "tranqui:lo",
+        "url": "https://open.spotify.com/album/2q9UZqdJnGHRKMECJrD6tQ"
+      },
+      "artists": [
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "tranqui:lo",
+      "url": "https://open.spotify.com/track/3Ttl1GUMPsOHKrM9sGTbMB"
     },
     {
       "album": {

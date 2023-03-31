@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Achis achis los mariachis! ",
-  "num_followers": 16495,
+  "num_followers": 16514,
   "original_name": "Mariachi Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYwMjgwMSwwMDAwMDAwMDZhNzMzMDRkMzFjMjFjYjAzMGFjMGRlYmQwYTM0ZWQ0",
+  "snapshot_id": "MTY3NDYwMjgwMSwwMDAwMDAwMDY5MWYxMmQ5Y2ZhOGYxN2Y0MTc5NzMyZTM4NzYzYjQ5",
   "tracks": [
     {
       "added_at": "2023-01-24 23:26:41",
@@ -43,8 +43,8 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
+      "duration_ms": 213733,
+      "name": "Como Quien Pierde una Estrella",
+      "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -123,8 +123,8 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 213733,
-      "name": "Como Quien Pierde una Estrella",
-      "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
+      "duration_ms": 229053,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Exitos De Chava Flores",
-        "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
-      },
-      "artists": [
-        {
-          "name": "Chava Flores Con Mariachi Azteca Y Grupo La Miel",
-          "url": "https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Los Gorrones",
-      "url": "https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
         "name": "Dulce Da\u00f1o",
         "url": "https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 296066,
       "name": "Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui",
       "url": "https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Exitos De Chava Flores",
+        "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
+      },
+      "artists": [
+        {
+          "name": "Chava Flores Con Mariachi Azteca Y Grupo La Miel",
+          "url": "https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Los Gorrones",
+      "url": "https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Exitos De Chava Flores",
-        "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
-      },
-      "artists": [
-        {
-          "name": "Chava Flores Con Mariachi Azteca Y Grupo La Miel",
-          "url": "https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS"
-        }
-      ],
-      "duration_ms": 129426,
-      "name": "El gato Viudo",
-      "url": "https://open.spotify.com/track/6bdqRGViPQGT16RNpKFzhh"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
         "name": "Tesoros De Coleccion - Eleazar Garcia \"Chelelo\"",
         "url": "https://open.spotify.com/album/2X07iqs573O0zHmMbJwtml"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 132733,
       "name": "La Ventana S\u00f3nica",
       "url": "https://open.spotify.com/track/72GbXDJ7g7sm0iGitCGqC6"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Rancheras & Mariachi",
+        "url": "https://open.spotify.com/album/3ToEMff8iNoGuVuOPQXnMk"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "duration_ms": 140921,
+      "name": "El G\u00fciri G\u00fciri",
+      "url": "https://open.spotify.com/track/17rmz3Z7kpqQruM9PGbySw"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Rancheras & Mariachi",
-        "url": "https://open.spotify.com/album/3ToEMff8iNoGuVuOPQXnMk"
+        "name": "Exitos De Chava Flores",
+        "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
       },
       "artists": [
         {
-          "name": "Luis P\u00e9rez Meza",
-          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+          "name": "Chava Flores Con Mariachi Azteca Y Grupo La Miel",
+          "url": "https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS"
         }
       ],
-      "duration_ms": 140921,
-      "name": "El G\u00fciri G\u00fciri",
-      "url": "https://open.spotify.com/track/17rmz3Z7kpqQruM9PGbySw"
+      "duration_ms": 129426,
+      "name": "El gato Viudo",
+      "url": "https://open.spotify.com/track/6bdqRGViPQGT16RNpKFzhh"
     },
     {
       "added_at": "2023-01-24 23:26:41",

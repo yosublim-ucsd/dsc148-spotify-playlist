@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-334 songs - 20 hr 18 min
+335 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [Regenerate](https://open.spotify.com/track/0MIq5zqSNk6XH4BoinuakO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Regenerate](https://open.spotify.com/album/1F0penSwQo6C6tEZEID495) | 3:34 | 2020-10-17 | 2022-04-20 |
 | [Reminiscing](https://open.spotify.com/track/2ZIbiTRemxHiYAPg0UqoLY) | [Datsunn](https://open.spotify.com/artist/4zosWP0ung7qeYevTLfuXV) | [Reminiscing](https://open.spotify.com/album/50VMTNsmINXwJGvxgjHxAp) | 2:43 | 2020-10-17 | 2022-07-27 |
 | [Right Now](https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Right Now](https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA) | 3:59 | 2020-10-17 | 2022-07-29 |
-| [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 | 2023-03-03 |  |
+| [Same Sunrise](https://open.spotify.com/track/4geh0YJEYzwhNUn6g5gE2u) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:31 | 2023-03-03 |  |
+| [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 | 2023-03-03 | 2023-03-31 |
 | [San Junipero \(Personal Heaven\)](https://open.spotify.com/track/0SddM2ln87iYmyQfLR8AQO) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy) | [San Junipero \(Personal Heaven\)](https://open.spotify.com/album/4VeLLEb0qHif2xQmV388Gf) | 3:10 | 2022-06-10 | 2022-06-18 |
 | [San Junipero \(Personal Heaven\)](https://open.spotify.com/track/47yy9VPldBmz4nG5MjWkyO) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy) | [San Junipero \(Personal Heaven\)](https://open.spotify.com/album/511ylApAZhVCUFKsk5P1AE) | 3:10 | 2022-06-17 |  |
 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 | 2022-12-02 |  |

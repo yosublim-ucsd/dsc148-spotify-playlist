@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1405,
+  "num_followers": 1404,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzNzc5NSwwMDAwMDAwMGRkMWJkYmI2Yjc1ZGRiYWViYWYzN2I5NmJlY2YxODQ4",
+  "snapshot_id": "MTY3OTYzNzc5NSwwMDAwMDAwMDVlNGIzNmY3NTMzN2FiZmMxNjFhMjgxZTMzOWMwYTg0",
   "tracks": [
     {
       "added_at": "2023-03-24 05:53:28",
@@ -375,18 +375,22 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Nkwata Bulungi (Bailamos)",
-        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
+        "name": "Love Marijuana",
+        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
       },
       "artists": [
         {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "C. Wyne Nalukalala",
+          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Nkwata Bulungi (Bailamos)",
-      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
+      "duration_ms": 228040,
+      "name": "Love Marijuana",
+      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -431,22 +435,18 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Love Marijuana",
-        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
+        "name": "Nkwata Bulungi (Bailamos)",
+        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
       },
       "artists": [
         {
-          "name": "C. Wyne Nalukalala",
-          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Love Marijuana",
-      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
+      "duration_ms": 187200,
+      "name": "Nkwata Bulungi (Bailamos)",
+      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
+    },
+    {
+      "added_at": "2023-03-24 05:53:28",
+      "album": {
         "name": "Voices & Vices",
         "url": "https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 170434,
       "name": "Voices & Vices",
       "url": "https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN"
-    },
-    {
-      "added_at": "2023-03-24 05:53:28",
-      "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Don't Stopp",
-      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
-    },
-    {
-      "added_at": "2023-03-24 05:53:28",
-      "album": {
         "name": "Kiki Kyogamba",
         "url": "https://open.spotify.com/album/3wlumR6nSjNMTZtDlrOgKy"
       },
@@ -771,8 +755,8 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
+        "name": "Bulamu",
+        "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
       },
       "artists": [
         {
@@ -780,9 +764,25 @@
           "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
+      "duration_ms": 193246,
+      "name": "Bulamu",
+      "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
+    },
+    {
+      "added_at": "2023-03-24 05:53:28",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -867,24 +867,28 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+        "name": "Vibe Yo (Remix)",
+        "url": "https://open.spotify.com/album/1QInb3GdYbabj7GrkZzdMQ"
       },
       "artists": [
         {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+          "name": "Martha Mukisa",
+          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
+        },
+        {
+          "name": "Ziza Bafana",
+          "url": "https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3"
         }
       ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+      "duration_ms": 178105,
+      "name": "Vibe Yo - Remix",
+      "url": "https://open.spotify.com/track/13Snix6AbfTC8ProjfSR1X"
     },
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Bulamu",
-        "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
       },
       "artists": [
         {
@@ -892,9 +896,9 @@
           "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
         }
       ],
-      "duration_ms": 193246,
-      "name": "Bulamu",
-      "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
+      "duration_ms": 190000,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     }
   ],
   "unique_name": "Made In Uganda",

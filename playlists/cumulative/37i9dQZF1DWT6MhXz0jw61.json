@@ -1251,7 +1251,7 @@
     },
     {
       "album": {
-        "name": "Blush",
+        "name": "BLUSH",
         "url": "https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY"
       },
       "artists": [
@@ -1264,7 +1264,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190525,
-      "name": "Blush",
+      "name": "BLUSH",
       "url": "https://open.spotify.com/track/6MWUqZrDQWyoRde2pYSlpA"
     },
     {
@@ -4858,6 +4858,10 @@
         {
           "name": "Navy Blue",
           "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        },
+        {
+          "name": "J Rocc",
+          "url": "https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2"
         }
       ],
       "date_added": "2023-03-24",

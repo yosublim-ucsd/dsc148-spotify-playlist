@@ -37891,6 +37891,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Vor deinen Thron tret' ich, Chorale Prelude, BWV 668 (Arr. for String Quartet)",
+        "url": "https://open.spotify.com/album/0LasVIUs6IHVGkmsQirqeh"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Danish String Quartet",
+          "url": "https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "J.S. Bach: Vor deinen Thron tret' ich, Chorale Prelude, BWV 668 (Arr. for String Quartet)",
+      "url": "https://open.spotify.com/track/3kh2SSiYu0r9h90r2YYL8J"
+    },
+    {
+      "album": {
         "name": "Path of Light / Cesta sv\u011btla / \u010cesk\u00e9 a moravsk\u00e9 koledy a zp\u011bvy v\u00e1no\u010dn\u00ed",
         "url": "https://open.spotify.com/album/1zseiPTfQpwFgwsMR9o17u"
       },
@@ -67515,6 +67537,32 @@
     },
     {
       "album": {
+        "name": "Samson et Dalila, Op. 48, R. 288: Bacchanale",
+        "url": "https://open.spotify.com/album/0Wm7EaJN1UuMprZiqK86hn"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Sinfonieorchester Basel",
+          "url": "https://open.spotify.com/artist/6IHkZ4mLQr4dLxiSJr3yJ8"
+        },
+        {
+          "name": "Ivor Bolton",
+          "url": "https://open.spotify.com/artist/22okZla1ILWnImFhfqjduB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444760,
+      "name": "Samson et Dalila, Op. 48, R. 288: Bacchanale",
+      "url": "https://open.spotify.com/track/32ZbyCGlY6HSPxsWow9T6k"
+    },
+    {
+      "album": {
         "name": "Samson et Delila, Act 2: Mon coeur s'ouvre \u00e0 ta voix (Arr. for Harp by Johann\u00e8s Snoer)",
         "url": "https://open.spotify.com/album/3utwVSVxXeqUnFBsqIRGV3"
       },
@@ -95754,28 +95802,6 @@
       "duration_ms": 273408,
       "name": "Vor deinen Thron tret' ich hiermit BWV 668",
       "url": "https://open.spotify.com/track/25nYk7jtaZgSbTzdJO3gOY"
-    },
-    {
-      "album": {
-        "name": "J.S. Bach: Vor deinen Thron tret' ich, Chorale Prelude, BWV 668",
-        "url": "https://open.spotify.com/album/0LasVIUs6IHVGkmsQirqeh"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Danish String Quartet",
-          "url": "https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D"
-        }
-      ],
-      "date_added": "2023-03-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 296000,
-      "name": "Vor deinen Thron tret' ich, Chorale Prelude, BWV 668",
-      "url": "https://open.spotify.com/track/3kh2SSiYu0r9h90r2YYL8J"
     },
     {
       "album": {

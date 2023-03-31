@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Herb, Whiskey & Reggae",
+        "url": "https://open.spotify.com/album/41bzAr8fjnWZb4XuBf0iwE"
+      },
+      "artists": [
+        {
+          "name": "Rebel Souljahz",
+          "url": "https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201025,
+      "name": "Herb, Whiskey & Reggae",
+      "url": "https://open.spotify.com/track/3BC79FzFstIXyEs4it7MXy"
+    },
+    {
+      "album": {
         "name": "Here to Stay",
         "url": "https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4"
       },

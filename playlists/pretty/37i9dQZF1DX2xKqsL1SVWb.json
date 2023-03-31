@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. ",
-  "num_followers": 29608,
+  "num_followers": 29635,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyNTg2MywwMDAwMDAwMGYyMDg0NmJiMDE1MjMyZjc3YjAyNjQyYTc3ZDJhYTMw",
+  "snapshot_id": "MTY4MDIwNjk4NywwMDAwMDAwMDMyZmNjZjJhZTVlYWY3MzYxZWJjMDA3OWQyNDAzMjU4",
   "tracks": [
     {
       "added_at": "2022-09-02 13:37:43",
@@ -319,6 +319,38 @@
       "duration_ms": 289920,
       "name": "Dejar Ir",
       "url": "https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6"
+    },
+    {
+      "added_at": "2023-03-30 20:09:47",
+      "album": {
+        "name": "Al Pie del Volc\u00e1n",
+        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
+      },
+      "artists": [
+        {
+          "name": "Yo y las Bestias",
+          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
+        }
+      ],
+      "duration_ms": 245422,
+      "name": "Al Pie del Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
+    },
+    {
+      "added_at": "2023-03-30 20:09:47",
+      "album": {
+        "name": "Hierbas Para la Tristeza",
+        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
+      },
+      "artists": [
+        {
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+        }
+      ],
+      "duration_ms": 166112,
+      "name": "Hierbas",
+      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
     },
     {
       "added_at": "2022-09-02 13:37:43",

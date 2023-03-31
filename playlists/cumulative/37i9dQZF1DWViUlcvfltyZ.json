@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Sick Tamburo in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. NAMIDA in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 242497,
       "name": "Ansia Capitale",
       "url": "https://open.spotify.com/track/3aJ8dxraLU7aqEm1FKwhX7"
+    },
+    {
+      "album": {
+        "name": "APNEA",
+        "url": "https://open.spotify.com/album/6VbivQUqw6XpmMavkCEP0p"
+      },
+      "artists": [
+        {
+          "name": "FOGG",
+          "url": "https://open.spotify.com/artist/3XJWtrpDcoofN56hKaNRCH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288872,
+      "name": "APNEA",
+      "url": "https://open.spotify.com/track/07BUJz0fmgLnaDfk4WtYPf"
     },
     {
       "album": {
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 110422,
       "name": "Cherries",
       "url": "https://open.spotify.com/track/1TakoLDRIHQq4WlSZVcmcF"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 130030,
       "name": "Destroy",
       "url": "https://open.spotify.com/track/1qyC24XBRS8gCtgHdogqSZ"
@@ -2007,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Extraordinaire",
+        "url": "https://open.spotify.com/album/6ZdaJ4yXbJtwDqz7CF1MmZ"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344401,
+      "name": "Extraordinaire",
+      "url": "https://open.spotify.com/track/5ZQwiGwOTs8pgcIwmLcBek"
+    },
+    {
+      "album": {
         "name": "Fading into Day",
         "url": "https://open.spotify.com/album/0lcTfY7Bazk27HmeMTguXx"
       },
@@ -2116,6 +2152,24 @@
       "duration_ms": 163894,
       "name": "Figli dei fiori",
       "url": "https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf"
+    },
+    {
+      "album": {
+        "name": "Figli dei Fuori",
+        "url": "https://open.spotify.com/album/2JVryUJO8ZRI283WCuGTfM"
+      },
+      "artists": [
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173519,
+      "name": "Figli dei Fuori",
+      "url": "https://open.spotify.com/track/7mJnXY68DYA1ewp1QF6AiK"
     },
     {
       "album": {
@@ -2560,7 +2614,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 131907,
       "name": "ho sentito il tuo cuore",
       "url": "https://open.spotify.com/track/4TdtIFAJvvn7Hrg1DHkier"
@@ -2990,6 +3044,24 @@
       "duration_ms": 185519,
       "name": "Jack (Non Sa)",
       "url": "https://open.spotify.com/track/3lEeE5InLjr2Wpu0zeQ64b"
+    },
+    {
+      "album": {
+        "name": "Stegosauro",
+        "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
+      },
+      "artists": [
+        {
+          "name": "Stegosauro",
+          "url": "https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Jap'n Cazz",
+      "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
     },
     {
       "album": {
@@ -3682,6 +3754,24 @@
       "duration_ms": 181750,
       "name": "Mondiali FDC",
       "url": "https://open.spotify.com/track/4hg1my3vuEzQMd2lpYWnca"
+    },
+    {
+      "album": {
+        "name": "Mondo Rosso",
+        "url": "https://open.spotify.com/album/2bXLMo4qdbJpgLt3IZ283I"
+      },
+      "artists": [
+        {
+          "name": "Generic Animal",
+          "url": "https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184661,
+      "name": "Mondo",
+      "url": "https://open.spotify.com/track/73WScEsNUM9ayo0ahYJDPO"
     },
     {
       "album": {
@@ -4516,7 +4606,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 328467,
       "name": "Preda",
       "url": "https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u"
@@ -5198,7 +5288,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 238733,
       "name": "Soa",
       "url": "https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d"

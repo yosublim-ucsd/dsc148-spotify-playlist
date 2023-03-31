@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54?si=XY6tsMJ4S3GRQ5-2UUeVPw\">Thabo Krouwkam</a>",
-  "num_followers": 5694,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=4t_J5jMpTr2yNzZbx_vgyA\">Lloyiso</a>",
+  "num_followers": 5701,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDY2MDQ2ZDkwOGI3YzJmMjIwMDZlM2Q5YmZiZTAyZGI2",
+  "snapshot_id": "MTY4MDIxMzU0MCwwMDAwMDAwMDcwYjI2NDk5N2EwM2RmZDNjMzU5OTcwYjZiOWNjOTQw",
   "tracks": [
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 165750,
       "name": "Emotionally Indiscreet",
       "url": "https://open.spotify.com/track/4sK7vYw3oiMWDxQ90m0Wqc"
+    },
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "Bastard Jargon",
+        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "duration_ms": 186640,
+      "name": "The Caring",
+      "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
     },
     {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "The Things We Dare Not Tell",
+        "url": "https://open.spotify.com/album/2obV1R1hywZW5riJG3Ys5U"
+      },
+      "artists": [
+        {
+          "name": "Elsmore Carey",
+          "url": "https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu"
+        }
+      ],
+      "duration_ms": 261724,
+      "name": "The Things We Dare Not Tell",
+      "url": "https://open.spotify.com/track/1bIXMzlYYkaIBMRH7vG1Lu"
+    },
+    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Meet Me There",
@@ -71,6 +119,22 @@
       "duration_ms": 125187,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/6AyEEfEKvqUp54XyFsL70I"
+    },
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/1OrzAjh77eizHTD3m4pAuQ"
+      },
+      "artists": [
+        {
+          "name": "Monark",
+          "url": "https://open.spotify.com/artist/4fWc4RmQhx0vz05EQV8ekC"
+        }
+      ],
+      "duration_ms": 209958,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/79nvFhgWdJqI238YcO7cLo"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -107,6 +171,22 @@
       "duration_ms": 202653,
       "name": "Stay as You Are",
       "url": "https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV"
+    },
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/6Xkw4bGwcXeoqGUnTaeCFP"
+      },
+      "artists": [
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7Br9wfxnSnIh2y3PbQ1SOE"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -825,26 +905,6 @@
       "url": "https://open.spotify.com/track/2fOpK9RvF6VIv4eSzpjyzB"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "I Can't Lose",
-        "url": "https://open.spotify.com/album/5iVmkBy7MzUzZTq41PHJuJ"
-      },
-      "artists": [
-        {
-          "name": "Rudi Simon",
-          "url": "https://open.spotify.com/artist/4ptgf05nkSgu9FyeOMlIfj"
-        },
-        {
-          "name": "Luxe",
-          "url": "https://open.spotify.com/artist/16HxZ677V28c5vy4wgmZZb"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I Can't Lose",
-      "url": "https://open.spotify.com/track/6obyLBA13ecV6tlRliC0o6"
-    },
-    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Sunshine",
@@ -891,38 +951,6 @@
       "duration_ms": 228181,
       "name": "Bait",
       "url": "https://open.spotify.com/track/54Fs529fifiDt3qDBWaIjl"
-    },
-    {
-      "added_at": "2023-02-09 21:59:00",
-      "album": {
-        "name": "Precious Bones",
-        "url": "https://open.spotify.com/album/7K3ct7ITp62x1d05IjRUQi"
-      },
-      "artists": [
-        {
-          "name": "Lakkabrah",
-          "url": "https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "Precious Bones",
-      "url": "https://open.spotify.com/track/5rpsHM3MTRdnbg0aUS1ug1"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
-      },
-      "artists": [
-        {
-          "name": "The Great Yawn",
-          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
-        }
-      ],
-      "duration_ms": 293389,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -1121,38 +1149,6 @@
       "url": "https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr"
     },
     {
-      "added_at": "2023-01-26 21:59:00",
-      "album": {
-        "name": "Fantasies",
-        "url": "https://open.spotify.com/album/3ZOixT6OPYmcj1N1SQctmN"
-      },
-      "artists": [
-        {
-          "name": "Anke Richards",
-          "url": "https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF"
-        }
-      ],
-      "duration_ms": 196571,
-      "name": "Fantasies",
-      "url": "https://open.spotify.com/track/7zltIKDQN6TMoERha3MiXo"
-    },
-    {
-      "added_at": "2023-01-26 21:59:00",
-      "album": {
-        "name": "Countryside",
-        "url": "https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0"
-      },
-      "artists": [
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
-        }
-      ],
-      "duration_ms": 217829,
-      "name": "Countryside",
-      "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
-    },
-    {
       "added_at": "2023-01-27 08:16:39",
       "album": {
         "name": "noba bangathini",
@@ -1167,22 +1163,6 @@
       "duration_ms": 290786,
       "name": "noba bangathini",
       "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
-    },
-    {
-      "added_at": "2023-01-26 21:59:00",
-      "album": {
-        "name": "Little Girl",
-        "url": "https://open.spotify.com/album/38OTti2ijv4mARDji7Rx99"
-      },
-      "artists": [
-        {
-          "name": "Ernest Che Guerro",
-          "url": "https://open.spotify.com/artist/31E8QoONQGPHC1j6V4BWmm"
-        }
-      ],
-      "duration_ms": 251998,
-      "name": "Little Girl",
-      "url": "https://open.spotify.com/track/1KK3whamg1HmTETY7tl51g"
     },
     {
       "added_at": "2022-12-15 21:59:00",

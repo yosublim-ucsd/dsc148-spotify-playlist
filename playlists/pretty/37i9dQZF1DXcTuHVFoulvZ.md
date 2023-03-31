@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTuHVFoulvZ.md) - [plain]
 
 > Le meilleur du hip\-hop québécois en 2022\. Photo: Loud \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,475 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,473 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTuHVFoulvZ.md) - [plain]
 | 24 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 |
 | 25 | [Belle](https://open.spotify.com/track/1XBTbrFqzkb8eQpnqcYGsm) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK), [Bnyofficial](https://open.spotify.com/artist/5BqM9z6eisbGASuqh5B6QM) | [Belle](https://open.spotify.com/album/6hMkE5cYDkXqUd5rL8iFfV) | 3:14 |
 | 26 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
-| 27 | [Mauvaise Humeur](https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:26 |
+| 27 | [Mauvaise Humeur](https://open.spotify.com/track/46lwu7OK2U1p7F4Y649MvX) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:26 |
 | 28 | [Je me souviens](https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Je me souviens](https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso) | 3:09 |
 | 29 | [IDGAF](https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES), [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [IDGAF](https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx) | 2:21 |
 | 30 | [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTuHVFoulvZ.md) - [plain]
 | 49 | [Personne](https://open.spotify.com/track/16zJVyvGHRG3qYnQ9cgHbT) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Personne](https://open.spotify.com/album/78RK4VGCAOquGDBFCcAn0e) | 3:22 |
 | 50 | [5STAR](https://open.spotify.com/track/05owzjR8t0M3Y2BIFArgLr) | [Apollo](https://open.spotify.com/artist/3CPv18YYX9bKvhwLsASBZT) | [Elevate](https://open.spotify.com/album/5nAFBraM51Rcfs8HkYos4I) | 2:36 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGVhMWZlNzEwMWUxMTAxODFlMzVjZmU2YzllMjllODg1`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGUyYmEzMmZjMTc3YzA4NzdjZjRkOGE1OTVhNjk5NTlj`

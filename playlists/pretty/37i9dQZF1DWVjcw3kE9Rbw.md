@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjcw3kE9Rbw.md) - [plain]
 
 > South African <a href="spotify:artist:60ZIrIA1iT9NStXmdAuhjR">Dwson</a> has put together a seamless mix of Afro House combined with intricate melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,191 likes - 9 songs - 57 min 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,194 likes - 9 songs - 57 min 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

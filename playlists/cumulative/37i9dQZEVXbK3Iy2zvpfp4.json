@@ -4694,7 +4694,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 208630,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
@@ -8042,13 +8042,13 @@
       },
       "artists": [
         {
-          "name": "Christian Gaubert",
-          "url": "https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT"
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
         }
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 105560,
       "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
       "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
@@ -8070,7 +8070,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 105560,
       "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
       "url": "https://open.spotify.com/track/1MDy1pR75sPtgFcUzP407o"
@@ -8538,7 +8538,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 165697,
       "name": "lowkey",
       "url": "https://open.spotify.com/track/4FzolvZnrZN06cZm6eFZJm"
@@ -8666,7 +8666,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 147349,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/0F0wMiv8PfATkxC0YO5XqB"
@@ -9704,6 +9704,24 @@
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
+        "name": "Montagem - Conga Conga (Remixes)",
+        "url": "https://open.spotify.com/album/215z8mWDSkmJLJVqLOM8iX"
+      },
+      "artists": [
+        {
+          "name": "DJ RAMON SP",
+          "url": "https://open.spotify.com/artist/3wpIT0RdJai5EyixwevHVq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Montagem - Conga Conga (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/5olB6tpqsJ9W8AX6HdWQd5"
     },
     {
       "album": {
@@ -11162,6 +11180,24 @@
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/1YUIYk4vwMkEz6WjZBwXaP"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122740,
+      "name": "Painting Pictures",
+      "url": "https://open.spotify.com/track/6MGsx3Usu6IJbbYFoAOEtv"
     },
     {
       "album": {
@@ -13662,7 +13698,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 117528,
       "name": "SMOKE IT OFF!",
       "url": "https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym"
@@ -14596,7 +14632,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 126059,
       "name": "S\u00e1m",
       "url": "https://open.spotify.com/track/5gvJcUW1z7PfQPWcr8ZwBA"
@@ -16238,7 +16274,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 242758,
       "name": "Vibration (One More Time) (feat. AR/CO)",
       "url": "https://open.spotify.com/track/2t3iFlsIkaoV7GmVC2ptuM"
@@ -17806,6 +17842,24 @@
       "duration_ms": 216833,
       "name": "\u042f\u0434",
       "url": "https://open.spotify.com/track/59vIllaE2ottAAAtAiAuLt"
+    },
+    {
+      "album": {
+        "name": "\u9ec4\u8272\u3044\u30c1\u30b1\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/1IOKPGvO8NCw5aD7nKbqEx"
+      },
+      "artists": [
+        {
+          "name": "Loli in early 20s",
+          "url": "https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90044,
+      "name": "\u5f7c\u5973\u304c12-14\u5e74\u9593\u81ea\u5206\u3092\u5207",
+      "url": "https://open.spotify.com/track/2o57RiydGNsZmm7dLJLbhP"
     },
     {
       "album": {

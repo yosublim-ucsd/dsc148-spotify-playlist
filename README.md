@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5849\)
+## Playlists \(5850\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2409,6 +2409,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [K\-Pop X\-Overs](/playlists/pretty/37i9dQZF1DX4IDaXtVjL83.md)
 - [K\-Trot Stars](/playlists/pretty/37i9dQZF1DX6i7txhF59QA.md)
 - [K\-Webtoon OSTs \(웹툰 OSTs\)](/playlists/pretty/37i9dQZF1DWZgZGWDUJK7v.md)
+- [KAGUYA\-SAMA: LOVE IS WAR かぐや様は告らせたい](/playlists/pretty/37i9dQZF1DX9GwUIoGGDbm.md)
 - [KENGAN ASHURA \-ケンガンアシュラ \-](/playlists/pretty/37i9dQZF1DX1jG0L1fT9fh.md)
 - [KING](/playlists/pretty/37i9dQZF1DWYNNUgvFqsgZ.md)
 - [K\`illin'](/playlists/pretty/37i9dQZF1DX1TqbmB34Bbs.md)

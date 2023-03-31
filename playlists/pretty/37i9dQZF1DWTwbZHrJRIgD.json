@@ -1,6 +1,6 @@
 {
   "description": "Let these happy tunes put a smile on your face. Cover - Dear Zindagi",
-  "num_followers": 168586,
+  "num_followers": 169226,
   "original_name": "Happy Vibes ",
   "owner": {
     "name": "Spotify",
@@ -240,12 +240,12 @@
       },
       "artists": [
         {
-          "name": "Shruti Rane",
-          "url": "https://open.spotify.com/artist/69vXsJLW99gZRgxntkmPop"
-        },
-        {
           "name": "Akhil Sachdeva",
           "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Shruti Rane",
+          "url": "https://open.spotify.com/artist/69vXsJLW99gZRgxntkmPop"
         }
       ],
       "duration_ms": 181916,

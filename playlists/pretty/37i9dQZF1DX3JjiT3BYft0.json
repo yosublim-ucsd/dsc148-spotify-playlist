@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 53434,
+  "num_followers": 53485,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgxMjI0NCwwMDAwMDAwMDU3N2EzM2I4MzNlMTRiMDBhYzg1N2M3MzkzYWMyYzEz",
+  "snapshot_id": "MTY3ODgxMjI0NCwwMDAwMDAwMDg0MzM0Yzc3NDlkNmVkMzdkMjUyZGEyZjVjZGYwNDg1",
   "tracks": [
     {
       "added_at": "2023-03-14 16:44:04",
@@ -299,8 +299,8 @@
     {
       "added_at": "2023-03-14 16:44:04",
       "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
-        "url": "https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK"
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 249566,
-      "name": "chAngE",
-      "url": "https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8"
+      "duration_ms": 350168,
+      "name": "Daylight -\u30c7\u30a4\u30e9\u30a4\u30c8-",
+      "url": "https://open.spotify.com/track/7Ld7ylkV7WdTviE5w3XAv9"
     },
     {
       "added_at": "2023-03-14 16:44:04",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-03-14 16:44:04",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
+        "url": "https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O!!!!!",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
+      "duration_ms": 249566,
+      "name": "chAngE",
+      "url": "https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8"
     },
     {
       "added_at": "2023-03-14 16:44:04",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-03-14 16:44:04",
       "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 350168,
-      "name": "Daylight -\u30c7\u30a4\u30e9\u30a4\u30c8-",
-      "url": "https://open.spotify.com/track/7Ld7ylkV7WdTviE5w3XAv9"
+      "duration_ms": 270868,
+      "name": "Y.O.L.O!!!!!",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
     },
     {
       "added_at": "2023-03-14 16:44:04",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-14 16:44:04",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
-        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
-          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
-        }
-      ],
-      "duration_ms": 236938,
-      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
-      "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
-    },
-    {
-      "added_at": "2023-03-14 16:44:04",
-      "album": {
         "name": "QUINTET",
         "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 255000,
       "name": "\u8a93\u3044\u306eWingbeat",
       "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+    },
+    {
+      "added_at": "2023-03-14 16:44:04",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
+        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
+          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
+        }
+      ],
+      "duration_ms": 236938,
+      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
+      "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
     },
     {
       "added_at": "2023-03-14 16:44:04",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-03-14 16:44:04",
       "album": {
+        "name": "\u8ff7\u661f\u53eb",
+        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "\u540d\u7121\u58f0",
+      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
+    },
+    {
+      "added_at": "2023-03-14 16:44:04",
+      "album": {
         "name": "QUINTET",
         "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 240900,
       "name": "ON YOUR MARK",
       "url": "https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e"
-    },
-    {
-      "added_at": "2023-03-14 16:44:04",
-      "album": {
-        "name": "\u8ff7\u661f\u53eb",
-        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "\u540d\u7121\u58f0",
-      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
     },
     {
       "added_at": "2023-03-14 16:44:04",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-03-14 16:44:04",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
+        "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
+        }
+      ],
+      "duration_ms": 243156,
+      "name": "\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~",
+      "url": "https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W"
+    },
+    {
+      "added_at": "2023-03-14 16:44:04",
+      "album": {
         "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
         "url": "https://open.spotify.com/album/7jSTcMdYALUXD6hZWdsw5J"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 243835,
       "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
       "url": "https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp"
-    },
-    {
-      "added_at": "2023-03-14 16:44:04",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
-        "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
-        }
-      ],
-      "duration_ms": 243156,
-      "name": "\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~",
-      "url": "https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W"
     },
     {
       "added_at": "2023-03-14 16:44:04",

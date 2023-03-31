@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Kaleem Taylor",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Nabihah Iqbal",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -413,7 +413,7 @@
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 226077,
+      "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     },
@@ -3088,6 +3088,24 @@
       "duration_ms": 181358,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/6e40VGmlR2S8yhmBNkISlP"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te"
     },
     {
       "album": {

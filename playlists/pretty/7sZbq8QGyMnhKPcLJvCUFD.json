@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds.",
-  "num_followers": 750889,
+  "num_followers": 751045,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NDk1MixiYThkNmVjMGVhODU3MDEzMGE5MzliNWVhYmZmNjk5ZWFiMWZkMjE4",
+  "snapshot_id": "NDk1NCw3NTc3Nzk2YmVhMGIwOWIyZDUxYTI0NWE4NTNkNzExNGQ1Y2MyMzRk",
   "tracks": [
     {
       "added_at": "2023-02-13 11:20:51",
@@ -83,6 +83,42 @@
       "duration_ms": 147598,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/39LleyvGIy48hCibZROiWD"
+    },
+    {
+      "added_at": "2023-03-30 09:12:36",
+      "album": {
+        "name": "Blade Fury",
+        "url": "https://open.spotify.com/album/3KX7PcCiSCXOJO6vVErbTb"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "ATSMXN",
+          "url": "https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW"
+        }
+      ],
+      "duration_ms": 120230,
+      "name": "Blade Fury",
+      "url": "https://open.spotify.com/track/0Ft0JLSiJ8IRPJeE3SHZK8"
+    },
+    {
+      "added_at": "2023-03-29 09:10:46",
+      "album": {
+        "name": "aya",
+        "url": "https://open.spotify.com/album/2A6voGfhUhaF9fp6JlcMd3"
+      },
+      "artists": [
+        {
+          "name": "joegarratt",
+          "url": "https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf"
+        }
+      ],
+      "duration_ms": 224844,
+      "name": "aya",
+      "url": "https://open.spotify.com/track/63IK5WSU4PJRlPWkNYIKZP"
     },
     {
       "added_at": "2023-03-28 09:44:29",

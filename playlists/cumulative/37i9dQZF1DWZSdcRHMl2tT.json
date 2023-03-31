@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Blurry Sequence",
+        "url": "https://open.spotify.com/album/373f1VkuNBKtI1rtXZBKDv"
+      },
+      "artists": [
+        {
+          "name": "Lazy Driver",
+          "url": "https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135517,
+      "name": "Blurry Sequence",
+      "url": "https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ"
+    },
+    {
+      "album": {
         "name": "11 Out Of 10",
         "url": "https://open.spotify.com/album/5rl2ZreYI27Q69KNI77yBV"
       },

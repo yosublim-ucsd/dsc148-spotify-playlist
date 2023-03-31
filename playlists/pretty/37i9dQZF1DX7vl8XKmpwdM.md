@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : Pathu Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,896 likes - 57 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,022 likes - 57 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

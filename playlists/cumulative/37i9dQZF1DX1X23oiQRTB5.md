@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Zola au top de la première playlist de rap français !
+> Zola et Damso au top de la première playlist de rap français !
 
 154 songs - 7 hr 54 min
 

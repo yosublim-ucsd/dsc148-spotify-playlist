@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 104625,
+  "num_followers": 104747,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDQ4Y2Y0ZDY3ZWE2NDlmYzU0OWUxYTU3NzY2ZTIzOGU3",
+  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMGMyNDdiZDk1OWVkZGE3ZGI0MTcyNjA5Yzg5Zjk2ZDU5",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/1wtfZcywQbynryjXGBNfMQ"
     },
     {
-      "added_at": "2023-03-30 01:24:14",
+      "added_at": "2023-03-31 00:57:37",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Oi N\u00e9",
+        "url": "https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Oi N\u00e9",
+      "url": "https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Bail\u00e3o",
         "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 210616,
       "name": "Bail\u00e3o",
       "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Oi N\u00e9",
-        "url": "https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Oi N\u00e9",
-      "url": "https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I"
     },
     {
       "added_at": "2023-02-07 20:52:54",

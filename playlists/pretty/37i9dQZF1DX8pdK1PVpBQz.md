@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Milku\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,318 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,328 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 4 | [SUBUTEX](https://open.spotify.com/track/4NBjcKubM6KkVaKEh1YWP4) | [Yargii](https://open.spotify.com/artist/3NMfQeCdkC9pmBi3AGeNA8), [GLEEM](https://open.spotify.com/artist/2BciQdUKtKQOkUMqWTyQb4) | [SUBUTEX](https://open.spotify.com/album/00QHuwCv0Zk0njdbknlI97) | 2:46 |
 | 5 | [Holding On](https://open.spotify.com/track/6IIUz3arGO5gchPkM4mCUF) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Holding On](https://open.spotify.com/album/5fCqLpaayPeThm3H8CvIge) | 2:48 |
 | 6 | [dem0n b0ii](https://open.spotify.com/track/7e164VMteY1fkRcUIGSt5F) | [GLO](https://open.spotify.com/artist/15Phfg97TxyiNPviHsS83p), [Saskia](https://open.spotify.com/artist/6TADfe4pLgmqLo2I64Jgyr) | [CATHARSIS Vol\. 1 EP](https://open.spotify.com/album/6zZ6nVNCshVg0HotALEyVo) | 4:48 |
-| 7 | [Real Like a Feeling](https://open.spotify.com/track/6dnuQLF8jwYDiLo0oFsWoW) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Real Like A Feeling](https://open.spotify.com/album/1T2UIh06gHW1SHS6oRLQfb) | 3:14 |
+| 7 | [Real Like A Feeling](https://open.spotify.com/track/6dnuQLF8jwYDiLo0oFsWoW) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Real Like A Feeling](https://open.spotify.com/album/1T2UIh06gHW1SHS6oRLQfb) | 3:14 |
 | 8 | [Love You Now](https://open.spotify.com/track/49QnG3oTbnVNwk5o7jvt8L) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Love You Now](https://open.spotify.com/album/7tRGttVNb8vl3cFubHWhmA) | 3:36 |
 | 9 | [Never Follow Through](https://open.spotify.com/track/2qYYz6RbSWkdkok7PVvvke) | [TANISHA](https://open.spotify.com/artist/5ZrJiyoPJ1n2pkTTb3YyBv) | [Never Follow Through](https://open.spotify.com/album/75tsiKrmlZJ2vkdUrwgk8i) | 2:58 |
 | 10 | [I don't want you to be happy](https://open.spotify.com/track/0bpLmhqL8noZJlu1tbHMYX) | [Watson](https://open.spotify.com/artist/0OqmLiBdOB92ZAUAkjDah6) | [I don't want you to be happy](https://open.spotify.com/album/4GTQpQKP18936qqjc7HxjE) | 3:16 |

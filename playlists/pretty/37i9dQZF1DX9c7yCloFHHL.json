@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. A Winged Victory For The Sullen on cover.",
-  "num_followers": 144874,
+  "num_followers": 145067,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDIyNGYyZWI0N2JmZWJlMmI2YzcxOTIwZTVlNzRmNjMy",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDMwZGQ0YWI0NmVhOTVkNzJjYzU3YWFlZDI3MmMyYjg0",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 80427,
+      "name": "Brush",
+      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "SLEEP: Tranquility Base",
         "url": "https://open.spotify.com/album/47SL4kZlIzoTa3CMsT5ZNL"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 82229,
       "name": "Tranquility II",
       "url": "https://open.spotify.com/track/3C6SnHzfIxlUFyVPK7vqJG"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 80427,
-      "name": "Brush",
-      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "celestia",
-        "url": "https://open.spotify.com/album/1WY2kCwaRlKR8xutuufjKm"
-      },
-      "artists": [
-        {
-          "name": "alixe.",
-          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "celestia",
-      "url": "https://open.spotify.com/track/3u3ijivU8xHxaqkaCEE2eb"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Antarctican Dream Machine",
         "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 207200,
       "name": "Elegy",
       "url": "https://open.spotify.com/track/1kXAT5Y0fIBw1vVbTgoS3i"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "celestia",
+        "url": "https://open.spotify.com/album/1WY2kCwaRlKR8xutuufjKm"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "celestia",
+      "url": "https://open.spotify.com/track/3u3ijivU8xHxaqkaCEE2eb"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Ambient 23",
-        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+        "name": "Velocity (Music from the Film)",
+        "url": "https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Geller",
+          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
         }
       ],
-      "duration_ms": 481906,
-      "name": "amb23 - 1",
-      "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
+      "duration_ms": 111023,
+      "name": "Best of Luck",
+      "url": "https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Velocity (Music from the Film)",
-        "url": "https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR"
+        "name": "Ambient 23",
+        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
       },
       "artists": [
         {
-          "name": "Geller",
-          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 111023,
-      "name": "Best of Luck",
-      "url": "https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1"
+      "duration_ms": 481906,
+      "name": "amb23 - 1",
+      "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+        "name": "Flur",
+        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+      "duration_ms": 197335,
+      "name": "LUN",
+      "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "In Light Of Blues",
-        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
-      },
-      "artists": [
-        {
-          "name": "Celer",
-          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
-        }
-      ],
-      "duration_ms": 115914,
-      "name": "Precious Past Hours",
-      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 197335,
-      "name": "LUN",
-      "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "by my side",
         "url": "https://open.spotify.com/album/37DgWI3XMaQI1FNtZlRsNj"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 160000,
       "name": "by my side",
       "url": "https://open.spotify.com/track/5eddI8OItrcdyfXQptGMuH"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "In Light Of Blues",
+        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
+      },
+      "artists": [
+        {
+          "name": "Celer",
+          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
+        }
+      ],
+      "duration_ms": 115914,
+      "name": "Precious Past Hours",
+      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
-      },
-      "artists": [
-        {
-          "name": "Celestial Aeon Project",
-          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
-        },
-        {
-          "name": "dj tapenostalgia",
-          "url": "https://open.spotify.com/artist/0ZfpKzzejoyTvIhegXwrEq"
-        }
-      ],
-      "duration_ms": 138818,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Receiving",
         "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
@@ -1507,34 +1487,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1111999,
-      "name": "Lemon Day",
-      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Ambient 23",
-        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
-      },
-      "artists": [
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        },
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "dj tapenostalgia",
+          "url": "https://open.spotify.com/artist/0ZfpKzzejoyTvIhegXwrEq"
         }
       ],
-      "duration_ms": 546586,
-      "name": "amb23 - 2",
-      "url": "https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW"
+      "duration_ms": 138818,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1555,18 +1523,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "dark snowy night",
-        "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
       },
       "artists": [
         {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 211091,
-      "name": "dark snowy night - Slowed & Reverb Version",
-      "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1587,6 +1555,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "dark snowy night",
+        "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 211091,
+      "name": "dark snowy night - Slowed & Reverb Version",
+      "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 208912,
       "name": "The Trembling of Glass",
       "url": "https://open.spotify.com/track/68Dw3MZNu16CrSYROJAvge"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Ambient 23",
+        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 546586,
+      "name": "amb23 - 2",
+      "url": "https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Epilogue",
-        "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
+        "name": "Afterpoem",
+        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
         }
       ],
-      "duration_ms": 249081,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
+      "duration_ms": 118897,
+      "name": "Fin ao\u00fbt, d\u00e9but septembre",
+      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
     }
   ],
   "unique_name": "Ambiente",

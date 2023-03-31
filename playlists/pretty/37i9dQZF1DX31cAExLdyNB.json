@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 58735,
+  "num_followers": 58763,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDI4YzIwNWZiZDVkNWE0MGQzZTA5ODk3NDJhNjM2NWMz",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDc3OTIxNmQwYzJmM2MzODU0ZDI4MmU3MDBlY2JiOGVl",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Las Vegas",
+        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 256109,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "A Hero's Death (Soulwax Remix)",
         "url": "https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Las Vegas",
-        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 256109,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
       },
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
       "artists": [
         {
           "name": "La M\u00e1quina Camale\u00f3n",
           "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
+      "duration_ms": 168613,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -931,18 +927,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
       "artists": [
         {
           "name": "La M\u00e1quina Camale\u00f3n",
           "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 168613,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",

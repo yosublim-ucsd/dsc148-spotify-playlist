@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-706 songs - 1 day 16 hr 36 min
+708 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 | 2021-11-08 | 2022-01-22 |
 | [Crisp Velvet](https://open.spotify.com/track/4EVeGsLzlWrOB7W2QGUCdM) | [Tigran Boiler](https://open.spotify.com/artist/5LhWWwxDFZzMYZPvt0axJM) | [Crisp Velvet](https://open.spotify.com/album/2pz8Asd0pk4UCtU758mEjy) | 2:33 | 2022-09-23 |  |
 | [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 | 2021-11-08 | 2022-07-22 |
+| [Crop Top](https://open.spotify.com/track/7fZOSXCWCsvxIv3Ps5HW5d) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Crop Top](https://open.spotify.com/album/5xiTyVWNTCGR8AfOpeK8K3) | 2:22 | 2023-03-31 |  |
 | [Cruise](https://open.spotify.com/track/0x870moIq8mrevBx8f6wBx) | [Cartego](https://open.spotify.com/artist/7luNA0T5Njoy6zqFKE20MB) | [Cruise](https://open.spotify.com/album/4gd3p8sokiAY66tb2NoMpU) | 2:54 | 2021-01-15 | 2021-10-06 |
 | [Cul de Sac](https://open.spotify.com/track/4AMrfTJror50C9Tx3zX5Z2) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Cul de Sac](https://open.spotify.com/album/0KcH619DqxpelLGbWgRA0J) | 3:35 | 2020-04-03\* | 2021-03-18 |
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-01-21 | 2022-04-06 |
@@ -197,6 +198,7 @@
 | [Enigma](https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Enigma](https://open.spotify.com/album/4pD6ofyOFWOYJwuxrWhpuY) | 2:38 | 2021-02-04 | 2022-06-24 |
 | [envelope](https://open.spotify.com/track/4dT3GQBpTmm2c6T6vL7Ig0) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [envelope](https://open.spotify.com/album/5ze9A7KGjbG44vSS0ANosd) | 2:19 | 2022-09-23 |  |
 | [Equanimity](https://open.spotify.com/track/5isIut0C8hN4bId0imeKog) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [Zachary Bowe](https://open.spotify.com/artist/49flxx7eVrsc0uBG1KolV6) | [Equanimity](https://open.spotify.com/album/7xhqEbF1zKfa3ONmbSwIyQ) | 2:33 | 2021-04-15 | 2021-04-21 |
+| [Express](https://open.spotify.com/track/6NPvYtR9Zi1uIZqTj9CU53) | [Zazzo](https://open.spotify.com/artist/0IqdMYI4CDJgVZiioR7t3k) | [Express](https://open.spotify.com/album/17U4iL5TD60vVhBE4EtD5V) | 2:20 | 2023-03-31 |  |
 | [Extra Sauce](https://open.spotify.com/track/1hciDzduTo3NzRZAUbn8MF) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Extra Sauce](https://open.spotify.com/album/093GCiTifgpyMmpiWDOCUE) | 2:54 | 2022-06-10 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-04-15 | 2021-08-20 |
 | [F@F](https://open.spotify.com/track/2fb8xvdu2oIcSy6MHvF8E8) | [Vandrz](https://open.spotify.com/artist/39aL8sGmqpSVt5hgraIRhw) | [AVIATION](https://open.spotify.com/album/0sjgGJyQ74hhzRNwOKFzPl) | 3:33 | 2023-01-13 |  |

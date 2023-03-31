@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Delta Revive 92 Hz",
+        "url": "https://open.spotify.com/album/39AXFW1UN2uw6EUKXmXdAd"
+      },
+      "artists": [
+        {
+          "name": "Dreamlike States",
+          "url": "https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Delta Revive 92 Hz",
+      "url": "https://open.spotify.com/track/1AuhhyzXXeYDwDAD7IIObH"
+    },
+    {
+      "album": {
         "name": "Delta Dreams 3Hz",
         "url": "https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH"
       },

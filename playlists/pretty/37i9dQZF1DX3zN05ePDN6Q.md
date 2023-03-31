@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Jota Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,646 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,671 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sem Serifa](https://open.spotify.com/track/3RJ705rFIqUook9nitZCm4) | [Jota Ghetto](https://open.spotify.com/artist/6360THwy8I5pWeItyw5ewK), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Miss Fya](https://open.spotify.com/artist/6onTY4vMOYNfudPL1OueWH) | [Sem Serifa](https://open.spotify.com/album/0OGsEu2WUBDf0z9rcrLSHA) | 4:26 |
+| 1 | [Sem Serifa](https://open.spotify.com/track/3RJ705rFIqUook9nitZCm4) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Miss Fya](https://open.spotify.com/artist/6onTY4vMOYNfudPL1OueWH) | [Sem Serifa](https://open.spotify.com/album/0OGsEu2WUBDf0z9rcrLSHA) | 4:26 |
 | 2 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 |
 | 3 | [Você Está Com Febre?](https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Você Está Com Febre?](https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL) | 2:45 |
 | 4 | [Pierrot e Colombina](https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Pierrot e Colombina](https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC) | 3:59 |

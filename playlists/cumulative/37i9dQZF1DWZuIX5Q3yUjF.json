@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Spinas",
+  "description": "Il meglio dell'R&B italiano. Cover: Delicatoni",
   "name": "anima R&B",
   "tracks": [
     {
@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Clich\u00e8",
+        "url": "https://open.spotify.com/album/2a1jJ4YuYbm57eRUpYI9Ne"
+      },
+      "artists": [
+        {
+          "name": "Sellie",
+          "url": "https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174062,
+      "name": "Clich\u00e8",
+      "url": "https://open.spotify.com/track/6IDu2U5nydqvBM4UAXCyxj"
+    },
+    {
+      "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/5c71nbw4lllzQE8AKXO7yH"
       },
@@ -900,6 +918,24 @@
       "duration_ms": 220408,
       "name": "Come se ballassimo",
       "url": "https://open.spotify.com/track/6vqp7l8bvamjZoihR5lu9b"
+    },
+    {
+      "album": {
+        "name": "Come se Ballassimo",
+        "url": "https://open.spotify.com/album/7gmsfsBP15wDEcQXqwUnQA"
+      },
+      "artists": [
+        {
+          "name": "Etta Jungle",
+          "url": "https://open.spotify.com/artist/4qx8XNik3zFtPhaiIqwiMR"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184714,
+      "name": "Come se Ballassimo",
+      "url": "https://open.spotify.com/track/4aLp3lEAzKtMMbpYICQYEZ"
     },
     {
       "album": {
@@ -1332,7 +1368,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 267111,
       "name": "Domenica Berici",
       "url": "https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk"
@@ -1807,6 +1843,32 @@
     },
     {
       "album": {
+        "name": "ci\u00f2 che cerco di nascondere",
+        "url": "https://open.spotify.com/album/6iBxZgIpHNrWTrU4kgw974"
+      },
+      "artists": [
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        },
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        },
+        {
+          "name": "heysimo",
+          "url": "https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178468,
+      "name": "fuoco & fiamme",
+      "url": "https://open.spotify.com/track/14Z7Nuo9LNT6u1nGVb3s8O"
+    },
+    {
+      "album": {
         "name": "FUOCO (LA NOTTE)",
         "url": "https://open.spotify.com/album/3FFJZI70SRGC1M9zk5h5Ub"
       },
@@ -1963,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Giorno libero",
+        "url": "https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207698,
+      "name": "Giorno libero",
+      "url": "https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7"
+    },
+    {
+      "album": {
         "name": "Giovani",
         "url": "https://open.spotify.com/album/5VSPR5wdl2yxoszGQaTaO5"
       },
@@ -2044,10 +2124,32 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 173662,
       "name": "Guardi me",
       "url": "https://open.spotify.com/track/2rhgFnHPj3MsLYRjDg1b64"
+    },
+    {
+      "album": {
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/5NbTjqelBHpGM4667BbhS0"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        },
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179779,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/7HIXGgggoGN2iBes7Ls4CY"
     },
     {
       "album": {
@@ -3852,7 +3954,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 177744,
       "name": "Perdermi",
       "url": "https://open.spotify.com/track/6pF0XneVxp19Yd0tn40Rqx"
@@ -3986,6 +4088,24 @@
       "duration_ms": 175871,
       "name": "Polistirene",
       "url": "https://open.spotify.com/track/0PM1zOjPPI6IZU2ZuvvBkp"
+    },
+    {
+      "album": {
+        "name": "POMPELMO",
+        "url": "https://open.spotify.com/album/7pxoglx2qjOPF6MXVBtphx"
+      },
+      "artists": [
+        {
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "POMPELMO",
+      "url": "https://open.spotify.com/track/1B4famtLuKEMUaybP76Dkn"
     },
     {
       "album": {
@@ -4434,6 +4554,24 @@
       "duration_ms": 184421,
       "name": "salvare",
       "url": "https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf"
+    },
+    {
+      "album": {
+        "name": "Schiena",
+        "url": "https://open.spotify.com/album/6u129fkm3vUPwOje9CIjP6"
+      },
+      "artists": [
+        {
+          "name": "Limo",
+          "url": "https://open.spotify.com/artist/0jF3fDGxLXAQtrSDwzqdsa"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Schiena",
+      "url": "https://open.spotify.com/track/67VeNOM3isWCI8zGu949BD"
     },
     {
       "album": {
@@ -5372,6 +5510,28 @@
       "duration_ms": 170571,
       "name": "Tutto da rifare",
       "url": "https://open.spotify.com/track/2ESOFOksMJ58Pn1K9iVCe8"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/3GlEHam8rrkJhqitV5jw0a"
+      },
+      "artists": [
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        },
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/6mEvUdcumrH3O0uM0Study"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6xDskSDQjJrP0H1lYWhvCj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-1,678 songs - 3 day 4 hr 19 min
+1,679 songs - 3 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [agony](https://open.spotify.com/track/7dVq1qwYChl5q0VDuyL8jt) | [grandee](https://open.spotify.com/artist/3y55m0N1avYIR8xavgoztD) | [agony](https://open.spotify.com/album/3wGuOZiFXDZlwD3gMYI0rt) | 2:48 | 2021-01-08 | 2021-09-24 |
 | [Aiming](https://open.spotify.com/track/4oO81MAvWw9bW4UKkgpFhH) | [Pitfall](https://open.spotify.com/artist/0bonINZ3DoCiYoXtLWwQTG) | [Aiming](https://open.spotify.com/album/0B0xo3zyUlKVTqN1RqbooM) | 1:53 | 2021-01-23 | 2021-09-24 |
 | [algae](https://open.spotify.com/track/2DjP4YFuiBuwS6byzHBxhG) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [Stone Ocean](https://open.spotify.com/album/0tYqX7syTyiaW6UHgFcVu1) | 2:17 | 2020-10-16 | 2020-12-09 |
-| [algae SAB3R 2](https://open.spotify.com/track/4kNbWMa1oEKYgEQYmuI1oV) | [blackwinterwells](https://open.spotify.com/artist/4mN449htHmsHZQ0uL2SdXW), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc), [SAB3R 2](https://open.spotify.com/artist/3SVJ0gzRePwuJkBhap2rEd) | [algae SAB3R 2](https://open.spotify.com/album/5QuRFlNk3A1PhFvlVGAxil) | 3:47 | 2023-03-03 |  |
+| [algae SAB3R 2](https://open.spotify.com/track/4kNbWMa1oEKYgEQYmuI1oV) | [blackwinterwells](https://open.spotify.com/artist/4mN449htHmsHZQ0uL2SdXW), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc), [SAB3R 2](https://open.spotify.com/artist/3SVJ0gzRePwuJkBhap2rEd) | [algae SAB3R 2](https://open.spotify.com/album/5QuRFlNk3A1PhFvlVGAxil) | 3:47 | 2023-03-03 | 2023-03-31 |
 | [Alice](https://open.spotify.com/track/5N65g3jn0L4jNbghI09NAC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Alice / Buckingham](https://open.spotify.com/album/78ame0sl1YXuFyn78kqJfz) | 3:34 | 2022-05-27 | 2022-07-09 |
 | [ALICE feat\. Smrtdeath](https://open.spotify.com/track/1f3B673FJoiy8tvvgCTUQX) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [ALICE feat\. Smrtdeath](https://open.spotify.com/album/672rTrDiyZfu7fzfQzHpzK) | 2:21 | 2021-07-16 | 2022-01-13 |
 | [ALICE feat\. Smrtdeath](https://open.spotify.com/track/1l4U7aYnrdUIMQx0hr3MIM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [ALICE feat\. Smrtdeath](https://open.spotify.com/album/6sF9tVj3x9IAZJBjjpkt3F) | 2:21 | 2021-06-12 | 2021-09-16 |
@@ -625,6 +625,7 @@
 | [GOTH GF](https://open.spotify.com/track/6uD1Of3Jh8eiOIpyuvyZ2q) | [plainfacedgirl](https://open.spotify.com/artist/56ndcMHyMOYHVclwDDHXcs), [sawcy\_boy](https://open.spotify.com/artist/1OYydThWYMx7OqEFMoNYsT) | [SAWCY GIRL](https://open.spotify.com/album/0ltPCVVhlcx3CfGkle1WGC) | 2:03 | 2021-09-18 | 2021-11-13 |
 | [grandma got run over by a lawnmower](https://open.spotify.com/track/6N3V6QCj9ZfQfb1zFeRUhT) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [grandma got run over by a lawnmower](https://open.spotify.com/album/5oM3AsoclZej9YFvAtInaq) | 1:40 | 2021-04-27 | 2021-11-13 |
 | [grassfield](https://open.spotify.com/track/0ttzFY7Okxr0sRfzlDfyGk) | [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [grassfield](https://open.spotify.com/album/0NpvThEmaOj2QcRlre4H0b) | 3:06 | 2022-06-10 | 2022-11-12 |
+| [GREEN APPLE PASTE](https://open.spotify.com/track/4ysStr4DagYqkaCbTPWqHe) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [GREEN APPLE PASTE](https://open.spotify.com/album/0zwZWs2lxWihruArt4JAc9) | 1:41 | 2023-03-30 |  |
 | [GREEN SPORE VALLEY](https://open.spotify.com/track/496TD3rnHUlD3hJiTU2vmp) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [META](https://open.spotify.com/album/2HGBn0RTVefCuQAkCX4zb3) | 3:41 | 2022-07-08 | 2022-08-20 |
 | [grinning](https://open.spotify.com/track/7Bcov4ktc7cLnIo7cbKiZw) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR), [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu) | [grinning](https://open.spotify.com/album/43LIECYFd4gDuScmebpa8B) | 2:25 | 2020-10-13\* | 2021-02-10 |
 | [Grins](https://open.spotify.com/track/6PVMVmACGqDs2BP50tEX6s) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:52 | 2021-02-10 | 2021-02-26 |

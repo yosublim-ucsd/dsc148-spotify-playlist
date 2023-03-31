@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring J\. Worra & Shift K3Y
 
-968 songs - 2 day 9 hr 24 min
+969 songs - 2 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-13 |  |
 | [Bump](https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Bump](https://open.spotify.com/album/1mVjBu4XgPatNN47jCNrUg) | 3:07 | 2022-10-21 | 2022-12-17 |
 | [Bump Grind](https://open.spotify.com/track/23f1lYLTKQ1qwjN7HHLHAK) | [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Bump Grind](https://open.spotify.com/album/0iZTpE6J1rEs6yn8gn2kKb) | 4:04 | 2021-11-26 | 2022-01-06 |
-| [Bumpin'](https://open.spotify.com/track/6masBtuCi0T2n8WF9juFz3) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Bumpin'](https://open.spotify.com/album/73IsqaOLlkjLVDv7xyqjKA) | 4:12 | 2023-02-03 |  |
+| [Bumpin'](https://open.spotify.com/track/6masBtuCi0T2n8WF9juFz3) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Bumpin'](https://open.spotify.com/album/73IsqaOLlkjLVDv7xyqjKA) | 4:12 | 2023-02-03 | 2023-03-31 |
 | [Bumpin'](https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Bumpin'](https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv) | 3:28 | 2023-03-10 | 2023-03-18 |
 | [Bumpin'](https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Bumpin'](https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo) | 2:50 | 2022-06-03 | 2022-08-06 |
 | [Burn This House](https://open.spotify.com/track/5HYOVRe3chMbHoFnGxdxWC) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House](https://open.spotify.com/album/54p2xfsHK8EbDCSLsEX956) | 3:35 | 2022-05-06 | 2022-07-30 |
@@ -239,7 +239,7 @@
 | [El Cuervo](https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [El Cuervo](https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi) | 3:08 | 2022-03-18 | 2022-06-11 |
 | [El Oh Vee Ee](https://open.spotify.com/track/2qg9rX4JsmSXIsv1aqucm9) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [El Oh Vee Ee](https://open.spotify.com/album/1RSEErTX6MymSpxhNR4PYm) | 3:31 | 2022-06-24 | 2022-08-20 |
 | [Elevate](https://open.spotify.com/track/5eMeAtZfTgo3iuGx8WRwzq) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Elevate](https://open.spotify.com/album/4Y64zpllDSyHtP6zHv38vC) | 3:16 | 2022-04-01 | 2022-06-04 |
-| [Emphasis](https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Emphasis](https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM) | 4:11 | 2023-01-13 |  |
+| [Emphasis](https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Emphasis](https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM) | 4:11 | 2023-01-13 | 2023-03-31 |
 | [Endlessly \- Volkoder Remix](https://open.spotify.com/track/7cWnz1GRldkvt4dZ0VeRBt) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl), [Kytsa](https://open.spotify.com/artist/5lGmx0FOJ0do3Dm5rnNAPK), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Endlessly \(Volkoder Remix\)](https://open.spotify.com/album/50ByBuZU8246AtQZ8513NG) | 3:29 | 2021-11-26 | 2022-01-06 |
 | [ENDO](https://open.spotify.com/track/5SOVnhMqSj04EfEeF8QAPe) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [ENDO](https://open.spotify.com/album/2sokOr3xA8iHb5rnFpZw4b) | 3:10 | 2022-06-17 | 2022-08-06 |
 | [Energy](https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Energy](https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb) | 3:02 | 2023-03-24 |  |
@@ -631,7 +631,7 @@
 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 | 2021-12-14 | 2022-04-23 |
 | [Pa Lante](https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9) | [Pa Lante](https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC) | 2:10 | 2023-02-17 |  |
 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 | 2022-02-25 | 2022-06-04 |
-| [Pam Pam](https://open.spotify.com/track/5vwDbalq8UurGS7tTz0ZlJ) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pam Pam](https://open.spotify.com/album/3Slmff9B119rqiFAhSFd5h) | 3:33 | 2023-02-24 | 2023-03-30 |
+| [Pam Pam](https://open.spotify.com/track/5vwDbalq8UurGS7tTz0ZlJ) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pam Pam](https://open.spotify.com/album/3Slmff9B119rqiFAhSFd5h) | 3:33 | 2023-02-24 |  |
 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 | 2022-07-29 | 2022-10-01 |
 | [Panamera](https://open.spotify.com/track/4AyLlInZOKim5wDqoW0f6L) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Panamera](https://open.spotify.com/album/43K4COEdYbvCRGlJkjW1nK) | 3:28 | 2023-01-06 | 2023-01-21 |
 | [Papapo](https://open.spotify.com/track/19kKBMycCxe3KQP8Ljaruz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Papapo](https://open.spotify.com/album/2dm5V14JgMy0tb8A5tGrn8) | 2:46 | 2023-01-20 |  |
@@ -780,6 +780,7 @@
 | [Sometimes](https://open.spotify.com/track/6FIMkyHbGmBwdTTLexMb9h) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Sometimes](https://open.spotify.com/album/37fpjqTSqYLV6ybowtvGCI) | 3:25 | 2021-11-26 | 2022-01-06 |
 | [Soul System](https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [ISOLAT003](https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh) | 3:43 | 2022-01-05 | 2022-02-26 |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-14 | 2023-02-04 |
+| [Sounding Fresh, Again](https://open.spotify.com/track/4rTnrJc38G4KNOr4kG9yWy) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Sounding Fresh, Again](https://open.spotify.com/album/6r9eCzQz0Hy0q5NdNSWxRf) | 2:28 | 2023-03-24 |  |
 | [Southside Riddim](https://open.spotify.com/track/5jBrR9YpodXfkakRSYfpNk) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Southside Riddim](https://open.spotify.com/album/2YB68yCF6cUQDsNstCE2k8) | 3:24 | 2022-02-25 | 2022-06-11 |
 | [Spark It Up](https://open.spotify.com/track/7730PSuJMcj9spFaKdiNHX) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Miss Patty](https://open.spotify.com/artist/0QiymFD0SV4pyHov26kmvo) | [Spark It Up](https://open.spotify.com/album/4QM2Novr2LsNSKWRjFCkEj) | 3:16 | 2022-12-09 | 2022-12-17 |
 | [Spooky](https://open.spotify.com/track/2strBUa5wqXflJ1P5OHPUr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Grace Galu](https://open.spotify.com/artist/4ZDvMIGKnQwEJl0hIwLynN) | [Spooky](https://open.spotify.com/album/6UfKa4tiMxXCrc84faB64N) | 2:51 | 2022-09-16 | 2022-11-19 |

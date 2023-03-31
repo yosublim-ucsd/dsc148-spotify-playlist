@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Inquietos Por El Mundo",
+        "url": "https://open.spotify.com/album/4ZfQmJiIAjQyOivNcmprP1"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "Te Quiero Mas",
+      "url": "https://open.spotify.com/track/63txzgrUTqOb6yWJQfUpKF"
+    },
+    {
+      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
       },

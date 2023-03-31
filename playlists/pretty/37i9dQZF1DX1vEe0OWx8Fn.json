@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 66070,
+  "num_followers": 66130,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMGRmMGZkODlmOTIxODIxYjE1NDdiMmI2NjhiNzc0NGEw",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMGMyMDY3YzE0MDk3MTQwN2U1ZWZiOWRmM2FmMjlhZGM3",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -809,20 +809,20 @@
       "url": "https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1"
     },
     {
-      "added_at": "2022-12-08 13:00:09",
+      "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "sos",
-        "url": "https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK"
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
       },
       "artists": [
         {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 149627,
-      "name": "sos",
-      "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
+      "duration_ms": 205723,
+      "name": "NO VANITY",
+      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
     },
     {
       "added_at": "2022-12-08 13:00:09",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
     },
     {
-      "added_at": "2022-08-16 22:06:35",
+      "added_at": "2022-12-08 13:00:09",
       "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+        "name": "sos",
+        "url": "https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
         }
       ],
-      "duration_ms": 205723,
-      "name": "NO VANITY",
-      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
+      "duration_ms": 149627,
+      "name": "sos",
+      "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
     }
   ],
   "unique_name": "dear diary",

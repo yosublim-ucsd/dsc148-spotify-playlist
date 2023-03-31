@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,488 likes - 110 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,483 likes - 110 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

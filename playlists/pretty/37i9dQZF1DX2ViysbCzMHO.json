@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 118283,
+  "num_followers": 118421,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3MTQ1NywwMDAwMDAwMDRhOGNlNmIwYTllYmQ4MWZiNzYxYzlkZjU0M2ZkMmYy",
+  "snapshot_id": "MTY3ODk3MTQ1NywwMDAwMDAwMDAyOTQzOTgzOTE4YmI2YjM2OTMxNGM2YmZmMjk5YmFl",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "The Cowboy In Me (Yellowstone Edition)",
+        "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 217676,
+      "name": "The Cowboy In Me - Yellowstone Edition",
+      "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Love Like I Drink",
         "url": "https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 195309,
       "name": "Love Like I Drink",
       "url": "https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "The Cowboy In Me (Yellowstone Edition)",
-        "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 217676,
-      "name": "The Cowboy In Me - Yellowstone Edition",
-      "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "The Night: The Collection",
-        "url": "https://open.spotify.com/album/1GyXxGLL5CydaN34idnfzr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 213963,
-      "name": "The Night (Part 2 - Acoustic)",
-      "url": "https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "St. Louis",
         "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 274964,
       "name": "St. Louis",
       "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "The Night: The Collection",
+        "url": "https://open.spotify.com/album/1GyXxGLL5CydaN34idnfzr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 213963,
+      "name": "The Night (Part 2 - Acoustic)",
+      "url": "https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
     },
     {
-      "added_at": "2023-03-30 00:59:01",
+      "added_at": "2023-03-31 00:42:24",
       "album": {
         "name": "A Special Place (Acoustic)",
         "url": "https://open.spotify.com/album/2e6ZHZ1LMzlh0vwpC35NGh"
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Handful / Already Broke Up",
-        "url": "https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 162632,
-      "name": "Handful - Acoustic",
-      "url": "https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Take My Name (Wedding Version)",
         "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 174133,
       "name": "Take My Name - Wedding Version",
       "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Handful / Already Broke Up",
+        "url": "https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 162632,
+      "name": "Handful - Acoustic",
+      "url": "https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Studio 900 Sessions",
         "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
       "artists": [
         {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
         }
       ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Truth Is (Acoustic)",
-        "url": "https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Truth Is - Acoustic",
-      "url": "https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "She Had Me At Heads Carolina (Acoustic)",
         "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 196306,
       "name": "She Had Me At Heads Carolina - Acoustic",
       "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Truth Is (Acoustic)",
+        "url": "https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Truth Is - Acoustic",
+      "url": "https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Be The Whiskey (Acoustic)",
-        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 182027,
-      "name": "Be The Whiskey - Acoustic",
-      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Born in July (The Album)",
         "url": "https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 164234,
       "name": "Not Supposed To Know Each Other (Sad Version)",
       "url": "https://open.spotify.com/track/2ZVec8GTFATsJBkYdKhagf"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Be The Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 182027,
+      "name": "Be The Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
     },
     {
       "added_at": "2023-03-03 05:00:00",

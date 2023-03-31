@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 172000,
       "name": "Bouncing in the lord (BITL)",
       "url": "https://open.spotify.com/track/1OxCvhC4uPa8YVMyDD76TL"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 168012,
       "name": "Curry",
       "url": "https://open.spotify.com/track/2S6JR0CGGHCtVwjuNoBRza"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 211808,
       "name": "ELEDUMARE",
       "url": "https://open.spotify.com/track/0dkHILI67mNnH44czjVCzr"
@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6OLL50q31uu23zvlCc4MtY"
+    },
+    {
+      "album": {
         "name": "Normally",
         "url": "https://open.spotify.com/album/3P7aBiyJgBZJujzQamTaBF"
       },
@@ -1582,6 +1600,32 @@
       "duration_ms": 168326,
       "name": "NOTHING",
       "url": "https://open.spotify.com/track/4CTFXBYcl5AHGRee4b2CAO"
+    },
+    {
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/1WzR4KS2GYPKpJJ6Lg6uiO"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Sharyn",
+          "url": "https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225714,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/7MuaxCreOLw1Gu6rgvQi1S"
     },
     {
       "album": {
@@ -1992,6 +2036,36 @@
       "duration_ms": 211120,
       "name": "SOT\u00c9",
       "url": "https://open.spotify.com/track/3FL6MjpcEuMY3Dpn3IcI2F"
+    },
+    {
+      "album": {
+        "name": "Spirit Move",
+        "url": "https://open.spotify.com/album/5lmU2DbwD1b3XgCw2NdVfS"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Se Ok",
+          "url": "https://open.spotify.com/artist/3IqJXZCA5miX8xpz4YekS8"
+        },
+        {
+          "name": "Dave Cobs",
+          "url": "https://open.spotify.com/artist/3STr2mUS8xTE5Fgb5WW4rW"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227180,
+      "name": "Spirit Move",
+      "url": "https://open.spotify.com/track/5OOrmtWISmgUF9m5iCSurG"
     },
     {
       "album": {

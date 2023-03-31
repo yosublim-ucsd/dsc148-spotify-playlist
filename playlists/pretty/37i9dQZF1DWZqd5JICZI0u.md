@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,610,919 likes - 246 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,611,682 likes - 246 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,19 +18,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 8 | [Aurora](https://open.spotify.com/track/1OraD6cUqvKrh8A5skqtBh) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Aurora](https://open.spotify.com/album/3jAfYsRRP5zGAqbikyROKa) | 3:22 |
 | 9 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 |
 | 10 | [Hjarta](https://open.spotify.com/track/3f2G3OMu792Qi3A4cvrXyq) | [Otri Jochumsson](https://open.spotify.com/artist/4x8y3T6YzB4qB3MKPZT0mh) | [Hjarta](https://open.spotify.com/album/4MmLjUIltybQH4BZhhRwuB) | 2:11 |
-| 11 | [Mother of Cloud](https://open.spotify.com/track/2AtIhIwqJyKh78yRF3sW1T) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Mother Of Cloud](https://open.spotify.com/album/29a1Q1rRd72hPMEy9jhbfb) | 3:08 |
-| 12 | [Sigur](https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Sigur](https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l) | 2:56 |
-| 13 | [Rejuvenation](https://open.spotify.com/track/1LOOSwvEOVkuDZs4UzLjml) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Premonition](https://open.spotify.com/album/4EjQ1CLdhkUlRWKzSl0H9x) | 1:54 |
-| 14 | [Diya](https://open.spotify.com/track/1FEQqp99xeDhPOyio58L2N) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Diya](https://open.spotify.com/album/75RWs6QheVsXJjnNLal5XB) | 2:23 |
-| 15 | [Massive Star](https://open.spotify.com/track/6vGv1sWN9fjEycbX2LUEAh) | [Charmayanne Heart](https://open.spotify.com/artist/13nuvqJex4tgWPY8Rb8H9H) | [Hypnotic Energy](https://open.spotify.com/album/7tB3dez6h6ijKqKlSm1RWH) | 3:34 |
-| 16 | [Positive Thinking](https://open.spotify.com/track/66KL79kEj6c6iOz16ub3i7) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Positive Thinking](https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0) | 2:25 |
-| 17 | [Light As A Feather](https://open.spotify.com/track/0wypWTAtmCmA4ux1cQekgW) | [Skila Phani](https://open.spotify.com/artist/6HpVi4UMmmPM8oUsLy4pnO) | [Light As A Feather](https://open.spotify.com/album/1jkFINHdYVrEeIQEWEQrk3) | 2:55 |
-| 18 | [Kip](https://open.spotify.com/track/2OFRqrTCGaxJgi5pKICi8t) | [Omnium Tal](https://open.spotify.com/artist/5aWinRRUMWDwSjwUMCNZP9) | [Kip](https://open.spotify.com/album/1uQZiWHm7zqy9S9mninlDY) | 2:37 |
-| 19 | [Yael](https://open.spotify.com/track/0IUMxL5vvNXnOONt4XOQZE) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Occo](https://open.spotify.com/album/04kUJ5taRxFums5i4QWO8h) | 3:03 |
-| 20 | [Black hole](https://open.spotify.com/track/5iD6NihVFdiA9hp03qH8Ho) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Solid Mercury](https://open.spotify.com/album/5hF6PGmJIwBssjOccmxNOT) | 3:06 |
-| 21 | [Calm Mind \- With melody](https://open.spotify.com/track/1zYHFgm61lBrc5R3hvGSL6) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Restfulness](https://open.spotify.com/album/3GizvT7eewjRZ5JglHUqto) | 5:33 |
-| 22 | [Sustained Release](https://open.spotify.com/track/7hw7tbWzTHgwuNjgAHD3Nl) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Sustained Release](https://open.spotify.com/album/69PXUHPf8Ra1ocZ7t5QNZ9) | 2:22 |
-| 23 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 |
+| 11 | [Dancing Particles](https://open.spotify.com/track/1XdPZYPszsxsxtnz1D2KGa) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:56 |
+| 12 | [Mother of Cloud](https://open.spotify.com/track/2AtIhIwqJyKh78yRF3sW1T) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Mother Of Cloud](https://open.spotify.com/album/29a1Q1rRd72hPMEy9jhbfb) | 3:08 |
+| 13 | [Sigur](https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Sigur](https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l) | 2:56 |
+| 14 | [Rejuvenation](https://open.spotify.com/track/1LOOSwvEOVkuDZs4UzLjml) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Premonition](https://open.spotify.com/album/4EjQ1CLdhkUlRWKzSl0H9x) | 1:54 |
+| 15 | [Diya](https://open.spotify.com/track/1FEQqp99xeDhPOyio58L2N) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Diya](https://open.spotify.com/album/75RWs6QheVsXJjnNLal5XB) | 2:23 |
+| 16 | [Massive Star](https://open.spotify.com/track/6vGv1sWN9fjEycbX2LUEAh) | [Charmayanne Heart](https://open.spotify.com/artist/13nuvqJex4tgWPY8Rb8H9H) | [Hypnotic Energy](https://open.spotify.com/album/7tB3dez6h6ijKqKlSm1RWH) | 3:34 |
+| 17 | [Positive Thinking](https://open.spotify.com/track/66KL79kEj6c6iOz16ub3i7) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Positive Thinking](https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0) | 2:25 |
+| 18 | [Light As A Feather](https://open.spotify.com/track/0wypWTAtmCmA4ux1cQekgW) | [Skila Phani](https://open.spotify.com/artist/6HpVi4UMmmPM8oUsLy4pnO) | [Light As A Feather](https://open.spotify.com/album/1jkFINHdYVrEeIQEWEQrk3) | 2:55 |
+| 19 | [Kip](https://open.spotify.com/track/2OFRqrTCGaxJgi5pKICi8t) | [Omnium Tal](https://open.spotify.com/artist/5aWinRRUMWDwSjwUMCNZP9) | [Kip](https://open.spotify.com/album/1uQZiWHm7zqy9S9mninlDY) | 2:37 |
+| 20 | [Yael](https://open.spotify.com/track/0IUMxL5vvNXnOONt4XOQZE) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Occo](https://open.spotify.com/album/04kUJ5taRxFums5i4QWO8h) | 3:03 |
+| 21 | [Black hole](https://open.spotify.com/track/5iD6NihVFdiA9hp03qH8Ho) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Solid Mercury](https://open.spotify.com/album/5hF6PGmJIwBssjOccmxNOT) | 3:06 |
+| 22 | [Calm Mind \- With melody](https://open.spotify.com/track/1zYHFgm61lBrc5R3hvGSL6) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Restfulness](https://open.spotify.com/album/3GizvT7eewjRZ5JglHUqto) | 5:33 |
+| 23 | [Sustained Release](https://open.spotify.com/track/7hw7tbWzTHgwuNjgAHD3Nl) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Sustained Release](https://open.spotify.com/album/69PXUHPf8Ra1ocZ7t5QNZ9) | 2:22 |
 | 24 | [Slowdown](https://open.spotify.com/track/3nTFwQs9Oxz1KEtZn0Q7AK) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Slowdown](https://open.spotify.com/album/79Xcn04N8Ngs5vfkKCuTYa) | 2:39 |
 | 25 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 |
 | 26 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 |
@@ -255,4 +255,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 245 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 |
 | 246 | [On Quiet Feet](https://open.spotify.com/track/2F1P6vX0GjpWQztCwkoR9Z) | [Ria Mackenzie](https://open.spotify.com/artist/5bwSqSzPLBLTyy8G5dOK49) | [On Quiet Feet](https://open.spotify.com/album/398T3ZFWN5HJ2BxtRTyNRg) | 3:00 |
 
-Snapshot ID: `MTY3OTAxMTI2MCwwMDAwMDAwMDQ4NDU5NjQwMDI1MTFhMzAwYjM2MDcyM2E3Njc2NTdk`
+Snapshot ID: `MTY4MDE5MDEwMywwMDAwMDAwMDcyZDQ2MmQ2Y2IwODQ4MWJkODI4MTJiODQ3MjZkYjQ3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp?si=segy5JmMRMu1JpWyfZhH0Q\">Major Lazer</a> and <a href=\"https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=JwBDEGPfSia6o-GgT9Mafw\">Major League Djz</a>.",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=inrUBj1kQ12dmnpB0B8_aQ\">Uncle Waffles</a>.",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -1107,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Amakhamandela",
+        "url": "https://open.spotify.com/album/4MwXWUVrUYk8r05L95XTB5"
+      },
+      "artists": [
+        {
+          "name": "Miza",
+          "url": "https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1"
+        },
+        {
+          "name": "Buhlebendalo",
+          "url": "https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270194,
+      "name": "Amakhamandela - Radio-Edit",
+      "url": "https://open.spotify.com/track/6HnjB2NnimZnQRumWzLd2Y"
+    },
+    {
+      "album": {
         "name": "Amanga",
         "url": "https://open.spotify.com/album/6n84lkAUzpRI4f6Suco38S"
       },
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 412712,
       "name": "Angisekho Kuwe",
       "url": "https://open.spotify.com/track/69GlQMIH569SxAIGq71lK5"
@@ -2822,6 +2844,32 @@
       "duration_ms": 435049,
       "name": "Bawo (feat. Nobuhle & Yallunder)",
       "url": "https://open.spotify.com/track/07en10Hr3ogc2v81rBrGE2"
+    },
+    {
+      "album": {
+        "name": "Bayede (Boarding School Piano Edition)",
+        "url": "https://open.spotify.com/album/3RipvteBX5b8s6mAXJAmVs"
+      },
+      "artists": [
+        {
+          "name": "Mbuso de Mbazo",
+          "url": "https://open.spotify.com/artist/2e4bNESMyPyfdLjpZ83g9O"
+        },
+        {
+          "name": "Tamsi 2.o",
+          "url": "https://open.spotify.com/artist/6L1Uy1fIxVyRkVnVVkagiL"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416574,
+      "name": "Bayede (Boarding School Piano Edition)",
+      "url": "https://open.spotify.com/track/50HL4pGdwqjjthmKdo0nod"
     },
     {
       "album": {
@@ -4304,7 +4352,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 317962,
       "name": "Currency",
       "url": "https://open.spotify.com/track/1e1Lx5RYWoN4p00zMgG2Ms"
@@ -4472,7 +4520,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 377157,
       "name": "Damage Control",
       "url": "https://open.spotify.com/track/4j4eWhH28zwmq8pvhatFjA"
@@ -7720,7 +7768,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 409578,
       "name": "Hwiralang",
       "url": "https://open.spotify.com/track/2EHuGcp8oYEvXPYotvu6k5"
@@ -14292,7 +14340,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 383000,
       "name": "Ngikunika Uthando",
       "url": "https://open.spotify.com/track/52nJW2DTnPP4hzUWkxhYaO"
@@ -14916,7 +14964,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 350725,
       "name": "Ngwano",
       "url": "https://open.spotify.com/track/5OFrZ2MXHFAolXxBdq5fBl"
@@ -17345,6 +17393,32 @@
     },
     {
       "album": {
+        "name": "Shebeleza",
+        "url": "https://open.spotify.com/album/0t1XJIqc1ZyaOkyLou2Oul"
+      },
+      "artists": [
+        {
+          "name": "M.Patrick",
+          "url": "https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv"
+        },
+        {
+          "name": "Murphy Cubic",
+          "url": "https://open.spotify.com/artist/16JkyAB5jDYrsQhYep7ttR"
+        },
+        {
+          "name": "MJ Sings",
+          "url": "https://open.spotify.com/artist/5UvkswLDJGmtap5nWST52m"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263313,
+      "name": "Shebeleza",
+      "url": "https://open.spotify.com/track/4xazJRHlWjFyKfDMYiWLeg"
+    },
+    {
+      "album": {
         "name": "Sheik Money",
         "url": "https://open.spotify.com/album/1wiIdXJbKCBBHK6i3ce3Zh"
       },
@@ -18866,7 +18940,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 220884,
       "name": "Stop & Go",
       "url": "https://open.spotify.com/track/737xtoLdwMx6nNOqYCOkcU"
@@ -19627,6 +19701,32 @@
     },
     {
       "album": {
+        "name": "Thando Kuhle",
+        "url": "https://open.spotify.com/album/2JISueKdwkf2uPBYFCJEtv"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434782,
+      "name": "Thando Kuhle",
+      "url": "https://open.spotify.com/track/08RW3oJiFGEtuNuD7Jekjl"
+    },
+    {
+      "album": {
         "name": "Thando Lwami",
         "url": "https://open.spotify.com/album/57pQnSASkXmMREgFNTeqQh"
       },
@@ -20112,6 +20212,40 @@
       "duration_ms": 317187,
       "name": "Thembi",
       "url": "https://open.spotify.com/track/3GJ9aPZ30fT8lRYCcnjH5a"
+    },
+    {
+      "album": {
+        "name": "Thesha (feat. LeeMcKrazy, TyroneDee & TitoM)",
+        "url": "https://open.spotify.com/album/3D9DZmp6NtPluNdhVCqHXj"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "TumeloZa",
+          "url": "https://open.spotify.com/artist/5kQTsoT4lo0N0UhxQhHQu2"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "TyroneDee",
+          "url": "https://open.spotify.com/artist/3j7EkMzdIv1vAMhetEs5mX"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480351,
+      "name": "Thesha (feat. LeeMcKrazy, TyroneDee & TitoM)",
+      "url": "https://open.spotify.com/track/2iVtgTMwkEGe4kBP39F9Tu"
     },
     {
       "album": {
@@ -21759,6 +21893,40 @@
     },
     {
       "album": {
+        "name": "Umuntu",
+        "url": "https://open.spotify.com/album/0Ok5KYHDVkhxWxWHhgWwoM"
+      },
+      "artists": [
+        {
+          "name": "Pushkin RSA",
+          "url": "https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7"
+        },
+        {
+          "name": "Springle",
+          "url": "https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F"
+        },
+        {
+          "name": "Dash SA",
+          "url": "https://open.spotify.com/artist/5KISi2S4PkRZ0c664xEq0A"
+        },
+        {
+          "name": "T&T Musiq",
+          "url": "https://open.spotify.com/artist/3k3KeoodrBUAOusGGcBnHI"
+        },
+        {
+          "name": "BenyRic",
+          "url": "https://open.spotify.com/artist/5GNaHlz1LNjlfw4VgkTkMZ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351746,
+      "name": "Umuntu",
+      "url": "https://open.spotify.com/track/26PcJXED6V5Cix1rheoQ3G"
+    },
+    {
+      "album": {
         "name": "Umuzi Wethu (feat. Madumane)",
         "url": "https://open.spotify.com/album/4URJDluFa68fasADjp95bE"
       },
@@ -23333,6 +23501,36 @@
     },
     {
       "album": {
+        "name": "Wiralang",
+        "url": "https://open.spotify.com/album/1MbvoRZsFx75Ok4sTWeH4P"
+      },
+      "artists": [
+        {
+          "name": "Reign Racks",
+          "url": "https://open.spotify.com/artist/1zptEeXxvqoIGjily6wUgI"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        },
+        {
+          "name": "Majorsteez",
+          "url": "https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87"
+        },
+        {
+          "name": "Drillvr",
+          "url": "https://open.spotify.com/artist/0jDe9CwgPizCchRVIMwFzj"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381544,
+      "name": "Wiralang",
+      "url": "https://open.spotify.com/track/03k3i0uy4D1ZB3vNiV0aGA"
+    },
+    {
+      "album": {
         "name": "Woza La",
         "url": "https://open.spotify.com/album/6baZBGcKgSj8xncGHcgFkD"
       },
@@ -23424,7 +23622,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 450320,
       "name": "Xola (feat. Nobuhle, Ze2 & Young Stunna)",
       "url": "https://open.spotify.com/track/5uWDenxq03AYLOq83WzLNo"
@@ -23462,6 +23660,44 @@
       "duration_ms": 429871,
       "name": "Yah Yah Yah",
       "url": "https://open.spotify.com/track/3urA5lEgMH3LjMp6L9recf"
+    },
+    {
+      "album": {
+        "name": "Yahyuppiyah (feat. Pcee, EeQue, Chley)",
+        "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Justin99",
+          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296975,
+      "name": "Yahyuppiyah (feat. Pcee, EeQue, Chley)",
+      "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
     },
     {
       "album": {

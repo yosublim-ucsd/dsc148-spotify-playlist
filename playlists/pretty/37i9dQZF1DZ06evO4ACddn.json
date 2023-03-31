@@ -1,15 +1,15 @@
 {
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
-  "num_followers": 865,
+  "num_followers": 864,
   "original_name": "This Is Lonely The Brave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMDE1MjQsMDAwMDAwMDBjZDJjOWE3NzNjMmU1NjkzNTNlZTgxN2M4ZDhmMGQ3MQ==",
+  "snapshot_id": "MjgwMDMyMjQsMDAwMDAwMDA4NDU3Y2UxM2I5OTg0YzJlNDM4YzdmZDk0Mjk5Nzc3ZA==",
   "tracks": [
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "The Day's War (Victory Edition)",
         "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "The Day's War (Victory Edition)",
         "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "Open Door",
         "url": "https://open.spotify.com/album/6AzBVVQb8qfA92sPKWljH4"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6jsMPT55Il0q1VfaWaqBhy"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "Things Will Matter (Redux)",
         "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "Only You Say It",
-        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 200932,
-      "name": "Only You Say It",
-      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Trick of the Light",
-      "url": "https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "The Hope List",
         "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
@@ -121,7 +89,39 @@
       "url": "https://open.spotify.com/track/1CHVMZOzCUr7ytuyM3Mclb"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Trick of the Light",
+      "url": "https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "Only You Say It",
+        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 200932,
+      "name": "Only You Say It",
+      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
@@ -137,39 +137,7 @@
       "url": "https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Radar - Redux",
-      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Deserter",
-      "url": "https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "The Hope List",
         "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
@@ -185,7 +153,39 @@
       "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Deserter",
+      "url": "https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
@@ -201,39 +201,7 @@
       "url": "https://open.spotify.com/track/49b0ahtMJNiQXNjIvMbwKX"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "The Rat",
-        "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "The Rat",
-      "url": "https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Victory Line",
-      "url": "https://open.spotify.com/track/5ANtXtO9R4gR16Q41yCOtR"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "The Hope List",
         "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
@@ -249,7 +217,39 @@
       "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Victory Line",
+      "url": "https://open.spotify.com/track/5ANtXtO9R4gR16Q41yCOtR"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "The Rat",
+        "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "The Rat",
+      "url": "https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
@@ -265,39 +265,7 @@
       "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "Comfortably Numb",
-        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 379103,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 69413,
-      "name": "The Day's War",
-      "url": "https://open.spotify.com/track/4hojR5MvY3Ut9h15ueqxvS"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "The Hope List",
         "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
@@ -313,7 +281,39 @@
       "url": "https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 69413,
+      "name": "The Day's War",
+      "url": "https://open.spotify.com/track/4hojR5MvY3Ut9h15ueqxvS"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "Comfortably Numb",
+        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 379103,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
@@ -329,39 +329,7 @@
       "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "Diamond Days EP",
-        "url": "https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Two Heads",
-      "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Kings of the Mountain",
-      "url": "https://open.spotify.com/track/6pOvCv7rA3gkTFtpyDGyiI"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "The Hope List",
         "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
@@ -377,10 +345,10 @@
       "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
       },
       "artists": [
         {
@@ -388,15 +356,15 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 314866,
-      "name": "What If You Fall In",
-      "url": "https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX"
+      "duration_ms": 260786,
+      "name": "Kings of the Mountain",
+      "url": "https://open.spotify.com/track/6pOvCv7rA3gkTFtpyDGyiI"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
-        "name": "Place Isn't Lost",
-        "url": "https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk"
+        "name": "Diamond Days EP",
+        "url": "https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs"
       },
       "artists": [
         {
@@ -404,44 +372,12 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 178588,
-      "name": "Place Isn't Lost",
-      "url": "https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c"
+      "duration_ms": 218533,
+      "name": "Two Heads",
+      "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "Collider",
-        "url": "https://open.spotify.com/album/4kzEdKsDeBsZDJc29ruaWs"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Collider",
-      "url": "https://open.spotify.com/track/4igWyJcAt9X5oXaBiqtuk2"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
-      "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Chasing Knives",
-      "url": "https://open.spotify.com/track/0vVAoUccmbNieQB9YNirV1"
-    },
-    {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
@@ -457,7 +393,71 @@
       "url": "https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0"
     },
     {
-      "added_at": "2023-03-29 12:04:18",
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Chasing Knives",
+      "url": "https://open.spotify.com/track/0vVAoUccmbNieQB9YNirV1"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "Place Isn't Lost",
+        "url": "https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "Place Isn't Lost",
+      "url": "https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "Collider",
+        "url": "https://open.spotify.com/album/4kzEdKsDeBsZDJc29ruaWs"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Collider",
+      "url": "https://open.spotify.com/track/4igWyJcAt9X5oXaBiqtuk2"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "What If You Fall In",
+      "url": "https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX"
+    },
+    {
+      "added_at": "2023-03-30 16:24:30",
       "album": {
         "name": "Dust & Bones",
         "url": "https://open.spotify.com/album/3GHMDiFyBUSZWhLBiBiHK4"

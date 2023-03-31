@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois en 2022\. Photo: Loud \#SpotifyWrapped
 
-104 songs - 5 hr 29 min
+105 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Langue empoisonnée](https://open.spotify.com/track/6SUobbATRGwBGdQytjYAA6) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Capitaine Gaza](https://open.spotify.com/artist/3MHoGWYHorYV0tblzQ1Nzj) | [Cercle Vicieux 3](https://open.spotify.com/album/0ZYkKutre14v6LCaeNQsOw) | 3:44 | 2021-12-07 | 2022-12-01 |
 | [Les apparences](https://open.spotify.com/track/5AgzQ7UOy6Hp7CccataLlw) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Les apparences](https://open.spotify.com/album/7p9odfzi49mR3oNOZX3kx0) | 3:39 | 2021-12-07 | 2022-12-01 |
 | [Madonna](https://open.spotify.com/track/3weKjf1iQu50yzDqkkElUJ) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Madonna](https://open.spotify.com/album/1icLFb5mnypULpcWTtVTj3) | 2:20 | 2021-12-07 | 2022-12-01 |
-| [Mauvaise Humeur](https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:26 | 2022-11-30 |  |
+| [Mauvaise Humeur](https://open.spotify.com/track/46lwu7OK2U1p7F4Y649MvX) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:26 | 2022-11-30 |  |
+| [Mauvaise Humeur](https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:26 | 2022-11-30 | 2023-03-31 |
 | [Mode Sport](https://open.spotify.com/track/7F2rFPdTvgohQMEuAi19VY) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [Mode Sport](https://open.spotify.com/album/2I2jFgR5ElbtnEco6NyXMm) | 3:43 | 2021-12-07 | 2022-12-01 |
 | [Moiman](https://open.spotify.com/track/3uQbNWn5nANXbkw9HfBZwz) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [Les Gradins](https://open.spotify.com/album/4gRjWLWLsBAaIwx2XpfCQL) | 3:30 | 2021-12-07 | 2022-12-01 |
 | [Monkey See Monkey Do](https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Monkey See Monkey Do](https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR) | 3:18 | 2022-11-30 |  |

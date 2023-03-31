@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,459 songs - 4 day 4 hr 42 min
+1,460 songs - 4 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,7 +758,7 @@
 | [Loop 6](https://open.spotify.com/track/0V3FG3i1xL19Js9QFvKbkz) | [Funk Fiction](https://open.spotify.com/artist/12Rrb0zhWhcbaXJhVtrmXz) | [Loop 6](https://open.spotify.com/album/062ojkrN7GMCtGLS2gt2ow) | 4:12 | 2020-05-18 | 2021-01-11 |
 | [Looped](https://open.spotify.com/track/0J3BNRNxMxiLyWvG9hn3t6) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Faze \#45: Butch](https://open.spotify.com/album/4g5n57G6qWCAPxVeO14HAb) | 6:17 | 2020-05-18 | 2022-04-21 |
 | [Lose My Head](https://open.spotify.com/track/5HWQWYk7rgkRA9fJ68geNY) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:23 | 2020-05-18 | 2020-07-03 |
-| [Losing Ground](https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Tishmal](https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu) | [Losing Ground](https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq) | 4:33 | 2022-12-09 |  |
+| [Losing Ground](https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Tishmal](https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu) | [Losing Ground](https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq) | 4:33 | 2022-12-09 | 2023-03-31 |
 | [Lost](https://open.spotify.com/track/3XYMybUYCtTKm3ZzoJmn8C) | [Deltium](https://open.spotify.com/artist/0QroI8p7Rd0bK54HCFtelN) | [Fields of White](https://open.spotify.com/album/6hNh6rAko5Z5dtcgoKRzve) | 4:19 | 2022-12-28 | 2023-01-06 |
 | [Lost](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Lost](https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu) | 4:47 | 2023-01-20 |  |
 | [Lost](https://open.spotify.com/track/5WYNZf8enqbyPk4bKXKpou) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lost](https://open.spotify.com/album/0ksXLhcJTB8DLxoEFnV93Z) | 3:26 | 2022-02-18 | 2022-07-27 |
@@ -1406,6 +1406,7 @@
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-02-06 | 2022-10-17 |
 | [When You’re Dreaming](https://open.spotify.com/track/4UQWvx7zTXxveHGK3ZRWdb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [When You’re Dreaming](https://open.spotify.com/album/4YkPkktGstfAWaaGvKTUuQ) | 2:53 | 2020-08-06 | 2022-04-20 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2020-03-16 | 2020-10-09 |
+| [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-03-10 |  |
 | [Where To Go](https://open.spotify.com/track/5EIPYlUGHcWXFV8DHINuBa) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/4PpRIBNZW0EW3gG3dwAuLX) | 4:11 | 2020-03-17 | 2021-01-11 |
 | [Where You Are](https://open.spotify.com/track/3vLKj3lijuDaomIoWPq09S) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Where You Are](https://open.spotify.com/album/4KIRj6RKkN6SqfCe0rOZEX) | 3:25 | 2021-07-30 | 2022-12-29 |
 | [WhereYouGonnaGo?](https://open.spotify.com/track/43ttSUWX6oHVLGboWVq1Kl) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [WhereYouGonnaGo?](https://open.spotify.com/album/6PbHFMJ0iwcRAYclGi02wE) | 5:08 | 2020-05-18 | 2020-07-03 |

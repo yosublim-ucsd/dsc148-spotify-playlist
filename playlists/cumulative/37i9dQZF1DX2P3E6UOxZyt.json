@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2022 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u9396\u5b9a\u83ef\u8a9e\u6a02\u58c7\u7684\u6700\u5f37\u65b0\u8072\u4ee3\uff01\u5927\u63a8\u6f5b\u529b\u7121\u9650\u7684\u4e9e\u6d32\u8072\u52e2\u529b\uff01Cover: \u9ec3\u7f8e\u5a77 (OHMYMEITING)",
+  "description": "2022 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u9396\u5b9a\u83ef\u8a9e\u6a02\u58c7\u7684\u6700\u5f37\u65b0\u8072\u4ee3\uff01\u5927\u63a8\u6f5b\u529b\u7121\u9650\u7684\u4e9e\u6d32\u8072\u52e2\u529b\uff01Cover: \u674e\u4f73\u6b61 (KarFun)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 230327,
       "name": "Dreaming With You",
       "url": "https://open.spotify.com/track/0hoiu4phiHzoJwhl5kutX3"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 182115,
       "name": "leave before u do",
       "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 212181,
       "name": "Maybe Maybe",
       "url": "https://open.spotify.com/track/55e4I1RfHjQT1XAf7glB2J"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 267477,
       "name": "Paradise... How Far?",
       "url": "https://open.spotify.com/track/1gKnFeolxWkGBHDXk2XZLG"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 189705,
       "name": "You Say Goodbye Easily",
       "url": "https://open.spotify.com/track/4JiP9YjPXjP8Axcx779PKk"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 209117,
       "name": "\u4f60\u5f9e\u4f86\u4e0d\u66fe\u5c6c\u65bc\u6211 (Please Make Me Stay)",
       "url": "https://open.spotify.com/track/5DL9Mh2fk5Wz2KgFZY2Iwf"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 232758,
       "name": "\u4f60\u60f3\u8981\u7684",
       "url": "https://open.spotify.com/track/6q4UUs6EOAaP9lHuBYsxnG"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 179081,
       "name": "\u53e5\u53f7\u60f3\u5ff5\u95ee\u53f7",
       "url": "https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A"
@@ -2912,13 +2912,13 @@
       },
       "artists": [
         {
-          "name": "\u5f35\u82e5\u51e1",
+          "name": "\u5f35\u82e5\u51e1RuoFan",
           "url": "https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk"
         }
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "\u552f\u4e00\u7684\u4f60 - \u97d3\u5287\u300a\u73fe\u6b63\u5206\u624b\u4e2d\u300b\u4e2d\u6587\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 126534,
       "name": "\u5531\u4e00\u500bHook",
       "url": "https://open.spotify.com/track/5clGcT1WPdWHHRnfteNNSW"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 205367,
       "name": "\u570b\u738b",
       "url": "https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn"
@@ -3122,7 +3122,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 273000,
       "name": "\u591a\u4e45\u624d\u61c2\u59b3\u7684\u5fc3",
       "url": "https://open.spotify.com/track/3bKO2AM761yeB65LFdVcK4"
@@ -3144,6 +3144,28 @@
       "duration_ms": 220962,
       "name": "\u5931\u91cd\u524d\u5e78\u798f",
       "url": "https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T"
+    },
+    {
+      "album": {
+        "name": "A Bedroom of One's Own",
+        "url": "https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb"
+      },
+      "artists": [
+        {
+          "name": "\u58de\u7279 ?te",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        },
+        {
+          "name": "\u8001\u83ab ILL MO",
+          "url": "https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u5973\u58eb\u512a\u5148",
+      "url": "https://open.spotify.com/track/1WWeydSK207x6HTgoQIfqV"
     },
     {
       "album": {
@@ -3230,7 +3252,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 212142,
       "name": "\u59b3\u662f\u6211\u5bf6\u8c9d\u311f",
       "url": "https://open.spotify.com/track/09XPFGKSR0HbbfbSt7GSox"
@@ -3328,7 +3350,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 278696,
       "name": "\u5b78\u4e0d\u6703\u9577\u5927\u7684\u5927\u4eba",
       "url": "https://open.spotify.com/track/1FhtKqGMSPRtIptB6nklqN"
@@ -3430,7 +3452,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 236558,
       "name": "\u5c0d\u7684\u81ea\u5df1",
       "url": "https://open.spotify.com/track/6MCQf5MTTr5iOnWFO3LoA0"
@@ -3524,7 +3546,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 264046,
       "name": "\u5df4\u9ece\u5fb7\u5dde",
       "url": "https://open.spotify.com/track/646sWCgtmmdysQ5ozDoADF"
@@ -3701,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234798,
+      "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK"
+    },
+    {
+      "album": {
         "name": "\u60f3\u4e86\u59b36\u6b21",
         "url": "https://open.spotify.com/album/4n3QnqVIEmJe0B2aZAlrk8"
       },
@@ -3788,7 +3828,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 172092,
       "name": "\u610f\u7336\u672a\u76e1 (feat. \u6d3e\u5049\u4fca)",
       "url": "https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39"
@@ -4032,7 +4072,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 230823,
       "name": "\u6211\u7684\u611b\u4eba - \u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5yB8pbwyi8eNuJWs50nkEH"
@@ -4068,7 +4108,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
@@ -4194,7 +4234,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 289184,
       "name": "\u665a\u5b89",
       "url": "https://open.spotify.com/track/7LhYXgN9eVMGQHm0aiGomG"
@@ -4404,7 +4444,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 223368,
       "name": "\u6839\u672c\u4e0d\u662f\u6211\u5c0d\u624b",
       "url": "https://open.spotify.com/track/2K38uU4e957XLRNdO1C8NE"
@@ -4828,7 +4868,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 200052,
       "name": "\u751c\u5669\u5922 (feat. \u674e\u54f2\u8a00)",
       "url": "https://open.spotify.com/track/7DGBZxhq9SbqPHc1iLZgx1"
@@ -4864,7 +4904,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 193319,
       "name": "\u7528\u7834\u788e\u7684\u5fc3\u4fee\u597d\u7834\u788e\u7684\u5fc3",
       "url": "https://open.spotify.com/track/3gadohEpBNZnUAdMu0TOBp"
@@ -5250,7 +5290,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 192000,
       "name": "\u8774\u8776 - \u300a\u57fa\u56e0\u6c7a\u5b9a\u6211\u611b\u4f60\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ"
@@ -5522,7 +5562,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 226774,
       "name": "\u8d77\u9ede",
       "url": "https://open.spotify.com/track/2uJgXbj2oav0Z57t4gIruz"
@@ -5594,7 +5634,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 280681,
       "name": "\u9019\u4e16\u754c\u600e\u9ebc\u662f\u7070\u8272",
       "url": "https://open.spotify.com/track/7xQAoVhPR41WnLv0mkMckf"
@@ -5612,7 +5652,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "\u9047\u898b",
       "url": "https://open.spotify.com/track/642ERohz0DdGbP9QalwunC"
@@ -5758,7 +5798,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 186131,
       "name": "\u91ce\u7537\u4eba",
       "url": "https://open.spotify.com/track/6lNCZmWMPckV26JEpzg0nW"
@@ -5776,7 +5816,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 249721,
       "name": "\u932f\u904e",
       "url": "https://open.spotify.com/track/7rIwDvcfedU6IfqIcweezM"
@@ -5838,7 +5878,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 164467,
       "name": "\u96f6\u7c73\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/4s5Zo94S9qBeiUcXHF91fp"

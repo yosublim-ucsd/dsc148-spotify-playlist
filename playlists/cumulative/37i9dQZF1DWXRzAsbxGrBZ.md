@@ -4,11 +4,11 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-91 songs - 10 hr 23 min
+92 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 | 2023-03-17 | 2023-03-29 |
+| [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 | 2023-03-17 |  |
 | [Addicted To Sound](https://open.spotify.com/track/0n8mAv9qq4ctyOvyZIdoHA) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Addicted To Sound](https://open.spotify.com/album/51gsn6IiCCZSXMsX6kpBZR) | 8:13 | 2022-09-14 | 2022-10-23 |
 | [All In You](https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK) | [All In You](https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95) | 8:32 | 2022-09-14 | 2023-03-18 |
 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 | 2022-11-17 |  |
@@ -27,7 +27,7 @@
 | [Don’t Get Me Wrong](https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK) | [Deepconsoul](https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf), [Freeman Gumede](https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib) | [Don’t Get Me Wrong](https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh) | 7:53 | 2022-09-29 | 2022-11-18 |
 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 | 2022-09-14 |  |
 | [E.O.L \(Extraordinary Life\) \(Original LP Mix\)](https://open.spotify.com/track/7o0UkICXQlYARbMU6C4TTc) | [Nini Maluks](https://open.spotify.com/artist/4wt6OI7hl305rb96PueedT), [Pascale Yav](https://open.spotify.com/artist/73wxsmF4LKKCMsHJVIMH75) | [G.E.N.U.F.L.E.X.I.O.N](https://open.spotify.com/album/7l9FWrlJl4ANd95P9MC7RD) | 8:17 | 2022-09-29 | 2022-11-08 |
-| [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 | 2023-03-17 |  |
+| [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 | 2023-03-17 | 2023-03-31 |
 | [Eternal Existence \- Original Mix](https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [New Beginning EP](https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4) | 6:42 | 2022-09-14 |  |
 | [False Facade](https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza) | [DRMZ](https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ) | [False Facade](https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs) | 6:56 | 2022-09-14 | 2023-03-18 |
 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 | 2023-03-23 |  |
@@ -52,6 +52,7 @@
 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 | 2022-09-29 | 2023-03-11 |
 | [M.A.U.R](https://open.spotify.com/track/6FN2OCdwgB83jSf5DS3hIn) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 7:24 | 2022-09-14 | 2022-10-03 |
 | [Makhenikha](https://open.spotify.com/track/3ynnErvgu27QSAuRIqoXYm) | [Aquadeep](https://open.spotify.com/artist/0n2IlfSYardosNRNdCLWPd), [Veesoul](https://open.spotify.com/artist/3Tv5NqamdRmZYzblrn2aBr), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Another Mile EP](https://open.spotify.com/album/0nRYOHYnD7wzC8Ppp9ERJh) | 7:14 | 2022-09-14 | 2023-03-18 |
+| [Mend It \- Stimming Remix](https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq) | [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Mend It / Your Eyes Remixes](https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL) | 8:38 | 2023-03-23 |  |
 | [Middle Of The Garden](https://open.spotify.com/track/6Fy6qP6B5CSvXo4auTbLCQ) | [SONIDO](https://open.spotify.com/artist/5yUWxOhPOP18jZ2TwQxEtw) | [Middle Of The Garden](https://open.spotify.com/album/7jxleiGFdZqd7ZFCKriMld) | 6:10 | 2023-03-17 | 2023-03-25 |
 | [Mmantwa's Groove](https://open.spotify.com/track/5hGktS3qbk8HDhdICoo3s7) | [Gabbana](https://open.spotify.com/artist/0I3Acccg46Me47afcARZYX) | [We Groove Different](https://open.spotify.com/album/1bx9h91xZGDa2mfh60RbZ3) | 7:17 | 2022-09-14 | 2023-03-18 |
 | [Monomotapa](https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL) | [Alexsir](https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Next Generation](https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb) | 5:42 | 2022-11-10 |  |

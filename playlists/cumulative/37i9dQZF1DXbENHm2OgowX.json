@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "psych ward valentine",
+        "url": "https://open.spotify.com/album/4FESVxhaPJwyDThjEs4hkG"
+      },
+      "artists": [
+        {
+          "name": "x\u00f3jira",
+          "url": "https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "stardust",
+      "url": "https://open.spotify.com/track/2foA23OBrzFfhzrmLaFaCW"
+    },
+    {
+      "album": {
         "name": "stardust",
         "url": "https://open.spotify.com/album/5AAp97h2IQKCe94W5Wgsy3"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 190250,
       "name": "stardust",
       "url": "https://open.spotify.com/track/71M0d7047A3ZLTQSKZt94p"

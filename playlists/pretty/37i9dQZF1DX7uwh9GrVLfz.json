@@ -1,15 +1,15 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30ad\u30e5\u30a6\u30bd\u30cd\u30b3\u30ab\u30df (KYUSONEKOKAMI)",
-  "num_followers": 96375,
+  "num_followers": 96459,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDE4YmM3MmZhNDEwNjc2Yjk2YWY5ZjQ5NTNhY2IyMjVl",
+  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMGMzYjBhZTc1ZWQ0NTY1NWFkODJjMmRkNTQzNzIxMDU4",
   "tracks": [
     {
-      "added_at": "2023-03-30 00:50:21",
+      "added_at": "2023-03-31 01:00:44",
       "album": {
         "name": "Watashi Akinu Watashi",
         "url": "https://open.spotify.com/album/0SLWfFwN3psEdqNsS6qhIA"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9"
     },
     {
-      "added_at": "2023-03-30 00:50:21",
+      "added_at": "2023-03-31 01:00:44",
       "album": {
         "name": "\u30ae\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8"
     },
     {
-      "added_at": "2023-03-30 00:50:21",
+      "added_at": "2023-03-31 01:00:44",
       "album": {
         "name": "Watashi Akinu Watashi",
         "url": "https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR"
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Super Champon",
-        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "YAKITORI",
-      "url": "https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "Goo Goo Goo",
         "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 209000,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30e9\u30a4\u30d5",
       "url": "https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "Super Champon",
+        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "YAKITORI",
+      "url": "https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Super Champon",
-        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 105466,
-      "name": "PARDON?",
-      "url": "https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "A FORLORN HOPE",
         "url": "https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 219400,
       "name": "PARTY PARTY",
       "url": "https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "Super Champon",
+        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 105466,
+      "name": "PARDON?",
+      "url": "https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "The Cost Of My Freedom",
-        "url": "https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 169317,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "EVERYNIGHT",
         "url": "https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK"
       },
@@ -1227,18 +1211,34 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "BeachBoys",
-        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
+        "name": "The Cost Of My Freedom",
+        "url": "https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq"
       },
       "artists": [
         {
-          "name": "TENDOUJI",
-          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
         }
       ],
-      "duration_ms": 138305,
-      "name": "BeachBoys",
-      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
+      "duration_ms": 169317,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+        "name": "BeachBoys",
+        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
       },
       "artists": [
         {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+      "duration_ms": 138305,
+      "name": "BeachBoys",
+      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "\u6708\u306e\u82b1 EP",
-        "url": "https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h"
-      },
-      "artists": [
-        {
-          "name": "LINK",
-          "url": "https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "\u6708\u306e\u82b1",
-      "url": "https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
         "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "\u6708\u306e\u82b1 EP",
+        "url": "https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h"
+      },
+      "artists": [
+        {
+          "name": "LINK",
+          "url": "https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "\u6708\u306e\u82b1",
+      "url": "https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Intergalactic",
-        "url": "https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2"
-      },
-      "artists": [
-        {
-          "name": "dustbox",
-          "url": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
-        }
-      ],
-      "duration_ms": 204892,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "H.U.E.",
         "url": "https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 143266,
       "name": "Ohichyo",
       "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2"
+      },
+      "artists": [
+        {
+          "name": "dustbox",
+          "url": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
+        }
+      ],
+      "duration_ms": 204892,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E"
     },
     {
       "added_at": "2023-03-23 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Aroe Phoenix\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,297 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,339 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 33 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
 | 34 | [CUMPLEAÑOS](https://open.spotify.com/track/09tEjSbhoLi3SVgfgVEtdd) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [CUMPLEAÑOS](https://open.spotify.com/album/2hTA8BtUFje0IG7VXQOjaY) | 2:48 |
 | 35 | [Watersport](https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Watersport](https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg) | 4:01 |
-| 36 | [Agua Marfil](https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT) | [Matt Austin](https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ) | [Agua Marfil](https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI) | 2:51 |
-| 37 | [Temporary](https://open.spotify.com/track/5GNP6vz90HXit8M4bnXPnc) | [DANI G](https://open.spotify.com/artist/4yVM2Wto6llICCwf58y2mM) | [Temporary](https://open.spotify.com/album/7iYUejnfaFRhQsmLgsCZlT) | 2:56 |
+| 36 | [Temporary](https://open.spotify.com/track/5GNP6vz90HXit8M4bnXPnc) | [DANI G](https://open.spotify.com/artist/4yVM2Wto6llICCwf58y2mM) | [Temporary](https://open.spotify.com/album/7iYUejnfaFRhQsmLgsCZlT) | 2:56 |
+| 37 | [Agua Marfil](https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT) | [Matt Austin](https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ) | [Agua Marfil](https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI) | 2:51 |
 | 38 | [Destiempo](https://open.spotify.com/track/4La8SpJL3ecn6EZc6tSyO9) | [Casa de Kello](https://open.spotify.com/artist/3ZzhFV13vSnWtx0TPkbpOl), [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Destiempo](https://open.spotify.com/album/1v2Ieeo8LvAq8adnEktx8h) | 3:32 |
 | 39 | [Las Luces de Esta Ciudad](https://open.spotify.com/track/7m5Z4EkNYUR9Zt0qHKQpfN) | [Awexa](https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa), [KidSxnpai](https://open.spotify.com/artist/4VOPjvICpNc9VTSCyqgUkF) | [Las Luces de Esta Ciudad](https://open.spotify.com/album/40QBjZEAa4hzoqA9KmbGFJ) | 2:27 |
 | 40 | [Feliz](https://open.spotify.com/track/3v8D562eKmS74tiio3JLwG) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Feliz](https://open.spotify.com/album/5OryS0f5aSUvZtV5FgLt9t) | 3:18 |
-| 41 | [Verano](https://open.spotify.com/track/2LfYgvxQ0CVTeUG4NU183h) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0), [Clara Bares](https://open.spotify.com/artist/6jtaP0NhMvxjmRmsrJHmWg) | [Verano](https://open.spotify.com/album/5XYp05CrQS8vzJeyjvrEUI) | 3:35 |
-| 42 | [Mijita](https://open.spotify.com/track/1Sov0pi4zkxntdYfcDMV1n) | [Chesca](https://open.spotify.com/artist/1MRWKooJe1RFjLrJcZSui2) | [Mijita](https://open.spotify.com/album/2J3t4QBygIIbVMDqBqeI99) | 5:00 |
-| 43 | [Oh Oh Oh](https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 3:10 |
+| 41 | [Oh Oh Oh](https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 3:10 |
+| 42 | [Verano](https://open.spotify.com/track/2LfYgvxQ0CVTeUG4NU183h) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0), [Clara Bares](https://open.spotify.com/artist/6jtaP0NhMvxjmRmsrJHmWg) | [Verano](https://open.spotify.com/album/5XYp05CrQS8vzJeyjvrEUI) | 3:35 |
+| 43 | [Mijita](https://open.spotify.com/track/1Sov0pi4zkxntdYfcDMV1n) | [Chesca](https://open.spotify.com/artist/1MRWKooJe1RFjLrJcZSui2) | [Mijita](https://open.spotify.com/album/2J3t4QBygIIbVMDqBqeI99) | 5:00 |
 | 44 | [Adamantcore](https://open.spotify.com/track/13MZoSzpGMXXQEJvL4zWFP) | [Eduardo Sanz](https://open.spotify.com/artist/0cbVvkUuJKKA2IeUc3R35Q), [Sairo](https://open.spotify.com/artist/5SYKVmpU4BRNXJEne0oL3O) | [Adamantcore](https://open.spotify.com/album/7p0Vw2CNMlGNhAjGbRgxGs) | 1:56 |
-| 45 | [Sos Todo Lo Que No Necesito](https://open.spotify.com/track/49ubndtIzCq58R2hwgOcfF) | [martuli](https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc) | [Sos Todo Lo Que No Necesito](https://open.spotify.com/album/6BCZ9Z7odGkJbzxfZt6XVc) | 3:40 |
-| 46 | [Cuando Tu Te Vas](https://open.spotify.com/track/4Y1rqUsP3gZzkLRJWre2bt) | [Randdex](https://open.spotify.com/artist/4CbkC2Gxqvrq3i0p8lXIfU) | [Ventix](https://open.spotify.com/album/7eumCUDzzboq9eisPpqWtF) | 2:20 |
+| 45 | [Cuando Tu Te Vas](https://open.spotify.com/track/4Y1rqUsP3gZzkLRJWre2bt) | [Randdex](https://open.spotify.com/artist/4CbkC2Gxqvrq3i0p8lXIfU) | [Ventix](https://open.spotify.com/album/7eumCUDzzboq9eisPpqWtF) | 2:20 |
+| 46 | [Sos Todo Lo Que No Necesito](https://open.spotify.com/track/49ubndtIzCq58R2hwgOcfF) | [martuli](https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc) | [Sos Todo Lo Que No Necesito](https://open.spotify.com/album/6BCZ9Z7odGkJbzxfZt6XVc) | 3:40 |
 | 47 | [Freestyle 1](https://open.spotify.com/track/5rhVkld3WGo4mHt9AYCXtI) | [G Chini](https://open.spotify.com/artist/0L64HIQZ1gjIh2Ft9UO30H) | [Freestyle 1](https://open.spotify.com/album/2vkANgInOCnPOoc2iCrU1T) | 1:08 |
 | 48 | [Niebla](https://open.spotify.com/track/68i936fDyf9N2CKe3lBNbH) | [Pesadilla Gris](https://open.spotify.com/artist/5egPnoIy1mG8Dclr923CjJ) | [Niebla](https://open.spotify.com/album/1IKdjpgscoQvCij5WSETXk) | 3:05 |
 | 49 | [A Pair of Eyes/Sway](https://open.spotify.com/track/0c7VhDF9H0MN5qrCGgpVwx) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [A Pair of Eyes/Sway](https://open.spotify.com/album/0N1RqNWH9148zU6gcYHtga) | 3:19 |
 | 50 | [sueño despierto](https://open.spotify.com/track/42d29yUrbScNy51YHdp1Cu) | [CORARROTO](https://open.spotify.com/artist/1kAlrjWbgDdekZaLDIBD3A) | [sueño despierto](https://open.spotify.com/album/6OAqEExydoUYtlGL00FNW3) | 1:51 |
 
-Snapshot ID: `MTY4MDEwOTIwMCwwMDAwMDAwMGJiOTQ5MGMxMjE2MTMzNGM3ZjcxZWU0NjYzYTNiOGFh`
+Snapshot ID: `MTY4MDEwOTIwMCwwMDAwMDAwMGE1ZmY0ZjY2ZmQ5MGM1YzFiODY4Y2E3MmQ5MmMxOTcw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXQuxfjYVxb.md) - [plain]
 
 > The very best of Cardi B\. Listen to Cardi's new song  "UP" Okurr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,481 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,628 likes - 43 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-654 songs - 1 day 7 hr 28 min
+655 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Fashion \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/29xgeqUtLbNTwxLSoLufjF) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:50 | 2022-07-28 | 2022-08-06 |
 | [Fashion \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/7rapKkAuIuSU1cezDgxspo) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:50 | 2022-07-28 | 2022-08-04 |
 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 | 2022-08-05 | 2023-03-14 |
+| [Fat Racks Pt\. 2](https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr) | 3:43 | 2023-03-13 |  |
 | [Fat Racks Pt\. 2](https://open.spotify.com/track/7LWj7OYNxpBEnsc3kzezEj) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR) | 3:43 | 2023-03-14 | 2023-03-25 |
 | [Feeling Myself Today](https://open.spotify.com/track/5dABkHkvA7ud5nmDUArJ4r) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 3:08 | 2021-09-03 | 2022-04-20 |
 | [Feelings](https://open.spotify.com/track/3bunovg8ep6uXccEg5RUAy) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Feelings](https://open.spotify.com/album/2cpblTGZISVH05oyaXcW89) | 2:17 | 2021-09-03 | 2022-04-19 |
@@ -417,7 +418,7 @@
 | [Obsessed With You](https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 1:48 | 2023-03-24 |  |
 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 | 2021-10-18 | 2022-06-11 |
 | [Oh Oh](https://open.spotify.com/track/0aA3U4en3uNGEE3lQX3gfu) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Oh Oh](https://open.spotify.com/album/4U1sRhF0AsJxgazR8yZfMW) | 2:52 | 2022-05-13 | 2022-07-28 |
-| [Ok Ok Ok](https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Ok Ok Ok](https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs) | 2:16 | 2023-01-13 |  |
+| [Ok Ok Ok](https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Ok Ok Ok](https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs) | 2:16 | 2023-01-13 | 2023-03-31 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-11 |  |
 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 | 2023-01-13 |  |
 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 | 2022-10-14 |  |

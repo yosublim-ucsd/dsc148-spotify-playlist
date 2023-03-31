@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Khair AlAhilla (Ramadan)",
+        "url": "https://open.spotify.com/album/10eFFOwl2qU2AhiTaGNQdT"
+      },
+      "artists": [
+        {
+          "name": "Humood AlKhudher",
+          "url": "https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87032,
+      "name": "Khair AlAhilla (Ramadan)",
+      "url": "https://open.spotify.com/track/0ZDaoSIv3UViwpWHmuSUkM"
+    },
+    {
+      "album": {
         "name": "Adab E Khud Aa Gahi (Allama Iqbal Special)",
         "url": "https://open.spotify.com/album/6pYqkQjBtcoI9zwcg1OBaA"
       },
@@ -1818,6 +1836,24 @@
       "duration_ms": 270333,
       "name": "Men Ben Elarad",
       "url": "https://open.spotify.com/track/3s0GCg5vy7blO5z3M95B9X"
+    },
+    {
+      "album": {
+        "name": "Mohamed",
+        "url": "https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB"
+      },
+      "artists": [
+        {
+          "name": "Lotfi Bouchnak",
+          "url": "https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418691,
+      "name": "Mohamed",
+      "url": "https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj"
     },
     {
       "album": {

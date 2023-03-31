@@ -1,12 +1,12 @@
 {
   "description": "Soul classics to keep you company in the kitchen.",
-  "num_followers": 25903,
+  "num_followers": 25917,
   "original_name": "Cooking with Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODkzNSwwMDAwMDAwMDM4MzQ2MWU5NmRjZDc3M2E3MTM3NzM4MmNkMGIxZjAz",
+  "snapshot_id": "MTY0ODQ5ODkzNSwwMDAwMDAwMDZjMDI0ZGQ5NWI4ZDZkMWVlMTNlZjdiYmM0MGMyMjIw",
   "tracks": [
     {
       "added_at": "2022-03-28 20:22:14",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Dock of the Bay Sessions",
         "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "The Essential Major Lance",
-        "url": "https://open.spotify.com/album/7ttomuo8F0pcgMYm3SUDXJ"
-      },
-      "artists": [
-        {
-          "name": "Major Lance",
-          "url": "https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Um, Um, Um, Um, Um, Um",
-      "url": "https://open.spotify.com/track/27FhNKYP8B0F3teHdcD5ob"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 164840,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/5jsxE1nDuRrEgN9gmbWWYS"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "The Essential Major Lance",
+        "url": "https://open.spotify.com/album/7ttomuo8F0pcgMYm3SUDXJ"
+      },
+      "artists": [
+        {
+          "name": "Major Lance",
+          "url": "https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Um, Um, Um, Um, Um, Um",
+      "url": "https://open.spotify.com/track/27FhNKYP8B0F3teHdcD5ob"
     },
     {
       "added_at": "2022-03-28 20:22:14",

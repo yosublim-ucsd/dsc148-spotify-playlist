@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 16176,
+  "num_followers": 16180,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMDI1ZDVkMjNiYmFlOTJlZjFmNTQ3NTI3ODQyZWE3MDRm",
+  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMDljZDZmNWM2MGM0MDVmYmIxN2Q5NjMzOWJmN2U4MGJj",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -470,10 +470,6 @@
         {
           "name": "Spring Harvest",
           "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
-        },
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
         }
       ],
       "duration_ms": 376628,
@@ -551,6 +547,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Kingdom Come - The Soundtrack",
+        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & Mary Mary",
+          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "At This Table",
         "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
       },
@@ -579,22 +591,6 @@
       "duration_ms": 305006,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Kingdom Come - The Soundtrack",
-        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & Mary Mary",
-          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
     },
     {
       "added_at": "2022-11-23 15:01:23",

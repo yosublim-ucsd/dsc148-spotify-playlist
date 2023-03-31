@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-665 songs - 1 day 11 hr 15 min
+666 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR) | 2:52 | 2022-09-15 | 2023-02-01 |
 | [Call Me By Your Name](https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Call Me By Your Name](https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO) | 2:50 | 2023-01-05 |  |
-| [Can We Talk About Me?](https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Can We Talk About Me?](https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f) | 2:44 | 2023-02-01 |  |
+| [Can We Talk About Me?](https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Can We Talk About Me?](https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f) | 2:44 | 2023-02-01 | 2023-03-31 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-12-16 | 2022-03-09 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-28 |  |
 | [Can’t Stay Away](https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Can’t Stay Away](https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5) | 2:59 | 2022-11-04 |  |
@@ -219,6 +219,7 @@
 | [Give It Up](https://open.spotify.com/track/0cfa6feWmBpltHW6vKjTTt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Give It Up](https://open.spotify.com/album/44uVGm0rxxL1y4ooq1fVJ6) | 2:41 | 2021-12-16 | 2022-01-31 |
 | [Glittret](https://open.spotify.com/track/1flHUFk0tmQxAgCFcgg5NK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Glittret](https://open.spotify.com/album/03xYeyaQWSy9HD9Zw8uqO5) | 4:36 | 2022-04-28 | 2022-07-14 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-06-23 |  |
+| [Golvet i hallen](https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Golvet i hallen](https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW) | 3:06 | 2023-03-30 |  |
 | [Good Parts](https://open.spotify.com/track/3SaWMd7Gk3R2FGz7aKNfbL) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Good Parts](https://open.spotify.com/album/5tsdwoSxgUo6pjNhIa0GKb) | 2:30 | 2022-05-12 | 2022-07-18 |
 | [Good Things Come to Those Who Wait](https://open.spotify.com/track/4k392FaIeAtWi8XUyQXMvA) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Good Things Come to Those Who Wait](https://open.spotify.com/album/1RofMBvXnZBRLb0FKsWejZ) | 3:37 | 2022-01-13 | 2022-05-07 |
 | [Good Vibes](https://open.spotify.com/track/0S1xJLVhru1bOJH4EX0zcI) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Good Vibes](https://open.spotify.com/album/6Y8HkkS42PW6VRCDx7ajnP) | 3:32 | 2022-05-12 | 2022-07-19 |

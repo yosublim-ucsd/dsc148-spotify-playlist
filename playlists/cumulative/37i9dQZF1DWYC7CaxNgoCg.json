@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Can I Get A Witness",
+      "url": "https://open.spotify.com/track/4GWwFW3TkXhhgyt8zUYA93"
+    },
+    {
+      "album": {
         "name": "Anthology: The Best Of Marvin Gaye",
         "url": "https://open.spotify.com/album/7BoUTh07gox5gmUHcbD4pH"
       },
@@ -222,24 +240,6 @@
       "duration_ms": 166933,
       "name": "Can I Get A Witness - Single Version / Mono",
       "url": "https://open.spotify.com/track/35AePShKeTqklvVwyuJx1P"
-    },
-    {
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "date_added": "2023-01-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167773,
-      "name": "Can I Get A Witness - Stereo Version",
-      "url": "https://open.spotify.com/track/4GWwFW3TkXhhgyt8zUYA93"
     },
     {
       "album": {
@@ -300,7 +300,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165226,
-      "name": "Dancing In The Street - Stereo",
+      "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
@@ -1456,7 +1456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172906,
-      "name": "Stop! In The Name Of Love - Single Version",
+      "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {

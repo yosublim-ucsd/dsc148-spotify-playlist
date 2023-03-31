@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u92ed\u5150",
+          "url": "https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386933,
+      "name": "LONELY LONELY -ULTRA HEAVEN REMIX by ALI\u00d7\u92ed\u5150-",
+      "url": "https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX"
+    },
+    {
+      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J"
       },

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 27020,
+  "num_followers": 27048,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMGYyNDExNzE2YTdiYTRkZWE5MmY1NzYwZmY1NTViZGRk",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDMzZTUzMGQ4ZTdhZTk1NzU5OWY1MGM0NGUzNWNlYzNk",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Dia D",
-        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
-      },
-      "artists": [
-        {
-          "name": "blkmc",
-          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
-        },
-        {
-          "name": "Cenoura Beats",
-          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Dia D",
-      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Eu Ainda",
         "url": "https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 188229,
       "name": "Eu Ainda",
       "url": "https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Dia D",
+        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
+      },
+      "artists": [
+        {
+          "name": "blkmc",
+          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
+        },
+        {
+          "name": "Cenoura Beats",
+          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Dia D",
+      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
     },
     {
       "added_at": "2023-03-24 03:01:00",

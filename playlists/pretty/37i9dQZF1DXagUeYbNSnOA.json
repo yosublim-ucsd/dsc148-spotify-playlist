@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Aroe Phoenix. Updates every Wednesday.",
-  "num_followers": 169297,
+  "num_followers": 169339,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDEwOTIwMCwwMDAwMDAwMGJiOTQ5MGMxMjE2MTMzNGM3ZjcxZWU0NjYzYTNiOGFh",
+  "snapshot_id": "MTY4MDEwOTIwMCwwMDAwMDAwMGE1ZmY0ZjY2ZmQ5MGM1YzFiODY4Y2E3MmQ5MmMxOTcw",
   "tracks": [
     {
       "added_at": "2023-03-29 17:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-29 17:00:00",
       "album": {
-        "name": "Agua Marfil",
-        "url": "https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI"
-      },
-      "artists": [
-        {
-          "name": "Matt Austin",
-          "url": "https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ"
-        }
-      ],
-      "duration_ms": 171065,
-      "name": "Agua Marfil",
-      "url": "https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT"
-    },
-    {
-      "added_at": "2023-03-29 17:00:00",
-      "album": {
         "name": "Temporary",
         "url": "https://open.spotify.com/album/7iYUejnfaFRhQsmLgsCZlT"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 176436,
       "name": "Temporary",
       "url": "https://open.spotify.com/track/5GNP6vz90HXit8M4bnXPnc"
+    },
+    {
+      "added_at": "2023-03-29 17:00:00",
+      "album": {
+        "name": "Agua Marfil",
+        "url": "https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI"
+      },
+      "artists": [
+        {
+          "name": "Matt Austin",
+          "url": "https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ"
+        }
+      ],
+      "duration_ms": 171065,
+      "name": "Agua Marfil",
+      "url": "https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT"
     },
     {
       "added_at": "2023-03-29 17:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-03-29 17:00:00",
       "album": {
+        "name": "CASI P\u00daRPURA",
+        "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
+      },
+      "artists": [
+        {
+          "name": "Makoli",
+          "url": "https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY"
+        }
+      ],
+      "duration_ms": 190370,
+      "name": "Oh Oh Oh",
+      "url": "https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p"
+    },
+    {
+      "added_at": "2023-03-29 17:00:00",
+      "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/5XYp05CrQS8vzJeyjvrEUI"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-03-29 17:00:00",
       "album": {
-        "name": "CASI P\u00daRPURA",
-        "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
-      },
-      "artists": [
-        {
-          "name": "Makoli",
-          "url": "https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY"
-        }
-      ],
-      "duration_ms": 190370,
-      "name": "Oh Oh Oh",
-      "url": "https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p"
-    },
-    {
-      "added_at": "2023-03-29 17:00:00",
-      "album": {
         "name": "Adamantcore",
         "url": "https://open.spotify.com/album/7p0Vw2CNMlGNhAjGbRgxGs"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-29 17:00:00",
       "album": {
-        "name": "Sos Todo Lo Que No Necesito",
-        "url": "https://open.spotify.com/album/6BCZ9Z7odGkJbzxfZt6XVc"
-      },
-      "artists": [
-        {
-          "name": "martuli",
-          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
-        }
-      ],
-      "duration_ms": 220799,
-      "name": "Sos Todo Lo Que No Necesito",
-      "url": "https://open.spotify.com/track/49ubndtIzCq58R2hwgOcfF"
-    },
-    {
-      "added_at": "2023-03-29 17:00:00",
-      "album": {
         "name": "Ventix",
         "url": "https://open.spotify.com/album/7eumCUDzzboq9eisPpqWtF"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 140307,
       "name": "Cuando Tu Te Vas",
       "url": "https://open.spotify.com/track/4Y1rqUsP3gZzkLRJWre2bt"
+    },
+    {
+      "added_at": "2023-03-29 17:00:00",
+      "album": {
+        "name": "Sos Todo Lo Que No Necesito",
+        "url": "https://open.spotify.com/album/6BCZ9Z7odGkJbzxfZt6XVc"
+      },
+      "artists": [
+        {
+          "name": "martuli",
+          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
+        }
+      ],
+      "duration_ms": 220799,
+      "name": "Sos Todo Lo Que No Necesito",
+      "url": "https://open.spotify.com/track/49ubndtIzCq58R2hwgOcfF"
     },
     {
       "added_at": "2023-03-29 17:00:00",

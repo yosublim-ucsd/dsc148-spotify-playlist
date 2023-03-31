@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9414,
+  "num_followers": 9422,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMDUwZThlZTAwNjY2NWE3ZjIzMWMxYTYzOGFmYzJmNWYy",
+  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGRjMTlhNGJiZWJiZGVjZmU5ZmNiZDE0NWQxMTgxOWUx",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
-      "added_at": "2023-03-30 01:21:57",
+      "added_at": "2023-03-31 00:40:47",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5"
     },
     {
+      "added_at": "2023-03-31 00:40:47",
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+    },
+    {
       "added_at": "2023-02-28 10:14:13",
       "album": {
         "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
@@ -611,22 +627,6 @@
       "duration_ms": 199577,
       "name": "Into My Heart",
       "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
-    },
-    {
-      "added_at": "2023-03-30 01:21:57",
-      "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -681,7 +681,23 @@
       "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
     },
     {
-      "added_at": "2023-03-30 01:21:57",
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "If You Wish Upon Me OST Part.1",
+        "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "LONER",
+      "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
+    },
+    {
+      "added_at": "2023-03-31 00:40:47",
       "album": {
         "name": "Wouldn't have",
         "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
@@ -707,18 +723,18 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "If You Wish Upon Me OST Part.1",
-        "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
       },
       "artists": [
         {
-          "name": "Kim Sung Kyu",
-          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
         }
       ],
-      "duration_ms": 219413,
-      "name": "LONER",
-      "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
+      "duration_ms": 258321,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -735,22 +751,6 @@
       "duration_ms": 178666,
       "name": "How You Been",
       "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 258321,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -801,23 +801,7 @@
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
-      "added_at": "2023-03-30 01:21:57",
-      "album": {
-        "name": "The Work Of Erasing You",
-        "url": "https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "The Work Of Erasing You",
-      "url": "https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL"
-    },
-    {
-      "added_at": "2023-03-30 01:21:57",
+      "added_at": "2023-03-31 00:40:47",
       "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
@@ -839,6 +823,22 @@
       "duration_ms": 207666,
       "name": "Dumb (Feat. Kim Seungmin, Chan)",
       "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
+    },
+    {
+      "added_at": "2023-03-31 00:40:47",
+      "album": {
+        "name": "The Work Of Erasing You",
+        "url": "https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "The Work Of Erasing You",
+      "url": "https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

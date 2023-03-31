@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,624 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,090 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 14 | [Cruel](https://open.spotify.com/track/360TreSWJw9WXgu3aGE9Oq) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Cruel](https://open.spotify.com/album/6l2GmTQIZkDZpQuGXQqcNP) | 2:57 |
 | 15 | [Shimmy \(feat\. Joey Bada$$\)](https://open.spotify.com/track/7vL9rAHS2fLo8EjvGvtWr7) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 2:35 |
 | 16 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
-| 17 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
+| 17 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
 | 18 | [Eee Zee](https://open.spotify.com/track/5qlP944NySkgAtkzVGE0G3) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Eee Zee](https://open.spotify.com/album/07osvOkL07RkoPMQDvqYqQ) | 2:55 |
 | 19 | [One Life](https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [One Life](https://open.spotify.com/album/3ZmgIf9xdBHuCds9qD5ab8) | 3:29 |
 | 20 | [Hiiigh Viibratiiions](https://open.spotify.com/track/7tGLBmtZbUpwt2ZCaclO89) | [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Hiiigh Viibratiiions](https://open.spotify.com/album/1e8im5U2O7v0wEAXY4wEgp) | 3:17 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 42 | [37th](https://open.spotify.com/track/1Zw5s7JEokiF5OchgnRB0t) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:15 |
 | 43 | [The One](https://open.spotify.com/track/0TGy4z6QYxKKMdi3QLW7Ef) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 2:27 |
 | 44 | [Matinee](https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Matinee](https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY) | 3:08 |
-| 45 | [Blush](https://open.spotify.com/track/6MWUqZrDQWyoRde2pYSlpA) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Blush](https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY) | 3:10 |
+| 45 | [BLUSH](https://open.spotify.com/track/6MWUqZrDQWyoRde2pYSlpA) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [BLUSH](https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY) | 3:10 |
 | 46 | [wimhof](https://open.spotify.com/track/4di9ZH9MTfN2Esep27kvi1) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [wimhof](https://open.spotify.com/album/74KkMGjWKz63qfraiEdrNX) | 2:46 |
 | 47 | [Tony Fontana III](https://open.spotify.com/track/4AaHIZNMciJU34kFU0v90x) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Tony Fontana III](https://open.spotify.com/album/1P1hGKDVh1HloPnyM4XKZ0) | 3:04 |
 | 48 | [Clarity](https://open.spotify.com/track/6Tn0MrxoBfkHwQY9uUZqnp) | [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU) | [Clarity](https://open.spotify.com/album/5BVxS32pNQ9vpOPs3vmHQr) | 2:52 |

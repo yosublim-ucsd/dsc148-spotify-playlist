@@ -1,12 +1,12 @@
 {
   "description": "Get your fill of vibes straight out of Tanzania. Cover: K.O, Young Stunna, Diamond Platnumz and Oxlade",
-  "num_followers": 57502,
+  "num_followers": 57551,
   "original_name": "Bongo Flava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMzYyNywwMDAwMDAwMGYyN2RjNjI0MzJkNzJmYmY1MDkzMTQ5ZmYxODViNGM4",
+  "snapshot_id": "MTY4MDIwOTk0MCwwMDAwMDAwMGI3MGJhZmQwODk2N2JhNDllMWJlM2NmZjIwOGRjYWY4",
   "tracks": [
     {
       "added_at": "2023-03-23 20:59:00",
@@ -23,6 +23,22 @@
       "duration_ms": 196838,
       "name": "Mahaba",
       "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Sawa",
+        "url": "https://open.spotify.com/album/5UjFk656mvckQJGUhW1Bg8"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "duration_ms": 203541,
+      "name": "Sawa",
+      "url": "https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -51,6 +67,42 @@
       "duration_ms": 252986,
       "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
       "url": "https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Mapopo (Remix)",
+        "url": "https://open.spotify.com/album/3DS6T19UXoSLPa73O4Mlbh"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Mapopo - Remix",
+      "url": "https://open.spotify.com/track/6JQbozPXyjceIHVi6S1rzS"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Utaniua",
+        "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Utaniua",
+      "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -87,6 +139,26 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
+        "name": "Puuh",
+        "url": "https://open.spotify.com/album/6Y1kRLTcchAfHbb1XYgNWt"
+      },
+      "artists": [
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Puuh",
+      "url": "https://open.spotify.com/track/4qMofi2HvTzvLEQ6EqywPP"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
         "name": "Yatapita",
         "url": "https://open.spotify.com/album/5uTKAcHVaMTbaEfORUWZrD"
       },
@@ -99,22 +171,6 @@
       "duration_ms": 299416,
       "name": "Yatapita",
       "url": "https://open.spotify.com/track/5osJXf9jysiW72jZQ0tTKD"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Utaniua",
-        "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Utaniua",
-      "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -155,46 +211,6 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Puuh",
-        "url": "https://open.spotify.com/album/6Y1kRLTcchAfHbb1XYgNWt"
-      },
-      "artists": [
-        {
-          "name": "Billnass",
-          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
-        },
-        {
-          "name": "Jay Melody",
-          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Puuh",
-      "url": "https://open.spotify.com/track/4qMofi2HvTzvLEQ6EqywPP"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Mapopo (Remix)",
-        "url": "https://open.spotify.com/album/3DS6T19UXoSLPa73O4Mlbh"
-      },
-      "artists": [
-        {
-          "name": "Mavokali",
-          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
-        },
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Mapopo - Remix",
-      "url": "https://open.spotify.com/track/6JQbozPXyjceIHVi6S1rzS"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
         "name": "Maan Meri Jaan (African Version)",
         "url": "https://open.spotify.com/album/0qyUqa11Zf6m5hXjogpSo9"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 178692,
       "name": "Napambana",
       "url": "https://open.spotify.com/track/6ARSJuBT3AHST84dvdKyZW"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Sawa",
-        "url": "https://open.spotify.com/album/5UjFk656mvckQJGUhW1Bg8"
-      },
-      "artists": [
-        {
-          "name": "Jay Melody",
-          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
-        }
-      ],
-      "duration_ms": 203541,
-      "name": "Sawa",
-      "url": "https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -627,6 +627,38 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
+        "name": "Khan",
+        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 177878,
+      "name": "Huyu Hapa",
+      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Nitasema",
+        "url": "https://open.spotify.com/album/7knz9k6jkhssslzx6EhFZU"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "duration_ms": 213756,
+      "name": "Nitasema",
+      "url": "https://open.spotify.com/track/0HSlAMhB61Bk9Y1wU6jyeZ"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
         "name": "Made For Us",
         "url": "https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR"
       },
@@ -743,18 +775,34 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Nitasema",
-        "url": "https://open.spotify.com/album/7knz9k6jkhssslzx6EhFZU"
+        "name": "Amelowa",
+        "url": "https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV"
       },
       "artists": [
         {
-          "name": "Jay Melody",
-          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 213756,
-      "name": "Nitasema",
-      "url": "https://open.spotify.com/track/0HSlAMhB61Bk9Y1wU6jyeZ"
+      "duration_ms": 179186,
+      "name": "Amelowa",
+      "url": "https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Made For Us",
+        "url": "https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6XdVKBJLMLl2v26lPJIoS0"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -823,54 +871,6 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Amelowa",
-        "url": "https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "Amelowa",
-      "url": "https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Khan",
-        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 177878,
-      "name": "Huyu Hapa",
-      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
-        "name": "Made For Us",
-        "url": "https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/6XdVKBJLMLl2v26lPJIoS0"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
         "name": "Dala Dala",
         "url": "https://open.spotify.com/album/2nM8op6H7Mfp6CSpKj2zh4"
       },
@@ -927,6 +927,26 @@
       "duration_ms": 162857,
       "name": "Whine 4 Me (feat. Vanillah)",
       "url": "https://open.spotify.com/track/6o8Ah4wcVQw88DN8O5RsR8"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/2XJgEcuJZxdCAO5QiCFLXa"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Abigail Chams",
+          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+        }
+      ],
+      "duration_ms": 203022,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5vtz8vv7tfDPGlJGx1rEz7"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -1023,8 +1043,8 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/2XJgEcuJZxdCAO5QiCFLXa"
+        "name": "Deka (feat. Mabantu)",
+        "url": "https://open.spotify.com/album/4hp2roWquO9nf8LZL8qF5m"
       },
       "artists": [
         {
@@ -1032,13 +1052,33 @@
           "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         },
         {
-          "name": "Abigail Chams",
-          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
         }
       ],
-      "duration_ms": 203022,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/5vtz8vv7tfDPGlJGx1rEz7"
+      "duration_ms": 188454,
+      "name": "Deka (feat. Mabantu)",
+      "url": "https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF"
+    },
+    {
+      "added_at": "2023-03-23 20:59:00",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/6BnPu8dEH5XY5DJY1B0xef"
+      },
+      "artists": [
+        {
+          "name": "Platform Tz",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 213103,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6JZemVPI8dX5M6is4gayPK"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -1143,26 +1183,6 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/6BnPu8dEH5XY5DJY1B0xef"
-      },
-      "artists": [
-        {
-          "name": "Platform Tz",
-          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 213103,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/6JZemVPI8dX5M6is4gayPK"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/3IsdN5UkV8Ri9F1KFDiL05"
       },
@@ -1203,18 +1223,22 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Sipendi Dharau",
-        "url": "https://open.spotify.com/album/6TIn5Inx2WQPQqQd0Ekafr"
+        "name": "Romantic",
+        "url": "https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq"
       },
       "artists": [
         {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         }
       ],
-      "duration_ms": 222072,
-      "name": "Sipendi Dharau",
-      "url": "https://open.spotify.com/track/2CHHDg6NHTUtfIfDqMy10g"
+      "duration_ms": 184186,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/48vs5A0PgEI38s6r92lwsC"
     },
     {
       "added_at": "2023-03-23 20:59:00",
@@ -1239,26 +1263,6 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Romantic",
-        "url": "https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq"
-      },
-      "artists": [
-        {
-          "name": "Kusah",
-          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
-        },
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/48vs5A0PgEI38s6r92lwsC"
-    },
-    {
-      "added_at": "2023-03-23 20:59:00",
-      "album": {
         "name": "Utaonaje",
         "url": "https://open.spotify.com/album/10vwqg8nJonBXhv0jF9zZv"
       },
@@ -1279,22 +1283,18 @@
     {
       "added_at": "2023-03-23 20:59:00",
       "album": {
-        "name": "Deka (feat. Mabantu)",
-        "url": "https://open.spotify.com/album/4hp2roWquO9nf8LZL8qF5m"
+        "name": "Sipendi Dharau",
+        "url": "https://open.spotify.com/album/6TIn5Inx2WQPQqQd0Ekafr"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
         }
       ],
-      "duration_ms": 188454,
-      "name": "Deka (feat. Mabantu)",
-      "url": "https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF"
+      "duration_ms": 222072,
+      "name": "Sipendi Dharau",
+      "url": "https://open.spotify.com/track/2CHHDg6NHTUtfIfDqMy10g"
     }
   ],
   "unique_name": "Bongo Flava",

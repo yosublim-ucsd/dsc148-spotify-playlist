@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p?si=rs1OfjvcRHmONcvSTZKuSg">Karyendasoul</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,843 likes - 49 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,865 likes - 49 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

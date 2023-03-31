@@ -1447,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Games Change",
+        "url": "https://open.spotify.com/album/6YhSgWYRG0Z2543CY3gtjv"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275937,
+      "name": "Funk Money",
+      "url": "https://open.spotify.com/track/1Y5VqpjzxCSMNYpT81LvBt"
+    },
+    {
+      "album": {
         "name": "Future Proof",
         "url": "https://open.spotify.com/album/24VbraVikV7y8QVALWIBKq"
       },

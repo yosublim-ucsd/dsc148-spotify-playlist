@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Tomii Chan
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Byejack
 
-465 songs - 1 day 2 hr 30 min
+471 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [favorite boy](https://open.spotify.com/track/0lTZgDcJMz6rbQVoeFxLa2) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [favorite boy](https://open.spotify.com/album/0HEMAuxYl0G7AR5e97rcuW) | 3:31 | 2022-05-26 | 2022-07-29 |
 | [Favorite Drug](https://open.spotify.com/track/7acFbTCQRZu1uDTfoyZtc8) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Favorite Drug](https://open.spotify.com/album/6fbi9zwD9WKXi4acKbZce4) | 3:45 | 2022-06-09 | 2022-09-09 |
 | [Favorite Drug \(feat\. kayan9896\) \- Remix](https://open.spotify.com/track/2DjlbZzO8rfqaoPcufRJqN) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Favorite Drug \(feat\. kayan9896\) \[Remix\]](https://open.spotify.com/album/0B3pSSFcnE3GNatFhuRMi8) | 3:43 | 2022-09-29 | 2023-03-18 |
+| [feel / night](https://open.spotify.com/track/7hlWJUgc8R4enuBhWAeQBR) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [feel / night](https://open.spotify.com/album/7Igprspl27yshxLlS7ZfeW) | 3:37 | 2023-03-30 |  |
 | [Feel the Rain](https://open.spotify.com/track/41ePILFgS5liu9g4iBodob) | [DEADHEIR](https://open.spotify.com/artist/3kUjUAQE2usKTo1Gt2MZBU) | [Feel the Rain](https://open.spotify.com/album/7GVEQttmD40HbQf85iIE68) | 4:20 | 2022-09-01 | 2023-01-06 |
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-27 | 2023-02-03 |
 | [First Priority](https://open.spotify.com/track/5OMLvu7m5bRyTr5payjcUe) | [Thewzy](https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co) | [First Priority](https://open.spotify.com/album/079KSpwAXiuEg99M8BAStP) | 2:52 | 2022-06-09 | 2022-09-09 |
@@ -354,6 +355,7 @@
 | [夜闌人靜 That's It](https://open.spotify.com/track/6FjCNupk9xizYWMigQn0nx) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [夜闌人靜 That's It](https://open.spotify.com/album/2dRaudMcZgqIcrJ14oDwLV) | 4:36 | 2023-01-12 |  |
 | [夠鐘 Time's Up](https://open.spotify.com/track/4ua8rMZzLG9ii73SKOiHiq) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [夠鐘 Time's Up](https://open.spotify.com/album/0OsYyEFoWdYb8wAIkktlbW) | 3:24 | 2022-09-08 | 2023-02-03 |
 | [奇妙偶遇](https://open.spotify.com/track/4LkABtTRxZ4uxJ9UlZ7KY4) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy), [Taotao](https://open.spotify.com/artist/3nZ6CYSRqJCHL37Dng4NlX) | [奇妙偶遇](https://open.spotify.com/album/7n2KcZ0qZHHAvQXTD26uZ4) | 3:18 | 2022-06-02 | 2022-09-09 |
+| [女人唔好蝦女人](https://open.spotify.com/track/3u0OXWBkvbUwcmDgpQOwe2) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [女人唔好蝦女人](https://open.spotify.com/album/5fN0OTTyfISobsqONLq0Ei) | 2:10 | 2023-03-30 |  |
 | [守](https://open.spotify.com/track/4EOg9ajGad1pg7KKnaQgvA) | [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [守](https://open.spotify.com/album/5VO0nVaONkT3qsI1hougBX) | 2:20 | 2023-03-09 |  |
 | [寂寞派對](https://open.spotify.com/track/1hGXokRksaCCCN38D630DH) | [風正](https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp) | [寂寞派對](https://open.spotify.com/album/7FWvL2ICSgtStl9fk6HDVJ) | 2:10 | 2022-11-24 | 2023-02-03 |
 | [寶貝 \(feat\. Lily\)](https://open.spotify.com/track/0sHhCmkw2kPiptphcn2c3t) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Lily](https://open.spotify.com/artist/4SyOeqnA6bO9xwHJf8pFoR) | [寶貝 \(feat\. Lily\)](https://open.spotify.com/album/3HMRa0x9dlizDUAPyhlvUR) | 2:51 | 2022-11-17 | 2023-03-18 |
@@ -376,6 +378,7 @@
 | [慢慢滲](https://open.spotify.com/track/2QIFXAEdrsftSCwM9AyV7k) | [HLau](https://open.spotify.com/artist/7qLp47GBWXHfOnXFhVBMiJ) | [慢慢滲](https://open.spotify.com/album/3obTF7CHZr21LVcClNhHIC) | 2:19 | 2022-06-09 | 2022-09-09 |
 | [慣了習慣](https://open.spotify.com/track/1JkWAOkGyHRKY67xQGyqQS) | [Edmund Chan](https://open.spotify.com/artist/3RwDrv1IZ9T77yuQWfNoh0), [Shadow](https://open.spotify.com/artist/1UBpWQtYb1NyNE4ZUqblkk) | [慣了習慣](https://open.spotify.com/album/1mYvD5TT8oIW61K9jsLl2h) | 3:05 | 2022-07-21 | 2022-09-09 |
 | [我和阿姨有個約會 feat\. 黎莉Chris Lai](https://open.spotify.com/track/4StKw8RzmJp0XnChWkUBSC) | [何英瑋EwanHo](https://open.spotify.com/artist/3OhS5yhYhob3JfMZeX0FCM), [黎莉](https://open.spotify.com/artist/18yqgzoX8It8OwuH0I3k90) | [我和阿姨有個約會 feat\. 黎莉Chris Lai](https://open.spotify.com/album/0xRGANwWmNcifIUq6URZlQ) | 3:02 | 2022-11-24 | 2022-12-09 |
+| [我想去休息](https://open.spotify.com/track/0CICJ3nkG0HFfxjZBcM8yo) | [Alex!sReal](https://open.spotify.com/artist/4GVffkuHlMn3ml3Iu0XovW), [Kindle](https://open.spotify.com/artist/4OyRp2sbvMtH0TnuQzNbGY) | [我想去休息](https://open.spotify.com/album/01cjPsfH1vVIYw58iS1UKF) | 3:13 | 2023-03-30 |  |
 | [扭擰雪糕屋](https://open.spotify.com/track/2SUceujK5Dbt7YV5DTAqP6) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [扭擰雪糕屋](https://open.spotify.com/album/4ThopgD9mOzGmWMVek31hV) | 3:18 | 2022-10-13 | 2023-03-18 |
 | [拖延症](https://open.spotify.com/track/3z4itVDmorH5NctDqtS8XB) | [Rainraiin](https://open.spotify.com/artist/2CwG7xfcTi9ihVoV7sLUoB) | [拖延症](https://open.spotify.com/album/1XTBRg5ycDEvW3GMnJm2I6) | 3:08 | 2022-08-18 | 2022-11-04 |
 | [拖拉有罪](https://open.spotify.com/track/10CPHJpx6SAESNNtQUWKuv) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [拖拉有罪](https://open.spotify.com/album/0Es6ouJZyy0fl99yemY1j8) | 3:22 | 2022-09-22 | 2023-03-18 |
@@ -399,6 +402,7 @@
 | [有啲嘢唔講得](https://open.spotify.com/track/3B7HiByTGUFZucAnzgUxIw) | [Wolfe](https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA) | [有啲嘢唔講得](https://open.spotify.com/album/6bjo2tylboKAk7YFUfnva1) | 3:03 | 2022-05-26 | 2022-07-29 |
 | [有邊個想做廢青](https://open.spotify.com/track/34dGK3a62hFVge22O19gUW) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl), [Kmicgor@Ragpickers](https://open.spotify.com/artist/2NgXoMxmFivqsMVGVny2KK) | [有邊個想做廢青](https://open.spotify.com/album/5oRZfgSR9mnt0ojjiI86Q9) | 4:42 | 2023-01-19 |  |
 | [末世情書](https://open.spotify.com/track/5aEzkY4D0HdU0CyUoJWnmm) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [末世情書](https://open.spotify.com/album/0TMwkt9ibpPMNW3EWWhV6j) | 4:40 | 2022-10-13 | 2023-03-18 |
+| [本末棄置 Give It All Up](https://open.spotify.com/track/6ZOVHBeC4X5I52AoD4SsVT) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [本末棄置 Give It All Up](https://open.spotify.com/album/5htKajNDtwm7Lpn4fPcyS7) | 2:35 | 2023-03-30 |  |
 | [東主有喜](https://open.spotify.com/track/6RcD4whYTJZ7B1dmjZfTMx) | [鄒旻諾](https://open.spotify.com/artist/4BYz0z0sopfLsuyQpw0YOS) | [東主有喜](https://open.spotify.com/album/7Mep4iNCt9mSp3YO12r8aW) | 4:50 | 2022-10-27 | 2023-02-03 |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 | 2022-07-29 |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-08-12 | 2022-11-04 |
@@ -438,7 +442,9 @@
 | [臉紅時我想看穿你的心臟](https://open.spotify.com/track/74zDfZprw49eIQbe31bPME) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27) | [臉紅時我想看穿你的心臟](https://open.spotify.com/album/0XoBprUMG2iCYBwcN05J82) | 3:48 | 2022-08-18 | 2022-11-04 |
 | [自作孽](https://open.spotify.com/track/0ALHyLLnWdAt4i160NlmqU) | [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [自作孽](https://open.spotify.com/album/1KC3yzxSiXWbA1hlEGQDRq) | 2:48 | 2022-05-26 | 2022-07-29 |
 | [臭西西女人](https://open.spotify.com/track/6YaK7a44wwHBmoiRbgpW3e) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [臭西西女人](https://open.spotify.com/album/7ozJodyUY4f36OLGKMRSzG) | 2:34 | 2022-08-12 | 2022-11-04 |
+| [航行者一號](https://open.spotify.com/track/6CZWYdD5QJOLl748QblWBD) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [航行者一號](https://open.spotify.com/album/5lsOqwsCxRSOKmPyIRuCxg) | 3:20 | 2023-03-30 |  |
 | [荒謬](https://open.spotify.com/track/2ffz1KYTxcH0szaFI7FPyv) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [ZiNG!](https://open.spotify.com/album/238I1dAZg6aMYIazEk4eiv) | 3:48 | 2022-05-26 | 2022-07-29 |
+| [藍](https://open.spotify.com/track/5pP7LtLlmcqikkA7COCHB4) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [藍](https://open.spotify.com/album/6WfbXwRDkl91BEXVuDWuaG) | 3:28 | 2023-03-30 |  |
 | [藍色時期](https://open.spotify.com/track/41SLYJForXFleyuyKHqm7k) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [藍色時期](https://open.spotify.com/album/1jSDKKhHUaLjq4JbiWYOtX) | 3:25 | 2022-07-21 | 2022-11-04 |
 | [藏](https://open.spotify.com/track/1Q1ekVK1qbKvoqKXS1vSYs) | [Hidy Dear](https://open.spotify.com/artist/2ELf7wGy8b9xpRwOscjnJJ), [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [藏](https://open.spotify.com/album/6wrbg7F6Yd1JW53ZMZpqa7) | 3:23 | 2022-11-03 | 2023-03-18 |
 | [蘋果樹下](https://open.spotify.com/track/1hZGlDhhkGdNCAo5TBL7hG) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [蘋果樹下](https://open.spotify.com/album/59Dt1xdXS8HE6z7f22or8T) | 4:25 | 2022-05-26 | 2022-06-10 |

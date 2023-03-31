@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Blande  a.k.a\. <a href="https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0?si=lT1wzn6tTV604S4xgYVf6Q">Wande</a> :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,212 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,356 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

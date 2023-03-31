@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 314410,
       "name": "To The Room",
       "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
@@ -3216,6 +3216,24 @@
       "duration_ms": 441840,
       "name": "You Do It",
       "url": "https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv"
+    },
+    {
+      "album": {
+        "name": "Weighing of the Heart",
+        "url": "https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Zone 1 to 6000",
+      "url": "https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA"
     },
     {
       "album": {

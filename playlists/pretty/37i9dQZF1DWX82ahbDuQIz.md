@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,702 likes - 95 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,899 likes - 95 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 36 | [I’m Not a Girl, Not Yet a Woman](https://open.spotify.com/track/3CL9onFqjkQ8nL6BJ0w5wb) | [Justin David Sullivan](https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp), [Lorna Courtney](https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap) | [& Juliet \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD) | 3:24 |
 | 37 | [Burn](https://open.spotify.com/track/4B3qvzOMzLQXLeYgPsG3KA) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:45 |
 | 38 | [Dead Mom](https://open.spotify.com/track/7fRt5HCt4KgLlH45wFQCho) | [Sophia Anne Caruso](https://open.spotify.com/artist/6DQwC1hPrwv3JRmvxONCoZ), [Beetlejuice Original Broadway Cast Recording Ensemble](https://open.spotify.com/artist/5EJf9pRO532SnGtOaeiw4F) | [Beetlejuice \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Nkueud4hqLWhSzOepKi7p) | 3:04 |
-| 39 | [1973](https://open.spotify.com/track/2gOmt646rC7CXUUdDUIvEL) | [Casey Likes](https://open.spotify.com/artist/2y3sCYh34QgmPXj1HdUlsu), [Anika Larsen](https://open.spotify.com/artist/19YjQcUwdG4DwtQkX7FdyL), [Emily Schultheis](https://open.spotify.com/artist/0OcExg1pTQLJwlcR5mQXLi), [Daniel Sovich](https://open.spotify.com/artist/1EsCfsJrZyD7zFqDqucMHG), [Original Broadway Cast of Almost Famous \- The Musical](https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG) | [1973 \| Almost Famous \- The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0KlUofZC29GRr69VlI9UMq) | 6:00 |
+| 39 | [1973](https://open.spotify.com/track/7ilpAvc7CHRJ0ZRYP1h6YC) | [Casey Likes](https://open.spotify.com/artist/2y3sCYh34QgmPXj1HdUlsu), [Anika Larsen](https://open.spotify.com/artist/19YjQcUwdG4DwtQkX7FdyL), [Emily Schultheis](https://open.spotify.com/artist/0OcExg1pTQLJwlcR5mQXLi), [Daniel Sovich](https://open.spotify.com/artist/1EsCfsJrZyD7zFqDqucMHG), [Original Broadway Cast of Almost Famous \- The Musical](https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG) | [The Real World \| Almost Famous \- The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0jmsgMEMJci6CiQDCoBCuE) | 6:00 |
 | 40 | [Everything's Coming Up Roses](https://open.spotify.com/track/5nGY247vAiGjDjZSiIZTS2) | [Rose](https://open.spotify.com/artist/2z0IJ75fUUoHoO0MmqYAXC) | [Gypsy \- The 2008 Broadway Cast Recording](https://open.spotify.com/album/4dJ5ZnyEQ996ZqWRPyagwZ) | 2:51 |
 | 41 | [Till There Was You](https://open.spotify.com/track/1kU40UKP9BviW8m4HMgUQh) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP), [Robert Preston](https://open.spotify.com/artist/4KMMjF738dOUpmO51lMUrf) | [The Music Man \(Original Broadway Cast\)](https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ) | 2:45 |
 | 42 | [Maybe It Starts With Me](https://open.spotify.com/track/7lBv7MWOlSLTJCM0VsDyrY) | [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5) | [Mr\. Saturday Night \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7J4kGNmubWaeTUexHP14i5) | 2:50 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 94 | [Aquarius](https://open.spotify.com/track/0WviwuG403gqtW6bZevBpP) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr), [Tom Pierson](https://open.spotify.com/artist/37pKA6kY6h4rcFUBwrrTDk) | [Hair](https://open.spotify.com/album/1llShsXxqoYFxKEX7JkKBj) | 4:48 |
 | 95 | [One Day](https://open.spotify.com/track/5s012FPLoqWYDI7XP0ypWG) | [Andy Karl](https://open.spotify.com/artist/09sZOsk9ujU8m4qRMRs6kl), [Barrett Doss](https://open.spotify.com/artist/1r45HCPG6bifaxWk2kPvIt), [Groundhog Day The Musical Company](https://open.spotify.com/artist/3KN3908mKsFRcNSQelGahl), [Tim Minchin](https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2) | [Groundhog Day The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0nv740XsW6ONByj7LLg9Xl) | 8:46 |
 
-Snapshot ID: `MTY3OTk1NDY5NCwwMDAwMDAwMDZlMWE4YWNlZWE3NTJlMDc5M2I4NmVkNGUxYjk5NWNm`
+Snapshot ID: `MTY3OTk1NDY5NCwwMDAwMDAwMGU5OGUwNTRkZjEyYWRjMTI3Yzc3MmY0ZGIzNjk0OTI1`

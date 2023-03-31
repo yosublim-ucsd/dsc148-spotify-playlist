@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-150 songs - 7 hr 54 min
+151 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Never Left](https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6) | [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ) | [Never Left](https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN) | 2:52 | 2022-02-11 |  |
 | [Never Loose](https://open.spotify.com/track/3W7ZhocyMpK2b4MxwbpGu5) | [Bura](https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k) | [Never Loose](https://open.spotify.com/album/3AnUhJWeLVlQ1hD16fQ4bC) | 3:15 | 2021-12-16 |  |
 | [New Level // SUPERWATER](https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC) | [BEMATA](https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x) | [New Level // SUPERWATER](https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH) | 3:20 | 2021-10-15 | 2022-10-28 |
+| [Oh Shoot](https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Oh Shoot](https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U) | 2:49 | 2023-03-30 |  |
 | [Oh! My Dear...](https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE) | [Wamugunda](https://open.spotify.com/artist/2Mj0SBavSxKCv3MMUfvBEP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Oh! My Dear...](https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI) | 6:39 | 2021-12-16 |  |
 | [Old Ghosts](https://open.spotify.com/track/7mdxLKcj9fgsMPy3pJhadc) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06) | [Old Ghosts](https://open.spotify.com/album/0L2hcwVhhMdCrT2WDxNJor) | 2:51 | 2021-10-29 |  |
 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 | 2022-03-17 |  |
@@ -139,7 +140,7 @@
 | [Tell Your Mother](https://open.spotify.com/track/71Ny6FDDEV4LG7WQ7lXYea) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Television](https://open.spotify.com/artist/1GSGf6ony1hg3S7saFkj8z) | [Tell Your Mother](https://open.spotify.com/album/2LW261abaIYKW2lse29gu6) | 3:27 | 2021-10-15 | 2022-06-03 |
 | [Terene](https://open.spotify.com/track/7AWNG9r1Rlv8YdLUd09AKi) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Kommanda Obbs](https://open.spotify.com/artist/1ZfZwBPYz6nAQK4H0Ybd2v) | [Terene](https://open.spotify.com/album/5t5G9vRwwqqaloR0DxSOTD) | 3:27 | 2021-10-15 | 2022-08-26 |
 | [The Yeah Yeah](https://open.spotify.com/track/24pqG5Vg6ImGrIPlWrlfLe) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [The Yeah Yeah](https://open.spotify.com/album/3CYD922quLZEwzqvSokO0I) | 2:19 | 2022-06-02 |  |
-| [This Depression Thing](https://open.spotify.com/track/5sdWuECOLbdWDzfYe9qOhm) | [G L E N](https://open.spotify.com/artist/6Zn7q82x0RrkCcxeTQ2t5x) | [This Depression Thing](https://open.spotify.com/album/4yac4Do5pCzuHEGjTgTq0V) | 3:42 | 2022-03-17 |  |
+| [This Depression Thing](https://open.spotify.com/track/5sdWuECOLbdWDzfYe9qOhm) | [G L E N](https://open.spotify.com/artist/6Zn7q82x0RrkCcxeTQ2t5x) | [This Depression Thing](https://open.spotify.com/album/4yac4Do5pCzuHEGjTgTq0V) | 3:42 | 2022-03-17 | 2023-03-31 |
 | [TIMBUKTU](https://open.spotify.com/track/6E54DHYKNZeAcwJmZ4Z5Kl) | [MVNSA](https://open.spotify.com/artist/7eDhN1XQFftwBO8b8AP4tc), [Dag Tenere](https://open.spotify.com/artist/2R1UoujOq4kekTzz0eO9mM) | [Name Me Mansa](https://open.spotify.com/album/5BfJZMIXGxzyV9eQA44tMz) | 3:09 | 2021-10-15 | 2022-01-28 |
 | [Tingisha Kidole](https://open.spotify.com/track/0dUO3M0hV0kodob3asRrDp) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 1:52 | 2021-10-15 | 2022-04-29 |
 | [Tonelabira](https://open.spotify.com/track/6rQiDI920PgWZ7xei51JZr) | [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Tonelabira](https://open.spotify.com/album/1PrhVocWFG7cL7hjrezxZ6) | 3:19 | 2021-11-04 | 2022-03-26 |

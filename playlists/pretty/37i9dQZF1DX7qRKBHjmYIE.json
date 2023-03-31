@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Immasoul",
-  "num_followers": 748163,
+  "num_followers": 748143,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDA2MjQwMCwwMDAwMDAwMDEwZDQ2ODZhYTJkOTdjNzUxMDYzM2EyMDFlZmRiYTAz",
+  "snapshot_id": "MTY4MDA2MjQwMCwwMDAwMDAwMGI3NDFiNTEzNjMxNDE2MWRiMWRmNGYyMWMzYjg4Y2Ji",
   "tracks": [
     {
       "added_at": "2023-03-29 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Serotonina",
-        "url": "https://open.spotify.com/album/6D6hmtCKwlBSD5gqxUUMiP"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 174143,
-      "name": "Serotonina",
-      "url": "https://open.spotify.com/track/0z6PsOx006lQADQl3gB5YC"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 236129,
       "name": "Madres",
       "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "Serotonina",
+        "url": "https://open.spotify.com/album/6D6hmtCKwlBSD5gqxUUMiP"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 174143,
+      "name": "Serotonina",
+      "url": "https://open.spotify.com/track/0z6PsOx006lQADQl3gB5YC"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Cortes Modernos",
         "url": "https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 223621,
       "name": "Cortes Modernos",
       "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Let Me Down Slow",
-        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Let Me Down Slow",
-      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "DE REVERSA",
         "url": "https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 184669,
       "name": "DE REVERSA",
       "url": "https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Flexa",
-        "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
-      },
-      "artists": [
-        {
-          "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Flexa",
-      "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Love Letters From Houston",
         "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
+        "name": "Flexa",
+        "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Flexa",
+      "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 93106,
       "name": "superman",
       "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "SI ME ELEVO",
+        "url": "https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr"
+      },
+      "artists": [
+        {
+          "name": "Vivi K",
+          "url": "https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "te di mi luz",
+      "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 205576,
       "name": "CONTRACORRIENTE",
       "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
-        "name": "SI ME ELEVO",
-        "url": "https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr"
-      },
-      "artists": [
-        {
-          "name": "Vivi K",
-          "url": "https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "te di mi luz",
-      "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Mirror In My Living Room",
-        "url": "https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg"
-      },
-      "artists": [
-        {
-          "name": "Tayler Buono",
-          "url": "https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5"
-        }
-      ],
-      "duration_ms": 180563,
-      "name": "Mirror In My Living Room",
-      "url": "https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 196588,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "Mirror In My Living Room",
+        "url": "https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg"
+      },
+      "artists": [
+        {
+          "name": "Tayler Buono",
+          "url": "https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "Mirror In My Living Room",
+      "url": "https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR"
     },
     {
       "added_at": "2023-03-29 04:00:00",

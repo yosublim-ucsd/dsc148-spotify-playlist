@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. Giovane Feddini e Drimer in cover.",
+  "description": "Beat e rime, oggi come una volta. Kiave, Gheesa e Macro Marco in cover.",
   "name": "Radici Hip-Hop",
   "tracks": [
     {
@@ -46,6 +46,32 @@
       "duration_ms": 259557,
       "name": "21 Grammi",
       "url": "https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s"
+    },
+    {
+      "album": {
+        "name": "36 Stanze",
+        "url": "https://open.spotify.com/album/2aqBbtn8GH9sGQ0WtKUYMV"
+      },
+      "artists": [
+        {
+          "name": "Kiave",
+          "url": "https://open.spotify.com/artist/6x5XjmZrAIfZfuRbXXeBEg"
+        },
+        {
+          "name": "Gheesa",
+          "url": "https://open.spotify.com/artist/2bLmuNA1oaUiMcg7FUsqlo"
+        },
+        {
+          "name": "Macro Marco",
+          "url": "https://open.spotify.com/artist/4W7U7bpnH1h0VKxMIRSzTn"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215169,
+      "name": "36 Stanze",
+      "url": "https://open.spotify.com/track/26VNVDjJA0hJGBKZAfScMc"
     },
     {
       "album": {
@@ -182,7 +208,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 311960,
       "name": "Aspettando Il Sole - Remastered",
       "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"

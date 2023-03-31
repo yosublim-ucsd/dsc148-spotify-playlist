@@ -480,7 +480,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 221168,
       "name": "Collide (Sped Up Remix)",
       "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 205498,
       "name": "Desert Rose - Sped Up (high highs)",
       "url": "https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 170348,
       "name": "Over - Sped Up",
       "url": "https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy"
@@ -2106,6 +2106,32 @@
       "duration_ms": 213066,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"
+    },
+    {
+      "album": {
+        "name": "Red Ruby Da Sleeze (Sped Up)",
+        "url": "https://open.spotify.com/album/5HCvLKZPNfrztoLv2fPs48"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179438,
+      "name": "Red Ruby Da Sleaze - Sped Up",
+      "url": "https://open.spotify.com/track/5J1vxba3jtIW9s8fQdf0rh"
     },
     {
       "album": {
@@ -2410,6 +2436,32 @@
       "duration_ms": 210626,
       "name": "Starships",
       "url": "https://open.spotify.com/track/59RSrxkSKSixEWBAIvE5Wa"
+    },
+    {
+      "album": {
+        "name": "Step On Me (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4Hvhn8Llylsg57osaLEVcJ"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "Kuya Magik",
+          "url": "https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206419,
+      "name": "Step On Me - Sped Up Version",
+      "url": "https://open.spotify.com/track/7r28jv8dtlXDOoulEIPP04"
     },
     {
       "album": {
@@ -2832,6 +2884,32 @@
       "duration_ms": 95817,
       "name": "why so srs?",
       "url": "https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg"
+    },
+    {
+      "album": {
+        "name": "Wicked Games (Sped Up)",
+        "url": "https://open.spotify.com/album/4C5wHfZutXxy8BlqegHYHw"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "Esteve",
+          "url": "https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Wicked Games - Sped Up",
+      "url": "https://open.spotify.com/track/2gD25C4hWZoQeGNlfqCAK2"
     },
     {
       "album": {

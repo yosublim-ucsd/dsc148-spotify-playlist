@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 494,
+  "num_followers": 496,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMDAwNThiMGIwYjQ3OGYwNjk5OTU4YmQ2YmQzNGRmZDRh",
+  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMDliZjUzZWY2MmMzNzdlNTgyOWNhYTdjMTg4OWEyMjVj",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -871,22 +871,18 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Bakuwe",
-        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM"
       },
       "artists": [
         {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Bakuwe",
-      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
+      "duration_ms": 196832,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -911,18 +907,22 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM"
+        "name": "Bakuwe",
+        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
       "artists": [
         {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs"
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 196832,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM"
+      "duration_ms": 186000,
+      "name": "Bakuwe",
+      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
       "added_at": "2022-03-31 17:42:20",

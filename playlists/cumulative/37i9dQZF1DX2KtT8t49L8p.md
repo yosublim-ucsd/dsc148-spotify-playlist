@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-53 songs - 2 hr 53 min
+55 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,8 @@
 | [Theta Waves Focus Music](https://open.spotify.com/track/2WAVUREUvaRAlX0SFr26zf) | [Binaural Beats Study Music](https://open.spotify.com/artist/0rV884TJaWtmnJf392FG6e), [Study Alpha Waves](https://open.spotify.com/artist/3UDxdbAXqqKJG1pWgUgOCp), [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1) | [Binaural Beats Focus: Study Alpha Waves, Isochronic Tones, Theta Waves, Delta Waves and Ambient Music For Studying, Focus, Concentration and Background Music For Reading](https://open.spotify.com/album/2xoELtkvoDiNhSWAQ40AYL) | 2:09 | 2023-03-16 |  |
 | [Theta Waves for Sleeping Aid](https://open.spotify.com/track/6j2M7zlPqXKwkEugDHcdjM) | [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1) | [Binaural Beats Collection](https://open.spotify.com/album/54mMypYiCNG6gUfcWcxJ1d) | 3:51 | 2023-03-16 |  |
 | [Theta Waves Sleep Music](https://open.spotify.com/track/1HgdzuodiBcuHjYiC2u4R6) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r), [Binaural Beats Library](https://open.spotify.com/artist/5Mk1SfiKteGGUq5WDcRwOB), [Binaural Beats Deep Sleep](https://open.spotify.com/artist/0wmr2DRyX5KQcSv2jS6ydi) | [Binaural Beats Deep Sleep: Ambient Music, Isochronic Tones, Alpha Waves, Theta Waves and Relaxing Music For Sleeping, Sleep Music and Brainwave Entrainment](https://open.spotify.com/album/6Ss53oZMeKiWHOnj3yObSI) | 2:03 | 2023-03-16 |  |
+| [Trusting Oneself \(Binaural Theta 94 Hz \- 100 Hz\)](https://open.spotify.com/track/5GsoC34xzsl8FFFbcALmlP) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Tunnel Light & Trusting Oneself \(Binaural Theta\)](https://open.spotify.com/album/0FKnwIuFD2hgFWeQNzMiLf) | 3:35 | 2023-03-31 |  |
+| [Tunnel Light \(Binaural Theta 90 Hz \- 96 Hz\)](https://open.spotify.com/track/7LkhQscNB0bITZrpD4HyAZ) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Tunnel Light & Trusting Oneself \(Binaural Theta\)](https://open.spotify.com/album/0FKnwIuFD2hgFWeQNzMiLf) | 3:38 | 2023-03-31 |  |
 | [Winning Theta Pattern 6Hz](https://open.spotify.com/track/4KQCZIN3EbQSJQKMNY2xxv) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Binaural Algorithms](https://open.spotify.com/album/4NrYgDTodsxChEuHeXCZR1) | 3:18 | 2023-03-16 |  |
 
 \*This playlist was first scraped on 2023-03-18. Prior content cannot be recovered.

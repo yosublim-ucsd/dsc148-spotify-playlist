@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-81 songs - 5 hr 44 min
+82 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Mother's Love](https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f) | [Antonious](https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ) | [Mother's Love](https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0) | 1:00 | 2018-07-07 |  |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2018-02-14 |  |
 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 | 2018-02-14 |  |
-| [Oh What a Father](https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q) | 3:56 | 2018-07-07 |  |
+| [Oh What a Father](https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q) | 3:56 | 2018-07-07 | 2023-03-31 |
+| [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 | 2023-02-07 |  |
 | [Oh What a Father](https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/5ZFrFQRF1EHUDh49toRT16) | 3:56 | 2018-07-07 | 2022-07-29 |
 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 | 2018-02-14 |  |
 | [Reckless Love](https://open.spotify.com/track/4odhDLNCwWGUBiuyh0SYzH) | [Greg & Janna](https://open.spotify.com/artist/50hdYBalxcpRtX8yfmUGIZ) | [Reckless Love](https://open.spotify.com/album/0VN15bs7ifMLjFeOX0WzW3) | 4:57 | 2018-06-05 |  |

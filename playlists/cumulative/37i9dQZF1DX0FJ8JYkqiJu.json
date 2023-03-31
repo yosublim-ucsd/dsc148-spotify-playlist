@@ -18,7 +18,7 @@
           "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135600,
@@ -311,6 +311,28 @@
     },
     {
       "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6vSHmT60oUsA4QWYaAcySr"
+      },
+      "artists": [
+        {
+          "name": "Oly Sherman",
+          "url": "https://open.spotify.com/artist/5reK8WyX1RXvnRw8J0ZpgE"
+        },
+        {
+          "name": "Boovuego",
+          "url": "https://open.spotify.com/artist/0okM8c7uOzcsVnrMJsZNJU"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257696,
+      "name": "Chase It Up",
+      "url": "https://open.spotify.com/track/6VV7yVrNLsqHPvLaRgtL0b"
+    },
+    {
+      "album": {
         "name": "Chills / Cycles",
         "url": "https://open.spotify.com/album/3dCtNJ4gxGwvNoDmCd7XuQ"
       },
@@ -366,7 +388,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 230395,
       "name": "Clarity - Chris Malinchak Mix",
       "url": "https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe"
@@ -452,12 +474,34 @@
           "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "date_added": "2023-03-28",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 271795,
       "name": "EASY PREY - yeule & Kin Leonn Remix",
       "url": "https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0Yep9BMOQZKsAwEu3g9lgo"
+      },
+      "artists": [
+        {
+          "name": "Du0",
+          "url": "https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211877,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0oyqiTMo4tKvxS7PkASNAh"
     },
     {
       "album": {
@@ -644,7 +688,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
@@ -777,6 +821,32 @@
     },
     {
       "album": {
+        "name": "hollatchu",
+        "url": "https://open.spotify.com/album/6v2Carq39870pglhzZeHqx"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        },
+        {
+          "name": "YUNGMORPHEUS",
+          "url": "https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242711,
+      "name": "hollatchu",
+      "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/4cTi8pyizriynPUYa0qRkD"
       },
@@ -836,6 +906,28 @@
       "duration_ms": 199000,
       "name": "Hopedrunk Everasking",
       "url": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
+    },
+    {
+      "album": {
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217708,
+      "name": "If Love Is A Skill",
+      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
       "album": {
@@ -1044,7 +1136,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 187285,
       "name": "Long Time - Cabu Remix",
       "url": "https://open.spotify.com/track/78uwNLAfMW3RFkafAhnwKD"
@@ -1277,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Oaks Are Real",
+        "url": "https://open.spotify.com/album/4qIxKQMmCNGyXZWH7Bel54"
+      },
+      "artists": [
+        {
+          "name": "Chimi Berry",
+          "url": "https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172769,
+      "name": "Oaks Are Real",
+      "url": "https://open.spotify.com/track/7KoQlaxIbg3FhBABlBTKEt"
+    },
+    {
+      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -1372,7 +1482,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 216270,
       "name": "Promises - Catching Flies Remix",
       "url": "https://open.spotify.com/track/0KtcZEGkkQpf5bwBKsxz3K"
@@ -1772,7 +1882,7 @@
           "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211782,
@@ -1880,7 +1990,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 204605,
       "name": "Walking on a Dream",
       "url": "https://open.spotify.com/track/1XYc5rKRlOk94IUJZr27Yu"

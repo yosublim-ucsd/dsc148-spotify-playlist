@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 76936,
+  "num_followers": 77011,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMGYyZDEyNWJkOTA2NThlNzQ5MTczOGIxYWU4NmNhMjc2",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDc0ZDU1M2QzM2VjN2JiMDhhYmRiMGUzNTI3YjI2ZDZi",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Fearless (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 485026,
-      "name": "Anything Can Happen",
-      "url": "https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
         "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 507893,
       "name": "Beyond The Veil - Live",
       "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Fearless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 485026,
+      "name": "Anything Can Happen",
+      "url": "https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Think About These Things",
-        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins",
-          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
-        }
-      ],
-      "duration_ms": 153853,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Deitrick Haddon & Hill City Worship Camp",
         "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 458498,
       "name": "A Billion People",
       "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Think About These Things",
+        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+        }
+      ],
+      "duration_ms": 153853,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
     },
     {
       "added_at": "2020-06-03 14:33:10",

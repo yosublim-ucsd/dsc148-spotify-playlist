@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "My Armour",
+        "url": "https://open.spotify.com/album/6cAAs8PhZKCoR8CplwW8HG"
+      },
+      "artists": [
+        {
+          "name": "South Noon",
+          "url": "https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Colour Me",
+      "url": "https://open.spotify.com/track/0uy2agXCETXM1UVxAwNAhl"
+    },
+    {
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV"
       },
@@ -4474,6 +4492,24 @@
       "duration_ms": 144782,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD"
+    },
+    {
+      "album": {
+        "name": "Sakalas",
+        "url": "https://open.spotify.com/album/6YrWkecb5QbcvBBVwJcalr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Derus",
+          "url": "https://open.spotify.com/artist/0eUKr3LcMQaxwzgIqKKDZ8"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176785,
+      "name": "Sakalas",
+      "url": "https://open.spotify.com/track/6OA8XPGALjJXIhQ7996ftt"
     },
     {
       "album": {

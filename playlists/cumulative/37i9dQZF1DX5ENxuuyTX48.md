@@ -4,7 +4,7 @@
 
 > Songs to listen to while waiting to break the fast.
 
-113 songs - 7 hr 36 min
+119 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,8 @@
 | [Anugerah Cinta](https://open.spotify.com/track/5RSCQmqgrdnL4LLBFk2Pk9) | [Munif Ahmad](https://open.spotify.com/artist/7fzsFvgrM5JTfh1wlYbCIp) | [Anugerah Cinta](https://open.spotify.com/album/4ZfMjSUoeFDmiaiGLPNT9M) | 4:03 | 2023-03-24 |  |
 | [Apa Yang Tak Bisa](https://open.spotify.com/track/7eq7Q23nVvIcroCRzzkyNR) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [+imeless](https://open.spotify.com/album/1wyW6xxlgeDHqbpJRnUYPG) | 4:55 | 2023-03-24 |  |
 | [Assalamualaikum](https://open.spotify.com/track/2kLnUmWyd3h5JVksALLiBn) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Assalamualaikum](https://open.spotify.com/album/645c5mkNPfxgFhulDxQqQ0) | 3:43 | 2023-03-24 |  |
+| [Ayo Puasa](https://open.spotify.com/track/6DcgcM7IxnyPgkhX5aTgOr) | [One Room](https://open.spotify.com/artist/0glRU2GCMhYDR5U2fkoANN) | [Ayo Puasa](https://open.spotify.com/album/4V7yOEVCOyvhW4kVDdhFXw) | 3:28 | 2023-03-30 |  |
+| [bagai bintang bulan](https://open.spotify.com/track/6pk0iPvgjY4zLlVVcAh153) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [2016](https://open.spotify.com/album/3nrEhteC4SHPiLCSHvod71) | 4:42 | 2023-03-30 |  |
 | [Basyirah](https://open.spotify.com/track/2eymj1hSoddHLeUc1110vd) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Basyirah](https://open.spotify.com/album/5xVzbbh4AFFUtDVj45abwx) | 3:30 | 2023-03-24 |  |
 | [Be Alright](https://open.spotify.com/track/2Zac9n41LaSxAecC3ceO3L) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Be Alright](https://open.spotify.com/album/0wvdoI8aML1Rl5ArlM9Fn9) | 3:31 | 2023-03-24 |  |
 | [Berkah](https://open.spotify.com/track/0nXqofa8WOJ88Fhx7yAPxO) | [Salammusik](https://open.spotify.com/artist/2GNPXIZNyBOs68fdaAeRYN) | [25 Rasul](https://open.spotify.com/album/4SzU250wIW1mWoWp7qMU3p) | 4:21 | 2023-03-24 |  |
@@ -53,6 +55,7 @@
 | [HidayahMu](https://open.spotify.com/track/3k1YZKknwLs4tsJo1y3vHT) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [HidayahMu](https://open.spotify.com/album/0Ifq6hcCuhId7ZL1zUrFI3) | 3:30 | 2023-03-24 |  |
 | [I'tiraf](https://open.spotify.com/track/0YRbxYgXm4AC9QdBJB11do) | [Lah Ahmad](https://open.spotify.com/artist/2dMx4kReklBAx3Y1sKpn0S) | [Sempurna & Terbaik](https://open.spotify.com/album/7xNeGuptan0Ucto6XWS7E0) | 6:42 | 2023-03-24 |  |
 | [Ikhlas](https://open.spotify.com/track/56UcBDMGMiDzbLilbuddxM) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Nissa Sabyan](https://open.spotify.com/artist/58FxAw8gQz34r2lewLrFZU), [Taufik Batisah](https://open.spotify.com/artist/2lUOtL7ynpi6qacshqiA5m) | [Ikhlas](https://open.spotify.com/album/71plkNyCVZxYzRX2vaBshv) | 4:00 | 2023-03-24 |  |
+| [Iktiraf](https://open.spotify.com/track/26Nwi7bdu86SoIKmIFJY6K) | [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij), [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65) | [Iktiraf](https://open.spotify.com/album/0xMgXeHNNYQFD0MxJ0A8gr) | 2:59 | 2023-03-30 |  |
 | [In the Name of Allah](https://open.spotify.com/track/0il1XA1Ko1ygNeyXMUaHzM) | [Lah Ahmad](https://open.spotify.com/artist/2dMx4kReklBAx3Y1sKpn0S) | [Sempurna & Terbaik](https://open.spotify.com/album/7xNeGuptan0Ucto6XWS7E0) | 4:31 | 2023-03-24 |  |
 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 | 2023-03-24 |  |
 | [Jalan Terus](https://open.spotify.com/track/0rgNxtJzKiNNdz4doadYhn) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [SIDES](https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw) | 4:41 | 2023-03-24 |  |
@@ -83,6 +86,7 @@
 | [Langit Tetap Biru](https://open.spotify.com/track/6YJyDfC2KCTsk0faTWIwPg) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Langit Tetap Biru](https://open.spotify.com/album/3OFMZra3KMAQmEVKnrRyQT) | 4:15 | 2023-03-24 |  |
 | [Lingkar Luar](https://open.spotify.com/track/1Si9mAzAtYH0tsYth9sF2a) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:28 | 2023-03-24 |  |
 | [Manusia](https://open.spotify.com/track/2nZcVWb7kRt39594zqc40l) | [Caliph Buskers](https://open.spotify.com/artist/4EMUBDVdTer3U0WmxGLhkI) | [Manusia](https://open.spotify.com/album/6GjLkz8uCcPH4vZlFoaPKd) | 3:38 | 2023-03-24 |  |
+| [Marhaban Ya Ramadhan](https://open.spotify.com/track/6mtlTgKW3RD4zf7jNi7Hmw) | [Poor Too Geez](https://open.spotify.com/artist/14AeNguwkEe71AvXYVmyeo) | [Marhaban Ya Ramadhan](https://open.spotify.com/album/7xVy8ZzpwNY30DkFbsWZzw) | 3:46 | 2023-03-30 |  |
 | [Masa Depan](https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Masa Depan](https://open.spotify.com/album/649hYz14PcCd78FLTC84mb) | 3:47 | 2023-03-24 |  |
 | [Mata Hati Telinga](https://open.spotify.com/track/0CflRiqtl8oVKuvscVgy6F) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Mata Hati Telinga](https://open.spotify.com/album/1DynZXJq0QLlWT4LYLBDxC) | 4:27 | 2023-03-24 |  |
 | [Maulaya](https://open.spotify.com/track/7t7Z63880QgjMjw7cXkqUc) | [Lah Ahmad](https://open.spotify.com/artist/2dMx4kReklBAx3Y1sKpn0S) | [Sempurna & Terbaik](https://open.spotify.com/album/7xNeGuptan0Ucto6XWS7E0) | 4:16 | 2023-03-24 |  |
@@ -111,6 +115,7 @@
 | [SurgaMu](https://open.spotify.com/track/32esdG9DqNblHD4iUKazgc) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Top Hits Religi UNGU](https://open.spotify.com/album/5LUvKmNlUENvnHrqDW4Xqn) | 4:18 | 2023-03-24 |  |
 | [Syukur \(Alhamdulillah\)](https://open.spotify.com/track/4Pv6ectaJXNfxeFXAzz91a) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Top Hits Religi UNGU](https://open.spotify.com/album/5LUvKmNlUENvnHrqDW4Xqn) | 4:48 | 2023-03-24 |  |
 | [Tahajjud Cinta](https://open.spotify.com/track/2pG8wmLj0cCDg19o8CpDls) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Tahajjud Cinta](https://open.spotify.com/album/2mXoStFbc6V3ShPIHTmavM) | 5:12 | 2023-03-24 |  |
+| [Tahan Napsu](https://open.spotify.com/track/3AzJniPWyAGdwAPSCFFBXO) | [Kojek Rap Betawi](https://open.spotify.com/artist/5zTyn3wqE1uge6WOws8GtK) | [Tahan Napsu](https://open.spotify.com/album/0u1E2bu8VUlZdIepogP0GH) | 3:31 | 2023-03-30 |  |
 | [Takbir Cinta \(feat\. Yasin & Amy Search\)](https://open.spotify.com/track/1zn8W53QYOAETFq8UW6L1B) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [Yasin](https://open.spotify.com/artist/0NGBW5xekIWm9h6NhH1NAQ), [Amy Search](https://open.spotify.com/artist/5m9n0dY76euBtjt1Nf5jXS) | [Havoc](https://open.spotify.com/album/29seGjcBfLLxrnUVb5ZZ8A) | 4:49 | 2023-03-24 |  |
 | [Takkan Berpaling DariMu](https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Rossa](https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU) | 3:50 | 2023-03-24 |  |
 | [Takut Azab](https://open.spotify.com/track/60e61fD5oVRqk4BZQ7kT0A) | [Valdy Nyonk](https://open.spotify.com/artist/2yiIcmdxcECFqPBlEZcOJP) | [Takut Azab](https://open.spotify.com/album/5fjrCIkGYIOyBvKLTKwxhT) | 4:43 | 2023-03-24 |  |
@@ -121,5 +126,6 @@
 | [Tombo Ati \(Obat Hati\)](https://open.spotify.com/track/4RRqacRzBTHTrAU54UVMF5) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Tombo Ati \(Obat Hati\)](https://open.spotify.com/album/227dmHhz0oVKgxlhFM0hHD) | 5:06 | 2023-03-24 |  |
 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 | 2023-03-24 |  |
 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:08 | 2023-03-24 |  |
+| [Wow Sedapnya!](https://open.spotify.com/track/4hPq2nPPxMPsZiebgEcTuX) | [Alyssa Dezek](https://open.spotify.com/artist/7riu7Nfn7JdCh57ib3lQM3), [Ara Aziz](https://open.spotify.com/artist/77npcCia5NyvXQOX3zOgHQ) | [Wow Sedapnya!](https://open.spotify.com/album/2WuZwsLrgsWxkxsUkrEZ13) | 2:25 | 2023-03-30 |  |
 
 \*This playlist was first scraped on 2023-03-26. Prior content cannot be recovered.

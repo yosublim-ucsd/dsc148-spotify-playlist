@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-204 songs - 15 hr 24 min
+205 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Sometimes](https://open.spotify.com/track/4htJOhDocLKVyCCKltYR1A) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Sometimes](https://open.spotify.com/album/4be0voDBfbPQJ3wb3LOfmg) | 3:23 | 2020-06-05\* | 2022-07-29 |
 | [Somewhere \(feat\. Octavian\)](https://open.spotify.com/track/1Tzq2as6CZlNfwRoYXM5JK) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [Somewhere \(feat\. Octavian\)](https://open.spotify.com/album/2cpMP1SiahKB6miLzBZviM) | 3:35 | 2020-06-05\* | 2022-03-10 |
 | [Sonnet 17](https://open.spotify.com/track/22kXaGr4iobNqKLSoVfYT2) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:26 | 2020-06-05\* | 2022-07-27 |
-| [Spinning Heart](https://open.spotify.com/track/6BoegZTAMosVzlM6I64K5M) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Spinning Heart](https://open.spotify.com/album/62oaynhj9YYhW6D6BuNjrv) | 5:14 | 2022-05-30 |  |
+| [Spinning Heart](https://open.spotify.com/track/3Af909IMUQwHxT4w4Q5sEM) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Spinning Heart](https://open.spotify.com/album/0gDo1Rm6rhd1spRHA3z5eY) | 5:14 | 2022-11-25 |  |
+| [Spinning Heart](https://open.spotify.com/track/6BoegZTAMosVzlM6I64K5M) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Spinning Heart](https://open.spotify.com/album/62oaynhj9YYhW6D6BuNjrv) | 5:14 | 2022-05-30 | 2023-03-31 |
 | [State Forest](https://open.spotify.com/track/0f1fzwtgcFfFWOCucp6CUe) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Claustro / State Forest](https://open.spotify.com/album/28T25ZaiH7pzjmJXeWACex) | 8:03 | 2020-06-07 | 2021-10-10 |
 | [Steal](https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:39 | 2020-06-05\* |  |
 | [Still Not Over You \(Mall Grab Remix\)](https://open.spotify.com/track/6qcb2k28Y5lMnfP5khTZgr) | [Klyne](https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7) | [Still Not Over You \(Mall Grab Remix\)](https://open.spotify.com/album/2dDHUt1lXEpLi4X2i2gAEx) | 5:43 | 2020-06-06 | 2022-06-05 |

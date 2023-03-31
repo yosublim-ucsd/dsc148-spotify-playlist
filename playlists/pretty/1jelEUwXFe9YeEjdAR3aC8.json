@@ -1,12 +1,12 @@
 {
   "description": "Chill indie music. Cover: Rene\u00e9 Rapp",
-  "num_followers": 114487,
+  "num_followers": 114485,
   "original_name": "Indie Chill",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NzgyNixkYTU4ZmExMDNmM2M1MjA1MjMzMWQ4YTE1MjVkNjRlMmU5ZjM4NDZk",
+  "snapshot_id": "NzgzMSw3ZTE3YzRkODcxNWVhNmRlZDRkMDdkN2Q1ODVkNDYzY2E4OTEwOWYw",
   "tracks": [
     {
       "added_at": "2023-03-29 04:41:55",
@@ -407,6 +407,86 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2023-03-30 01:04:26",
+      "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
+    },
+    {
+      "added_at": "2023-03-30 01:04:30",
+      "album": {
+        "name": "in my mind",
+        "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "in my mind",
+      "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
+    },
+    {
+      "added_at": "2023-03-30 01:04:33",
+      "album": {
+        "name": "Allison's Songs",
+        "url": "https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH"
+      },
+      "artists": [
+        {
+          "name": "Florence Pugh",
+          "url": "https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq"
+        }
+      ],
+      "duration_ms": 269693,
+      "name": "The Best Part",
+      "url": "https://open.spotify.com/track/426Ts4w4vCFNW01udSShf9"
+    },
+    {
+      "added_at": "2023-03-30 01:04:37",
+      "album": {
+        "name": "Off Balance",
+        "url": "https://open.spotify.com/album/7E8I4TyooemC9brsZzMP6w"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 190479,
+      "name": "Off Balance",
+      "url": "https://open.spotify.com/track/2CDiN7sx4xHa8H7360GAcJ"
+    },
+    {
+      "added_at": "2023-03-30 01:04:40",
+      "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
       "added_at": "2023-03-29 04:41:55",

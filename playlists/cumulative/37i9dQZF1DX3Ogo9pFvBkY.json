@@ -8898,7 +8898,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 216065,
       "name": "Pyramid Train",
       "url": "https://open.spotify.com/track/5TZdub1bKTE2XEaBEQDUil"
@@ -11822,6 +11822,24 @@
       "duration_ms": 232375,
       "name": "Tsubaki Bonfire",
       "url": "https://open.spotify.com/track/3rfQluHSsE4X0FOWQTgx6A"
+    },
+    {
+      "album": {
+        "name": "Blue Morning",
+        "url": "https://open.spotify.com/album/3K1ywyQS4HoBNgXurhqm1O"
+      },
+      "artists": [
+        {
+          "name": "fragile eyes",
+          "url": "https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Tsukubai",
+      "url": "https://open.spotify.com/track/6bhK68oLgm0vwycmla8m2Q"
     },
     {
       "album": {

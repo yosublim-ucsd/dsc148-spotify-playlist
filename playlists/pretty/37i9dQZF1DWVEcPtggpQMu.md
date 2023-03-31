@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=DqKrM2Q8TNKiqJzn3waOWw">K.O</a>, <a href="https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ?si=OEr8rpk0S5\-mdn598rGcpQ">Young Stunna</a>, <a href="https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod?si=hzVOsNWQS96b0aD4Fe7KAg">Diamond Platinumz</a> and <a href="https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=ix1NILhoSr6dl2gEG932Tw">Oxlade</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,908 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,020 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 552604,
+  "num_followers": 552965,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzNjMzMSwwMDAwMDAwMGYwZGZkNTQzYjE5MGRjZDI2M2IwNjdkOTljOWFmN2Qy",
+  "snapshot_id": "MTY3NjAzNjMzMSwwMDAwMDAwMDE4ZTU0NzJhNDc1M2U3YzJlN2JiOWJlM2E4NWQwNjI5",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "The Violent Sleep of Reason",
+        "url": "https://open.spotify.com/album/7iqG1CTQwnil3TQ0Tiq9DD"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Born in Dissonance",
+      "url": "https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
         "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 194307,
       "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
       "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "The Violent Sleep of Reason",
-        "url": "https://open.spotify.com/album/7iqG1CTQwnil3TQ0Tiq9DD"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Born in Dissonance",
-      "url": "https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Anticult",
+        "url": "https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ"
+      },
+      "artists": [
+        {
+          "name": "Decapitated",
+          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "Earth Scar",
+      "url": "https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "A Different Shade of Blue",
         "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 182530,
       "name": "A Serpent's Touch",
       "url": "https://open.spotify.com/track/0mFaWgcWph8oldTKMnWeQW"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Anticult",
-        "url": "https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ"
-      },
-      "artists": [
-        {
-          "name": "Decapitated",
-          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "Earth Scar",
-      "url": "https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Behind The Crowd",
-        "url": "https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 194208,
-      "name": "Behind the Crowd",
-      "url": "https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190549,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Behind The Crowd",
+        "url": "https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 194208,
+      "name": "Behind the Crowd",
+      "url": "https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        }
+      ],
+      "duration_ms": 162439,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Infinite Punishment",
         "url": "https://open.spotify.com/album/7dPVNXsA5xZHiA6JLttSuq"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 162439,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Ultimate Annihilation",
+        "url": "https://open.spotify.com/album/4ErhvbjyVnkGgkRKvKQC1F"
+      },
+      "artists": [
+        {
+          "name": "Suburban Scum",
+          "url": "https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy"
+        }
+      ],
+      "duration_ms": 141431,
+      "name": "Ultimate Annihilation",
+      "url": "https://open.spotify.com/track/1rGYgf81OmT2AIPbrcbwun"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Life Is Pain",
         "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Ultimate Annihilation",
-        "url": "https://open.spotify.com/album/4ErhvbjyVnkGgkRKvKQC1F"
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
       },
       "artists": [
         {
-          "name": "Suburban Scum",
-          "url": "https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy"
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
         }
       ],
-      "duration_ms": 141431,
-      "name": "Ultimate Annihilation",
-      "url": "https://open.spotify.com/track/1rGYgf81OmT2AIPbrcbwun"
+      "duration_ms": 199746,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1263,22 +1279,6 @@
       "duration_ms": 218923,
       "name": "Vermin",
       "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Playing the Victim",
-        "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
-      },
-      "artists": [
-        {
-          "name": "Blood Youth",
-          "url": "https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Playing the Victim",
-      "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 241767,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Playing the Victim",
+        "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
+      },
+      "artists": [
+        {
+          "name": "Blood Youth",
+          "url": "https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Playing the Victim",
+      "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Tethra",
-        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
-      },
-      "artists": [
-        {
-          "name": "Tethra",
-          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
-        }
-      ],
-      "duration_ms": 289236,
-      "name": "Masochistic Healing",
-      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Hammer of the Witch (Deluxe Version)",
         "url": "https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 202215,
       "name": "Hammer of the Witch",
       "url": "https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Tethra",
+        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
+      },
+      "artists": [
+        {
+          "name": "Tethra",
+          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
+        }
+      ],
+      "duration_ms": 289236,
+      "name": "Masochistic Healing",
+      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "No Rest No Peace",
-        "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
-      },
-      "artists": [
-        {
-          "name": "Katalepsy",
-          "url": "https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w"
-        }
-      ],
-      "duration_ms": 266518,
-      "name": "No Rest No Peace",
-      "url": "https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Hardcore Lives",
         "url": "https://open.spotify.com/album/2R3IsS5NZeuzJLArHioMDl"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 133013,
       "name": "Born Strong",
       "url": "https://open.spotify.com/track/16wLPRzPx8ONlpcWXhfaDa"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "No Rest No Peace",
+        "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
+      },
+      "artists": [
+        {
+          "name": "Katalepsy",
+          "url": "https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w"
+        }
+      ],
+      "duration_ms": 266518,
+      "name": "No Rest No Peace",
+      "url": "https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
-      },
-      "artists": [
-        {
-          "name": "Abbie Falls",
-          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Testing the Limits of Infinite",
         "url": "https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 193746,
       "name": "Apostle",
       "url": "https://open.spotify.com/track/77j8ymzT23ZT1hnclyp5Xh"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
+      },
+      "artists": [
+        {
+          "name": "Abbie Falls",
+          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Collapse",
-        "url": "https://open.spotify.com/album/2JNh5Cr39keuBH7cJn3I7F"
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
       },
       "artists": [
         {
-          "name": "Heart Of A Coward",
-          "url": "https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ"
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
         }
       ],
-      "duration_ms": 280683,
-      "name": "Collapse",
-      "url": "https://open.spotify.com/track/2lRlt0aNT2q7UU5WIhlFTp"
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+        "name": "Gaining Purpose Through Passionate Hatred",
+        "url": "https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO"
       },
       "artists": [
         {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+          "name": "Twitching Tongues",
+          "url": "https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy"
         }
       ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
+      "duration_ms": 231497,
+      "name": "Gaining Purpose",
+      "url": "https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN"
     }
   ],
   "unique_name": "Extreme Metal Workout",

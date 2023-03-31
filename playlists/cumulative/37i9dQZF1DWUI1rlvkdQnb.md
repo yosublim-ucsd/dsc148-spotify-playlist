@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-164 songs - 8 hr 44 min
+165 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Enlightened Sense](https://open.spotify.com/track/1KHrVFRoVabN7vXoSK3sAP) | [Perceived Present](https://open.spotify.com/artist/0df4GNs9AAMEQQsggBKxU2) | [Enlightened Sense](https://open.spotify.com/album/0Dot5yCiD9YoITgdlpuWC2) | 2:33 | 2021-12-10 |  |
 | [Environmental Re\-Interpretation](https://open.spotify.com/track/440vNnFLzA1jeyfBQ1qeLY) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Environmental Re\-Interpretation](https://open.spotify.com/album/6DflzLS0vUt45ca8lw3iiW) | 3:26 | 2022-03-03 | 2022-08-13 |
 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 | 2023-01-27 |  |
-| [Escape Gravity](https://open.spotify.com/track/3xjsbk8OtU1uR3FuOPS2NT) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Escape Gravity](https://open.spotify.com/album/2q8JbhxMmq0UMn3ui8XdvB) | 2:51 | 2021-12-10 |  |
+| [Escape Gravity](https://open.spotify.com/track/3xjsbk8OtU1uR3FuOPS2NT) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Escape Gravity](https://open.spotify.com/album/2q8JbhxMmq0UMn3ui8XdvB) | 2:51 | 2021-12-10 | 2023-03-31 |
 | [Ethereal](https://open.spotify.com/track/19Veznfh8J7ZPLs9kgK1Kq) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Ethereal](https://open.spotify.com/album/7w5YrYY6lrmDIlNFNpj79L) | 3:17 | 2021-12-10 |  |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2021-12-10 |  |
 | [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2021-12-10 |  |
@@ -150,6 +150,7 @@
 | [State of Tranquility](https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 4:08 | 2021-12-10 | 2022-08-13 |
 | [Stillhet](https://open.spotify.com/track/3VssLi9w9PpBxc1fsLkJHN) | [Oscar Wallin](https://open.spotify.com/artist/0AiZKCmWMvIVBqIoqck2Xa) | [Stillhet](https://open.spotify.com/album/0NNY3mCYL6lMXGM6d74cz9) | 3:38 | 2021-12-10 |  |
 | [Stillness](https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Stillness](https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg) | 3:03 | 2023-01-27 |  |
+| [Stillness Above](https://open.spotify.com/track/2PsCjzE5BD5mK0EPcPUH8F) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Stillness Above](https://open.spotify.com/album/705Kqq7Zt7yr5Ldfwsx2YL) | 2:42 | 2023-03-31 |  |
 | [Sunset Sky](https://open.spotify.com/track/4oGLQOm8sT3134L7MN5Asr) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Sunset Sky](https://open.spotify.com/album/5T9l0vDiytF7LxJDYPUfae) | 2:48 | 2021-12-10 |  |
 | [Take Me Home](https://open.spotify.com/track/0ZGteveKS9XMCxDtjehnG3) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Take Me Home](https://open.spotify.com/album/6t5ja4OhtMyp49oY9FjN4f) | 3:29 | 2022-01-07 |  |
 | [Thaka](https://open.spotify.com/track/6pJ0Pp4wUKqtxU1E5Ssf5j) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Thaka](https://open.spotify.com/album/3szjMZXhGRW2MS4jVZ0ORx) | 3:20 | 2021-12-10 |  |

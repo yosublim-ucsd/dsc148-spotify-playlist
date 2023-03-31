@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-98 songs - 5 hr 45 min
+99 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [B.$.R](https://open.spotify.com/track/2BXApsC0wJaepCDli5FYja) | [Confesser](https://open.spotify.com/artist/3oAPMZYDVvAjaYi5FIwZJm), [Bess Maze](https://open.spotify.com/artist/7uU0VNTeJ6DUiLPQ3M0cRX) | [B.$.R](https://open.spotify.com/album/4yNJNMivAMcO7LwULQC7sH) | 4:42 | 2021-12-17 | 2022-07-23 |
 | [bad vibes "/](https://open.spotify.com/track/4o4m3uL98OFGAVCY4WhsYa) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [bad vibes "/](https://open.spotify.com/album/3CJqCFKrjBo4CkKtiIgBl5) | 3:00 | 2021-12-17 |  |
 | [Baktun](https://open.spotify.com/track/0TGjEiQuV7acZqIrk6zNHd) | [Danka](https://open.spotify.com/artist/6DixxmAXQtxGwPaHxHlKQ0) | [Baktun](https://open.spotify.com/album/2IUXMeZe5CtP88veiHreLt) | 5:18 | 2022-03-18 |  |
-| [Body Rock](https://open.spotify.com/track/42yPoKRxgi2A3lS8Qjtu0Y) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6BeQaQlMjyhmxWIs4BVd08) | 2:56 | 2021-12-17 |  |
+| [Body Rock](https://open.spotify.com/track/3SNBVd4MNVfabxURx1Ac32) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6Svg3u9Bd7XnoXFMKkXIoT) | 2:56 | 2022-09-09 |  |
+| [Body Rock](https://open.spotify.com/track/42yPoKRxgi2A3lS8Qjtu0Y) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6BeQaQlMjyhmxWIs4BVd08) | 2:56 | 2021-12-17 | 2023-03-31 |
 | [Boom Shakalaka](https://open.spotify.com/track/2JGXIPceyAR7x4oqxvyvlT) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI) | [Boom Shakalaka](https://open.spotify.com/album/1j6Vakqx2EpLsKyNV7XQoO) | 3:27 | 2022-04-08 |  |
 | [Bring O' Boy](https://open.spotify.com/track/7F1Im9PjdV7nM8V112Fh4t) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Bring O' Boy](https://open.spotify.com/album/2S5Ckvo6YBVW8NHbGmmiDG) | 2:41 | 2021-12-17 |  |
 | [Chemicalz](https://open.spotify.com/track/7zLs45mEmYf0BvpaqQzC4R) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL), [Wace](https://open.spotify.com/artist/6xNh2lwksU9XQuK9uZYuNl), [Krexxton](https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir) | [Chemicalz](https://open.spotify.com/album/3LAlTyB87YvX76waijZ7HR) | 2:07 | 2021-12-17 |  |

@@ -1,15 +1,15 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Luis R Conriquez & Nicky Jam ",
-  "num_followers": 20046,
+  "num_followers": 20115,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0MTMxNCwwMDAwMDAwMGJlMjA3NzE3ZDM2NWQ2YzI4OTJkMzVjNzA0NDIzNTc0",
+  "snapshot_id": "MTY3OTY0MTMxNCwwMDAwMDAwMGE2N2MxMzI3ZTBhZTEzMDI0MDhlZTY0YWExYmMzNmI5",
   "tracks": [
     {
-      "added_at": "2023-03-30 01:41:37",
+      "added_at": "2023-03-31 01:11:03",
       "album": {
         "name": "Como el Viento",
         "url": "https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK"
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-03-18 21:54:46",
       "album": {
+        "name": "DEL Barrio a la Ciudad",
+        "url": "https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 217458,
+      "name": "DEL Barrio a la Ciudad",
+      "url": "https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm"
+    },
+    {
+      "added_at": "2023-03-18 21:54:46",
+      "album": {
         "name": "DELUXE",
         "url": "https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 226473,
       "name": "Glopeta y Dios",
       "url": "https://open.spotify.com/track/3ipLtuOWd0xHEWZKju7foh"
-    },
-    {
-      "added_at": "2023-03-18 21:54:46",
-      "album": {
-        "name": "DEL Barrio a la Ciudad",
-        "url": "https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 217458,
-      "name": "DEL Barrio a la Ciudad",
-      "url": "https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm"
     },
     {
       "added_at": "2023-03-18 21:54:46",

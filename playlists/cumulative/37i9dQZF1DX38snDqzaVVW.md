@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-161 songs - 13 hr 58 min
+163 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Kara Toprak](https://open.spotify.com/track/7KBwZWuhVfscYVgWMhazEW) | [Aşık Veysel](https://open.spotify.com/artist/7rVsiFwBEEmTNoStle68F3) | [Aşık Veysel Arşiv 1](https://open.spotify.com/album/11uWjOHcCLBGJTSHXoLlgE) | 8:37 | 2021-10-21 |  |
 | [Karam Mangta Hoon](https://open.spotify.com/track/2fUX65guMPXpaCkxg1pJg9) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3) | [Bhar Do Jholi, Vol\. 4 \- Islamic Qawwalies](https://open.spotify.com/album/2hhnDdh8gKCvfXJ7E7FXIT) | 4:46 | 2022-04-18 | 2022-10-07 |
 | [Kardo Karam](https://open.spotify.com/track/5MznqLWNL6gkiC7Uql7FMc) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Kardo Karam](https://open.spotify.com/album/0EquNfzNoWFua3v1fIy7od) | 5:49 | 2022-04-18 | 2022-10-07 |
+| [Khair AlAhilla \(Ramadan\)](https://open.spotify.com/track/0ZDaoSIv3UViwpWHmuSUkM) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Khair AlAhilla \(Ramadan\)](https://open.spotify.com/album/10eFFOwl2qU2AhiTaGNQdT) | 1:27 | 2023-03-30 |  |
 | [Khudi Ka Sirr\-E\-Niha](https://open.spotify.com/track/2q9M99cF21590ziA2sbsSq) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Adab E Khud Aa Gahi \(Allama Iqbal Special\)](https://open.spotify.com/album/6pYqkQjBtcoI9zwcg1OBaA) | 9:12 | 2022-04-18 | 2022-10-07 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-03-06 | 2023-03-14 |
 | [Kimdi?](https://open.spotify.com/track/1Kxnp6VqY4xNIO561MQJ8b) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Yine Sensiz](https://open.spotify.com/album/2N5Cp0xZ2gm0QqMWRCALQB) | 4:23 | 2021-10-21 |  |
@@ -102,6 +103,7 @@
 | [Maula Maula](https://open.spotify.com/track/41bOleZs1DSWfxBLtCpSdl) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24) | [Noor\-E\-Azal](https://open.spotify.com/album/4cN5MKoETae7GLcbzJxuFY) | 8:28 | 2022-04-18 | 2022-10-07 |
 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 | 2022-04-18 | 2022-10-07 |
 | [Men Ben Elarad](https://open.spotify.com/track/3s0GCg5vy7blO5z3M95B9X) | [Ashraf Abu Lel](https://open.spotify.com/artist/7dtjgeonwZycxs0B3xBRNA) | [Dabka from Palestine](https://open.spotify.com/album/1ejYFDdN2DE2Bo23ymwyIM) | 4:30 | 2021-10-21 |  |
+| [Mohamed](https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj) | [Lotfi Bouchnak](https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z) | [Mohamed](https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB) | 6:58 | 2023-03-30 |  |
 | [monday](https://open.spotify.com/track/4E8cPJyTAJGx8uqX84E8sN) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN) | [ilham](https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w) | 3:16 | 2023-03-06 | 2023-03-14 |
 | [Mouhamadou Bamba](https://open.spotify.com/track/5QdcVm85PHGVXtA14LoG59) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9), [Baobab\-Gouye\-Gui de Dakar](https://open.spotify.com/artist/396biTOuSgatR6cQxDFL2T) | [Mouhamadou Bamba](https://open.spotify.com/album/4h4yBxb4nKA2t7WH5GfXFe) | 6:35 | 2021-10-21 |  |
 | [Mountains of Makkah](https://open.spotify.com/track/6k3RBYi9uGjrLRPXAO65jL) | [Zain Bhikha](https://open.spotify.com/artist/2S9mgYENcr2X6A4rRU83cb) | [Mountains of Makkah](https://open.spotify.com/album/7vzpLINcumTjcL705tyObJ) | 4:54 | 2022-03-31 | 2022-04-18 |

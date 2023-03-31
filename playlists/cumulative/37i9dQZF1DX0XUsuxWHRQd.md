@@ -4,7 +4,7 @@
 
 > New music from Roddy Ricch, Kodak Black, NLE Choppa and BIA.
 
-1,556 songs - 3 day 8 hr 20 min
+1,557 songs - 3 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1549,6 +1549,7 @@
 | [YELL OH](https://open.spotify.com/track/003VDDA7J3Xb2ZFlNx7nIZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [YELL OH](https://open.spotify.com/album/2orYogfKeURqyS1hRP1vZ4) | 3:56 | 2020-02-07 | 2020-02-28 |
 | [YES](https://open.spotify.com/track/49npsHkkRrF42IxwU10Egt) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Dre](https://open.spotify.com/artist/2YKqI0pz6dY15GpzxT66HD) | [YES](https://open.spotify.com/album/0E74lJz7EpijEP2YDHGDYh) | 3:26 | 2019-10-18 | 2019-10-25 |
 | [Yikes](https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Yikes](https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O) | 2:36 | 2020-02-07 | 2020-05-22 |
+| [Yonkers](https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:09 | 2023-03-30 |  |
 | [You Know](https://open.spotify.com/track/1ioaV68BICIiSHpcqSUVHR) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [You Know](https://open.spotify.com/album/2m365CPlTymuHRiQPqbTE6) | 1:51 | 2021-04-24 | 2021-05-08 |
 | [Young Grizzley World \(feat\. A Boogie Wit Da Hoodie & YNW Melly\)](https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Scriptures](https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3) | 5:32 | 2019-06-14 | 2019-08-13 |
 | [Young N Dumb](https://open.spotify.com/track/4dZTNKRngStyYNueXCO2FR) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:52 | 2021-12-03 | 2022-03-05 |

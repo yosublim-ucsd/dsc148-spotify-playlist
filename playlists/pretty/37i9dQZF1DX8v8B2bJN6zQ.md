@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,079 likes - 65 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,122 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 23 | [My Mind](https://open.spotify.com/track/5alpNfo0QWoAzUWhmw9H70) | [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [My Mind](https://open.spotify.com/album/7k1cXQ9sTLHhgyw4Wi4NvG) | 3:31 |
 | 24 | [Freak](https://open.spotify.com/track/6wZD3wwSe15cxUty6l5HPP) | [Undercue](https://open.spotify.com/artist/6BOGvgcLBptl2fGVXl93zk), [Hotweiller'S](https://open.spotify.com/artist/05PtQi4kXRQFPh1DOJkzce) | [Freak](https://open.spotify.com/album/1wSFyZNPmxrP7MF3ObmMAE) | 3:07 |
 | 25 | [It Gets Better](https://open.spotify.com/track/5PLfjUnpV6eFXymcsXwa37) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:04 |
-| 26 | [Body Rock](https://open.spotify.com/track/42yPoKRxgi2A3lS8Qjtu0Y) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6BeQaQlMjyhmxWIs4BVd08) | 2:56 |
+| 26 | [Body Rock](https://open.spotify.com/track/3SNBVd4MNVfabxURx1Ac32) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6Svg3u9Bd7XnoXFMKkXIoT) | 2:56 |
 | 27 | [I'm A Mess](https://open.spotify.com/track/0Rzz75C3MDHszEW2co7BCC) | [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW), [EXPLICIT!](https://open.spotify.com/artist/5A13OuT27Bf5NZtXmzYtSL) | [I'm A Mess](https://open.spotify.com/album/7l77bhDnMweoM8hb0OZNPZ) | 3:01 |
 | 28 | [bad vibes "/](https://open.spotify.com/track/4o4m3uL98OFGAVCY4WhsYa) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [bad vibes "/](https://open.spotify.com/album/3CJqCFKrjBo4CkKtiIgBl5) | 3:00 |
 | 29 | [Guud Gurls](https://open.spotify.com/track/7dQdjn4JNuQKQBH167lbpL) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [Guud Gurls](https://open.spotify.com/album/3N4VL4BAZZqz9S7sr3AoBu) | 3:10 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGMyYTZjY2MyM2NmZDE4ODZkNmEzMzY3ZjFjNDE0ZDE4`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGViM2ZmODY4ZWZhNTE3OWU4MWU5YzAxMjMzMmI2Zjdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Con licuachela en mano y perreando hasta el piso\. El Alfa en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,061 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,074 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 39 | [La Gata de la Agrícola Oriental \(feat\. Kery\)](https://open.spotify.com/track/6ldT8rxnVimIKIJJLAcKq7) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Kery](https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m) | [La Gata de la Agrícola Oriental \(feat\. Kery\)](https://open.spotify.com/album/717P5W2rhbmKgikLXjWsKG) | 3:11 |
 | 40 | [Le Encanta](https://open.spotify.com/track/58WWCAi0pGb9Kw49BnGTXI) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Le Encanta](https://open.spotify.com/album/1TV7WOBMrutnBWvDfkZA8G) | 4:13 |
 | 41 | [El Goloso](https://open.spotify.com/track/68QtlyBrzD98s4phcL1fx2) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [Flow Pesao](https://open.spotify.com/album/6DL7KLWzBh9VSX0Zaf4LM3) | 2:57 |
-| 42 | [MODO CHAKALON](https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F) | [Flacco Lapresion](https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm), [Charly whest](https://open.spotify.com/artist/5EZZZ6q2iwiuxkTE0DK3os), [Riko mix](https://open.spotify.com/artist/7xI6d9mjFghcnsmZc3Gfv5) | [MODO CHAKALON](https://open.spotify.com/album/4nsCbDdqTlSIIuHxE4KctY) | 2:39 |
-| 43 | [De Tin Marin](https://open.spotify.com/track/5S4pezCIx9zIz1xRVcdOOP) | [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya) | [De Tin Marin](https://open.spotify.com/album/236aS4CdWzVT1aP9247gf4) | 2:33 |
-| 44 | [Rompe La Discoteca](https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Rompe La Discoteca](https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi) | 3:36 |
-| 45 | [Prende y Fuma](https://open.spotify.com/track/2l1gClWNT7axdvdHiHCBy1) | [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Prende y Fuma](https://open.spotify.com/album/5LpJAVFzv017KcuUppdoj8) | 2:53 |
+| 42 | [De Tin Marin](https://open.spotify.com/track/5S4pezCIx9zIz1xRVcdOOP) | [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya) | [De Tin Marin](https://open.spotify.com/album/236aS4CdWzVT1aP9247gf4) | 2:33 |
+| 43 | [MODO CHAKALON](https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F) | [Flacco Lapresion](https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm), [Charly whest](https://open.spotify.com/artist/5EZZZ6q2iwiuxkTE0DK3os), [Riko mix](https://open.spotify.com/artist/7xI6d9mjFghcnsmZc3Gfv5) | [MODO CHAKALON](https://open.spotify.com/album/4nsCbDdqTlSIIuHxE4KctY) | 2:39 |
+| 44 | [Prende y Fuma](https://open.spotify.com/track/2l1gClWNT7axdvdHiHCBy1) | [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Prende y Fuma](https://open.spotify.com/album/5LpJAVFzv017KcuUppdoj8) | 2:53 |
+| 45 | [Rompe La Discoteca](https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Rompe La Discoteca](https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi) | 3:36 |
 | 46 | [Cumbiatronik](https://open.spotify.com/track/18Ms0QJv4moFhSUJG22Qpk) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Cumbiatronik](https://open.spotify.com/album/7j0Z8sEAuR8891I0m7iFEx) | 3:10 |
 | 47 | [Sueltate el Dembow](https://open.spotify.com/track/6lW3Zxh9wBch3cNrTMicSq) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Sueltate el Dembow](https://open.spotify.com/album/19REskE6qmcBnveMqcIQx7) | 3:03 |
 | 48 | [PÉGATE](https://open.spotify.com/track/6OwKm3AXpkr6nO8Rid5e75) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [PÉGATE](https://open.spotify.com/album/4JP9WAcqSyTOaA0DVpMh03) | 2:49 |
 | 49 | [Goldi Buena](https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Goldi Buena](https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq) | 3:14 |
 | 50 | [A Mover Ese Booty \(feat\. n\-Yel\)](https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Nyel](https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5) | [A Mover Ese Booty \(feat\. n\-Yel\)](https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A) | 2:37 |
 
-Snapshot ID: `MTY3OTYzNzYwMCwwMDAwMDAwMDIyY2QzNmY4ZmEwNjAxZjMzMjQ2NDYwNTZkMGU2N2Rl`
+Snapshot ID: `MTY3OTYzNzYwMCwwMDAwMDAwMGM3N2Q4MTM0ODdlYzc1MDc1NmQ0ZGFlYmI1MjE2OTkx`

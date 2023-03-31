@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Lesti",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -407,6 +407,42 @@
     },
     {
       "album": {
+        "name": "Engkaulah Satu Satunya",
+        "url": "https://open.spotify.com/album/0giR3EIZHM5fkbLHLKTcXg"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349830,
+      "name": "Engkaulah Satu Satunya",
+      "url": "https://open.spotify.com/track/3X97NvosSuHgjrAfEfSsuh"
+    },
+    {
+      "album": {
+        "name": "Fitria",
+        "url": "https://open.spotify.com/album/7dfP256Xm5TJCGaYn9ykKQ"
+      },
+      "artists": [
+        {
+          "name": "Yus Yunus",
+          "url": "https://open.spotify.com/artist/5m0zFgjEwcPZhaWWcqgzzi"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344150,
+      "name": "Fitria",
+      "url": "https://open.spotify.com/track/5nAet8ZdFgzvwPqlxBssUd"
+    },
+    {
+      "album": {
         "name": "Garam Rasanya Gula",
         "url": "https://open.spotify.com/album/1ZfC7jspXMGt9eWOKW8G37"
       },
@@ -634,7 +670,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 305551,
       "name": "Konco Rindu",
       "url": "https://open.spotify.com/track/5KXY2olwTQxjhbX6plooNV"
@@ -1240,6 +1276,24 @@
       "duration_ms": 323672,
       "name": "Sugeng Dalu",
       "url": "https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ"
+    },
+    {
+      "album": {
+        "name": "Surgaku",
+        "url": "https://open.spotify.com/album/4ItlHPYdgaJuYN5MD1tlm0"
+      },
+      "artists": [
+        {
+          "name": "Aulia",
+          "url": "https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333818,
+      "name": "Surgaku",
+      "url": "https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO"
     },
     {
       "album": {

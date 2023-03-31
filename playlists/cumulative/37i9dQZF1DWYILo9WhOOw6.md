@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-89 songs - 4 hr 37 min
+90 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Binaural Beats Study Music](https://open.spotify.com/artist/0rV884TJaWtmnJf392FG6e) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 | 2023-01-20 |  |
 | [Delta Pattern 101.0 Hz \- 103.0 Hz](https://open.spotify.com/track/6ZG23W2shJNTChsot9DZlc) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pure Sinus](https://open.spotify.com/album/6wj0JA3zY8afKCosI3PACG) | 3:04 | 2023-01-20 |  |
 | [Delta Pattern 85.0 Hz \- 89.0 Hz & Pad](https://open.spotify.com/track/0d1ishUCiPFsdMNar5yJd5) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pads](https://open.spotify.com/album/0nVPKKBgeDtQglrE23sqFV) | 3:43 | 2023-01-20 |  |
+| [Delta Revive 92 Hz](https://open.spotify.com/track/1AuhhyzXXeYDwDAD7IIObH) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Revive 92 Hz](https://open.spotify.com/album/39AXFW1UN2uw6EUKXmXdAd) | 2:48 | 2023-03-31 |  |
 | [Delta seventeen](https://open.spotify.com/track/1dEwBndA1qUaH8C7M3Rb4y) | [Mantramind](https://open.spotify.com/artist/7iLU5lFV76z645FwaUmEGy) | [Delta Dreams 3Hz](https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH) | 2:34 | 2023-03-10 |  |
 | [Delta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/2W4P2eSwyw8KLGBrAgXnac) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [Noise Shapers](https://open.spotify.com/album/5b9KgzqeksMOBW1u0RTnaQ) | 3:16 | 2023-01-20 |  |
 | [Delta Sinus 100Hz \- 103Hz](https://open.spotify.com/track/3n3MUApWQYx9sb2IfBBgI5) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Natural Healing](https://open.spotify.com/album/6lzDsptMU5Wk7mfPLxKji0) | 2:09 | 2023-01-20 |  |

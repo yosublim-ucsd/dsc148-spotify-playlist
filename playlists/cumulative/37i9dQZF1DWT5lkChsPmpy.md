@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-421 songs - 18 hr 53 min
+424 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A beautiful day](https://open.spotify.com/track/5Ds5ComUHGwbYVolYDGxlR) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [A beautiful day](https://open.spotify.com/album/2YFg6gt0UE5yo3E3z6cs0P) | 3:03 | 2022-09-16 |  |
 | [A Better Tomorrow](https://open.spotify.com/track/6Oh1N2s9t02iwmOvCL9sj6) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/5V6RPQfkM51G2tO7V3VHuT) | 2:08 | 2022-06-24 |  |
 | [a dream within a dream](https://open.spotify.com/track/1rKHH7gbLbz8scfvt6JMAP) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [a dream within a dream](https://open.spotify.com/album/3V9fsUWgxv4byvZJocF9kH) | 2:33 | 2022-01-21 |  |
+| [A Forgotten Realm](https://open.spotify.com/track/19jXK8ehvuhMZ7oTsWuZFZ) | [Fractured Moons](https://open.spotify.com/artist/0jOT2t9HcoueZ4JEDoY2IC) | [The Ripverse](https://open.spotify.com/album/4ym0hEJbyudABFyDGVcxWh) | 3:12 | 2023-03-31 |  |
 | [A Night In Magnesia](https://open.spotify.com/track/4Id1x78y1nICZcB6Ca9IvE) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [A Night In Magnesia](https://open.spotify.com/album/2iCikcgsEW5tpdPuIUvvZ2) | 2:29 | 2022-10-28 |  |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2021-11-10 | 2022-01-22 |
 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-11-10 | 2022-06-10 |
@@ -76,6 +77,7 @@
 | [Close to midnight](https://open.spotify.com/track/5ZBYK7vXdvFd5X6w0nluhm) | [Here we go!](https://open.spotify.com/artist/58X3mn1Nur7Oo4XHdCYHnl) | [Close to midnight](https://open.spotify.com/album/70ck39951swMtuiMKl0bU8) | 2:53 | 2022-11-25 |  |
 | [cloud bumps](https://open.spotify.com/track/1s5yO4enHGKAaAuPueXlnn) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [fly high](https://open.spotify.com/album/4x0gUzqPNnLH64bLBMrxlL) | 1:23 | 2021-11-10 | 2022-07-08 |
 | [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 2:26 | 2022-01-21 |  |
+| [coffee and blankets](https://open.spotify.com/track/0qgvgNiQu76lnDRKqREj5h) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [coffee and blankets](https://open.spotify.com/album/5nPvRD5FAnZIkgHdidViWi) | 2:34 | 2023-03-31 |  |
 | [Coloring Book](https://open.spotify.com/track/0V820qf0s6EES7VDxR3vi7) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Coloring Book](https://open.spotify.com/album/5iWXKx09E9WAsRiGUBULCL) | 2:51 | 2022-12-16 |  |
 | [Como Un Oceano](https://open.spotify.com/track/6xuakrOBMFZcPf3z6jnox0) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Todo Es Lo Que Parece](https://open.spotify.com/album/4MlUv21lIHvgXzpg5vPNNz) | 4:05 | 2021-11-10 | 2022-05-20 |
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-10 | 2023-02-10 |
@@ -200,7 +202,7 @@
 | [Kinkaku\-ji](https://open.spotify.com/track/7lNECdcPTy9GLiEGyXIqfO) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kinkaku\-ji](https://open.spotify.com/album/5qwFBgvbIh12LJDO6hOhck) | 3:13 | 2021-11-10 |  |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2021-11-10 |  |
 | [La Espera](https://open.spotify.com/track/7gcrgp7kVXdkODv834Wnwp) | [Ralf Holiday](https://open.spotify.com/artist/2qRViSWmqF4ZGcxP2A2iWB) | [La Espera](https://open.spotify.com/album/6O6mNzfpUyK5b1cUklSAMv) | 2:24 | 2021-11-10 | 2022-07-08 |
-| [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-10 |  |
+| [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-10 | 2023-03-31 |
 | [Ladder to the Stars](https://open.spotify.com/track/1SAux0dXdZBJphTIr6zg6p) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ladder to the Stars](https://open.spotify.com/album/25UuqndPirVvQoJxONlsMw) | 2:53 | 2022-09-09 |  |
 | [lament orange](https://open.spotify.com/track/1NsENCo25TvQKmBk9khtNA) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [lament orange](https://open.spotify.com/album/5XgmzbVgztvwlUb3n0XwiY) | 2:56 | 2022-07-15 | 2023-02-18 |
 | [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 |  |
@@ -393,6 +395,7 @@
 | [Tombstone Diploma](https://open.spotify.com/track/5jL5LiIeD5eJ3kTvrx2D6K) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Solvable](https://open.spotify.com/album/3ygEnJjQY0S9mDyYy2sVcB) | 3:48 | 2021-11-10 | 2022-09-09 |
 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 | 2021-11-10 |  |
 | [Totoro Talk \(To Me\)](https://open.spotify.com/track/1EWoiQJwIOtjm0fQD9CYFo) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Totoro Talk \(To Me\)](https://open.spotify.com/album/2cO6OOPJZelphlVbttuW73) | 4:10 | 2021-11-10 |  |
+| [tranqui:lo](https://open.spotify.com/track/3Ttl1GUMPsOHKrM9sGTbMB) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [tranqui:lo](https://open.spotify.com/album/2q9UZqdJnGHRKMECJrD6tQ) | 2:36 | 2023-03-31 |  |
 | [Transparency](https://open.spotify.com/track/4FITePahtXRtlC4VXbl7b2) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [Transparency](https://open.spotify.com/album/624fKqZVSU5Ontdjnyfpa0) | 2:22 | 2022-10-07 |  |
 | [Tryin' \- Chill House](https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC) | [Mosebe](https://open.spotify.com/artist/6lj1J9zFm8AJ2Vu4cZOF8g) | [Tryin' \- Chill House](https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff) | 3:22 | 2021-11-10 | 2023-02-25 |
 | [Turn Around](https://open.spotify.com/track/5Ve1NjjsG20hqnxfPzzyP0) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Turn Around](https://open.spotify.com/album/3uJwBAA2N0m67HsWPMQVIS) | 2:36 | 2022-05-10 |  |

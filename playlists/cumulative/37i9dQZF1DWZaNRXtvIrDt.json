@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Jitwam",
+  "description": "a new world of alternative electronic music. Cover: Jayda G",
   "name": "Portal",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 374775,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/6WhTKGrJaMbTbEtQvU5yKR"
@@ -592,6 +592,24 @@
       "duration_ms": 259074,
       "name": "Bloom (ft. Ell Murphy)",
       "url": "https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7"
+    },
+    {
+      "album": {
+        "name": "Blue Lights",
+        "url": "https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221323,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx"
     },
     {
       "album": {
@@ -802,7 +820,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 195408,
       "name": "Circle Back Around",
       "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
@@ -1084,6 +1102,24 @@
       "duration_ms": 111642,
       "name": "dream about u",
       "url": "https://open.spotify.com/track/6gJX9BvTXsh76nrXogo1D7"
+    },
+    {
+      "album": {
+        "name": "Transit",
+        "url": "https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL"
+      },
+      "artists": [
+        {
+          "name": "Jad & The",
+          "url": "https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359534,
+      "name": "Dreaming Of High Fidelity",
+      "url": "https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j"
     },
     {
       "album": {
@@ -1507,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "album": {
         "name": "Body 22",
         "url": "https://open.spotify.com/album/1AHlFWZl76aQlJ8ZmZPt9r"
       },
@@ -1540,6 +1594,24 @@
       "duration_ms": 254055,
       "name": "H.B.Y.",
       "url": "https://open.spotify.com/track/6B12vGcosQHeGcuXSNDjH6"
+    },
+    {
+      "album": {
+        "name": "Hands (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241406,
+      "name": "Hands - Edit",
+      "url": "https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK"
     },
     {
       "album": {
@@ -1714,7 +1786,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 347151,
       "name": "House Check - Closet Yi Dub Me Up Remix",
       "url": "https://open.spotify.com/track/4OjAjAgNHsibaCov2OsoUp"
@@ -2014,7 +2086,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 285652,
       "name": "Lempicka",
       "url": "https://open.spotify.com/track/2hOaAJo2MMr629lhggZdwX"
@@ -2394,7 +2466,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 236336,
       "name": "MYSM",
       "url": "https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba"
@@ -2502,7 +2574,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 220393,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6"
@@ -2528,6 +2600,24 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "album": {
+        "name": "All Thru The Night (Locked On Vol 4)",
+        "url": "https://open.spotify.com/album/2jqtWThfb36fQEIi7LQLGE"
+      },
+      "artists": [
+        {
+          "name": "Holloway",
+          "url": "https://open.spotify.com/artist/2OBZ4TbehlTMKtLmpBpKnq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284845,
+      "name": "On 'Em",
+      "url": "https://open.spotify.com/track/4ZlPeZQTSrApiDLgn8XUqg"
     },
     {
       "album": {
@@ -2756,6 +2846,32 @@
       "duration_ms": 294432,
       "name": "Rave I Didn't Know Was The Last",
       "url": "https://open.spotify.com/track/1ONlGaH3zEgoU9UU7GGTs1"
+    },
+    {
+      "album": {
+        "name": "All Thru The Night (Locked On Vol 4)",
+        "url": "https://open.spotify.com/album/2jqtWThfb36fQEIi7LQLGE"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Lily Mckenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234225,
+      "name": "Reckless (feat. Lily McKenzie)",
+      "url": "https://open.spotify.com/track/5D2tGiawYXh5n2so3clY2L"
     },
     {
       "album": {
@@ -3288,6 +3404,24 @@
       "duration_ms": 310730,
       "name": "Summer Ghost",
       "url": "https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq"
+    },
+    {
+      "album": {
+        "name": "Disseminate",
+        "url": "https://open.spotify.com/album/48cCqyJHKP14pas5oURimj"
+      },
+      "artists": [
+        {
+          "name": "RBI",
+          "url": "https://open.spotify.com/artist/5LodMv4gszyY4V2cy2MKXW"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281600,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/3WSzw2GicwAr4ZXcTUixTz"
     },
     {
       "album": {
@@ -4016,6 +4150,24 @@
       "duration_ms": 342463,
       "name": "Zwarte Pad",
       "url": "https://open.spotify.com/track/03YyIDJad7Pdk0IGczwzwJ"
+    },
+    {
+      "album": {
+        "name": "lil spirits",
+        "url": "https://open.spotify.com/album/4rT7zzBMEzrHJ0i7X81Rdv"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198127,
+      "name": "\u2728 mum is calling \u2728",
+      "url": "https://open.spotify.com/track/27fusRmYpex94O3REevU1F"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt"

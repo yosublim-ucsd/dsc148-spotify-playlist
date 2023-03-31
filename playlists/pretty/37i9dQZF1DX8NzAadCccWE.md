@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,712 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,720 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 22 | [Sound](https://open.spotify.com/track/5XJQxA7XUi58z58d5Z3IkJ) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [/Y\\](https://open.spotify.com/album/4vrJWnbIjBvj9j4NvsUjD6) | 1:19 |
 | 23 | [What You Need](https://open.spotify.com/track/1oGd6koqefNYVJ0Rn6EKOW) | [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [TEKLIFE Vol.2: What You Need](https://open.spotify.com/album/3gp6LlL3363zr3Jz9rjH0G) | 5:41 |
 | 24 | [Fuk Tha 101](https://open.spotify.com/track/7KjLN7kECeksDC5aEb32et) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Hessle Audio: 116 and Rising](https://open.spotify.com/album/23avwUUQ0UQgd8Z1kV3QRz) | 4:51 |
-| 25 | [Smoke Dat Green](https://open.spotify.com/track/3pAz8EcQKRntknEiqkwoTC) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Open Your Eyes](https://open.spotify.com/album/3cOD3Clx0XK8YFIgnseO8o) | 3:18 |
+| 25 | [Smoke Dat Green](https://open.spotify.com/track/3pAz8EcQKRntknEiqkwoTC) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Open Your Eyes](https://open.spotify.com/album/3cOD3Clx0XK8YFIgnseO8o) | 3:18 |
 | 26 | [Loving Touch](https://open.spotify.com/track/1wGaXU3Do7dO0pA5Gh29E5) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Loving Touch EP](https://open.spotify.com/album/1DFL7pPwy2fd46Fys5nQcv) | 4:59 |
 | 27 | [XTC](https://open.spotify.com/track/1mLGSIwJtrbopwSMIREGO2) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V) | [Get It Shorty](https://open.spotify.com/album/6aLg95mMOFkIABBUWI281m) | 6:03 |
 | 28 | [Get To Know](https://open.spotify.com/track/3UONqb20f0UaabEqrf7wje) | [D'TCH](https://open.spotify.com/artist/0HWk4EZLkA64u1EGopyrVM) | [FML](https://open.spotify.com/album/2GR5CB3RnXArAu7FwmTkdi) | 4:30 |

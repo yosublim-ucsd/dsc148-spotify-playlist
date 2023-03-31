@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/3sfLvbXtGlQl9wVafzi55i"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153860,
+      "name": "ANCESTRAL",
+      "url": "https://open.spotify.com/track/5FCnN5oCrccvoaShwfanmU"
+    },
+    {
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
@@ -912,7 +930,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 200281,
       "name": "Cual Hay",
       "url": "https://open.spotify.com/track/3rXGHdUlh8bvDMvkuI3qdB"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 171023,
       "name": "POETA",
       "url": "https://open.spotify.com/track/6T1ZiqhOYwePlT1YGPOm6j"

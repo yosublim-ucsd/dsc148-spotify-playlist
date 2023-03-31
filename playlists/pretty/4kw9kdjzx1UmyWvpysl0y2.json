@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127090,
+  "num_followers": 127085,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDA5MSw1Mjg5YzkxOGE0NDEwZDI1NDliZDYyZDlhMDIzNTU2MDVmMDA3MjZi",
+  "snapshot_id": "NDA5NCw3M2MzMjU5ZWM1YTRlZDkwZDFhYmEwZDU4ZGQ1NDQzOWE0N2FkN2U0",
   "tracks": [
+    {
+      "added_at": "2023-03-30 16:04:06",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
+    },
     {
       "added_at": "2023-03-29 20:01:11",
       "album": {
@@ -1095,26 +1111,6 @@
       "duration_ms": 147096,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/3oKUgGEaQ5bFsYWu6Wc9Dp"
-    },
-    {
-      "added_at": "2023-01-17 01:54:46",
-      "album": {
-        "name": "Take Me Into Space",
-        "url": "https://open.spotify.com/album/3gep8PSYHoNtjx05xWCN6N"
-      },
-      "artists": [
-        {
-          "name": "Dada Life",
-          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
-        },
-        {
-          "name": "DEXTER KING",
-          "url": "https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Take Me Into Space",
-      "url": "https://open.spotify.com/track/7fyOoDZjardzxtHszeAtz3"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

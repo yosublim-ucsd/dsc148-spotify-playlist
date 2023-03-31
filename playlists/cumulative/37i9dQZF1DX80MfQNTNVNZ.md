@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-358 songs - 21 hr 28 min
+359 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Go](https://open.spotify.com/track/7KsJL2oqJWXJ8pbnVc5yND) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Go](https://open.spotify.com/album/63ivUbYvqKIaYh8OQJ7EaN) | 3:50 | 2023-03-02 | 2023-03-18 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-23 |  |
 | [Gone Baby, Don't Be Long](https://open.spotify.com/track/3mw4zCiy6cRqFieD7L4IDp) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [Gone Baby, Don't Be Long](https://open.spotify.com/album/0amr9WM6hmjOA09JwSV2si) | 7:53 | 2023-01-06 | 2023-01-13 |
-| [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-02-02 |  |
+| [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-02-02 | 2023-03-31 |
 | [Grab Your Guts](https://open.spotify.com/track/4CmhofthdXpRM1M2R9C2ce) | [Maylee Todd](https://open.spotify.com/artist/1fJYXB9ZFQbNduuZX4jyFl) | [Maloo](https://open.spotify.com/album/3yEjOZEqS72I0ykBEQ5YcO) | 3:02 | 2022-03-24 | 2022-04-12 |
 | [Grant Green](https://open.spotify.com/track/0uLijBRekQsSPwHs1LIEXz) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [God First](https://open.spotify.com/album/0eCjIr8lbky7Q2u1Mmd5GT) | 3:22 | 2022-04-03 | 2022-04-14 |
 | [Greener](https://open.spotify.com/track/3aD8EF1sWXIZgbcxsOqg3T) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Greener](https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK) | 3:54 | 2022-04-07 | 2022-07-29 |
@@ -174,6 +174,7 @@
 | [Lucky](https://open.spotify.com/track/1Lc6A4WmjLh6HbBiuoLQk1) | [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [Lucky / Someone Like You](https://open.spotify.com/album/5h9LKoeKeOwQshK3cqhlXr) | 4:15 | 2022-03-24 | 2022-04-16 |
 | [Luvaroq](https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Luvaroq](https://open.spotify.com/album/1pXnRcKwgFFQDSyUNWng6b) | 3:40 | 2021-12-23 | 2022-07-29 |
 | [Magic](https://open.spotify.com/track/487daYdwjgsdWz8fY6axV2) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ANGLE](https://open.spotify.com/album/0uIkLtmXLsNluUtpKszbr6) | 4:01 | 2022-03-10 | 2022-06-19 |
+| [Magical](https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [IT'S not YOU, it's me](https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf) | 2:46 | 2023-03-30 |  |
 | [Magnificent](https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Magnificent](https://open.spotify.com/album/2ByZUAzcozWClH2N1gIAqz) | 4:28 | 2022-03-24 | 2022-04-21 |
 | [Majesty \(Where We Gonna Take It\)](https://open.spotify.com/track/0k97qeaGrY7JDKD4XcjIq6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Majesty \(Where We Gonna Take It\)](https://open.spotify.com/album/0kbiGtNGZhFVyCqaPjOF9q) | 4:34 | 2022-02-10 | 2022-07-09 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-02-17 |  |

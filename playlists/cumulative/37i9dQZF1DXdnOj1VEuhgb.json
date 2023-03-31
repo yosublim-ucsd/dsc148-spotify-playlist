@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive x Cairo x Narco",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ati242",
   "name": "NKVT",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 141570,
       "name": "10.000 Par\u00e7a",
       "url": "https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 118326,
       "name": "Gayrime\u015fru",
       "url": "https://open.spotify.com/track/0CqQx2dcNFmtYM4oTSECSt"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 198425,
       "name": "\u0130STEMEM",
       "url": "https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 186407,
       "name": "KONTROL",
       "url": "https://open.spotify.com/track/6aWMgtj4rlhKjMqxYzxexi"
@@ -1012,6 +1012,24 @@
       "duration_ms": 159112,
       "name": "MERVE - Masada Chivas",
       "url": "https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P"
+    },
+    {
+      "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150220,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE"
     },
     {
       "album": {
@@ -1212,6 +1230,24 @@
       "duration_ms": 145507,
       "name": "OnlyFans",
       "url": "https://open.spotify.com/track/3zyGddnNteFhuj1fKMg4sZ"
+    },
+    {
+      "album": {
+        "name": "OU LA LA",
+        "url": "https://open.spotify.com/album/442jC8YPEqRlSceqb9hQiD"
+      },
+      "artists": [
+        {
+          "name": "Ero",
+          "url": "https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "OU LA LA",
+      "url": "https://open.spotify.com/track/24FZ92GqBPpb0mGjxFGFm3"
     },
     {
       "album": {
@@ -1477,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Tarihin En \u0130yisi",
+        "url": "https://open.spotify.com/album/42N04xSRE7G3BSxJ5IRbMY"
+      },
+      "artists": [
+        {
+          "name": "Hidra",
+          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Tarihin En \u0130yisi",
+      "url": "https://open.spotify.com/track/3mgF1mUM8j1VmKVwjhnxGk"
+    },
+    {
+      "album": {
         "name": "Turkish Drill",
         "url": "https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St"
       },
@@ -1604,6 +1658,24 @@
       "duration_ms": 127072,
       "name": "XXL",
       "url": "https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK"
+    },
+    {
+      "album": {
+        "name": "Yakalarsan",
+        "url": "https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116499,
+      "name": "Yakalarsan",
+      "url": "https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx"
     },
     {
       "album": {

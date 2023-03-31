@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/5n2i7fgVD8Uplf0twma7b8"
+      },
+      "artists": [
+        {
+          "name": "Parascope Doll",
+          "url": "https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184354,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/0boDpcoqP7wFTvWgJvGstQ"
+    },
+    {
+      "album": {
         "name": "aesthetics",
         "url": "https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 174191,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/5ufwUZ3FqWHHWEnjO0wBXf"
+    },
+    {
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/03LUEUMI3thF8Hqol2MAOE"
+      },
+      "artists": [
+        {
+          "name": "Woven Hearts",
+          "url": "https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165458,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/4ojVtI82vjDG9gBEE29YBb"
     },
     {
       "album": {
@@ -1198,7 +1234,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 161289,
       "name": "Monotation",
       "url": "https://open.spotify.com/track/2iXt75EraZMReN0YcioAoM"
@@ -2116,7 +2152,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 330158,
       "name": "The Source",
       "url": "https://open.spotify.com/track/6MmCpo0GytipNTU0mNwh4X"

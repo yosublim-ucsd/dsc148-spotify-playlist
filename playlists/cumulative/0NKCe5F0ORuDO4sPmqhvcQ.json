@@ -2827,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "far gone",
+        "url": "https://open.spotify.com/album/4Es18yYMmB0hcsCHpN6TqL"
+      },
+      "artists": [
+        {
+          "name": "44 Ardent",
+          "url": "https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152586,
+      "name": "far gone",
+      "url": "https://open.spotify.com/track/0vb4In2ytG8ZHsoY59ROA7"
+    },
+    {
+      "album": {
         "name": "Feel Flows (Vindata Remix)",
         "url": "https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh"
       },
@@ -7300,6 +7318,28 @@
       "duration_ms": 302439,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv"
+    },
+    {
+      "album": {
+        "name": "tacit",
+        "url": "https://open.spotify.com/album/4FbPfRAnOxJJmHm1FhPkPn"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        },
+        {
+          "name": "Una Mey",
+          "url": "https://open.spotify.com/artist/1XYC7U3Oqy30UdbliCXWNo"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188876,
+      "name": "tacit",
+      "url": "https://open.spotify.com/track/2y9kGMUvKsikIQIvfjpNv1"
     },
     {
       "album": {

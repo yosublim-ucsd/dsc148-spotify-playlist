@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "MEMORIA",
+        "url": "https://open.spotify.com/album/0KHVqQMyO8Y3WImzGiucWj"
+      },
+      "artists": [
+        {
+          "name": "Vettosi",
+          "url": "https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177852,
+      "name": "MEMORIA",
+      "url": "https://open.spotify.com/track/5aQbOtxyucj4doA2vX1i2C"
+    },
+    {
+      "album": {
         "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) [Remix]",
         "url": "https://open.spotify.com/album/2aKR0fJ0eCxMGstVCRnpNh"
       },
@@ -2767,6 +2785,32 @@
     },
     {
       "album": {
+        "name": "SGUARDI PERSI",
+        "url": "https://open.spotify.com/album/35yHTPThuoMhZT48qyZ7C0"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        },
+        {
+          "name": "LilTony",
+          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
+        },
+        {
+          "name": "808s",
+          "url": "https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158800,
+      "name": "SGUARDI PERSI",
+      "url": "https://open.spotify.com/track/1GjdvlHLp5d1ycZPocsAbS"
+    },
+    {
+      "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd"
       },
@@ -3228,6 +3272,28 @@
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
+    },
+    {
+      "album": {
+        "name": "TT NGRIPPAT",
+        "url": "https://open.spotify.com/album/6pMFcJZQVbDncGcLi6a2z6"
+      },
+      "artists": [
+        {
+          "name": "Mooncler",
+          "url": "https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7"
+        },
+        {
+          "name": "Rafil\u00f9",
+          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "TT NGRIPPAT",
+      "url": "https://open.spotify.com/track/3o1X6zIjTaw1qlMHtGBhWW"
     },
     {
       "album": {

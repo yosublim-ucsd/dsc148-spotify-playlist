@@ -9381,6 +9381,24 @@
     },
     {
       "album": {
+        "name": "\u30b8\u30a7\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/70k86jNG31erloN0WBdONZ"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30c3\u30b7\u30e5\u3068\u30a2\u30cd\u30e2\u30cd",
+          "url": "https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217211,
+      "name": "\u30b8\u30a7\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/0Ffym4WmOlW1qKuSmabKpm"
+    },
+    {
+      "album": {
         "name": "\u30b8\u30e3\u30b1\u30c3\u30c8",
         "url": "https://open.spotify.com/album/1DQNzLfmkDI7UOcZ45GV01"
       },
@@ -13199,6 +13217,24 @@
     },
     {
       "album": {
+        "name": "\u6625",
+        "url": "https://open.spotify.com/album/3mjWj8hExllnbdvnz498qe"
+      },
+      "artists": [
+        {
+          "name": "(yoru to)SAMPO",
+          "url": "https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "\u6625",
+      "url": "https://open.spotify.com/track/1iTpNmlgZudYmuMXzecDhT"
+    },
+    {
+      "album": {
         "name": "\u6625/POOL",
         "url": "https://open.spotify.com/album/45e8d35oEPGtFu58TwDSTx"
       },
@@ -13606,7 +13642,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 191786,
       "name": "\u6cb9",
       "url": "https://open.spotify.com/track/1ldQWi4dvIiV8ostfEo8vS"
@@ -15362,7 +15398,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 186840,
       "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
       "url": "https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e"

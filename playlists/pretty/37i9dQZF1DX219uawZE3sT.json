@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 111578,
+  "num_followers": 111636,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDQwZTQ1NTRiNGRkZDVjN2JiMjllMDMyMjY0ZDgyMTZl",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDExMzZlMzRkNDdjMTlkNzdkNWI0NDRlOTFlZWFlY2U3",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "El Amor Manda",
-        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Porque El Amor Manda",
-      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 229194,
       "name": "Por Amarte (Destilando Amor)",
       "url": "https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "El Amor Manda",
+        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Porque El Amor Manda",
+      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Coraz\u00f3n Que Miente",
-        "url": "https://open.spotify.com/album/1mWGwFqEGAfvm6qh8PAOgr"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 200657,
-      "name": "Coraz\u00f3n Que Miente",
-      "url": "https://open.spotify.com/track/4f7bWZTU5RDLAnD3DkLScO"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "1985-1998",
         "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 205800,
       "name": "La Usurpadora",
       "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Coraz\u00f3n Que Miente",
+        "url": "https://open.spotify.com/album/1mWGwFqEGAfvm6qh8PAOgr"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 200657,
+      "name": "Coraz\u00f3n Que Miente",
+      "url": "https://open.spotify.com/track/4f7bWZTU5RDLAnD3DkLScO"
     },
     {
       "added_at": "2022-05-06 18:32:26",

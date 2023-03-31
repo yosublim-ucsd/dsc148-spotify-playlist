@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 61579,
+  "num_followers": 61617,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDBhMDUwZGRlMzc0ODY3YThhMzg3YTkzNzFjMzljOWIx",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGJhZDE5OGM1Nzg4ODVkZmUwNTc1MzUzNjBjMjJiZGZm",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -635,22 +635,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Phases II - EP",
-        "url": "https://open.spotify.com/album/6VIjrQlk9cTrufxWJX8pi1"
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
       "artists": [
         {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 192546,
-      "name": "Change (with Kehlani)",
-      "url": "https://open.spotify.com/track/2qhId6ko1ug9A0mw8BQJs8"
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -675,22 +675,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+        "name": "Phases II - EP",
+        "url": "https://open.spotify.com/album/6VIjrQlk9cTrufxWJX8pi1"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 234866,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+      "duration_ms": 192546,
+      "name": "Change (with Kehlani)",
+      "url": "https://open.spotify.com/track/2qhId6ko1ug9A0mw8BQJs8"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Seasons (with Khalid)",
-        "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 250001,
-      "name": "Seasons (with Khalid)",
-      "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Hair Down (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/4rgYc1sBdFQg2bOJvXSd2I"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 216959,
       "name": "Hair Down (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5nh0W1TTi4LxxxVYAVJCh1"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Seasons (with Khalid)",
+        "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 250001,
+      "name": "Seasons (with Khalid)",
+      "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Sympati For Djevelen",
         "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 183692,
       "name": "Sympati For Djevelen",
       "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
     },
     {
       "added_at": "2023-01-12 23:00:00",

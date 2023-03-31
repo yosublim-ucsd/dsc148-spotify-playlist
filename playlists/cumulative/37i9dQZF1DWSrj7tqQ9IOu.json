@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Alice et Moi",
+  "description": "The best French indie tracks right now. Cover: Silly Boy Blue",
   "name": "Made in France",
   "tracks": [
     {
@@ -3433,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "cheval 2_3",
+        "url": "https://open.spotify.com/album/0I3gTLmBt6QExMxp1K4MjY"
+      },
+      "artists": [
+        {
+          "name": "Rallye",
+          "url": "https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "mots cl\u00e9s",
+      "url": "https://open.spotify.com/track/0ak3Rt8IxWVWQENHIrBvfn"
+    },
+    {
+      "album": {
         "name": "High_Life",
         "url": "https://open.spotify.com/album/36E8xRYRmVz8lOmexLq7aM"
       },
@@ -3635,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "Not A Friend",
+        "url": "https://open.spotify.com/album/7o777nWZF48KYZWRUU3cX5"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "Not A Friend",
+      "url": "https://open.spotify.com/track/7dMWVi0BN7BTlVQoRJNmwO"
+    },
+    {
+      "album": {
         "name": "NOT WHAT YOU WANTED",
         "url": "https://open.spotify.com/album/6dIgyaXR88Mjfuym9ZTkdm"
       },
@@ -3790,7 +3826,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 210386,
       "name": "Opium",
       "url": "https://open.spotify.com/track/4MVFjwTBLwKVnhkcOZm5gE"
@@ -3992,7 +4028,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 158769,
       "name": "Partir Loin",
       "url": "https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX"
@@ -4818,6 +4854,28 @@
       "duration_ms": 201224,
       "name": "S\u00e9rie B",
       "url": "https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO"
+    },
+    {
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/4qz9mg45ugo0PxWSBxSdR7"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        },
+        {
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226720,
+      "name": "T'\u00e9tais pas l\u00e0",
+      "url": "https://open.spotify.com/track/46OzY465Q9H3j1OQ0l8UCO"
     },
     {
       "album": {
@@ -5712,7 +5770,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 171826,
       "name": "Z\u00e9ro",
       "url": "https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU"

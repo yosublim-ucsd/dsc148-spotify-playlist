@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53785,
+  "num_followers": 53788,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDAwODViMTA5ZDdmMDZlZDkzMTdiNDFlMzdlZmMzNGJl",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGFiY2QyMjllODA5ZmIzNzM0OTg5MmEyODEzNDAyZGVh",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "C\u00f3mo decirte, mi amor",
         "url": "https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 159649,
       "name": "Jugando a los Sims",
       "url": "https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "A Donde Quiero Estar",
-        "url": "https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "A Donde Quiero Estar",
-      "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "complikado",
         "url": "https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 178076,
       "name": "complikado",
       "url": "https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "A Donde Quiero Estar",
+        "url": "https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "A Donde Quiero Estar",
+      "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Postre",
         "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 180000,
       "name": "Postre",
       "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Cualquiera",
-        "url": "https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Cualquiera",
-      "url": "https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Marinero",
         "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 204562,
       "name": "Marinero",
       "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Cualquiera",
+        "url": "https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 211169,
+      "name": "Cualquiera",
+      "url": "https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Libro Abierto",
-        "url": "https://open.spotify.com/album/31yC0iAahwdEbZdFEPY0wg"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 259706,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/09Z84ntGDFOBesN399sJdl"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Pedazos",
         "url": "https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 164999,
       "name": "Pedazos",
       "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Libro Abierto",
+        "url": "https://open.spotify.com/album/31yC0iAahwdEbZdFEPY0wg"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/09Z84ntGDFOBesN399sJdl"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203"
+        "name": "Un Nuevo Ritmo",
+        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
       "artists": [
         {
-          "name": "Rada Mancy",
-          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
         },
         {
-          "name": "LOWLIGHT",
-          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 135238,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM"
+      "duration_ms": 213164,
+      "name": "Un Nuevo Ritmo",
+      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1359,38 +1359,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Un Nuevo Ritmo",
-        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203"
       },
       "artists": [
         {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+          "name": "Rada Mancy",
+          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
         },
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
         }
       ],
-      "duration_ms": 213164,
-      "name": "Un Nuevo Ritmo",
-      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Mira Ni\u00f1ita",
-        "url": "https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 268793,
-      "name": "Mira Ni\u00f1ita",
-      "url": "https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ"
+      "duration_ms": 135238,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1407,6 +1391,22 @@
       "duration_ms": 174000,
       "name": "Hoy Es Hoy",
       "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Mira Ni\u00f1ita",
+        "url": "https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 268793,
+      "name": "Mira Ni\u00f1ita",
+      "url": "https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1707,18 +1707,30 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI"
       },
       "artists": [
         {
-          "name": "Yael Meyer",
-          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
+          "name": "Julian Esion Kaplan",
+          "url": "https://open.spotify.com/artist/6hIgj3eWhgPTbd86rFhOZD"
+        },
+        {
+          "name": "Jo Delap\u00e9",
+          "url": "https://open.spotify.com/artist/6oVxclsRmo2TcjNB1adYP7"
+        },
+        {
+          "name": "patin mac",
+          "url": "https://open.spotify.com/artist/1bi8m1Co2Nq0PnKhcm6WM8"
+        },
+        {
+          "name": "Luqo",
+          "url": "https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN"
         }
       ],
-      "duration_ms": 194903,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
+      "duration_ms": 207419,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2J9VUqB5ctErOgUHxNopIr"
     }
   ],
   "unique_name": "mandarina",

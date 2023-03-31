@@ -32883,6 +32883,24 @@
     },
     {
       "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Yonkers",
+      "url": "https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav"
+    },
+    {
+      "album": {
         "name": "You Know",
         "url": "https://open.spotify.com/album/2m365CPlTymuHRiQPqbTE6"
       },

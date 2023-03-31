@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 244822,
+  "num_followers": 245176,
   "original_name": "90s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDU5OCwwMDAwMDAwMDM1MWZmM2Q3YzZkOGQ5YmM4ZWQxODQ1ODU5MTEwNWE5",
+  "snapshot_id": "MTY3NDA4MDU5OCwwMDAwMDAwMDE5MTM0MWIyMjEzZjE0YTcyMTllNWI1ZDZhM2ZiNmQ5",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
-      },
-      "artists": [
-        {
-          "name": "The Connells",
-          "url": "https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "'74-'75",
-      "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Extreme II: Pornograffitti (Deluxe)",
         "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 334000,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
+      },
+      "artists": [
+        {
+          "name": "The Connells",
+          "url": "https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "'74-'75",
+      "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
     },
     {
       "added_at": "2023-01-18 22:23:18",

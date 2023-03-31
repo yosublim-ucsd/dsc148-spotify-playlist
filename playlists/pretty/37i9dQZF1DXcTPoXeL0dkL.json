@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 172844,
+  "num_followers": 172900,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDg3Mzg3NzljMzliOGU1OGM3YmMxMjM3ZDZmZTFlM2Ez",
+  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMGJmZjhhMDM3ZmE3OTNiMTcyOGRmNjk5ZWUwM2VmMzE0",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
+      },
+      "artists": [
+        {
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+        }
+      ],
+      "duration_ms": 315862,
+      "name": "10 Razones Para Amarte",
+      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 214346,
       "name": "Obsesi\u00f3n (feat. Ramiro Better)",
       "url": "https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
-      },
-      "artists": [
-        {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones Para Amarte",
-      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "30 Vallenatos Pegaditos",
-        "url": "https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5"
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
       },
       "artists": [
         {
-          "name": "Rugido Vallenato",
-          "url": "https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j"
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
         }
       ],
-      "duration_ms": 284520,
-      "name": "Nunca Comprendi Tu Amor",
-      "url": "https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU"
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "14 Vallenatos Rom\u00e1nticos, Vol. 1",
-        "url": "https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6"
+        "name": "30 Vallenatos Pegaditos",
+        "url": "https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5"
       },
       "artists": [
         {
-          "name": "Luis Mateus Y La Nueva Generacion",
-          "url": "https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+          "name": "Rugido Vallenato",
+          "url": "https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j"
         }
       ],
-      "duration_ms": 259880,
-      "name": "Adios Amor",
-      "url": "https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q"
+      "duration_ms": 284520,
+      "name": "Nunca Comprendi Tu Amor",
+      "url": "https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2kF0AEAgWqpZTbLXNfJooJ"
+        "name": "14 Vallenatos Rom\u00e1nticos, Vol. 1",
+        "url": "https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6"
       },
       "artists": [
         {
-          "name": "Jesus Manuel Estrada",
-          "url": "https://open.spotify.com/artist/6V6SKtrFyezkvonhvkd4Yg"
+          "name": "Luis Mateus Y La Nueva Generacion",
+          "url": "https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
         }
       ],
-      "duration_ms": 301023,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0y16eBgMZ3ItBzFT6Jqchy"
+      "duration_ms": 259880,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q"
     }
   ],
   "unique_name": "Vallenato Full Bacano",

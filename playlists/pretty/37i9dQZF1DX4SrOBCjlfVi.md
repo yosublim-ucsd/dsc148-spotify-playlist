@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Internet Money, NLE Choppa and more\. Cover: Baby Tate
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,260 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,278 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 36 | [Up It](https://open.spotify.com/track/1LLdw50jSFEG7CaLQa4drf) | [Sns](https://open.spotify.com/artist/7EPOTd0v6jTEzHAiJ8xANB), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Up It](https://open.spotify.com/album/3VFcPclPIxF3mQml3QDUUC) | 3:31 |
 | 37 | [OUT THE WINDOW](https://open.spotify.com/track/25d7Trux92YqeS1iZpa0TN) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 3:56 |
 | 38 | [Luv 4 My Block](https://open.spotify.com/track/7M1kT1qfYZjE8L2Bik8eUO) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Luv 4 My Block](https://open.spotify.com/album/6HV4YhvKzdeFJaHKaIB594) | 1:21 |
-| 39 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
+| 39 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
 | 40 | [Side Eye](https://open.spotify.com/track/3nrPLwBP7AXFjjUV9XHkaI) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Side Eye](https://open.spotify.com/album/51vLXSdhW3vNQpqun8BoF6) | 2:52 |
 | 41 | [Home Confinement \- Home Confinement \(Explicit Stereo\)](https://open.spotify.com/track/2X7wRcHcXWAKZQA4jmtEsM) | [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Home Confinement](https://open.spotify.com/album/44c4kyJ4lyuV70ScTrOwbx) | 2:24 |
 | 42 | [Commas](https://open.spotify.com/track/3IM8sdoY61ppCc4l3edWdy) | [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Commas](https://open.spotify.com/album/0OTPgVM3oUkFwyMwrXdp2B) | 1:47 |

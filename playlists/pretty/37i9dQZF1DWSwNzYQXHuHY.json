@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6995,
+  "num_followers": 7010,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTAzMCwwMDAwMDAwMDNhNTBiZTY4NjE0MDM5YzJmYjAwMzdmYzZjODcxNWE4",
+  "snapshot_id": "MTY3OTkwNTAzMCwwMDAwMDAwMDkwY2VhOGMyM2EwMjBkYjZhZmZhMjJmMGIzY2M2ZjYx",
   "tracks": [
     {
       "added_at": "2023-03-11 08:16:04",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Sequence : 7272",
         "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 215346,
       "name": "Pop? Pop!",
       "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "oceanfromtheblue",
-        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
-      },
-      "artists": [
-        {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
-        },
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Close to You (feat. sunwoojunga)",
-      "url": "https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 220400,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "oceanfromtheblue",
+        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Close to You (feat. sunwoojunga)",
+      "url": "https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F"
     },
     {
       "added_at": "2023-03-11 08:16:04",

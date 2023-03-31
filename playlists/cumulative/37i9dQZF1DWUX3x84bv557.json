@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Acda en de Munnik op de cover van d\u00e9 Nederpop playlist",
+  "description": "Zo\u00eb Tauran op de cover van d\u00e9 Nederpop playlist",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 138653,
       "name": "2022",
       "url": "https://open.spotify.com/track/1QqQHrWGQrK0NhITVo1NYo"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 153197,
       "name": "5 Voor 12",
       "url": "https://open.spotify.com/track/7vblfnm2TktVX9LIK6KB3f"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 231804,
       "name": "Avond",
       "url": "https://open.spotify.com/track/2tF8Amp5Q4uBYwh70RBDPR"
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "De Laatste Keer",
+        "url": "https://open.spotify.com/album/5EFiDReWmoIkvCGLvVLwvZ"
+      },
+      "artists": [
+        {
+          "name": "DAVE",
+          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "De Laatste Keer",
+      "url": "https://open.spotify.com/track/2MLtLy4GkNDWzYE01yKdA8"
+    },
+    {
+      "album": {
         "name": "De Nacht",
         "url": "https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 158944,
       "name": "De Pijp",
       "url": "https://open.spotify.com/track/3vXN6XJlyu2iCxBJr79oyU"
@@ -598,6 +616,28 @@
       "duration_ms": 199760,
       "name": "De Weg",
       "url": "https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7"
+    },
+    {
+      "album": {
+        "name": "Denk aan mij",
+        "url": "https://open.spotify.com/album/1LjiossHFTKs6e2uFFTcTz"
+      },
+      "artists": [
+        {
+          "name": "Noa Zwan",
+          "url": "https://open.spotify.com/artist/5uHmg0cbPLuuTEV8VsB9wX"
+        },
+        {
+          "name": "Demi Verduyn",
+          "url": "https://open.spotify.com/artist/6Gcr9lIgdVVfSqDw9EIa6f"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128345,
+      "name": "Denk aan mij",
+      "url": "https://open.spotify.com/track/2RDMBzqNdFeB011OgBUphO"
     },
     {
       "album": {
@@ -645,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Dit Moet Verliefd Zijn",
+        "url": "https://open.spotify.com/album/3QAnfcAmeRXDJibQrfUJZq"
+      },
+      "artists": [
+        {
+          "name": "Maaike Ouboter",
+          "url": "https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207934,
+      "name": "Dit Moet Verliefd Zijn",
+      "url": "https://open.spotify.com/track/64ArZjpQr4pTH9SuMYjm6b"
+    },
+    {
+      "album": {
         "name": "FLEMMING",
         "url": "https://open.spotify.com/album/6JTROG4csRswIQjmmvujgy"
       },
@@ -682,6 +740,24 @@
       "duration_ms": 164916,
       "name": "Drijfzand",
       "url": "https://open.spotify.com/track/52idFfxIoylObbiWLQvpMq"
+    },
+    {
+      "album": {
+        "name": "Er Was Eens Een Meid",
+        "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176494,
+      "name": "Er Was Eens Een Meid",
+      "url": "https://open.spotify.com/track/128TSKhbp925wwRpJksRXH"
     },
     {
       "album": {
@@ -927,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Alles Smaakt Beter Met Prik",
+        "url": "https://open.spotify.com/album/6QXgdZ5XkMOuQmRpv0KIo0"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199586,
+      "name": "Het Feest Is Al Voorbij",
+      "url": "https://open.spotify.com/track/79L1CzU84gFrFIqriFu6os"
+    },
+    {
+      "album": {
         "name": "Hier Blijft Het Bij",
         "url": "https://open.spotify.com/album/6MhXMY5K9atA8V7lobWbxd"
       },
@@ -1152,7 +1246,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 176674,
       "name": "Jouw Love",
       "url": "https://open.spotify.com/track/1y0SJhnwKGEGZbH9OmrqyN"
@@ -1170,7 +1264,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 170946,
       "name": "Kansen",
       "url": "https://open.spotify.com/track/7Mw4F5tnXF5D52dghmzbLQ"
@@ -1214,6 +1308,24 @@
       "duration_ms": 213529,
       "name": "Kom Jij Weer Voorbij",
       "url": "https://open.spotify.com/track/6saNAXWMY0gqpNMwnFG34a"
+    },
+    {
+      "album": {
+        "name": "Koning Liefde",
+        "url": "https://open.spotify.com/album/2xyUvd6kssT9MiTbDQfwUZ"
+      },
+      "artists": [
+        {
+          "name": "OG3NE",
+          "url": "https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164480,
+      "name": "Koning Liefde",
+      "url": "https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl"
     },
     {
       "album": {
@@ -1268,6 +1380,24 @@
       "duration_ms": 206400,
       "name": "Later Als Ik Groot Ben",
       "url": "https://open.spotify.com/track/2izndz00zguhQQJ06MhMzA"
+    },
+    {
+      "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/5WBoyKy4ezxq7P4v6Yyvf7"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163428,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8"
     },
     {
       "album": {
@@ -1538,7 +1668,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 145846,
       "name": "Moment Zonder Jou",
       "url": "https://open.spotify.com/track/4DEQOhoCywtYBB7ykV8IGQ"
@@ -1560,7 +1690,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 211651,
       "name": "Money Op De Tafel (Slowed) [feat. Rolf Sanchez]",
       "url": "https://open.spotify.com/track/6vnU92r5HwYD3gysXjd2JN"
@@ -1684,7 +1814,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 219118,
       "name": "Niemand (De Enige)",
       "url": "https://open.spotify.com/track/7wehFRahb9PMsYai1jHv1y"
@@ -1760,7 +1890,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 149349,
       "name": "Onbegrepen",
       "url": "https://open.spotify.com/track/2a2p471YjXXiCvpQtl8IHV"
@@ -2179,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/0V9Bp6PlCoVds8NUTdCJb8"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154337,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/78KoAAMz7rluCfPlAB9gnL"
+    },
+    {
+      "album": {
         "name": "Tot De Dood",
         "url": "https://open.spotify.com/album/5coJkWf27pNUEu1MVCxw9X"
       },
@@ -2386,6 +2534,24 @@
       "duration_ms": 183839,
       "name": "Voor De Gek",
       "url": "https://open.spotify.com/track/6BXVmVTRyEnTcJHjmy8kCg"
+    },
+    {
+      "album": {
+        "name": "Voor Mijn Hart",
+        "url": "https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184340,
+      "name": "Voor Mijn Hart",
+      "url": "https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs"
     },
     {
       "album": {

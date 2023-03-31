@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SIRUP + Skaai + uin \*👉 <a href="https://spice.eplus.jp/articles/316521?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,464 likes - 69 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,528 likes - 69 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 21 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 |
 | 22 | [眠れない夜に](https://open.spotify.com/track/1eBeSpdQRvARloHq0fTVzK) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [眠れない夜に](https://open.spotify.com/album/5ra5TqcJsRzIgoGvtcAMvw) | 3:28 |
 | 23 | [39 Minutes](https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [39 Minutes](https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf) | 3:33 |
-| 24 | [DAWN](https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A) | [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DAWN](https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx) | 3:04 |
+| 24 | [DAWN \(feat\. Aile The Shota\)](https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A) | [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DAWN \(feat\. Aile The Shota\)](https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx) | 3:04 |
 | 25 | [One Night Party](https://open.spotify.com/track/0lsuSUTp0t8E0X0EozRuJI) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [One Night Party](https://open.spotify.com/album/3ETKko9A00kJ45PlKbFtP7) | 2:59 |
 | 26 | [OTSUKARE](https://open.spotify.com/track/5D7cpfBzFfsipwXmpThyle) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [OTSUKARE](https://open.spotify.com/album/6exMtoSnYWu0YGuHYqDJF1) | 3:15 |
 | 27 | [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 |

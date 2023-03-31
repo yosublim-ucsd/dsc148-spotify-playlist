@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-206 songs - 13 hr 4 min
+207 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 | 2021-12-16 | 2022-07-20 |
 | [Alexander Kiellands plass \- Live](https://open.spotify.com/track/1vOMjmVZF9azOFd6SjIQuv) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e), [Andy Irvine](https://open.spotify.com/artist/1nVYeUhlYzmXf0Dl9yk8P2) | [Live in Telemark](https://open.spotify.com/album/1ICtv14N8EWSJKe7GjUIhj) | 3:15 | 2022-03-23 | 2022-07-10 |
 | [Alle de tinga \(allting blei stilt\)](https://open.spotify.com/track/0iuowI2TuzdWdsoJgHJle0) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Like små](https://open.spotify.com/album/0mc6rENGnb9PREGbN4IUao) | 4:23 | 2021-12-16 | 2022-06-28 |
-| [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 |  |
+| [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 | 2023-03-31 |
 | [Alle snakker sant](https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle snakker sant](https://open.spotify.com/album/22vJhT8LsQgC27izuQ7Pd3) | 2:48 | 2022-03-23 | 2022-05-12 |
 | [Alltid En Lengsel](https://open.spotify.com/track/722vfzS4cD4mWPJfxgMg5L) | [Thomas Brøndbo](https://open.spotify.com/artist/1Oe2cHHegzll2In52CHVux) | [Alltid En Lengsel](https://open.spotify.com/album/4iLwTl4UIBnwU6bRkVtDd5) | 3:55 | 2022-02-17 | 2022-05-10 |
 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 | 2021-12-16 | 2023-01-18 |
@@ -32,6 +32,7 @@
 | [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 | 2023-01-12 |  |
 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 | 2021-12-16 |  |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2022-03-23 | 2022-04-20 |
+| [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 | 2023-03-30 |  |
 | [Crescendo i Gågata](https://open.spotify.com/track/6d35rdVufTVqEuaAPLxeMt) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Crescendo i Gågata](https://open.spotify.com/album/2HaKiwfbSwXrh7PNISjHuN) | 2:41 | 2021-12-16 | 2022-07-22 |
 | [Danny Boy](https://open.spotify.com/track/6W0REfkZAVTo1JrLUdsAfU) | [Narum](https://open.spotify.com/artist/6r2dDOJwJMfAdt9kPcQc4b) | [Danny Boy](https://open.spotify.com/album/1hxN75DWN4liP5FwODoGaX) | 3:27 | 2021-12-16 | 2022-07-17 |
 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 | 2021-12-16 |  |

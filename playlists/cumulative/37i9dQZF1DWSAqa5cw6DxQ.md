@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-130 songs - 6 hr 31 min
+133 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,9 @@
 | [I am that I am](https://open.spotify.com/track/5S6NgnFZhPxKozqr2KR9m0) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [I am that I am](https://open.spotify.com/album/3PE8Dd9Q9ao9I7Cd0lsroM) | 3:50 | 2022-02-28 | 2022-10-15 |
 | [Ikaria](https://open.spotify.com/track/4NVV2FdOTnoUh8wn6YKD5v) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Ikaria](https://open.spotify.com/album/7icipzkeRenveeDSeaYXEK) | 2:52 | 2022-02-28 | 2022-12-21 |
 | [In And Around](https://open.spotify.com/track/4726jds0AnASQYMT4gazmH) | [Alex Cambozo](https://open.spotify.com/artist/1ldeIYrSl6pDLlJkPyyqkP) | [In And Around](https://open.spotify.com/album/7vrR4A4dtEj0gLG5AuxKib) | 2:48 | 2022-02-28 |  |
+| [In Seclusion](https://open.spotify.com/track/03lIEUzXDUm8ivedRHOWff) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [In Seclusion](https://open.spotify.com/album/2B3prQA84v2JQdDb756aoO) | 2:46 | 2023-03-30 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-02-28 |  |
+| [In The Moonlight](https://open.spotify.com/track/7bKnCUZd2DPux3xyebZZhl) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [In The Moonlight](https://open.spotify.com/album/1o2HPfW45FXQ4pVbmvU3uu) | 2:50 | 2023-03-30 |  |
 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 |  |
 | [Journey Within](https://open.spotify.com/track/3SrOqXX1Lez961c6hSKQnT) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Journey Within](https://open.spotify.com/album/7dq1vjG3DOb0aiUxMYKItr) | 3:15 | 2022-02-28 |  |
 | [Kepler's Law](https://open.spotify.com/track/6KI4H8nNADQYHQXrcWgJ4k) | [Aislinn Delarosa](https://open.spotify.com/artist/3uwheBIstOkeaW8Mx2hEv9) | [Greet The Day](https://open.spotify.com/album/7x4emLYlGslRZDwlffehF9) | 3:05 | 2022-02-28 |  |
@@ -72,7 +74,7 @@
 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 | 2022-02-28 |  |
 | [Matilda](https://open.spotify.com/track/7IPGf2SV48wzUx3KcD8T8h) | [Nikolaj Gaideur](https://open.spotify.com/artist/7BeOUN76z2LvYSqRpcXqvY) | [Matilda](https://open.spotify.com/album/74W4n7jXX8tuHl66qzA0Ws) | 2:06 | 2022-02-28 |  |
 | [Maudlin](https://open.spotify.com/track/7AsZvhrcwhWNTrmaDvITQF) | [Serge Matui](https://open.spotify.com/artist/2VqTonKthGJNoE3oYzsxzY) | [Maudlin](https://open.spotify.com/album/6dwlDjvOvNa4GFLKuWUtjs) | 2:14 | 2022-02-28 |  |
-| [Memories \(Top Gun\)](https://open.spotify.com/track/0wzH9CWSAl0UNrqODUiwkw) | [Cristopher Varela](https://open.spotify.com/artist/7GvvZWqI8qi9E13IAbYnXE) | [Classical Romantic Movies Themes on Guitar](https://open.spotify.com/album/0HS54wZJRaKNRz6sDQO1Ez) | 2:48 | 2022-02-28 |  |
+| [Memories \(Top Gun\)](https://open.spotify.com/track/0wzH9CWSAl0UNrqODUiwkw) | [Cristopher Varela](https://open.spotify.com/artist/7GvvZWqI8qi9E13IAbYnXE) | [Classical Romantic Movies Themes on Guitar](https://open.spotify.com/album/0HS54wZJRaKNRz6sDQO1Ez) | 2:48 | 2022-02-28 | 2023-03-31 |
 | [Midnight Rose](https://open.spotify.com/track/2vKrC9WVOelEnhhbDasiSe) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Ethereal](https://open.spotify.com/album/0rizgZBRMsmGtpor6EMBg7) | 2:58 | 2022-07-22 |  |
 | [Mind By Mind](https://open.spotify.com/track/2b5NdK8H3xoMkIw8FMJrnN) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Mind By Mind](https://open.spotify.com/album/3c9EBatnQAU6gfcGtsrtKV) | 3:35 | 2022-02-28 |  |
 | [Mind Over Matter](https://open.spotify.com/track/1qOGVdNpsQi00r2IffF9tU) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Mind Over Matter](https://open.spotify.com/album/2b1EFX3Oll9ioHZcJ2Sqj8) | 3:28 | 2022-02-28 |  |
@@ -114,6 +116,7 @@
 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2022-02-28 |  |
 | [Solitary Dream](https://open.spotify.com/track/0j2OXnzJXz64RdW5Cd9YXF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Solitary Dream](https://open.spotify.com/album/2XPb71dayODjs1YmaFQRnC) | 2:40 | 2022-09-02 |  |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-03-29 |  |
+| [Spellbound](https://open.spotify.com/track/21KaEe9seWVaE5UWwb439V) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Spellbound](https://open.spotify.com/album/5MYvk8SIFdpvM3ePfTEyTy) | 3:06 | 2023-03-30 |  |
 | [State of Existence](https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:56 | 2022-02-28 |  |
 | [Stills](https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Stills](https://open.spotify.com/album/0dcqSIGN8na4KTTDlNYm3O) | 2:20 | 2022-02-28 |  |
 | [Story Untold](https://open.spotify.com/track/2Sd1qxVjFXFXeyIUSqDRwd) | [Vanja Thownsend](https://open.spotify.com/artist/0Bb4ZHmEDQeAKem2FyVXxT) | [Story Untold](https://open.spotify.com/album/6ug5e5SDgcyj7mqr2Pe6EN) | 3:39 | 2022-02-28 | 2022-04-22 |

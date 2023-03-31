@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. alice longyu gao",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lozeak",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 175491,
       "name": "AMERICA'S NEXT TOP MODEL",
       "url": "https://open.spotify.com/track/2bZeCw3SEcY0uMq2bdhFGc"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 135713,
       "name": "brkdwn",
       "url": "https://open.spotify.com/track/17Ag5tNS39vOxvygMVlnJU"
@@ -1376,6 +1376,24 @@
       "duration_ms": 176653,
       "name": "CHAOS",
       "url": "https://open.spotify.com/track/2jddZTHfshojFoIiuAs0zp"
+    },
+    {
+      "album": {
+        "name": "Cheap Love",
+        "url": "https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "Cheap Love",
+      "url": "https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P"
     },
     {
       "album": {
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 173126,
       "name": "DEUX AMANTS MORT",
       "url": "https://open.spotify.com/track/6KoDCpiZlfb4mqCyWBPIkW"
@@ -2227,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Gut Feeling",
+        "url": "https://open.spotify.com/album/2sCytRQujXambd95PcJ2Cj"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177206,
+      "name": "Drag Me To Hell",
+      "url": "https://open.spotify.com/track/5LLomiXtpid7vpIfZ39o5F"
+    },
+    {
+      "album": {
         "name": "Dream Caused By The Flight Of A Bee",
         "url": "https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO"
       },
@@ -2390,6 +2426,24 @@
       "duration_ms": 180186,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "album": {
+        "name": "Everybody Just Wants To",
+        "url": "https://open.spotify.com/album/7HEKGLc2Dopw8lRHbajgKU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Everybody Just Wants To",
+      "url": "https://open.spotify.com/track/4sl5i4kGjSe3lbh3wwmRkr"
     },
     {
       "album": {
@@ -4334,7 +4388,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 158880,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq"
@@ -4566,6 +4620,24 @@
       "duration_ms": 143586,
       "name": "Just for me",
       "url": "https://open.spotify.com/track/67lOnPna7dewLKizrVu31v"
+    },
+    {
+      "album": {
+        "name": "HAPPY TEARS!",
+        "url": "https://open.spotify.com/album/3o8RAFb9pxdgag6rMCZG3y"
+      },
+      "artists": [
+        {
+          "name": "THE RIOT",
+          "url": "https://open.spotify.com/artist/0bBGGhs1QuXp7FxPKT0QfN"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209790,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/6ZJMpKYUdNjs4V7fmr8ewY"
     },
     {
       "album": {
@@ -5765,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "NEW BOY",
+        "url": "https://open.spotify.com/album/5BsSDGYksYm1ORLKvASAyJ"
+      },
+      "artists": [
+        {
+          "name": "CLT DRP",
+          "url": "https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226013,
+      "name": "NEW BOY",
+      "url": "https://open.spotify.com/track/4XbW7CRBTy5jCQcN8XAcNS"
+    },
+    {
+      "album": {
         "name": "new ground",
         "url": "https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV"
       },
@@ -6752,7 +6842,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 144238,
       "name": "RADIATION",
       "url": "https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p"
@@ -7453,6 +7543,24 @@
     },
     {
       "album": {
+        "name": "slippery slope",
+        "url": "https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "slippery slope",
+      "url": "https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9"
+    },
+    {
+      "album": {
         "name": "DEMIDEVIL",
         "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
       },
@@ -7768,7 +7876,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 159000,
       "name": "Supply/Demand",
       "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
@@ -8209,6 +8317,24 @@
     },
     {
       "album": {
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229161,
+      "name": "Toilet",
+      "url": "https://open.spotify.com/track/1EwrRgBEsPpL5CWA7kMfr0"
+    },
+    {
+      "album": {
         "name": "Tommy's Dream (Remixes)",
         "url": "https://open.spotify.com/album/7Cx0eWI1v5DDPoy3ouf4ZU"
       },
@@ -8434,7 +8560,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 187830,
       "name": "Used To You",
       "url": "https://open.spotify.com/track/0ivsDrBQ9HloEcdaYxq9Un"

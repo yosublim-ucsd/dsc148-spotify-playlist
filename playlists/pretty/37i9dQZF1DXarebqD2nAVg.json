@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 414746,
+  "num_followers": 414827,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDQ4YjNiYTMwYzg1MjIxNTIxMjM3NTBiOWQxNGVlZmEw",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGE1YzQ4Nzc4YjkxNGU0YTQzNGM1M2UzNjQ2OTRjYmJj",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY"
-      },
-      "artists": [
-        {
-          "name": "Shrimpnose",
-          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "Wretched",
-      "url": "https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 144892,
       "name": "Distant",
       "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY"
+      },
+      "artists": [
+        {
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu"
     },
     {
       "added_at": "2023-02-16 22:50:07",

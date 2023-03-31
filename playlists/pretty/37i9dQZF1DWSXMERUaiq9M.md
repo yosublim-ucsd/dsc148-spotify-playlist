@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,691 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,934 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 38 | [Feel You \(Beside Me\)](https://open.spotify.com/track/2Y7TA1fnjoZWHvAhi70TUv) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/4NvXD68wMwVrgzHSSkhQGC) | 5:29 |
 | 39 | [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 |
 | 40 | [My Little White Pony](https://open.spotify.com/track/25SHYrwpLLuVnsLsN39xYr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:59 |
-| 41 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 |
+| 41 | [Vigour \- Julian Muller Remix](https://open.spotify.com/track/0Wh4YlbUtNSrgHq6HnfD0c) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f), [Julian Muller](https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK) | [Fatigue](https://open.spotify.com/album/7H8AhpWNX7FciB94nhxRJJ) | 5:49 |
 | 42 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 |
-| 43 | [Vigour \- Julian Muller Remix](https://open.spotify.com/track/0Wh4YlbUtNSrgHq6HnfD0c) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f), [Julian Muller](https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK) | [Fatigue](https://open.spotify.com/album/7H8AhpWNX7FciB94nhxRJJ) | 5:49 |
+| 43 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 |
 | 44 | [MY BODY IS GOD ON ACID](https://open.spotify.com/track/4qf2TmjFImuZkpAwmP1LKE) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [MY BODY IS GOD ON ACID](https://open.spotify.com/album/5ON20qgoweG6jjxVXrQdZh) | 6:09 |
 | 45 | [Atlantyda](https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [The World Of Monnom Black II](https://open.spotify.com/album/1Qmlt7Lujv1VgCP44rCKJT) | 6:36 |
 | 46 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [Gratitude Practice](https://open.spotify.com/track/4I4361g8EeO8BAvxarpd8a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Gratitude Practice](https://open.spotify.com/album/2eLi9fo6zHd2ergvJoXdtV) | 6:45 |
 | 50 | [Wholes](https://open.spotify.com/track/60t2ICAU2uCUrSHii0VSB2) | [Abstraxion](https://open.spotify.com/artist/42Rm3uPICrqZINjvxC2grb) | [Wholes](https://open.spotify.com/album/2pVFV5QWG3WSw3sf3Z8b2Z) | 5:01 |
 
-Snapshot ID: `MTY3OTY1NjAzMywwMDAwMDAwMDY4ZjBmYTg2YjkwYjIxYTdlYTVjMWVlNmRmNzg0MDY2`
+Snapshot ID: `MTY3OTY1NjAzMywwMDAwMDAwMGJhNTQxOWQ3OGFhODc3ODNiYmRhOTg5YTg2YmFhMWE0`

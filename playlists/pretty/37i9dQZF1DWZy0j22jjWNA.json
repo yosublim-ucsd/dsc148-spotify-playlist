@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 77250,
+  "num_followers": 77295,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGU4NDU4OTkyNGQyOGU5NmZkOWIyYWE0MWQ5ZDBlZTc3",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDAxNDNjMzY4MWM5MzZhNzJlZGI5ZDJlNmQ5MDM5YjQ0",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -599,18 +599,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
       },
       "artists": [
         {
-          "name": "Aalok Bala",
-          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
+          "name": "Silverberg",
+          "url": "https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY"
+        },
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
         }
       ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
+      "duration_ms": 233918,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -635,22 +639,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Giants",
-        "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
       "artists": [
         {
-          "name": "Silverberg",
-          "url": "https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY"
-        },
-        {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+          "name": "Aalok Bala",
+          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
         }
       ],
-      "duration_ms": 233918,
-      "name": "Giants",
-      "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rhove",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Tony Effe",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -168,6 +168,28 @@
       "duration_ms": 182562,
       "name": "ACQUA TONICA (feat. Geolier & Junior K)",
       "url": "https://open.spotify.com/track/3WVXxfB3B76CkG2wglKotj"
+    },
+    {
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/5cXeDgXDMcSMb3tH6EnCaB"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/44r0DNbRcHU8KyM1K2AJ0y"
     },
     {
       "album": {
@@ -840,7 +862,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 191422,
       "name": "BLUE CHEESE (feat. Lazza)",
       "url": "https://open.spotify.com/track/6JNadLbisqWzZk0E1MSopn"
@@ -1732,6 +1754,24 @@
       "duration_ms": 182078,
       "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
       "url": "https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX"
+    },
+    {
+      "album": {
+        "name": "L'AMORE",
+        "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163399,
+      "name": "DONNA VEDI",
+      "url": "https://open.spotify.com/track/1ddXr35F0pevdaLeqW83NH"
     },
     {
       "album": {
@@ -3188,7 +3228,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
@@ -3966,7 +4006,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 177716,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/5mReDtjzYeBKhgG3okmyjr"
@@ -4130,7 +4170,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 176485,
       "name": "PELLE D'OCA (feat. Medy)",
       "url": "https://open.spotify.com/track/2VxS5ZTxvHbYdfiZJeYNbD"
@@ -4210,6 +4250,24 @@
       "duration_ms": 148997,
       "name": "PENSAVA",
       "url": "https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X"
+    },
+    {
+      "album": {
+        "name": "L'AMORE",
+        "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87215,
+      "name": "PENSAVO A\u2026 - SKIT",
+      "url": "https://open.spotify.com/track/5GhvxY32NT5bkdtltTAkzN"
     },
     {
       "album": {
@@ -5672,6 +5730,24 @@
       "duration_ms": 156616,
       "name": "ye@h (feat. Shiva)",
       "url": "https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B"
+    },
+    {
+      "album": {
+        "name": "ZONDA",
+        "url": "https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217190,
+      "name": "ZONDA",
+      "url": "https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53"
     },
     {
       "album": {

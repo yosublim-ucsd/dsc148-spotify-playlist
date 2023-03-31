@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=tsgL1DVgTi2hXJ3qsbzeHA">Elevation Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 959,254 likes - 99 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,447 likes - 99 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

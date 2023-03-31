@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-133 songs - 6 hr 12 min
+134 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv) | 1:49 | 2021-09-23 | 2022-10-25 |
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt) | 1:49 | 2022-10-21 | 2023-01-05 |
 | [I Dont Want That Many Friends in the First Place \(P\. Durao\)](https://open.spotify.com/track/4qKJFTj7u4eB8aAlgwH8F7) | [axiiiiiiiii](https://open.spotify.com/artist/3lU88Di4kPdjmZzTDoacwD) | [Archiv3s](https://open.spotify.com/album/22d65J58ShqU0yYBXmNerw) | 1:49 | 2022-11-29 | 2023-01-25 |
+| [i hate it here](https://open.spotify.com/track/6n1ZjksfQve7uEkxGOiYgA) | [33kiro](https://open.spotify.com/artist/0Bfmkd0toyREldI0dZiRTt), [Sukoyomi](https://open.spotify.com/artist/6yaYqVukNPDxUsFNH0I8Rp), [p4rkr](https://open.spotify.com/artist/26zhNRtcs21tYaShItiOhD) | [i hate it here](https://open.spotify.com/album/6wept5tC2CCShExUQLoNFb) | 2:37 | 2022-11-29 |  |
 | [I Hate It Here](https://open.spotify.com/track/0Pc9pvVdnQ6c0aggnsVESm) | [axiiiiiiiii](https://open.spotify.com/artist/3lU88Di4kPdjmZzTDoacwD) | [Archiv3s](https://open.spotify.com/album/22d65J58ShqU0yYBXmNerw) | 2:37 | 2022-11-29 | 2023-01-25 |
 | [i hate it here](https://open.spotify.com/track/5W2YdxPUqmzYFELNQF95Dt) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/6YaIgWEICYDuhQ7Kb0R5Jx) | 2:37 | 2022-10-21 | 2023-01-05 |
 | [i hate it here](https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5) | 2:37 | 2021-09-23 | 2022-10-25 |
@@ -118,7 +119,7 @@
 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 | 2021-09-23 |  |
 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2022-03-04 |  |
 | [scawy monstews and nice spwites :3](https://open.spotify.com/track/6gSBiLOteoM05jq6KCrj6O) | [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [scawy monstews and nice spwites :3](https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp) | 1:36 | 2021-09-23 |  |
-| [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 | 2021-12-10 |  |
+| [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 | 2021-12-10 | 2023-03-31 |
 | [serialkilled](https://open.spotify.com/track/50BnBMAaNwlFcedkifEjxi) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [serialkilled](https://open.spotify.com/album/34C3EC4r4pof6IiZdRtemr) | 1:47 | 2021-09-23 | 2022-05-13 |
 | [So Clear](https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:00 | 2023-01-17 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2021-09-23 | 2022-05-13 |

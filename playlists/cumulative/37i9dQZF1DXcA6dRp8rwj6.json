@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Ramengvrl)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: YoungQueenz)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -950,6 +950,28 @@
       "duration_ms": 95902,
       "name": "Adonis Interlude (The Montage) (with J. Cole)",
       "url": "https://open.spotify.com/track/5Mkbqot9JUaN5XhRgqITME"
+    },
+    {
+      "album": {
+        "name": "Adventure Time",
+        "url": "https://open.spotify.com/album/1T41lXlauMiWEQWGCTqEtD"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169695,
+      "name": "Adventure Time",
+      "url": "https://open.spotify.com/track/4QHXOP6YFZ4934kO1ATaEk"
     },
     {
       "album": {
@@ -4208,7 +4230,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 181977,
       "name": "Candemic Remix",
       "url": "https://open.spotify.com/track/6GKDisdWYI2TbK18F4zC11"
@@ -5015,6 +5037,28 @@
     },
     {
       "album": {
+        "name": "Come Close",
+        "url": "https://open.spotify.com/album/0ZawOXRNNUiTmg8nJJjrs2"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Wang",
+          "url": "https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp"
+        },
+        {
+          "name": "Dough-Boy",
+          "url": "https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192586,
+      "name": "Come Close",
+      "url": "https://open.spotify.com/track/2IXVuAMYYSslZ2bdkGKlxN"
+    },
+    {
+      "album": {
         "name": "Come My Way (feat. Krayzie Bone)",
         "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
       },
@@ -5554,7 +5598,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 173554,
       "name": "Culture",
       "url": "https://open.spotify.com/track/1vFQ7C18cRyj6CVdwPc43r"
@@ -5842,6 +5886,32 @@
       "duration_ms": 121008,
       "name": "day in time",
       "url": "https://open.spotify.com/track/79HkMbZ55DXxzxr3rJ9V8k"
+    },
+    {
+      "album": {
+        "name": "DDD",
+        "url": "https://open.spotify.com/album/3mVxptWfVz2onML3Fs5HIl"
+      },
+      "artists": [
+        {
+          "name": "YoungQueenz",
+          "url": "https://open.spotify.com/artist/4L55QUybdNNklpqnecZ5Bl"
+        },
+        {
+          "name": "N.O.L.Y",
+          "url": "https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1"
+        },
+        {
+          "name": "GrymeMan",
+          "url": "https://open.spotify.com/artist/0mMZXEzP0xfLFD0W8XCTwx"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DDD",
+      "url": "https://open.spotify.com/track/5QI2DBP4SGwu0LpWG2gjVQ"
     },
     {
       "album": {
@@ -6455,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "DOGTOOTH",
+        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
+    },
+    {
+      "album": {
         "name": "Doin' Right",
         "url": "https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn"
       },
@@ -7039,6 +7127,28 @@
     },
     {
       "album": {
+        "name": "eyes can't see",
+        "url": "https://open.spotify.com/album/44cxZeSL4zjzch6LLmpx45"
+      },
+      "artists": [
+        {
+          "name": "Angelo Mota",
+          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+        },
+        {
+          "name": "Cj Francis IV",
+          "url": "https://open.spotify.com/artist/32dFQz3nhj2uhF49xMJhFD"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230501,
+      "name": "eyes can't see",
+      "url": "https://open.spotify.com/track/0kKt6R53daDfAC3Fd8EcGu"
+    },
+    {
+      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
       },
@@ -7379,6 +7489,32 @@
     },
     {
       "album": {
+        "name": "FINE LINE (feat. Skaai) (Prod. uin)",
+        "url": "https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "uin",
+          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "FINE LINE (feat. Skaai) (Prod. uin)",
+      "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
+    },
+    {
+      "album": {
         "name": "FLYEST OOTA",
         "url": "https://open.spotify.com/album/39kwAzCvXewcbqclbXHE9X"
       },
@@ -7430,7 +7566,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 187549,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/3YXU0DJJe4kJCKWSVZdH8Q"
@@ -8979,6 +9115,32 @@
     },
     {
       "album": {
+        "name": "Grown Man",
+        "url": "https://open.spotify.com/album/282shVOXRHSfBqexKhADTN"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106511,
+      "name": "Grown Man",
+      "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XAl1NxzmOcAgtXNwYjqWn"
       },
@@ -9462,6 +9624,28 @@
       "duration_ms": 144773,
       "name": "HEYDAY (Prod. Czaer)",
       "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
+    },
+    {
+      "album": {
+        "name": "High Price (feat. Lil Tjay)",
+        "url": "https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "High Price (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2"
     },
     {
       "album": {
@@ -10112,7 +10296,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 218141,
       "name": "I AM ME",
       "url": "https://open.spotify.com/track/5Ga159MBI3o7b8cgSEpVWz"
@@ -11612,6 +11796,28 @@
       "duration_ms": 206392,
       "name": "KUSENINARU",
       "url": "https://open.spotify.com/track/0PqYyAaYsokYAhZDdf9B7M"
+    },
+    {
+      "album": {
+        "name": "THE CORE TAPE, Vol. 2",
+        "url": "https://open.spotify.com/album/34SnQUswM6PdJU7nuEAGoX"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "L A V A",
+      "url": "https://open.spotify.com/track/6wlMT1ySa411C6AiRwXnyH"
     },
     {
       "album": {
@@ -13356,7 +13562,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 238678,
       "name": "Midlife Glow (feat. Ozay Moore)",
       "url": "https://open.spotify.com/track/3dvaCvUSosEjWxUOuUiOiw"
@@ -14736,6 +14942,36 @@
       "duration_ms": 193295,
       "name": "No Way",
       "url": "https://open.spotify.com/track/02n1DRLv1ZdhITK33NdIpf"
+    },
+    {
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204148,
+      "name": "No Weakness",
+      "url": "https://open.spotify.com/track/6kwz9zbK7jHImhFwy25yn2"
     },
     {
       "album": {
@@ -16929,6 +17165,24 @@
     },
     {
       "album": {
+        "name": "Put On (Am I Wrong)",
+        "url": "https://open.spotify.com/album/4u9nFFk3Gq1zpxfmKnQ2m8"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138701,
+      "name": "Put On (Am I Wrong)",
+      "url": "https://open.spotify.com/track/1VNGsS4EECbGWApEyv6a4K"
+    },
+    {
+      "album": {
         "name": "PUT YOU ON GAME",
         "url": "https://open.spotify.com/album/2F9w1TeWYelRUUb9YN1Ll6"
       },
@@ -17642,6 +17896,28 @@
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
+    },
+    {
+      "album": {
+        "name": "The Heaven Experience - EP",
+        "url": "https://open.spotify.com/album/28zIktAVw9ABux047nCGkH"
+      },
+      "artists": [
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238584,
+      "name": "Royce & Reggie",
+      "url": "https://open.spotify.com/track/3pABqONrhhTpJMybJBpu0G"
     },
     {
       "album": {
@@ -22015,6 +22291,32 @@
     },
     {
       "album": {
+        "name": "Triple Threat",
+        "url": "https://open.spotify.com/album/7HBtNNM1YYu7sDP7a7Jsmp"
+      },
+      "artists": [
+        {
+          "name": "Horrid1",
+          "url": "https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ"
+        },
+        {
+          "name": "Sav'o",
+          "url": "https://open.spotify.com/artist/1VeNLxolTVovUG1ROeumVp"
+        },
+        {
+          "name": "(CGM) TY",
+          "url": "https://open.spotify.com/artist/1UwKmyN6dKhzFNKSL3PgPG"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Triple Threat",
+      "url": "https://open.spotify.com/track/0lTJgAfLs8aKBCobjtmrY0"
+    },
+    {
+      "album": {
         "name": "Trippy",
         "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
       },
@@ -22228,6 +22530,24 @@
       "duration_ms": 178529,
       "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
       "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
+    },
+    {
+      "album": {
+        "name": "Tulips & Roses",
+        "url": "https://open.spotify.com/album/4gHXQ7htaRVTur5i8nGD5w"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196231,
+      "name": "Tulips & Roses",
+      "url": "https://open.spotify.com/track/4W6gvqpSxaTipukE5521Yl"
     },
     {
       "album": {
@@ -22964,6 +23284,24 @@
       "duration_ms": 200486,
       "name": "Want It Bad (with Nigo)",
       "url": "https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA"
+    },
+    {
+      "album": {
+        "name": "\u795e\u96b1 Spirited Away (Deluxe)",
+        "url": "https://open.spotify.com/album/4NOxy3c6H079D2auBGBKFQ"
+      },
+      "artists": [
+        {
+          "name": "YoungQueenz",
+          "url": "https://open.spotify.com/artist/4L55QUybdNNklpqnecZ5Bl"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181496,
+      "name": "WAR (Love is a...!)",
+      "url": "https://open.spotify.com/track/1tM7f9wNv1yOU52GRaXIcD"
     },
     {
       "album": {
@@ -23837,6 +24175,36 @@
     },
     {
       "album": {
+        "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
+        "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "KDDO",
+          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207727,
+      "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
+      "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
+    },
+    {
+      "album": {
         "name": "Yellow Gang",
         "url": "https://open.spotify.com/album/5GbM16ZUU3LKQrJpwXnAPH"
       },
@@ -24137,6 +24505,24 @@
     },
     {
       "album": {
+        "name": "\u5c31\u7b97\u6211\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/1x9SwofDBm49EtMI30SaWk"
+      },
+      "artists": [
+        {
+          "name": "Haysen Cheng",
+          "url": "https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128016,
+      "name": "\u5c31\u7b97\u6211\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/5hjU39m30xuVo29cZr9PtP"
+    },
+    {
+      "album": {
         "name": "\u5f48\u51fa\u5f48\u5165",
         "url": "https://open.spotify.com/album/3OEFPQ9QKu62XuUwxssaBI"
       },
@@ -24156,7 +24542,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 206222,
       "name": "\u5f48\u51fa\u5f48\u5165",
       "url": "https://open.spotify.com/track/6zoSo5ZBub3CHCD4ypX9iB"

@@ -4,7 +4,7 @@
 
 > 
 
-412 songs - 18 hr 19 min
+414 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [400$ Shirt](https://open.spotify.com/track/0k5GBEHir5idlnh5a1RQ7Y) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Mr.Perfect](https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4) | 1:44 | 2022-09-10 |  |
 | [55 Lifestyle](https://open.spotify.com/track/7eUvg5UEG8AVyWKGWm7Lj1) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:22 | 2022-10-04 |  |
 | [5unna](https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [R5 Homixide](https://open.spotify.com/artist/0dhgemnyYGddxaOFhqJ2Kw) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:40 | 2022-09-12 |  |
+| [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 | 2023-03-30 |  |
 | [6 Poles](https://open.spotify.com/track/27EkOKxFdYbD664woilRqn) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [6 Poles](https://open.spotify.com/album/0w4A820N239RNlHWI5f3fP) | 2:07 | 2022-12-21 | 2023-03-21 |
 | [A Goat Speaking](https://open.spotify.com/track/2e2T1HIpVG8XIu3tcLaKJf) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:23 | 2023-03-20 |  |
 | [A Minute\(lone\)](https://open.spotify.com/track/7t9cWdvscrbqrsSigEV0Dv) | [vjac0b](https://open.spotify.com/artist/2dSAZN7PmMiI5UCTJUALer) | [A Minute\(lone\)](https://open.spotify.com/album/4FAeomp0gCXLl0hAR5FsFn) | 2:38 | 2022-07-28 |  |
@@ -281,6 +282,7 @@
 | [Options](https://open.spotify.com/track/4tDPPe3u8Y1dTkJZS7ko50) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Watch My Back](https://open.spotify.com/album/75HiFbi0CpCb81uWBPClyD) | 2:22 | 2022-09-01 |  |
 | [Orion's Belt](https://open.spotify.com/track/26ppRCIIgFDWmZbP3NAxUu) | [Dammntc](https://open.spotify.com/artist/5fusLQAgJkYQ9NeC0TaVDJ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Orion's Belt](https://open.spotify.com/album/0M2HmW5ebgoukPvZe5YZyT) | 2:33 | 2023-02-25 |  |
 | [OT](https://open.spotify.com/track/3yEHC0WyZRUnpNVmIYSSmL) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Dum and Dumber Too](https://open.spotify.com/album/36t3hvr9NDOKn6y3NVBAlu) | 2:12 | 2022-09-29 |  |
+| [out da window](https://open.spotify.com/track/3Vt5YK1tzOQ6pxOSCbtLRA) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:44 | 2023-03-30 |  |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2022-09-09 |  |
 | [outta here](https://open.spotify.com/track/3HJNaozjPQGD4AlZA0bAMQ) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Κankan](https://open.spotify.com/artist/2HfEGAJuiD6uQN7xwPoSgh), [Ѕummrs](https://open.spotify.com/artist/4Z8qbWVLBE0SB3KbRD0Tez) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 2:52 | 2022-12-21 |  |
 | [Overtime](https://open.spotify.com/track/71pmeuiEvHAkE7gXxWL2Uy) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Hardwood Classic](https://open.spotify.com/album/2SPrPcmFf9505xgGEp2h2k) | 2:22 | 2022-05-24 |  |

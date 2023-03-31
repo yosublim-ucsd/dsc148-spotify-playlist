@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-191 songs - 10 hr 33 min
+192 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [La vita è bella](https://open.spotify.com/track/7ob7mrVX7FEQIT2gSClVtA) | [Nicola Piovani](https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ) | [In quintetto](https://open.spotify.com/album/6QRGjKHm12bdXFE2SJD7Rb) | 4:51 | 2020-12-08 |  |
 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 | 2020-12-08 |  |
 | [Last Waltz](https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T) | [Anthony Ventura](https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9) | [Die Schönsten Melodien Der Welt](https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb) | 2:04 | 2020-12-08 | 2022-07-29 |
-| [Last Waltz](https://open.spotify.com/track/1OpaScCsFlq4tihFLEIZhu) | [Anthony Ventura](https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9) | [Romantic Memories](https://open.spotify.com/album/1Q8QtvjE9MDnEsA3D95ZjM) | 2:04 | 2020-12-08 |  |
+| [Last Waltz](https://open.spotify.com/track/1OpaScCsFlq4tihFLEIZhu) | [Anthony Ventura](https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9) | [Romantic Memories](https://open.spotify.com/album/1Q8QtvjE9MDnEsA3D95ZjM) | 2:04 | 2020-12-08 | 2023-03-31 |
 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 | 2020-12-08 |  |
 | [Lazy Bones](https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds In Stereo](https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG) | 2:45 | 2020-12-08 | 2022-07-24 |
 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 | 2020-12-08 | 2022-11-11 |
@@ -171,6 +171,7 @@
 | [Spanish Harlem \- Nuits d'Espagne](https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU), [Françoise Pourcel](https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc) | [Franck Pourcel : Originals, vol\. 8](https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL) | 2:26 | 2020-12-08 |  |
 | [Star Dust](https://open.spotify.com/track/7BjI7zQERip97kvhMKoB72) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:36 | 2020-12-08 | 2022-07-29 |
 | [Star Dust](https://open.spotify.com/track/36JolOfhgRcjujpMuH37Fj) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Colección de Éxitos](https://open.spotify.com/album/6d4jnq3ziyFtQWgUSW2X6y) | 2:37 | 2020-12-08 | 2023-02-27 |
+| [Star Dust](https://open.spotify.com/track/3sseyXc0uWyhngxQxPQA8u) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Colección de Éxitos](https://open.spotify.com/album/5iqRFuoGSCN6glQuBUhBHn) | 2:37 | 2020-12-08 |  |
 | [Stranger In Paradise](https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 3:03 | 2020-12-08 |  |
 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 | 2020-12-08 |  |
 | [The Approaching Storm](https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg) | [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Norwegian Rain](https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B) | 4:53 | 2020-12-08 |  |

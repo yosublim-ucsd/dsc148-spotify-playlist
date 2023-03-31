@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lucho SSJ, Neo Pistea, C.R.O & Obie Wanshot en la casa del Trap de Argentino.",
+  "description": "C.R.O & Duki en la casa del Trap de Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 125142,
       "name": "Barras Bravas Session #1",
       "url": "https://open.spotify.com/track/27Z972CXJhwcelhKuHB7cj"
@@ -1541,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "hARAkiRi",
+        "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169258,
+      "name": "hARAkiRi",
+      "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
+    },
+    {
+      "album": {
         "name": "Hi-C",
         "url": "https://open.spotify.com/album/0a9KLULfJckkXg2Cq5jmpA"
       },
@@ -1806,7 +1828,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 151260,
       "name": "La Renta",
       "url": "https://open.spotify.com/track/0RYMKjy11qYiS22PguDjls"

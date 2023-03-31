@@ -588,7 +588,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 240000,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1MZQzrlsp8Lg4Zo8fBdJJ9"
@@ -768,6 +768,28 @@
       "duration_ms": 176659,
       "name": "For You",
       "url": "https://open.spotify.com/track/5VGRWK6AgM3BifNn5WPsXs"
+    },
+    {
+      "album": {
+        "name": "Free Fall",
+        "url": "https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195729,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA"
     },
     {
       "album": {

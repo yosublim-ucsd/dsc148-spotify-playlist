@@ -1,12 +1,12 @@
 {
   "description": "East Africa Queens in their music bag",
-  "num_followers": 2506,
+  "num_followers": 2512,
   "original_name": "Malkia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzNzY0NywwMDAwMDAwMDZjMzYwYmNjZjljZTEyNmYxYjM3MTdiY2VkYmQxZjQw",
+  "snapshot_id": "MTY4MDIxMzU0MCwwMDAwMDAwMGFlYTdkMDAzN2U0ZTQzNTFjNTM0ZmIwNDVmYzEzYzZk",
   "tracks": [
     {
       "added_at": "2023-01-16 08:15:30",
@@ -27,6 +27,22 @@
       "duration_ms": 135464,
       "name": "Personal",
       "url": "https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Bits & Pieces",
+        "url": "https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY"
+      },
+      "artists": [
+        {
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "I Love You (Nakupenda)",
+      "url": "https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5"
     },
     {
       "added_at": "2023-02-10 14:00:47",
@@ -65,20 +81,24 @@
       "url": "https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ"
     },
     {
-      "added_at": "2022-07-18 11:52:46",
+      "added_at": "2023-03-30 21:59:00",
       "album": {
-        "name": "Bits & Pieces",
-        "url": "https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY"
+        "name": "Mama Ni Mama (feat. Stamina)",
+        "url": "https://open.spotify.com/album/1pTFzkawyvwa9fQ6KR8c2l"
       },
       "artists": [
         {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+          "name": "Maua Sama",
+          "url": "https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2"
+        },
+        {
+          "name": "Stamina",
+          "url": "https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7"
         }
       ],
-      "duration_ms": 264000,
-      "name": "I Love You (Nakupenda)",
-      "url": "https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5"
+      "duration_ms": 233908,
+      "name": "Mama Ni Mama (feat. Stamina)",
+      "url": "https://open.spotify.com/track/3pnbWpwpvO2SFCp0nmxWW2"
     },
     {
       "added_at": "2022-10-13 20:59:00",
@@ -193,22 +213,6 @@
       "url": "https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu"
     },
     {
-      "added_at": "2022-09-29 20:59:00",
-      "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd"
-      },
-      "artists": [
-        {
-          "name": "Bridget Blue",
-          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
-        }
-      ],
-      "duration_ms": 224857,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/5HEEUg2iTaHbHApME7VGJh"
-    },
-    {
       "added_at": "2023-01-27 07:09:05",
       "album": {
         "name": "Go",
@@ -277,22 +281,6 @@
       "url": "https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX"
     },
     {
-      "added_at": "2022-11-17 20:58:00",
-      "album": {
-        "name": "I Have a Dream",
-        "url": "https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 255764,
-      "name": "I Have a Dream",
-      "url": "https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O"
-    },
-    {
       "added_at": "2022-09-01 20:59:00",
       "album": {
         "name": "Ruguru",
@@ -307,6 +295,22 @@
       "duration_ms": 184826,
       "name": "Want It All",
       "url": "https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 217734,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk"
     },
     {
       "added_at": "2022-09-08 20:59:00",
@@ -325,6 +329,38 @@
       "url": "https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s"
     },
     {
+      "added_at": "2022-09-29 20:59:00",
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "duration_ms": 224857,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5HEEUg2iTaHbHApME7VGJh"
+    },
+    {
+      "added_at": "2022-11-17 20:58:00",
+      "album": {
+        "name": "I Have a Dream",
+        "url": "https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 255764,
+      "name": "I Have a Dream",
+      "url": "https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O"
+    },
+    {
       "added_at": "2022-10-27 20:59:00",
       "album": {
         "name": "Mad Man",
@@ -339,22 +375,6 @@
       "duration_ms": 185294,
       "name": "Mad Man",
       "url": "https://open.spotify.com/track/5v8HPYHWaq4qC1OO3WPGQz"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 217734,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk"
     },
     {
       "added_at": "2022-07-29 05:28:20",
@@ -691,6 +711,114 @@
     {
       "added_at": "2022-07-18 11:52:46",
       "album": {
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Effji",
+          "url": "https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Rotate",
+        "url": "https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e"
+      },
+      "artists": [
+        {
+          "name": "Nadia Mukami",
+          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
+        },
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        }
+      ],
+      "duration_ms": 169482,
+      "name": "Rotate",
+      "url": "https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Mama Ntilie",
+        "url": "https://open.spotify.com/album/78X3PS16LknVFjRix2nc9h"
+      },
+      "artists": [
+        {
+          "name": "Shilole",
+          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "Mama Ntilie",
+      "url": "https://open.spotify.com/track/3M52Cys94u7FX3nUww5ITl"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "La La",
+        "url": "https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Mars",
+          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "La La",
+      "url": "https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Ningwetele",
+        "url": "https://open.spotify.com/album/1eBVVYNEjwA6kfBl9M8P4w"
+      },
+      "artists": [
+        {
+          "name": "Dhahabu",
+          "url": "https://open.spotify.com/artist/0C5XE5om2CtR9MwB7F2VlU"
+        }
+      ],
+      "duration_ms": 196954,
+      "name": "Ningwetele",
+      "url": "https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
         "name": "Halichachi",
         "url": "https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb"
       },
@@ -893,22 +1021,6 @@
       "url": "https://open.spotify.com/track/2QW4o0BaprzMjgqO4xsTBX"
     },
     {
-      "added_at": "2022-09-22 20:59:00",
-      "album": {
-        "name": "Mufele",
-        "url": "https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA"
-      },
-      "artists": [
-        {
-          "name": "Angella Katatumba",
-          "url": "https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH"
-        }
-      ],
-      "duration_ms": 141177,
-      "name": "Mufele - Radio Edit",
-      "url": "https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm"
-    },
-    {
       "added_at": "2022-07-18 11:52:46",
       "album": {
         "name": "Where (Has the Time Gone)",
@@ -923,114 +1035,6 @@
       "duration_ms": 142000,
       "name": "Where (Has the Time Gone)",
       "url": "https://open.spotify.com/track/4CD3Mw4RUa5Igh70CWadbo"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "MONEY",
-        "url": "https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony"
-      },
-      "artists": [
-        {
-          "name": "Colossal Music",
-          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
-        },
-        {
-          "name": "Effji",
-          "url": "https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Rotate",
-        "url": "https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e"
-      },
-      "artists": [
-        {
-          "name": "Nadia Mukami",
-          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
-        },
-        {
-          "name": "G Nako",
-          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
-        }
-      ],
-      "duration_ms": 169482,
-      "name": "Rotate",
-      "url": "https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Mama Ntilie",
-        "url": "https://open.spotify.com/album/78X3PS16LknVFjRix2nc9h"
-      },
-      "artists": [
-        {
-          "name": "Shilole",
-          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "Mama Ntilie",
-      "url": "https://open.spotify.com/track/3M52Cys94u7FX3nUww5ITl"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "La La",
-        "url": "https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg"
-      },
-      "artists": [
-        {
-          "name": "Mimi Mars",
-          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "La La",
-      "url": "https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Ningwetele",
-        "url": "https://open.spotify.com/album/1eBVVYNEjwA6kfBl9M8P4w"
-      },
-      "artists": [
-        {
-          "name": "Dhahabu",
-          "url": "https://open.spotify.com/artist/0C5XE5om2CtR9MwB7F2VlU"
-        }
-      ],
-      "duration_ms": 196954,
-      "name": "Ningwetele",
-      "url": "https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef"
-      },
-      "artists": [
-        {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk"
     }
   ],
   "unique_name": "Malkia",

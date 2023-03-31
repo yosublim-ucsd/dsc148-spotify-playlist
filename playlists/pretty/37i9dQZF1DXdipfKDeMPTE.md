@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,913 likes - 210 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,964 likes - 210 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 47 | [So You've Got Seven Senses Too](https://open.spotify.com/track/4pWopOqETjZAYrPhRH20Mr) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [So You've Got Seven Senses Too](https://open.spotify.com/album/0SNOubmHyl7t3UwreDt7wZ) | 2:51 |
 | 48 | [Not Your Fault](https://open.spotify.com/track/0TS96G5W7gGGGgj9bnllhR) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Not Your Fault](https://open.spotify.com/album/2XR9LVtLFAoUecxJX256wa) | 2:27 |
 | 49 | [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 |
-| 50 | [Jazz Love](https://open.spotify.com/track/1bHOz0yyZvAapjxJOrWO3x) | [Lost Name](https://open.spotify.com/artist/1HSPc1HNJLIMsNBFBtIpUa), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR) | [Jazz Love](https://open.spotify.com/album/5R9sUoJ4H14EEzolLKbnI9) | 2:30 |
+| 50 | [Jazz Love](https://open.spotify.com/track/1bHOz0yyZvAapjxJOrWO3x) | [Lost Name](https://open.spotify.com/artist/1HSPc1HNJLIMsNBFBtIpUa), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [the moon is ours](https://open.spotify.com/album/5R9sUoJ4H14EEzolLKbnI9) | 2:30 |
 | 51 | [Swanky](https://open.spotify.com/track/0e0xXMD45kb4aJWrTBRTZ4) | [Maravilho5a](https://open.spotify.com/artist/13HgpUbnhaZEQvRTtijJiS) | [Swanky](https://open.spotify.com/album/1xg4Zte2w2Ub9Re7tLpLRV) | 2:03 |
 | 52 | [25oct](https://open.spotify.com/track/5CZjfDoBL0k1L8BZqPceNP) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [25oct](https://open.spotify.com/album/0MLY8q1Fwclkyau3TpCCh1) | 2:03 |
 | 53 | [time off](https://open.spotify.com/track/0kYT2AkKMQpZsPa4UWMyAa) | [Sippo](https://open.spotify.com/artist/6Ifp89Y7k7akjnLdD83G0c) | [time off](https://open.spotify.com/album/0iUdYeVNVEXJVIvciIDEbc) | 2:42 |

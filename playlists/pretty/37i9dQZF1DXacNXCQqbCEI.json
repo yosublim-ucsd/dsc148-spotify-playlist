@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 340680,
+  "num_followers": 340773,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMGI5OWQ4ZDYwMmUxNjdmZTljYzZiYTM3NzY1MjFmMjU0",
+  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMDMwZDRjZDdkOGU3YmRlZGQ1ZGQ5ZWZjNjVkYjI2M2M2",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Balnear",
+        "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 213386,
+      "name": "Solitario",
+      "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Ramas",
         "url": "https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 400826,
       "name": "Nevar",
       "url": "https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Balnear",
-        "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Solitario",
-      "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Desesperanza",
+        "url": "https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Salsa Caliente (Versi\u00f3n Aumentada)",
+      "url": "https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "La Tercera Vision",
         "url": "https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Desesperanza",
-        "url": "https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Salsa Caliente (Versi\u00f3n Aumentada)",
-      "url": "https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
       "artists": [
         {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
         }
       ],
-      "duration_ms": 231346,
-      "name": "Sendero del Monte",
-      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
       },
       "artists": [
         {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
         }
       ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
+      "duration_ms": 231346,
+      "name": "Sendero del Monte",
+      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

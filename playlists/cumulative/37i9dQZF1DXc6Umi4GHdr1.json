@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Sweet Portrait",
+        "url": "https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl"
+      },
+      "artists": [
+        {
+          "name": "Adone Alleva",
+          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "A Sweet Portrait",
+      "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
+    },
+    {
+      "album": {
         "name": "Airstream",
         "url": "https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16"
       },
@@ -575,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Clouded Reflection",
+        "url": "https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge"
+      },
+      "artists": [
+        {
+          "name": "Mia Pandosa",
+          "url": "https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Clouded Reflection",
+      "url": "https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii"
+    },
+    {
+      "album": {
         "name": "Simple Guitar Classics",
         "url": "https://open.spotify.com/album/67AHA6cXLgJRX7WgLbp1Ma"
       },
@@ -640,7 +676,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 87268,
       "name": "Cumulus",
       "url": "https://open.spotify.com/track/5Ykw2B7qy8ziuYPq6GhsgR"
@@ -680,6 +716,24 @@
       "duration_ms": 173999,
       "name": "Cuyutlan",
       "url": "https://open.spotify.com/track/451zGCNVAnPGS9Nv7PI8yQ"
+    },
+    {
+      "album": {
+        "name": "Dandelion wishes",
+        "url": "https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq"
+      },
+      "artists": [
+        {
+          "name": "Aveline Bisset",
+          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149074,
+      "name": "Dandelion wishes",
+      "url": "https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4"
     },
     {
       "album": {
@@ -730,7 +784,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 155017,
       "name": "Depending on who?",
       "url": "https://open.spotify.com/track/6HdiridEw4dd3ry3YIi8bW"
@@ -784,7 +838,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 241592,
       "name": "die Tulpe",
       "url": "https://open.spotify.com/track/2lxdP9tH5uCkKXJi8MfxpK"
@@ -1180,7 +1234,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 144054,
       "name": "Gone to seed",
       "url": "https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN"
@@ -1439,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Inside the stone",
+        "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
+      },
+      "artists": [
+        {
+          "name": "lili may",
+          "url": "https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124034,
+      "name": "Inside the stone",
+      "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
+    },
+    {
+      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/3Fj1XxYEFoqgXMP2JalxB8"
       },
@@ -1508,6 +1580,24 @@
       "duration_ms": 134466,
       "name": "Junto Contigo",
       "url": "https://open.spotify.com/track/5Hb0hG9ulwZBV7FuTnQMia"
+    },
+    {
+      "album": {
+        "name": "Keep On Moving",
+        "url": "https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9"
+      },
+      "artists": [
+        {
+          "name": "Michael Blaese",
+          "url": "https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96283,
+      "name": "Keep On Moving",
+      "url": "https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl"
     },
     {
       "album": {
@@ -2034,7 +2124,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 185658,
       "name": "Old Harbor Road",
       "url": "https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5"
@@ -2643,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138336,
+      "name": "Spring has sprung",
+      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
+    },
+    {
+      "album": {
         "name": "Polarlicht",
         "url": "https://open.spotify.com/album/58l5dLoV97z5mL6DBTPFVD"
       },
@@ -2931,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Those Nights",
+        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
+      },
+      "artists": [
+        {
+          "name": "Carla Rego",
+          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153979,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
+    },
+    {
+      "album": {
         "name": "Veil Waltz",
         "url": "https://open.spotify.com/album/6u7QsDt1OyTk6W29X8PNwr"
       },
@@ -3166,7 +3292,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 138991,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/2iRhWAN9jmQSb43ucKRiJJ"
@@ -3368,6 +3494,24 @@
       "duration_ms": 169921,
       "name": "Wonder's Pyre",
       "url": "https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151308,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/27DodeB1seENJxnWojPa6G"
     },
     {
       "album": {

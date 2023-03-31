@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg?si=L_TnsUhcTqutcsEV8Hpphg\">Merly Paige</a> ",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ?si=NFcKn9ptSQKDrBpayJhFQw\">Mutoriah</a> ",
   "name": "NairoBae",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 133833,
       "name": "I Love the Way You",
       "url": "https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 149690,
       "name": "sorry it didn't work out",
       "url": "https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk"
@@ -2276,6 +2276,24 @@
       "duration_ms": 148557,
       "name": "We're Made For Each Other",
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
+    },
+    {
+      "album": {
+        "name": "Wendo Mwaki - From Un-Adult-Erated",
+        "url": "https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM"
+      },
+      "artists": [
+        {
+          "name": "Tuku Kantu",
+          "url": "https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216172,
+      "name": "Wendo Mwaki - From Un-Adult-Erated",
+      "url": "https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Matteo Paolillo, Clara",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Angelina Mango",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Adamo ed Eva",
+        "url": "https://open.spotify.com/album/13HHOcO46qy5QQGjPSphmv"
+      },
+      "artists": [
+        {
+          "name": "Luigi Strangis",
+          "url": "https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153623,
+      "name": "Adamo ed Eva",
+      "url": "https://open.spotify.com/track/00LyduMgp60uZIvQXCQxr5"
+    },
+    {
+      "album": {
         "name": "Amore Bianco",
         "url": "https://open.spotify.com/album/53ouXegw7U2gjuMsl0jnqg"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 141573,
       "name": "Amore Bianco",
       "url": "https://open.spotify.com/track/7omuQEx0gZX4TjXKX58AGl"
@@ -310,7 +328,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 179711,
       "name": "Cuori di ghiaccio",
       "url": "https://open.spotify.com/track/33D5qp6MGqApwcSja17gE1"
@@ -350,10 +368,50 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 152000,
       "name": "Dove nessuno vede",
       "url": "https://open.spotify.com/track/6XvZ60jz3PeN2PwT31A1oC"
+    },
+    {
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1x7yiMfx90DawzXL0sqhZi"
+      },
+      "artists": [
+        {
+          "name": "MURWI",
+          "url": "https://open.spotify.com/artist/74Xc17AXn5iG9hWakDfZ4d"
+        },
+        {
+          "name": "JWar",
+          "url": "https://open.spotify.com/artist/0qAbbuu4T1Kq9r3gweW2ZC"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116766,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5g4T5isfIVXluT1waVljLv"
+    },
+    {
+      "album": {
+        "name": "Estraneo",
+        "url": "https://open.spotify.com/album/4hL9eA22EURbXWfHXGdqvD"
+      },
+      "artists": [
+        {
+          "name": "GrenBaud",
+          "url": "https://open.spotify.com/artist/1WPIzvlZTvCY0A1LmN0LvS"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "Estraneo",
+      "url": "https://open.spotify.com/track/13Wmt3VHXrShqgB4uMlEjO"
     },
     {
       "album": {
@@ -462,7 +520,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 162997,
       "name": "Gran Finale",
       "url": "https://open.spotify.com/track/5elZw9mtjjPsXc4ukn3XeH"
@@ -716,7 +774,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 191024,
       "name": "Maldit\u00e8",
       "url": "https://open.spotify.com/track/5g65Enzok3y36EZyb0hjo4"
@@ -1107,6 +1165,32 @@
     },
     {
       "album": {
+        "name": "Passatempo",
+        "url": "https://open.spotify.com/album/49usaRKGtRl621DLOE3qGv"
+      },
+      "artists": [
+        {
+          "name": "Bori",
+          "url": "https://open.spotify.com/artist/6tBad4O8C3Id2gde3eWanf"
+        },
+        {
+          "name": "Ethos",
+          "url": "https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177534,
+      "name": "Passatempo",
+      "url": "https://open.spotify.com/track/1AbZOYo9Dmi2uLpg1ZhVl4"
+    },
+    {
+      "album": {
         "name": "Pensando a lei",
         "url": "https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn"
       },
@@ -1354,7 +1438,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 152931,
       "name": "Sottoterra",
       "url": "https://open.spotify.com/track/5DxNp6C2ft0DA8bqcIgDeB"
@@ -1426,7 +1510,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 202500,
       "name": "Tatuaggi",
       "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
@@ -1444,7 +1528,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 171050,
       "name": "Tutta La Vita",
       "url": "https://open.spotify.com/track/4BbZIc6WR5i2osyiVWLFzn"

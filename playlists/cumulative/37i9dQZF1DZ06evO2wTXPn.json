@@ -240,6 +240,24 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208300,
+      "name": "Kapitel 1.2 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/4DgfaBr9C1HT3isZcVDaN2"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -278,7 +296,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 274200,
       "name": "Kapitel 3.2 - Kurt 3. Ein Horn \u2013 eine Mission",
       "url": "https://open.spotify.com/track/7prZIfKOmh3he01CQT1IR5"

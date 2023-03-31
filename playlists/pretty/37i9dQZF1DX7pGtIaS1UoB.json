@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 88920,
+  "num_followers": 88936,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTg5MDI4NCwwMDAwMDAwMDIwNjkyMDgwMDY2ZjAyNWNjZjFiZjhiMjA5ODk1ZTE3",
+  "snapshot_id": "MTY3OTg5MDI4NCwwMDAwMDAwMGZiZmRhNjIwMzA2ZGFhNGUxZWEyYTJjODBmMTc2NDVm",
   "tracks": [
     {
       "added_at": "2023-03-20 07:17:17",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
+        "name": "\u8881\u8a60\u7433Cindy",
+        "url": "https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP"
+      },
+      "artists": [
+        {
+          "name": "Cindy Yen",
+          "url": "https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR"
+        },
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "\u756b\u6c99",
+      "url": "https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u"
+    },
+    {
+      "added_at": "2023-03-20 07:17:17",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 224520,
       "name": "Thoughts Of You (Feat. pH-1 & BENZO)",
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
-    },
-    {
-      "added_at": "2023-03-20 07:17:17",
-      "album": {
-        "name": "\u8881\u8a60\u7433Cindy",
-        "url": "https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP"
-      },
-      "artists": [
-        {
-          "name": "Cindy Yen",
-          "url": "https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR"
-        },
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "\u756b\u6c99",
-      "url": "https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u"
     },
     {
       "added_at": "2023-03-20 07:17:17",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
-        "name": "\u5206\u4f60\u4e00\u534a",
-        "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
-      },
-      "artists": [
-        {
-          "name": "\u53f6\u6068\u6c34",
-          "url": "https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD"
-        }
-      ],
-      "duration_ms": 199691,
-      "name": "\u5206\u4f60\u4e00\u534a",
-      "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
-    },
-    {
-      "added_at": "2023-03-20 07:17:17",
-      "album": {
         "name": "Till We Fall in Love",
         "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 191365,
       "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
       "url": "https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG"
+    },
+    {
+      "added_at": "2023-03-20 07:17:17",
+      "album": {
+        "name": "\u5206\u4f60\u4e00\u534a",
+        "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
+      },
+      "artists": [
+        {
+          "name": "\u53f6\u6068\u6c34",
+          "url": "https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD"
+        }
+      ],
+      "duration_ms": 199691,
+      "name": "\u5206\u4f60\u4e00\u534a",
+      "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
     },
     {
       "added_at": "2023-03-20 07:17:17",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
-        "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
-        "url": "https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i"
+        "name": "\u8aaa\u4f60\u9858\u610f",
+        "url": "https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl"
       },
       "artists": [
         {
-          "name": "\u6d0b\u8525",
-          "url": "https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw"
+          "name": "\u5289\u5b78\u752b",
+          "url": "https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH"
+        },
+        {
+          "name": "\u9ec3\u79b9\u83e1",
+          "url": "https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2"
         }
       ],
-      "duration_ms": 228169,
-      "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
-      "url": "https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ"
+      "duration_ms": 229638,
+      "name": "\u8aaa\u4f60\u9858\u610f",
+      "url": "https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC"
     },
     {
       "added_at": "2023-03-20 07:17:17",
@@ -1179,6 +1183,22 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
+        "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
+        "url": "https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i"
+      },
+      "artists": [
+        {
+          "name": "\u6d0b\u8525",
+          "url": "https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw"
+        }
+      ],
+      "duration_ms": 228169,
+      "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
+      "url": "https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ"
+    },
+    {
+      "added_at": "2023-03-20 07:17:17",
+      "album": {
         "name": "\u9047\u5230\u4f60 (\u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u7247\u982d\u66f2)",
         "url": "https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 245527,
       "name": "\u9047\u5230\u4f60 - \u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi"
-    },
-    {
-      "added_at": "2023-03-20 07:17:17",
-      "album": {
-        "name": "\u8aaa\u4f60\u9858\u610f",
-        "url": "https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl"
-      },
-      "artists": [
-        {
-          "name": "\u5289\u5b78\u752b",
-          "url": "https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH"
-        },
-        {
-          "name": "\u9ec3\u79b9\u83e1",
-          "url": "https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2"
-        }
-      ],
-      "duration_ms": 229638,
-      "name": "\u8aaa\u4f60\u9858\u610f",
-      "url": "https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC"
     },
     {
       "added_at": "2023-03-20 07:17:17",

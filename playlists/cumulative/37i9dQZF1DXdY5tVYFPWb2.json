@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Baby So in Love",
+        "url": "https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO"
+      },
+      "artists": [
+        {
+          "name": "Cantaro Ihara",
+          "url": "https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223469,
+      "name": "Baby So in Love",
+      "url": "https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK"
+    },
+    {
+      "album": {
         "name": "Back To You (feat. Millie Snow, Nenashi)",
         "url": "https://open.spotify.com/album/4JlQtHVVjXZdm68BDDi72q"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 207017,
       "name": "Be With You (feat. Ai Furihata)",
       "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
@@ -2713,6 +2731,28 @@
     },
     {
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
+      },
+      "artists": [
+        {
+          "name": "Funkindustry",
+          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
+        },
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254929,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
+    },
+    {
+      "album": {
         "name": "lostpeople",
         "url": "https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P"
       },
@@ -3258,7 +3298,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 226933,
       "name": "Moonset",
       "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"

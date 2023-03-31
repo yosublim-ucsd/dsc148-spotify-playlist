@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. A Winged Victory For The Sullen on cover.
 
-978 songs - 3 day 7 hr 15 min
+979 songs - 3 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Entropy: Acquiescence](https://open.spotify.com/track/4pTrgmYIYCRvZBIsdyNgnN) | [Esmerine](https://open.spotify.com/artist/1uXKQUZkkDAQ89OPXLMtw2) | [Everything Was Forever Until It Was No More](https://open.spotify.com/album/5B0128D2K1htOCWOibAXnm) | 5:23 | 2022-09-02 | 2022-09-17 |
 | [Ephemera](https://open.spotify.com/track/0lPuVl7IOARj1HFFL5t5yK) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [Ephemera](https://open.spotify.com/album/3aCr59wGtaSDunfN6J0PPF) | 2:58 | 2022-09-02 | 2022-09-17 |
 | [Epilogo](https://open.spotify.com/track/41vNN3r7UWsyLWGSwJQR5W) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 2:28 | 2022-12-31 | 2023-03-04 |
-| [Epilogue](https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Epilogue](https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4) | 4:09 | 2021-12-24 |  |
+| [Epilogue](https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Epilogue](https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4) | 4:09 | 2021-12-24 | 2023-03-31 |
 | [equinox\_](https://open.spotify.com/track/2CStwkvdHND22uiZ0U11WZ) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [dark\_2](https://open.spotify.com/album/5RaaBAphojbpJusuLNsOY9) | 4:10 | 2022-08-03 | 2023-02-22 |
 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ) | 4:27 | 2022-07-01 |  |
 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/6MpiBJNEoqRTLVapGwvgSc) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/69jp6YlrX8mxw26mbOuOpu) | 4:27 | 2021-12-24 | 2022-07-28 |
@@ -317,6 +317,7 @@
 | [Field II: Slow Drift](https://open.spotify.com/track/3cjnEKxxZ1pkwTreGNwFYj) | [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY), [Susie Ibarra](https://open.spotify.com/artist/1Ub2G3ThYqXfRGFI0XSakJ) | [Field II: Slow Drift](https://open.spotify.com/album/24TEyfkCTtVjHe7Vt4wjbM) | 5:30 | 2022-07-15 | 2023-03-04 |
 | [figure profane](https://open.spotify.com/track/3CmF9a64mHs8YI16JUdLro) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Zach Frampton](https://open.spotify.com/artist/7FpvWkmacEAy2mmeCA0yLr) | [bt002 : self hypnosis tape](https://open.spotify.com/album/48NmaNltuqYFPoTDmBNG7L) | 4:23 | 2022-11-30 | 2023-03-04 |
 | [figure profane](https://open.spotify.com/track/5eibZ6ynR9JNS40QmSstwc) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Zach Frampton](https://open.spotify.com/artist/7FpvWkmacEAy2mmeCA0yLr) | [figure profane](https://open.spotify.com/album/60nhWK5jV15FUKzhwff7J5) | 4:23 | 2022-02-18 | 2022-07-29 |
+| [Fin août, début septembre](https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [Afterpoem](https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl) | 1:58 | 2023-03-24 |  |
 | [Final Fantasy](https://open.spotify.com/track/6lCbVN8BFh93MQUhxHZLRp) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Ivory Tower](https://open.spotify.com/album/4uGI1z8W7geencALUaykEm) | 5:41 | 2022-04-08 | 2022-04-15 |
 | [Find Our Way \(Arr\. Clements\)](https://open.spotify.com/track/0surAOdlCORVWoKRg2V6ef) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Gabriella Swallow](https://open.spotify.com/artist/6AwvMaVqPLCm4wOjmq2WFT) | [Infinity](https://open.spotify.com/album/74eIgzLtcbJVr4NIajGzrb) | 3:47 | 2022-07-01 | 2023-03-04 |
 | [Find Our Way \(Arr\. Clements\)](https://open.spotify.com/track/3atb5tysYdX4HDlUMYtxls) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Gabriella Swallow](https://open.spotify.com/artist/6AwvMaVqPLCm4wOjmq2WFT) | [Find Our Way \(Arr\. Clements\)](https://open.spotify.com/album/6QRNSf00FvarbgoBBs7xk5) | 3:47 | 2021-12-24 | 2022-07-28 |

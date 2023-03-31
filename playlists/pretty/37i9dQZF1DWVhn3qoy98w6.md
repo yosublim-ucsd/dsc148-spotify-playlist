@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: yavy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,951 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,959 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 17 | [Con tus manos](https://open.spotify.com/track/5t14YQKv7Qv6EEe0BHxiDn) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [Con tus manos](https://open.spotify.com/album/4lC2woIOgiD2mlss3Odg8f) | 3:24 |
 | 18 | [Com vols que no ho vegi?](https://open.spotify.com/track/3ytdIOClomGcwwyohbeAac) | [MTINES](https://open.spotify.com/artist/76lAr4DMu57YZufBZpdEP4), [David Caraben](https://open.spotify.com/artist/5i8z7MFyBfPxaYusQuGTaT) | [Com vols que no ho vegi?](https://open.spotify.com/album/4ATdcvjW071WXBZHZzleph) | 2:56 |
 | 19 | [Déjame Durmiendo](https://open.spotify.com/track/33JfaEXrpW4dLw2H9uomt4) | [Carlota](https://open.spotify.com/artist/7ieDG7FO3bPWJyP7EDYLvH) | [Déjame Durmiendo](https://open.spotify.com/album/6x9pA60ro0YhrzFTeNp3OD) | 4:23 |
-| 20 | [Haatik](https://open.spotify.com/track/6cJDwTWorgNLU1ClRGuXMF) | [Eraul](https://open.spotify.com/artist/2SPXikxmX8BAvER7ipD37W) | [Haatik](https://open.spotify.com/album/0mXUgid689DTRfEx7UaiaE) | 5:28 |
+| 20 | [Haatik behera](https://open.spotify.com/track/6cJDwTWorgNLU1ClRGuXMF) | [Eraul](https://open.spotify.com/artist/2SPXikxmX8BAvER7ipD37W), [Mugan](https://open.spotify.com/artist/4cXuaFtSjKY8seF9XO9qZs) | [Haatik behera](https://open.spotify.com/album/0mXUgid689DTRfEx7UaiaE) | 5:28 |
 | 21 | [Rivotril](https://open.spotify.com/track/0FQh1ipsFB9PSB7mvGfwjx) | [Net bby](https://open.spotify.com/artist/11fgFOTgPYdYKFPLGsmL4v), [GZK REY](https://open.spotify.com/artist/6FsxtxaO4w6B4aAfvWNJLg) | [Rivotril](https://open.spotify.com/album/5jAKq1wC6g9AxfknepAs4h) | 2:30 |
 | 22 | [BBB](https://open.spotify.com/track/0W03I7UffZ4fe9WnC3QeKx) | [Alma Costa](https://open.spotify.com/artist/2scDHe6M2IHethncQggfw4) | [BBB](https://open.spotify.com/album/4NUWB3diqVE3U6il3iA08x) | 2:57 |
 | 23 | [Licor Café](https://open.spotify.com/track/6TEWf6pIQ8KsSaVIb5jt7Z) | [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6), [Pili Pampín](https://open.spotify.com/artist/5ihu630LQsw9RF9pR5lrnh) | [Licor Café](https://open.spotify.com/album/0DdupfVb3kJJDvrTDdWaqu) | 4:30 |

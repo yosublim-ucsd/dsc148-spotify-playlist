@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,426 likes - 206 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,591 likes - 206 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 |
-| 2 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 |
-| 3 | [Stuff We Did \(from "Up"\)](https://open.spotify.com/track/7iZnEeSfrwAlAESBw62SL8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Stuff We Did \(from "Up"\)](https://open.spotify.com/album/30s8i8n6SXEM5w5w1DiKlp) | 2:12 |
+| 1 | [Stuff We Did \(from "Up"\)](https://open.spotify.com/track/7iZnEeSfrwAlAESBw62SL8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Stuff We Did \(from "Up"\)](https://open.spotify.com/album/30s8i8n6SXEM5w5w1DiKlp) | 2:12 |
+| 2 | [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 |
+| 3 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 |
 | 4 | [Wordless](https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Songs From Home](https://open.spotify.com/album/54VCz99ZaV868ym0fbKyDI) | 1:51 |
 | 5 | [Sincero](https://open.spotify.com/track/2Vvwncoakogkxiq9HQCfFn) | [Isidret](https://open.spotify.com/artist/15fWBJeHIPIGbepQRrmISq) | [Sincero](https://open.spotify.com/album/31IAQeGcnIUlhKpk16mSmx) | 2:38 |
 | 6 | [Valse Remuer](https://open.spotify.com/track/6uRgwV28hxPxLEr7nclFQs) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Valse Remuer](https://open.spotify.com/album/4XrIP9bYg4Pd0RNxIJaTqX) | 2:15 |
 | 7 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 |
-| 8 | [Experience \- Solo Piano](https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Experience \(Solo Piano\)](https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom) | 5:07 |
-| 9 | [Scheme of Things](https://open.spotify.com/track/0Tkda9INoI8yK8YDWitmqK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Scheme of Things](https://open.spotify.com/album/1H6USCW27B3FQ14QlQaTob) | 2:36 |
-| 10 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 |
-| 11 | [Lentement](https://open.spotify.com/track/5IsR52IBI6AWGxcmx0dj83) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lentement](https://open.spotify.com/album/68s563Nh1u4VTolbnEzPm7) | 2:11 |
-| 12 | [Mitt lilla barn](https://open.spotify.com/track/0jN75qBVKAWZqhxOXKyQB5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [Mitt lilla barn](https://open.spotify.com/album/3J1K85VQ4M2qKZpmBxwxuY) | 1:19 |
+| 8 | [Scheme of Things](https://open.spotify.com/track/0Tkda9INoI8yK8YDWitmqK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Scheme of Things](https://open.spotify.com/album/1H6USCW27B3FQ14QlQaTob) | 2:36 |
+| 9 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 |
+| 10 | [Lentement](https://open.spotify.com/track/5IsR52IBI6AWGxcmx0dj83) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lentement](https://open.spotify.com/album/68s563Nh1u4VTolbnEzPm7) | 2:11 |
+| 11 | [Mitt lilla barn](https://open.spotify.com/track/0jN75qBVKAWZqhxOXKyQB5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [Mitt lilla barn](https://open.spotify.com/album/3J1K85VQ4M2qKZpmBxwxuY) | 1:19 |
+| 12 | [Experience \- Solo Piano](https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Experience \(Solo Piano\)](https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom) | 5:07 |
 | 13 | [Let the water in](https://open.spotify.com/track/38Hqdf7CgUrEnCO6DMqCPv) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Never ending Grace](https://open.spotify.com/album/6rCQs9lo5svYnmXkIBcV4y) | 2:53 |
 | 14 | [Momentum](https://open.spotify.com/track/3yvKMfTf8vmUGm1tpJhl6k) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Momentum](https://open.spotify.com/album/5SlfPOZfk4Tc339US9TKOX) | 3:06 |
 | 15 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 205 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 |
 | 206 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 |
 
-Snapshot ID: `MTY3OTQ4MzkzOCwwMDAwMDAwMDBiODczNjIxNmZjNWExZjRjYzhiOWI1YjM2YzdkN2Ri`
+Snapshot ID: `MTY4MDE2NTUzMSwwMDAwMDAwMDY0YTk3MDJiYzJiNThmYjFlYWQyN2ZlYmU4MzQ3Nzk1`

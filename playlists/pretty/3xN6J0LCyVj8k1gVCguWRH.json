@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDM2Nyw2NDM4ZjRjNmY5ZDJlZTJmYmYwYjVhNjg0NmMwNzYyYTcxZTU0OWNm",
+  "snapshot_id": "NDM3Nyw0ZDdlMDEwODkzYmFhNzFkOTlhZTNkN2M3NDM3MzgzODAzNmIwYWJl",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -1125,6 +1125,118 @@
       "url": "https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ"
     },
     {
+      "added_at": "2023-03-31 00:06:58",
+      "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/0XseSST8lYmMLucFMFPTWN"
+      },
+      "artists": [
+        {
+          "name": "Natalie Claro",
+          "url": "https://open.spotify.com/artist/6A0AOpJ7VsZvimYUSbE1Iw"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/3o6qjtaCLvfvmbOwBADtQA"
+    },
+    {
+      "added_at": "2023-03-31 00:07:32",
+      "album": {
+        "name": "Being Somewhere",
+        "url": "https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "All Roads",
+      "url": "https://open.spotify.com/track/44xH5512eqePvkF2yfmYyD"
+    },
+    {
+      "added_at": "2023-03-31 00:07:59",
+      "album": {
+        "name": "With The Winds of Change",
+        "url": "https://open.spotify.com/album/3KRYsVeDEfvqCzhyXKpGIy"
+      },
+      "artists": [
+        {
+          "name": "Justin Wade Tam",
+          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
+        }
+      ],
+      "duration_ms": 212596,
+      "name": "With The Winds of Change",
+      "url": "https://open.spotify.com/track/7MduS4nv4lLVLEOxtqtfVm"
+    },
+    {
+      "added_at": "2023-03-31 00:08:21",
+      "album": {
+        "name": "You Don't Wanna Leave it Alone",
+        "url": "https://open.spotify.com/album/0QIIAR2Ko4vEfb0kNjaQIg"
+      },
+      "artists": [
+        {
+          "name": "J.E. Sunde",
+          "url": "https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW"
+        }
+      ],
+      "duration_ms": 182622,
+      "name": "You Don't Wanna Leave it Alone",
+      "url": "https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd"
+    },
+    {
+      "added_at": "2023-03-31 00:08:10",
+      "album": {
+        "name": "GAULTIER",
+        "url": "https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "duration_ms": 147056,
+      "name": "gon b ok",
+      "url": "https://open.spotify.com/track/1dcembjwS2VVRpX1uMkAKz"
+    },
+    {
+      "added_at": "2023-03-31 00:08:40",
+      "album": {
+        "name": "GAULTIER",
+        "url": "https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "duration_ms": 116371,
+      "name": "as i walk thru the path",
+      "url": "https://open.spotify.com/track/1D7jqFLEVZGqpm4yPgxLnp"
+    },
+    {
+      "added_at": "2023-03-31 00:07:45",
+      "album": {
+        "name": "Vitamin D (All Out)",
+        "url": "https://open.spotify.com/album/6TvKXVUmdX78rAql1lhYQv"
+      },
+      "artists": [
+        {
+          "name": "Paul Aston",
+          "url": "https://open.spotify.com/artist/7DChIuFHcpHtuBYAVOgm5x"
+        }
+      ],
+      "duration_ms": 250430,
+      "name": "Vitamin D (All Out)",
+      "url": "https://open.spotify.com/track/4Ip6XHE0xgoAYuAH4UMZn0"
+    },
+    {
       "added_at": "2021-07-11 05:29:36",
       "album": {
         "name": "Vulture Prince",
@@ -1139,6 +1251,22 @@
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/60cSWYNM5yRdtK3eokivjI"
+    },
+    {
+      "added_at": "2023-03-31 00:06:32",
+      "album": {
+        "name": "Stand Clear Of The Closing Doors",
+        "url": "https://open.spotify.com/album/5hSgeQrnmCCv5s7LSNlVrP"
+      },
+      "artists": [
+        {
+          "name": "Brian Dunne",
+          "url": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V"
+        }
+      ],
+      "duration_ms": 277525,
+      "name": "Stand Clear Of The Closing Doors",
+      "url": "https://open.spotify.com/track/2PWBk4JVbNzKYnYU6llOXf"
     },
     {
       "added_at": "2021-07-11 05:30:01",
@@ -2129,26 +2257,6 @@
       "url": "https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS"
     },
     {
-      "added_at": "2023-03-06 00:31:34",
-      "album": {
-        "name": "ALWAYS NOWHERE",
-        "url": "https://open.spotify.com/album/2uBcHRyXm7tITq6MKWXoqM"
-      },
-      "artists": [
-        {
-          "name": "DESTROY BORING",
-          "url": "https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ"
-        },
-        {
-          "name": "Belis",
-          "url": "https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD"
-        }
-      ],
-      "duration_ms": 115087,
-      "name": "ALWAYS NOWHERE",
-      "url": "https://open.spotify.com/track/0yzb7gPnOMuTI1hR8JqfEa"
-    },
-    {
       "added_at": "2023-03-09 00:13:43",
       "album": {
         "name": "Moves Like Shakira",
@@ -2251,6 +2359,22 @@
       "duration_ms": 227359,
       "name": "Laundry List",
       "url": "https://open.spotify.com/track/4nj0yUKpDNzF1UdfFXJmUP"
+    },
+    {
+      "added_at": "2023-03-31 00:08:58",
+      "album": {
+        "name": "She Drives Me Crazy",
+        "url": "https://open.spotify.com/album/2Ca28DdAUWugKuSklGjY20"
+      },
+      "artists": [
+        {
+          "name": "Andrew Spencer",
+          "url": "https://open.spotify.com/artist/1EjddlgoBT9qmrqLdPbCTx"
+        }
+      ],
+      "duration_ms": 175415,
+      "name": "She Drives Me Crazy - Radio Edit",
+      "url": "https://open.spotify.com/track/11hc1HDx0Lvi6fvMVBHmid"
     },
     {
       "added_at": "2023-03-10 17:52:09",

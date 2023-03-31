@@ -4,11 +4,12 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-127 songs - 6 hr 20 min
+129 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Slow Unfolding](https://open.spotify.com/track/283CXTP5kLLRC91U8TVOtH) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [A Slow Unfolding](https://open.spotify.com/album/4QV9wjpvDo6h8VlzxbSJxZ) | 2:33 | 2022-10-28 |  |
+| [Above the Clouds](https://open.spotify.com/track/0boDpcoqP7wFTvWgJvGstQ) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [Above the Clouds](https://open.spotify.com/album/5n2i7fgVD8Uplf0twma7b8) | 3:04 | 2023-03-31 |  |
 | [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 | 2022-07-15 |
 | [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 | 2022-05-13 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2023-03-10 |  |
@@ -19,6 +20,7 @@
 | [Boy Meets World](https://open.spotify.com/track/0r049w4eKLL1dEdZ6xZJYZ) | [Ladderbreak](https://open.spotify.com/artist/0GxMDb96WYvDodwqMfeSwe) | [Cerro](https://open.spotify.com/album/0kXdiTfDJNzAqefh5NBFQy) | 3:41 | 2022-05-13 |  |
 | [Breakups Are Hard](https://open.spotify.com/track/2xJuvHrr1OgDAkIxL6klv5) | [Pink Halcyon](https://open.spotify.com/artist/02YzIekYco9IxU1HZuVg0C) | [Breakups Are Hard](https://open.spotify.com/album/2cRJ1TWmG6e7cU91md5ymn) | 2:16 | 2022-05-13 |  |
 | [Breezy](https://open.spotify.com/track/5ufwUZ3FqWHHWEnjO0wBXf) | [Richie Kruz](https://open.spotify.com/artist/1ulbjpM1Xqulg1o3sIhIH5) | [Breezy](https://open.spotify.com/album/3IaLEX2CgHRSci1W90e0Pq) | 2:54 | 2022-05-13 |  |
+| [Bridges](https://open.spotify.com/track/4ojVtI82vjDG9gBEE29YBb) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Bridges](https://open.spotify.com/album/03LUEUMI3thF8Hqol2MAOE) | 2:45 | 2023-03-31 |  |
 | [Butterfly Baby \- Guitar](https://open.spotify.com/track/1GjZZjRXRKGHwpoNwcg7yH) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Wishful Thinking & Butterfly Baby](https://open.spotify.com/album/3WjqToFMhrS3yM13dpgN5o) | 2:39 | 2022-05-13 |  |
 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 | 2022-05-13 |  |
 | [Celestial Nights](https://open.spotify.com/track/6eDxJgFXQwHuLim99j0yRM) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Celestial Nights](https://open.spotify.com/album/4SFQqPn6heGbwYvAhmATSx) | 2:36 | 2023-01-20 |  |
@@ -73,7 +75,7 @@
 | [Masterpiece](https://open.spotify.com/track/6Z4zjDo2ZhH3dF2ArneHlY) | [Boreal Monkey](https://open.spotify.com/artist/7hrUxPY5NyS5eTyuYCvhw1) | [BM](https://open.spotify.com/album/377VpIuyZnkPBNzNZds4EA) | 3:09 | 2022-05-13 |  |
 | [Mente Libre](https://open.spotify.com/track/2Hd0NIYAMRez3FfjWfkFXv) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Mente Libre](https://open.spotify.com/album/0pdbiXji6KDN7fsCKgYalt) | 3:47 | 2022-05-13 |  |
 | [ML Bound](https://open.spotify.com/track/3XPHibpilVQZvpvN4BpvGz) | [Tropic Lame](https://open.spotify.com/artist/3WVSQw0STiqOBYFHWSryxP) | [Covert](https://open.spotify.com/album/64zVQb34ODaq3y1oxx7VaS) | 4:30 | 2022-05-13 |  |
-| [Monotation](https://open.spotify.com/track/2iXt75EraZMReN0YcioAoM) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Monotation](https://open.spotify.com/album/7iizN309bv4fotTInRIOqe) | 2:41 | 2022-05-13 |  |
+| [Monotation](https://open.spotify.com/track/2iXt75EraZMReN0YcioAoM) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Monotation](https://open.spotify.com/album/7iizN309bv4fotTInRIOqe) | 2:41 | 2022-05-13 | 2023-03-31 |
 | [More Reeds](https://open.spotify.com/track/03aNql8dZHY63kfd7A7c1m) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Away](https://open.spotify.com/album/4KGsOpuWVrfI5DinD34VOF) | 3:26 | 2022-07-15 |  |
 | [More Reeds](https://open.spotify.com/track/5CXoWgCOmJN7czdwNowOYk) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Away](https://open.spotify.com/album/4Zzjrtt6012pdMZkw1R7mA) | 3:26 | 2022-05-13 | 2022-07-29 |
 | [New World](https://open.spotify.com/track/1C1XqIYvEoQWXzXQnxIYlP) | [Jeff Gardenbaum](https://open.spotify.com/artist/0jexu3jhxqUlfX2fiW63TW) | [New World](https://open.spotify.com/album/2bNHNDvSrrBVJgr62xhZlj) | 3:21 | 2022-05-13 |  |
@@ -124,7 +126,7 @@
 | [Telefono B](https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:43 | 2022-05-13 |  |
 | [The Journey](https://open.spotify.com/track/1XcOci00g6G98QaDipUiPb) | [Jimmie Stills](https://open.spotify.com/artist/64FYFlv9Z4qfU4rXS6Ri5E) | [The Actress](https://open.spotify.com/album/2VOcYwupehwQHrQieOWbCH) | 3:12 | 2022-05-13 | 2023-01-20 |
 | [The Kind Journeyman](https://open.spotify.com/track/2CgGcJ3cBHQJhhK2pqcm8g) | [Timestain](https://open.spotify.com/artist/3x4Wg2JsXrfZkMbfP0giOU) | [Ghost Town](https://open.spotify.com/album/2ceYok3cY1JTWnIP12B7u8) | 2:40 | 2022-05-13 | 2023-03-11 |
-| [The Source](https://open.spotify.com/track/6MmCpo0GytipNTU0mNwh4X) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Rivers](https://open.spotify.com/album/4v47S3SLTz4b0Wsnfs3gjq) | 5:30 | 2022-05-13 |  |
+| [The Source](https://open.spotify.com/track/6MmCpo0GytipNTU0mNwh4X) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Rivers](https://open.spotify.com/album/4v47S3SLTz4b0Wsnfs3gjq) | 5:30 | 2022-05-13 | 2023-03-31 |
 | [Time Capsule](https://open.spotify.com/track/3a2aJxxr1gwXnQXzdij1K2) | [Shawn Moe](https://open.spotify.com/artist/4J11X0SKdQw8qEsDMXJxug) | [Time Capsule](https://open.spotify.com/album/0utIoHGnEg9loR0CPo7Xfr) | 2:12 | 2023-02-25 |  |
 | [Towards Daylight](https://open.spotify.com/track/6zHVtnqzmL0cNG3KFBJv0H) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [Towards Daylight](https://open.spotify.com/album/52kuliw2gKIqyaZbdJMe6z) | 2:27 | 2022-07-08 |  |
 | [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2022-05-13 | 2022-09-23 |

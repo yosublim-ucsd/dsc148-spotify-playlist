@@ -591,6 +591,28 @@
     },
     {
       "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201014,
+      "name": "Chinese (feat. King Savagge)",
+      "url": "https://open.spotify.com/track/3riIoSIEMCU45UDaVuc7v2"
+    },
+    {
+      "album": {
         "name": "Como Lo So\u00f1amos",
         "url": "https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW"
       },
@@ -668,6 +690,24 @@
       "duration_ms": 181192,
       "name": "Denssy",
       "url": "https://open.spotify.com/track/7klrg9kfWJ2te3oJZIZjSU"
+    },
+    {
+      "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241495,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT"
     },
     {
       "album": {
@@ -790,6 +830,28 @@
       "duration_ms": 373970,
       "name": "Entre Envidia Y Muerte",
       "url": "https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q"
+    },
+    {
+      "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204590,
+      "name": "Exotica (feat. La Zowi)",
+      "url": "https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC"
     },
     {
       "album": {
@@ -2380,6 +2442,58 @@
       "duration_ms": 220800,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X"
+    },
+    {
+      "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Shisosa",
+          "url": "https://open.spotify.com/artist/5RsDsSAjkrjeEekDmtbJKJ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160024,
+      "name": "Shupano (feat. Young Cister, Bryartz & Shisosa)",
+      "url": "https://open.spotify.com/track/2CIx7kjDwTdNNyMuC7sDFM"
+    },
+    {
+      "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224649,
+      "name": "Silent Hill (feat. Flor De Rap)",
+      "url": "https://open.spotify.com/track/63ri7MQ6AxvUXHoBOuzccg"
     },
     {
       "album": {

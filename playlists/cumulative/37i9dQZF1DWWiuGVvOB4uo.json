@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Blanket On The Ground",
+        "url": "https://open.spotify.com/album/373M8k23TiJ2QvysKoDuAo"
+      },
+      "artists": [
+        {
+          "name": "Los Types",
+          "url": "https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213883,
+      "name": "Blanket On The Ground",
+      "url": "https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl"
+    },
+    {
+      "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo"
       },
@@ -1357,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Girls Just Want To Have Fun (Acoustic)",
+        "url": "https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140442,
+      "name": "Girls Just Want To Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m"
+    },
+    {
+      "album": {
         "name": "Girls Like You",
         "url": "https://open.spotify.com/album/0m8do2sQQ59xwjG6sLkOmT"
       },
@@ -1726,6 +1762,24 @@
       "duration_ms": 252307,
       "name": "Here I Go Again - Acoustic",
       "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
+      },
+      "artists": [
+        {
+          "name": "Mia Rainn",
+          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206101,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
     },
     {
       "album": {
@@ -2200,6 +2254,24 @@
     {
       "album": {
         "name": "I'm Gonna Be (500 Miles)",
+        "url": "https://open.spotify.com/album/5lf90LPVi2T8ZyCSJHdyIy"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203690,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/6uE9ndEGjQPQzqWTZz8HLU"
+    },
+    {
+      "album": {
+        "name": "I'm Gonna Be (500 Miles)",
         "url": "https://open.spotify.com/album/3GINcZdettso6ktU4bTlmy"
       },
       "artists": [
@@ -2361,6 +2433,42 @@
     },
     {
       "album": {
+        "name": "It Wasn't God Who Made Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/77nKaf3SpPv46NUve4Qx9g"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190687,
+      "name": "It Wasn't God Who Made Honky Tonk Angels",
+      "url": "https://open.spotify.com/track/2GkZYGFcVjhmJQDGYZZ4j3"
+    },
+    {
+      "album": {
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
+    },
+    {
+      "album": {
         "name": "Kiss the Girl",
         "url": "https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8"
       },
@@ -2516,7 +2624,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 150612,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/3lPtqlfDC01vQg8ceLfYRi"
@@ -2552,7 +2660,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 227882,
       "name": "Life Is Confusing",
       "url": "https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY"
@@ -2844,7 +2952,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 213542,
       "name": "More Than Words - Spotify Singles",
       "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
@@ -3082,7 +3190,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 183814,
       "name": "One",
       "url": "https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D"

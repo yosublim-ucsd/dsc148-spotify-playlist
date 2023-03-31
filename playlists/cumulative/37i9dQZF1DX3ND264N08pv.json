@@ -126,7 +126,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 294600,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Gabba Flow",
+        "url": "https://open.spotify.com/album/68H48CmcvAjcXeXYgFhRAD"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko",
+          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186375,
+      "name": "Gabba Flow",
+      "url": "https://open.spotify.com/track/42aVtMaaZd0VbHcDhKfPDj"
+    },
+    {
+      "album": {
         "name": "Game Breaker",
         "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
       },
@@ -1664,7 +1686,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 295187,
       "name": "Mythology of Hardcore - Official Masters of Hardcore Russia 2022 Anthem",
       "url": "https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW"
@@ -2451,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "The Chop Game",
+        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "The Chop Game",
+      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
+    },
+    {
+      "album": {
         "name": "The Deadly Fist",
         "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
       },
@@ -2699,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "Wake Up Now",
+        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
+      },
+      "artists": [
+        {
+          "name": "Lem-X",
+          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202678,
+      "name": "Wake Up Now",
+      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
       },
@@ -2758,7 +2816,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 174000,
       "name": "You Ain't Telling Me Shit",
       "url": "https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC"

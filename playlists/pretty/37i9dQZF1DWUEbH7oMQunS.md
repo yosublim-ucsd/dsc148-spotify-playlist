@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,703 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,777 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 8 | [Velveteen](https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy) | [Christa Wells](https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby) | [Velveteen](https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO) | 3:57 |
 | 9 | [Take My Heart](https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW) | [Jordan Biel](https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw) | [Instrumental Worship Music, Vol\. 1](https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx) | 5:30 |
 | 10 | [We Have Overcome](https://open.spotify.com/track/5kw4tBzuZmZpmlzDHjAuAn) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 4:24 |
-| 11 | [Oh What a Father](https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q) | 3:56 |
+| 11 | [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 |
 | 12 | [\(73\) the Nearness of You](https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Asaph](https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5) | 5:42 |
 | 13 | [grief](https://open.spotify.com/track/5B0G38qRKp1rk9pEobKyVQ) | [Washa](https://open.spotify.com/artist/7pjYf2S6lvNwiUjmoDpcOX) | [FEVER](https://open.spotify.com/album/02IV2ZLAvy2ZY35l9O6DnR) | 1:54 |
 | 14 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 59 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
 | 60 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
 
-Snapshot ID: `MTY3NTc5MTc5MSwwMDAwMDAwMGEwZTQ0YmE1OWYzZjdiZjViY2VlM2VmNzIwMzY0YjZi`
+Snapshot ID: `MTY3NTc5MTc5MSwwMDAwMDAwMGZkNmZhMmFiMWQxZjU0NzQ2ZmJjYjA0MzNjOGIxNGE5`

@@ -143,24 +143,6 @@
     },
     {
       "album": {
-        "name": "Ala",
-        "url": "https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "date_added": "2022-03-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 120741,
-      "name": "Ala",
-      "url": "https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF"
-    },
-    {
-      "album": {
         "name": "Light for the World (Deluxe)",
         "url": "https://open.spotify.com/album/5ASgBV2blsvD697iEczwLd"
       },
@@ -342,6 +324,24 @@
       "duration_ms": 251560,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/5YZHOENY8KssNQObXoMPy3"
+    },
+    {
+      "album": {
+        "name": "Ala",
+        "url": "https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120741,
+      "name": "Beving: Ala",
+      "url": "https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF"
     },
     {
       "album": {

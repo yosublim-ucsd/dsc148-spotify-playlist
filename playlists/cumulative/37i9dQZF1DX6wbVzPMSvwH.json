@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 245913,
       "name": "Bersamamu",
       "url": "https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD"
@@ -292,6 +292,28 @@
       "duration_ms": 163642,
       "name": "Breakfast in Bed",
       "url": "https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj"
+    },
+    {
+      "album": {
+        "name": "Buktikan",
+        "url": "https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Vidi Aldiano",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Buktikan",
+      "url": "https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY"
     },
     {
       "album": {
@@ -708,7 +730,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 207556,
       "name": "Just For You",
       "url": "https://open.spotify.com/track/4pNSeZ3zFtBH0vmlCuhGyd"

@@ -186,6 +186,28 @@
     {
       "album": {
         "name": "Body Rock",
+        "url": "https://open.spotify.com/album/6Svg3u9Bd7XnoXFMKkXIoT"
+      },
+      "artists": [
+        {
+          "name": "GUI2IN",
+          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
+        },
+        {
+          "name": "Hakes",
+          "url": "https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Body Rock",
+      "url": "https://open.spotify.com/track/3SNBVd4MNVfabxURx1Ac32"
+    },
+    {
+      "album": {
+        "name": "Body Rock",
         "url": "https://open.spotify.com/album/6BeQaQlMjyhmxWIs4BVd08"
       },
       "artists": [
@@ -200,7 +222,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 176640,
       "name": "Body Rock",
       "url": "https://open.spotify.com/track/42yPoKRxgi2A3lS8Qjtu0Y"

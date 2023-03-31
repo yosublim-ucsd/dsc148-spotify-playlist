@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-169 songs - 9 hr 36 min
+173 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2021-12-22 | 2022-11-19 |
 | [Crying \(feat\. Kaelin Kost\)](https://open.spotify.com/track/0lK0IZC5DJpj31jlcngkeo) | [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Marco Foster](https://open.spotify.com/album/7jNVwAkKCf3XfDf6qo3Qkx) | 3:00 | 2022-08-12 | 2022-09-16 |
 | [Crying \(feat\. Kaelin Kost\)](https://open.spotify.com/track/2MbiDqLg76Ww2LbiqYDZ1T) | [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Marco Foster](https://open.spotify.com/album/7KDqtbQGvL7wJYtNpRK8ss) | 3:00 | 2022-09-05 |  |
+| [Darkside \- Acoustic](https://open.spotify.com/track/7EI5jemm1FyqmKQ7BLpdW9) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Darkside \(Acoustic\)](https://open.spotify.com/album/37wetBFXovcDRVMmRfT2LM) | 2:36 | 2023-03-31 |  |
 | [Dream on \- Acoustic](https://open.spotify.com/track/0WhKVpTyAKGF6aPzdIiSDG) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 2:44 | 2022-11-18 | 2023-02-18 |
 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 | 2021-12-22 |  |
 | [Dusk Till Dawn](https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Dusk Till Dawn](https://open.spotify.com/album/1skDKsDkYykE118scvvhfj) | 3:28 | 2021-12-22 |  |
@@ -52,6 +53,7 @@
 | [Fireproof](https://open.spotify.com/track/5hn81KcRWFyrwi38PJMG8u) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Other Shores](https://open.spotify.com/album/0lp31Gds7JY3tIcxYl6TFX) | 3:02 | 2022-11-18 |  |
 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2022-07-26 |  |
 | [Fix You](https://open.spotify.com/track/2bqjWTGDpFoG3YlRgKvqDo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/6Zho4ar8UMxJLMDpWcLGto) | 4:21 | 2021-12-22 | 2022-07-29 |
+| [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 | 2023-03-31 |  |
 | [Forget Me](https://open.spotify.com/track/35hEBYKKgxPP0wJHCtqPB2) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [Forget Me](https://open.spotify.com/album/1EoabBUf3lsf4GzqWTr0Ue) | 3:19 | 2023-01-20 |  |
 | [From This Place](https://open.spotify.com/track/7KL9fO8eEAWbI422qMvjRp) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 2:49 | 2021-12-22 | 2022-07-30 |
 | [Frozen](https://open.spotify.com/track/5bGkeM9o4GAtOLeafHhHpm) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Frozen](https://open.spotify.com/album/0Gn6fMwduv7GHXGXfY30OP) | 3:55 | 2023-01-20 |  |
@@ -79,6 +81,7 @@
 | [HURTFUL](https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [HURTFUL](https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8) | 2:26 | 2023-02-17 |  |
 | [I Can't Make You Love Me \- Live at the Auckland Town Hall](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I Can't Make You Love Me \(Live at the Auckland Town Hall\)](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 | 2021-12-22 |  |
 | [I Loved 'Em Every One](https://open.spotify.com/track/6q8eZaHQvrNOacoDp87TXl) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [I Loved 'Em Every One](https://open.spotify.com/album/3KfEE0PyI7tJycHpsQKJw7) | 3:57 | 2022-05-04 |  |
+| [I Wanna Dance With Somebody](https://open.spotify.com/track/51oIXpuAbCMXnH4bTJxf9m) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Covers, Vol\. 2](https://open.spotify.com/album/2EIAR4mEhjOhCNlFKnv6gl) | 2:52 | 2023-03-31 |  |
 | [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 | 2021-12-22 | 2023-02-18 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I'm Good \(Blue\)](https://open.spotify.com/album/27wqComza4OEQnzS4AniQe) | 2:55 | 2022-12-16 |  |
 | [I'm With You](https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [I'm With You](https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a) | 2:53 | 2022-09-05 |  |
@@ -97,6 +100,7 @@
 | [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 | 2023-01-04 |  |
 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 | 2022-02-02 |  |
 | [Lonely \- Acoustic Piano](https://open.spotify.com/track/12AKFQyF4FaQY4AKYqBUvc) | [We Rabbitz](https://open.spotify.com/artist/05Zr3tq3xPIxChT2JfMDCe) | [Lonely \(Remix\)](https://open.spotify.com/album/0g8fDP339rvtttYJdPv5OO) | 2:29 | 2021-12-22 | 2023-01-21 |
+| [lonely together](https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [lonely together](https://open.spotify.com/album/7CBEGifKjpuEP6MZZzEV1G) | 3:21 | 2023-03-31 |  |
 | [Love Is a Battlefield](https://open.spotify.com/track/2d4ucQh3TOwWiwCcBcnu37) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:41 | 2022-06-15 | 2023-02-15 |
 | [Love Is a Battlefield](https://open.spotify.com/track/6hi5gIwL3pKSDPZQj7eoKz) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 3:41 | 2023-01-20 |  |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2fqx5MvWamArHztg7cG1iy) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 3:27 | 2022-10-13 |  |

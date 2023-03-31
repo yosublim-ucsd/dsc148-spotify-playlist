@@ -2,7 +2,7 @@
 
 ### [Dil Ka Sukoon](https://open.spotify.com/playlist/45sMfdAKJExVmFvBd2TwmU)
 
-> Bollywood Love Songs\-Best Hindi Love Songs\-Top Love Songs\-Romantic \-Love Songs from Hindi Films\-Love Songs\-Romantic Songs\-Hindi Love Songs\-Romantic Hindi Bollywood Songs\-Romantic Songs\-Arijit Singh\-Shahrukh Khan\-Classic love songs
+> Listen to more Trending and Love songs on the &quot;<a href="https://open.spotify.com/playlist/0Z7za9pQFEaGBVYTnvJMi1?si=RxGI\_90fSEKOQT73rD28Mw&amp;dd=1">Trending Insta Reels</a>&quot; &amp; <a href="https://open.spotify.com/playlist/02Py4h9KSGuXhqVmd36Wfi?si=ER8gOIlRS2Cs\_4MCQPp8eA&amp;dd=1">&quot;Love Stories ❤️&quot; </a>playlist
 
 129 songs - 10 hr 8 min
 

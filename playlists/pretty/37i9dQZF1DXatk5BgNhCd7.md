@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Alejandro Lerner & La K'onga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,140 likes - 59 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,215 likes - 59 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

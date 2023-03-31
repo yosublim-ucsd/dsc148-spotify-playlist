@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 564075,
+  "num_followers": 564314,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGQzNTQ3MDNkOTc4ZjUxYmY0NDljN2U1MGFkYjY2OTNm",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDdkMDJjODgxMTYyMjc4YjJkMDc0M2JmODM2OWI3Nzg1",
   "tracks": [
     {
       "added_at": "2023-02-17 14:30:00",
@@ -579,30 +579,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Noso",
-        "url": "https://open.spotify.com/album/3dlsgQpKfWqdYBAKUvm70Y"
-      },
-      "artists": [
-        {
-          "name": "Edu Imbernon",
-          "url": "https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088"
-        },
-        {
-          "name": "Nico Casal",
-          "url": "https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7"
-        },
-        {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
-        }
-      ],
-      "duration_ms": 443189,
-      "name": "Noso",
-      "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Noso",
+        "url": "https://open.spotify.com/album/3dlsgQpKfWqdYBAKUvm70Y"
+      },
+      "artists": [
+        {
+          "name": "Edu Imbernon",
+          "url": "https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088"
+        },
+        {
+          "name": "Nico Casal",
+          "url": "https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "duration_ms": 443189,
+      "name": "Noso",
+      "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Lay It All On Me",
-        "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
-      },
-      "artists": [
-        {
-          "name": "Phantoms",
-          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 227384,
-      "name": "Lay It All On Me",
-      "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Howl (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 289156,
       "name": "Howl - Logic1000 Remix",
       "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Lay It All On Me",
+        "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
+      },
+      "artists": [
+        {
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 227384,
+      "name": "Lay It All On Me",
+      "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 357283,
       "name": "Trojan Love - Original Club Mix",
       "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Sint Maarten",
         "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
@@ -1155,6 +1135,42 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
+        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
+      },
+      "artists": [
+        {
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+        }
+      ],
+      "duration_ms": 446079,
+      "name": "ut i rommet",
+      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
-        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
-        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
-      },
-      "artists": [
-        {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
-        }
-      ],
-      "duration_ms": 446079,
-      "name": "ut i rommet",
-      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "alone with you (feat. Didi Han)",
-        "url": "https://open.spotify.com/album/1pM6qa4CNTYLrSL1Bd3Bcw"
-      },
-      "artists": [
-        {
-          "name": "warner case",
-          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
-        },
-        {
-          "name": "DIDI HAN",
-          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
-        }
-      ],
-      "duration_ms": 210607,
-      "name": "alone with you (feat. Didi Han)",
-      "url": "https://open.spotify.com/track/2zWyV9CIpfaH6v0g1mq1a0"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Downtown EP",
         "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 464628,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "alone with you (feat. Didi Han)",
+        "url": "https://open.spotify.com/album/1pM6qa4CNTYLrSL1Bd3Bcw"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "DIDI HAN",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "duration_ms": 210607,
+      "name": "alone with you (feat. Didi Han)",
+      "url": "https://open.spotify.com/track/2zWyV9CIpfaH6v0g1mq1a0"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Heavy Tangled",
-        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
-      },
-      "artists": [
-        {
-          "name": "Etur Usheo",
-          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Studio A Pt.1",
         "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 367578,
       "name": "Basic Juno",
       "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Oxygen (Klangkarussell Remix)",
-        "url": "https://open.spotify.com/album/5d8WXhJiQak8tEXBSC2HWX"
-      },
-      "artists": [
-        {
-          "name": "SIN",
-          "url": "https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ"
-        },
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        }
-      ],
-      "duration_ms": 739700,
-      "name": "Oxygen - Klangkarussell Remix",
-      "url": "https://open.spotify.com/track/5L917TMJ8sIhEsuxQGjwH8"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/7szvJIeKj3HVTv63bkIs2E"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 214167,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3GNR7g7jIQcRC6Q0sZtqmw"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Oxygen (Klangkarussell Remix)",
+        "url": "https://open.spotify.com/album/5d8WXhJiQak8tEXBSC2HWX"
+      },
+      "artists": [
+        {
+          "name": "SIN",
+          "url": "https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ"
+        },
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "duration_ms": 739700,
+      "name": "Oxygen - Klangkarussell Remix",
+      "url": "https://open.spotify.com/track/5L917TMJ8sIhEsuxQGjwH8"
     }
   ],
   "unique_name": "Deep House Blend",

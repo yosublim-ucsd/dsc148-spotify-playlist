@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Kendl",
+          "url": "https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
+    },
+    {
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
       },
@@ -362,7 +384,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 425204,
       "name": "Cellular",
       "url": "https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s"
@@ -580,7 +602,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 255133,
       "name": "COPY COPY - Logic1000 & Big Ever Remix",
       "url": "https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF"
@@ -718,7 +740,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 228609,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
@@ -816,7 +838,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 282708,
       "name": "Forever (Lullaby Mix)",
       "url": "https://open.spotify.com/track/6r9W00mJMcNhUK32YmreGd"
@@ -925,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Halcyon (30 Something) [Remixes]",
+        "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292987,
+      "name": "Halcyon & On - Logic1000 Mix",
+      "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+    },
+    {
+      "album": {
         "name": "Have You Felt Lately? (Brijean Remix)",
         "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
       },
@@ -983,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Holding on to You",
+        "url": "https://open.spotify.com/album/5FJQTiYHMOL01mewrJk7i4"
+      },
+      "artists": [
+        {
+          "name": "Self Tape",
+          "url": "https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252409,
+      "name": "Holding on to You",
+      "url": "https://open.spotify.com/track/3NOx5rHwKupINajmxRRnL1"
+    },
+    {
+      "album": {
         "name": "hollatchu",
         "url": "https://open.spotify.com/album/6v2Carq39870pglhzZeHqx"
       },
@@ -1000,7 +1062,7 @@
           "url": "https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242711,
@@ -1082,7 +1144,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
@@ -1726,7 +1788,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 301855,
       "name": "Second Message",
       "url": "https://open.spotify.com/track/06XrfqtYM0celpC8EsPu16"
@@ -1748,6 +1810,24 @@
       "duration_ms": 373166,
       "name": "Setting Sun",
       "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
+    },
+    {
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284477,
+      "name": "SFC - Hommage Mix",
+      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
     },
     {
       "album": {

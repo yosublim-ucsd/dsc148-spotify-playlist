@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5OTM4NDAsMDAwMDAwMDBiMzAxNDdjZjlhYTY2MjE2YTJjNjUyNjBiNTMzOTYzMA==",
+  "snapshot_id": "Mjc5OTM4NDAsMDAwMDAwMDAzZTBiMjk5NzQxMzA3ZGU4NDQ2OWJjMjQxODZiMmEzNg==",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -47,8 +47,8 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Dust In The Wind (Metal Version)",
-        "url": "https://open.spotify.com/album/0eDjr3foa9aCWyzsO7GFR6"
+        "name": "Land of Confusion (Metal Version)",
+        "url": "https://open.spotify.com/album/3Hu9izRzOotiCmnGRIMC3S"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 208632,
-      "name": "Dust In The Wind (Metal Version)",
-      "url": "https://open.spotify.com/track/6B5yyHfm3jfirdcVLM9Z3o"
+      "duration_ms": 328564,
+      "name": "Land of Confusion (Metal Version)",
+      "url": "https://open.spotify.com/track/1oe1dxFxBEVZK6YdPIShkn"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -87,22 +87,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Subpar (with Method Man)",
-        "url": "https://open.spotify.com/album/5C9BiODFRpVGxAPDp042fO"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4OpUprBWsTAsEK5y3xMJBj"
       },
       "artists": [
         {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Stella Katherine Cole",
+          "url": "https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz"
         }
       ],
-      "duration_ms": 194826,
-      "name": "Subpar (with Method Man)",
-      "url": "https://open.spotify.com/track/4ihDvBziAGDBtxggYujhks"
+      "duration_ms": 235485,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7ouMHnBPsGDrOTHIKLDgOS"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4OpUprBWsTAsEK5y3xMJBj"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Stella Katherine Cole",
-          "url": "https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz"
-        }
-      ],
-      "duration_ms": 235485,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/7ouMHnBPsGDrOTHIKLDgOS"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 230499,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Subpar (with Method Man)",
+        "url": "https://open.spotify.com/album/5C9BiODFRpVGxAPDp042fO"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Subpar (with Method Man)",
+      "url": "https://open.spotify.com/track/4ihDvBziAGDBtxggYujhks"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -223,30 +223,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
-      },
-      "artists": [
-        {
-          "name": "Ni'jah",
-          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Sticky (feat. Childish Gambino & KIRBY)",
-      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Silver Lake Listening Companion",
         "url": "https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0"
       },
@@ -300,7 +276,7 @@
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Unpredictable",
-        "url": "https://open.spotify.com/album/73re41PH59OVUlVyiQg1Ey"
+        "url": "https://open.spotify.com/album/6HS7Vlm6nSePmaceu9ctfo"
       },
       "artists": [
         {
@@ -326,67 +302,7 @@
       ],
       "duration_ms": 196129,
       "name": "Unpredictable",
-      "url": "https://open.spotify.com/track/2emvmZC6Dke75Df2lHsS1s"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Wreckless",
-        "url": "https://open.spotify.com/album/1E1HHfY6IClaSASPELV7t9"
-      },
-      "artists": [
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Fashawn",
-          "url": "https://open.spotify.com/artist/6sDyTDjzGxcvyhLn5x9RyY"
-        },
-        {
-          "name": "Meeco",
-          "url": "https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ"
-        },
-        {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
-        }
-      ],
-      "duration_ms": 156066,
-      "name": "Wreckless",
-      "url": "https://open.spotify.com/track/2C7ZHLGI6eQoQ1m0aGtLK3"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/1Oruyi89vAMbFOxVox2alE"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/1bBetNcLK8TbPfwYtaSMMi"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "waste my time",
-        "url": "https://open.spotify.com/album/0PXBOgZi741Qj0jsEcDrWk"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 140312,
-      "name": "waste my time",
-      "url": "https://open.spotify.com/track/0NBVGDwK0a6y8ejqfipcgK"
+      "url": "https://open.spotify.com/track/5GdgI8N4V0IHPgiPfvlGnW"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -467,30 +383,86 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Insane (feat. Ant Clemons)",
-        "url": "https://open.spotify.com/album/5dBWQQ0cqVGcYZZWRYlaY2"
+        "name": "waste my time",
+        "url": "https://open.spotify.com/album/0PXBOgZi741Qj0jsEcDrWk"
       },
       "artists": [
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Ant Clemons",
-          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
         }
       ],
-      "duration_ms": 173431,
-      "name": "Insane (feat. Ant Clemons)",
-      "url": "https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ"
+      "duration_ms": 140312,
+      "name": "waste my time",
+      "url": "https://open.spotify.com/track/0NBVGDwK0a6y8ejqfipcgK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
+      },
+      "artists": [
+        {
+          "name": "Ni'jah",
+          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 171706,
+      "name": "Sticky (feat. Childish Gambino & KIRBY)",
+      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1Oruyi89vAMbFOxVox2alE"
+      },
+      "artists": [
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/1bBetNcLK8TbPfwYtaSMMi"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Wreckless",
+        "url": "https://open.spotify.com/album/1E1HHfY6IClaSASPELV7t9"
+      },
+      "artists": [
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Fashawn",
+          "url": "https://open.spotify.com/artist/6sDyTDjzGxcvyhLn5x9RyY"
+        },
+        {
+          "name": "Meeco",
+          "url": "https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        }
+      ],
+      "duration_ms": 156066,
+      "name": "Wreckless",
+      "url": "https://open.spotify.com/track/2C7ZHLGI6eQoQ1m0aGtLK3"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -507,22 +479,6 @@
       "duration_ms": 191798,
       "name": "Things I Like",
       "url": "https://open.spotify.com/track/7ibnBtLC00cf6AFJFYmUlv"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Pontius Pilate's Home Movies",
-        "url": "https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Pontius Pilate's Home Movies",
-      "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -571,6 +527,50 @@
       "duration_ms": 298561,
       "name": "Rivers - Live At The Afas Live",
       "url": "https://open.spotify.com/track/6PRQE3khfCrdun9EmO1Fqx"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Insane (feat. Ant Clemons)",
+        "url": "https://open.spotify.com/album/5dBWQQ0cqVGcYZZWRYlaY2"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "duration_ms": 173431,
+      "name": "Insane (feat. Ant Clemons)",
+      "url": "https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Pontius Pilate's Home Movies",
+        "url": "https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Pontius Pilate's Home Movies",
+      "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
     },
     {
       "added_at": "2023-03-24 04:00:00",

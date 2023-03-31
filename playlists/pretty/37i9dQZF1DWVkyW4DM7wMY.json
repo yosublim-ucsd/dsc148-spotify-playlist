@@ -1,13 +1,29 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 8935,
+  "num_followers": 8950,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzNTQ5NCwwMDAwMDAwMDM1OTNlMmQwODY3ODBhNWVkMmU1NTk1ZDZjOGY3YzA2",
+  "snapshot_id": "MTY4MDIwOTk0MCwwMDAwMDAwMGRhYWJkNzE0YzAwNmEzMWVkMzEzOTBhY2NkY2JlOWE0",
   "tracks": [
+    {
+      "added_at": "2023-03-24 05:24:54",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk"
+    },
     {
       "added_at": "2023-03-17 09:54:39",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO"
     },
     {
-      "added_at": "2023-03-24 05:24:54",
+      "added_at": "2023-03-30 20:59:00",
       "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD"
+        "name": "Oh Shoot",
+        "url": "https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U"
       },
       "artists": [
         {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
         }
       ],
-      "duration_ms": 186461,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk"
+      "duration_ms": 169913,
+      "name": "Oh Shoot",
+      "url": "https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV"
     },
     {
       "added_at": "2023-03-17 09:54:39",
@@ -79,26 +95,6 @@
     {
       "added_at": "2023-03-17 09:54:39",
       "album": {
-        "name": "R-/LBT",
-        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
-      },
-      "artists": [
-        {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
-        },
-        {
-          "name": "Riunga",
-          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
-        }
-      ],
-      "duration_ms": 230808,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3"
       },
@@ -115,6 +111,46 @@
       "duration_ms": 148981,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "R-/LBT",
+        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
+        },
+        {
+          "name": "Riunga",
+          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
+        }
+      ],
+      "duration_ms": 230808,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
     },
     {
       "added_at": "2023-03-17 09:54:39",
@@ -143,106 +179,6 @@
     {
       "added_at": "2023-03-17 09:54:39",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
-      },
-      "artists": [
-        {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
-        "name": "Camille",
-        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
-        "name": "Chaser 2.0",
-        "url": "https://open.spotify.com/album/1dvm9UdT2HzJeEZzR1HDUz"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Chaser 2.0",
-      "url": "https://open.spotify.com/track/2HGsCutOKv0mC7R0EoiSfP"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
-        "name": "Part2 (Dinner in Maui)",
-        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
-      },
-      "artists": [
-        {
-          "name": "Hermez",
-          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 193896,
-      "name": "Part2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
-        "name": "What To Expect When Expecting",
-        "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "What To Expect When Expecting",
-      "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
-        "name": "The Journey Continues...",
-        "url": "https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl"
-      },
-      "artists": [
-        {
-          "name": "Janice Iche",
-          "url": "https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ"
-        }
-      ],
-      "duration_ms": 182842,
-      "name": "Let Me Lose My Mind In Peace",
-      "url": "https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5"
       },
@@ -263,6 +199,38 @@
     {
       "added_at": "2023-03-17 09:54:39",
       "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "The Journey Continues...",
+        "url": "https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl"
+      },
+      "artists": [
+        {
+          "name": "Janice Iche",
+          "url": "https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ"
+        }
+      ],
+      "duration_ms": 182842,
+      "name": "Let Me Lose My Mind In Peace",
+      "url": "https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
         "name": "Your Turn",
         "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
       },
@@ -279,34 +247,34 @@
     {
       "added_at": "2023-03-17 09:54:39",
       "album": {
-        "name": "Never Left",
-        "url": "https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN"
+        "name": "What To Expect When Expecting",
+        "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
       },
       "artists": [
         {
-          "name": "Cxnrvd",
-          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
         }
       ],
-      "duration_ms": 172363,
-      "name": "Never Left",
-      "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
+      "duration_ms": 168000,
+      "name": "What To Expect When Expecting",
+      "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
     },
     {
       "added_at": "2023-03-17 09:54:39",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
       },
       "artists": [
         {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
+      "duration_ms": 158000,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
     },
     {
       "added_at": "2023-03-17 09:54:39",
@@ -327,6 +295,46 @@
       "duration_ms": 177245,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "Spanish Villager No. 3",
+        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 272883,
+      "name": "A Seminar In Tokyo",
+      "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "See Through Solomon",
+          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
+        },
+        {
+          "name": "KHAN KHALII",
+          "url": "https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
     },
     {
       "added_at": "2023-03-17 09:54:39",
@@ -367,46 +375,6 @@
     {
       "added_at": "2023-03-17 09:54:39",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
-      },
-      "artists": [
-        {
-          "name": "Jinku",
-          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
-        },
-        {
-          "name": "See Through Solomon",
-          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
-        },
-        {
-          "name": "KHAN KHALII",
-          "url": "https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
-        "name": "Spanish Villager No. 3",
-        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 272883,
-      "name": "A Seminar In Tokyo",
-      "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/0oQnFQEWTHTkL4n515ZkF0"
       },
@@ -423,22 +391,6 @@
       "duration_ms": 157403,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Slow Wine",
-      "url": "https://open.spotify.com/track/09zqopRV6IPEzq3ZUEP75B"
     },
     {
       "added_at": "2023-03-17 09:54:39",
@@ -463,22 +415,34 @@
     {
       "added_at": "2023-03-17 09:54:39",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
       },
       "artists": [
         {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Elani Boshoff",
-          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 133324,
-      "name": "100 Times",
-      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
+      "duration_ms": 124000,
+      "name": "Slow Wine",
+      "url": "https://open.spotify.com/track/09zqopRV6IPEzq3ZUEP75B"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "Chaser 2.0",
+        "url": "https://open.spotify.com/album/1dvm9UdT2HzJeEZzR1HDUz"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Chaser 2.0",
+      "url": "https://open.spotify.com/track/2HGsCutOKv0mC7R0EoiSfP"
     },
     {
       "added_at": "2023-03-17 09:54:39",
@@ -511,6 +475,58 @@
       "duration_ms": 206769,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "Never Left",
+        "url": "https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN"
+      },
+      "artists": [
+        {
+          "name": "Cxnrvd",
+          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Never Left",
+      "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
+      },
+      "artists": [
+        {
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
+    },
+    {
+      "added_at": "2023-03-17 09:54:39",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "duration_ms": 133324,
+      "name": "100 Times",
+      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
     },
     {
       "added_at": "2023-03-17 09:54:39",
@@ -1063,22 +1079,6 @@
       "duration_ms": 186000,
       "name": "Sugar My",
       "url": "https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm"
-    },
-    {
-      "added_at": "2023-03-17 09:54:39",
-      "album": {
-        "name": "This Depression Thing",
-        "url": "https://open.spotify.com/album/4yac4Do5pCzuHEGjTgTq0V"
-      },
-      "artists": [
-        {
-          "name": "G L E N",
-          "url": "https://open.spotify.com/artist/6Zn7q82x0RrkCcxeTQ2t5x"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "This Depression Thing",
-      "url": "https://open.spotify.com/track/5sdWuECOLbdWDzfYe9qOhm"
     },
     {
       "added_at": "2023-03-17 09:54:39",

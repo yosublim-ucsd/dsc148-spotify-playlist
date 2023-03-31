@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Alice et Moi
+> The best French indie tracks right now\. Cover: Silly Boy Blue
 
-308 songs - 16 hr 56 min
+311 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Mon cœur](https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:18 | 2022-09-29 | 2022-11-25 |
 | [Morphine](https://open.spotify.com/track/0g8woFgSUJHgJ3tuKxMezr) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [PHANTASIA](https://open.spotify.com/album/2EVQB27DWqa2tnMhM16zPg) | 2:47 | 2022-11-17 | 2023-03-25 |
 | [Motive](https://open.spotify.com/track/51uQCk3qeta0zegvbnpgTQ) | [Blossom Club](https://open.spotify.com/artist/2roaH82erx4P9jgPb7mklu) | [Motive](https://open.spotify.com/album/196KcyXjX9vkmXOhGw5YBu) | 4:25 | 2022-10-13 | 2023-01-27 |
+| [mots clés](https://open.spotify.com/track/0ak3Rt8IxWVWQENHIrBvfn) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [cheval 2\_3](https://open.spotify.com/album/0I3gTLmBt6QExMxp1K4MjY) | 3:45 | 2023-03-30 |  |
 | [My Friend](https://open.spotify.com/track/3giUzhSFQSqgPW1As0qFDr) | [Hey Hey My My](https://open.spotify.com/artist/2AhnqOVxwIWLm6fj6dWswl) | [High\_Life](https://open.spotify.com/album/36E8xRYRmVz8lOmexLq7aM) | 3:30 | 2023-02-02 | 2023-02-24 |
 | [My Oh My](https://open.spotify.com/track/3aKNonAXtkjbcqP35vc8pl) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Lipstick Stains](https://open.spotify.com/album/3S098IH93lC7aphwd4XlXC) | 2:56 | 2022-10-13 | 2022-11-25 |
 | [Médicament](https://open.spotify.com/track/7zqDvIozUYDkUU2j61O9M8) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [1901 \- Part II](https://open.spotify.com/album/3KqY4Enmk7fHbjq7eIRmY2) | 3:22 | 2022-09-15 | 2022-11-11 |
@@ -201,6 +202,7 @@
 | [None of This Matters Now](https://open.spotify.com/track/5thKTyn54nRudRpBsZBa4t) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [None of This Matters Now](https://open.spotify.com/album/74OdkFyNbDjCKhTpc0MVCn) | 3:41 | 2021-12-16 | 2022-01-21 |
 | [Nos regards](https://open.spotify.com/track/3EpySzSXQYevKTq1glwGos) | [Noroy](https://open.spotify.com/artist/0FCAKInZeSi1on1FlSPoxt) | [Nos regards](https://open.spotify.com/album/294I1T2kvMnmf497xY7E64) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Nostalgique](https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Nostalgique](https://open.spotify.com/album/3u4LgNSMLiBrh3X1vN7OV3) | 2:46 | 2022-02-03 | 2022-06-17 |
+| [Not A Friend](https://open.spotify.com/track/7dMWVi0BN7BTlVQoRJNmwO) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Not A Friend](https://open.spotify.com/album/7o777nWZF48KYZWRUU3cX5) | 2:41 | 2023-03-30 |  |
 | [NOT WHAT YOU WANTED](https://open.spotify.com/track/0d7LopGyWjUsXKCeKOEJzO) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [NOT WHAT YOU WANTED](https://open.spotify.com/album/6dIgyaXR88Mjfuym9ZTkdm) | 3:34 | 2022-06-23 | 2022-07-15 |
 | [Nouveau Genre](https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 3:22 | 2021-12-16 | 2022-02-18 |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-01 | 2023-03-10 |
@@ -209,7 +211,7 @@
 | [Oiseau de Paradis](https://open.spotify.com/track/2lPuLP88b7BUiJuh1jurXV) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Oiseau de Paradis](https://open.spotify.com/album/5FKhkWVXjUjJZXFQlSkh4b) | 2:53 | 2022-06-30 | 2022-09-02 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-07 | 2022-06-03 |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-16 | 2022-01-28 |
-| [Opium](https://open.spotify.com/track/4MVFjwTBLwKVnhkcOZm5gE) | [Fils Cara](https://open.spotify.com/artist/42SznvyZNQon11BUfdPadN) | [Opium](https://open.spotify.com/album/4gqjFmBaXS2eThOUsUZfbD) | 3:30 | 2023-01-19 |  |
+| [Opium](https://open.spotify.com/track/4MVFjwTBLwKVnhkcOZm5gE) | [Fils Cara](https://open.spotify.com/artist/42SznvyZNQon11BUfdPadN) | [Opium](https://open.spotify.com/album/4gqjFmBaXS2eThOUsUZfbD) | 3:30 | 2023-01-19 | 2023-03-31 |
 | [Oracle Miracle](https://open.spotify.com/track/3Uq1pn9wDqiZsnHW3aDQ3E) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Oracle Miracle](https://open.spotify.com/album/2rIggJ0novBuMZhUfVlmDQ) | 3:58 | 2023-03-23 |  |
 | [Orange Mountains](https://open.spotify.com/track/45UT1NY9lpbJfdYp5Kdd1U) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Orange Mountains](https://open.spotify.com/album/1QrJuxwQWh0NDz28apqavn) | 4:26 | 2021-12-16 | 2022-03-25 |
 | [Ouais tu t'es pris pour Shakespeare ?](https://open.spotify.com/track/2CYMaXOmO0cIRIrlXT9Sxw) | [Toboggan](https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG) | [Ouais tu t'es pris pour Shakespeare ?](https://open.spotify.com/album/7JLZh7KEsZnvd090HkJ2Ig) | 3:24 | 2021-12-16 | 2022-02-04 |
@@ -220,7 +222,7 @@
 | [Paris](https://open.spotify.com/track/1NqHsocjKaEmyjKhXJbIk8) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Paris](https://open.spotify.com/album/0hzxwjmrSYnUIhaQElBQMj) | 2:44 | 2022-12-22 | 2023-03-25 |
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 | 2022-08-25 | 2023-01-20 |
-| [Partir Loin](https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX) | [Antis](https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu) | [Partir Loin](https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq) | 2:38 | 2022-12-22 |  |
+| [Partir Loin](https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX) | [Antis](https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu) | [Partir Loin](https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq) | 2:38 | 2022-12-22 | 2023-03-31 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 | 2022-11-18 |
 | [Pesanteur](https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Pesanteur](https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ) | 2:36 | 2021-12-16 | 2022-04-15 |
 | [Petit Poucet](https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [Petit Poucet](https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap) | 4:12 | 2022-01-27 | 2022-05-07 |
@@ -264,6 +266,7 @@
 | [Superlove](https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Superlove](https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE) | 3:48 | 2022-01-13 | 2022-02-04 |
 | [SUR LE COEUR](https://open.spotify.com/track/1dBsbSQlzdEAbSehMB6bD9) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SUR LE COEUR](https://open.spotify.com/album/55x88wSRtzOdANenONxpHI) | 2:35 | 2023-01-05 |  |
 | [Série B](https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Série B](https://open.spotify.com/album/7a2Pfndpa3oxlHwJTfKiEb) | 3:21 | 2023-03-09 |  |
+| [T'étais pas là](https://open.spotify.com/track/46OzY465Q9H3j1OQ0l8UCO) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Grande](https://open.spotify.com/album/4qz9mg45ugo0PxWSBxSdR7) | 3:46 | 2023-03-30 |  |
 | [Tactile](https://open.spotify.com/track/4mhQB2RbdTafiNaw6mIYnX) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p), [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Tactile](https://open.spotify.com/album/5QJW7EAwmX2dNIttVMPkt6) | 3:37 | 2022-11-17 | 2022-12-02 |
 | [Tandem](https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Tandem](https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs) | 3:19 | 2022-04-28 | 2022-11-11 |
 | [Tata](https://open.spotify.com/track/5toHaNWeaCf5cw9Jfn6yK4) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Tata](https://open.spotify.com/album/6D2bRl9q3zF2Rt3hcSQaRu) | 3:58 | 2021-12-16 | 2022-02-25 |
@@ -310,7 +313,7 @@
 | [Yellow Car](https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU) | [Toro](https://open.spotify.com/artist/3Ikp2uBBjxkYHJpblUDDRN), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [Yellow](https://open.spotify.com/album/3aXfZfgLhJ7joTa7nJwY4q) | 3:15 | 2022-06-09 | 2022-07-01 |
 | [You Make Me Feel So Good](https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [You Make Me Feel So Good](https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq) | 3:37 | 2023-03-23 |  |
 | [Your Type](https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Your Type](https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3) | 4:01 | 2022-07-07 | 2023-01-13 |
-| [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 | 2022-06-09 |  |
+| [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 | 2022-06-09 | 2023-03-31 |
 | [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 | 2023-02-23 |  |
 | [Éternel](https://open.spotify.com/track/0CGMRBUggHCveV09rurvlL) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [dani](https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f) | 3:14 | 2022-07-28 | 2022-09-02 |
 | [Éternel](https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Éternel](https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff) | 3:14 | 2022-05-12 | 2022-07-29 |

@@ -754,7 +754,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 171759,
       "name": "Escape Gravity",
       "url": "https://open.spotify.com/track/3xjsbk8OtU1uR3FuOPS2NT"
@@ -2558,6 +2558,24 @@
       "duration_ms": 183333,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G"
+    },
+    {
+      "album": {
+        "name": "Stillness Above",
+        "url": "https://open.spotify.com/album/705Kqq7Zt7yr5Ldfwsx2YL"
+      },
+      "artists": [
+        {
+          "name": "Elysio Stone",
+          "url": "https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162707,
+      "name": "Stillness Above",
+      "url": "https://open.spotify.com/track/2PsCjzE5BD5mK0EPcPUH8F"
     },
     {
       "album": {

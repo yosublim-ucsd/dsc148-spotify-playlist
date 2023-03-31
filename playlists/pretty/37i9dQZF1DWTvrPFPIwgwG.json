@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Cristina Mel",
-  "num_followers": 65473,
+  "num_followers": 65632,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGU2YjJkNzRmMDI0MjdkNTRlNmFiMTA5MjA0NzNhNmMz",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGFhYjJmMGJmZTE3ODMwMzMxZjkyNjFiYTMxNGQxYjQ5",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vou Deixar na Cruz",
-        "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 334692,
-      "name": "Vou Deixar na Cruz",
-      "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "O Processo",
         "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 290816,
       "name": "O Processo",
       "url": "https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Vou Deixar na Cruz",
+        "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 334692,
+      "name": "Vou Deixar na Cruz",
+      "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "N\u00e3o Pare Agora",
-        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 269775,
-      "name": "N\u00e3o Pare Agora",
-      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Ele N\u00e3o Mudou",
         "url": "https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 269183,
       "name": "Ele N\u00e3o Mudou",
       "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "N\u00e3o Pare Agora",
+        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 269775,
+      "name": "N\u00e3o Pare Agora",
+      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "A Voz do Doce Esp\u00edrito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 351613,
+      "name": "A Voz do Doce Esp\u00edrito - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Limite (Ao Vivo)",
         "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 278613,
       "name": "Limite - Ao Vivo",
       "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Senhor do Tempo",
-        "url": "https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 274803,
-      "name": "Senhor do Tempo",
-      "url": "https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Vem Senhor",
+        "url": "https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 312938,
+      "name": "Vem Senhor",
+      "url": "https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Vem Senhor",
-        "url": "https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        }
-      ],
-      "duration_ms": 312938,
-      "name": "Vem Senhor",
-      "url": "https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -943,8 +943,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
-        "url": "https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4"
+        "name": "Jesus Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 268515,
-      "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU"
+      "duration_ms": 268000,
+      "name": "Jesus Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Pai",
+        "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "duration_ms": 356624,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Profetiza",
         "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Pai",
-        "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"
-      },
-      "artists": [
-        {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
-        }
-      ],
-      "duration_ms": 356624,
-      "name": "Pai",
-      "url": "https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Sou Teu Deus",
         "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
       },
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Jesus Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
+        "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
+        "url": "https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4"
       },
       "artists": [
         {
@@ -1124,9 +1124,25 @@
           "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Jesus Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
+      "duration_ms": 268515,
+      "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Be9JdrnglYnu86FhhXJPi"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 493999,
+      "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5p63CZ4R0gUE30iL1TbarD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1163,22 +1179,6 @@
       "duration_ms": 301619,
       "name": "Marcados pela Gl\u00f3ria",
       "url": "https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Be9JdrnglYnu86FhhXJPi"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 493999,
-      "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5p63CZ4R0gUE30iL1TbarD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "A Voz do Doce Esp\u00edrito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj"
+        "name": "Senhor do Tempo",
+        "url": "https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE"
       },
       "artists": [
         {
@@ -1452,9 +1452,9 @@
           "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
         }
       ],
-      "duration_ms": 351613,
-      "name": "A Voz do Doce Esp\u00edrito - Ao Vivo",
-      "url": "https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa"
+      "duration_ms": 274803,
+      "name": "Senhor do Tempo",
+      "url": "https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq"
     },
     {
       "added_at": "2023-03-24 03:00:00",

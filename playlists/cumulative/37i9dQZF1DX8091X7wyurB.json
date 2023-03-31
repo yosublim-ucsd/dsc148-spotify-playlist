@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 193163,
       "name": "VIBES",
       "url": "https://open.spotify.com/track/05ee5RwDmyeOpIQeshWlJq"
@@ -2186,6 +2186,24 @@
       "duration_ms": 475544,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6yZu268Sq4D1xfEY0Q9x8f"
+    },
+    {
+      "album": {
+        "name": "VICTORY DANCE",
+        "url": "https://open.spotify.com/album/4HOinc1ltZLvIjmHlA2E2M"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593064,
+      "name": "VICTORY DANCE",
+      "url": "https://open.spotify.com/track/0bRt230xIYDhNJ6fC1voSt"
     },
     {
       "album": {

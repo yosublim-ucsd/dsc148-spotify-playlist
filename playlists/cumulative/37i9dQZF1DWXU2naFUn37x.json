@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano, con 50 Tony in cover.",
+  "description": "La casa dello street rap italiano. Neima Ezza in cover.",
   "name": "Street Culto",
   "tracks": [
     {
@@ -240,6 +240,24 @@
       "duration_ms": 113403,
       "name": "aka DOLCE&GABBANA",
       "url": "https://open.spotify.com/track/3UbG721DOAQ0mO3Vgrnnwa"
+    },
+    {
+      "album": {
+        "name": "ALBV",
+        "url": "https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "ALBV",
+      "url": "https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79"
     },
     {
       "album": {
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 174752,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/0U9hvXudneGTIO3WtpVoh0"
@@ -650,6 +668,28 @@
       "duration_ms": 159272,
       "name": "Bandito",
       "url": "https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI"
+    },
+    {
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/41EM84IPIMmhqzbz3KrAZm"
+      },
+      "artists": [
+        {
+          "name": "el 3askar",
+          "url": "https://open.spotify.com/artist/5dx9aSpPXXCtmaDltSSAy6"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151788,
+      "name": "Batman",
+      "url": "https://open.spotify.com/track/4jEIiFxvacRKVIIlAw3uLY"
     },
     {
       "album": {
@@ -1824,7 +1864,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 151833,
       "name": "DRIN DRIN (feat. Slings)",
       "url": "https://open.spotify.com/track/1h5ydKuWLZXRCdM8fHw1Ys"
@@ -3164,10 +3204,32 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 217103,
       "name": "Mentalit\u00e9",
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "album": {
+        "name": "Mentalit\u00e9 RMX (feat. ASHE 22)",
+        "url": "https://open.spotify.com/album/0M1NDlEKQ03aDlPqHOfkre"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Mentalit\u00e9 RMX (feat. ASHE 22)",
+      "url": "https://open.spotify.com/track/47XiTkMb4QCa2iMGAeRhOp"
     },
     {
       "album": {
@@ -4000,6 +4062,28 @@
       "duration_ms": 139354,
       "name": "Probl\u00e8mes",
       "url": "https://open.spotify.com/track/6wdpb17i1FDIexi6x1vTke"
+    },
+    {
+      "album": {
+        "name": "Progressi (feat. Vale pain)",
+        "url": "https://open.spotify.com/album/4TXJALE2louD30G0onu9zl"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150006,
+      "name": "Progressi (feat. Vale pain)",
+      "url": "https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662"
     },
     {
       "album": {
@@ -5550,6 +5634,24 @@
       "duration_ms": 145200,
       "name": "YO",
       "url": "https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m"
+    },
+    {
+      "album": {
+        "name": "ZONDA",
+        "url": "https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217190,
+      "name": "ZONDA",
+      "url": "https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x"

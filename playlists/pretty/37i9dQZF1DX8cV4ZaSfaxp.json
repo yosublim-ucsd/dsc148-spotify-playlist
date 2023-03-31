@@ -1,15 +1,15 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: \bJuJu Secret(\uc8fc\uc8fc \uc2dc\ud06c\ub9bf)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 38027,
+  "num_followers": 38057,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTg5MDQyOSwwMDAwMDAwMGQ5OWNhNmFiN2IwYTUwNTdlMmI2MTU1MzA1NjM3MDEz",
+  "snapshot_id": "MTY3OTg5MDQyOSwwMDAwMDAwMGIwNDU2YTFjNjM2NjA4MGU2Y2U0MWFmZjk1MDJkYTkw",
   "tracks": [
     {
-      "added_at": "2023-03-30 00:51:14",
+      "added_at": "2023-03-31 01:29:43",
       "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "MORE & MORE",
-        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "SWEET SUMMER DAY",
-      "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Holiday Night - The 6th Album",
         "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 222893,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1UwERmn5UogyCz6qo21BmA"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "SWEET SUMMER DAY",
+      "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Naturalness",
         "url": "https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 200767,
       "name": "Someone like U",
       "url": "https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
         "name": "City Drive",
         "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 207888,
       "name": "City Drive",
       "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "Cristal Love",
-        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
-      },
-      "artists": [
-        {
-          "name": "En Sokum",
-          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "Cristal Love",
-      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
+        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
       },
       "artists": [
         {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
+      "duration_ms": 190363,
+      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
+      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
+        "name": "Cristal Love",
+        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
       },
       "artists": [
         {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+          "name": "En Sokum",
+          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
         }
       ],
-      "duration_ms": 190363,
-      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
-      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
+      "duration_ms": 217058,
+      "name": "Cristal Love",
+      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
     },
     {
       "added_at": "2023-02-14 07:41:01",

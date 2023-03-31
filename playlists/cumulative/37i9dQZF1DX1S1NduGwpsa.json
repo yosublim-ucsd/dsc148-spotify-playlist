@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover:  Jaron Marshall",
+  "description": "The best jazz new releases. Cover:  Emilie-Claire Barlow",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -306,6 +306,28 @@
       "duration_ms": 301440,
       "name": "An Ode",
       "url": "https://open.spotify.com/track/59C1gt0M1tvtwFdJR0tzX1"
+    },
+    {
+      "album": {
+        "name": "Apho",
+        "url": "https://open.spotify.com/album/3W9XyDsJb5XDmF2iIFsjMx"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "Apho",
+      "url": "https://open.spotify.com/track/4PShi8ZHJXoax9jqzSiMa2"
     },
     {
       "album": {
@@ -668,7 +690,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 265833,
       "name": "Capacity to Love",
       "url": "https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O"
@@ -1329,6 +1351,36 @@
     },
     {
       "album": {
+        "name": "Les \u00c9gar\u00e9s (with Ballak\u00e9 Sissoko, Vincent Segal, Emile Parisien & Vincent Peirani)",
+        "url": "https://open.spotify.com/album/2mrxRmDXdZFlEKZZx9OcWR"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        },
+        {
+          "name": "Vincent Peirani",
+          "url": "https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO"
+        },
+        {
+          "name": "Vincent S\u00e9gal",
+          "url": "https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369626,
+      "name": "Dou",
+      "url": "https://open.spotify.com/track/42F16X6WRCAFwPyRY4nH7O"
+    },
+    {
+      "album": {
         "name": "That's it (Oriundo)",
         "url": "https://open.spotify.com/album/7mZ22LtynPQGkYueUtyUxQ"
       },
@@ -1669,6 +1721,44 @@
     },
     {
       "album": {
+        "name": "Introducing - Danger Zone",
+        "url": "https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP"
+      },
+      "artists": [
+        {
+          "name": "Alex Gilson",
+          "url": "https://open.spotify.com/artist/6zP7fwcpwsvsLNxr3iy6hW"
+        },
+        {
+          "name": "Paul Morvan",
+          "url": "https://open.spotify.com/artist/4LkQzb3Bx2pwv3hJz6AwWl"
+        },
+        {
+          "name": "Amaury Faye",
+          "url": "https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte"
+        },
+        {
+          "name": "Michel Pastre",
+          "url": "https://open.spotify.com/artist/72H0XVdRgj7SFQOKiDDw1P"
+        },
+        {
+          "name": "Bj\u00f6rn Ingelstam",
+          "url": "https://open.spotify.com/artist/46OCIaWgZaJ0Poxo4pb5Nw"
+        },
+        {
+          "name": "Hetty Kate",
+          "url": "https://open.spotify.com/artist/1bYORMqj7kCJLefgG7hvR8"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114413,
+      "name": "Gravy Waltz",
+      "url": "https://open.spotify.com/track/1DEJ1CsHeZUHaXAULowcw5"
+    },
+    {
+      "album": {
         "name": "Guess Who I Saw Today (Duo Version)",
         "url": "https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI"
       },
@@ -1702,7 +1792,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 187804,
       "name": "G\u00e9n\u00e9rique",
       "url": "https://open.spotify.com/track/2XXVHJPBCLwZZ3maDxmXdi"
@@ -2421,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "Spark Bird",
+        "url": "https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246672,
+      "name": "Little Jazz Bird",
+      "url": "https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG"
+    },
+    {
+      "album": {
         "name": "Solo Suites",
         "url": "https://open.spotify.com/album/6yZr9kTMjd7wF4SOy74683"
       },
@@ -2654,7 +2762,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 134861,
       "name": "Man At Heart",
       "url": "https://open.spotify.com/track/36obvzkBpCzXGP0cohkZlZ"
@@ -3904,7 +4012,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 274945,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
@@ -4160,6 +4268,24 @@
       "duration_ms": 200000,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/00ItGhp6jpOUHX7ELUTcNB"
+    },
+    {
+      "album": {
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68"
     },
     {
       "album": {
@@ -4588,7 +4714,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-31",
       "duration_ms": 242693,
       "name": "Trucmuche",
       "url": "https://open.spotify.com/track/3NW4eGNqozQfGVV7sFzKVo"

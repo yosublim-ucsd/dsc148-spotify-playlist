@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Bebende",
+        "url": "https://open.spotify.com/album/2l8HYZ1xJsX7GbKxvjsE3U"
+      },
+      "artists": [
+        {
+          "name": "3 Pemuda Berbahaya",
+          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
+        },
+        {
+          "name": "Ferdinan Sule",
+          "url": "https://open.spotify.com/artist/1CrwRIUK36rqXADc2O6YdP"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Bebende",
+      "url": "https://open.spotify.com/track/6QM1lU1VMJlSROw6ZJ40u5"
+    },
+    {
+      "album": {
         "name": "Discopunkhead",
         "url": "https://open.spotify.com/album/6sSnkZGa92joNiWAeFr44B"
       },

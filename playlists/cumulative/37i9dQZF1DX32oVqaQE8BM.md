@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-516 songs - 21 hr 58 min
+518 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2021-11-10 | 2022-04-15 |
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 | 2022-07-01 |
 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 | 2023-01-13 |  |
+| [Mood Swings](https://open.spotify.com/track/6XvSncrNnxoRZSmUaPU3Gv) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Mood Swings](https://open.spotify.com/album/2BYszs7gtu78XTXlaxVhsi) | 1:38 | 2023-03-31 |  |
 | [Moon Rail](https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Moon Rail](https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq) | 2:40 | 2022-09-16 |  |
 | [More of this, Please](https://open.spotify.com/track/1rpgqpnLdGtsYl4ySLoH58) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [More of this, Please](https://open.spotify.com/album/1Fho1AQFCUj9wQYi7RNt8A) | 4:25 | 2022-08-19 |  |
 | [Morning Dew](https://open.spotify.com/track/7s58sYNKRFrmmg1jrVI4zv) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO), [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor), [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Morning Dew](https://open.spotify.com/album/0UezO0jwUObQ6dfl0Lk4XT) | 1:54 | 2022-01-21 |  |
@@ -489,6 +490,7 @@
 | [u shine](https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd) | [shapure](https://open.spotify.com/artist/34grM2pbi7LfEpQTrwURpL) | [u shine](https://open.spotify.com/album/2Z6b3szOnc0srhttso8uIq) | 2:12 | 2022-01-21 |  |
 | [Under The Stars](https://open.spotify.com/track/7JaX10rbsmPiwJANAjAouR) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Under The Stars](https://open.spotify.com/album/7ivCdZwxSn6gvMPPajMOlO) | 1:55 | 2023-02-09 |  |
 | [Under The Weather](https://open.spotify.com/track/3QdRVeDM7SZTX8YV6UtLKh) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Forever](https://open.spotify.com/album/6X13XBbTcWAggczlHX3hNr) | 3:12 | 2022-10-28 |  |
+| [Underground Sound](https://open.spotify.com/track/6qmAVLvlEvJdXtyEmHZ37M) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Underground Sound](https://open.spotify.com/album/4em4imooU76fZnibhNhuB8) | 2:17 | 2023-03-31 |  |
 | [unity](https://open.spotify.com/track/3Jg02v8nQp88GN1TqiAtKT) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [power to flow](https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll) | 3:24 | 2022-05-20 |  |
 | [Until Dawn](https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Until Dawn](https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI) | 2:26 | 2021-11-10 |  |
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 |  |
