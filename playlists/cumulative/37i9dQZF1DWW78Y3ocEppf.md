@@ -2,9 +2,9 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> The feelings you can't put into words...only songs\. Cover: Traetwothree & Sevyn Streeter
+> The feelings you can't put into words...only songs\. Cover: THEY.
 
-462 songs - 1 day 0 hr 33 min
+465 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-08-05 | 2023-03-18 |
 | [Can We Be Friends?](https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Can We Be Friends?](https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o) | 2:56 | 2021-12-15 | 2022-07-28 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-05-27 | 2022-08-06 |
+| [Care](https://open.spotify.com/track/6tv0ml6tExtwYWCiJfhvmN) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [Care](https://open.spotify.com/album/5je4RRaGpRma4N5fK9xhpY) | 1:48 | 2023-03-31 |  |
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-10 |  |
 | [Cartier](https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection Too](https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b) | 3:16 | 2022-07-01 | 2022-08-06 |
 | [Caught Up](https://open.spotify.com/track/2Bm2pjLh2wlYwZ4nrcY6wU) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Caught Up](https://open.spotify.com/album/2h8lT0Ffh2eHz87LXY40v2) | 2:12 | 2021-12-15 | 2022-07-27 |
@@ -340,7 +341,9 @@
 | [recognize](https://open.spotify.com/track/5nnFzV03IyFJK9GHhVxpXn) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 3:13 | 2022-10-14 | 2023-03-25 |
 | [Rich Girl](https://open.spotify.com/track/5BOzvUNdF15sLFeZkxXNuA) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Rich Girl](https://open.spotify.com/album/1wABNR02b7NuEYawiFquby) | 2:42 | 2022-12-09 | 2023-01-28 |
 | [Ride](https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Ride](https://open.spotify.com/album/5JdNEDADKC0WVWCa0Gd3GC) | 2:53 | 2022-10-07 |  |
+| [Right My Wrongs](https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs](https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P) | 2:31 | 2023-03-31 |  |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2021-12-15 | 2022-07-27 |
+| [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 | 2023-03-31 |  |
 | [Risky](https://open.spotify.com/track/2ZSLDwHIXr5yWI9d3iZr7R) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Risky](https://open.spotify.com/album/0tskRa5YB9FfD0z9K6JvWF) | 2:39 | 2023-02-17 | 2023-03-25 |
 | [ROLE MODEL](https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:14 | 2022-07-08 | 2022-08-06 |
 | [ROLLING STONE](https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:42 | 2022-08-05 |  |
@@ -365,7 +368,7 @@
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 |  |
 | [Shoestring](https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Shoestring](https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH) | 3:58 | 2022-03-11 | 2022-07-21 |
 | [Shoot](https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Lost In Melody \(Deluxe\)](https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m) | 2:24 | 2023-02-10 |  |
-| [Should Have Cared](https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Should Have Cared](https://open.spotify.com/album/0ETiF2YCpnUMf0A9R8XPao) | 3:32 | 2023-01-27 |  |
+| [Should Have Cared](https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Should Have Cared](https://open.spotify.com/album/0ETiF2YCpnUMf0A9R8XPao) | 3:32 | 2023-01-27 | 2023-04-01 |
 | [Shoulda](https://open.spotify.com/track/4nRYjMFeJOJQbNC0QDLOkS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Shoulda](https://open.spotify.com/album/3sQ1EVwf6xDXaNOK32a7h8) | 3:37 | 2021-12-15 | 2022-03-23 |
 | [SIDEKICK \(with Joyce Wrice\) \- BONUS](https://open.spotify.com/track/0h3BFerMyzUaYYh2nwGiX3) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:14 | 2023-03-03 |  |
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2021-12-15 | 2023-02-04 |
@@ -377,7 +380,7 @@
 | [So Be It \(with Summer Walker\) \- Remix](https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 3:13 | 2023-03-17 |  |
 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/3X3TlieuOl8aWzw2HeigUo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [So Done \(feat\. Khalid\)](https://open.spotify.com/album/062XA53aUGExhE7e8ngYQO) | 3:55 | 2021-12-15 | 2022-07-23 |
 | [So Frequently](https://open.spotify.com/track/5dpEHuTqnkM0SxzRpme5Bi) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [So Frequently](https://open.spotify.com/album/773nWzQZ7Uy2BekzwLAUYI) | 3:01 | 2021-12-15 | 2022-07-22 |
-| [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse) | 3:44 | 2022-08-26 |  |
+| [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse) | 3:44 | 2022-08-26 | 2023-04-01 |
 | [So So Sick](https://open.spotify.com/track/4edxOO3ZAuDTlJi3P98kDH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [So So Sick](https://open.spotify.com/album/6YEmBhITTqQZ4sYsh5tcqD) | 3:57 | 2021-12-15 | 2022-07-27 |
 | [Sober \(With Jeremih\)](https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Sober \(With Jeremih\)](https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq) | 4:13 | 2022-07-08 | 2022-07-18 |
 | [Sock It 2 Me](https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sock It 2 Me](https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35) | 3:21 | 2022-08-05 |  |
@@ -465,7 +468,7 @@
 | [WTF](https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [No Weapons](https://open.spotify.com/album/6qCsH9hHN8PPVLvlswoaNt) | 2:30 | 2022-09-23 | 2022-10-08 |
 | [XTC](https://open.spotify.com/track/1fvQlrdNbWulW6xRYnUwYn) | [Siergio](https://open.spotify.com/artist/6PSc1olsEQHlpmi4MRIBFP) | [BEFORE IT'S TOO LATE](https://open.spotify.com/album/1t43eH5HnqYEtadR8amnr8) | 3:53 | 2022-08-26 | 2022-10-22 |
 | [Yesterday](https://open.spotify.com/track/4qSbi8LdPZR9jK9PsjxB9q) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Yesterday](https://open.spotify.com/album/323AklysBbimYo27pWCj0K) | 2:59 | 2021-12-15 | 2022-07-07 |
-| [YOU](https://open.spotify.com/track/5OuASjeBIKFKBxslQCTbXJ) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [YOU](https://open.spotify.com/album/2BAYApB6DoC15IToR95xSk) | 4:00 | 2023-03-17 |  |
+| [YOU](https://open.spotify.com/track/5OuASjeBIKFKBxslQCTbXJ) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [YOU](https://open.spotify.com/album/2BAYApB6DoC15IToR95xSk) | 4:00 | 2023-03-17 | 2023-04-01 |
 | [You Don’t Know Me](https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:20 | 2022-08-05 |  |
 | [You Made A Fool Of Me](https://open.spotify.com/track/0zh3RhUmTQXU6MNU7ehP7m) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [You Made A Fool Of Me](https://open.spotify.com/album/4IQy1wMdio3OMwe9lGVEjl) | 3:22 | 2021-12-15 | 2022-04-17 |
 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-16 |  |

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWxrt1tiKYiX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWxrt1tiKYiX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWxrt1tiKYiX)
 
-### [Unplugged](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
+### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Stripped\-down versions of all your favorite pop hits\. Cover: Niall Horan
+> Acoustic versions of your fave pop songs\. Cover: Taylor Swift
 
-151 songs - 8 hr 23 min
+152 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [I Do \- Acoustic](https://open.spotify.com/track/5pjzipvnlBtoDZ3UrH7WzP) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Acoustic chill 2020](https://open.spotify.com/album/46hH4VHo5r4juSC3POdSTm) | 2:36 | 2022-10-14 | 2022-11-13 |
 | [I Do \- Acoustic](https://open.spotify.com/track/65kVMNO2Q0RGw8zEnXA2E3) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [I Do \(Acoustic\)](https://open.spotify.com/album/0wkXv1imF91qYQeBzXhkAA) | 2:36 | 2022-01-28 | 2022-07-29 |
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/25nRDHdWic4DCEJbaI6iDe) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/3EXg4D2T5PY1NBP2aiBWrf) | 3:06 | 2022-01-28 | 2022-07-29 |
-| [i don't wanna know \- acoustic](https://open.spotify.com/track/3dNEnD700nYq0TY0w6AJjs) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/6w5WeoBQSHL9FFmk6ZiYOG) | 3:06 | 2022-12-09 |  |
+| [i don't wanna know \- acoustic](https://open.spotify.com/track/3dNEnD700nYq0TY0w6AJjs) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/6w5WeoBQSHL9FFmk6ZiYOG) | 3:06 | 2022-12-09 | 2023-04-01 |
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd) | 3:06 | 2022-07-15 | 2023-02-15 |
 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 | 2022-01-28 |  |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4OQE489ScQdhBcELfacJw0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:07 | 2022-10-14 | 2022-12-03 |
@@ -89,8 +89,9 @@
 | [Kiss Me \- Guitar](https://open.spotify.com/track/0X2DSuFNxMdw6Gr4XZcTqJ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy) | 3:38 | 2022-11-13 |  |
 | [Kiss Me \- Guitar](https://open.spotify.com/track/3Sf2bgJlNZQwkv3VpoT3Zp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me \(Guitar\)](https://open.spotify.com/album/64YI1ILJJXcVpgJfJcLbPL) | 3:38 | 2022-10-08 | 2022-10-16 |
 | [Kiss Me \- Guitar](https://open.spotify.com/track/3bNHiYwoKVcflW2tnzQG45) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/1FM4P2J86LgXgLL7Amw6qQ) | 3:38 | 2022-10-14 | 2022-11-16 |
-| [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 | 2022-01-28 |  |
+| [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 | 2022-01-28 | 2023-04-01 |
 | [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2022-01-28 |  |
+| [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-03-31 |  |
 | [Let Somebody Go \- Piano Version](https://open.spotify.com/track/2zVeRtqrrRXpCizKlywvvr) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Let Somebody Go \(Piano Version\)](https://open.spotify.com/album/1mbwiDXEr8l6mK7o76dqyu) | 4:09 | 2022-03-18 |  |
 | [Lie To Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 2:40 | 2022-01-28 |  |
 | [Life Goes On \- Acoustic](https://open.spotify.com/track/0QPiTFqPuUt6NPcJGv5E9u) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Life Goes On \(Acoustic\)](https://open.spotify.com/album/0lQiE1GyOTVwz6VPy8vY6u) | 2:41 | 2022-01-28 | 2023-03-11 |

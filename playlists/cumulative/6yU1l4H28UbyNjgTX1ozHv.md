@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-161 songs - 8 hr 36 min
+162 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Picking Up the Pieces \- Acoustic Version](https://open.spotify.com/track/4f13aRetwXvYfiALLZyQg0) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Picking Up The Pieces](https://open.spotify.com/album/27e00D6FS96O5rXpcn06CJ) | 3:45 | 2019-10-13 |  |
 | [Pointless \- Acoustic](https://open.spotify.com/track/6Lv2VsZijTj0x6BmMk30CR) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Pointless \(Acoustic\)](https://open.spotify.com/album/2sHjB2UBTgSAOCHocUagmz) | 3:29 | 2023-03-17 |  |
 | [Rather Be](https://open.spotify.com/track/0Z0gcy8fZUhsyPCgrPJwHo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs) | 4:07 | 2019-10-13 |  |
+| [Respect \- Acoustic](https://open.spotify.com/track/22ihU3hpmt2tTp68Ns7yMi) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Respect \(Acoustic\)](https://open.spotify.com/album/2V4GPW1tBQjSXYycFOYnHI) | 2:36 | 2023-03-31 |  |
 | [Ring of Fire \- Acoustic](https://open.spotify.com/track/0MwVyvX8zBCFzLxSD0typJ) | [Retreat](https://open.spotify.com/artist/5j5G6aCjRNizjNQKjf2PTB) | [Ring of Fire \(Acoustic\)](https://open.spotify.com/album/5C8Z4XQ2mBq5WIlOeXlN1v) | 3:05 | 2019-11-16 |  |
 | [Rise Up \- Acoustic](https://open.spotify.com/track/1qmCoha1HrkCVInVnfhpPC) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Rise Up \(Acoustic\)](https://open.spotify.com/album/1QC3l2jIGCX0FeIXZgIgLW) | 3:16 | 2021-09-24 | 2023-03-25 |
 | [Running Up That Hill \(A Deal With God\) \- Acoustic](https://open.spotify.com/track/0eMIhZyrQ1SqPR89AJ3oOx) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Running Up That Hill \(A Deal With God\) \[Acoustic\]](https://open.spotify.com/album/6EvmJCsRyjv2XvOxhCoGKG) | 2:47 | 2022-07-22 |  |

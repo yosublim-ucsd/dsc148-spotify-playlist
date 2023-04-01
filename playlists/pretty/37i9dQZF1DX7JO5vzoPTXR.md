@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Co\-curated by <a href="https://open.spotify.com/playlist/37i9dQZF1EFEmM5igE6t5U?si=63b7635077ac4ada">Alicia Keys</a> for International Women's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,929 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,940 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brand New Me](https://open.spotify.com/track/0827eActpDYORuhgvWB0oY) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:53 |
-| 2 | [happy place](https://open.spotify.com/track/11Wc47w3kwfGzCZnH44DT7) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep \(deluxe\)](https://open.spotify.com/album/59i3drfYd0zO4OLECmFCPB) | 3:37 |
+| 2 | [happy place](https://open.spotify.com/track/3MbiroMG6peCHunxhg7Uvg) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 3:37 |
 | 3 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
 | 4 | [Wasn't It Good](https://open.spotify.com/track/2Nqg9XEjLFhAXkjKS8vl0b) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Rose Avenue, Vol\. 1](https://open.spotify.com/album/7flxO7TtfIHCrVAShFTkyY) | 3:08 |
 | 5 | [daydream](https://open.spotify.com/track/1t0faf8iw1XbaJ0yznpPcB) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6uyX7aeHjV89017CRZ2CuU) | 1:09 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Picture You Naked](https://open.spotify.com/track/5EX6Fj4aElgJUt1YXuEn6F) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Picture You Naked](https://open.spotify.com/album/5ifwFsUzVSnj7QYN7FMnaY) | 2:40 |
 | 40 | [Pieces of Us](https://open.spotify.com/track/40C4qzkk9D02wwTtCoe3HI) | [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Pieces of Us](https://open.spotify.com/album/5s85YliyLqpolbvGqn6LJa) | 2:28 |
 
-Snapshot ID: `MTY3NzY4OTM4MywwMDAwMDAwMDFlYTY3MzM5YWYxOGFkYTliYjY5Mjc3ODJmNTNkODRj`
+Snapshot ID: `MTY3NzY4OTM4MywwMDAwMDAwMGZhMTIwZjZiNDI5YzYwNTY4YTk4ZWNkYmZiYTliMmIz`

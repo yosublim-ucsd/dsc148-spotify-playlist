@@ -4,7 +4,7 @@
 
 > We hear you.
 
-558 songs - 1 day 3 hr 31 min
+559 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Emerald Eyes](https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:59 | 2022-10-14 |  |
 | [Emerald Eyes](https://open.spotify.com/track/2zRLogAqKnlcMRyOExw3LF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Emerald Eyes](https://open.spotify.com/album/096BfAFZuA5gBkimUSm09A) | 3:59 | 2021-04-02 | 2022-07-21 |
 | [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 | 2021-04-02 | 2022-05-31 |
-| [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 |  |
+| [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 | 2023-04-01 |
 | [Empty Room](https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW) | [Rishi](https://open.spotify.com/artist/5q1xsAah3kIdY7ouXeBa08) | [Empty Room](https://open.spotify.com/album/39LG3JcDyjuE9QHVhsL3mR) | 3:25 | 2021-06-25 | 2022-04-17 |
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 |  |
 | [Everything and More](https://open.spotify.com/track/6qTEh8LELYNp9QCYyYfZS4) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 1:59 | 2021-04-02 | 2022-07-03 |
@@ -166,6 +166,7 @@
 | [Good News](https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Ode](https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi) | 3:37 | 2022-07-29 | 2022-08-06 |
 | [Good on My Own](https://open.spotify.com/track/3bmgfeipIJSaOQRCm921Q6) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Good on My Own](https://open.spotify.com/album/645fXZT4iCYRRHt7UxPedX) | 2:00 | 2021-04-02 | 2022-04-13 |
 | [good things don’t last](https://open.spotify.com/track/09lRx1uMYnTqg3Cr3RHwNW) | [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [disconnected](https://open.spotify.com/album/2JFrqPBNrWtT0LSJqi2GUq) | 4:14 | 2022-03-29 | 2022-04-17 |
+| [Grass Stains](https://open.spotify.com/track/3jwhPyYe4NDco07yFdHQeD) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Grass Stains](https://open.spotify.com/album/00TuEOSyery5s9pOXX6F4I) | 3:01 | 2023-03-23 |  |
 | [Greta Thunberg](https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Greta Thunberg](https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k) | 4:04 | 2022-07-19 | 2022-08-25 |
 | [Growing Up](https://open.spotify.com/track/5OCgxL9wr0gLTiBE6525Ma) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Growing Up](https://open.spotify.com/album/0eqJuk0wrFYvVjL9BMfLNl) | 2:25 | 2021-04-02 | 2022-04-21 |
 | [haircuT](https://open.spotify.com/track/4UYeZa4OZYSpH6D0COt9my) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [haircuT](https://open.spotify.com/album/5M8rPkER2lPVu6MFPIbEd4) | 2:10 | 2021-04-02 | 2022-04-21 |
@@ -271,7 +272,7 @@
 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 | 2021-04-02 | 2023-03-22 |
 | [It'sNotOver](https://open.spotify.com/track/46IYlGAbGcgllTPV7I7wOO) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [It'sNotOver](https://open.spotify.com/album/7nKjwNymR0nZtWjYw2gdiz) | 2:36 | 2021-04-02 | 2022-04-14 |
 | [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 | 2022-07-15 | 2022-12-24 |
-| [Joker](https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 1:56 | 2023-03-31 |  |
+| [Joker](https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 1:56 | 2023-03-30 |  |
 | [Just a Little Bit](https://open.spotify.com/track/6ZmhbKECqsiXqnRUnOyObR) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [Just a Little Bit](https://open.spotify.com/album/4ICkpi7j54DJS88WRmBWjy) | 1:49 | 2021-04-02 | 2022-04-20 |
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-04-02 | 2022-04-18 |
 | [just don't hurt me](https://open.spotify.com/track/0mXltaK1ktzHAK4rd6jAbY) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [just don't hurt me](https://open.spotify.com/album/6huHcFOz0Rbbg9zsGUTF39) | 2:38 | 2022-01-27 | 2022-07-05 |

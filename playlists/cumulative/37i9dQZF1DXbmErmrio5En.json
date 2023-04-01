@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "It's Goin Bad / Lacerate",
+        "url": "https://open.spotify.com/album/5kxj9JXn7XW5b4B82e5MUw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "It's Goin Bad",
+      "url": "https://open.spotify.com/track/1weAJG8eNS4Bbk0vYn7vV4"
+    },
+    {
+      "album": {
         "name": "jealousy",
         "url": "https://open.spotify.com/album/4RUrlqnlDk7HAQlruVR7SO"
       },

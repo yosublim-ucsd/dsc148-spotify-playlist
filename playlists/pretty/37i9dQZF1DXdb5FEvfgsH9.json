@@ -1,13 +1,37 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 15187,
+  "num_followers": 15215,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDcxMWUxZWQ2N2Y0NzkxMGY1ZGMxNzE2YTViYWNmYThj",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDNkY2RmNWYxNTg1YTg4NGY5MWJjOGM5ZTM5MGQwYTA4",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Sweet Chocolate",
+        "url": "https://open.spotify.com/album/5BVVVTZBCxSdPnD53cTdwe"
+      },
+      "artists": [
+        {
+          "name": "Bliss Station",
+          "url": "https://open.spotify.com/artist/14nuxkCmtQBF2SJfwl6vLu"
+        },
+        {
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
+        },
+        {
+          "name": "Ehiorobo",
+          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
+        }
+      ],
+      "duration_ms": 184409,
+      "name": "Sweet Chocolate",
+      "url": "https://open.spotify.com/track/4z3v6YfD5j0DiP2zE6cdYb"
+    },
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {

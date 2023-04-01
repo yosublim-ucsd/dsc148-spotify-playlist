@@ -1174,10 +1174,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 230855,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/5upUoCnUlWSHGP4N2b5guG"
+    },
+    {
+      "album": {
+        "name": "I Am Free",
+        "url": "https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230855,
+      "name": "I Am Free",
+      "url": "https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T"
     },
     {
       "album": {

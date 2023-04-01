@@ -4,11 +4,13 @@
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-47 songs - 4 hr 9 min
+50 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 Hours \(feat\. Eleonora\)](https://open.spotify.com/track/67bEUw1bJ3Gi7UaT0rs7V6) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [20 Hours \(feat\. Eleonora\)](https://open.spotify.com/album/0vSTidjll5U6h4C4C11VEq) | 4:03 | 2022-11-18 |  |
+| [Afraid of the Time \- Radio Edit](https://open.spotify.com/track/6V8X3Q0Eu8pkjXdqbs96JW) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 3:41 | 2023-03-31 |  |
+| [Afraid of the Time \- Reprise](https://open.spotify.com/track/33oY9P0s7mZO73OJVun7jK) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 4:58 | 2023-03-31 |  |
 | [All Worlds, All Times](https://open.spotify.com/track/584iH3axeLJq0yBdcFsan6) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Music Made for Aliens](https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP) | 6:27 | 2023-03-28 |  |
 | [Belgium](https://open.spotify.com/track/1mecAHTzBVDduXdtq9CYab) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Belgium](https://open.spotify.com/album/6M5sIfdTxwbHDyy8Dg4Ss7) | 7:02 | 2023-03-28 |  |
 | [Bionic Jungle](https://open.spotify.com/track/0FuxLvhDsdGu6XpnxGQrAf) | [Marcal](https://open.spotify.com/artist/6XVtxL4WRwoEqB1BpLel6y) | [Cyber Dystopia](https://open.spotify.com/album/2vsc8k41jsAyDZj4iCkXVD) | 4:58 | 2023-02-11 |  |
@@ -49,6 +51,7 @@
 | [Sunshine of Love \- Original Mix](https://open.spotify.com/track/0zXIXQjbNuh6GrQj0xTHur) | [VINCENT](https://open.spotify.com/artist/6TQAnU4OIrclxdDDXeyFNQ), [SANDRO](https://open.spotify.com/artist/1pkAUK21cKHTUUirGEfvIL), [MARIUS \(DE\)](https://open.spotify.com/artist/33PchVl2zwuIHf70f6IQia) | [Sunshine of Love](https://open.spotify.com/album/3qtjnOTPmdAUfr3t9llEVo) | 4:38 | 2022-10-29 |  |
 | [The Beginning](https://open.spotify.com/track/0eaEjfLZ4bgi7voFGdDjl8) | [Roberto Capuano](https://open.spotify.com/artist/2XWr3TCJUE6XBKd6BQrAc1) | [When the Lights Go Down](https://open.spotify.com/album/50v574ovT1KSQBsrLU6vbe) | 4:16 | 2023-01-09 |  |
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2022-10-31 |  |
+| [This Is Why \- Radio Edit](https://open.spotify.com/track/03wdmJSjGOKyPjyDyi174l) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 4:36 | 2023-03-31 |  |
 | [Through My Skin](https://open.spotify.com/track/00Je3Ur2xmGEhZd08FtQLQ) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Triation, Vol\. V](https://open.spotify.com/album/4WdjFSOirv2bXUXWBFxe4N) | 5:30 | 2022-12-08 |  |
 | [Voices on Earth](https://open.spotify.com/track/58VJrWe0QKan2KdLgx2pDG) | [Lautaro Ibañez](https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR), [Mart.in](https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg) | [Voices on Earth](https://open.spotify.com/album/3zEyg7EDfGqxyXIwmW4eHA) | 4:21 | 2023-01-09 |  |
 | [Warp Drive](https://open.spotify.com/track/6zdJnikLSW14nk8lrHcde5) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Senso Sounds Level 11](https://open.spotify.com/album/4jeU0bEaImdBYqYUhmrQRw) | 5:35 | 2023-03-28 |  |

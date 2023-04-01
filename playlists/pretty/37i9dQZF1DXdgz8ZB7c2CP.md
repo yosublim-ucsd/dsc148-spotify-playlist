@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring OBLVYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,536 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,611 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [Bliss](https://open.spotify.com/track/5QBB6vLewAk62JW9NiWOOR) | [Slow Hours](https://open.spotify.com/artist/3C1R0cMeIfSFxpAFxCh5yQ) | [Bliss](https://open.spotify.com/album/044FEBDoSpn23zEBgb41E0) | 4:00 |
 | 125 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 |
 
-Snapshot ID: `MTY3OTYzNDAwMCwwMDAwMDAwMDE1YzE4NmZkYmFmNmVhZGM2ZTMwMzk1OWRiYjhkY2Ey`
+Snapshot ID: `MTY4MDIzODgwMCwwMDAwMDAwMGVlM2RmODgyMTllZjk4NDQ5NjA0MTQ2MGQ4NDhjYjlj`

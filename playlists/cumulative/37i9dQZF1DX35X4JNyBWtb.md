@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-378 songs - 19 hr 53 min
+379 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2021-12-16 | 2022-07-29 |
 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-06-17 |  |
 | [Pure Grinding \- iSHi Remix](https://open.spotify.com/track/4NWrFSufg9qZRIcxjM8C7w) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [iSHi](https://open.spotify.com/artist/6Dy7Ex5zlTLgXbsB92rPji) | [Pure Grinding \(iSHi Remix\)](https://open.spotify.com/album/7KohAMQl7ppQIY0le9ygrY) | 3:26 | 2021-12-16 | 2022-06-29 |
-| [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-03-06 |  |
+| [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-03-06 | 2023-04-01 |
 | [Put Your Hands Up For Detroit \- Radio Edit](https://open.spotify.com/track/4ktcqIPjAi7eIZOayEp2UJ) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/5JfZVqINVo6gAe9ik4D28v) | 2:30 | 2022-03-15 | 2022-04-20 |
 | [Quechua](https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Quechua](https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq) | 2:59 | 2022-01-05 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-12-16 |  |
@@ -357,6 +357,7 @@
 | [Turn up the Speakers \- Radio Edit](https://open.spotify.com/track/7102UhVPxGoYGNE2w3duPh) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Turn Up The Speakers](https://open.spotify.com/album/1UZYYRkjn11x2mKROMeAYG) | 3:03 | 2022-03-15 | 2022-04-18 |
 | [U](https://open.spotify.com/track/4GGr9JefrXSJe14EfR5PIv) | [Scity](https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ) | [U](https://open.spotify.com/album/0XqtbWRzSG8ahkSa64Wfax) | 3:08 | 2022-02-07 | 2022-07-29 |
 | [Under Control \(feat\. Hurts\)](https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:04 | 2022-03-15 |  |
+| [V I B R A T I O N](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 | 2023-03-06 |  |
 | [Virus \(How About Now\)](https://open.spotify.com/track/3ukWpmRHvpuDATCJkgLEkF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/07c9ANynLvxYlO8aHWoNqP) | 4:33 | 2022-03-15 | 2022-04-19 |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2022-06-17 |  |
 | [Wake Me Up](https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3) | 4:07 | 2021-12-16 | 2022-04-21 |

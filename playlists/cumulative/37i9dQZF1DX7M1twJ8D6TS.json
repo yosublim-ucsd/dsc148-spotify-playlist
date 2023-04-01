@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177083,
+      "name": "Settle Me Down",
+      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
+    },
+    {
+      "album": {
         "name": "Settle Me Down",
         "url": "https://open.spotify.com/album/6xTLQhjUBGvO1p3tvdfHIY"
       },
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 177083,
       "name": "Settle Me Down",
       "url": "https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt"

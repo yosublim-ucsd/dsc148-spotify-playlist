@@ -11977,6 +11977,24 @@
     },
     {
       "album": {
+        "name": "novocaine",
+        "url": "https://open.spotify.com/album/2lZCuVtKtybtvxUvAgezue"
+      },
+      "artists": [
+        {
+          "name": "inshothekid",
+          "url": "https://open.spotify.com/artist/3ayczvanRCHC7xRAzccrdm"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135028,
+      "name": "novocaine",
+      "url": "https://open.spotify.com/track/7d3zPTH9RdEAyYEB7Oqn0f"
+    },
+    {
+      "album": {
         "name": "NSD",
         "url": "https://open.spotify.com/album/4U7A3xJWbE6VpJckysRY4l"
       },

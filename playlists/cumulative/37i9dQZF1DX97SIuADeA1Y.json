@@ -440,7 +440,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 139500,
       "name": "Barking",
       "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
@@ -702,6 +702,36 @@
       "duration_ms": 136888,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/4mPAGivO0Ndwf7y3xH1ng2"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/43cG9azowZhe7oSA5plrtU"
+      },
+      "artists": [
+        {
+          "name": "Kilian K",
+          "url": "https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs"
+        },
+        {
+          "name": "Hanzy",
+          "url": "https://open.spotify.com/artist/1xliYaHYde95usjxB4KGSO"
+        },
+        {
+          "name": "Mvnsin",
+          "url": "https://open.spotify.com/artist/3Uh0sBlbH3w0wikOXgkUw3"
+        },
+        {
+          "name": "Mike Defarlo",
+          "url": "https://open.spotify.com/artist/5g54b00wAZKvmMbeedPJO9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123711,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/42ab6M2Xm2Jkuo3nMUVgj3"
     },
     {
       "album": {
@@ -1612,7 +1642,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 155639,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/3jiFY98JhpsJm35glo7QEI"
@@ -1756,6 +1786,32 @@
       "duration_ms": 158571,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg"
+    },
+    {
+      "album": {
+        "name": "Good Rush",
+        "url": "https://open.spotify.com/album/7kLt25DYPXAFUAp8mqDX2z"
+      },
+      "artists": [
+        {
+          "name": "Bastiqe",
+          "url": "https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb"
+        },
+        {
+          "name": "TEEKE",
+          "url": "https://open.spotify.com/artist/05sS8zyG8jV4m5NQBSau6c"
+        },
+        {
+          "name": "Lena Sue",
+          "url": "https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140654,
+      "name": "Good Rush",
+      "url": "https://open.spotify.com/track/7z58RaBxBmUdE8DfCdhUgR"
     },
     {
       "album": {
@@ -2457,6 +2513,36 @@
     },
     {
       "album": {
+        "name": "Le bateau blanc",
+        "url": "https://open.spotify.com/album/2W1Ki2g5pJuSpvn4av9dhu"
+      },
+      "artists": [
+        {
+          "name": "Deepaim",
+          "url": "https://open.spotify.com/artist/2yTlIP5JyiKxuwn4Rb8NJd"
+        },
+        {
+          "name": "Perfect Pitch",
+          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
+        },
+        {
+          "name": "LIZEA",
+          "url": "https://open.spotify.com/artist/6vbCnbmgtfX3yfa6YMasVU"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Le bateau blanc",
+      "url": "https://open.spotify.com/track/4yzqy6HQawQnh60xFcAh9z"
+    },
+    {
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
       },
@@ -2602,6 +2688,28 @@
       "duration_ms": 194091,
       "name": "Little Do You Know",
       "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
+    },
+    {
+      "album": {
+        "name": "Little Do You Know",
+        "url": "https://open.spotify.com/album/1Lz3akge4vrDghd00codq2"
+      },
+      "artists": [
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "Tim Savey",
+          "url": "https://open.spotify.com/artist/3TEL2DJbZdLd1YzZ39lDvL"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Little Do You Know",
+      "url": "https://open.spotify.com/track/70wufoW9TjFQfcTGgFCiMV"
     },
     {
       "album": {
@@ -2830,6 +2938,24 @@
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
+    },
+    {
+      "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/4IpbHR99K8mA2BxKMDiZaI"
+      },
+      "artists": [
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/6ipBg7UZGv2mCbUWdmnGtA"
     },
     {
       "album": {
@@ -3499,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "PEPPERMINT (feat. Toby Romeo)",
+        "url": "https://open.spotify.com/album/2KKKB6vLbSG3bJd5mIoVtr"
+      },
+      "artists": [
+        {
+          "name": "Psaiko.Dino",
+          "url": "https://open.spotify.com/artist/4mfImR7GM7aMubah2rvlbB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "PEPPERMINT (feat. Toby Romeo)",
+      "url": "https://open.spotify.com/track/52RPbW5MNS0S6esTVqi9BA"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
@@ -3610,7 +3754,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 143266,
       "name": "Princess",
       "url": "https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK"
@@ -3898,7 +4042,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 158181,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
@@ -4854,7 +4998,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 138848,
       "name": "Wenn du mich siehst (RIBELLU Remix)",
       "url": "https://open.spotify.com/track/6fk38fqazMx6mDsCPfWcmL"
@@ -4976,7 +5120,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"

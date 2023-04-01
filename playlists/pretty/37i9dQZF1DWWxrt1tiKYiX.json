@@ -1,15 +1,31 @@
 {
-  "description": "Stripped-down versions of all your favorite pop hits. Cover: Niall Horan",
-  "num_followers": 119955,
-  "original_name": "Unplugged",
+  "description": "Acoustic versions of your fave pop songs. Cover: Taylor Swift",
+  "num_followers": 120201,
+  "original_name": "Acoustic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDc5ZTkwODRiNWE0NjI4YjM1NTcyYTkzMTNhY2VmMDAy",
+  "snapshot_id": "MTY4MDI3Nzk3MSwwMDAwMDAwMDBhMjYyOTNlMmRhZDkyODIwMzJhZjdmOTU0NzFiMGQ5",
   "tracks": [
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
+      "album": {
+        "name": "Lavender Haze (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Lavender Haze - Acoustic Version",
+      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
+    },
+    {
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Kill Bill (Acoustic)",
         "url": "https://open.spotify.com/album/1P1hvg624kDZJ841ZAZzWy"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Body Better (Acoustic)",
         "url": "https://open.spotify.com/album/510JGc0LpOJbhiB0uOM9m9"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4e3QW9GKxYi3fx7RjjZh58"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/1F0usgSkjLQNKW7wRsNvRY"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/7fAoDr6naastKUtqo75SNm"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Fall Into Me (Acoustic)",
         "url": "https://open.spotify.com/album/72yeKeLsex6CggzAfQ2mKz"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3tb8o3JQwicRSkbaB2uUcG"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Evergreen (You Didn't Deserve Me At All) [Stripped]",
         "url": "https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Numb Little Bug (Piano Version)",
         "url": "https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Light Switch (Acoustic)",
         "url": "https://open.spotify.com/album/0H6pdORxZ735HztupqklPx"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Devil Doesn\u2019t Bargain (Acoustic)",
         "url": "https://open.spotify.com/album/6R9I3f43R1OLJSGWixrqBo"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "So Good (Stripped)",
         "url": "https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Coast (Acoustic)",
         "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Victoria\u2019s Secret (Piano Stripped)",
         "url": "https://open.spotify.com/album/7cKckU7FmpUFnt94PUibaU"
@@ -269,7 +269,23 @@
       "url": "https://open.spotify.com/track/50skDNkr45SubYkVWC4YOi"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
+      "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+    },
+    {
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "When You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/3xlMYD2dXpt1EF0xQIA2lj"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/3KrfUt1cYSbkBpstlITPkp"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Shivers (Acoustic Version)",
         "url": "https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Let Somebody Go (Piano Version)",
         "url": "https://open.spotify.com/album/1mbwiDXEr8l6mK7o76dqyu"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/2zVeRtqrrRXpCizKlywvvr"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Hold Me Closer (Acoustic)",
         "url": "https://open.spotify.com/album/1vN546nWNaesS0pAAL017l"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/5kXZv2JwuZ0qgqNalgwvJt"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "she's all i wanna be (Acoustic)",
         "url": "https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Nicer (Acoustic)",
         "url": "https://open.spotify.com/album/78SoTgcb3GmcIqa46vl28P"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/5MfFCOVMkXkDC9NWklqPZ9"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "IT'S YOU (feat. keshi) [Stripped Version]",
         "url": "https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "All That Really Matters (Stripped Version)",
         "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/5jAIouBES8LWMiriuNq170"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Chasing Stars (Stripped)",
         "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/0X2DSuFNxMdw6Gr4XZcTqJ"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "skinny dipping (Acoustic)",
         "url": "https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Head on Fire (Acoustic Version)",
         "url": "https://open.spotify.com/album/4XXBWeAI6h6Ymh0zlBHNCb"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/7m0gn93nr1GEQ2fqbhgxSF"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/7EwVFWY45ClBKUV93a76db"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Brave (Acoustic)",
         "url": "https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/2bNhvD9NrWBqtf79htNx2r"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Sunshine. The EP",
         "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/5OAuga7P1grWVNYp9v2qGq"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Looks Like Me (Acoustic)",
         "url": "https://open.spotify.com/album/47bsK3xszAvwlsfp0KubZS"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/256ArsGaVttMIF56zoSzT9"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Holy (Acoustic)",
         "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/5278MGuTLVxZ4NWrpMjajs"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Bad Habits (Acoustic Version)",
         "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Lover (First Dance Remix)",
         "url": "https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Remember (Acoustic)",
         "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Paradise (Guitar Acoustic)",
         "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
         "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Just About Over You (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Diamonds (Acoustic)",
         "url": "https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "My Head & My Heart (Acoustic)",
         "url": "https://open.spotify.com/album/0M087TM0WfDrEh6lGIR18P"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/6UBi37Yx8KL3yEHBA1oivc"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Maren Morris: Reimagined",
         "url": "https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Black And White (Stripped)",
         "url": "https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Drunk On Emotions (Stripped)",
         "url": "https://open.spotify.com/album/4DUl4eui8ahkGijjHiQC0s"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/3TaUhDXyTGPZpWbgD5LoUk"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Intentions (Acoustic)",
         "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Minefields (Live Acoustic)",
         "url": "https://open.spotify.com/album/02lEy3RsCbRPfEbHO6IWo7"
@@ -961,7 +977,7 @@
       "url": "https://open.spotify.com/track/1C2o1BM7TI9uzQTvWrFU7h"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Glad You Exist (Acoustic)",
         "url": "https://open.spotify.com/album/1FXEP0SJSiEtCFeU1zS56V"
@@ -977,7 +993,7 @@
       "url": "https://open.spotify.com/track/52RNWUgJBF3LOqt3iw1s77"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Remember That Night? (Acoustic)",
         "url": "https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "One Night (Stripped Version)",
         "url": "https://open.spotify.com/album/0IOkSCsKp7rixM8Q1Vzmxn"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
@@ -1025,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "When The Lights Go Out (Piano)",
         "url": "https://open.spotify.com/album/1wJymTwoSi9WFWkLwlc0P6"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/65qUxWlmERiGKra1tteQyB"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
@@ -1057,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6iwMgc34qGH8vDBcyQ8nP9"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Train Wreck (Acoustic)",
         "url": "https://open.spotify.com/album/6z6jD5mmTJ5Zr7HRA3C0WQ"
@@ -1073,7 +1089,7 @@
       "url": "https://open.spotify.com/track/043T1ZzD0qHoesyfZhseGn"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "willow (lonely witch version)",
         "url": "https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/0U0etHtpARihOUUY8Akc7y"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
@@ -1105,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Bad (Acoustic)",
         "url": "https://open.spotify.com/album/6dxCR3nNb2InDCZslFNmhD"
@@ -1121,7 +1137,7 @@
       "url": "https://open.spotify.com/track/3nIOj4RC4F6FcaALZKVLWB"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Breaking Me (Remixes)",
         "url": "https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT"
@@ -1141,7 +1157,7 @@
       "url": "https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Missing Piece (Acoustic)",
         "url": "https://open.spotify.com/album/4JYIftikyGLI2vxlWKeWmB"
@@ -1157,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3U9rKD4n0Gk03dxsAMkGs2"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
@@ -1173,7 +1189,7 @@
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Lonely (with benny blanco) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"
@@ -1193,7 +1209,7 @@
       "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Hypnotized (Acoustic)",
         "url": "https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY"
@@ -1213,7 +1229,7 @@
       "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Trampoline (Stripped)",
         "url": "https://open.spotify.com/album/6RPcqbYgcBZw5pSkPfnALB"
@@ -1229,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "I Do (Acoustic)",
         "url": "https://open.spotify.com/album/7rexurgfOLxvtVJD2mopnE"
@@ -1249,7 +1265,7 @@
       "url": "https://open.spotify.com/track/14emyPXkQHRalq1oAlewRz"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz"
@@ -1269,7 +1285,7 @@
       "url": "https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv"
@@ -1285,7 +1301,7 @@
       "url": "https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "17 (Acoustic)",
         "url": "https://open.spotify.com/album/6KeC6LLX6HHL4H9w2wb2K9"
@@ -1301,7 +1317,7 @@
       "url": "https://open.spotify.com/track/4ensio3acJ17PegjBcmXVg"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
@@ -1321,7 +1337,7 @@
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Safe With Me (with Audrey Mika) [Acoustic]",
         "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
@@ -1341,7 +1357,7 @@
       "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Sad Tonight (Original + Acoustic)",
         "url": "https://open.spotify.com/album/3NkEzmCBqHZiLjoJsRpG5L"
@@ -1357,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1aXIgw5xYdFSZhoK1f6VbI"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Wish It Would Rain (Piano Version)",
         "url": "https://open.spotify.com/album/34bQ1ACZOV5ynaJuePpqVr"
@@ -1373,7 +1389,7 @@
       "url": "https://open.spotify.com/track/1N0VH1ox2VN1u19j0HkIVP"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Three. Two. One. (Alternate Versions)",
         "url": "https://open.spotify.com/album/7ANFds5bgqG6WycfbGlFfD"
@@ -1389,7 +1405,7 @@
       "url": "https://open.spotify.com/track/2yT9NODpTJU5baYzEUTW38"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Alien (Acoustic)",
         "url": "https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU"
@@ -1405,7 +1421,7 @@
       "url": "https://open.spotify.com/track/5IYKZF1nw5V0GtxQN7mspQ"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "So What! (Acoustic)",
         "url": "https://open.spotify.com/album/5dLmrV9qbdoP6N3XCvQvF8"
@@ -1421,7 +1437,7 @@
       "url": "https://open.spotify.com/track/11TMCwobbRFkN4XtDs8g5u"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "ballerini",
         "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
@@ -1437,7 +1453,7 @@
       "url": "https://open.spotify.com/track/76W2GSF7RhguLirVZ7gClG"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Too Close (Live Acoustic)",
         "url": "https://open.spotify.com/album/7hKBW8gY2UEGd4Ng6s9SSP"
@@ -1453,7 +1469,7 @@
       "url": "https://open.spotify.com/track/51AU7hD7lbLeEppubr1JdS"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Safe Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0"
@@ -1469,7 +1485,7 @@
       "url": "https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
@@ -1485,7 +1501,7 @@
       "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Mine (Stripped Version)",
         "url": "https://open.spotify.com/album/2djoKJZLB1vXSGxVOLhl5b"
@@ -1505,43 +1521,7 @@
       "url": "https://open.spotify.com/track/5GbX3kHPKh1tZhDzUbHqcf"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "Lady Like",
-      "url": "https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "i don't wanna know",
-        "url": "https://open.spotify.com/album/6w5WeoBQSHL9FFmk6ZiYOG"
-      },
-      "artists": [
-        {
-          "name": "GOLDHOUSE",
-          "url": "https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "i don't wanna know - acoustic",
-      "url": "https://open.spotify.com/track/3dNEnD700nYq0TY0w6AJjs"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
@@ -1557,7 +1537,7 @@
       "url": "https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Somebody (Acoustic)",
         "url": "https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh"
@@ -1573,7 +1553,7 @@
       "url": "https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Someone To You",
         "url": "https://open.spotify.com/album/5pUQMrcO8qgvOWtBh853N5"
@@ -1589,7 +1569,7 @@
       "url": "https://open.spotify.com/track/12feeSGKNVKrzuKazFpTNN"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Stay (Acoustic)",
         "url": "https://open.spotify.com/album/33I53O0BDLOUyecefvTf2R"
@@ -1609,7 +1589,7 @@
       "url": "https://open.spotify.com/track/1EXxVBTTTzjgon6hWh3TuD"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Joke's On You (Acoustic)",
         "url": "https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ"
@@ -1625,7 +1605,7 @@
       "url": "https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "My My My! (Remixes)",
         "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
@@ -1641,7 +1621,7 @@
       "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Dancing On My Own (Acoustic)",
         "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
@@ -1657,7 +1637,7 @@
       "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "New Rules (Acoustic)",
         "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
@@ -1673,7 +1653,7 @@
       "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
@@ -1689,7 +1669,7 @@
       "url": "https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-31 15:52:51",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
@@ -1705,6 +1685,6 @@
       "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     }
   ],
-  "unique_name": "Unplugged",
+  "unique_name": "Acoustic Pop",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX"
 }

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,121 songs - 5 day 1 hr 58 min
+2,122 songs - 5 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-06 | 2022-07-27 |
 | [ABYSS](https://open.spotify.com/track/3epolh4SfvMrqvC8Atm0HA) | [Amara](https://open.spotify.com/artist/52F2aDMq8CHtduF5nLXRrw) | [ABYSS](https://open.spotify.com/album/2dM26keu4SUTayflswYYFp) | 3:26 | 2021-04-24 | 2021-05-09 |
 | [Addicted](https://open.spotify.com/track/002za8woBKJsCCbj30TlPS) | [KelKeyz](https://open.spotify.com/artist/6lKXtmwJnGCpPoPIOit5Oy) | [Addicted](https://open.spotify.com/album/7JijvRD9EIvdwRxGb7GhKo) | 2:44 | 2022-04-08 | 2022-04-24 |
-| [ADDICTED](https://open.spotify.com/track/4jVEHJXqOgXXwZDv0idl5d) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [ADDICTED](https://open.spotify.com/album/1GyprbGBubIOIaMvClhFEt) | 3:18 | 2023-03-07 |  |
+| [ADDICTED](https://open.spotify.com/track/4jVEHJXqOgXXwZDv0idl5d) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [ADDICTED](https://open.spotify.com/album/1GyprbGBubIOIaMvClhFEt) | 3:18 | 2023-03-07 | 2023-04-01 |
 | [Addicted to You](https://open.spotify.com/track/2esiR5CXxJeiOFTBy117m2) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Kris James](https://open.spotify.com/album/4kSYwT6XJPQHMKmey578XS) | 3:10 | 2021-12-08 | 2022-01-07 |
 | [Affinity](https://open.spotify.com/track/6qPe8aLtxdGH3xfTJBh0sl) | [Tnola](https://open.spotify.com/artist/3qsiuJcX1xermvwbJ6mg6O) | [Affinity](https://open.spotify.com/album/4y4bBrQWEhqVgXWwbmKgA7) | 3:12 | 2022-11-02 | 2022-11-21 |
 | [After All \- Radio Edit](https://open.spotify.com/track/3o3dy08AQwxYuEKfoY6TQ3) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV), [Roni Tran](https://open.spotify.com/artist/0tefsWejwv0Z61sfWzlUe6) | [After All](https://open.spotify.com/album/2QrelLyiYbgwOY1tuH9c17) | 3:34 | 2021-03-19 | 2021-04-04 |
@@ -1952,6 +1952,7 @@
 | [Unhappy Anniversary](https://open.spotify.com/track/53G2sGhr5S8luQUEeo0bez) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Kris James](https://open.spotify.com/album/4kSYwT6XJPQHMKmey578XS) | 3:31 | 2021-11-08 | 2021-12-05 |
 | [Untamed](https://open.spotify.com/track/41binbQGuTMcIMwdsXrpNs) | [Kayana](https://open.spotify.com/artist/37wgqSZpFAAJ2hB4tsY6yY), [JaMichael](https://open.spotify.com/artist/6mtuKa84eQ2jdOsYkp3et4) | [Untamed](https://open.spotify.com/album/4bQsPc4kkryXOIxVYgxPCw) | 3:15 | 2022-02-25 | 2022-03-14 |
 | [Up on Me](https://open.spotify.com/track/4W5P0XK73J0DRbrgbRr2Pg) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Up on Me](https://open.spotify.com/album/0dsSkj1WGvlRslAEHzQJPD) | 2:31 | 2020-01-20 | 2020-02-08 |
+| [ur Love](https://open.spotify.com/track/01W5WozKg4erCEN7PNQZar) | [haks](https://open.spotify.com/artist/6FXKS5R7VtpGugMIrd7727) | [ur Love](https://open.spotify.com/album/1SVeATwnhbdMbpz56SwgDg) | 3:46 | 2023-04-01 |  |
 | [Urge](https://open.spotify.com/track/5HgrVsoix0n6x47Pq51XwT) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Urge](https://open.spotify.com/album/7boHAUIfgFWrZYVATAuXVn) | 2:14 | 2021-08-18 | 2021-09-05 |
 | [US](https://open.spotify.com/track/74zFXe3DiGIokkW4jKX626) | [Louis Burt](https://open.spotify.com/artist/0RXdz6K7iDJxYZaBqZJp6D) | [US](https://open.spotify.com/album/3nrFanqUZ7mTWEKkeOwwdN) | 3:17 | 2022-08-12 | 2022-08-28 |
 | [Us Two](https://open.spotify.com/track/3KFu7F825zP2DdDSsc0sFy) | [MENA](https://open.spotify.com/artist/06C7gYgsrQxKKMoVqyndzM) | [She Knows \- EP](https://open.spotify.com/album/4XjaTYmy2Afe6TyRBKaqr7) | 3:39 | 2019-12-28 | 2020-01-05 |

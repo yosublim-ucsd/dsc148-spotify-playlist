@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Zudizilla",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: MV Bill",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -138,7 +138,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 163555,
       "name": "A Culpa \u00e9 do Papato (feat. Luccas Carlos)",
       "url": "https://open.spotify.com/track/5UNWApTbN2nyXnZHwXB0nK"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 152941,
       "name": "A Volta Do Astro-Rei",
       "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
@@ -1815,6 +1815,74 @@
     },
     {
       "album": {
+        "name": "Deixa no Gelo",
+        "url": "https://open.spotify.com/album/6J3yVyK2CrxOpke3MKCLsC"
+      },
+      "artists": [
+        {
+          "name": "Slim Rimografia",
+          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245581,
+      "name": "Deixa no Gelo",
+      "url": "https://open.spotify.com/track/5JExJysIifyS47C3shCxnr"
+    },
+    {
+      "album": {
+        "name": "Desafio",
+        "url": "https://open.spotify.com/album/4rM4Yq5XE4ztrummmjKNcd"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Anny-Di",
+          "url": "https://open.spotify.com/artist/6k1NIenPid0nxTY6CJj82t"
+        },
+        {
+          "name": "Bujo",
+          "url": "https://open.spotify.com/artist/20FmwnwZizaeyasaOinrrA"
+        },
+        {
+          "name": "Mc Triz",
+          "url": "https://open.spotify.com/artist/6Ze18VPTnc0YcKFHTmm5nl"
+        },
+        {
+          "name": "Netto Galdino",
+          "url": "https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS"
+        },
+        {
+          "name": "Pardall Oficial",
+          "url": "https://open.spotify.com/artist/1zwSKlXt64JxUZCePwSVR9"
+        },
+        {
+          "name": "Rakel Reis",
+          "url": "https://open.spotify.com/artist/2iy6QiFjWE5RjlinyDEsfy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352375,
+      "name": "Desafio",
+      "url": "https://open.spotify.com/track/6b0jI91CDJRThdSEWgyrte"
+    },
+    {
+      "album": {
         "name": "Deu Aulas",
         "url": "https://open.spotify.com/album/2TxYRZKXYJQWodJ41mDPBa"
       },
@@ -3184,7 +3252,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 132857,
       "name": "INSACI\u00c1VEL",
       "url": "https://open.spotify.com/track/4ll0yIl2wfLS0rUIxPmqOm"
@@ -5439,6 +5507,36 @@
     },
     {
       "album": {
+        "name": "MV Bill Sessions - Dr. Drill",
+        "url": "https://open.spotify.com/album/5euM5nZL5qqDuVJRmXvfjY"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Insane Tracks",
+          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
+        },
+        {
+          "name": "Lord ADL",
+          "url": "https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Olhos Apagados",
+      "url": "https://open.spotify.com/track/18VjBDBdbXoe0FKCCl21AH"
+    },
+    {
+      "album": {
         "name": "Ouro (Versus Vol. 1) [feat. Tropkillaz]",
         "url": "https://open.spotify.com/album/4Ctt2tTwOFEA3MtCfdzwDl"
       },
@@ -6000,6 +6098,40 @@
       "duration_ms": 142500,
       "name": "Ponta da Leste",
       "url": "https://open.spotify.com/track/6NuozwQmxLdblaztz2f0EW"
+    },
+    {
+      "album": {
+        "name": "Ponto30",
+        "url": "https://open.spotify.com/album/78TZEQR8XQssslEdxOFnIk"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "MG CDD",
+          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Ponto30",
+      "url": "https://open.spotify.com/track/1z32Wd0Z1wJIsgrVZxt0h2"
     },
     {
       "album": {
@@ -8094,7 +8226,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 132726,
       "name": "Vida Cara",
       "url": "https://open.spotify.com/track/0nsZQbNadjW37QgtXUeyBZ"

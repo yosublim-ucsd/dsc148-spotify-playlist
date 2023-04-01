@@ -1669,6 +1669,28 @@
     },
     {
       "album": {
+        "name": "La Respuesta",
+        "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168015,
+      "name": "La Respuesta",
+      "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
+    },
+    {
+      "album": {
         "name": "Aerolineas Makiza",
         "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
       },
@@ -2243,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "OGT",
+        "url": "https://open.spotify.com/album/786aXMddhUEql9LBUwN1EP"
+      },
+      "artists": [
+        {
+          "name": "Isa La Mexicana",
+          "url": "https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166870,
+      "name": "OGT",
+      "url": "https://open.spotify.com/track/0LMO5H12gYWwmRdosBPW26"
+    },
+    {
+      "album": {
         "name": "Sombrahh",
         "url": "https://open.spotify.com/album/0KV2HbglTxFo6bCqDyoo1U"
       },
@@ -2544,6 +2584,28 @@
       "duration_ms": 198709,
       "name": "Renacer",
       "url": "https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN"
+    },
+    {
+      "album": {
+        "name": "Revolucionaria",
+        "url": "https://open.spotify.com/album/0ETiIGDVL0zzM8LoJdGfSF"
+      },
+      "artists": [
+        {
+          "name": "La Sinclair",
+          "url": "https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9"
+        },
+        {
+          "name": "Dirtybird",
+          "url": "https://open.spotify.com/artist/5Fk0y674atQID4XYwOIMcc"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147370,
+      "name": "Revolucionaria",
+      "url": "https://open.spotify.com/track/3vnwirrjOder3YXDoey979"
     },
     {
       "album": {

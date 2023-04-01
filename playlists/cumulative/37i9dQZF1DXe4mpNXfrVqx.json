@@ -566,7 +566,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 132923,
       "name": "Da Minha Janela",
       "url": "https://open.spotify.com/track/2iB7aFaUqa9lQbsNMYYSoS"
@@ -1038,6 +1038,28 @@
       "duration_ms": 146526,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3"
+    },
+    {
+      "album": {
+        "name": "Hater",
+        "url": "https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy"
+      },
+      "artists": [
+        {
+          "name": "Killua",
+          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0Wa6kRj45gtvOzQSYWMGNw"
     },
     {
       "album": {
@@ -1963,7 +1985,7 @@
         },
         {
           "name": "Brunito Beats",
-          "url": "https://open.spotify.com/artist/1VFaGpMOpsvoS7Y8thQsnO"
+          "url": "https://open.spotify.com/artist/5hpRqq2xcme1mycLhrBcBu"
         }
       ],
       "date_added": "2023-03-24",

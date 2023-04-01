@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+    },
+    {
+      "album": {
         "name": "La Reina",
         "url": "https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO"
       },
@@ -1456,10 +1478,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 196017,
       "name": "Hey Tu",
       "url": "https://open.spotify.com/track/2w28uMXOKPOVaoOQDDp9pR"
+    },
+    {
+      "album": {
+        "name": "Hoy La Vi Pasar",
+        "url": "https://open.spotify.com/album/0SXYP8yW2TZDFozwD9btcm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174659,
+      "name": "Hoy La Vi Pasar",
+      "url": "https://open.spotify.com/track/6YwEACTymPJqiAlAyk9bHP"
     },
     {
       "album": {
@@ -3090,7 +3130,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 267445,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
@@ -3814,7 +3854,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 135157,
       "name": "UNA CUMBITA",
       "url": "https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ"
@@ -4072,6 +4112,24 @@
       "duration_ms": 224655,
       "name": "Ya Re Fue",
       "url": "https://open.spotify.com/track/1XbWDGxWXD69Lsi9R5tq6Q"
+    },
+    {
+      "album": {
+        "name": "Ya Ver\u00e1s",
+        "url": "https://open.spotify.com/album/3GjSTabiHCNQ3FUGJ0Pf8E"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207065,
+      "name": "Ya Ver\u00e1s",
+      "url": "https://open.spotify.com/track/2bkiO1qk7LFk0ATcefAUau"
     },
     {
       "album": {

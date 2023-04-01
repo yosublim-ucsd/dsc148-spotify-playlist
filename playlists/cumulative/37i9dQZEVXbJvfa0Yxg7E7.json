@@ -5595,6 +5595,28 @@
     },
     {
       "album": {
+        "name": "FAKK MEG OPP",
+        "url": "https://open.spotify.com/album/5x6mlYVhlt4l4rfZ70WDiL"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "Kris Winther",
+          "url": "https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111111,
+      "name": "FAKK MEG OPP",
+      "url": "https://open.spotify.com/track/0tsJlaeWzRtJu6lyMXye2n"
+    },
+    {
+      "album": {
         "name": "Fakk Min X",
         "url": "https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ"
       },
@@ -14436,7 +14458,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 226706,
       "name": "PAF.no",
       "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"

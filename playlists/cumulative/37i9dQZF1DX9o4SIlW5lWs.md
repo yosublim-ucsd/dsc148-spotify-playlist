@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-302 songs - 17 hr 22 min
+303 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Muñequito de Peluche](https://open.spotify.com/track/3PXeR8XO9uPbtEkRHZD3DL) | [Conjunto Musical Orlando Ayunes](https://open.spotify.com/artist/030U2Bb48fTzzhk3NxcQZC) | [Vamos por Mas..](https://open.spotify.com/album/1DUW4lrfFjQ1CO9hPhQdck) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 | 2022-01-14 |  |
 | [Ninguno De Los Dos](https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Ninguno De Los Dos](https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU) | 4:08 | 2022-02-18 |  |
+| [No aguanto más](https://open.spotify.com/track/0TMA7Pec4bH1JNfEN0mc3U) | [Hector Pacheco](https://open.spotify.com/artist/1X7iGHo0VLJ3IjhDini4gK) | [No aguanto más 2008](https://open.spotify.com/album/73ZHxX3YkAPRoifUMdFVQe) | 4:11 | 2023-03-31 |  |
 | [No Debería Quererte](https://open.spotify.com/track/5P4xezLTnfp7alej9QCFyN) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [No Debería Quererte](https://open.spotify.com/album/5GNeYcySMXqQu8oth22Vaw) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [No Es Mi Despedida](https://open.spotify.com/track/5D5gQ5AB4Ih09bOstMMmKQ) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:04 | 2023-03-10 |  |
 | [No Es Mi Despedida](https://open.spotify.com/track/0LxHE5QyoMy2fNQQbeY4i5) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:11 | 2022-01-14 | 2023-03-12 |
@@ -276,7 +277,7 @@
 | [Vagabundo y Soñador](https://open.spotify.com/track/3QgwN8NQrf1bRjaR82002L) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Vagabundo y Soñador](https://open.spotify.com/album/4x0lsKjstNSJrmxzYksRGy) | 3:39 | 2022-01-14 | 2022-07-29 |
 | [Vas a Llorar](https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Vas a Llorar](https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK) | 3:24 | 2022-01-14 | 2022-06-11 |
 | [Vengo de la Casa de Ella](https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Vengo de la Casa de Ella](https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU) | 3:08 | 2022-01-14 | 2022-07-18 |
-| [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 | 2022-01-14 |  |
+| [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 | 2022-01-14 | 2023-04-01 |
 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 | 2022-01-14 |  |
 | [Vida](https://open.spotify.com/track/29QGzpYNgPJnyreE8oPXap) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Vida](https://open.spotify.com/album/75sYSUD5xQ2n6tzZJ3SbCC) | 3:15 | 2022-03-11 | 2022-10-02 |
 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 | 2022-01-14 | 2022-07-29 |

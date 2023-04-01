@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Bellaka",
+        "url": "https://open.spotify.com/album/3qOxqleZsIrSpvUqwPCoWH"
+      },
+      "artists": [
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/04SfRkZuVH053pkLLcP64q"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153605,
+      "name": "Bellaka",
+      "url": "https://open.spotify.com/track/27gwPvs0GWwhn1adLDLJXp"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/2J86tRQLHdrWeb3sNSp1ln"
       },
@@ -270,7 +288,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 219750,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
@@ -598,6 +616,40 @@
       "duration_ms": 159218,
       "name": "Duelo",
       "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
+    },
+    {
+      "album": {
+        "name": "Smile Riddim",
+        "url": "https://open.spotify.com/album/418F3f9pX5ZW5FJMFrCrJj"
+      },
+      "artists": [
+        {
+          "name": "LH",
+          "url": "https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs"
+        },
+        {
+          "name": "Anyuri",
+          "url": "https://open.spotify.com/artist/3CC7UwBlcBeQtj20V9xjiE"
+        },
+        {
+          "name": "Tot",
+          "url": "https://open.spotify.com/artist/5MjQKoeaNFMabcAgJRo0yB"
+        },
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        },
+        {
+          "name": "Johnny Jey B",
+          "url": "https://open.spotify.com/artist/3g5oHgO5sO7uzkz67EZbzO"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175417,
+      "name": "Ego Sexual",
+      "url": "https://open.spotify.com/track/0jYb9kx7BNJTJQIQQdffdN"
     },
     {
       "album": {
@@ -1076,7 +1128,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 194526,
       "name": "Hey Shorty",
       "url": "https://open.spotify.com/track/6wypFud9yFrGL7ruaWXSiO"
@@ -1506,7 +1558,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 186478,
       "name": "Llamando",
       "url": "https://open.spotify.com/track/5mb2fojS7ld7pcSOPUo6Vo"
@@ -2948,7 +3000,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 168149,
       "name": "Talism\u00e1n",
       "url": "https://open.spotify.com/track/2ELUxG0k6Gr6dr5IF1StWY"
@@ -3324,6 +3376,32 @@
       "duration_ms": 275349,
       "name": "XOXO (Piso 33)",
       "url": "https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG"
+    },
+    {
+      "album": {
+        "name": "PER610CIA",
+        "url": "https://open.spotify.com/album/2c68npvhZEpzFZw608rsTX"
+      },
+      "artists": [
+        {
+          "name": "wvltz",
+          "url": "https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Zarcos",
+      "url": "https://open.spotify.com/track/0Cksf1doSAlRUjeNVAl35p"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYVseajANOFG"

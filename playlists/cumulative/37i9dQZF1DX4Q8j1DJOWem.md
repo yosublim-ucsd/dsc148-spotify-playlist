@@ -2,7 +2,7 @@
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่\. ศิลปิน: The White Hair Cut
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่\. ศิลปิน: SPRITE
 
 71 songs - 4 hr 27 min
 

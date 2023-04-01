@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,832 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,010 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Hooked \(Hot Stuff\)](https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Hooked \(Hot Stuff\)](https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq) | 2:51 |
 | 50 | [The Mack](https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [The Mack](https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn) | 2:47 |
 
-Snapshot ID: `MTY3ODk4NDE0OCwwMDAwMDAwMDBiMzBiNTA4Njc2Y2ZiZmM1ZTZiOWNlODFkMzUyMjI3`
+Snapshot ID: `MTY4MDI0ODExMywwMDAwMDAwMDM3M2ZmMTRjOWRmNzk3OGVhYWVjYTIzNjFhOWI0Yzky`

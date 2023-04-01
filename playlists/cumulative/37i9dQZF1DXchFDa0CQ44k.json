@@ -34,10 +34,28 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 201386,
       "name": "Ah Ya Hanan",
       "url": "https://open.spotify.com/track/5rZUSiJgQUMoo6nGoyzj2d"
+    },
+    {
+      "album": {
+        "name": "Ah Ya Hanan",
+        "url": "https://open.spotify.com/album/4c4akh3TVGYCLaN9RhwKXw"
+      },
+      "artists": [
+        {
+          "name": "Moudy Nassar",
+          "url": "https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201456,
+      "name": "Ah Ya Hanan",
+      "url": "https://open.spotify.com/track/2ZL2WO6HvgbLGNwePzohU9"
     },
     {
       "album": {
@@ -230,10 +248,28 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 281234,
       "name": "Betshelle",
       "url": "https://open.spotify.com/track/5BKxfHmQ4as0V3oGqwzZRx"
+    },
+    {
+      "album": {
+        "name": "Betwale3 Nar",
+        "url": "https://open.spotify.com/album/44LB0qfLlTRqRbXLtsKoWD"
+      },
+      "artists": [
+        {
+          "name": "Hazem Al Sadeer",
+          "url": "https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232489,
+      "name": "Betwale3 Nar",
+      "url": "https://open.spotify.com/track/1UzgwF3OA1hdxFXTuKlZj8"
     },
     {
       "album": {
@@ -248,7 +284,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 232771,
       "name": "Betwale3 Nar",
       "url": "https://open.spotify.com/track/7fVZ6x92fzG2pXXyz47cKw"
@@ -476,10 +512,28 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 205923,
       "name": "E7na Bleil Lyerheb Gomra Mix",
       "url": "https://open.spotify.com/track/23s171eL6ajdDc5FGJ4aHw"
+    },
+    {
+      "album": {
+        "name": "E7na Bleil Lyerheb Gomra Mix",
+        "url": "https://open.spotify.com/album/4G6g8g8vdXgbC0tLRj7nU4"
+      },
+      "artists": [
+        {
+          "name": "Sara Najem",
+          "url": "https://open.spotify.com/artist/2uwfRi0iENQZ0ewGhcRK51"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205923,
+      "name": "E7na Bleil Lyerheb Gomra Mix",
+      "url": "https://open.spotify.com/track/2PwHprShITN9kAmuDG9Jco"
     },
     {
       "album": {
@@ -702,6 +756,24 @@
     {
       "album": {
         "name": "Haremni",
+        "url": "https://open.spotify.com/album/34fsniZx5w1uNUpqya3wbM"
+      },
+      "artists": [
+        {
+          "name": "Roro Harb",
+          "url": "https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234161,
+      "name": "Haremni",
+      "url": "https://open.spotify.com/track/4tPn2M0DSBKe7QpdE17o92"
+    },
+    {
+      "album": {
+        "name": "Haremni",
         "url": "https://open.spotify.com/album/4phggOoR0RaxV9oM3pc9cg"
       },
       "artists": [
@@ -712,7 +784,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 237191,
       "name": "Haremni",
       "url": "https://open.spotify.com/track/5g78UsbsNCCXTdBPcTEtGr"
@@ -748,7 +820,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 336222,
       "name": "Jamala Wlo",
       "url": "https://open.spotify.com/track/1xPmf66wVpRcbGSpYqdQUB"
@@ -1018,7 +1090,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 202355,
       "name": "Number One",
       "url": "https://open.spotify.com/track/4Id75p83qqiEqdtNbKLaA3"
@@ -1144,7 +1216,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 233476,
       "name": "Super Dabka",
       "url": "https://open.spotify.com/track/1vBgN3o5LpTd6GzWRdMYxR"
@@ -1170,6 +1242,24 @@
     {
       "album": {
         "name": "Wateeni",
+        "url": "https://open.spotify.com/album/5x0Un1ohxzt2DnKXNqE7Oe"
+      },
+      "artists": [
+        {
+          "name": "Amjad Jomaa",
+          "url": "https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222538,
+      "name": "Wateeni",
+      "url": "https://open.spotify.com/track/2Rfc5rGytAEfFXwVgFxs2A"
+    },
+    {
+      "album": {
+        "name": "Wateeni",
         "url": "https://open.spotify.com/album/0J5KOvgjIyCqDIXB1YQIjz"
       },
       "artists": [
@@ -1180,7 +1270,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 222538,
       "name": "Wateeni",
       "url": "https://open.spotify.com/track/6YcoHlY6xqHd0OWciYDFee"
@@ -1378,7 +1468,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 203986,
       "name": "Ya Qasi",
       "url": "https://open.spotify.com/track/0omcGCy8cJ8aFku257ctWO"
@@ -1486,7 +1576,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229956,
       "name": "Yekhreb Baytak",
       "url": "https://open.spotify.com/track/4lwBgydZb1EqpHccZgBuXU"

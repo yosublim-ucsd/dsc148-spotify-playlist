@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: After Nourway
 
-1,690 songs - 4 day 7 hr 31 min
+1,691 songs - 4 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1448,6 +1448,7 @@
 | [Tak Sejalan](https://open.spotify.com/track/6CufvjAu4Hq4BDDDyuK59t) | [Axl Ramanda](https://open.spotify.com/artist/6OJKPCiRnBW1UqYvEC276L) | [Tak Sejalan](https://open.spotify.com/album/3mXynCcffkZiQyl8EU1vyx) | 4:03 | 2023-03-02 | 2023-03-18 |
 | [Tak Semudah](https://open.spotify.com/track/63HSIZpz4xOrx3fI4PyyPE) | [Galang Twntysix](https://open.spotify.com/artist/0cQsPIRamdprdVpKGsxqdH) | [Tak Semudah](https://open.spotify.com/album/3dwYavz9t7wWVaUYGPRgqR) | 3:12 | 2023-03-30 |  |
 | [Tak Terhenti \- Original soundtrack from "Axventure Amerta"](https://open.spotify.com/track/0AL9cZt6hwYZTQPmEFQykP) | [Adib](https://open.spotify.com/artist/70KSBXQ2WVquL8iQlD9hsB) | [Tak Terhenti \(Original soundtrack from "Axventure Amerta"\)](https://open.spotify.com/album/2aiJ4gfuF0ueKe1x53zxiV) | 4:58 | 2022-02-10 | 2022-02-25 |
+| [Take It Slow](https://open.spotify.com/track/2LSvSkqLnxU4hSCg27wnPc) | [Zagi](https://open.spotify.com/artist/4XzbOlXXYGRHZdTXqJuHCD) | [Take It Slow](https://open.spotify.com/album/7hoHKCNSvSxzEIiUVJ06Yr) | 4:09 | 2023-03-31 |  |
 | [Take Me Back Home](https://open.spotify.com/track/2jLXm3PoJv1EIOrcPU5RC8) | [Christièyas Shesae](https://open.spotify.com/artist/46cyPrXVs80hFr0N5cWxJE) | [Take Me Back Home](https://open.spotify.com/album/4lSxrzXTLxUokzz7vI1Rg8) | 4:57 | 2023-01-12 | 2023-01-27 |
 | [Take No Regrets](https://open.spotify.com/track/6MrcAPj41KSIPD1CIngXLD) | [Alif Maulana](https://open.spotify.com/artist/38IxPTvcogUarmudLV9K0r) | [Take No Regrets](https://open.spotify.com/album/4MMbaujzmMuU7xrvBM7aqn) | 3:57 | 2022-01-20 | 2022-02-04 |
 | [Taman Bunga](https://open.spotify.com/track/4aQhhMr4JCckbtDnZni6JU) | [Emanuel Aji](https://open.spotify.com/artist/5FYYQzEtcNyNpkJrSR5aeo) | [Taman Bunga](https://open.spotify.com/album/1uic5ORJAmPGkSDkM6QOMS) | 4:03 | 2022-09-15 | 2022-09-30 |

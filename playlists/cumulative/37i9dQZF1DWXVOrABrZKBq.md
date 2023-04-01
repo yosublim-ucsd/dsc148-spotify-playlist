@@ -2,7 +2,7 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: Lost
+> Le rap francophone est en forme\. Photo: Zola
 
 60 songs - 3 hr 7 min
 

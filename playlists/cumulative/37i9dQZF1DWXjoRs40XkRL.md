@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-151 songs - 13 hr 21 min
+153 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Baras](https://open.spotify.com/track/2eJeQraCbVdmkFsLqPkBHP) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:58 | 2022-05-17 | 2023-03-23 |
 | [Bargat Ke Pedo Pe Shakhe Purani](https://open.spotify.com/track/1gFDuN2HElEtr030D5yDRs) | [Piyush Mishra](https://open.spotify.com/artist/0kttITJItx4bssbq6EcXCS) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 6:40 | 2023-02-01 |  |
-| [Barkha Bahaar](https://open.spotify.com/track/1TDL5PY1CO05RRmxepSF0v) | [Devika](https://open.spotify.com/artist/6H3vcjNh7U6YKyuMuzSWAv) | [Saari Raat](https://open.spotify.com/album/2TbC3ffg6NqCvYtbRZ3bVE) | 6:19 | 2022-07-12 |  |
+| [Barkha Bahaar](https://open.spotify.com/track/1TDL5PY1CO05RRmxepSF0v) | [Devika](https://open.spotify.com/artist/6H3vcjNh7U6YKyuMuzSWAv) | [Saari Raat](https://open.spotify.com/album/2TbC3ffg6NqCvYtbRZ3bVE) | 6:19 | 2022-07-12 | 2023-04-01 |
 | [Barkha Bahar](https://open.spotify.com/track/4zMh0HDWkXubHj43dwjXuJ) | [Devika](https://open.spotify.com/artist/6H3vcjNh7U6YKyuMuzSWAv) | [Saari Raat](https://open.spotify.com/album/0EtApMEmLEz21D8Ia4L2Jo) | 6:19 | 2022-05-17 | 2022-07-29 |
 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 | 2022-12-22 |  |
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2022-05-17 |  |
@@ -58,7 +58,8 @@
 | [Jaanu Na \- Jodi Tare](https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Tagore Songs \- Hindi Adaptations](https://open.spotify.com/album/4QuenfmhzueuIbon28NOiR) | 4:45 | 2022-05-17 |  |
 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 |  |
 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 |  |
-| [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/2FlrURkLtjLKlfkVmgQRob) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6h564cMA06UJRCmanWFdqp) | 5:27 | 2023-03-30 |  |
+| [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/2FlrURkLtjLKlfkVmgQRob) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6h564cMA06UJRCmanWFdqp) | 5:27 | 2023-03-30 | 2023-04-01 |
+| [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/7sFrXIq0TJZUYVgASM9bDv) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6cLEimgx42vKP8ReAXgcAc) | 5:27 | 2023-03-31 |  |
 | [Jhinjhoti](https://open.spotify.com/track/4oWJqeGeJK1N5M0dUqogYD) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Jhinjhoti](https://open.spotify.com/album/6weyfGZOlWKTnp5Yq49Fjn) | 5:02 | 2022-05-17 |  |
 | [Jiya Mora Re](https://open.spotify.com/track/2n3H9PPBOXWproji7x3g0E) | [The PriyaRang Project](https://open.spotify.com/artist/0V9JIMj8rpAb5sLaETyJdn), [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P), [Sarang Kulkarni](https://open.spotify.com/artist/5AbDGuiDyG6kdlMLbo2njR) | [Jiya Mora Re](https://open.spotify.com/album/2z6FfQtPih0s6iSkPne2PV) | 6:21 | 2022-12-22 |  |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-17 |  |
@@ -156,6 +157,7 @@
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/68pnUjdZYEgYuHArZRxETk) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/78TxUdER5QfLxTBpXu1UZm) | 5:50 | 2022-07-12 | 2023-03-03 |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/6eksDMdyTYPB3e1nycPx6c) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Winter Mix 2021](https://open.spotify.com/album/5gfKfF2hnSbYCdI21NilnF) | 5:50 | 2022-09-23 | 2022-11-14 |
 | [Tum Jo Mile Ho](https://open.spotify.com/track/0DCXweyQdnUXQ6bDSNXFi8) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Sangeeta Shankar](https://open.spotify.com/artist/2oHDVj3P55EigkZFdtngNn) | [Tum Jo Mile Ho \- Single](https://open.spotify.com/album/2QYap5S921w48KgN7MUsdb) | 4:06 | 2022-05-17 |  |
+| [Veera Raja Veera](https://open.spotify.com/track/60fyKjKygvMuVArFIlioyb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arman Dehlvi](https://open.spotify.com/artist/1wYOalcwgWTyVjqG22p3Od), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [PS\-2 \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/07qw6WgmXr7RzNA9jHIpuD) | 5:04 | 2023-03-31 |  |
 | [Viraha](https://open.spotify.com/track/0j1Z4bp6LeIxb9Rdq0kdsu) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:43 | 2022-05-17 | 2023-03-21 |
 | [Yaad Piya Ki Aaye](https://open.spotify.com/track/3LWZsbikDu2gSiiExEifHw) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Yaad Piya Ki...](https://open.spotify.com/album/63RWUfA8NjW6ooa5MXP8HB) | 5:14 | 2022-05-17 |  |
 | [Yaman](https://open.spotify.com/track/5y4WiVUc1SbjnfXLu9szYI) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Yaman](https://open.spotify.com/album/6NZONtGQRxsnIomjyClIqf) | 5:24 | 2022-05-17 |  |

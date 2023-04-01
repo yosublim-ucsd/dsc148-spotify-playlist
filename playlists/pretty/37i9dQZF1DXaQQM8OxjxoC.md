@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQQM8OxjxoC.md) - [plain]
 
 > Discover the music of Brahms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,442 likes - 59 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,474 likes - 59 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > me sitting in an office making this playlist for you hoping yall will like it
 
-1,033 songs - 2 day 6 hr 19 min
+1,035 songs - 2 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,8 @@
 | [Destroy Myself Just For You](https://open.spotify.com/track/7vMDFGBs0CTEkENk2dyCnc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Destroy Myself Just For You](https://open.spotify.com/album/3cQmOITwkOtQIk9NcyoZ2g) | 2:26 | 2022-05-19 | 2022-07-29 |
 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-06-01 |  |
 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2023-01-12 |  |
-| [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-08 |  |
+| [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-03-23 |  |
+| [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-08 | 2023-04-01 |
 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-06-09 |  |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-09-08 |  |
 | [Die For You](https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 4:20 | 2022-07-07 | 2023-01-06 |
@@ -678,10 +679,11 @@
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-05-30 |  |
 | [One Kiss / I Was Never There \- Remix](https://open.spotify.com/track/1pCENv3vkVWy5gOonk63qj) | [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox), [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny) | [One Kiss / I Was Never There \(Remix\)](https://open.spotify.com/album/5OQGN6uVpdKMQ9TD8DvJ1n) | 2:51 | 2022-11-10 | 2022-11-24 |
 | [One Kiss x I Was Never There](https://open.spotify.com/track/3N38nI7YdLZORH0SNhWdrA) | [Dixie Normous](https://open.spotify.com/artist/0YnWWGOhvN5H4bZYsiyPhF) | [One Kiss x I Was Never There](https://open.spotify.com/album/1tPRzU9r1mBfMKzlKh3T69) | 2:51 | 2022-12-08 | 2023-01-19 |
+| [One Kiss X I Was Never There](https://open.spotify.com/track/6bz9xXVWwBCb6DNplXRyKR) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui) | [One Kiss X I Was Never There](https://open.spotify.com/album/6ZsB8nuOWdjCUucYkJjOS5) | 2:51 | 2023-03-23 |  |
 | [One Kiss X I Was Never There](https://open.spotify.com/track/0W5MGyH8F7laI7QBVF4fiI) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/2IojTELiMkFQAwSnwWMJuj) | 2:51 | 2022-09-08 | 2022-09-11 |
 | [One Kiss X I Was Never There](https://open.spotify.com/track/4eYr8Wn4kdtgEXns10kthg) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/2r2FSdn5U4pQAcTpplNT6m) | 2:51 | 2022-10-21 | 2022-11-03 |
 | [One Kiss X I Was Never There](https://open.spotify.com/track/6DfimRJiiGgxspBj2BlWuc) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/1YvzEiSqB8pSFEeYy5ETUB) | 2:51 | 2022-12-24 | 2023-03-09 |
-| [One Kiss X I Was Never There](https://open.spotify.com/track/7b7t0p0e2lh5ySJVdnlwe8) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/4tDBX1YFe1JSKhBb1v4khU) | 2:51 | 2022-09-05 |  |
+| [One Kiss X I Was Never There](https://open.spotify.com/track/7b7t0p0e2lh5ySJVdnlwe8) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/4tDBX1YFe1JSKhBb1v4khU) | 2:51 | 2022-09-05 | 2023-04-01 |
 | [One Kiss X I Was Never There](https://open.spotify.com/track/7pFDzZ3YKWT3JcpcXzbrCS) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/6Gp1Tq29N4mPsCzFZTaYjQ) | 2:51 | 2022-09-15 | 2022-10-21 |
 | [One Kiss X I Was Never There](https://open.spotify.com/track/3twCduqZO2QJBSo0TveKSW) | [mxmy](https://open.spotify.com/artist/2b8lTkinW4n1MGXR6MTxYH) | [One Kiss X I Was Never There](https://open.spotify.com/album/7HcLFpwaJv1p6LPnHIaSMI) | 2:51 | 2023-03-09 | 2023-03-18 |
 | [One Kiss X I Was Never There \- Remix](https://open.spotify.com/track/6hSsTpn4DySkriItvjMRHJ) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0), [Xanemusic](https://open.spotify.com/artist/6QSOpFwMSqDj21HVu34Wm1) | [One Kiss X I Was Never There](https://open.spotify.com/album/4YP2CvdJxP74ZJzjsWTMjr) | 2:51 | 2022-10-06 | 2022-10-26 |

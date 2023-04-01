@@ -2,9 +2,9 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: <a href="https://open.spotify.com/show/1YP4xy5nGxCxKG2GD9PdCt?si=c1ff94872f7c4b88">Take Me Over\(썸타임즈\)</a>\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Call It Love\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 사랑이라 말해요\)
 
-582 songs - 1 day 11 hr 20 min
+585 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/1SF9zCNjbChZTiIkxjgJXa) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 | 2022-11-16 | 2023-02-25 |
 | [Hold My Hand](https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 | 2021-12-19 | 2022-03-10 |
 | [Home](https://open.spotify.com/track/4IYkOXspUW61nJUetcqkpJ) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [EXY](https://open.spotify.com/artist/3QFf0wwzpLiSmC4hx7lhER), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:12 | 2021-12-19 | 2022-03-04 |
+| [Hoping](https://open.spotify.com/track/22rtD7Zhn5BkBsDQ1dpAIW) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Our Blooming Youth \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/06bikQasyy5VVcAJI6UTF5) | 4:29 | 2023-03-31 |  |
 | [How Can I Forget You](https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Forbidden Marriage, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv) | 4:35 | 2022-12-26 | 2023-03-28 |
 | [How can I have you](https://open.spotify.com/track/14g6VmDnjwCQfmSMMcHhQ4) | [ANDME](https://open.spotify.com/artist/47t33ZAJh6vCDy35VoDWv1), [misonyeon](https://open.spotify.com/artist/3RBwHbXl5zZ2A1EzavONan) | [\["Our Pictures" Since 2018\]](https://open.spotify.com/album/0hw6KzjpP0uVtT966VjPwg) | 4:04 | 2022-11-16 | 2023-02-25 |
 | [How Do I Delete It?](https://open.spotify.com/track/4yx04UXLKqO4m3k1cgWtFk) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [Seoul Check\-in OST Part 9](https://open.spotify.com/album/5NLLw4yV1Du4PiekameabR) | 3:40 | 2022-06-20 | 2022-09-20 |
@@ -324,6 +325,7 @@
 | [Me, the Protagonist \(Feat\. Love X Stereo\)](https://open.spotify.com/track/7EqTBT6pT9Dr76qjji90I3) | [Tearliner](https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si), [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Summer Strike, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6t9MI2qmx8P65y39TftTcp) | 3:40 | 2022-12-19 | 2023-02-25 |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-06-09 | 2022-08-03 |
 | [Melting](https://open.spotify.com/track/5wAbvhL5cCWPA08wsL5jPK) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 | 2022-02-21 | 2022-05-12 |
+| [Melting](https://open.spotify.com/track/72JXhN9CABeVLNrt8VJm0l) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [The Secret Romantic Guesthouse Part.2](https://open.spotify.com/album/5PGBoR7sj4R54UrYLO4G9b) | 3:31 | 2023-03-31 |  |
 | [Memories](https://open.spotify.com/track/4xnu7crQhE60mfBNg8CkdF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Jirisan \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/09VVPSjmdfbfd99Ek96GnA) | 3:26 | 2021-12-19 | 2022-02-22 |
 | [Memories More than love](https://open.spotify.com/track/74MdGbrtYKzKHaOigmYrj3) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 | 2022-02-03 | 2022-05-04 |
 | [Memory](https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/67HFNkpetCimboi5JzugYd) | 4:23 | 2023-01-26 |  |
@@ -497,6 +499,7 @@
 | [Tragedy](https://open.spotify.com/track/02LkvKk0wF9MhKxwPCj6Ov) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Again my life, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Jd0dqgliR2advJku4c5VA) | 4:30 | 2022-06-09 | 2022-08-13 |
 | [Tree \(Just Watching You 2\)](https://open.spotify.com/track/4cz9X4VBByOUaivztKq0lY) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Alchemy of Souls: Light and Shadow, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4KcJOnFU1QSSraYkaTV6wX) | 4:03 | 2023-01-13 |  |
 | [Tropical](https://open.spotify.com/track/0mChhyeHONd7iEiyfETprG) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Seoul Check\-in OST Part 12](https://open.spotify.com/album/3oMeuwSCtpt0e1ln0o4IHO) | 3:04 | 2022-12-19 | 2023-03-28 |
+| [Trying too hard](https://open.spotify.com/track/3BNSZOeVDkxVfawEaMqj5l) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Delivery Man, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1zDIqmrLYyO5HK7hEzcITV) | 4:02 | 2023-03-31 |  |
 | [Tuning In To You](https://open.spotify.com/track/0Xpc3mahBga9f9fAcFK6W4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/7CkYfRXfHB3QMeIe1aBXxi) | 3:01 | 2022-08-12 | 2022-12-20 |
 | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/track/36ua7Cbt724p1RFlOVy9up) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/album/6go9sISRH2r8yCT5UDUDKh) | 3:41 | 2022-02-16 | 2022-05-04 |
 | [Unfamiliar confession](https://open.spotify.com/track/6gyIhTkcPebPh8V38TC4BL) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [The Stranger \(Original Television Soundtrack\)](https://open.spotify.com/album/2NQwpaIGpeLCYsmlwdEHq8) | 3:19 | 2023-01-03 |  |

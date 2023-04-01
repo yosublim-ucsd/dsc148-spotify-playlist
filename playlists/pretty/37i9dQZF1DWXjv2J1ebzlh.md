@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,536 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,588 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -679,7 +679,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 669 | [St\. Johns Guaguanco](https://open.spotify.com/track/5bhvPBiwllzJFHRqD8e5mI) | [Los Salvajes Del Ritmo](https://open.spotify.com/artist/0psoh69rCkupZFKHmJf3cn) | [Panama! 3 Calypso Panameno, Guajira Jazz & Cumbia Tipica On the Isthmus 1960\-75](https://open.spotify.com/album/1ncuW1iAzfJ3fj3OdmymYj) | 2:45 |
 | 670 | [Cumbia en el Monte](https://open.spotify.com/track/6WozspQ3YhGznIs4kXafnv) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk), [Pascual Rovira](https://open.spotify.com/artist/6gyi0MGsTAuGYSNeJ31ht4) | [Discos Fuentes Collection](https://open.spotify.com/album/3JNwdLqeNPHseXaXkyZtBs) | 2:34 |
 | 671 | [Reggae Merengue](https://open.spotify.com/track/5tG3YpxhsXIAU7svGIp6SP) | [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Supersonics](https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt) | [Treasure Isle Presents: Original Reggae](https://open.spotify.com/album/224KlK9NLFFpJ8bxpQwcOP) | 2:14 |
-| 672 | [If You Care](https://open.spotify.com/track/1RWH5zO5pONvnVRF5T3vyg) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI), [The Pelikans](https://open.spotify.com/artist/0h8lWAQfM4kLXu721N7c4h) | [Ebo Taylor and The Pelikans](https://open.spotify.com/album/5OAmfkjYbcmd65uOo54tBq) | 3:36 |
+| 672 | [If You Care](https://open.spotify.com/track/4JCjGVuCYNfUgYFbCDTueQ) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor and The Pelikans](https://open.spotify.com/album/22bvA175fzieGtO0twsXji) | 3:36 |
 | 673 | [East of Handsworth](https://open.spotify.com/track/1RelyknVUHzOFqJDNqEoqu) | [Linton Haugton](https://open.spotify.com/artist/5Xjjsxt3NDbfv4uBQce0xJ) | [Beach Diggin', Vol\. 2](https://open.spotify.com/album/6ZTmHQNK4qBaQkdJy15j6w) | 6:40 |
 | 674 | [La Danza de los Mirlos \(Cumbia de los Pajaritos\)](https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:49 |
 | 675 | [Lamento Selvatico](https://open.spotify.com/track/4cil3kLZ7AybYDvG8DSAb8) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Vision del Ayahuasca](https://open.spotify.com/album/7rGxfLvDXjzdmHwO5CV6fH) | 5:32 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDIyYWRlYmI2ZDE0YTI2Yzc5OTJjOTA3ZDE4Mjg1OGU3`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMGU4NzE3ZjIwNGQ0ZGQwZTliMGJiYTE2MGFjN2UyZmFh`

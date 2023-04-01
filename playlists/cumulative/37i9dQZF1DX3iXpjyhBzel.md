@@ -2,9 +2,9 @@
 
 ### [Louvor & Adoração](https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel)
 
-> A música certa para o seu momento de adoração\. Foto: Nívea Soares
+> A música certa para o seu momento de adoração\. Foto: Aline Barros
 
-153 songs - 14 hr 59 min
+154 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Furioso Amor](https://open.spotify.com/track/5YmCD6XNHTWgQqoxwLGmHG) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt) | [Furioso Amor](https://open.spotify.com/album/5zclhkccExl4v282im0AoW) | 6:51 | 2022-09-09 | 2023-02-04 |
 | [Jeová Jireh](https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jeová Jireh](https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse) | 6:30 | 2022-09-09 |  |
 | [Jesus é Bom Pra Mim \(feat\. Leandro Borges\)](https://open.spotify.com/track/73U4EUYq12rKBPP8Edm2Uc) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Jesus é Bom Pra Mim \(feat\. Leandro Borges\)](https://open.spotify.com/album/0hIOwaDDKAGxNWL4xfa6wS) | 4:16 | 2022-12-09 | 2023-02-04 |
-| [LEÃO \(LION\) \(feat\. Chris Brown & Thalles Roberto\)](https://open.spotify.com/track/2UnJa5chfcRDI60rLvpZKD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [LEÃO](https://open.spotify.com/album/59s62ul4SWlgcHDIPvwAcf) | 5:42 | 2022-10-08 |  |
+| [LEÃO \(LION\) \(feat\. Chris Brown & Thalles Roberto\)](https://open.spotify.com/track/2UnJa5chfcRDI60rLvpZKD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [LEÃO](https://open.spotify.com/album/59s62ul4SWlgcHDIPvwAcf) | 5:42 | 2022-10-08 | 2023-04-01 |
 | [Lágrimas \(Ao Vivo\)](https://open.spotify.com/track/1Zj96oaWZXVgfBHH6g8rli) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Lágrimas \(Ao Vivo\)](https://open.spotify.com/album/6V9c3hmMtqUgvKWBujX9C9) | 8:27 | 2022-11-04 | 2023-02-04 |
 | [Mais Que Uma Voz](https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mais Que Uma Voz / A Ele a Glória](https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN) | 4:02 | 2022-09-09 | 2022-10-22 |
 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 | 2023-02-03 |  |
@@ -131,6 +131,7 @@
 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 | 2022-09-09 |  |
 | [Sol da Justiça](https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Sol da Justiça](https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w) | 5:41 | 2022-09-09 |  |
 | [Só Existe Um Lugar \- Ao Vivo](https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Só Existe Um Lugar \(Ao Vivo\)](https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN) | 7:07 | 2022-09-09 |  |
+| [Te Adorar é meu Prazer \(Ao Vivo Em Portugal\)](https://open.spotify.com/track/1Oc5EFGrl6lHCVcrlxwEFG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos \(Vol\. I\)](https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l) | 4:55 | 2023-04-01 |  |
 | [Te Desejamos \- Ao Vivo](https://open.spotify.com/track/720Xp00zXTdDfGtT0KBMPQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Te Desejamos \(Ao Vivo\)](https://open.spotify.com/album/1vxNS67P8ZEj4gmwncHi5c) | 5:20 | 2022-09-09 | 2022-11-26 |
 | [Teu Colo](https://open.spotify.com/track/5sPGKCa94oyGCcci4c3rOO) | [Maykel Maia](https://open.spotify.com/artist/6EZwQO90m8UhhW6LdqcfYj), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Teu Colo](https://open.spotify.com/album/7cTlcn0fe77FrucDce3FK5) | 5:24 | 2022-10-08 | 2022-12-06 |
 | [Teu Poder \(Eu Creio em Ti\) + Outra Vez](https://open.spotify.com/track/1ky0fvaC42xSV0cbu5hxOD) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Teu Poder \(Eu Creio em Ti\) + Outra Vez](https://open.spotify.com/album/024maSzvAm5eyKH1do0HR7) | 7:34 | 2022-09-09 | 2023-03-12 |

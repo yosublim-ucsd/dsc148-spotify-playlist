@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/6CXfE7vb0Nl5ZFthPzdn2U"
+      },
+      "artists": [
+        {
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141069,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS"
+    },
+    {
+      "album": {
         "name": "Gongo",
         "url": "https://open.spotify.com/album/2dqi90Af77LxU3O88JY7F9"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 144000,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/5vJoZemSLeeUhRjgB2Tz8w"
@@ -1086,6 +1104,32 @@
       "duration_ms": 481623,
       "name": "Peah",
       "url": "https://open.spotify.com/track/6oq5rfJnVMZZ3OoUY4f96d"
+    },
+    {
+      "album": {
+        "name": "Pendula (Remixes)",
+        "url": "https://open.spotify.com/album/53Cp69TaNjTGMmsGU3iIsp"
+      },
+      "artists": [
+        {
+          "name": "HyperSOUL-X",
+          "url": "https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Demented Soul",
+          "url": "https://open.spotify.com/artist/5TayAMk3i506kqDdAgA8U7"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463834,
+      "name": "Pendula - Demented Soul Imp5 Afro Mix",
+      "url": "https://open.spotify.com/track/3E4iFhQZMKPe8c0uRKslnI"
     },
     {
       "album": {
@@ -1354,7 +1398,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 167547,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1BEKaR7CJZTw0Yv4e845jc"

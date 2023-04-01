@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: MarSimba
 
-74 songs - 4 hr 1 min
+76 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Echemaa](https://open.spotify.com/track/2266ieCC5PgwRahqshFzz5) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1yC4Mvqmh8WqnYoe8aelUN) | 2:24 | 2022-06-29 | 2022-10-02 |
 | [Echemaa](https://open.spotify.com/track/779HmAwLrCbbPGQXaVXUsZ) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1M3mHlbXyEAwS3ygFxRDhS) | 2:24 | 2022-07-29 |  |
 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 | 2022-06-29 |  |
-| [El Madi](https://open.spotify.com/track/2nqE5xiKvAJgfKzDlA7Fk5) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k), [Mr Choco](https://open.spotify.com/artist/6Gm8ZCNMGwbLcM5snYUr5v) | [El Madi](https://open.spotify.com/album/1vBQ92dp5JxEDDlckKfvRk) | 3:33 | 2022-06-29 |  |
+| [El Madi](https://open.spotify.com/track/2nqE5xiKvAJgfKzDlA7Fk5) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k), [Mr Choco](https://open.spotify.com/artist/6Gm8ZCNMGwbLcM5snYUr5v) | [El Madi](https://open.spotify.com/album/1vBQ92dp5JxEDDlckKfvRk) | 3:33 | 2022-06-29 | 2023-04-01 |
+| [El Madi](https://open.spotify.com/track/1uN8MEM7HP6rb99N0QV68r) | [Yazan Elsaeed \| Mr Choco](https://open.spotify.com/artist/2QkYsq6gUnwTr5dlqK7q65) | [El Madi](https://open.spotify.com/album/3hOP7WTLLX1UfJ6YmYOUjX) | 3:33 | 2023-03-31 |  |
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2022-12-12 |  |
 | [Filamén](https://open.spotify.com/track/2jz4XbBHonx48cyTgvcBt5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Filamén](https://open.spotify.com/album/7sWnujOhwvK7E3o4Xgay9l) | 4:41 | 2022-06-29 | 2022-12-13 |
 | [Ghadara](https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Ghadara](https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR) | 3:02 | 2022-07-29 | 2023-01-17 |
@@ -79,7 +80,8 @@
 | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/track/3ZYYizCVeyUC13DrDiycMS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/album/1WduJOhYm7wXuTJORnymfr) | 2:41 | 2023-02-04 |  |
 | [Ya la Laa](https://open.spotify.com/track/0pqGNW2u6uepefUa0L3KbA) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ya la Laa](https://open.spotify.com/album/2yrtP7DMdTELq4JoMtBZbO) | 2:36 | 2022-06-29 | 2022-07-29 |
 | [Ya La Laa](https://open.spotify.com/track/0cZ8ZtPjzOkFet9pGd7kxL) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 2:36 | 2022-06-29 | 2022-12-13 |
-| [Yek Yek](https://open.spotify.com/track/4FurrzPajAoNGcY4P3pu2W) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/3YB8Ew2pmNCUP7QA9FVCau) | 3:31 | 2022-06-29 |  |
+| [Yek Yek](https://open.spotify.com/track/4FurrzPajAoNGcY4P3pu2W) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/3YB8Ew2pmNCUP7QA9FVCau) | 3:31 | 2022-06-29 | 2023-04-01 |
+| [Yek Yek](https://open.spotify.com/track/617V6FOa1Qo3UIMn7y84fA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2pJTYN66za2S6VZ0ceOKZP) | 3:31 | 2023-03-31 |  |
 | [Zolly](https://open.spotify.com/track/1z8YwyE42mqwSASmIfRPxM) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Zolly](https://open.spotify.com/album/1MCeFq71zfZWqHzlBAresm) | 3:05 | 2022-06-29 |  |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-06-29 |  |
 

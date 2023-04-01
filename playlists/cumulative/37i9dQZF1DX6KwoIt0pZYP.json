@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227352,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi"
+    },
+    {
+      "album": {
         "name": "All My Friends Are Fallin' In Love",
         "url": "https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3"
       },
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 216401,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/2XM0y8rmX13FWSGDhgvqlX"
@@ -2347,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "feel / night",
+        "url": "https://open.spotify.com/album/7Igprspl27yshxLlS7ZfeW"
+      },
+      "artists": [
+        {
+          "name": "rosemances",
+          "url": "https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "feel / night",
+      "url": "https://open.spotify.com/track/7hlWJUgc8R4enuBhWAeQBR"
+    },
+    {
+      "album": {
         "name": "Feelin'",
         "url": "https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks"
       },
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 221142,
       "name": "fickle.minds",
       "url": "https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz"
@@ -3279,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Heart On Fire",
+        "url": "https://open.spotify.com/album/39xaejdB8NXYqM3w4rGY3K"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171245,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/2SSSBEGv9P3fBVdw5CfvlQ"
+    },
+    {
+      "album": {
         "name": "The Hidden Tapes Vol.1",
         "url": "https://open.spotify.com/album/5l8IfjjACyFafN13tfLjoX"
       },
@@ -3744,7 +3798,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 202706,
       "name": "I Choose U (feat. RINI)",
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
@@ -4714,7 +4768,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 263323,
       "name": "lately",
       "url": "https://open.spotify.com/track/2V7Jvf0o9dhCoZ5QswlUoR"
@@ -4884,7 +4938,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 195493,
       "name": "life as I know it",
       "url": "https://open.spotify.com/track/4lQe11Y0Qu7EoCN9PVFd6P"
@@ -5524,7 +5578,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 156857,
       "name": "midnight rendezvous",
       "url": "https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3"
@@ -5886,6 +5940,50 @@
       "duration_ms": 200362,
       "name": "No Different",
       "url": "https://open.spotify.com/track/7ztlf9mCrjoLXAYYf0LCYx"
+    },
+    {
+      "album": {
+        "name": "No Explanations",
+        "url": "https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "ZHANG YANQI",
+          "url": "https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "No Explanations",
+      "url": "https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub"
+    },
+    {
+      "album": {
+        "name": "No Good In Goodbye",
+        "url": "https://open.spotify.com/album/3nSZ1lJrHkv1ZPbSrAmmYD"
+      },
+      "artists": [
+        {
+          "name": "After Nourway",
+          "url": "https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228777,
+      "name": "No Good In Goodbye",
+      "url": "https://open.spotify.com/track/38ObpIH92W62oCBYhMW9hu"
     },
     {
       "album": {
@@ -6668,7 +6766,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 169352,
       "name": "Please Excuse My Hesitation",
       "url": "https://open.spotify.com/track/64939Q4L5IPEpiWd57yy30"
@@ -6874,6 +6972,24 @@
       "duration_ms": 145000,
       "name": "Reality",
       "url": "https://open.spotify.com/track/6aYcwXnv9pKkc75yKnlUSv"
+    },
+    {
+      "album": {
+        "name": "remember?",
+        "url": "https://open.spotify.com/album/197XXEhDGsGYSq58MgJU1l"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "remember?",
+      "url": "https://open.spotify.com/track/3WlTcuKyWkpJWC7SFF4qaC"
     },
     {
       "album": {
@@ -7702,7 +7818,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 150428,
       "name": "space (feat. Teddy Adhitya)",
       "url": "https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4"

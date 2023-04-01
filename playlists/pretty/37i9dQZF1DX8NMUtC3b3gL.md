@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,535 likes - 224 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,624 likes - 224 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 82 | [On My Way](https://open.spotify.com/track/5xmkS1lv38JiohsD7omi8a) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [On My Way](https://open.spotify.com/album/652xJbu0kTPJcfXeKeYil2) | 2:16 |
 | 83 | [Downtown](https://open.spotify.com/track/1PSQGXCHE2ilzbBBBapF5B) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Downtown](https://open.spotify.com/album/4DYWk50ZlEIc9UOmdE3Wfv) | 2:14 |
 | 84 | [Iced Tea](https://open.spotify.com/track/5tRZ5EMRDkuRiJ49iCzudM) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Iced Tea](https://open.spotify.com/album/1zFOiKmCbekeOWT0n7aNTq) | 1:57 |
-| 85 | [Mirage](https://open.spotify.com/track/6WhmXYh77rfG5KieYfx5ad) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Mirage](https://open.spotify.com/album/1YxkNRrF5w5WQJyMURd69z) | 2:34 |
+| 85 | [Mirage](https://open.spotify.com/track/6WhmXYh77rfG5KieYfx5ad) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Mirage](https://open.spotify.com/album/1YxkNRrF5w5WQJyMURd69z) | 2:34 |
 | 86 | [chrome](https://open.spotify.com/track/409mSIlqx7ZKfWhPzFzRhL) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [chrome](https://open.spotify.com/album/1A2lg20TBi2x4eVUVIBIoi) | 2:22 |
 | 87 | [lindo](https://open.spotify.com/track/66NcL7vEfkRz5iTd78h24f) | [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [Tau](https://open.spotify.com/artist/2tV1Ys5GAXL47UahBxq8hB) | [lindo](https://open.spotify.com/album/58glJDDiyNwRMHyaXFMwU8) | 2:16 |
 | 88 | [Easy Cheese](https://open.spotify.com/track/4rnf2QpPSzkxLlbFxxXgK0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [Easy Cheese](https://open.spotify.com/album/2XLsbqEwMJUGfr2Xgi9PWg) | 5:35 |

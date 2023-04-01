@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adeem the Artist
 
-150 songs - 9 hr 25 min
+153 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 | 2022-06-10 |  |
 | [All I Want Is to Be Your Girl](https://open.spotify.com/track/3guh1SDKtf0KhA8dIlUY9H) | [Holly Miranda](https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP) | [Holly Miranda](https://open.spotify.com/album/4OLTEQDy4WLfSAydhHfM4a) | 2:35 | 2021-06-01 |  |
 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 | 2022-06-01 |  |
+| [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 | 2023-03-31 |  |
 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 | 2021-06-01 |  |
 | [Amsterdam](https://open.spotify.com/track/3TpqFZxnxNe2qn362Wydz8) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Amsterdam](https://open.spotify.com/album/4LF9PCKsTfcOVnh2ufagbO) | 5:01 | 2022-06-01 |  |
 | [At My Most Beautiful](https://open.spotify.com/track/4PLqctGITm4ve4K9bM1IfV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Up](https://open.spotify.com/album/0NmRiwPIW27JPyoxcwil4z) | 3:35 | 2021-06-01 | 2022-06-01 |
@@ -51,6 +52,7 @@
 | [Don't Die in Me](https://open.spotify.com/track/0XQbRdBTT3fQfBr9we2b5N) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/78f7dEVdMqJq0KTNiwqS8k) | 3:48 | 2022-06-10 |  |
 | [Don't Die In Me](https://open.spotify.com/track/3Y674nWz029sfAgKfDSlas) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/0Fc0lUEKhhNCXL2l79u0Kn) | 3:48 | 2021-06-01 | 2022-07-29 |
 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 | 2023-03-03 |  |
+| [Erase Me](https://open.spotify.com/track/0XVbJvveXmtVlMGKhIcGZK) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [Write Your Name In Pink](https://open.spotify.com/album/5MimZH5rLcsbFj6tUxsnrM) | 5:02 | 2023-03-31 |  |
 | [Everybody Loves You](https://open.spotify.com/track/0VoXWFiouDUJ7Jl3iTzY88) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/3D4R2K9WvgchXUkefusOrC) | 3:19 | 2021-06-01 | 2022-07-29 |
 | [Everybody Loves You](https://open.spotify.com/track/3f6rsRGCaABn7i8S8N8zmc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:19 | 2022-06-10 |  |
 | [Everybody Loves You](https://open.spotify.com/track/4YooFgsSf5epSALkj4Vh4g) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Everybody Loves You](https://open.spotify.com/album/6za8YcKrkHjQmY5FYzWufu) | 3:19 | 2022-06-10 | 2022-11-13 |
@@ -108,6 +110,7 @@
 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 | 2021-06-01 | 2022-06-01 |
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2021-06-01 |  |
 | [No Mistakes](https://open.spotify.com/track/6D3sNZ0y2P2uonpPQeMosP) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Nightroamer](https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc) | 2:52 | 2022-06-01 |  |
+| [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 | 2023-03-31 |  |
 | [Oh No](https://open.spotify.com/track/4pRFEbD7GmqJVE5lLRKADQ) | [Hannah & Maggie](https://open.spotify.com/artist/0aixlmLwzH6Sn1Yp3uOtu5) | [Oh No](https://open.spotify.com/album/0xhREDmmLagba2bpPfOuUh) | 3:17 | 2021-06-01 | 2022-06-01 |
 | [Olivia](https://open.spotify.com/track/3OByrxVpeHjxxc0HX9bRIT) | [Rachael Sage](https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw) | [Olivia](https://open.spotify.com/album/3kmkC2FDsfV2wImqY5hYi0) | 2:47 | 2021-06-01 |  |
 | [Other Boys](https://open.spotify.com/track/0UiAguUUtTHDq4ppFEpBfG) | [Paisley Fields](https://open.spotify.com/artist/6tzDsjuTpo8J7qsGfGZvPx) | [Other Boys](https://open.spotify.com/album/3jbFVt4VrqklkWj8uVpLAN) | 3:14 | 2021-06-01 |  |

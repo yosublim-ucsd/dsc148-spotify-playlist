@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "7FIGURESUPERMODEL",
+        "url": "https://open.spotify.com/album/5qreHFgrcvU9JYMf3KMSZp"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160593,
+      "name": "7FIGURESUPERMODEL",
+      "url": "https://open.spotify.com/track/3RNDBiWPixoFZ5K4NwSzQD"
+    },
+    {
+      "album": {
         "name": "A Space in Between",
         "url": "https://open.spotify.com/album/4sX9q9enQ6JTiYYrzuMA1K"
       },
@@ -144,7 +162,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 156000,
       "name": "About That",
       "url": "https://open.spotify.com/track/3aLikJG6Y9zm40fXtYAC6F"
@@ -410,7 +428,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 180400,
       "name": "ambien",
       "url": "https://open.spotify.com/track/21KwCo6dkh83CypNslVwG1"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 282360,
       "name": "BLUE LIGHT",
       "url": "https://open.spotify.com/track/2blHAJSeclS036DmrQxOvE"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 173615,
       "name": "Capsize (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/6FxILeOa0DIDHq5oD05zpI"
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 236800,
       "name": "Change of Pace",
       "url": "https://open.spotify.com/track/3e8crxi6lSdMuIF6cbuWau"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 251913,
       "name": "Crave Me",
       "url": "https://open.spotify.com/track/3HuVGDJHnnhXYv6AlNG0HF"
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 180967,
       "name": "Down To Earth",
       "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
@@ -2272,7 +2290,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 226552,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/7uToGdhcxRZ5lo9WCVVQdx"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 251612,
       "name": "Emphasis",
       "url": "https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI"
@@ -2838,10 +2856,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 152586,
       "name": "far gone",
       "url": "https://open.spotify.com/track/0vb4In2ytG8ZHsoY59ROA7"
+    },
+    {
+      "album": {
+        "name": "FBGM!",
+        "url": "https://open.spotify.com/album/1YKPrMwtY3U4o7FrrPTNRT"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "FBGM!",
+      "url": "https://open.spotify.com/track/0qES0yIA5BkEdpnvJoevNa"
     },
     {
       "album": {
@@ -2926,7 +2962,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 174155,
       "name": "find your way - Elohim Remix",
       "url": "https://open.spotify.com/track/2UYeqwRXXMeYY1qrnBz036"
@@ -2966,7 +3002,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 210562,
       "name": "Food for the Soul",
       "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
@@ -3094,7 +3130,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 300200,
       "name": "Four Tet Is My Godmother",
       "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
@@ -3564,7 +3600,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 285714,
       "name": "Higher",
       "url": "https://open.spotify.com/track/53WYJw5FaSCUOzmQar0Jdy"
@@ -3717,6 +3753,24 @@
     },
     {
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/1DDjDOfDsr2asjvfUVNuFz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237390,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/2fXFmhAB2jjB6oCBLPEfSj"
+    },
+    {
+      "album": {
         "name": "Hooyah!",
         "url": "https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI"
       },
@@ -3732,7 +3786,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 132800,
       "name": "Hooyah!",
       "url": "https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8"
@@ -4158,7 +4212,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 380173,
       "name": "It's Very Loud",
       "url": "https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl"
@@ -4278,7 +4332,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 264661,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL"
@@ -4300,7 +4354,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 176376,
       "name": "LEFT TO RIGHT - JADED Remix",
       "url": "https://open.spotify.com/track/6SejpzU5kr4Jlw2iZyBRwq"
@@ -4836,7 +4890,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 243750,
       "name": "Make U Mine",
       "url": "https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73"
@@ -5266,7 +5320,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 229333,
       "name": "Never Be",
       "url": "https://open.spotify.com/track/2YZGc7EmCyqJZsMJP4Sogm"
@@ -5514,6 +5568,24 @@
       "duration_ms": 175500,
       "name": "No Turning Back (feat. Namelle)",
       "url": "https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c"
+    },
+    {
+      "album": {
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282225,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
     },
     {
       "album": {
@@ -5786,7 +5858,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 189387,
       "name": "Over the Sun",
       "url": "https://open.spotify.com/track/6zqcYS3RD9SPG9I6u2n4DD"
@@ -5936,7 +6008,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 304107,
       "name": "Pioneer Digital Plastic Sound",
       "url": "https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS"
@@ -6787,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "slippery slope",
+        "url": "https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "slippery slope",
+      "url": "https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e"
       },
@@ -6842,7 +6932,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 216063,
       "name": "so far",
       "url": "https://open.spotify.com/track/4bf50Hgiy5Gp34wvVQwJMR"
@@ -6934,7 +7024,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
@@ -7336,7 +7426,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 188876,
       "name": "tacit",
       "url": "https://open.spotify.com/track/2y9kGMUvKsikIQIvfjpNv1"
@@ -7598,7 +7688,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
@@ -7721,6 +7811,24 @@
     },
     {
       "album": {
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213987,
+      "name": "There's Another Life 4 U",
+      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
+    },
+    {
+      "album": {
         "name": "Think About It",
         "url": "https://open.spotify.com/album/5mL2ZU969ZAdz9MmyihsvV"
       },
@@ -7754,7 +7862,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 204963,
       "name": "Thirst - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
@@ -8676,7 +8784,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 220952,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/1VyRpTEE3InYTwUGcjsHJm"

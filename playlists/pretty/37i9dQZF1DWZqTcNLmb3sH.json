@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48217,
+  "num_followers": 48233,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDEwNjk0NywwMDAwMDAwMDRjNjA4ZTgzZGRiYTg5ZTU3N2Y0NzUyZjY5N2I3MzEw",
+  "snapshot_id": "MTY4MDI3NzEzMCwwMDAwMDAwMDdmZmUwMDU5ZGJjMGE2NDEyYzU1ZGE1YWU2MzEyZDMy",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -55,22 +55,22 @@
     {
       "added_at": "2023-02-06 07:20:37",
       "album": {
-        "name": "Kabzaa",
-        "url": "https://open.spotify.com/album/4tbldhUtSBlqNJYJ0EhBhP"
+        "name": "Kabzaa Title Track (From \"Kabzaa\") [Telugu]",
+        "url": "https://open.spotify.com/album/1D4hY8evxzffpsZIJDQCGb"
       },
       "artists": [
         {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+          "name": "Prasanth Kamma",
+          "url": "https://open.spotify.com/artist/7LlvbSmuRxACoJZl1FYD7f"
         },
         {
-          "name": "Bhavyashri Bandimata",
-          "url": "https://open.spotify.com/artist/7rqcihag4phHx5GH4eMnDL"
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
         }
       ],
-      "duration_ms": 238933,
-      "name": "Kabzaa Title Track",
-      "url": "https://open.spotify.com/track/3WcKQigG9P0I0fxtj1jpPh"
+      "duration_ms": 238750,
+      "name": "Kabzaa Title Track (From \"Kabzaa\") [Telugu]",
+      "url": "https://open.spotify.com/track/4sDgjSzvbxDDwqX2lWQZ9J"
     },
     {
       "added_at": "2023-02-03 09:21:47",
@@ -195,6 +195,26 @@
       "duration_ms": 156173,
       "name": "Twinkle Twinkle (from \"Shivaji Surathkal 2\")",
       "url": "https://open.spotify.com/track/2zVsOW63CdoQrQGMoaTjtf"
+    },
+    {
+      "added_at": "2023-03-31 15:38:50",
+      "album": {
+        "name": "Mounave Chenna (from \"Veeram\")",
+        "url": "https://open.spotify.com/album/5tZ7RUfAWQVvGeGtBHRiUO"
+      },
+      "artists": [
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        }
+      ],
+      "duration_ms": 216921,
+      "name": "Mounave Chenna (from \"Veeram\")",
+      "url": "https://open.spotify.com/track/5Mpy6UFHledqTFeQ6FqUJT"
     },
     {
       "added_at": "2023-01-17 04:08:21",
@@ -395,34 +415,6 @@
       "duration_ms": 239000,
       "name": "Sogasige Merugu",
       "url": "https://open.spotify.com/track/4K6qOh39HYQcHaoXVM2lbm"
-    },
-    {
-      "added_at": "2023-03-09 13:53:44",
-      "album": {
-        "name": "Kaamanabillu (From \"Pentagon\")",
-        "url": "https://open.spotify.com/album/15BpVzvY6jlQhCZ40rCrbd"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venki",
-          "url": "https://open.spotify.com/artist/25CC77LOgi5bBoOlCaNIp9"
-        },
-        {
-          "name": "Inchara Rao",
-          "url": "https://open.spotify.com/artist/1LCraNlWbg00PkooBcsLZ4"
-        },
-        {
-          "name": "Kadri Manikanth",
-          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        }
-      ],
-      "duration_ms": 210991,
-      "name": "Kaamanabillu (From \"Pentagon\")",
-      "url": "https://open.spotify.com/track/7xMzjFAmTpAARCWlTzojef"
     },
     {
       "added_at": "2023-02-28 11:41:20",
@@ -1123,18 +1115,26 @@
     {
       "added_at": "2023-01-05 10:37:33",
       "album": {
-        "name": "Baanadariyalli",
-        "url": "https://open.spotify.com/album/2BAU7DUrMb3gtkUhMvF3YW"
+        "name": "Ninnanu Nodida (From \"Baanadariyalli\")",
+        "url": "https://open.spotify.com/album/6AmKNvxxUuztMAM3QsyEkh"
       },
       "artists": [
         {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
           "name": "Sonu Nigam",
           "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
         }
       ],
       "duration_ms": 256665,
-      "name": "Ninnanu Nodida",
-      "url": "https://open.spotify.com/track/1nmAuxcjll2bz13MSvKClR"
+      "name": "Ninnanu Nodida - From \"Baanadariyalli\"",
+      "url": "https://open.spotify.com/track/4s4RVKRTLA1xeGKSX5wMO3"
     },
     {
       "added_at": "2023-02-03 09:21:47",
@@ -2035,8 +2035,8 @@
     {
       "added_at": "2022-10-12 07:23:01",
       "album": {
-        "name": "Triple Riding",
-        "url": "https://open.spotify.com/album/2UGGplfz5KPfypnEC8vIgh"
+        "name": "Nijave Athava",
+        "url": "https://open.spotify.com/album/5oEb08xiMzR0vYrp3pjROz"
       },
       "artists": [
         {
@@ -2048,9 +2048,9 @@
           "url": "https://open.spotify.com/artist/4snZchALIW1fJF3dukbU0g"
         }
       ],
-      "duration_ms": 219206,
+      "duration_ms": 219277,
       "name": "Nijave Athava",
-      "url": "https://open.spotify.com/track/3TUOWcaXYcZe3rFSurNgdN"
+      "url": "https://open.spotify.com/track/7owQsx0HuN88s98kplSTf0"
     },
     {
       "added_at": "2022-11-14 11:31:00",

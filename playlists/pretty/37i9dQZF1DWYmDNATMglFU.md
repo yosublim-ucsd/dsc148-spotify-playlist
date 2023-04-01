@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. crawlers
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,348 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,409 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 81 | [Groundhog Day](https://open.spotify.com/track/2ko8dvhLWtjJLpVRP0MsSy) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Groundhog Day](https://open.spotify.com/album/2ex4Ft73QrAjK7oFwwejjH) | 1:50 |
 | 82 | [Something Good](https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Something Good](https://open.spotify.com/album/5TXmQygkvgmQyWOZbAaZuq) | 3:45 |
 | 83 | [\(NOT A\) LOVE SONG](https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79) | [The Tyne](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [\(NOT A\) LOVE SONG](https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN) | 2:47 |
-| 84 | [stab my back](https://open.spotify.com/track/4OgKvwPKXilrjqISkM0w2B) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep \(deluxe\)](https://open.spotify.com/album/59i3drfYd0zO4OLECmFCPB) | 3:28 |
+| 84 | [stab my back](https://open.spotify.com/track/2qmOdCbB4TbRWNXD7QOc1M) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 3:28 |
 | 85 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDJiZDRlZDg3NDUxOGE3OWQxYmRkMzYyNDJkN2NhMjY5`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDIyNDZiMmE3NWMyYzI1ODM0ODU3ODNjMzYzNWJmZjUw`

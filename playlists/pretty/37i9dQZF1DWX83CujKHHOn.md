@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,296,451 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,297,076 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [feelings fade](https://open.spotify.com/track/4jnO4ztskhv3YkqgFnewtD) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [me](https://open.spotify.com/album/65OO1Lvu27sSpND6QycjcW) | 4:00 |
 | 150 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
 
-Snapshot ID: `MTY3OTA0OTAwMCwwMDAwMDAwMGM0OTU2NGJiNWZjYmNhMWM1NGQ0MWRlOGVkYzdiNTgw`
+Snapshot ID: `MTY4MDI2MDQwMCwwMDAwMDAwMGYxN2FlN2JmMWI1MWFkZmRkY2Y1MzEzZGM3NjUxMzg0`

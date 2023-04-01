@@ -4,10 +4,11 @@
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-332 songs - 20 hr 9 min
+333 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$20](https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:20 | 2023-03-31 |  |
 | [3 2 4 3](https://open.spotify.com/track/7andc0MirzCmIlkcCjjJmV) | [Ohmme](https://open.spotify.com/artist/1lGRK7KK1IuflIyNSE9R3M) | [3 2 4 3](https://open.spotify.com/album/7kFjHLW3eG86u87pUzCFIr) | 4:05 | 2021-11-14 | 2022-07-28 |
 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-05-20 | 2023-03-11 |
 | [4th of july](https://open.spotify.com/track/703z4Q7y8h8tkTkON7qdwZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/76sAkYMfB4nu07luXtqMe1) | 2:56 | 2021-11-14 | 2022-07-29 |
@@ -292,7 +293,7 @@
 | [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 | 2022-05-20 | 2023-03-08 |
 | [The Bus Song](https://open.spotify.com/track/2dH6JDf5L4kQnDAtxBNeio) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Everybody Works](https://open.spotify.com/album/1ZMtgC7o6TGbzwkv5SpThU) | 3:36 | 2022-04-01 | 2022-05-19 |
 | [The Embers](https://open.spotify.com/track/2h0ax9KUQRoAiy5ZGMk5aS) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Infinite Worlds](https://open.spotify.com/album/2t1IC3t3dXjK1wIlsEjCez) | 3:15 | 2022-04-01 | 2022-04-21 |
-| [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 | 2022-05-20 |  |
+| [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 | 2022-05-20 | 2023-04-01 |
 | [The Last Man on Earth](https://open.spotify.com/track/0X9YmbFHb2sPmml6J7DMK0) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Last Man on Earth](https://open.spotify.com/album/339CvLlLSLcrQlMpedt47v) | 4:21 | 2021-11-14 | 2022-07-24 |
 | [The Only Heartbreaker](https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Only Heartbreaker](https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY) | 3:04 | 2021-11-14 |  |
 | [The Starlight Lounge](https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [The Starlight Lounge](https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF) | 3:34 | 2021-11-14 | 2023-01-28 |

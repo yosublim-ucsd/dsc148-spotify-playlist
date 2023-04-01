@@ -15726,6 +15726,24 @@
     {
       "album": {
         "name": "Ebo Taylor and The Pelikans",
+        "url": "https://open.spotify.com/album/22bvA175fzieGtO0twsXji"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216243,
+      "name": "If You Care",
+      "url": "https://open.spotify.com/track/4JCjGVuCYNfUgYFbCDTueQ"
+    },
+    {
+      "album": {
+        "name": "Ebo Taylor and The Pelikans",
         "url": "https://open.spotify.com/album/5OAmfkjYbcmd65uOo54tBq"
       },
       "artists": [
@@ -15740,7 +15758,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 216243,
       "name": "If You Care",
       "url": "https://open.spotify.com/track/1RWH5zO5pONvnVRF5T3vyg"

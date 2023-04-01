@@ -313,6 +313,28 @@
     },
     {
       "album": {
+        "name": "Adventure Time",
+        "url": "https://open.spotify.com/album/1T41lXlauMiWEQWGCTqEtD"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169695,
+      "name": "Adventure Time",
+      "url": "https://open.spotify.com/track/4QHXOP6YFZ4934kO1ATaEk"
+    },
+    {
+      "album": {
         "name": "Pilot Talk: Trilogy",
         "url": "https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V"
       },
@@ -1228,6 +1250,24 @@
       "duration_ms": 275917,
       "name": "Circumstances",
       "url": "https://open.spotify.com/track/5AnyUq0QkIQPrmysUe5bYD"
+    },
+    {
+      "album": {
+        "name": "Class",
+        "url": "https://open.spotify.com/album/7ySRtcBS3aaEv7myWwMPKN"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222920,
+      "name": "Class",
+      "url": "https://open.spotify.com/track/3IwTfr5BZ9Wiz9dmgp5ITm"
     },
     {
       "album": {
@@ -2825,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Dxk9Ko6Qx5zIxcFJZsGw8"
+      },
+      "artists": [
+        {
+          "name": "King Reign",
+          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136106,
+      "name": "I Rap",
+      "url": "https://open.spotify.com/track/4r167tizFlDPTPDPZPd0ij"
+    },
+    {
+      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
       },
@@ -2840,6 +2898,28 @@
       "duration_ms": 252306,
       "name": "I Wish - Radio Edit",
       "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
+    },
+    {
+      "album": {
+        "name": "I'm Still Somehow",
+        "url": "https://open.spotify.com/album/6WiNe8IgYj8qMt0NM6zuug"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124738,
+      "name": "I'm Still Somehow",
+      "url": "https://open.spotify.com/track/6cGROQpysVhw5Pd4UEvp5n"
     },
     {
       "album": {
@@ -3421,6 +3501,28 @@
     },
     {
       "album": {
+        "name": "Lightsabers (feat. C Dot Castro)",
+        "url": "https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "C Dot Castro",
+          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290844,
+      "name": "Lightsabers (feat. C Dot Castro)",
+      "url": "https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ"
+    },
+    {
+      "album": {
         "name": "Star Power",
         "url": "https://open.spotify.com/album/7kRhfYHR1agIzy2W7xwnPK"
       },
@@ -3494,7 +3596,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 240093,
       "name": "Luchini AKA This Is It",
       "url": "https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4"
@@ -3860,7 +3962,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 215820,
       "name": "Naturally Conspiring",
       "url": "https://open.spotify.com/track/035oBcRjSOLNXDklFrODdk"
@@ -4710,7 +4812,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 113861,
       "name": "Premium Leather",
       "url": "https://open.spotify.com/track/4Q3jWNJwkqOx7PhbQdakz4"
@@ -5076,6 +5178,28 @@
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/1L8NADNWd56cZRnaxcxPPI"
+    },
+    {
+      "album": {
+        "name": "The Heaven Experience - EP",
+        "url": "https://open.spotify.com/album/28zIktAVw9ABux047nCGkH"
+      },
+      "artists": [
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238584,
+      "name": "Royce & Reggie",
+      "url": "https://open.spotify.com/track/3pABqONrhhTpJMybJBpu0G"
     },
     {
       "album": {
@@ -5584,7 +5708,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk"
@@ -6136,7 +6260,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 255609,
       "name": "The Highs & The Lows",
       "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
@@ -6898,7 +7022,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 208670,
       "name": "When The Moving Stops",
       "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"

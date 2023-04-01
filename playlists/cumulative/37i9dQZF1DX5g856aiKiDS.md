@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-268 songs - 15 hr 9 min
+269 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,12 +191,13 @@
 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 | 2022-04-12 |  |
 | [Red Muhly](https://open.spotify.com/track/6eW9BHXYB5hgosR6zQ4WxB) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:33 | 2022-04-12 | 2022-04-21 |
 | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/track/30SwX34WgPlXKkqnJHrhlG) | [LOTI](https://open.spotify.com/artist/5HlwsKjYi0iygvWg19itif), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/album/0Nt3sn3MrZhQb3hfR3xEvL) | 3:29 | 2023-01-13 | 2023-01-26 |
+| [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-04-01 |  |
 | [Running to You](https://open.spotify.com/track/3UoHkXZkIZz7Lna8rwzYiy) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Running to You](https://open.spotify.com/album/2DJwEaPL3UvpqwyLQSnuN2) | 3:31 | 2022-05-11 | 2022-06-10 |
 | [Safety Distance](https://open.spotify.com/track/513DfQz8PCkHlnWcn1QeLJ) | [휘슬 \(Whistle\)](https://open.spotify.com/artist/6zZR8DsPLAROAhjBYRGROH) | [Safety Distance](https://open.spotify.com/album/2z1r6akTAwpd3f6bTWmJr9) | 3:47 | 2022-05-02 | 2022-05-12 |
 | [say what's on your mind](https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn) | 2:53 | 2022-07-22 | 2023-03-16 |
 | [Secret love \(Feat\. Ashley Alisha, Jae luna\)](https://open.spotify.com/track/3D5tJv3dKwIBW0eBxoauR1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [High\-teen](https://open.spotify.com/album/7btdv5NiqdVwA2CJm4vYZk) | 2:46 | 2022-04-21 | 2022-07-28 |
 | [Silly Silly Love](https://open.spotify.com/track/4lH8rMXkYqE5TZMHxnSfmJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 3:34 | 2022-04-12 | 2022-07-26 |
-| [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2022-04-12 |  |
+| [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2022-04-12 | 2023-04-01 |
 | [Slow Dance](https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Slow Dance](https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E) | 3:03 | 2022-06-13 | 2022-07-27 |
 | [Snow in Seoul](https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Snow in Seoul](https://open.spotify.com/album/1XbTgdcRQ4ss531LtZdXX7) | 4:29 | 2022-04-21 | 2022-07-23 |
 | [Someday](https://open.spotify.com/track/1HOJ7ZN0t1zeqdWLMK0ptr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Someday](https://open.spotify.com/album/0sM9fwRwtmTw6Z0cTGpOwR) | 3:36 | 2022-04-21 | 2022-07-04 |

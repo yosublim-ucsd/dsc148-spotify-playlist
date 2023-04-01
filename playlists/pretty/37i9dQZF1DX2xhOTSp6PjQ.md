@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=\_aIL8crJSKC5kkUNk4ASlQ">Big Zulu</a> and <a href="https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=\_DabzKNsSnisZ\_NpwiIHDA">Sjava</a> are <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=V4X6pc3hQqG644fLEMUOLw">Inkabi Zezwe</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,507 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,620 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

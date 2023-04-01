@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-68 songs - 3 hr 52 min
+69 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2023-03-17 |  |
 | [Country Boy Swag](https://open.spotify.com/track/6c0IDzUOmZnDJOiHFu7q4F) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:30 | 2023-03-17 |  |
 | [Country Folks \(feat\. Colt Ford & Danny Boone\)](https://open.spotify.com/track/1BsvAobGiVCaqRAixv22CW) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Pain Management](https://open.spotify.com/album/0q3foQ56tQjePzX6SXCdTK) | 3:33 | 2023-03-17 |  |
+| [Country Hustlas](https://open.spotify.com/track/6zTa0edMoxQoTvyCxVU9Rs) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Country Hustlas](https://open.spotify.com/album/62NS1EdORVN8R347I5nJIW) | 3:06 | 2023-03-31 |  |
 | [Country Made](https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire) | 3:29 | 2023-03-17 |  |
 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 | 2023-03-17 |  |
 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 | 2023-03-17 |  |

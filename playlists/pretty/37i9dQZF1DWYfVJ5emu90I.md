@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,710 likes - 76 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,742 likes - 76 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 44 | [NEW REAL](https://open.spotify.com/track/6XDPT5hDzyCibE904EpNx2) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/3soVw5GCfP8alGAzFYdhfN) | 3:15 |
 | 45 | [priceless](https://open.spotify.com/track/3667F7zdsetcaPwwucYddi) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Homunculu$](https://open.spotify.com/artist/7DNQRBgbj9BOYu3mz8dTyi) | [Delicate](https://open.spotify.com/album/78I7c2SxQsfWt23YyAAIyf) | 1:32 |
 | 46 | [Psycho](https://open.spotify.com/track/1MrMCAwN8FKvSKHaDAAoTY) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/3xey9oaCCAC2AEL1mcemo3) | 2:37 |
-| 47 | [ROMANÉE \-CONTI](https://open.spotify.com/track/4J8OZi1ItHMcLjU1TIOgvI) | [MC Tyson](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd) | [THE MESSAGE III](https://open.spotify.com/album/0yVWJKqJ9jOVneyR1tjIUW) | 3:29 |
+| 47 | [ROMANÉE \-CONTI](https://open.spotify.com/track/4J8OZi1ItHMcLjU1TIOgvI) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd) | [THE MESSAGE III](https://open.spotify.com/album/0yVWJKqJ9jOVneyR1tjIUW) | 3:29 |
 | 48 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 |
 | 49 | [YAJU](https://open.spotify.com/track/1MfRRNBWo54y4ZF23SivXg) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9), [Yokai Jaki](https://open.spotify.com/artist/1KWYZKBQJ1ClZWnEpOPAYp) | [YAJU](https://open.spotify.com/album/634B4kQFuSotpTdv8fTvBB) | 2:12 |
 | 50 | [PPAP](https://open.spotify.com/track/43VQeu11B8muwxxmTgklyI) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [The Race](https://open.spotify.com/album/7D6SzmtTlyIRrTwsyp7VA9) | 2:09 |

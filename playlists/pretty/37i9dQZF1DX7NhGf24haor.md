@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Hard Driver
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,934 likes - 104 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,079 likes - 104 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 8 | [Keep It Coming](https://open.spotify.com/track/5cpn796lJEwIPupOgTEX1u) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Keep It Coming](https://open.spotify.com/album/2zpAgQQwai76PjkOVmYsLT) | 2:32 |
 | 9 | [The Future](https://open.spotify.com/track/0Il8vu2reeGqCDRm4sDZTx) | [Bass X Machina](https://open.spotify.com/artist/30qDNUnj7UYaiI59KnYbh0), [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC) | [The Future](https://open.spotify.com/album/77yZmi0XdEjZfMOK7Tb779) | 4:26 |
 | 10 | [FLYIN' HIGH](https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [FLYIN' HIGH](https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7) | 3:50 |
-| 11 | [Live 4 Ever](https://open.spotify.com/track/1MyP9m0My4lyc5C1eOnDw7) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/7Huvuo5IBlbH5EDrW0EFKS) | 2:13 |
+| 11 | [Live 4 Ever](https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/4RT18SyW0vxHw7pjmfEQZS) | 2:13 |
 | 12 | [Marble \- Marc Blou Remix](https://open.spotify.com/track/68D3lp57w0TBdJd8Z64Exi) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Shockz](https://open.spotify.com/artist/2MPHwCi6dWYhq00yEiOuI2), [Rebecca Helena](https://open.spotify.com/artist/76i2ylWmcnDTx38Va7Mwzr), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Marble \(Marc Blou Remix\)](https://open.spotify.com/album/3spdRAdTkREkDVLdtBKzbM) | 3:27 |
 | 13 | [Blast In Your Face](https://open.spotify.com/track/3RMOpfwLZ3h41bqG0Mq7Gg) | [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Blast In Your Face](https://open.spotify.com/album/7Ay1R1bMxFVUkZJXmVWWoP) | 3:25 |
 | 14 | [Just A Dream](https://open.spotify.com/track/6MT1aOXD8AMViizbBbVXa8) | [Josh & Wesz](https://open.spotify.com/artist/7G7mVrnF4ag8MTX8o8sizx) | [Just A Dream](https://open.spotify.com/album/2yuBJZ2u632xzfK8bZeg7A) | 3:41 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 103 | [Burn It Down](https://open.spotify.com/track/7Bh0sxD0BTkq0PtexKICB3) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Burn It Down](https://open.spotify.com/album/6vRb3xiVIvUN7VunCfQ3aQ) | 2:51 |
 | 104 | [The Get Back](https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [The Get Back](https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY) | 2:10 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDQwY2RjM2Q0YTY5ZmFkMzczZjYxMTE3ZWM4N2VlNzZh`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMGE2YmEzODE2NDc0YjJiY2JhMDgwNTEwYTNjYzRhZjY0`

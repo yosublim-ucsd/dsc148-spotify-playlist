@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=f5xUkCYQR_6Cx8RzfhTXsg\"> Bloody Samaritan </a> ",
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=f5xUkCYQR_6Cx8RzfhTXsg\"> Bloody Civilian </a> ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -1646,6 +1646,24 @@
       "duration_ms": 151572,
       "name": "Elastic",
       "url": "https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp"
+    },
+    {
+      "album": {
+        "name": "Emu Oguro",
+        "url": "https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5"
+      },
+      "artists": [
+        {
+          "name": "Dolapo Martins",
+          "url": "https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193462,
+      "name": "Emu Oguro",
+      "url": "https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ"
     },
     {
       "album": {
@@ -3332,7 +3350,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 250491,
       "name": "Love",
       "url": "https://open.spotify.com/track/08r8dLobzYIZLrlKlf5zzI"
@@ -4134,7 +4152,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 224917,
       "name": "Old Wineskins",
       "url": "https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL"
@@ -6049,7 +6067,7 @@
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 227333,
+      "duration_ms": 189232,
       "name": "Touch Your Soul (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
     },
@@ -6492,6 +6510,24 @@
       "duration_ms": 150927,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7eCBkV136O7Fw0ZUo3k1FH"
+    },
+    {
+      "album": {
+        "name": "\u0218\u00ecj\u00fa",
+        "url": "https://open.spotify.com/album/0ekcscZVDCz96SKZPeeKZY"
+      },
+      "artists": [
+        {
+          "name": "DamianNedu",
+          "url": "https://open.spotify.com/artist/0FARDKvRkS7ZB2PJRC2WWO"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "\u0218\u00ecj\u00fa",
+      "url": "https://open.spotify.com/track/1AdtVUOSzAP3gqVfPFwaAF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h"

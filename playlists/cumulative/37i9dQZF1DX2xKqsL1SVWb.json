@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk tan dulce como la miel. ",
+  "description": "Folk tan dulce como la miel. Kevin Kaarl en portada.",
   "name": "madera y miel",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 121461,
       "name": "A Ver Si As\u00ed Te Olvido",
       "url": "https://open.spotify.com/track/6uhb1UBKjtodP8KcsqN1Ep"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 245422,
       "name": "Al Pie del Volc\u00e1n",
       "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 228000,
       "name": "Alice",
       "url": "https://open.spotify.com/track/3Gjv8N8YAtPPvLr3hBixCf"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 197260,
       "name": "Corrido Ser\u00e1",
       "url": "https://open.spotify.com/track/7Go6T2SYkl9yo0z47S3pYy"
@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame de Matar",
+        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190169,
+      "name": "D\u00e9jame de Matar",
+      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
+    },
+    {
+      "album": {
         "name": "El Fin",
         "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
       },
@@ -656,6 +674,24 @@
       "duration_ms": 177813,
       "name": "El Fin",
       "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
     },
     {
       "album": {
@@ -728,7 +764,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 201900,
       "name": "Euforia",
       "url": "https://open.spotify.com/track/2hHaDesv4GPrUFALA10p0B"
@@ -826,6 +862,24 @@
       "duration_ms": 275194,
       "name": "Jugaste y Sufr\u00ed",
       "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
+    },
+    {
+      "album": {
+        "name": "HSN",
+        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160001,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
     },
     {
       "album": {
@@ -948,7 +1002,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 197649,
       "name": "Llegas T\u00fa",
       "url": "https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY"
@@ -966,7 +1020,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 165842,
       "name": "Lo M\u00e1gico - Ac\u00fastico",
       "url": "https://open.spotify.com/track/39aXU64OoiRzFB3J2swIs7"
@@ -1132,7 +1186,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 225692,
       "name": "M\u00edstico Desierto",
       "url": "https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA"
@@ -1154,6 +1208,28 @@
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+    },
+    {
+      "album": {
+        "name": "No Sab\u00eda",
+        "url": "https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Ni\u00f1o de Elche",
+          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "No Sab\u00eda",
+      "url": "https://open.spotify.com/track/7pk6N0rE7NcfDYryeqsAHn"
     },
     {
       "album": {
@@ -1222,7 +1298,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 222438,
       "name": "Nos Dijimos Adi\u00f3s",
       "url": "https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU"
@@ -1324,6 +1400,42 @@
       "duration_ms": 238640,
       "name": "Prom\u00e9teme - Versi\u00f3n Alterna",
       "url": "https://open.spotify.com/track/6mtCR0aXlHss5qPqAxGvNr"
+    },
+    {
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
+    },
+    {
+      "album": {
+        "name": "Que no me encuentre",
+        "url": "https://open.spotify.com/album/0C0K2Mf3DyY7cgJoPgI5eH"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186748,
+      "name": "Que no me encuentre",
+      "url": "https://open.spotify.com/track/3Nb4ygzwmt8CNIb3fZ2Pk1"
     },
     {
       "album": {
@@ -1464,7 +1576,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 211382,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3"
@@ -1666,7 +1778,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 234140,
       "name": "Telara\u00f1as",
       "url": "https://open.spotify.com/track/6Tci9Lg9K45tGA0PzABd8F"
@@ -1821,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Canciones Secretas",
+        "url": "https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1"
+      },
+      "artists": [
+        {
+          "name": "Karina Galicia",
+          "url": "https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152321,
+      "name": "Vuelvo Pronto",
+      "url": "https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa"
+    },
+    {
+      "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
@@ -1836,6 +1966,50 @@
       "duration_ms": 179094,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "album": {
+        "name": "Ya Casi Te Olvido",
+        "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        },
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134470,
+      "name": "Ya Casi Te Olvido",
+      "url": "https://open.spotify.com/track/5zX9R0lTBodrNRzfccZhca"
+    },
+    {
+      "album": {
+        "name": "Ya Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Ya Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Matheus & Kauan, Mari Fernandez",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Guilherme & Benuto, Ana Castela, Adriano Rhod",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 169771,
       "name": "Acordo - Ao Vivo",
       "url": "https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw"
@@ -2022,6 +2022,24 @@
       "duration_ms": 175216,
       "name": "Quebrando Protocolo - Ao Vivo",
       "url": "https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM"
+    },
+    {
+      "album": {
+        "name": "Rancorosa (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/1A07EzPDoFwgJvDgIVPcpI"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181457,
+      "name": "Rancorosa - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7CUQQLRMIeSfa4m2uQcRHp"
     },
     {
       "album": {

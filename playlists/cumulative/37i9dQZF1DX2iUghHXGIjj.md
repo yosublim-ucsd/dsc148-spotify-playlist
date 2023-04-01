@@ -4,10 +4,11 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-160 songs - 9 hr 59 min
+161 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [75\-71](https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [75\-71](https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj) | 3:44 | 2023-03-31 |  |
 | [Alabama Blues](https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 3:14 | 2020-08-11 |  |
 | [Alabama Blues](https://open.spotify.com/track/4ghvDvK0tWXLfvG4znwpAe) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Passionate Blues](https://open.spotify.com/album/7gmDAUOzdSNJf0x8HEhRFh) | 3:14 | 2020-08-11 | 2022-07-29 |
 | [All True Man](https://open.spotify.com/track/7BSI3B5WACBr9Q4QFSo9hu) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc) | 4:04 | 2021-02-05 |  |
@@ -65,7 +66,7 @@
 | [Guitar & Harmonica Rag](https://open.spotify.com/track/5BXirpc0qtiSqVUuEbXe1n) | [Bowling Green John Cephas](https://open.spotify.com/artist/1WLzLvyPtIKHVscQ8rbX1i), [Harmonica Phil Wiggins](https://open.spotify.com/artist/6dyecnDdUXZovKXNnOv1wq) | [Going up the Country \- Legendary Acoustic Roots Blues for Road Trips](https://open.spotify.com/album/5kuzGy68pZeZxE3PQwVhSE) | 3:10 | 2020-08-11 | 2022-11-14 |
 | [Guitar & Harmonica Rag](https://open.spotify.com/track/093EX8opuhjCfFzrGOwXwj) | [Bowling Green John Cephas](https://open.spotify.com/artist/1WLzLvyPtIKHVscQ8rbX1i), [Harmonica Phil Wiggins](https://open.spotify.com/artist/6dyecnDdUXZovKXNnOv1wq) | [Living Country Blues USA Vol\. 1](https://open.spotify.com/album/1wdmrcveHQIDxQ07VcOjok) | 3:11 | 2020-08-11 | 2022-07-29 |
 | [Guitar & Harmonica Rag](https://open.spotify.com/track/6DBVUOcItyqkuBkSwNelOX) | [Bowling Green John Cephas](https://open.spotify.com/artist/1WLzLvyPtIKHVscQ8rbX1i), [Harmonica Phil Wiggins](https://open.spotify.com/artist/6dyecnDdUXZovKXNnOv1wq) | [Living Country Blues USA, Vol\. 1](https://open.spotify.com/album/7qQbThSdEViT0axddA7qEp) | 3:11 | 2020-08-11 |  |
-| [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 | 2020-08-11 |  |
+| [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 | 2020-08-11 | 2023-04-01 |
 | [Heavy Load](https://open.spotify.com/track/0QLhmYdldYoRRSn5qQbwTZ) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 7:18 | 2021-09-10 | 2022-11-13 |
 | [Heavy Load](https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load](https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1) | 7:18 | 2021-09-10 | 2022-07-29 |
 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 | 2021-09-10 |  |

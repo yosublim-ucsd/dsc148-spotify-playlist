@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 207037,
       "name": "Boujee",
       "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
@@ -3438,6 +3438,24 @@
       "duration_ms": 211546,
       "name": "W.T.T.V",
       "url": "https://open.spotify.com/track/3Wg8cHwiHy1ihi0ylUlDhv"
+    },
+    {
+      "album": {
+        "name": "Wahala",
+        "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
+      },
+      "artists": [
+        {
+          "name": "Abstraktt",
+          "url": "https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162692,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm"
     },
     {
       "album": {

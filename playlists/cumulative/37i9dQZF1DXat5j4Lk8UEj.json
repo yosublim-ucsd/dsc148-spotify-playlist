@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 202146,
       "name": "Ain\u2019t Lookin\u2019",
       "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
@@ -2124,6 +2124,24 @@
       "duration_ms": 245493,
       "name": "Meet Me at the Lighthouse",
       "url": "https://open.spotify.com/track/793qI3p2gkLL6C8m0MtUeg"
+    },
+    {
+      "album": {
+        "name": "Middle of the Morning",
+        "url": "https://open.spotify.com/album/72GOjmgEWNgOTQ59TpIAYb"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280978,
+      "name": "Middle of the Morning",
+      "url": "https://open.spotify.com/track/0DYIKbIhf2XwWchqSqTc5D"
     },
     {
       "album": {

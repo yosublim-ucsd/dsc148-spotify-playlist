@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1949",
+        "url": "https://open.spotify.com/album/0AhaMd9g6mqHrmqlQGoR8g"
+      },
+      "artists": [
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        },
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "1949",
+      "url": "https://open.spotify.com/track/0aWDp3psKAdohWqo0H2psk"
+    },
+    {
+      "album": {
         "name": "Abra",
         "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
       },
@@ -104,7 +126,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
@@ -183,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Let's Dance / Be What You Want",
+        "url": "https://open.spotify.com/album/7Dt5XJMCSg3hPICh3yjvA5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193593,
+      "name": "Be What You Want",
+      "url": "https://open.spotify.com/track/1bcsIhfIuOTSLb7lFzPEwv"
+    },
+    {
+      "album": {
         "name": "Believe In Music",
         "url": "https://open.spotify.com/album/0Ylixg5nZtbN9HCeRdxb3n"
       },
@@ -252,7 +292,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 183307,
       "name": "Bronx",
       "url": "https://open.spotify.com/track/5oWXxAqoHGY96OnwzmdHdH"
@@ -288,7 +328,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 208869,
       "name": "Bumpin'",
       "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
@@ -397,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Dream Team",
+        "url": "https://open.spotify.com/album/3eka4HQCSqQyQbiExGGs06"
+      },
+      "artists": [
+        {
+          "name": "MNNR",
+          "url": "https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Dream Team",
+      "url": "https://open.spotify.com/track/5LRu9P4iPFfu7DXcpNknNG"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
       },
@@ -412,6 +470,42 @@
       "duration_ms": 215708,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
+    },
+    {
+      "album": {
+        "name": "Ear Candy",
+        "url": "https://open.spotify.com/album/3ENboL13VOTEbxwtGymquP"
+      },
+      "artists": [
+        {
+          "name": "Ramin Rezaie",
+          "url": "https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209530,
+      "name": "Ear Candy",
+      "url": "https://open.spotify.com/track/1qhPpCSwALaIVLgxY2i421"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1jEg0Zcl5ydrt9EVXBP1w6"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/68fHIJayqhaS5aQCNKKkA2"
     },
     {
       "album": {
@@ -484,7 +578,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 156218,
       "name": "Everything You Have Done - Meduza Edit",
       "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
@@ -528,7 +622,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 208396,
       "name": "Flamingos",
       "url": "https://open.spotify.com/track/0lAQ4hpL4wS7EdgXYd3I2w"
@@ -546,7 +640,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 337142,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/6VF8DFuo2NVsoBKaqt5Nlw"
@@ -600,7 +694,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 212887,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/1iE60Ny9k6vGmPRF7iKoUr"
@@ -857,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Kick Drums",
+        "url": "https://open.spotify.com/album/2bi3SgXvYcAfJyMnzEmscq"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174448,
+      "name": "Kick Drums",
+      "url": "https://open.spotify.com/track/0tpw2iisVlCnG0QG8SCIG1"
+    },
+    {
+      "album": {
         "name": "Kiki",
         "url": "https://open.spotify.com/album/5cqz8kbQQzovPfT5vAMxa7"
       },
@@ -1007,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Make You Dance",
+      "url": "https://open.spotify.com/track/1nBKoqVdJng70x0o1eZzVG"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
       },
@@ -1018,7 +1148,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 201172,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
@@ -1142,6 +1272,24 @@
       "duration_ms": 243751,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4acZoDcg5neM4mAtVsTQSK"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251613,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe"
     },
     {
       "album": {
@@ -1367,6 +1515,46 @@
     },
     {
       "album": {
+        "name": "Slay EP",
+        "url": "https://open.spotify.com/album/2ppzZqalX6C5DDU8tVOV2a"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353000,
+      "name": "Slay",
+      "url": "https://open.spotify.com/track/2uQ8zOCi5F4EC9jZa419eM"
+    },
+    {
+      "album": {
+        "name": "Snow is Falling (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/0XaIqOn9u4wa6muOQ9OPIG"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Cauchemar",
+          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Snow is Falling - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/2VS6opNQchKzV5jERSYjZB"
+    },
+    {
+      "album": {
         "name": "Sombrero Galaxy",
         "url": "https://open.spotify.com/album/6hnHiX4yrDKeO65xn0vr9L"
       },
@@ -1378,7 +1566,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 180267,
       "name": "Sombrero Galaxy",
       "url": "https://open.spotify.com/track/1oQoDktIuJITi7TQXpJ5Jx"
@@ -1504,7 +1692,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 412500,
       "name": "symphonia.",
       "url": "https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu"

@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "Gotta Get To Peekskill (feat. Violent Femmes)",
+        "url": "https://open.spotify.com/album/3LKeCdJ9O8Y9aW6UADSE26"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166065,
+      "name": "Gotta Get To Peekskill (feat. Violent Femmes)",
+      "url": "https://open.spotify.com/track/17hb9Umsj8gB9dsRnyRX9J"
+    },
+    {
+      "album": {
         "name": "How Did It Seem To You?",
         "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
       },

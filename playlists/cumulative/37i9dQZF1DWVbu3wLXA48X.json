@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Black Country, New Road",
+  "description": "Current indie tunes from Asia and around the world. Cover: boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus.",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -266,10 +266,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
     },
     {
       "album": {
@@ -338,7 +356,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 141538,
       "name": "After All",
       "url": "https://open.spotify.com/track/6wuJXtirfIartyLOSSDno9"
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 171280,
       "name": "Any Time Of Day",
       "url": "https://open.spotify.com/track/4F29imzGfhbvEuYgyUPpHx"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 190105,
       "name": "Bath County",
       "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
@@ -1668,6 +1686,24 @@
       "duration_ms": 268988,
       "name": "Born & Die",
       "url": "https://open.spotify.com/track/0RDjAutucOtnLANrRny7r7"
+    },
+    {
+      "album": {
+        "name": "Continue as a Guest",
+        "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252053,
+      "name": "Bottle Episodes",
+      "url": "https://open.spotify.com/track/4po80V0UADskVYWjH20GKk"
     },
     {
       "album": {
@@ -2623,6 +2659,36 @@
     },
     {
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cool About It",
+      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "album": {
         "name": "Corncob",
         "url": "https://open.spotify.com/album/3PblNI46eRHY3teWBGfvCR"
       },
@@ -3100,6 +3166,24 @@
       "duration_ms": 164680,
       "name": "Didn\u2019t Care",
       "url": "https://open.spotify.com/track/4sc3GpJtxOB17Ng9PcdNVq"
+    },
+    {
+      "album": {
+        "name": "Different Socks",
+        "url": "https://open.spotify.com/album/6RVTdal84K19D7ERNToJTh"
+      },
+      "artists": [
+        {
+          "name": "Sourmilk",
+          "url": "https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219007,
+      "name": "Different Socks",
+      "url": "https://open.spotify.com/track/7GbD3tRjKaqc2yvkPe23ex"
     },
     {
       "album": {
@@ -3872,7 +3956,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 216500,
       "name": "extra ordinary",
       "url": "https://open.spotify.com/track/3ShBc77Hq3HgH5EK58DsS5"
@@ -4258,6 +4342,24 @@
       "duration_ms": 236644,
       "name": "Feeling Like I Do - Spotify Singles",
       "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
+    },
+    {
+      "album": {
+        "name": "Superblue",
+        "url": "https://open.spotify.com/album/2IKwJMDlZQxvocJgWLTDLT"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249266,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2lxwvwNTCT6T2k9agnujeO"
     },
     {
       "album": {
@@ -8013,6 +8115,24 @@
     },
     {
       "album": {
+        "name": "Cinnamon Daydream",
+        "url": "https://open.spotify.com/album/3Qxr4efodw5RfxlnyYoLbg"
+      },
+      "artists": [
+        {
+          "name": "tie a tie",
+          "url": "https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185169,
+      "name": "Maybe I'm Just Fine",
+      "url": "https://open.spotify.com/track/3HK6mXqACXFBJE3CgemAUY"
+    },
+    {
+      "album": {
         "name": "Mayflower",
         "url": "https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ"
       },
@@ -8662,7 +8782,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/2L930ErFAGUsUxxOOUEonO"
@@ -8898,7 +9018,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 211500,
       "name": "No Men's Drive",
       "url": "https://open.spotify.com/track/4fNp0E73dcIDJCUeodd2Ar"
@@ -9668,7 +9788,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 212500,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt"
@@ -10152,7 +10272,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 234280,
       "name": "Pontius Pilate's Home Movies",
       "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
@@ -10285,6 +10405,24 @@
     },
     {
       "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "album": {
         "name": "Pyjamas (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
       },
@@ -10398,6 +10536,28 @@
       "duration_ms": 219069,
       "name": "REACH!",
       "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
+    },
+    {
+      "album": {
+        "name": "Read the Room",
+        "url": "https://open.spotify.com/album/5IkYc9XB7pWfuj4wiFhRYK"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126266,
+      "name": "Read the Room (feat. Laetitia Sadier)",
+      "url": "https://open.spotify.com/track/1DCEl0Z6YaDV1lU11r3PRO"
     },
     {
       "album": {
@@ -10758,7 +10918,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 147100,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/3GElb4cD3GkscbanLhYlQQ"
@@ -12423,6 +12583,24 @@
     },
     {
       "album": {
+        "name": "Supermoon",
+        "url": "https://open.spotify.com/album/2Op7mnPBZOqeObaeuZJcZ0"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Supermoon",
+      "url": "https://open.spotify.com/track/0JfYy60f4RN77F04fReXmW"
+    },
+    {
+      "album": {
         "name": "Superstition",
         "url": "https://open.spotify.com/album/2y0cEUOHiz7nnnIMIzVKfb"
       },
@@ -13514,7 +13692,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 386020,
       "name": "Tux (Your Body Fills Me, Boo)",
       "url": "https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7"
@@ -13626,6 +13804,24 @@
       "duration_ms": 260101,
       "name": "Under The Milky Way",
       "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/5uDxlFZNaC2r3nQbEIPzip"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "Uneven",
+      "url": "https://open.spotify.com/track/352StnCiFEF6hqe3eR791o"
     },
     {
       "album": {
@@ -13908,7 +14104,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 140556,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0"
@@ -14527,6 +14723,24 @@
     },
     {
       "album": {
+        "name": "Why Can't I Help Me?",
+        "url": "https://open.spotify.com/album/1iWwrZkWIdZjtCwg8tBpDJ"
+      },
+      "artists": [
+        {
+          "name": "Dru Chen",
+          "url": "https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146052,
+      "name": "Why Can't I Help Me?",
+      "url": "https://open.spotify.com/track/0eA1W3UokYHGN9Vv7pbAOH"
+    },
+    {
+      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/6IAjg2q4PYkbq6ZvnATP29"
       },
@@ -14564,6 +14778,24 @@
       "duration_ms": 224166,
       "name": "Wind",
       "url": "https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE"
+    },
+    {
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183839,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-747 songs - 1 day 14 hr 58 min
+748 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Szeretsz\-e](https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:54 | 2023-02-24 |  |
 | [Szexbomb](https://open.spotify.com/track/7vtIy6njr0f29a6MJFNXdD) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:01 | 2022-10-27 | 2022-10-31 |
 | [szosziazi](https://open.spotify.com/track/4bHXbXDT0p9exqBsW49fDo) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [szosziazi](https://open.spotify.com/album/1y3BEzFK1hJ4FwOlpwKJVH) | 3:26 | 2023-03-08 |  |
+| [Szélcsend](https://open.spotify.com/track/5kRKviUY95Ra2asUeqsGBX) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Szélcsend](https://open.spotify.com/album/4fOnrlqiLpbN8QXxLAJBNP) | 2:38 | 2023-03-31 |  |
 | [SZÍNVAK](https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [SZÍNVAK](https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl) | 3:18 | 2022-10-31 |  |
 | [Szív](https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Szív](https://open.spotify.com/album/784Na2iyszGVq9oETcoU1A) | 8:50 | 2021-11-07 | 2022-08-08 |
 | [Szívedből minden kell](https://open.spotify.com/track/3G9gEBbCzfGgTdZhnzk6Up) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Ha mindenkit boldoggá akarsz tenni, árulj fagyit](https://open.spotify.com/album/39U4YKkOkwZFiv2ucb0MIH) | 3:27 | 2021-05-03 | 2021-06-26 |
@@ -684,7 +685,7 @@
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 | 2023-02-01 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-17 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-05-09 |
-| [Utolsó dal](https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 2:02 | 2023-03-07 |  |
+| [Utolsó dal](https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 2:02 | 2023-03-07 | 2023-04-01 |
 | [Utolsó dal](https://open.spotify.com/track/6aINWu0V4uW9fggLqPq9xO) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:02 | 2023-02-03 | 2023-03-08 |
 | [VAKMELEG](https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [VAKMELEG](https://open.spotify.com/album/1EMSC0Mx6dukvWdXIuYoV5) | 2:52 | 2022-08-03 | 2023-02-04 |
 | [Vezetői Engedély](https://open.spotify.com/track/0fY8YdsEhwdE2VdYc8tRlN) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:10 | 2022-03-12 | 2022-03-15 |

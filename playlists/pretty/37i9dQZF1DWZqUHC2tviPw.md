@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,584 likes - 152 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,691 likes - 152 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 78 | [Top of the Line](https://open.spotify.com/track/0hozPW69A9O8m8SDSeeHRY) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Top of the Line](https://open.spotify.com/album/4YZJrAvoRBtb6KvektTwz0) | 2:46 |
 | 79 | [Nu World Order](https://open.spotify.com/track/3erqNTHPWsfJVM4ZSsEJ6t) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Nu World Order](https://open.spotify.com/album/2Je8l8GvcHGTwNjcyCrd4w) | 2:48 |
 | 80 | [Not Enough](https://open.spotify.com/track/4mKUzggb15xw0CxE5mrmMi) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Not Enough](https://open.spotify.com/album/4fR6ne32b1qv0Mzum1UMC7) | 2:56 |
-| 81 | [Wealth](https://open.spotify.com/track/0zXE9IyuN8b5Ha2WI2HD7n) | [Nesyu Beats](https://open.spotify.com/artist/13jVsjl8pYgoBgRXfBDtw8) | [Heatwave](https://open.spotify.com/album/0l3ZkYVi8GAgc1XJZMoGPv) | 3:21 |
+| 81 | [Wealth](https://open.spotify.com/track/19SzpcvdTLUoc7jevU730f) | [Nesyu Beats](https://open.spotify.com/artist/13jVsjl8pYgoBgRXfBDtw8) | [Heatwave](https://open.spotify.com/album/4B70gOu4H54a3vSEj03UgA) | 3:21 |
 | 82 | [Suspens Trap Beat](https://open.spotify.com/track/4BYzQfbibYvzDegGR1JoEe) | [Origin Studio](https://open.spotify.com/artist/4rRMk8pMRjwTi8tKHvuQ0b) | [Suspens Trap Beat](https://open.spotify.com/album/1oLZiOM9BnvTBDQp8Zvzdk) | 2:56 |
 | 83 | [Find Your Own Way](https://open.spotify.com/track/1Sm6NMqZxCu9uKQ7rvJKs3) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Find Your Own Way](https://open.spotify.com/album/1dih45nT3fXu29empKFZrb) | 2:53 |
 | 84 | [Long Way Back](https://open.spotify.com/track/01YRpfh6Tj63CB4vNvJ35J) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:39 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 151 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 152 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MTY3ODcyMjUzNSwwMDAwMDAwMDZhYzBiY2EwNjU2MDY1ZGRlNGY5OThjNmUzZDM4ZGFm`
+Snapshot ID: `MTY3ODcyMjUzNSwwMDAwMDAwMGNiNDAyZjI5NWYwYzk1ZTc2NTFmNzQzZjdkNDYzOTdm`

@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 121269,
       "name": "Feelin\u2019 Sexy",
       "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 120000,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/35rVahLCBH2od5nPU0D7zF"
@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 211029,
       "name": "Toot That (feat. DreamDoll & BeatKing)",
       "url": "https://open.spotify.com/track/73a3q3FYKM4dPemgvD03wD"
@@ -4224,6 +4224,28 @@
       "duration_ms": 123428,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
+    },
+    {
+      "album": {
+        "name": "Mental Trillness",
+        "url": "https://open.spotify.com/album/0n3k7ldAO73nGqiVZJUoZt"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185167,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/4ONoOH59Y95Ro9BrqfwojZ"
     },
     {
       "album": {

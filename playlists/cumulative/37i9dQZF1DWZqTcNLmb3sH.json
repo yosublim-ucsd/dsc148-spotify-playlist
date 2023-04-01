@@ -5844,7 +5844,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 210991,
       "name": "Kaamanabillu (From \"Pentagon\")",
       "url": "https://open.spotify.com/track/7xMzjFAmTpAARCWlTzojef"
@@ -5888,10 +5888,32 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 238933,
       "name": "Kabzaa Title Track",
       "url": "https://open.spotify.com/track/3WcKQigG9P0I0fxtj1jpPh"
+    },
+    {
+      "album": {
+        "name": "Kabzaa Title Track (From \"Kabzaa\") [Telugu]",
+        "url": "https://open.spotify.com/album/1D4hY8evxzffpsZIJDQCGb"
+      },
+      "artists": [
+        {
+          "name": "Prasanth Kamma",
+          "url": "https://open.spotify.com/artist/7LlvbSmuRxACoJZl1FYD7f"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238750,
+      "name": "Kabzaa Title Track (From \"Kabzaa\") [Telugu]",
+      "url": "https://open.spotify.com/track/4sDgjSzvbxDDwqX2lWQZ9J"
     },
     {
       "album": {
@@ -8127,6 +8149,28 @@
     },
     {
       "album": {
+        "name": "Mounave Chenna (from \"Veeram\")",
+        "url": "https://open.spotify.com/album/5tZ7RUfAWQVvGeGtBHRiUO"
+      },
+      "artists": [
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216921,
+      "name": "Mounave Chenna (from \"Veeram\")",
+      "url": "https://open.spotify.com/track/5Mpy6UFHledqTFeQ6FqUJT"
+    },
+    {
+      "album": {
         "name": "Mr. Bachelor (From \"Mr. Bachelor\")",
         "url": "https://open.spotify.com/album/7pC4V0SvVxIbMQnMiDLQvX"
       },
@@ -9572,10 +9616,32 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 219206,
       "name": "Nijave Athava",
       "url": "https://open.spotify.com/track/3TUOWcaXYcZe3rFSurNgdN"
+    },
+    {
+      "album": {
+        "name": "Nijave Athava",
+        "url": "https://open.spotify.com/album/5oEb08xiMzR0vYrp3pjROz"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Saras Chandrika",
+          "url": "https://open.spotify.com/artist/4snZchALIW1fJF3dukbU0g"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219277,
+      "name": "Nijave Athava",
+      "url": "https://open.spotify.com/track/7owQsx0HuN88s98kplSTf0"
     },
     {
       "album": {
@@ -9884,10 +9950,36 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 256665,
       "name": "Ninnanu Nodida",
       "url": "https://open.spotify.com/track/1nmAuxcjll2bz13MSvKClR"
+    },
+    {
+      "album": {
+        "name": "Ninnanu Nodida (From \"Baanadariyalli\")",
+        "url": "https://open.spotify.com/album/6AmKNvxxUuztMAM3QsyEkh"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256665,
+      "name": "Ninnanu Nodida - From \"Baanadariyalli\"",
+      "url": "https://open.spotify.com/track/4s4RVKRTLA1xeGKSX5wMO3"
     },
     {
       "album": {

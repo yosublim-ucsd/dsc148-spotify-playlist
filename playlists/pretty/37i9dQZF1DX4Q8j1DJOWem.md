@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่\. ศิลปิน: The White Hair Cut
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่\. ศิลปิน: SPRITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,952 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,961 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [นักรอ](https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [นักรอ](https://open.spotify.com/album/2yl29z5fk9BCv6HO06LNaF) | 3:13 |
-| 2 | [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 |
-| 3 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 |
-| 4 | [คนขี้โกหก](https://open.spotify.com/track/4bUZTqifPh6luvo28NS52L) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [คนขี้โกหก](https://open.spotify.com/album/3AsIUcQ6pfk3J7FlwEj0fy) | 4:05 |
-| 5 | [เทาหรือเปล่อ เธอหรือเปล่า](https://open.spotify.com/track/5rbRomil1aCyQGxT7RAnpu) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [เทาหรือเปล่อ เธอหรือเปล่า](https://open.spotify.com/album/3677ZTRAFynHYRu2rkgyFC) | 3:29 |
-| 6 | [ลูกเทวดา](https://open.spotify.com/track/37hVWVtSjHJjSSuEmeXdet) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ลูกเทวดา](https://open.spotify.com/album/1wA0Hk3CI8w8lrKNKfSb4a) | 2:01 |
+| 1 | [ลูกเทวดา](https://open.spotify.com/track/37hVWVtSjHJjSSuEmeXdet) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ลูกเทวดา](https://open.spotify.com/album/1wA0Hk3CI8w8lrKNKfSb4a) | 2:01 |
+| 2 | [เทาหรือเปล่อ เธอหรือเปล่า](https://open.spotify.com/track/5rbRomil1aCyQGxT7RAnpu) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [เทาหรือเปล่อ เธอหรือเปล่า](https://open.spotify.com/album/3677ZTRAFynHYRu2rkgyFC) | 3:29 |
+| 3 | [นักรอ](https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [นักรอ](https://open.spotify.com/album/2yl29z5fk9BCv6HO06LNaF) | 3:13 |
+| 4 | [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 |
+| 5 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 |
+| 6 | [คนขี้โกหก](https://open.spotify.com/track/4bUZTqifPh6luvo28NS52L) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [คนขี้โกหก](https://open.spotify.com/album/3AsIUcQ6pfk3J7FlwEj0fy) | 4:05 |
 | 7 | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/album/2hDOB63qOPVwAiJSVvZHtl) | 3:20 |
 | 8 | [ลาลับไป](https://open.spotify.com/track/7r2AEI9Ey8quvF0nt36y4o) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [JUEDJANG](https://open.spotify.com/artist/1QA9rYsSUnQlc9XNqtfMDo), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [ลาลับไป](https://open.spotify.com/album/0KQCPZz56DPPRPDS1MxNNk) | 3:58 |
 | 9 | [นอนหน่อยไหม ?](https://open.spotify.com/track/1n7SJLokzGV1IoLUEmeOuZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [นอนหน่อยไหม ?](https://open.spotify.com/album/3Xiahop7bLCvr2CEHvaXX2) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 50 | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/track/1T9p3fycDRc3KXl9nbhwkR) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/album/4p3UvZyHFLCwQLuA3fosr2) | 3:39 |
 
-Snapshot ID: `MTY3OTU5MDgwMCwwMDAwMDAwMDUzMWJkMTY2NGIwMzhlNzlkNjgzZjVjY2Q5NGMzZTlh`
+Snapshot ID: `MTY4MDI0OTcyOSwwMDAwMDAwMDA5YWQ1NGQwYzI3NmVlOWM3YTYxZjQ0YWE2MmIzNGU5`

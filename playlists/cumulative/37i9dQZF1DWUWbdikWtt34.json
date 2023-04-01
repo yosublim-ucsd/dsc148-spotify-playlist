@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Nella Kharisma Album, Vol. 3",
+        "url": "https://open.spotify.com/album/2NzestN2ZSOAOIxn9EfHlm"
+      },
+      "artists": [
+        {
+          "name": "Nella Kharisma",
+          "url": "https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285884,
+      "name": "Singget",
+      "url": "https://open.spotify.com/track/1s69jZHwfpgPopf2pGYEoS"
+    },
+    {
+      "album": {
         "name": "Mencla Mencle",
         "url": "https://open.spotify.com/album/6hWZu25i1sVgsbLxn0phE5"
       },
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 288000,
       "name": "Singget",
       "url": "https://open.spotify.com/track/0I2YNuPlmHa6TRB2zMYEgk"

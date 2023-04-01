@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 27599,
+  "num_followers": 27606,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzI5MixhMzZjNzcxZDc3OGI2MjNiNDExYjA3ODQwYmRiMDkxZTZkNmI4NThi",
+  "snapshot_id": "MzI5NSxmNzcwMDg4ODFiNGM2YWJkZmYwMDg4MjI2N2Y0MDc1ZGYxYzc3MDAx",
   "tracks": [
+    {
+      "added_at": "2023-03-31 16:44:01",
+      "album": {
+        "name": "Blue Lights",
+        "url": "https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 221323,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx"
+    },
     {
       "added_at": "2023-03-29 18:28:28",
       "album": {
@@ -463,22 +479,6 @@
       "duration_ms": 277239,
       "name": "Problems",
       "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
-    },
-    {
-      "added_at": "2022-11-02 20:24:25",
-      "album": {
-        "name": "Not (BBC Radio 1 Session)",
-        "url": "https://open.spotify.com/album/09LbxjE3uVSxeULrD0um98"
-      },
-      "artists": [
-        {
-          "name": "PVA",
-          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
-        }
-      ],
-      "duration_ms": 281041,
-      "name": "Not - BBC Radio 1 Session",
-      "url": "https://open.spotify.com/track/70jr15kpcFlZAyJ8hotjIg"
     },
     {
       "added_at": "2022-10-14 18:23:51",

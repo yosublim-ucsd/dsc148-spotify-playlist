@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Samantha Fish",
-  "num_followers": 130255,
+  "num_followers": 130281,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMGFlM2VlZjE2MWNmYjE0Y2ZiOGNmZDM3MDM2MzgzMjMz",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGVjMmM5ZjhlYTQwOWI4ZDFlNDIzMmM3MGY4ZjM0MDAw",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68"
+    },
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
@@ -20,13 +36,37 @@
           "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
         },
         {
-          "name": "Taj Mahal/Jontavious Willis",
-          "url": "https://open.spotify.com/artist/0ba4sXZdJUx0VmLPHD4YQf"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Jontavious Willis",
+          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
         }
       ],
       "duration_ms": 205240,
       "name": "Blues Funky Like Dat",
       "url": "https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -49,6 +89,26 @@
       "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
     },
     {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Bob Corritore & Friends: Women In Blues Showcase",
+        "url": "https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 166975,
+      "name": "You're Gonna Be Sorry",
+      "url": "https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov"
+    },
+    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Full Time Blues",
@@ -63,26 +123,6 @@
       "duration_ms": 201843,
       "name": "Full Time Blues",
       "url": "https://open.spotify.com/track/3MHxUKi1ZhUlhlf7IILBs8"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Deathwish",
-        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1519,22 +1559,6 @@
       "duration_ms": 216017,
       "name": "Mermentau Bridge",
       "url": "https://open.spotify.com/track/0fYkNpOMsXzSARMvUN2QdC"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Hard Time Blues",
-        "url": "https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Wilson",
-          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
-        }
-      ],
-      "duration_ms": 272274,
-      "name": "The City Streets (Ps.23)",
-      "url": "https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG"
     },
     {
       "added_at": "2021-09-03 04:01:00",

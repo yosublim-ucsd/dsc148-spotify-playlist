@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE! SET ME FREE is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,161 likes - 119 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,558 likes - 124 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
+| 1 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
 | 2 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 |
-| 3 | [GOT THE THRILLS](https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:53 |
-| 4 | [BLAME IT ON ME](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:40 |
-| 5 | [WALLFLOWER](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:56 |
-| 6 | [CRAZY STUPID LOVE](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:49 |
-| 7 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
+| 3 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
+| 4 | [GOT THE THRILLS](https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:53 |
+| 5 | [BLAME IT ON ME](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:40 |
+| 6 | [WALLFLOWER](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:56 |
+| 7 | [CRAZY STUPID LOVE](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:49 |
 | 8 | [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 |
 | 9 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 10 | [Queen of Hearts](https://open.spotify.com/track/3sOEVB8DirQtZc0qhw8lJc) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:06 |
@@ -127,5 +127,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 117 | [SAY YOU LOVE ME](https://open.spotify.com/track/7fEMfYZnjQ28Cpzi7QnkAC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:32 |
 | 118 | [GIRLS LIKE US](https://open.spotify.com/track/2mJAZlRKj2egyDPuOgSaFz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:38 |
 | 119 | [STUCK IN MY HEAD](https://open.spotify.com/track/19rOI8tvgnNUQaNyz0n2TP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:56 |
+| 120 | [SET ME FREE \(Lindgren Remix\) \(ENG\)](https://open.spotify.com/track/7K5LvTMS85SKWK6bYtHhAP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lindgren](https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 3:31 |
+| 121 | [SET ME FREE \(Lindgren Remix\)](https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lindgren](https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 3:31 |
+| 122 | [SET ME FREE \(Tommy “TBHits” Brown Remix\) \(ENG\)](https://open.spotify.com/track/6BhpvHofjQy5ZHSJLUy1V5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Tommy “TBHits” Brown](https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 2:50 |
+| 123 | [SET ME FREE \(Tommy “TBHits” Brown Remix\)](https://open.spotify.com/track/3em8yvglQOquNvttDVnRWS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Tommy “TBHits” Brown](https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 2:50 |
+| 124 | [SET ME FREE \(ARMNHMR Remix\) \(ENG\)](https://open.spotify.com/track/6rEskoR1IPe8099gp8N5AL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 2:58 |
 
-Snapshot ID: `MTY3ODQzOTU5OSwwMDAwMDAwMGQyNjUwMTZmZDc2NmJjNDkzZjFiYzQxOGVjYzc0ZDg5`
+Snapshot ID: `MTY4MDI2ODg2MCwwMDAwMDAwMDc4ZjMxYjQ4ODdhMGM3ZWVkOTQxZDBkMmQ4YWNkMjFj`

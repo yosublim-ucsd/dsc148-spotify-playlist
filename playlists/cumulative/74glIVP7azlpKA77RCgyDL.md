@@ -2,14 +2,15 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Creeping Death
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Kommand
 
-365 songs - 23 hr 24 min
+371 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1984](https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [1984](https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3) | 3:35 | 2022-08-12 |  |
 | [2022](https://open.spotify.com/track/3eMi4WvFU4xKBiPnrEZo4v) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [2022](https://open.spotify.com/album/0VgAgvoUbLDa0QdTLPIHCG) | 4:30 | 2022-09-23 |  |
+| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 |  |
 | [:Signal:](https://open.spotify.com/track/4St47VFpw5X3g01SLNNUL2) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [:Signal:](https://open.spotify.com/album/1QH4f4Nh1LRSK6KaPZBUmp) | 3:29 | 2022-07-22 |  |
 | [A Brief Article Regarding Time Loops](https://open.spotify.com/track/7nBxfkl6GFczlHpUf1wetV) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [A Brief Article Regarding Time Loops](https://open.spotify.com/album/1YjnIyO6kAmGm2IhpaaU8o) | 3:17 | 2022-04-01 |  |
 | [A Decision](https://open.spotify.com/track/5BT95T4oqpHFyucEPB3RGu) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [A Glimpse Through the Lens](https://open.spotify.com/album/1O8PPgVoanU9dnpFBo8Btl) | 2:49 | 2022-02-18 |  |
@@ -123,6 +124,7 @@
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-24 |  |
 | [Find My Way](https://open.spotify.com/track/5auwnL8w3b5x1XpkY7UbkT) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa) | [Find My Way](https://open.spotify.com/album/4L919YegQC47OlyGKBXpOr) | 3:42 | 2022-04-29 |  |
 | [fleahouse](https://open.spotify.com/track/5stza5CaQ0wUfeyghiG0Hu) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [fleahouse](https://open.spotify.com/album/0Ehs8YM7jw7rvNzpv8fwpE) | 3:02 | 2022-04-22 |  |
+| [Fleeing Western Territories](https://open.spotify.com/track/0iyJH3IlYWM0kZDr4amw8l) | [Kommand](https://open.spotify.com/artist/2ARiBdiOC3x2yKOjttPE63) | [Death Age](https://open.spotify.com/album/2gFXUc4YEPP610doUSoN2f) | 4:25 | 2023-03-31 |  |
 | [Floating in Nothing](https://open.spotify.com/track/5nV2lzNlkFcd5MpIKWsfNG) | [Black Magnet](https://open.spotify.com/artist/7tCnRPnYBtpg4VmR5D01lf) | [Floating in Nothing](https://open.spotify.com/album/2Y49wvtSHuHfNtgDzU6e3w) | 3:59 | 2022-06-17 |  |
 | [Follow The Flies](https://open.spotify.com/track/4TJKHjgqY2zaBlIlNOEB2q) | [Simulakra](https://open.spotify.com/artist/2jWxOfUagc8h6PbDZgFoMp), [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Follow The Flies](https://open.spotify.com/album/1PxdUTbU6rWRyKnMQM3JVp) | 3:11 | 2022-05-13 |  |
 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 | 2022-10-14 |  |
@@ -283,6 +285,7 @@
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 |  |
 | [Spirit Liberation](https://open.spotify.com/track/4fnNlOmWOoLJtwETdf38bC) | [Mutually Assured Destruction](https://open.spotify.com/artist/674hXtod8wUNvAUKUvElhf), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Spirit Liberation](https://open.spotify.com/album/0QVaj5KVMxrrDg4KAnCWBK) | 2:30 | 2022-04-15 |  |
 | [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 | 2022-06-24 |  |
+| [Starve](https://open.spotify.com/track/1tV2sOs3uIJrEdvpfblAqJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Starve](https://open.spotify.com/album/1NFAlXfwkDbedNfC2rek74) | 3:41 | 2023-03-31 |  |
 | [State Of Slow Decay](https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [State Of Slow Decay](https://open.spotify.com/album/7FZ7l7MmBlr7RKO7UOVJmR) | 3:58 | 2022-06-17 |  |
 | [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 | 2023-02-10 |  |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 |  |
@@ -306,6 +309,7 @@
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 |  |
 | [The End of Times](https://open.spotify.com/track/5PREpWSEGXjkmOvLFQ3i0B) | [Defacing God](https://open.spotify.com/artist/1vDFKivJsGreOJhC7aYLus) | [The End of Times](https://open.spotify.com/album/0lVlIuxzG665JhrCCYGSZg) | 4:13 | 2022-08-05 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-13 |  |
+| [The Frozen Lake, Pt\. II \(The Ruined\)](https://open.spotify.com/track/0J6fZNclXaZp8AXLdwXoOP) | [Worm Shepherd](https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73) | [The Frozen Lake, Pt\. II \(The Ruined\)](https://open.spotify.com/album/620P8lwd4EtJaUsH5evlCN) | 7:35 | 2023-03-31 |  |
 | [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 | 2022-07-22 |  |
 | [The Great Deceiver](https://open.spotify.com/track/1rnNJckSOjUlvoCw3gV5ob) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [The Great Deceiver](https://open.spotify.com/album/7z9CvBMKxahud7VulgomWT) | 3:45 | 2022-08-05 |  |
 | [The Great Heathen Army](https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/2Ge7U7lz8QrfTEI9RmBEhc) | 4:04 | 2022-07-08 |  |
@@ -314,6 +318,7 @@
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 |  |
 | [The Killing Womb](https://open.spotify.com/track/6qwS9hKwhVJe2yMxkwMgiQ) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/5ZeUTOPb4LwQFSV4jOj2cs) | 2:32 | 2022-01-07 |  |
 | [The Lost Colony](https://open.spotify.com/track/5ktT0KZMuq8tS02YPx039n) | [Becoming The Archetype](https://open.spotify.com/artist/2lt0aSPzPngGw8KsfLYRyF) | [The Lost Colony](https://open.spotify.com/album/7zSWeckOjzmvtcWUVFZC06) | 3:49 | 2022-07-01 |  |
+| [The Migrant](https://open.spotify.com/track/1pzjl4Y0VrDPhLE6MxGYkx) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [The Migrant](https://open.spotify.com/album/5pkKdqw83QB8q5LXxWRoyO) | 4:00 | 2023-03-31 |  |
 | [The Primal Wave](https://open.spotify.com/track/30PCjpjQ4zYluCYzsaw6Aw) | [I AM](https://open.spotify.com/artist/7dQNPdkq99QGiUIMmRjqur) | [Eternal Steel](https://open.spotify.com/album/4iIywr04MB9RN9bbRhtRpd) | 3:16 | 2022-09-09 |  |
 | [The Razor's Apple](https://open.spotify.com/track/6skD0fAOAk5zswKCiSevHz) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [The Razor's Apple](https://open.spotify.com/album/7vBzf3GC0LJ9FiGDDKqwlr) | 3:11 | 2022-10-21 |  |
 | [The Requiem](https://open.spotify.com/track/6hfkFSmTZktAqOoPV1Jqlf) | [Deadbody](https://open.spotify.com/artist/1wGgCyV0NZ50dH1aEoKjma) | [The Requiem](https://open.spotify.com/album/3d7HL1BTrcrfkjvOrAQQMf) | 1:43 | 2022-10-21 |  |
@@ -367,6 +372,7 @@
 | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/track/4S8RzeHLdmpFc8ohVomQFd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/album/1NIc3seb1B4KXDZRh3NRRx) | 4:33 | 2022-12-16 |  |
 | [X](https://open.spotify.com/track/5JyKCsBv3rOjvaew73GNmd) | [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [X](https://open.spotify.com/album/4eALyRJZW1DjKdcQfho0Jm) | 3:42 | 2023-01-27 |  |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-05 |  |
+| [YES ALL MEN](https://open.spotify.com/track/4Lz2uH0ywXpEg5XWI99cwn) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [YES ALL MEN](https://open.spotify.com/album/2sijNGBuZIOSGzSreKHVZg) | 2:23 | 2023-03-31 |  |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-11 |  |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-08 |  |
 | [Zombie Inferno](https://open.spotify.com/track/3kDii17lJocLG2jfWGzecS) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ) | [Zombie Inferno](https://open.spotify.com/album/6OsZBopYtCRSANJJ7FwI7Y) | 4:07 | 2022-07-01 |  |

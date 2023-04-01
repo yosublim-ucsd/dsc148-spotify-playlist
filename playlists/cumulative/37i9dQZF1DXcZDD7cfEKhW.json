@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bebe Rexha",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: P!mk",
   "name": "Pop Remix",
   "tracks": [
     {
@@ -3760,7 +3760,7 @@
           "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "date_added": "2023-03-11",
+      "date_added": "2023-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220916,
@@ -4952,7 +4952,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 213133,
       "name": "Jungle - Rico Nasty Remix",
       "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
@@ -5412,6 +5412,24 @@
       "duration_ms": 182000,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1la8gqp3y7Zwj7usn2JrfV"
+    },
+    {
+      "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180719,
+      "name": "Like Crazy (Deep House Remix)",
+      "url": "https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1"
     },
     {
       "album": {
@@ -9263,6 +9281,28 @@
     },
     {
       "album": {
+        "name": "TRUSTFALL (The Remixes)",
+        "url": "https://open.spotify.com/album/2P3cfwf0rwwG3xMZ4EMgP6"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "TRUSTFALL - Drove Remix",
+      "url": "https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej"
+    },
+    {
+      "album": {
         "name": "Turn Back Time (Noizu Remix)",
         "url": "https://open.spotify.com/album/0Mq4YCXYlcvfdLcf1JRjO9"
       },
@@ -9824,7 +9864,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 221612,
       "name": "Why Can't You Wait - 3LAU Remix",
       "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"

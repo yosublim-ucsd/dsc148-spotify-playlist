@@ -4,7 +4,7 @@
 
 > Disfruta toda la música de Rombai!
 
-48 songs - 2 hr 11 min
+49 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [No vas a cambiar](https://open.spotify.com/track/2JyR4XomCbSv543H904cME) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [No vas a cambiar](https://open.spotify.com/album/6kscFb5kafyfOzie0ZxAdz) | 2:34 | 2021-12-10 |  |
 | [Noche Loca](https://open.spotify.com/track/4pZ32dvFXW0PZD6ojA4Vri) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [De Fiesta \(Deluxe Version\)](https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2) | 2:58 | 2021-12-10 |  |
 | [Olvida Ese Hombre](https://open.spotify.com/track/1B4n454H1F5Hzn6IAHVL2t) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta \(Deluxe Version\)](https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2) | 2:41 | 2021-12-10 |  |
+| [Olvidate de Mi](https://open.spotify.com/track/7IiFMffmFIZQxqy6WuABkm) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Olvidate de Mi](https://open.spotify.com/album/0yCeK4xylSq3GI5ysuBm3g) | 2:36 | 2023-03-31 |  |
 | [pELigRoSo](https://open.spotify.com/track/1l7TYXCytHPMqvBmR2Czw9) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [POSITIVO](https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp) | 2:34 | 2021-12-10 |  |
 | [Perdí Tu Amor](https://open.spotify.com/track/0wYDNtnJnV9GDlg5DPkz7c) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta \(Deluxe Version\)](https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2) | 2:26 | 2021-12-10 |  |
 | [POSITIVO](https://open.spotify.com/track/72NfY6CxWNQB4Ti6UoZmmK) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [POSITIVO](https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp) | 2:16 | 2021-12-10 |  |

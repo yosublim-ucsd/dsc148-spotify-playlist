@@ -1,28 +1,44 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: CoCo Jones",
-  "num_followers": 2318135,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: 6LACK",
+  "num_followers": 2318397,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDNlM2ZmNTM5NzVkMmJmM2Q5MGNmYmEzNmEzYmViZDg5",
+  "snapshot_id": "MTY4MDI0MzIwMCwwMDAwMDAwMGE4NTMzMDM0NDNiNTE2Mzg3YzE4Zjc3YjRkNGJkZjVi",
   "tracks": [
     {
-      "added_at": "2022-12-05 15:44:55",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "What I Didn't Tell You",
-        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
+      "duration_ms": 228080,
+      "name": "B4L",
+      "url": "https://open.spotify.com/track/5WsGpThlS3yoMHbSwHNmx1"
+    },
+    {
+      "added_at": "2023-03-31 06:13:20",
+      "album": {
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Make It Look Easy",
+      "url": "https://open.spotify.com/track/19zaRJBWGDnWl6FII7PrAb"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -45,6 +61,22 @@
       "url": "https://open.spotify.com/track/4It2tsHgHW7gdEDCh0Jfo8"
     },
     {
+      "added_at": "2022-12-05 15:44:55",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Secrets",
@@ -59,6 +91,38 @@
       "duration_ms": 206197,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI"
+    },
+    {
+      "added_at": "2023-03-31 04:04:00",
+      "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 212967,
+      "name": "Moral Conscience",
+      "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -117,6 +181,22 @@
       "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 154531,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Fatal Attraction",
@@ -131,22 +211,6 @@
       "duration_ms": 196933,
       "name": "Fatal Attraction",
       "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 192611,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0PfurdlOZRYJ6pkrvHOkUh"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -183,6 +247,22 @@
       "duration_ms": 260669,
       "name": "Black Anime",
       "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 177419,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/0BKP9mcDJOnIz3GHm07wP5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -283,6 +363,22 @@
       "duration_ms": 182698,
       "name": "It's You",
       "url": "https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 192611,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0PfurdlOZRYJ6pkrvHOkUh"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -599,22 +695,6 @@
       "duration_ms": 208373,
       "name": "If I Had (feat. Charlie Wilson)",
       "url": "https://open.spotify.com/track/3JJqdVXy8p9rCtTmlv1mXO"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 209063,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6TRjT37UyRUVrGg3gTlIqb"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1617,22 +1697,6 @@
       "url": "https://open.spotify.com/track/4bYTTDFnNbakdU9NX8uMKj"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Take Care",
-        "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 229992,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
-    },
-    {
       "added_at": "2022-09-09 04:06:20",
       "album": {
         "name": "age/sex/location",
@@ -1905,22 +1969,6 @@
       "url": "https://open.spotify.com/track/5Pm7c0omSn7WEezUtIqnK4"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 212155,
-      "name": "bnb",
-      "url": "https://open.spotify.com/track/6wprPmHMxfXtb2BwywwdXE"
-    },
-    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "Queen Space (with Summer Walker)",
@@ -2083,22 +2131,6 @@
       "duration_ms": 205479,
       "name": "Such A Thing",
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
-    },
-    {
-      "added_at": "2022-09-30 17:00:17",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/3Idj13qAmwJNOvF9QPLxUn"
-      },
-      "artists": [
-        {
-          "name": "Joey XL",
-          "url": "https://open.spotify.com/artist/0OQOwTGju6MADakqECMNoV"
-        }
-      ],
-      "duration_ms": 181816,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
     },
     {
       "added_at": "2022-09-09 04:06:20",

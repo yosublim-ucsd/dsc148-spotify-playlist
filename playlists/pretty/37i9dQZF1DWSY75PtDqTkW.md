@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSY75PtDqTkW.md) - [plain]
 
 > Extra van je vrije tijd genieten voor jong en oud.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,062 likes - 275 songs - 18 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,095 likes - 275 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -720,7 +720,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 242990,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t"
@@ -4128,7 +4128,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 169569,
       "name": "Lover's Game",
       "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
@@ -5251,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "A Traveler's Lament",
+        "url": "https://open.spotify.com/album/5Y9jJvKOoXP2AtjrePET8o"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229447,
+      "name": "Rebel Child",
+      "url": "https://open.spotify.com/track/6dXaVKAmAwZOkjZMAvXiqy"
+    },
+    {
+      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/2yt6JLfzR8GNWTz8Y5jDrO"
       },
@@ -5730,6 +5748,24 @@
       "duration_ms": 243664,
       "name": "So Damn Lucky",
       "url": "https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr"
+    },
+    {
+      "album": {
+        "name": "Common Nation Of Sorrow",
+        "url": "https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162106,
+      "name": "Some Strange Notion",
+      "url": "https://open.spotify.com/track/7qMzRL2ZVDVyZk1QCFuvE8"
     },
     {
       "album": {
@@ -6318,7 +6354,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 187306,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
@@ -6616,6 +6652,24 @@
       "duration_ms": 178080,
       "name": "The Otter",
       "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
+    },
+    {
+      "album": {
+        "name": "The Palace",
+        "url": "https://open.spotify.com/album/4IFc8biACm7zTy9beSBB1z"
+      },
+      "artists": [
+        {
+          "name": "The Watson Twins",
+          "url": "https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "The Palace",
+      "url": "https://open.spotify.com/track/1Knh1qiwsq5Rt0EUJC36MM"
     },
     {
       "album": {

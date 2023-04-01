@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,605 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,630 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BING BONG](https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [BING BONG](https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar) | 1:46 |
-| 2 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
-| 3 | [apathy](https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6) | [apathy](https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD) | 1:53 |
-| 4 | [Jackie Chan](https://open.spotify.com/track/0in5mxxYYegP6w1lRuKS8u) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Jackie Chan](https://open.spotify.com/album/1KHwTiHH1uVwHy04DS0Tj3) | 1:52 |
+| 1 | [Jackie Chan](https://open.spotify.com/track/0in5mxxYYegP6w1lRuKS8u) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Jackie Chan](https://open.spotify.com/album/1KHwTiHH1uVwHy04DS0Tj3) | 1:52 |
+| 2 | [Don't Talk 2 Me](https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip) | [JODY SUMMERS](https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [Scottie Le'Jour](https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn) | [Don't Talk 2 Me](https://open.spotify.com/album/54FWdaPAxy6qx47i7hxLM1) | 2:22 |
+| 3 | [BING BONG](https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [BING BONG](https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar) | 1:46 |
+| 4 | [apathy](https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6) | [apathy](https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD) | 1:53 |
 | 5 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
-| 6 | [Don't Talk 2 Me](https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip) | [JODY SUMMERS](https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [Scottie Le'Jour](https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn) | [Don't Talk 2 Me](https://open.spotify.com/album/54FWdaPAxy6qx47i7hxLM1) | 2:22 |
-| 7 | [EVEN THE SUN](https://open.spotify.com/track/5qUfbqm34MArVGJ4RaKCkq) | [Armani Jordan](https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR), [K$ The Kid](https://open.spotify.com/artist/03siKEfVQW2Buj6fdm7DH4), [JOJANK](https://open.spotify.com/artist/6Sp0OWQWm08qfUTYJZnTf6), [trapdollazmanny](https://open.spotify.com/artist/0Cxsbt47fwKSvNLyknfKbf) | [EVEN THE SUN](https://open.spotify.com/album/7GS2cGbJQBtxoRKCRcDDU6) | 3:19 |
-| 8 | [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 |
+| 6 | [EVEN THE SUN](https://open.spotify.com/track/5qUfbqm34MArVGJ4RaKCkq) | [Armani Jordan](https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR), [K$ The Kid](https://open.spotify.com/artist/03siKEfVQW2Buj6fdm7DH4), [JOJANK](https://open.spotify.com/artist/6Sp0OWQWm08qfUTYJZnTf6), [trapdollazmanny](https://open.spotify.com/artist/0Cxsbt47fwKSvNLyknfKbf) | [EVEN THE SUN](https://open.spotify.com/album/7GS2cGbJQBtxoRKCRcDDU6) | 3:19 |
+| 7 | [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 |
+| 8 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
 | 9 | [Drop](https://open.spotify.com/track/1gtQcKsKB32UmxzwihNDe4) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 3:32 |
 | 10 | [Be With You](https://open.spotify.com/track/2cmhewaI5xCtAsW6pQoKKM) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [How Did I End Up Here \(Deluxe\)](https://open.spotify.com/album/2XpCNiDKLOB8kWh1P6154H) | 2:52 |
 | 11 | [Pressure](https://open.spotify.com/track/5WplTl37Ly1ZRTOpG9YMf3) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Leland](https://open.spotify.com/artist/5YJl420mxxVPPIAxFGYmXU) | [Pressure](https://open.spotify.com/album/3MFCVVQtLwHznU66hWOYKF) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [On Sum Shit](https://open.spotify.com/track/4G4VVyTY9OMAv3bD0GiVOq) | [Rico Cash](https://open.spotify.com/artist/76QXrU9pECofvfYedtvoSx) | [On Sum Shit](https://open.spotify.com/album/5o7bWAVye5PUmnWX5NEBGQ) | 2:00 |
 | 75 | [RIDE FOR YOU](https://open.spotify.com/track/0ix9MmR8QyMaDypgh32tkJ) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n) | [RIDE FOR YOU](https://open.spotify.com/album/7sIhyzLWZkYBqtZvl5qs1s) | 2:02 |
 
-Snapshot ID: `MTY4MDExMjYyNywwMDAwMDAwMDRiZjM1NDdiYzZiNWJiN2Q4NjZkMzVkYWVkZTNiYzg3`
+Snapshot ID: `MTY4MDIyNjI1OCwwMDAwMDAwMDNmZjViOTY3NDNhZGYwOTEyOWI4NGQ1M2U1YTg5MTYw`

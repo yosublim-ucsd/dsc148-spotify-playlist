@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Arthurzin",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Kawe, Teto",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -479,6 +479,32 @@
     },
     {
       "album": {
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/4Kj18jgIUWQHtuw82Vhvsw"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194397,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/64o4tdehsJc5CTULrcY0cY"
+    },
+    {
+      "album": {
         "name": "AGIOTA",
         "url": "https://open.spotify.com/album/5iCu2Lq6KcunbUSqKsP6hT"
       },
@@ -850,7 +876,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 193207,
       "name": "Aqui N\u00e3o \u00e9 o Meu Lugar",
       "url": "https://open.spotify.com/track/3JfdJ59PIe1QlYK6bSpVoN"
@@ -1786,7 +1812,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 194285,
       "name": "Bomberman",
       "url": "https://open.spotify.com/track/7Do4nLeovfGLfOsUZosklV"
@@ -1944,7 +1970,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 108666,
       "name": "Brasiliana",
       "url": "https://open.spotify.com/track/2EsG89xtR9NAKTTRpNI67p"
@@ -2594,7 +2620,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 112615,
       "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
       "url": "https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut"
@@ -6878,7 +6904,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 143661,
       "name": "ILUDIDO",
       "url": "https://open.spotify.com/track/11XAN7O439p6VRhwc8lbix"
@@ -9242,7 +9268,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 149470,
       "name": "MIMA",
       "url": "https://open.spotify.com/track/7jkmggINXon9pbhTlx4wnT"
@@ -9290,6 +9316,24 @@
       "duration_ms": 180810,
       "name": "Minha Tropa T\u00e1 Na Pista",
       "url": "https://open.spotify.com/track/2gVUYdGpZc7wipdskFpUpO"
+    },
+    {
+      "album": {
+        "name": "Minha Vida \u00e9 um Filme",
+        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Minha Vida \u00e9 um Filme",
+      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
       "album": {
@@ -9434,6 +9478,50 @@
       "duration_ms": 144005,
       "name": "Montblanc",
       "url": "https://open.spotify.com/track/4FIvGmOwod42VFIpO0huBO"
+    },
+    {
+      "album": {
+        "name": "Morango",
+        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Morango",
+      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
+    },
+    {
+      "album": {
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/6NKzLG2NXWDb8wUShu2xyB"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198923,
+      "name": "Movimento",
+      "url": "https://open.spotify.com/track/0vGkHLjaNZiNBNmSBLhA7o"
     },
     {
       "album": {
@@ -10132,7 +10220,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 131612,
       "name": "Nossa Verdade - 2050 Sessions",
       "url": "https://open.spotify.com/track/0VeAZSZawrZISYVeYXyAAY"
@@ -11892,7 +11980,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 136334,
       "name": "POKAZIDEIA",
       "url": "https://open.spotify.com/track/7xdTUQQpYsMxgCj1LZqsaD"
@@ -12429,6 +12517,28 @@
     },
     {
       "album": {
+        "name": "Pura Adrenalina",
+        "url": "https://open.spotify.com/album/4mf1WTCpicIS2WNsd0DHJO"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "dvrkness13",
+          "url": "https://open.spotify.com/artist/2Pel0jsoeCdLst2bxzykQJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138129,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/6KgPTk8J2i1DOTSGvwhLPM"
+    },
+    {
+      "album": {
         "name": "Putaria e Muita Rima",
         "url": "https://open.spotify.com/album/1P8AHNOfhxcuvtirayw2DM"
       },
@@ -12654,6 +12764,28 @@
       "duration_ms": 254307,
       "name": "Que Nem Crian\u00e7a",
       "url": "https://open.spotify.com/track/1ceM4rUT3e7ilZYSVqPKnO"
+    },
+    {
+      "album": {
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/02EDa2xrwPqnCqH8nc5roA"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146770,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/323l1V9fPIeC3UxaLJKMq0"
     },
     {
       "album": {
@@ -12964,7 +13096,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 160796,
       "name": "Rel\u00f3gio",
       "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
@@ -13120,6 +13252,28 @@
       "duration_ms": 113828,
       "name": "Rio de Janeiro",
       "url": "https://open.spotify.com/track/1BpogkDzEDm6gQ2mmWkR1r"
+    },
+    {
+      "album": {
+        "name": "Ritmo De Fim",
+        "url": "https://open.spotify.com/album/3C9rLSdyZtXbxVgplKKrAi"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158085,
+      "name": "Ritmo De Fim",
+      "url": "https://open.spotify.com/track/0wV14h8vPVAPjsreY8ZvSq"
     },
     {
       "album": {
@@ -13314,6 +13468,36 @@
       "duration_ms": 148496,
       "name": "R\u00e9is",
       "url": "https://open.spotify.com/track/1Y9nwb89W4pskYMFAcgNi0"
+    },
+    {
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "Sal e Pimenta",
+      "url": "https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA"
     },
     {
       "album": {
@@ -13712,7 +13896,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 185178,
       "name": "Senha do WIFI",
       "url": "https://open.spotify.com/track/0wAp5d4Nl3V0ZHy6NqZhZx"
@@ -16171,6 +16355,24 @@
     },
     {
       "album": {
+        "name": "VIV\u00c3O",
+        "url": "https://open.spotify.com/album/6pNx6gkyn4We3bR2wa51wn"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141068,
+      "name": "VIV\u00c3O",
+      "url": "https://open.spotify.com/track/5n2j93ju4SIlrlkBSNY38i"
+    },
+    {
+      "album": {
         "name": "Viz\u00e3o de Cria",
         "url": "https://open.spotify.com/album/5A1sLSZqKooVjMXsuZirEQ"
       },
@@ -16378,6 +16580,32 @@
       "duration_ms": 139175,
       "name": "WALK",
       "url": "https://open.spotify.com/track/3rwiD7ODn7A1ke19LukbYa"
+    },
+    {
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/1IVKoeAPWQQklwTWVzdFLV"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158533,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/7BM9PAFxTqYEYGmT23VuBV"
     },
     {
       "album": {

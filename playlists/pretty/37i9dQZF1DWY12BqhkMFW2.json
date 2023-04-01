@@ -1,13 +1,29 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 332347,
+  "num_followers": 332486,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMGVhM2M5MTgyZTlmZjBlYTVlYjdmYWUzNWVhMDEzYzM5",
+  "snapshot_id": "MTY4MDIzNTg2MiwwMDAwMDAwMDI4YmQxMjRkYWIxZjYzNGY5OTAyMWNhMzJhZWMyNmI2",
   "tracks": [
+    {
+      "added_at": "2023-04-01 01:00:22",
+      "album": {
+        "name": "On Top of The Covers",
+        "url": "https://open.spotify.com/album/3nrTn6ARC5PpGw1DZysRNU"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 222713,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/6lbXUz3ysZWYSbBFGiPgXJ"
+    },
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
@@ -611,22 +627,6 @@
       "duration_ms": 311533,
       "name": "Right And A Wrong Way",
       "url": "https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 257720,
-      "name": "Love Don't Live Here Anymore",
-      "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
     }
   ],
   "unique_name": "Soul Revived",

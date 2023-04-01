@@ -1,65 +1,13 @@
 {
   "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Sexyy Red",
-  "num_followers": 204605,
+  "num_followers": 204630,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDExMjYyNywwMDAwMDAwMDRiZjM1NDdiYzZiNWJiN2Q4NjZkMzVkYWVkZTNiYzg3",
+  "snapshot_id": "MTY4MDIyNjI1OCwwMDAwMDAwMDNmZjViOTY3NDNhZGYwOTEyOWI4NGQ1M2U1YTg5MTYw",
   "tracks": [
-    {
-      "added_at": "2023-03-29 17:57:07",
-      "album": {
-        "name": "BING BONG",
-        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
-      },
-      "artists": [
-        {
-          "name": "BlakeIANA",
-          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
-        }
-      ],
-      "duration_ms": 106736,
-      "name": "BING BONG",
-      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "Pound Town (and Tay Keith)",
-        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 129429,
-      "name": "Pound Town (and Tay Keith)",
-      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
-    },
-    {
-      "added_at": "2023-03-29 17:57:07",
-      "album": {
-        "name": "apathy",
-        "url": "https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD"
-      },
-      "artists": [
-        {
-          "name": "bronclair",
-          "url": "https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6"
-        }
-      ],
-      "duration_ms": 113317,
-      "name": "apathy",
-      "url": "https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N"
-    },
     {
       "added_at": "2023-03-29 17:57:07",
       "album": {
@@ -75,22 +23,6 @@
       "duration_ms": 112706,
       "name": "Jackie Chan",
       "url": "https://open.spotify.com/track/0in5mxxYYegP6w1lRuKS8u"
-    },
-    {
-      "added_at": "2023-03-29 17:57:07",
-      "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-03-29 17:57:07",
@@ -115,6 +47,54 @@
       "duration_ms": 142080,
       "name": "Don't Talk 2 Me",
       "url": "https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip"
+    },
+    {
+      "added_at": "2023-03-29 17:57:07",
+      "album": {
+        "name": "BING BONG",
+        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "duration_ms": 106736,
+      "name": "BING BONG",
+      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
+    },
+    {
+      "added_at": "2023-03-29 17:57:07",
+      "album": {
+        "name": "apathy",
+        "url": "https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD"
+      },
+      "artists": [
+        {
+          "name": "bronclair",
+          "url": "https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6"
+        }
+      ],
+      "duration_ms": 113317,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N"
+    },
+    {
+      "added_at": "2023-03-29 17:57:07",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-03-29 17:57:07",
@@ -159,6 +139,26 @@
       "duration_ms": 150000,
       "name": "My Man (Freestyle)",
       "url": "https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
       "added_at": "2023-03-29 17:57:07",

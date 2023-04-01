@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u53ef\u60dc\u9019\u662f\u5c6c\u65bc\u4f60\u7684\u98a8\u666f \u800c\u6211\u53ea\u662f\u5609\u8cd3\n\u9047\u898b\u4f60\u7684\u4ed6\u771f\u7684\u597d\u5e78\u904b \u4f46\u9858\u4ed6\u6703\u6bd4\u6211\u66f4\u611b\u4f60",
+  "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u751f\u547d\u592a\u77ed\u4fc3 \u75db\u592a\u6e05\u695a \u624d\u8b93\u4f60\u8b93\u6211 \u611b\u5230\u7121\u9000\u8def\u3002",
   "name": "\u60b2\u50b7\u91cb\u653e",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2QVgTr1m0cOoPftywjlWVc"
+    },
+    {
+      "album": {
+        "name": "Night of Sorrow",
+        "url": "https://open.spotify.com/album/5MddSNemZ2Y9yFTQXR12LK"
+      },
+      "artists": [
+        {
+          "name": "Chyi Chin",
+          "url": "https://open.spotify.com/artist/4VhiuMC32Qj7pVW3e6Nlms"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293186,
+      "name": "Cliff",
+      "url": "https://open.spotify.com/track/68jBtLn1za9zfDq7kRNy6d"
     },
     {
       "album": {
@@ -488,7 +506,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 310295,
       "name": "\u4f60\u8fd8\u8981\u6211\u600e\u6837",
       "url": "https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb"

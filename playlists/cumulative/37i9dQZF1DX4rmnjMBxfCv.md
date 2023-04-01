@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: A Loop.
 
-103 songs - 6 hr 52 min
+104 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 2:35 | 2023-02-02 |  |
 | [Hadi Ya Baher](https://open.spotify.com/track/53Szvpaq39xEpsFFUQ6a7E) | [Palmtherapy by DrNR](https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho), [Mawal Lotfi](https://open.spotify.com/artist/3d9xYfE0pPF4VuZQMW7lAN) | [Hadi Ya Baher](https://open.spotify.com/album/6wGy4mcOpjbXhjLvOrwBEe) | 3:01 | 2022-03-30 |  |
 | [Haleq Maa'y](https://open.spotify.com/track/56o5roP1Xff5WUbBK6UaZM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl), [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Haleq Maa'y](https://open.spotify.com/album/1FS3LAQp4oMKsCqMnI19OW) | 4:21 | 2022-03-30 | 2022-11-26 |
-| [Hawlo \- Gaby Zgheib Remix](https://open.spotify.com/track/74cyl9q0lrXuySioeD10kB) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Gaby Zgheib](https://open.spotify.com/artist/2tAVxjSZZ5b5d1k360AWJr) | [Hawlo \(Gaby Zgheib Remix\)](https://open.spotify.com/album/4WKR4H1V39EMpgRaT6kzU0) | 4:46 | 2022-03-30 |  |
+| [Hawlo](https://open.spotify.com/track/7AzkW2i75Tu6U5rRzMTPV4) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Hawlo](https://open.spotify.com/album/22z5UsIINFusXfM9kVYdqr) | 4:46 | 2023-03-17 |  |
+| [Hawlo \- Gaby Zgheib Remix](https://open.spotify.com/track/74cyl9q0lrXuySioeD10kB) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Gaby Zgheib](https://open.spotify.com/artist/2tAVxjSZZ5b5d1k360AWJr) | [Hawlo \(Gaby Zgheib Remix\)](https://open.spotify.com/album/4WKR4H1V39EMpgRaT6kzU0) | 4:46 | 2022-03-30 | 2023-04-01 |
 | [Headlights \(feat\. KIDDO & Issam Alnajjar\) \- Radio Edit](https://open.spotify.com/track/2gqnO3cvjvBNTYr9dMNZIn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO & Issam Alnajjar\) \[Radio Edit\]](https://open.spotify.com/album/6XZqrGWZ3s06HmcCRziviX) | 2:38 | 2022-11-25 |  |
 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 | 2022-08-01 |  |
 | [Hiya Hiya](https://open.spotify.com/track/0tNpveVnqAXngNFP1MWBXn) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/79IFajmgcokKaytvnRFomI) | 3:37 | 2022-11-05 |  |

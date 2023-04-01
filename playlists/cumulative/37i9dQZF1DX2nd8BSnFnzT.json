@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 222250,
       "name": "ALGU\u00c9M ME TIRA DAQUI!",
       "url": "https://open.spotify.com/track/26gLVXEUbA4ZjVIVadRQ4m"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 164854,
       "name": "CECI",
       "url": "https://open.spotify.com/track/5sofnKyROetFfcVNm5Ztm8"
@@ -1110,6 +1110,28 @@
       "duration_ms": 207040,
       "name": "Clareiras",
       "url": "https://open.spotify.com/track/3XHQg2a9HX7S7IKV6onG9A"
+    },
+    {
+      "album": {
+        "name": "Cloridrato de Alegria",
+        "url": "https://open.spotify.com/album/2nn7TklkJp7z3ceINjYrxi"
+      },
+      "artists": [
+        {
+          "name": "Mike Bleak",
+          "url": "https://open.spotify.com/artist/3VbE1PxF8BbIzmw0Rqab81"
+        },
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141001,
+      "name": "Cloridrato de Alegria",
+      "url": "https://open.spotify.com/track/57uEwom3aNuorohZb2DdDM"
     },
     {
       "album": {
@@ -2479,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/5ajNNK3Yk53P8040QnuhOT"
+      },
+      "artists": [
+        {
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+        },
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250786,
+      "name": "Infame",
+      "url": "https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe"
+    },
+    {
+      "album": {
         "name": "Insista",
         "url": "https://open.spotify.com/album/5jU9NOnTqzMd5JDfiOq6Ad"
       },
@@ -3660,7 +3704,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 188638,
       "name": "O Amor Machuca Demais",
       "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
@@ -4172,7 +4216,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 191089,
       "name": "Permita-Se",
       "url": "https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL"
@@ -4194,7 +4238,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 191089,
       "name": "Permita-Se",
       "url": "https://open.spotify.com/track/2Fb72sBmDASbLhiuTEjTxW"
@@ -5288,6 +5332,28 @@
       "duration_ms": 169687,
       "name": "s\u00faplica",
       "url": "https://open.spotify.com/track/4omVsjOJY7aCHcBV9l6UkC"
+    },
+    {
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/4tJs1uXBKXv7rP3w3XpbvE"
+      },
+      "artists": [
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        },
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Te Odeio",
+      "url": "https://open.spotify.com/track/7lIkAqZttsDeShLOLyVhyk"
     },
     {
       "album": {

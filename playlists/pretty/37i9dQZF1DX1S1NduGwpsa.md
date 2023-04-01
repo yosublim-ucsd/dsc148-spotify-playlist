@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover:  Emilie\-Claire Barlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,219 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,250 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 37 | [Pash Rash](https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Pash Rash](https://open.spotify.com/album/6LG9QQHDTyZhtrjBaa9cPN) | 6:08 |
 | 38 | [Asta](https://open.spotify.com/track/7Bd5QBn1WRxcDXXzCS1DSB) | [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Sylvain Beuf](https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz), [Thomas Bramerie](https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [ASTA 2](https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo) | 5:09 |
 | 39 | [Teo](https://open.spotify.com/track/3O90QPnqAyFoTlpU9nBPkt) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [The Source](https://open.spotify.com/album/5e2gQsP9jvj5telqe9zERG) | 6:04 |
-| 40 | [around the world](https://open.spotify.com/track/6aRIwsMliE5WFAzrub4zX7) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [earth sounds](https://open.spotify.com/album/3waYOXzSiDX8CnwOSkZVWT) | 2:30 |
+| 40 | [around the world](https://open.spotify.com/track/70WBAN9os6FvYtDgJroIGU) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [around the world](https://open.spotify.com/album/5eL2i5al18gKUYP5NQmRZu) | 2:30 |
 | 41 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 |
 | 42 | [Chic O'Clock](https://open.spotify.com/track/5823hf55oABckejkndnNXR) | [Adrien Chicot](https://open.spotify.com/artist/0iFZH92kPAdNvwU9nENIzk) | [Sound of Eymet](https://open.spotify.com/album/0h5gvS1eJnvhvQ6ldWuIcs) | 6:00 |
 | 43 | [Just in Time](https://open.spotify.com/track/3qF3gCZxWzt9j60XfjtohG) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Just in Time](https://open.spotify.com/album/3xjdQF7MrWRdBYiZyDZ75O) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Why Should We Care](https://open.spotify.com/track/1N5P9bFKXgUiwRzNrI7Enb) | [Gauthier Toux](https://open.spotify.com/artist/7IDfdcPGVTXSWIG5ZtQmVW), [Maxence Sibille](https://open.spotify.com/artist/2qniG8aGnYc6CQJ59CsKlP), [Simon Tailleu](https://open.spotify.com/artist/1NYeTK44a3YpVx5MGHv78d) | [Why Should We Care](https://open.spotify.com/album/4ofn3FiF0xyUOT96Kgrp8E) | 5:39 |
 | 50 | [Herbie’s Dance](https://open.spotify.com/track/7hesAzyUW6ObSHGqX2NUbx) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Herbie's Dance](https://open.spotify.com/album/1clnxwZjzbtYExWQXrdBhR) | 4:52 |
 
-Snapshot ID: `MTY4MDIxMzYwMCwwMDAwMDAwMDgyM2Q0NzI1YjdhMzMzZjQ0ODQ5MGY5ODZlMGNkZjBm`
+Snapshot ID: `MTY4MDIxMzYwMCwwMDAwMDAwMGIwNzhiODg5MzQ0ZDg1Yzg1MTAzY2ZhNTRhNzk4ODk2`

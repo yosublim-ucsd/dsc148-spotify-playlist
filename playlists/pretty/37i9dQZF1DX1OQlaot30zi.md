@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Lazza, Madame, Fred De Palma, Silent Bob e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,515 likes - 90 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,579 likes - 90 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 62 | [Solo Pollo](https://open.spotify.com/track/4jsCuELpXvxCFYPAlHnGcd) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Ric de Large](https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu), [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Solo Pollo](https://open.spotify.com/album/14qMVgdkBj3snOeLWwSYZO) | 4:26 |
 | 63 | [Vada come vada](https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Vada come vada](https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S) | 2:27 |
 | 64 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 |
-| 65 | [Va Bene](https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb) | [LOKI](https://open.spotify.com/artist/4kD5wLdwyIuYfcAJIHYbaQ), [Mitch](https://open.spotify.com/artist/3xS4uqr3q6umIa74qTP62H) | [Va Bene](https://open.spotify.com/album/0PFEZ3EBR8Qmyut1QGHfIS) | 1:53 |
+| 65 | [Va Bene](https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb) | [LOKI](https://open.spotify.com/artist/4kD5wLdwyIuYfcAJIHYbaQ), [Mitch](https://open.spotify.com/artist/2KmZCKrcq6twZoa1NrKUnw) | [Va Bene](https://open.spotify.com/album/0PFEZ3EBR8Qmyut1QGHfIS) | 1:53 |
 | 66 | [cose che non capisco](https://open.spotify.com/track/6YgkpEt3Md54yMx79Zajo5) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [UMORE 01](https://open.spotify.com/album/5hKSdj98yxxkm1yHZWuNZe) | 2:41 |
 | 67 | [PRIMMO AMMORE](https://open.spotify.com/track/0UuY3i8Ee0VZWDY5VJfKNw) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh) | [PRIMMO AMMORE](https://open.spotify.com/album/0jRDpJ2bMVD8JT43ifUd9E) | 2:34 |
 | 68 | [Tutta la Notte](https://open.spotify.com/track/19DTIJBVolckyDiluQ4vG1) | [KAYLER](https://open.spotify.com/artist/3RfIKCBcJ6Nb7OLrk2fV4S), [Kamyar](https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [Tutta la Notte](https://open.spotify.com/album/4GxqkMjfcQyqQri9igXu1K) | 2:14 |

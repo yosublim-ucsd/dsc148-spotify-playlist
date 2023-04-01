@@ -4,7 +4,7 @@
 
 > C.R.O & Duki en la casa del Trap de Argentino.
 
-186 songs - 9 hr 8 min
+188 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,11 +68,12 @@
 | [Frixen](https://open.spotify.com/track/38aRvHQWv2qFBY4BAucb8C) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Frixen](https://open.spotify.com/album/0lTLmQt4g3QIvV4Chz3eT6) | 2:35 | 2023-02-10 |  |
 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 | 2022-01-21 |  |
 | [G\-Class](https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [G\-Class](https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0) | 2:15 | 2022-07-05 |  |
+| [GELATO](https://open.spotify.com/track/7Go3Ftz3ogFCeuy7PIO6Su) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3) | [GELATO](https://open.spotify.com/album/0xbDePSBrKFaoYUsTCEjKq) | 3:30 | 2023-03-31 |  |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 | 2022-01-21 |  |
 | [Gran Turismo](https://open.spotify.com/track/0Lln3dJk5bcRKaXLWJ5V7O) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [Gran Turismo](https://open.spotify.com/album/2jjHYr5DAaYVUdAC3hnI4Y) | 1:52 | 2023-01-27 |  |
 | [GRR PAW](https://open.spotify.com/track/38MEJAGU5Ks6gEHdKG9Q3v) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [GRR PAW](https://open.spotify.com/album/58niEuot4EYfEHcsukrvvj) | 2:47 | 2022-05-04 | 2022-10-29 |
-| [Guapa](https://open.spotify.com/track/5kw4PXyQAKtIegpAfwjGMy) | [Luche](https://open.spotify.com/artist/3KKomwHhzofchp8VArk3sC), [Chigua](https://open.spotify.com/artist/16vvA9c32SSlzKJff7s7JW), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Guapa](https://open.spotify.com/album/0f7hijY5yqgbXbgjDlMg62) | 2:33 | 2022-09-01 |  |
+| [Guapa](https://open.spotify.com/track/5kw4PXyQAKtIegpAfwjGMy) | [Luche](https://open.spotify.com/artist/3KKomwHhzofchp8VArk3sC), [Chigua](https://open.spotify.com/artist/16vvA9c32SSlzKJff7s7JW), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Guapa](https://open.spotify.com/album/0f7hijY5yqgbXbgjDlMg62) | 2:33 | 2022-09-01 | 2023-04-01 |
 | [Guchi Polo](https://open.spotify.com/track/7EKysfHBIwPQ3RvhD9dH9D) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Guchi Polo](https://open.spotify.com/album/3yFCuw8xsbOXtbOXG2GL86) | 3:21 | 2022-07-21 | 2023-01-14 |
 | [Guchi Polo](https://open.spotify.com/track/7LogWJv62K2bdTtw12RHTb) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Guchi Polo](https://open.spotify.com/album/6geOVKHOwBGyQIMo9m8yR6) | 3:21 | 2022-01-21 | 2022-07-29 |
 | [H.I.E.L.O.](https://open.spotify.com/track/6itjKRbqPMmx9fo4PDlLhm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [H.I.E.L.O.](https://open.spotify.com/album/2V5eHcsWILzjRzf9Z47tiX) | 3:16 | 2022-01-21 |  |
@@ -169,6 +170,7 @@
 | [TNT](https://open.spotify.com/track/4ld82JEAVNp87NWWslgPJc) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 3:51 | 2022-01-21 |  |
 | [TODO AUTOMATICO](https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 3:14 | 2022-01-21 |  |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2022-01-21 |  |
+| [TOP](https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOP](https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L) | 1:35 | 2023-03-31 |  |
 | [Tranki Keloke](https://open.spotify.com/track/54h6ybVVl94AZYDDMSTS34) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Shifa](https://open.spotify.com/artist/6AJnV0udomI2aWkYijj6JO) | [Tranki Keloke](https://open.spotify.com/album/60DOXreM2soXs0S6GiuwFv) | 2:32 | 2022-01-21 | 2022-02-12 |
 | [trap store](https://open.spotify.com/track/4t8zU6e5hjsQFoOGpgPIYP) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [nube 2.O](https://open.spotify.com/album/14QmAOcDa5JSjMdEN1B2FJ) | 2:18 | 2022-12-09 | 2023-02-18 |
 | [TRAPPIST\-1](https://open.spotify.com/track/3tyEOol8a0fP78HpdJ3mkS) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 5:02 | 2022-01-21 | 2022-08-27 |

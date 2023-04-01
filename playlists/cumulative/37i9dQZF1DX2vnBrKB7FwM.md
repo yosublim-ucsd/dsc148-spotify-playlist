@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-109 songs - 6 hr 13 min
+110 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Back to Back](https://open.spotify.com/track/7677F33TDOahKknQbw4446) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Back to Back](https://open.spotify.com/album/45ivsx0nTnWp8S3HjfKPKM) | 3:13 | 2022-02-25 | 2022-12-24 |
 | [Boomerang](https://open.spotify.com/track/72bVyKjQd1dGCUrj7xLFj0) | [Cejaz Negraz](https://open.spotify.com/artist/4otKDQdMIMEKTdZhh4ihql), [Michelangelo305](https://open.spotify.com/artist/4XFeBjg5q6eBmD1Uo8cjKG) | [Psicomagia](https://open.spotify.com/album/6wMXMSa4EmR2bMHEhR0wWM) | 3:29 | 2022-02-25 | 2022-07-29 |
 | [Boomerang](https://open.spotify.com/track/0puJO7cB2H8uPn1n4kXzdA) | [Cejaz Negraz](https://open.spotify.com/artist/4otKDQdMIMEKTdZhh4ihql), [Michelangelo305](https://open.spotify.com/artist/4XFeBjg5q6eBmD1Uo8cjKG) | [Psicomagia](https://open.spotify.com/album/4cXg5Mi24pMei1PJfP6nF7) | 3:29 | 2022-07-15 | 2022-12-24 |
-| [Busca Escuela \(One Take Show XII\)](https://open.spotify.com/track/6LT6oMAViR1MpTwIAedpYP) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Busca Escuela \(One Take Show XII\)](https://open.spotify.com/album/1MK2aiy4W1DgjZT6dYWAm8) | 2:48 | 2022-02-25 |  |
+| [Buenos Días Vietnam \- Remix](https://open.spotify.com/track/4bVbXnnWEopM8Vz3Vdi5kH) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Buenos Días Vietnam \(Remix\)](https://open.spotify.com/album/5HcbYvdV0r6K5U24C9yEpN) | 3:24 | 2023-03-31 |  |
+| [Busca Escuela \(One Take Show XII\)](https://open.spotify.com/track/6LT6oMAViR1MpTwIAedpYP) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Busca Escuela \(One Take Show XII\)](https://open.spotify.com/album/1MK2aiy4W1DgjZT6dYWAm8) | 2:48 | 2022-02-25 | 2023-04-01 |
 | [Bésame Mucho](https://open.spotify.com/track/7jaY9QKJtJrwxeAaKR3TAW) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Thomas Parr](https://open.spotify.com/artist/2vTTgBvDZ0One2Mn7m6zll) | [Bésame Mucho](https://open.spotify.com/album/1HIgtvU4PkhfEtvmtmv6wd) | 3:29 | 2022-02-25 |  |
 | [Caos](https://open.spotify.com/track/7FWgYHUUMKNjQar2oFkLv5) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [Juegos de Azar](https://open.spotify.com/album/3COocsnqFmmlyI8W7vSaeY) | 4:07 | 2022-02-25 |  |
 | [Cara/Cruz](https://open.spotify.com/track/2KmRADR0BFvChKNAI24cTc) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Cara/Cruz](https://open.spotify.com/album/5EOcbsuFDolPWVLSeZb02m) | 3:44 | 2022-02-25 |  |

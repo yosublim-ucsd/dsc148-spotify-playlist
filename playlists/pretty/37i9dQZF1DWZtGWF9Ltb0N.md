@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,005 likes - 150 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,165 likes - 150 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Lana](https://open.spotify.com/track/0mnUXaOHyLDnhJ34qllbKB) | [Oxossi](https://open.spotify.com/artist/33KoTOB6gxLIYPsAfkPx9z), [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Lana](https://open.spotify.com/album/1JgqOngNc6aP7LPCsWUfWC) | 3:51 |
 | 150 | [Sticky](https://open.spotify.com/track/7pGClgDyg6EzpEulHy3pMh) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Sticky](https://open.spotify.com/album/5029IuS9Dc6YysSgJG1xv8) | 2:43 |
 
-Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMGQ1MTEyMjU1NzBhNzlkMjUxNDAyMDQ1NGVmNjRmNGY0`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDMzNmI2MDQ3YTZhMjc4MzQzNTdhNTkzMDY3YmY3MzZj`

@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-145 songs - 9 hr 20 min
+146 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Welcome トゥ 混沌](https://open.spotify.com/track/5WFyER9XL7zcDkaj7CuYmv) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」](https://open.spotify.com/album/4W2lpGvGvMmH7KLWofv4gf) | 3:38 | 2022-05-10 |  |
 | [WIN \- "The God of HighSchool" ED](https://open.spotify.com/track/7apQPgVEiRpAIFe8VaeB7h) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [WIN \("The God of HighSchool" ED\)](https://open.spotify.com/album/3Nc5br1HThZq5XrCI802gX) | 3:25 | 2022-05-10 |  |
 | [Windy](https://open.spotify.com/track/6L9ppkvgd57cyrEqtVUqZb) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [CHEMISTRY](https://open.spotify.com/album/7qI4Y22vz8c2zzRxKLw1Fw) | 4:25 | 2022-05-10 |  |
+| [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 |  |
 | [You Only Live Once](https://open.spotify.com/track/7bCQjrEH2zcKqqiGm35GQW) | [YURI!!! on ICE](https://open.spotify.com/artist/1TdCQle8fQvM4Tk2cVEZSZ), [w.hatano](https://open.spotify.com/artist/0ZJgJU3awP4bitIUvVzGtO) | [You Only Live Once](https://open.spotify.com/album/7dyihdys9qBZj1XG7evPZ8) | 3:45 | 2022-05-10 |  |
 | [さよならごっこ](https://open.spotify.com/track/7H09NfuWbm1lhCqtPb5M5s) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ボイコット](https://open.spotify.com/album/3L2UTa9fUGVuIGtrOqsMGX) | 4:32 | 2022-05-10 |  |
 | [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 | 2022-05-10 | 2022-10-03 |

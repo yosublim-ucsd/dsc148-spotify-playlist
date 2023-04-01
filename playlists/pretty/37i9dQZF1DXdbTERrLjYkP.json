@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: nicole han",
-  "num_followers": 81240,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Chappell Roan",
+  "num_followers": 81279,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMTI3NSwwMDAwMDAwMGNjZTU2ZmFjYTg4ZmVhZWJjNmI2NzExM2ZlZWNjMjJj",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDI1MGJiMDIyZjcyZDc4YzAzNWYyNzM3MmU3NDhjMTBm",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Looking At Me",
+        "url": "https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "duration_ms": 192461,
+      "name": "Looking At Me",
+      "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
+    },
     {
       "added_at": "2023-03-24 04:14:35",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "realizations of a tightrope walker",
-        "url": "https://open.spotify.com/album/2yZCCFDuxI01TFm5UEdpoW"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8"
       },
       "artists": [
         {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
         }
       ],
-      "duration_ms": 152500,
-      "name": "robot boy",
-      "url": "https://open.spotify.com/track/0BQhoWkXkvx71p9w7EsF3c"
+      "duration_ms": 199179,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -57,20 +89,68 @@
       "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "saw you in the paper",
-        "url": "https://open.spotify.com/album/5KS9M0MvpYIY0pqltF2uVs"
+        "name": "Situationships",
+        "url": "https://open.spotify.com/album/7uBpnSHqqg4IEveWTBcbHL"
       },
       "artists": [
         {
-          "name": "Daniel Leggs",
-          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
+          "name": "Maddy Hicks",
+          "url": "https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ"
         }
       ],
-      "duration_ms": 140853,
-      "name": "saw you in the paper",
-      "url": "https://open.spotify.com/track/72YBXFD6wdyX1LyWdj9LfQ"
+      "duration_ms": 184873,
+      "name": "I Don\u2019t Need To",
+      "url": "https://open.spotify.com/track/1C4nLRbgwtS1vUahjaldO0"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The Cut",
+        "url": "https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 199267,
+      "name": "The Cut",
+      "url": "https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "realizations of a tightrope walker",
+        "url": "https://open.spotify.com/album/2yZCCFDuxI01TFm5UEdpoW"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "robot boy",
+      "url": "https://open.spotify.com/track/0BQhoWkXkvx71p9w7EsF3c"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "the last laugh",
+        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "the last laugh",
+      "url": "https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -87,6 +167,54 @@
       "duration_ms": 160529,
       "name": "dishes",
       "url": "https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
+      },
+      "artists": [
+        {
+          "name": "Sophia James",
+          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "saw you in the paper",
+        "url": "https://open.spotify.com/album/5KS9M0MvpYIY0pqltF2uVs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Leggs",
+          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
+        }
+      ],
+      "duration_ms": 140853,
+      "name": "saw you in the paper",
+      "url": "https://open.spotify.com/track/72YBXFD6wdyX1LyWdj9LfQ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Lovely Enough",
+        "url": "https://open.spotify.com/album/5PAfZ5O815kDOBwpnkuNJE"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Lovely Enough",
+      "url": "https://open.spotify.com/track/60wz1rhDNtKo8RjNB6GxbR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -699,22 +827,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "For an Evening",
-        "url": "https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "For an Evening",
-      "url": "https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Coming of Age",
         "url": "https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf"
       },
@@ -759,38 +871,6 @@
       "duration_ms": 253266,
       "name": "Lows & Highs",
       "url": "https://open.spotify.com/track/10s2OqqwGxHcSXKX8vmJUD"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/2fFk1GSqpz5w34ffUWShRN"
-      },
-      "artists": [
-        {
-          "name": "Maddy Hicks",
-          "url": "https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ"
-        }
-      ],
-      "duration_ms": 141203,
-      "name": "December",
-      "url": "https://open.spotify.com/track/5auXfNefGlbDshn2LRddWx"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 285115,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f"
     },
     {
       "added_at": "2023-03-10 05:00:00",

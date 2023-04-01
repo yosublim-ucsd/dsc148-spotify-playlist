@@ -428,10 +428,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 213600,
       "name": "El Madi",
       "url": "https://open.spotify.com/track/2nqE5xiKvAJgfKzDlA7Fk5"
+    },
+    {
+      "album": {
+        "name": "El Madi",
+        "url": "https://open.spotify.com/album/3hOP7WTLLX1UfJ6YmYOUjX"
+      },
+      "artists": [
+        {
+          "name": "Yazan Elsaeed | Mr Choco",
+          "url": "https://open.spotify.com/artist/2QkYsq6gUnwTr5dlqK7q65"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "El Madi",
+      "url": "https://open.spotify.com/track/1uN8MEM7HP6rb99N0QV68r"
     },
     {
       "album": {
@@ -1434,10 +1452,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 211376,
       "name": "Yek Yek",
       "url": "https://open.spotify.com/track/4FurrzPajAoNGcY4P3pu2W"
+    },
+    {
+      "album": {
+        "name": "Galess Fdar",
+        "url": "https://open.spotify.com/album/2pJTYN66za2S6VZ0ceOKZP"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211376,
+      "name": "Yek Yek",
+      "url": "https://open.spotify.com/track/617V6FOa1Qo3UIMn7y84fA"
     },
     {
       "album": {

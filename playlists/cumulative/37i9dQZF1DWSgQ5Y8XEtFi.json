@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Don't Like",
+        "url": "https://open.spotify.com/album/6tNKo45gUoiwhMnsm5MeW5"
+      },
+      "artists": [
+        {
+          "name": "Izzy Spears",
+          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132758,
+      "name": "Don't Like",
+      "url": "https://open.spotify.com/track/0IuvmeIoLCaTBseJF7L7Lr"
+    },
+    {
+      "album": {
         "name": "Kanye West Presents Good Music Cruel Summer",
         "url": "https://open.spotify.com/album/0cGgwoMge4N2zpTiP2GU6d"
       },
@@ -1388,6 +1406,28 @@
       "duration_ms": 163384,
       "name": "E-ER (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/4N7i6RfJXMWfkx9Zr6pzkJ"
+    },
+    {
+      "album": {
+        "name": "ELECTRO_SHOCK_THERAPY",
+        "url": "https://open.spotify.com/album/4OY8GwV5p98TV7cRFFGAXG"
+      },
+      "artists": [
+        {
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+        },
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147118,
+      "name": "ELECTRO_SHOCK_THERAPY",
+      "url": "https://open.spotify.com/track/0LKCYdFKSwCtRsw7yd1u3h"
     },
     {
       "album": {
@@ -1910,7 +1950,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 130771,
       "name": "GS1",
       "url": "https://open.spotify.com/track/7AuuTaCNGubBwVwmtM0gOj"
@@ -2022,7 +2062,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 159652,
       "name": "HEAVY METAL",
       "url": "https://open.spotify.com/track/1j6zEnDOTIRJhBhknrd86m"
@@ -3171,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "PANIC!!!",
+        "url": "https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140579,
+      "name": "PANIC!!!",
+      "url": "https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV"
+    },
+    {
+      "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7"
       },
@@ -3484,7 +3542,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 169600,
       "name": "S.Y.K.",
       "url": "https://open.spotify.com/track/4ffuUoQxkBpobAfuS5NEKL"

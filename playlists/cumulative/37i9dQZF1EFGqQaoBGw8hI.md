@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-502 songs - 1 day 12 hr 40 min
+503 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,8 @@
 | [Rock And Roll Madonna \- Interlude](https://open.spotify.com/track/2kRnjApYA8HRvc3L7VXdPe) | [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 2:41 | 2022-09-08 |  |
 | [Rock Me When He's Gone](https://open.spotify.com/track/5THQ8j1P1XZ2TMQLTkha6n) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 5:00 | 2022-09-08 |  |
 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 | 2022-09-08 |  |
-| [Rocketman](https://open.spotify.com/track/1K8cppD0meJwkenTeH8JyN) | [Saxophone Rufus](https://open.spotify.com/artist/252rReS6Vt8eAzlmLaG7zs) | [Musica Instrumental](https://open.spotify.com/album/64ceXCPruwANJ0ZRNEo9tX) | 2:30 | 2022-09-08 |  |
+| [Rocketman](https://open.spotify.com/track/1K8cppD0meJwkenTeH8JyN) | [Saxophone Rufus](https://open.spotify.com/artist/252rReS6Vt8eAzlmLaG7zs) | [Musica Instrumental](https://open.spotify.com/album/64ceXCPruwANJ0ZRNEo9tX) | 2:30 | 2022-09-08 | 2023-04-01 |
+| [Rocketman](https://open.spotify.com/track/1ZW95JjHgOYiGmGlepYSZN) | [Saxophone Rufus](https://open.spotify.com/artist/252rReS6Vt8eAzlmLaG7zs) | [Musica Instrumental](https://open.spotify.com/album/6PQ3CCbrQBotRxLtI7XWF8) | 2:30 | 2023-03-31 |  |
 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 | 2022-09-08 |  |
 | [Rotten Peaches](https://open.spotify.com/track/1JhwFgtWL1CB1qrjRO62wg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:58 | 2022-09-08 |  |
 | [Roy Rogers \- Remastered 2014](https://open.spotify.com/track/6DlqxXju2H2mb0NcwgAFRM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:07 | 2022-09-08 |  |

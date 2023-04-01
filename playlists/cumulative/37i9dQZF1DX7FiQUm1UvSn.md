@@ -4,7 +4,7 @@
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-105 songs - 5 hr 37 min
+106 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Best Part](https://open.spotify.com/track/5L6dqgjZVv8doJFtlar1I5) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Lúc EP](https://open.spotify.com/album/4TUtNswdfx1J2kt0eKQqE2) | 3:58 | 2023-01-13 |  |
 | [Blackbird](https://open.spotify.com/track/0ys9QlRH9tePl6Stmsbhj7) | [Carla Menezes](https://open.spotify.com/artist/0PubppYseB9KQJFHREadG2) | [Blackbird](https://open.spotify.com/album/4R2rC38myAFJa3hV5U5vMf) | 3:31 | 2023-01-13 |  |
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2023-01-13 |  |
+| [Blanket On The Ground](https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Blanket On The Ground](https://open.spotify.com/album/373M8k23TiJ2QvysKoDuAo) | 3:33 | 2023-03-31 |  |
 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 | 2023-01-13 |  |
 | [Blue Moon](https://open.spotify.com/track/2RwTeL5zb473lvRys6xtbZ) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Blue Moon](https://open.spotify.com/album/0luROvxmUzlDy7VwFRAw6D) | 2:04 | 2023-01-13 |  |
 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 | 2023-01-13 |  |
@@ -30,7 +31,7 @@
 | [Call Your Girlfriend \- Acoustic](https://open.spotify.com/track/2tLoJAFgiB6uw6tDNCtbgd) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Call Your Girlfriend \- Acoustic](https://open.spotify.com/album/76jfRPPFyQSnmB5N9SyNLW) | 3:51 | 2023-01-13 |  |
 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/0aIcKuGEu9NrI4r07KyJRc) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Castle on the Hill](https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE) | 4:03 | 2023-01-13 |  |
 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 | 2023-01-13 |  |
-| [China](https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [China](https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6) | 2:48 | 2023-01-13 |  |
+| [China](https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [China](https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6) | 2:48 | 2023-01-13 | 2023-04-01 |
 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 | 2023-01-13 |  |
 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 | 2023-01-13 |  |
 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 | 2023-01-13 |  |
@@ -61,7 +62,7 @@
 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 | 2023-01-13 |  |
 | [In My Feelings](https://open.spotify.com/track/2G9F7BdGv3bx8gcqTz1gOx) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [In My Feelings](https://open.spotify.com/album/7cx8CApFaL6tWwntWVP46g) | 2:50 | 2023-01-13 |  |
 | [Intentions](https://open.spotify.com/track/62rdJywT2r3EAi1KHtw1DA) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Intentions](https://open.spotify.com/album/1wPfFwfubrduYPOBeLefN0) | 2:52 | 2023-01-13 |  |
-| [Iris](https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Iris](https://open.spotify.com/album/4qKG2mFsVCwHvIzLOVwVox) | 2:45 | 2023-01-13 |  |
+| [Iris](https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Iris](https://open.spotify.com/album/4qKG2mFsVCwHvIzLOVwVox) | 2:45 | 2023-01-13 | 2023-04-01 |
 | [Iris](https://open.spotify.com/track/6E6OwPVfP85uS119yFg1WZ) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Iris](https://open.spotify.com/album/63WqFGONvmwiJATGOZHrK2) | 2:30 | 2023-01-13 |  |
 | [Iris](https://open.spotify.com/track/7hGfipTkKQBlNGkkPcDP0S) | [Sad Boy](https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC) | [Iris](https://open.spotify.com/album/0lasBOc231LE9dk715ccdS) | 2:47 | 2023-01-13 |  |
 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 | 2023-01-13 |  |

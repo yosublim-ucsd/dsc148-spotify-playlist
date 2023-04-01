@@ -4388,7 +4388,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -9184,7 +9184,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 151216,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/28no7gwdF7PBCQQMuwHmXL"
@@ -11833,6 +11833,28 @@
     },
     {
       "album": {
+        "name": "Mafia II",
+        "url": "https://open.spotify.com/album/1G69NExXN1CFGtgf6K792y"
+      },
+      "artists": [
+        {
+          "name": "Smoove Gotti",
+          "url": "https://open.spotify.com/artist/2WC4uCofVAeYSBeen2VeKM"
+        },
+        {
+          "name": "Rwaw Doobie",
+          "url": "https://open.spotify.com/artist/4RPBzQBujYkPfwxkox5W41"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147069,
+      "name": "Mafia II",
+      "url": "https://open.spotify.com/track/5zlHSJLgkisXySyTxuEggD"
+    },
+    {
+      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -12494,6 +12516,28 @@
       "duration_ms": 259127,
       "name": "Minha Terra",
       "url": "https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6"
+    },
+    {
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "album": {
@@ -16896,7 +16940,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 159869,
       "name": "SHOOT",
       "url": "https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1"
@@ -18394,7 +18438,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 158437,
       "name": "Te Exxxtra\u00f1o",
       "url": "https://open.spotify.com/track/7d3iTF7i4923NMQ34hVGbp"

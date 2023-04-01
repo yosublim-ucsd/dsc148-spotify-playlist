@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:39i5B6umzWzkfMe12JrMwW\">TiaCorine</a>",
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:1K15GRZZATsCJyGJ4bYiEz\">Luh Tyler</a>",
   "name": "Most Necessary",
   "tracks": [
     {
@@ -510,6 +510,24 @@
       "duration_ms": 110090,
       "name": "5 Percent",
       "url": "https://open.spotify.com/track/5yRA5qmT2zOP5DTfCONS6Z"
+    },
+    {
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/2jBKKyyYCY4OawmOGNJbsq"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190083,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/63nPz8Y0oPCvGDcmDdLs9Z"
     },
     {
       "album": {
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 195254,
       "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
       "url": "https://open.spotify.com/track/53acd3PVcgGCux58YABBr5"
@@ -6806,7 +6824,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 168743,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5FaVpZEBZKGGYIMsVyBiVu"
@@ -7446,6 +7464,28 @@
       "duration_ms": 130156,
       "name": "High John",
       "url": "https://open.spotify.com/track/55liByWjb2T7j0vohSel10"
+    },
+    {
+      "album": {
+        "name": "High Price (with Lil Tjay)",
+        "url": "https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "High Price (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2"
     },
     {
       "album": {
@@ -9050,7 +9090,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 239303,
       "name": "Law & Order pt. 2",
       "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
@@ -9840,7 +9880,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 144431,
       "name": "Luv Drunk",
       "url": "https://open.spotify.com/track/0QOXUbu5PXFPEsle2RphS2"
@@ -10163,6 +10203,42 @@
     },
     {
       "album": {
+        "name": "Mean B*tch",
+        "url": "https://open.spotify.com/album/3brZqded9BBCMN3UjALyPO"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Mean B*tch",
+      "url": "https://open.spotify.com/track/4DdSyO7nkxCNlYq9trzJAP"
+    },
+    {
+      "album": {
+        "name": "The Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1HzcqRkO0Er7vl8YGDCygZ"
+      },
+      "artists": [
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146261,
+      "name": "Meant 4 You",
+      "url": "https://open.spotify.com/track/6mlW6aQ4SF29Nu5QGAAWIB"
+    },
+    {
+      "album": {
         "name": "MEET ME THERE",
         "url": "https://open.spotify.com/album/7FzLa6NtwX7GiOhjbBPCZV"
       },
@@ -10258,6 +10334,24 @@
       "duration_ms": 132475,
       "name": "Migo Shit (feat. Quavo)",
       "url": "https://open.spotify.com/track/769gsFXEqrcWbnkrQT8sz9"
+    },
+    {
+      "album": {
+        "name": "Millions (Jumbo Sounds Mix)",
+        "url": "https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Millions - Jumbo Sounds Mix",
+      "url": "https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q"
     },
     {
       "album": {
@@ -10548,7 +10642,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 221831,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/2vIBxrS00rAslgAhL4mqHY"
@@ -11146,7 +11240,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 137931,
       "name": "Nasty Dancer",
       "url": "https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3"
@@ -11482,6 +11576,24 @@
       "duration_ms": 149701,
       "name": "Nino",
       "url": "https://open.spotify.com/track/3vkQqaIM82rW6ovsT2Paeg"
+    },
+    {
+      "album": {
+        "name": "Trick City (Deluxe)",
+        "url": "https://open.spotify.com/album/0s9ht3evRG374jM3oBzQua"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "No Degrees",
+      "url": "https://open.spotify.com/track/3h8eogxxBl7nO0PakCictQ"
     },
     {
       "album": {
@@ -12238,7 +12350,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 136856,
       "name": "Ok Ok Ok",
       "url": "https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v"
@@ -12872,7 +12984,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 128194,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP"
@@ -13762,7 +13874,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 187500,
       "name": "Protect Me From Evil",
       "url": "https://open.spotify.com/track/12zZRWYbmGwLAM3AHGw5Aq"
@@ -14058,6 +14170,24 @@
       "duration_ms": 164746,
       "name": "Rap Niggas",
       "url": "https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr"
+    },
+    {
+      "album": {
+        "name": "Rare Steppa",
+        "url": "https://open.spotify.com/album/0wLWXXmgSUHwIBvgCokK8K"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118377,
+      "name": "Rare Steppa",
+      "url": "https://open.spotify.com/track/4IRcHxTAF48RyFA4rMzV2y"
     },
     {
       "album": {
@@ -14678,7 +14808,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 107993,
       "name": "Robbers and Villains",
       "url": "https://open.spotify.com/track/5ZhrQbLQU0ALDslxXqs3yl"
@@ -17485,6 +17615,24 @@
     },
     {
       "album": {
+        "name": "GENERATIONAL CURSE",
+        "url": "https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs"
+      },
+      "artists": [
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116794,
+      "name": "THE GOV'T GAVE US GUNS",
+      "url": "https://open.spotify.com/track/5gPFQNOEUVoSSoiAPmeDrK"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/53iPXTwxvv6iDhryLzjx3R"
       },
@@ -18214,7 +18362,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 148333,
       "name": "Trapping & Finessing (LOVE Song)",
       "url": "https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb"
@@ -18889,6 +19037,42 @@
     },
     {
       "album": {
+        "name": "Wake That Thang Up",
+        "url": "https://open.spotify.com/album/25KZIVdcl3dn3TrxsiFD54"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145152,
+      "name": "Wake That Thang Up",
+      "url": "https://open.spotify.com/track/3BP4jOOvZgrBkaHo1Jcx7T"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm"
+      },
+      "artists": [
+        {
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112153,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L"
+    },
+    {
+      "album": {
         "name": "Waldo",
         "url": "https://open.spotify.com/album/2emwLEOENheaMwZnXvItID"
       },
@@ -18918,7 +19102,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 142843,
       "name": "WALKED IN",
       "url": "https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF"
@@ -19042,6 +19226,28 @@
       "duration_ms": 143325,
       "name": "We Not Humping - Remix",
       "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+    },
+    {
+      "album": {
+        "name": "Weeks (feat. NoCap)",
+        "url": "https://open.spotify.com/album/1ljMmc8zAt3Ls7AW9JrAO0"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182531,
+      "name": "Weeks (feat. NoCap)",
+      "url": "https://open.spotify.com/track/5dRKpEQl3T67smpyWGD7D4"
     },
     {
       "album": {
@@ -19762,7 +19968,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 112953,
       "name": "Wop It",
       "url": "https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo"

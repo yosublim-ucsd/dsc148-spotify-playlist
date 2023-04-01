@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Rap rom\u00e2ntico pra amolecer os cora\u00e7\u00f5es apaixonados e esquentar o clima.",
+  "description": "aqueles papo de amor, tlgd n\u00e3o?",
   "name": "Flow Romance",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 146870,
       "name": "Aonde Voc\u00ea Vai",
       "url": "https://open.spotify.com/track/6FDnM5lgZhrReSaG1BdMe6"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 207457,
       "name": "Aquela Cena",
       "url": "https://open.spotify.com/track/37RqcDhvyB7ciWYXruB5Sp"
@@ -520,6 +520,28 @@
       "duration_ms": 129250,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4WqeMJePErKQJ0pnOE6oPw"
+    },
+    {
+      "album": {
+        "name": "BABY ME PEDE",
+        "url": "https://open.spotify.com/album/0fxn3QRwIeAuxisw1Ng5jd"
+      },
+      "artists": [
+        {
+          "name": "Renatin",
+          "url": "https://open.spotify.com/artist/5gHDHlTe9wzRlDaPvwJxgV"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "BABY ME PEDE",
+      "url": "https://open.spotify.com/track/0KrP49cStGivTJ6RGIsGiF"
     },
     {
       "album": {
@@ -1004,7 +1026,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 210000,
       "name": "Casual",
       "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
@@ -2578,7 +2600,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 185739,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6dv0kYjuj6YjSHm4y1GPYU"
@@ -2678,6 +2700,32 @@
       "duration_ms": 162551,
       "name": "Maria",
       "url": "https://open.spotify.com/track/3Y3TUJekHaFusRGJtWnEQW"
+    },
+    {
+      "album": {
+        "name": "Mas Existe um Lugar (speed)",
+        "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141615,
+      "name": "Mas Existe um Lugar - speed",
+      "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
     },
     {
       "album": {
@@ -3051,6 +3099,32 @@
     },
     {
       "album": {
+        "name": "NEM SEI",
+        "url": "https://open.spotify.com/album/1neIGYEI8oVsVA7uGzUJ4m"
+      },
+      "artists": [
+        {
+          "name": "kLap",
+          "url": "https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "NEM SEI",
+      "url": "https://open.spotify.com/track/5BHciqc8K9MwFA8DdZjuBT"
+    },
+    {
+      "album": {
         "name": "Netflix",
         "url": "https://open.spotify.com/album/1fo6v7v7BwAe8i24snmyLU"
       },
@@ -3084,7 +3158,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 176000,
       "name": "Nossa cena",
       "url": "https://open.spotify.com/track/4hwHj34DXGqKvRkU3IWRwz"
@@ -3784,7 +3858,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 156097,
       "name": "Planos",
       "url": "https://open.spotify.com/track/1aUFFFit7FQrtDetTz5aOZ"
@@ -3960,6 +4034,28 @@
       "duration_ms": 135230,
       "name": "P\u00e9ssimo em Despedida",
       "url": "https://open.spotify.com/track/5rSt9trEpjeUJJqvKPcoEh"
+    },
+    {
+      "album": {
+        "name": "Quando Ce Volta Aqui?",
+        "url": "https://open.spotify.com/album/7iBdroMUjf31rN29KtD1JN"
+      },
+      "artists": [
+        {
+          "name": "Must",
+          "url": "https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "Quando Ce Volta Aqui?",
+      "url": "https://open.spotify.com/track/4SGzRWBRSyZqMvJbQZq8rV"
     },
     {
       "album": {
@@ -4200,7 +4296,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 196923,
       "name": "Roupas no Ch\u00e3o",
       "url": "https://open.spotify.com/track/3qE9OsjCqqqoPt37gteH7c"
@@ -4281,6 +4377,40 @@
     },
     {
       "album": {
+        "name": "Sal e Pimenta",
+        "url": "https://open.spotify.com/album/4Q01Qsm0wa9EqSfzJsmSsf"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "Sal e Pimenta",
+      "url": "https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN"
+    },
+    {
+      "album": {
         "name": "Se Eu Falhei",
         "url": "https://open.spotify.com/album/0nwZA8g6vvpBbQ9kon3FlL"
       },
@@ -4304,6 +4434,32 @@
       "duration_ms": 177595,
       "name": "Se Eu Falhei",
       "url": "https://open.spotify.com/track/7fltehcRKtCLn1ddVz53vM"
+    },
+    {
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104145,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
     },
     {
       "album": {
@@ -4418,6 +4574,24 @@
       "duration_ms": 205104,
       "name": "Ser\u00e1 Que Eu Posso...",
       "url": "https://open.spotify.com/track/38cV5MAHO41fMPrJoDTUmG"
+    },
+    {
+      "album": {
+        "name": "Ser\u00e1?",
+        "url": "https://open.spotify.com/album/57RuTZsU1fepATDckY87c8"
+      },
+      "artists": [
+        {
+          "name": "dreko",
+          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194589,
+      "name": "Ser\u00e1?",
+      "url": "https://open.spotify.com/track/3tdzYQGavoWCl8gkPcxywd"
     },
     {
       "album": {

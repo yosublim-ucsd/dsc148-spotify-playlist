@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,916 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,870 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 25 | [Please Come Home For Christmas](https://open.spotify.com/track/1ThD4PsOGfnO9a14FcEiTd) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Please Come Home For Christmas](https://open.spotify.com/album/2VMY6ng8JtPwoH0hNJMlMY) | 2:51 |
 | 26 | [It Must Be Christmas](https://open.spotify.com/track/5RS5bZyibXXrYZQX5IO4cu) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [It Must Be Christmas](https://open.spotify.com/album/5qOU1WzKaITOYxjtwZAgaZ) | 3:31 |
 | 27 | [This Christmas](https://open.spotify.com/track/641ODRLX1Mq1cOB9P0cBcz) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [This Christmas](https://open.spotify.com/album/6LwBtWz865RO1FsEt7ZJhV) | 3:26 |
-| 28 | [Up On The House Top](https://open.spotify.com/track/5p3UXnTGlYfXVZZxydTDBE) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Super Deluxe\)](https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o) | 2:16 |
+| 28 | [Up on the House Top](https://open.spotify.com/track/5p3UXnTGlYfXVZZxydTDBE) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Super Deluxe\)](https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o) | 2:16 |
 | 29 | [Little Saint Nick](https://open.spotify.com/track/6luTECHWWvGbAft9qmBGPL) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 2:36 |
 | 30 | [I'll Be Home For Christmas](https://open.spotify.com/track/5RMuRiyV5fVzQriQjGyIhp) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Cody Johnson Christmas](https://open.spotify.com/album/0cLuZfaaFMtFmMIadVO0z8) | 4:05 |
 | 31 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/438duiec0gQXAN50WW5aaS) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 2:54 |

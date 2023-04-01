@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-830 songs - 1 day 19 hr 13 min
+831 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 | 2021-06-04 | 2022-07-29 |
 | [honey thighs](https://open.spotify.com/track/3EJD8hq4Q7rP4jUMhfAraj) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [honey thighs](https://open.spotify.com/album/2QVkZAHv7GuTRzv9gvYdIu) | 4:44 | 2020-06-12 | 2021-08-28 |
 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 | 2021-04-28 | 2022-12-15 |
-| [Honeycomb](https://open.spotify.com/track/2NFlLmWIusCPE5yrBUgRXO) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Honeycomb](https://open.spotify.com/album/7hEIQU3XSx8m7J58zZxL3C) | 2:54 | 2022-03-04 |  |
+| [Honeycomb](https://open.spotify.com/track/2NFlLmWIusCPE5yrBUgRXO) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Honeycomb](https://open.spotify.com/album/7hEIQU3XSx8m7J58zZxL3C) | 2:54 | 2022-03-04 | 2023-04-01 |
 | [Honeypie](https://open.spotify.com/track/6JqYhSdTE4WbQrMXxPH5cD) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Honeypie](https://open.spotify.com/album/3JMNN9Fv4kbEZqt4tFwHFZ) | 2:15 | 2019-07-30\* | 2022-04-27 |
 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 | 2021-02-27 |  |
 | [Horizon](https://open.spotify.com/track/4Lnc66MRFX5HW70V4umIOo) | [Local Boy](https://open.spotify.com/artist/34Ze0nb54KG3gietZGFZIj) | [Local Boy Helps Himself](https://open.spotify.com/album/41XIGI1BikbTxWuDL6lDwT) | 3:44 | 2021-05-21 | 2021-05-28 |
@@ -394,7 +394,7 @@
 | [In Uh Breeze](https://open.spotify.com/track/2pDVWbHyh5tIp2TlDhUBzG) | [Monica Riskey](https://open.spotify.com/artist/3JpHMpV3QOd4qrz7Jfkw7w) | [In Uh Breeze](https://open.spotify.com/album/4JTz2v69vN9CIJl2EuqpEr) | 2:18 | 2019-07-30\* | 2020-04-24 |
 | [Indecision](https://open.spotify.com/track/3awX3r7giTXvHXhTUVRp5M) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Indecision](https://open.spotify.com/album/4WX7tjpZChkvTTa7AyyJ23) | 2:32 | 2020-08-11 | 2021-04-13 |
 | [Ingenuine](https://open.spotify.com/track/5jZjtbBYlFTsO0ynbukcFN) | [Nolan Garrett](https://open.spotify.com/artist/7pt1EL2DIGAZeqgnXBXYxM) | [Ingenuine](https://open.spotify.com/album/6a2ZXqvCPPuNeL19mxhR6S) | 3:12 | 2020-10-16 | 2021-05-27 |
-| [internet crush](https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [internet crush](https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H) | 3:22 | 2023-02-10 |  |
+| [internet crush](https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [internet crush](https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H) | 3:22 | 2023-02-10 | 2023-04-01 |
 | [Into](https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Into](https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f) | 3:59 | 2021-09-10 | 2022-07-29 |
 | [Is It Light Where You Are](https://open.spotify.com/track/4ovFkkzBZV8XSh7YwTlQe2) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Is It Light Where You Are](https://open.spotify.com/album/0SBNec5DGoqI8O5szAqXHp) | 4:57 | 2021-08-13 | 2022-04-21 |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2022-09-14 | 2023-01-17 |
@@ -585,6 +585,7 @@
 | [Purple Haze](https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Purple Haze](https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj) | 3:18 | 2020-08-11 | 2021-08-28 |
 | [Questions](https://open.spotify.com/track/2DDakV5xNzIBA1BsL40bPS) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Questions](https://open.spotify.com/album/2tt1rj0WeBQVQhv3Rplg2f) | 3:40 | 2021-07-19 | 2022-07-29 |
 | [Radio](https://open.spotify.com/track/3PIY13DaeOoaRpJK32NxLg) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Radio](https://open.spotify.com/album/4uQWh3KmwaiYyj8Zkyh9bS) | 3:02 | 2021-07-19 | 2022-07-28 |
+| [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 | 2023-03-31 |  |
 | [Rapaz](https://open.spotify.com/track/14ATHYF1QK0nW6v1NxE9ux) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Rapaz](https://open.spotify.com/album/6k5Z3sIOEvRTzmwSOBhm2W) | 3:47 | 2021-03-10 | 2021-05-27 |
 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 | 2022-03-04 |  |
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2021-04-12 | 2022-04-21 |
@@ -777,7 +778,7 @@
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-04-29 |
 | [Volvernos a Ver](https://open.spotify.com/track/37KNkyB6TDqVYrNl2ZXwK6) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Canciones Que Hice en Mi Habitación](https://open.spotify.com/album/1Gr7WNfsyWx3d3ZYhqd9y5) | 1:04 | 2021-05-15 | 2021-05-27 |
 | [Voyage](https://open.spotify.com/track/7fLKkKXKRMOSx9UMhJkNo9) | [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Voyage](https://open.spotify.com/album/6FRJuikLEt3T5aToUFIEva) | 2:39 | 2021-08-27 | 2022-04-16 |
-| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 | 2023-03-21 |
+| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 |  |
 | [VVS](https://open.spotify.com/track/2V7HUZS37OpOR2TLxWZPC4) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [Freaks and Wild Things](https://open.spotify.com/album/4cxHPZ1YROwurrbsei3h58) | 3:20 | 2022-09-14 | 2022-12-16 |
 | [VVS](https://open.spotify.com/track/7BgsZCBMarOfvTkHQXe1TQ) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/5LbjS306ZqHJSBM0MiPIQo) | 3:20 | 2021-11-19 | 2022-06-08 |
 | [Waiter](https://open.spotify.com/track/57DgZXPfjOBt5BIAH1H2bg) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [You Don't See Me](https://open.spotify.com/album/00FxI3tMsgKkAfNr5TBCLC) | 3:17 | 2019-12-14 | 2021-05-28 |

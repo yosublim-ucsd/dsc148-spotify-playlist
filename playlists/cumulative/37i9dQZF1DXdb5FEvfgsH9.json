@@ -1821,6 +1821,32 @@
     },
     {
       "album": {
+        "name": "Sweet Chocolate",
+        "url": "https://open.spotify.com/album/5BVVVTZBCxSdPnD53cTdwe"
+      },
+      "artists": [
+        {
+          "name": "Bliss Station",
+          "url": "https://open.spotify.com/artist/14nuxkCmtQBF2SJfwl6vLu"
+        },
+        {
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
+        },
+        {
+          "name": "Ehiorobo",
+          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184409,
+      "name": "Sweet Chocolate",
+      "url": "https://open.spotify.com/track/4z3v6YfD5j0DiP2zE6cdYb"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4ucIAgu9h7BnQJHMZ6Bb52"
       },

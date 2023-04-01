@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-175 songs - 9 hr 40 min
+178 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Faint Qualm for the Future](https://open.spotify.com/track/3d17chntySsgXtt8Z3MYBF) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Faint Qualm for the Future](https://open.spotify.com/album/6eTvBtQolExQPxDkqKUtZv) | 2:41 | 2022-01-28 |  |
 | [a gift](https://open.spotify.com/track/1CmQKnFJKWTesGSSQ2noNL) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 2:59 | 2022-07-22 |  |
 | [a gift](https://open.spotify.com/track/3t9TjrFxUNKOUDvItLsTEo) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 2:59 | 2021-12-10 | 2022-07-29 |
+| [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 | 2023-03-31 |  |
 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 | 2021-12-10 |  |
 | [About Coming and Leaving](https://open.spotify.com/track/6DQ0d8YVCs0wi1zHN0fedq) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [About Coming and Leaving](https://open.spotify.com/album/1jXegZ2mzIXJZHjlaD9NLf) | 2:07 | 2021-12-10 |  |
 | [All Clear](https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:44 | 2022-07-22 | 2023-02-19 |
@@ -134,6 +135,7 @@
 | [Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, "Mélodie" \(arr\. I\. Friedman for piano\)](https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8) | [Ignaz Friedman](https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg), [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b) | 4:11 | 2022-07-22 |  |
 | [Orfeo ed Euridice, Wq\. 30: Danse des champs\-elysées "Mélodie" \(Arr\. I\. Friedman for Piano\)](https://open.spotify.com/track/0DG5cVgVt7821x2rAv0ny2) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/0nSivM2elIAkluEDaG7GWQ) | 4:11 | 2021-12-10 | 2022-07-29 |
 | [Outside](https://open.spotify.com/track/1R5P9ersiA9xKk00JEXfSU) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Outside](https://open.spotify.com/album/108OAvmRUCY02QqJ3C4OT0) | 1:58 | 2021-12-10 |  |
+| [Passage](https://open.spotify.com/track/4HMf8DnYWNpEbjgvQJFWl6) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Passage](https://open.spotify.com/album/4BdE3Lt7eLlGKR2Fd4S4bv) | 5:12 | 2023-03-31 |  |
 | [Patterns, Erase \- Simeon Walker Rework](https://open.spotify.com/track/74MpGOOWWTuNzkKuo27rYe) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Patterns, Erase \(Simeon Walker Rework\)](https://open.spotify.com/album/0TK2nWJwMLvoRhIpCqCdOS) | 4:31 | 2021-12-10 |  |
 | [Playful \(variation\)](https://open.spotify.com/track/1I4cxChIWYjvltRLmCkSzS) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Playful \(variation\)](https://open.spotify.com/album/6fvp2YRouRDaQ1zHilukLA) | 3:17 | 2021-12-10 | 2022-07-29 |
 | [Playful \(variation\)](https://open.spotify.com/track/2vrY8qX7KWe8RGNQYLVix5) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:17 | 2022-07-22 |  |
@@ -165,6 +167,7 @@
 | [The First Day](https://open.spotify.com/track/3bM1rGq4A21d9fsTsHfDDB) | [Nico Pistolesi](https://open.spotify.com/artist/0KGZu0Jtfq6sQ2CVbPEccR) | [The First Day](https://open.spotify.com/album/3yrF6SRjPWXNEidFUI4q4T) | 3:01 | 2021-12-10 | 2023-03-04 |
 | [The Weight Of Fear](https://open.spotify.com/track/1QCAEjOCUPePqYLZTQ0UuQ) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Weight Of Fear](https://open.spotify.com/album/1znZjWMZo7qMlYadTcn8G0) | 3:13 | 2021-12-10 | 2023-03-15 |
 | [Thirty](https://open.spotify.com/track/3VkJtin5wvok5H43TN4xv5) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Thirty](https://open.spotify.com/album/4h5DGFxPNsrOW3wxs2miTY) | 2:34 | 2022-01-21 |  |
+| [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 | 2023-03-31 |  |
 | [Time Spent](https://open.spotify.com/track/3ZLzPbSOw4OfVqa5zyEWCu) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Owl Splinters](https://open.spotify.com/album/0UCWmdeObrNjjW92mA6bRn) | 2:09 | 2021-12-10 | 2023-01-04 |
 | [Transience](https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/2AL2HensOEJzbPA6rsfJIE) | 2:59 | 2022-07-22 |  |
 | [Transience](https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA) | 2:59 | 2021-12-10 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-199 songs - 12 hr 26 min
+201 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Get Out](https://open.spotify.com/track/6WLtfOdxB7FdmY7GePc6us) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Get Out](https://open.spotify.com/album/0cdFr8n7xLEV616xKYN2kT) | 2:41 | 2022-06-10 | 2022-07-23 |
 | [Get Your Head Right](https://open.spotify.com/track/0iPRmHlbc2egmnpS1GEz4I) | [Jim Suhler & Monkey Beat](https://open.spotify.com/artist/60iSiwrXbu8RweNR6ZvAG6) | [Get Your Head Right](https://open.spotify.com/album/4Y6VXXguQxpZz2vY79fg5u) | 3:27 | 2023-02-03 |  |
 | [Ghostrider](https://open.spotify.com/track/70cwVFHonl7K3PEtaohgAz) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ghostrider](https://open.spotify.com/album/7fV9Bc20rWlAdAILFGK5jL) | 3:15 | 2022-09-02 | 2022-09-26 |
-| [Go Away Satan](https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mind Control](https://open.spotify.com/album/61RXKxgnQEomHQlbgVXYdt) | 6:15 | 2021-11-05 |  |
+| [Go Away Satan](https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mind Control](https://open.spotify.com/album/61RXKxgnQEomHQlbgVXYdt) | 6:15 | 2021-11-05 | 2023-04-01 |
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2020-10-16 |  |
 | [Gone to Stay](https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ) | [John Norum](https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh) | [Gone to Stay](https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E) | 4:16 | 2022-10-28 |  |
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-24 |  |
@@ -95,6 +95,7 @@
 | [Innocence Of Youth \- Live](https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Innocence Of Youth](https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg) | 5:00 | 2022-10-28 |  |
 | [Into The Midnight Sun](https://open.spotify.com/track/4aGwqnQRU1nQuDuqGkNnoR) | [Electric Boys](https://open.spotify.com/artist/0zRRk9Oe6owoIi3cY5yWk4) | [Into The Midnight Sun](https://open.spotify.com/album/4tV6FOGhLdQHSospIkbDfc) | 3:54 | 2022-04-26 |  |
 | [Just Takes Time](https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/52jRQHJzlln2SkAfYQnLQC) | 3:09 | 2022-06-03 |  |
+| [Karma](https://open.spotify.com/track/3VIwNFzZScES4Mp1DLLE3X) | [Katie O'Malley](https://open.spotify.com/artist/6okmBH0CynrW1oDQCaGjSQ) | [Karma](https://open.spotify.com/album/52kgNqpBJ9HaXsB1EeZ8G7) | 4:14 | 2023-03-31 |  |
 | [Karma](https://open.spotify.com/track/6wFtwvkZ0j0ldpQkc1RvRn) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Karma](https://open.spotify.com/album/07FCM8eqY33fC2pXikSD3Y) | 4:00 | 2020-10-16 |  |
 | [Keep Up](https://open.spotify.com/track/3k1GpN1mzkzpXsJun3T5br) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Keep Up](https://open.spotify.com/album/15lRMZm1okutfln1ZBX2GG) | 3:32 | 2021-04-09 |  |
 | [Keep Up](https://open.spotify.com/track/6eUXiwxjHI3RblcwckJ7Qq) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Keep Up](https://open.spotify.com/album/5kNJLJiLAEMMq8b909JBsY) | 3:32 | 2021-03-19 | 2022-08-05 |
@@ -140,6 +141,7 @@
 | [Poison the Water](https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [Poison the Water](https://open.spotify.com/album/0Hl9xfHPd8mm0JTBBf7T9H) | 3:51 | 2022-09-16 | 2022-10-15 |
 | [Prosecution Blues](https://open.spotify.com/track/6DdX7BH2VJzfcjIAlyyPzk) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Prosecution Blues](https://open.spotify.com/album/3GvnjHR6Vm28smZDaxS0Ww) | 3:53 | 2021-07-16 | 2022-07-29 |
 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 | 2020-10-16 | 2023-03-04 |
+| [Riders](https://open.spotify.com/track/6qqUXdg4bduFMCf83hZ1pm) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Riders](https://open.spotify.com/album/4ApVp6TSwuXfwmPP4qKtO4) | 3:40 | 2023-03-31 |  |
 | [Roll Bones](https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [All Of This Life](https://open.spotify.com/album/0Xe0NMbJ7t8dTv0wiTH3wi) | 3:41 | 2020-10-16 | 2022-09-03 |
 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 | 2020-10-16 |  |
 | [Rubberband](https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH) | [Jesse Redwing](https://open.spotify.com/artist/7E2iToLix5cqUAgbR7zswK) | [Rubberband](https://open.spotify.com/album/1jdW9CDZQtIRFb4ReH2XcB) | 3:38 | 2020-10-16 |  |
@@ -174,7 +176,7 @@
 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 | 2020-10-16 |  |
 | [The Drop](https://open.spotify.com/track/4RaIGi86fsQ34SC4r7nGf5) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/7uDSOgunaHsoMJchpIU44T) | 3:39 | 2020-10-16 | 2022-07-25 |
 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 | 2020-10-16 | 2023-03-04 |
-| [The Fighter](https://open.spotify.com/track/6P4peUgiAimtvhWWxLlDg3) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/1JMIEYKIxNWLqSKxGLKtxv) | 4:20 | 2021-12-17 |  |
+| [The Fighter](https://open.spotify.com/track/6P4peUgiAimtvhWWxLlDg3) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/1JMIEYKIxNWLqSKxGLKtxv) | 4:20 | 2021-12-17 | 2023-04-01 |
 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 | 2020-10-16 |  |
 | [The Mould](https://open.spotify.com/track/1jPljtqOC6hH1imHy4NcLy) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/2bREEW7AtYFG8yZLr6M0N7) | 3:59 | 2022-06-03 |  |
 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 | 2020-10-16 |  |

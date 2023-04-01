@@ -4,7 +4,7 @@
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Hard Driver
 
-280 songs - 15 hr 12 min
+281 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Lift Me Up](https://open.spotify.com/track/6e7FmgZJ9TMRZObKBC9kbl) | [Mandy](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Lift Me Up](https://open.spotify.com/album/2SXeCXid6oiZJYc24PBKKC) | 2:50 | 2022-12-08 | 2022-12-16 |
 | [Like A Lion](https://open.spotify.com/track/2kxeK97qaeEnpwIJDPYCQG) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Like A Lion](https://open.spotify.com/album/6KdB1uh7yYtDq5VKnja2ui) | 3:19 | 2022-12-08 | 2023-01-13 |
 | [Like Heaven \(feat\. Erich Lennig\)](https://open.spotify.com/track/7i7oPqYGMYhJfCJGk7xHzF) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Erich Lennig](https://open.spotify.com/artist/2T7bdw0TFPa9G27D2cVNCh) | [Like Heaven \(feat\. Erich Lennig\)](https://open.spotify.com/album/6IFbbcZCpftg3FvweeotuZ) | 2:47 | 2022-12-08 | 2023-02-10 |
-| [Live 4 Ever](https://open.spotify.com/track/1MyP9m0My4lyc5C1eOnDw7) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/7Huvuo5IBlbH5EDrW0EFKS) | 2:13 | 2023-03-30 |  |
+| [Live 4 Ever](https://open.spotify.com/track/1MyP9m0My4lyc5C1eOnDw7) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/7Huvuo5IBlbH5EDrW0EFKS) | 2:13 | 2023-03-30 | 2023-04-01 |
+| [Live 4 Ever](https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/4RT18SyW0vxHw7pjmfEQZS) | 2:13 | 2023-03-30 |  |
 | [Live It Up](https://open.spotify.com/track/5ouMOJteIfXL10TlfXHeWw) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Live It Up](https://open.spotify.com/album/75hlXBtKOaV0GssyMaROgw) | 3:36 | 2023-02-09 | 2023-03-10 |
 | [Living My Dream](https://open.spotify.com/track/3OyswLwDhSbU6HZjzHAHZG) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [The Keymaker](https://open.spotify.com/album/3VJP1S5BqSvdubd7qqi6jS) | 3:32 | 2022-12-08 | 2023-02-10 |
 | [Lock And Load](https://open.spotify.com/track/2wQUSMZ9JFVF5pd48rMcCU) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Lock And Load](https://open.spotify.com/album/4DYk7asrtEb9W0CAQl1jDA) | 3:57 | 2022-12-15 | 2023-03-31 |

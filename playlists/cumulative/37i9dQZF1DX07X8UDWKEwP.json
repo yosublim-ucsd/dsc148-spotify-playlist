@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 160856,
       "name": "ADI\u00d3S",
       "url": "https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r"
@@ -518,6 +518,28 @@
       "duration_ms": 240555,
       "name": "Besame XXX",
       "url": "https://open.spotify.com/track/3Vpw562wr7JptY0d2HwrfG"
+    },
+    {
+      "album": {
+        "name": "Besito en la Boca",
+        "url": "https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk"
+      },
+      "artists": [
+        {
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        },
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "Besito en la Boca",
+      "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
     },
     {
       "album": {
@@ -1950,7 +1972,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 185252,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
@@ -1968,7 +1990,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 245000,
       "name": "La Mujer",
       "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
@@ -2242,6 +2264,24 @@
       "duration_ms": 210173,
       "name": "Mala Gente",
       "url": "https://open.spotify.com/track/1oM8KdFWH0flv5E2SDhGov"
+    },
+    {
+      "album": {
+        "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+        "url": "https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213998,
+      "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+      "url": "https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D"
     },
     {
       "album": {
@@ -3928,7 +3968,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 206442,
       "name": "Sopita",
       "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"

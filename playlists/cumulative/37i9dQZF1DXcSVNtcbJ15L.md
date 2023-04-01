@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-77 songs - 3 hr 37 min
+78 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Espelho Meu](https://open.spotify.com/track/7JDV1Mw6D8IQJst0w3NYmD) | [Dimitre](https://open.spotify.com/artist/4mzh8Rz93TKnaChyWoZGxz) | [Espelho meu](https://open.spotify.com/album/3uxyRYWIKDu89kIbt1AoUa) | 3:12 | 2022-04-29 |  |
 | [Eu Preciso Fugir Daqui](https://open.spotify.com/track/4nHnd42dlZe4pvmEVl3Yst) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Eu Preciso Fugir Daqui](https://open.spotify.com/album/4YiFLVrTe54WuZrcjrsFoD) | 3:28 | 2022-04-29 |  |
 | [Faz Calor](https://open.spotify.com/track/3ZaK8PfUPouyYTjg1FwBrg) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Faz Calor](https://open.spotify.com/album/0atczb3hWSrMtRyOhvFXUM) | 2:21 | 2022-04-29 |  |
-| [Flores na Janela](https://open.spotify.com/track/2yrzG5NOawjNKKWqoQgcGb) | [Rafa!](https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO) | [Tudo Que Posso Deixar no Caminho](https://open.spotify.com/album/6WS1zDyXMRZS0oAWi0xHzR) | 2:54 | 2023-01-20 |  |
+| [Flores na Janela](https://open.spotify.com/track/2yrzG5NOawjNKKWqoQgcGb) | [Rafa!](https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO) | [Tudo Que Posso Deixar no Caminho](https://open.spotify.com/album/6WS1zDyXMRZS0oAWi0xHzR) | 2:54 | 2023-01-20 | 2023-04-01 |
 | [Fogo](https://open.spotify.com/track/7ev64ImfrKOFhReYZ0AJBj) | [VENVS](https://open.spotify.com/artist/2ocUyV60vAnpvfuqszD3XG), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Fogo](https://open.spotify.com/album/36N0m4UtqwvrfpLWd6aFKi) | 2:40 | 2022-04-29 |  |
 | [Frio na Barriga](https://open.spotify.com/track/2hZ6Ap7gFkSoGBOFHw89Ql) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Frio na Barriga](https://open.spotify.com/album/26JIFAIG2z4jDSVK75vHr3) | 4:13 | 2022-04-29 |  |
 | [Gumball](https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Gumball](https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd) | 2:41 | 2022-07-01 | 2023-01-21 |
@@ -79,6 +79,7 @@
 | [Te Vi Passar](https://open.spotify.com/track/49jP8SX1HfjBi5cw3g8Ctq) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Te Vi Passar](https://open.spotify.com/album/5Cmil5GE8LJ46Nu1Yw1690) | 2:14 | 2022-04-29 |  |
 | [Terça de Tarde](https://open.spotify.com/track/2XyHmHCOvNogoRiWBA1L1I) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde](https://open.spotify.com/album/0hEmoFuvmyY7UOTUElgLmu) | 1:49 | 2022-04-29 |  |
 | [Terça de Tarde 2](https://open.spotify.com/track/3MlMMabvVmUVrAGHekqAOn) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde 2](https://open.spotify.com/album/7y3db4Z73wTyMTCacTcUtL) | 2:16 | 2022-04-29 |  |
+| [Tão Fácil](https://open.spotify.com/track/2hkiGoGHrT9KjagXN6Hs6s) | [Pxrtela](https://open.spotify.com/artist/78kdqxAPboMi6VkSw6uwMd), [Terin](https://open.spotify.com/artist/5EJnD0xePd6KNus2Oc5l0y) | [Tão Fácil](https://open.spotify.com/album/6E6k9VOkclaeC15CTevSOC) | 2:42 | 2023-03-31 |  |
 | [Tão Sem Graça!](https://open.spotify.com/track/28JOaLfd5WnRPlT4dNDgCz) | [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [O Amor Me Deixa...](https://open.spotify.com/album/1QIzh4aquIHhjljm06jqUr) | 2:11 | 2022-06-24 | 2022-07-23 |
 | [Urano](https://open.spotify.com/track/4EJNoAGrRzb9020WLghozN) | [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Louwiz](https://open.spotify.com/artist/0Q7iTb96HAijk2P0kQ9Xp3) | [Urano](https://open.spotify.com/album/7AvojkVgptdIw9PBtW9uwY) | 2:49 | 2022-04-29 |  |
 | [VERÃO DA LATA](https://open.spotify.com/track/4wUmnHlr4iogXJJEinjX5q) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [VERÃO DA LATA](https://open.spotify.com/album/5cgpuZRjShzDMoHav6aT7X) | 2:12 | 2022-04-29 |  |

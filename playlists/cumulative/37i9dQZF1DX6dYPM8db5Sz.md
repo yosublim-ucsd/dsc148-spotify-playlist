@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=4t\_J5jMpTr2yNzZbx\_vgyA">Lloyiso</a>
 
-233 songs - 13 hr 30 min
+234 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Heart's with You](https://open.spotify.com/track/1MMJpmRPegpVB71ra9pQGf) | [Jonty Hartwig](https://open.spotify.com/artist/1UR2SVto1m74aOrhbzOkTK) | [Heart's with You](https://open.spotify.com/album/3spyfyRwUeAW8T8VCwgE8o) | 4:06 | 2022-07-21 | 2022-11-01 |
 | [Here Like The Rain](https://open.spotify.com/track/6Sd3bSqCaZ5O9Tn0m0P6IC) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Here Like The Rain](https://open.spotify.com/album/7kra5GGwK8ActnTZw50jHo) | 3:38 | 2022-10-20 | 2023-01-13 |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2023-01-12 | 2023-01-20 |
+| [Hide & Seek](https://open.spotify.com/track/1gfQQt60plVWAATT1kGzWn) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Hide & Seek](https://open.spotify.com/album/2IUWiVMWbkBrkCNer03wwk) | 2:50 | 2023-03-30 |  |
 | [Hold Me Down](https://open.spotify.com/track/3dqjCz5iXTjKumvHOpQFLw) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Hold Me Down](https://open.spotify.com/album/5eENAlmncUhYojSv3POYj9) | 3:52 | 2023-03-02 |  |
 | [Hold On](https://open.spotify.com/track/4EwRv7Q0XyJhysfvECpQpo) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [Hold On](https://open.spotify.com/album/6ft539JcvK2JnTzd8zp2as) | 3:42 | 2022-09-22 | 2022-11-01 |
 | [HOME](https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [HOME](https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv) | 3:17 | 2022-11-03 | 2023-01-27 |

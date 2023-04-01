@@ -1,13 +1,29 @@
 {
   "description": "Be inspired and let the music heal your soul and uplift your spirits.",
-  "num_followers": 33198,
+  "num_followers": 33207,
   "original_name": "Sing His Praises",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDA4MTg4MiwwMDAwMDAwMDFhZTNhMTk0NzM0NDdiMDFmNDZlNjNjMzUwN2Q3Mjkw",
+  "snapshot_id": "MTY4MDI0NTQ2MCwwMDAwMDAwMDlmMzUyMWE0MDMxMWQzYmM5N2NiNTg1ZTg4YjQzNWQ0",
   "tracks": [
+    {
+      "added_at": "2023-03-29 09:24:42",
+      "album": {
+        "name": "Wonderstruck",
+        "url": "https://open.spotify.com/album/0CpE0Qa69lByhqnOSYHsC0"
+      },
+      "artists": [
+        {
+          "name": "AWAKE84",
+          "url": "https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg"
+        }
+      ],
+      "duration_ms": 278806,
+      "name": "Wonderstruck",
+      "url": "https://open.spotify.com/track/66kjME9bCPZyk8mL6cgEys"
+    },
     {
       "added_at": "2023-03-29 06:58:52",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 253044,
       "name": "Showers of Love",
       "url": "https://open.spotify.com/track/6TCAsOAsWZTwtI1SG22Ah3"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "SAMO",
+        "url": "https://open.spotify.com/album/7exJ5yEqzDtyCXwsFy7SA4"
+      },
+      "artists": [
+        {
+          "name": "Nicole & Carlo",
+          "url": "https://open.spotify.com/artist/7Ehj6xOK6PahCxb8CyOS60"
+        }
+      ],
+      "duration_ms": 270857,
+      "name": "SAMO",
+      "url": "https://open.spotify.com/track/1dIXJgoo9JsbkmEX6BSCET"
     },
     {
       "added_at": "2023-03-29 06:58:52",
@@ -43,6 +75,30 @@
       "duration_ms": 265196,
       "name": "Ikaw Ang Pag-ibig",
       "url": "https://open.spotify.com/track/1wUSsvDFhZwwbtpiUeYl2h"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Jad Gillies",
+          "url": "https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 271586,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/0HiR1fErIN1CgzLyzBFhDw"
     },
     {
       "added_at": "2023-03-29 06:58:52",
@@ -81,20 +137,88 @@
       "url": "https://open.spotify.com/track/3nVI3y69ibD4DfgAT30dUv"
     },
     {
-      "added_at": "2023-03-29 09:24:42",
+      "added_at": "2023-03-31 06:51:00",
       "album": {
-        "name": "Wonderstruck",
-        "url": "https://open.spotify.com/album/0CpE0Qa69lByhqnOSYHsC0"
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
       "artists": [
         {
-          "name": "AWAKE84",
-          "url": "https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 278806,
-      "name": "Wonderstruck",
-      "url": "https://open.spotify.com/track/66kjME9bCPZyk8mL6cgEys"
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "Nothing Is Impossible (Tagalog Version)",
+        "url": "https://open.spotify.com/album/3w0EPoqOH21BOPYfZORYwq"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "duration_ms": 245688,
+      "name": "Nothing Is Impossible (Tagalog Version)",
+      "url": "https://open.spotify.com/track/5bIfEy5ND1XLIozSI6nY1x"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "SUMASALANGIT",
+        "url": "https://open.spotify.com/album/0gbnXnnrDu85LXuMZcXp5o"
+      },
+      "artists": [
+        {
+          "name": "Judah Vibar",
+          "url": "https://open.spotify.com/artist/027cRwJWoGBJ54pT7yMZ9Q"
+        }
+      ],
+      "duration_ms": 327900,
+      "name": "SUMASALANGIT",
+      "url": "https://open.spotify.com/track/5SUO3VivayfBeZ4lxOFtBJ"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "Take Heart (Again)",
+        "url": "https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
       "added_at": "2023-02-23 08:44:20",
@@ -111,6 +235,30 @@
       "duration_ms": 287785,
       "name": "O AMING DAKILA",
       "url": "https://open.spotify.com/track/2vunLy3AxDewz0SQpyuRiq"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+        "url": "https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 598622,
+      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
     },
     {
       "added_at": "2023-02-23 08:44:20",
@@ -133,6 +281,26 @@
       "url": "https://open.spotify.com/track/0QOIZMsc6tV1UsNEk6Ao9x"
     },
     {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Josh Kpozehouen",
+          "url": "https://open.spotify.com/artist/6lqVPpXm5sED9guM2fnx6x"
+        }
+      ],
+      "duration_ms": 307896,
+      "name": "Delightful (The Sower Never Wastes A Tear)",
+      "url": "https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN"
+    },
+    {
       "added_at": "2023-02-23 08:44:20",
       "album": {
         "name": "MAPAYAPA (WATERWALK Sessions Version)",
@@ -153,6 +321,22 @@
       "url": "https://open.spotify.com/track/2HPehVMri8sxetneSsiI3J"
     },
     {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "Kay Buti Buti Mo Panginoon",
+        "url": "https://open.spotify.com/album/0DJsbDzh4VWj3A8diEbRVe"
+      },
+      "artists": [
+        {
+          "name": "Oswald PH",
+          "url": "https://open.spotify.com/artist/753ZE0RrSAhNLNlJfUvi9N"
+        }
+      ],
+      "duration_ms": 180532,
+      "name": "Kay Buti Buti Mo Panginoon",
+      "url": "https://open.spotify.com/track/4USpxYHu8IgXAEfDbz4he5"
+    },
+    {
       "added_at": "2023-02-23 08:44:20",
       "album": {
         "name": "SEARCH ME (WATERWALK Sessions Version)",
@@ -167,6 +351,22 @@
       "duration_ms": 240156,
       "name": "SEARCH ME - WATERWALK Sessions Version",
       "url": "https://open.spotify.com/track/3EVZnYSGzDsdLdUNiPLJ6V"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Our God",
+      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
     },
     {
       "added_at": "2023-02-23 08:44:20",
@@ -247,6 +447,22 @@
       "duration_ms": 268541,
       "name": "BUNTONG HININGA",
       "url": "https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK"
+    },
+    {
+      "added_at": "2023-03-31 06:51:00",
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
     },
     {
       "added_at": "2023-02-23 08:44:20",

@@ -330,7 +330,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 141610,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98"
@@ -1840,6 +1840,28 @@
       "duration_ms": 137952,
       "name": "Oi Oi Oi",
       "url": "https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v"
+    },
+    {
+      "album": {
+        "name": "Pega Pega",
+        "url": "https://open.spotify.com/album/61GhWu3UEDaYkXbIcLWNJW"
+      },
+      "artists": [
+        {
+          "name": "FTampa",
+          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
+        },
+        {
+          "name": "The Otherz",
+          "url": "https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Pega Pega",
+      "url": "https://open.spotify.com/track/3c65eVJXgjdGXjsfLjqy6D"
     },
     {
       "album": {

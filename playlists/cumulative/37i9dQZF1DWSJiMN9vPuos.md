@@ -2,7 +2,7 @@
 
 ### [Sample This](https://open.spotify.com/playlist/37i9dQZF1DWSJiMN9vPuos)
 
-> Where the past meets the present\. Cover: KenTheMan
+> Where the past meets the present\. Cover: Metro Boomin
 
 66 songs - 3 hr 17 min
 

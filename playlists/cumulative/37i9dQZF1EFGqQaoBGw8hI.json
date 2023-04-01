@@ -6138,10 +6138,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 150675,
       "name": "Rocketman",
       "url": "https://open.spotify.com/track/1K8cppD0meJwkenTeH8JyN"
+    },
+    {
+      "album": {
+        "name": "Musica Instrumental",
+        "url": "https://open.spotify.com/album/6PQ3CCbrQBotRxLtI7XWF8"
+      },
+      "artists": [
+        {
+          "name": "Saxophone Rufus",
+          "url": "https://open.spotify.com/artist/252rReS6Vt8eAzlmLaG7zs"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150675,
+      "name": "Rocketman",
+      "url": "https://open.spotify.com/track/1ZW95JjHgOYiGmGlepYSZN"
     },
     {
       "album": {

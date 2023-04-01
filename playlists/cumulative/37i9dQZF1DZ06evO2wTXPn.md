@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 12 min
+53 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [Kapitel 2.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/6Lax6hORnWTLolXwEBEZm8) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:52 | 2023-03-20 |  |
 | [Kapitel 3.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/7prZIfKOmh3he01CQT1IR5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 4:34 | 2023-03-24 | 2023-03-31 |
 | [Kapitel 3.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/6s7OHMiFJb3AhF5LdLBOjg) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:25 | 2023-03-24 |  |
+| [Kapitel 3.4 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/47HyVMD5hpNbA49T0G2bRS) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:05 | 2023-03-31 |  |
 | [Kapitel 3.5 & Kapitel 4.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/7bvhVi8QhVxWVj4XRgXrMt) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:09 | 2023-03-20 | 2023-03-27 |
 | [Kapitel 4.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/226qIu0Z9Kryuaj6Eqy1Ro) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:13 | 2023-03-20 | 2023-03-22 |
-| [Kapitel 4.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/2XVVyz643oxZQTOLLOF42t) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 4:38 | 2023-03-20 |  |
+| [Kapitel 4.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/2XVVyz643oxZQTOLLOF42t) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 4:38 | 2023-03-20 | 2023-04-01 |
 | [Kapitel 4.4 & Kapitel 5.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/5hMl0n8DL41e7jRaI5fTVR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:40 | 2023-03-20 | 2023-03-22 |
 | [Kapitel 5.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/1BdmIEWEmG9nwqzIHQnU9M) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 5:19 | 2023-03-26 |  |
 | [Kapitel 5.3 & Kapitel 6.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/43ol5y74hLh1p3VPJnagBh) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:16 | 2023-03-24 | 2023-03-30 |

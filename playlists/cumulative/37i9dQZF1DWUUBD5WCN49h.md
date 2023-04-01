@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=f5xUkCYQR\_6Cx8RzfhTXsg"> Bloody Samaritan </a>
+> New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=f5xUkCYQR\_6Cx8RzfhTXsg"> Bloody Civilian </a>
 
-329 songs - 16 hr 21 min
+331 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Down](https://open.spotify.com/track/2nYGKBTVBTyEU319Oo7lJr) | [Pariah](https://open.spotify.com/artist/23nc1fZrp58KsnzSL9rae4) | [The Tower](https://open.spotify.com/album/1k1wO0MdpT7QdfwP4brWck) | 3:42 | 2023-03-17 |  |
 | [DTMV \(Don't Touch My Vision\)](https://open.spotify.com/track/66ebvi27vMsoytonqo7A3D) | [Khalifina](https://open.spotify.com/artist/79MzTwzDXHZkVoX4He1l2l) | [DTMV \(Don't Touch My Vision\)](https://open.spotify.com/album/6yawCJDZwZDV5KDvCzAYzS) | 1:28 | 2022-10-21 | 2022-11-04 |
 | [Elastic](https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Klue](https://open.spotify.com/artist/4EtGe6B8EF4QeSK3m8nNNg), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Elastic](https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS) | 2:31 | 2023-02-03 | 2023-02-17 |
+| [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 | 2023-03-31 |  |
 | [Energy Deluxe](https://open.spotify.com/track/6d9Y2I0IkTJmidbK7XXwtK) | [PhanxxSungChild](https://open.spotify.com/artist/0uqYSiKFzfhX67Grz9r2Fx), [Kristina Ray](https://open.spotify.com/artist/53AGyRLNiAqPKiFrdtbnZo) | [Energy Deluxe](https://open.spotify.com/album/3Iik7ZP7wYDFgZeOVtHcM5) | 3:28 | 2023-02-16 | 2023-03-18 |
 | [Escape](https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Escapade](https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke) | 3:14 | 2023-01-13 |  |
 | [Every Girl’s Boyfriend](https://open.spotify.com/track/236uspPWnM0MLm6dHooe34) | [Xbusta](https://open.spotify.com/artist/4MXhHvUOSehGxYEXHioArJ) | [Every Girl’s Boyfriend](https://open.spotify.com/album/0tGRl65KAW1eXqn5ZOU25H) | 2:44 | 2022-09-29 | 2022-10-14 |
@@ -176,7 +177,7 @@
 | [Loke](https://open.spotify.com/track/1apR6WcaNHQWq8a6pa8SIx) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [DELLFIRE](https://open.spotify.com/artist/5m7IITJVbhoq5Yl5JWXkpu) | [Loke](https://open.spotify.com/album/4m7EBwoAEN19Ncyi8t1kOt) | 3:48 | 2022-09-09 | 2022-12-09 |
 | [lonely forever](https://open.spotify.com/track/7367yPl8eNATrjThrwXq1l) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [lonely forever](https://open.spotify.com/album/2mZewkfHwNjs54Yb9tomvv) | 3:45 | 2023-03-30 |  |
 | [Loud](https://open.spotify.com/track/7ti7kLqyFSubl97L5jqKQi) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:27 | 2022-06-30 | 2023-02-04 |
-| [Love](https://open.spotify.com/track/08r8dLobzYIZLrlKlf5zzI) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 4:10 | 2022-06-30 |  |
+| [Love](https://open.spotify.com/track/08r8dLobzYIZLrlKlf5zzI) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 4:10 | 2022-06-30 | 2023-04-01 |
 | [Love Me](https://open.spotify.com/track/5OG3fwH8vjE3pU6FwFVI5x) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Love Me](https://open.spotify.com/album/4NSFkhmvAQIaXL9f1Qw57e) | 3:18 | 2022-09-29 | 2023-01-28 |
 | [Love Sick](https://open.spotify.com/track/5jahNLedLxT9dTBcgb6hMn) | [Kwabsmah](https://open.spotify.com/artist/7zHkgmNbakU3qbOTVxYnYT) | [Love Sick](https://open.spotify.com/album/3TnN0O1Q5BPdNzxbHgVncD) | 2:43 | 2022-11-15 | 2022-12-14 |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 | 2023-02-04 |
@@ -217,7 +218,7 @@
 | [Off Sabbatical](https://open.spotify.com/track/2cAwWyyyZ6nShhQIBFa4p2) | [chrisdem](https://open.spotify.com/artist/1lDaj57sTgf14qAS52zvG2) | [Off Sabbatical](https://open.spotify.com/album/2VswipNG04mZXofMWsbqEx) | 3:15 | 2023-03-03 | 2023-03-11 |
 | [OH OH](https://open.spotify.com/track/3IKNLvjbfXmr9xaZQmBqPz) | [Gillian Baci](https://open.spotify.com/artist/2wVzSBbiE5VqVrfD2h4IWc) | [OH OH](https://open.spotify.com/album/4qa907HswR0PYRpclwrzs5) | 3:23 | 2023-02-03 | 2023-02-11 |
 | [Oha](https://open.spotify.com/track/2PZlJEj06ZZZAe13OdHM22) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Crave](https://open.spotify.com/album/15OKHri5NUgFB11KpzmfW3) | 3:12 | 2022-06-30 | 2022-11-04 |
-| [Old Wineskins](https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Old Wineskins](https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV) | 3:44 | 2022-10-21 |  |
+| [Old Wineskins](https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Old Wineskins](https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV) | 3:44 | 2022-10-21 | 2023-04-01 |
 | [Oluwa](https://open.spotify.com/track/0rWjze81rTIMxvGvZ1ZYVr) | [Sixfour](https://open.spotify.com/artist/1xNLra4AMOKN22iBjfy2u9) | [Oluwa](https://open.spotify.com/album/2UdTzDod1mP9ueD9PiUiHa) | 2:57 | 2023-02-03 | 2023-02-11 |
 | [Omalicha](https://open.spotify.com/track/5f8X74uHDBh0eFOL7g4CWt) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Omalicha](https://open.spotify.com/album/6SlEjoDoVojyRAkQuZhTxJ) | 3:45 | 2022-06-30 | 2022-12-02 |
 | [On My Guitar](https://open.spotify.com/track/1nXO0bSQ1woURewpcq9jpY) | [Robin\-Huws](https://open.spotify.com/artist/1RcO4pGVPhNqj44hJL8bjA) | [On My Guitar](https://open.spotify.com/album/5VMJ8C8kf36pSdS8PdKsYO) | 2:37 | 2023-03-10 |  |
@@ -314,7 +315,7 @@
 | [Tomorrow](https://open.spotify.com/track/0UvMp8sLgiaeI1q5dAWM2x) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Tomorrow](https://open.spotify.com/album/2sydbZbc7bIHVVk022HevT) | 2:55 | 2023-02-10 | 2023-02-17 |
 | [Too Early](https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Too Early](https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS) | 3:26 | 2023-03-17 | 2023-03-31 |
 | [Touch](https://open.spotify.com/track/2I2SwHn2UQ0ikHGCqbhDru) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci), [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS) | [Touch](https://open.spotify.com/album/5QSy0gLXf5rdtjV5vHUmdX) | 3:25 | 2023-02-03 | 2023-02-11 |
-| [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:47 | 2023-03-30 |  |
+| [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 |  |
 | [Two Weeks](https://open.spotify.com/track/5QxGoE7pn8Ghbl0N1leBop) | [Yinka](https://open.spotify.com/artist/35eH57prThKuUM0PXgQ8zE) | [Two Weeks](https://open.spotify.com/album/5YHA2bxiQfLfKWbmFiWTZN) | 2:45 | 2022-11-15 | 2022-11-19 |
 | [Uni Girl](https://open.spotify.com/track/2rekd1QW4K9WkrgAvijMuQ) | [DBYZ](https://open.spotify.com/artist/702Dqp8Ls4Ep2o3wWD6Kz5) | [Second Impression](https://open.spotify.com/album/48VnWJEgNGFL5fyeA6UqEH) | 4:00 | 2022-12-08 | 2023-01-14 |
 | [Unpopular Opinion](https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Unpopular Opinion](https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK) | 3:11 | 2022-10-13 | 2022-11-04 |
@@ -337,5 +338,6 @@
 | [Your Mind](https://open.spotify.com/track/4bruz4SVwYjjcIBtuBEN3n) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Your Mind](https://open.spotify.com/album/6Hz8dBX8nHEjlyEF8Fg2na) | 3:25 | 2023-03-17 |  |
 | [Zero Gravity / Fuck Your Boyfriend](https://open.spotify.com/track/6aGNLkgOW5GyYmyVo1QArZ) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR) | [Timeline](https://open.spotify.com/album/3lS3KVaV1xFz7YLV7FSIMj) | 3:12 | 2023-02-16 | 2023-02-24 |
 | [Zombie](https://open.spotify.com/track/7eCBkV136O7Fw0ZUo3k1FH) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:30 | 2022-09-23 | 2022-11-19 |
+| [Șìjú](https://open.spotify.com/track/1AdtVUOSzAP3gqVfPFwaAF) | [DamianNedu](https://open.spotify.com/artist/0FARDKvRkS7ZB2PJRC2WWO) | [Șìjú](https://open.spotify.com/album/0ekcscZVDCz96SKZPeeKZY) | 3:51 | 2023-03-31 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

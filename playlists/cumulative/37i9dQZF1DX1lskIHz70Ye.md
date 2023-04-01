@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-153 songs - 7 hr 42 min
+154 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 | 2022-03-03 | 2022-10-29 |
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-03-03 |  |
 | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/track/59DQVi45MItdwdyBP4A7dg) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Luis Orlandini](https://open.spotify.com/artist/5fTpeqnj9uWvbqwQiUo3PW), [Raimundo Luco](https://open.spotify.com/artist/5tF1ThzwEZEjowMN64pfbY) | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/album/31M8OK3WgX3VrNCmijGZMk) | 4:39 | 2022-08-05 |  |
+| [Ebro](https://open.spotify.com/track/7iWSfu4622gZ0g1U2g51BT) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Ebro](https://open.spotify.com/album/4bonBhQZAj1VtE3pBxooke) | 3:22 | 2023-03-31 |  |
 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 | 2022-03-03 |  |
 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 | 2022-03-03 | 2022-10-29 |
 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 | 2022-03-03 | 2022-07-22 |

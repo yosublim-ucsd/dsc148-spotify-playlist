@@ -592,10 +592,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 131172,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/2PG3D6a0BaldrZB9W0FPuv"
+    },
+    {
+      "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/3My0pUnHR2Vn0GUIvAkdii"
+      },
+      "artists": [
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131172,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/7snMDOhoYrd4oQpVjPv3Ut"
     },
     {
       "album": {

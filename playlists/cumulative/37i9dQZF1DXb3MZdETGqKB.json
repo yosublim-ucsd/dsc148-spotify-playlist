@@ -484,8 +484,12 @@
           "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
         },
         {
-          "name": "Taj Mahal/Jontavious Willis",
-          "url": "https://open.spotify.com/artist/0ba4sXZdJUx0VmLPHD4YQf"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Jontavious Willis",
+          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
         }
       ],
       "date_added": "2023-03-24",
@@ -3203,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68"
+    },
+    {
+      "album": {
         "name": "Talk To You",
         "url": "https://open.spotify.com/album/0koP38sKFmgO6GNRXM87MT"
       },
@@ -3326,7 +3348,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 272274,
       "name": "The City Streets (Ps.23)",
       "url": "https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG"
@@ -3994,6 +4016,28 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
+    },
+    {
+      "album": {
+        "name": "Bob Corritore & Friends: Women In Blues Showcase",
+        "url": "https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166975,
+      "name": "You're Gonna Be Sorry",
+      "url": "https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov"
     },
     {
       "album": {

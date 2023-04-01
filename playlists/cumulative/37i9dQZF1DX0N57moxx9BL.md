@@ -4,13 +4,14 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-140 songs - 9 hr 14 min
+141 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adhd](https://open.spotify.com/track/2tPy8C6z3eUWGC1iQr4ysZ) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Hurricane](https://open.spotify.com/album/36VsMgbY28pCqkiO95mRm9) | 3:13 | 2021-05-28 |  |
 | [Alive Again](https://open.spotify.com/track/2Qs5QhWKIA0rIwTluk1eC6) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Closer To Chaos](https://open.spotify.com/album/6sBVH05QGfPRLAH99AeKH9) | 3:34 | 2021-05-28 | 2022-03-12 |
-| [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 | 2021-05-28 |  |
+| [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 | 2021-05-28 | 2023-04-01 |
+| [All of Me](https://open.spotify.com/track/6YVeVuB9KpwAeQcKjVEE7k) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [Let the Light In](https://open.spotify.com/album/3a3YrkBHzsgTJq8gtZh9Fh) | 3:43 | 2023-02-17 |  |
 | [All That Matters](https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [All That Matters](https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5) | 3:17 | 2023-02-17 |  |
 | [Angels vs Demons](https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW) | 4:18 | 2022-10-29 |  |
 | [Anger](https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Anger](https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb) | 6:16 | 2022-03-11 | 2023-02-18 |

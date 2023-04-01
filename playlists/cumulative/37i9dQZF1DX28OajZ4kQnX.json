@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Miniboss",
+        "url": "https://open.spotify.com/album/4MTYeWaHWKvawDznM65IyG"
+      },
+      "artists": [
+        {
+          "name": "MC Yallah",
+          "url": "https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg"
+        },
+        {
+          "name": "Debmaster",
+          "url": "https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178656,
+      "name": "Miniboss",
+      "url": "https://open.spotify.com/track/65oBaIpOVZXMeeLAH1MZtU"
+    },
+    {
+      "album": {
         "name": "TRUTH & RIGHTS",
         "url": "https://open.spotify.com/album/6VfbwPYvbTiJUAbzKcbk7C"
       },
@@ -1520,7 +1542,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 249382,
       "name": "UG Yaffe - Allstar Remix",
       "url": "https://open.spotify.com/track/5aVwVbXFiwwkk9u629WTMe"

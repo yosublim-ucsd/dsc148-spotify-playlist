@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Harlem Stars",
+          "url": "https://open.spotify.com/artist/5J4ZUjIIEFtqhr3Jlhrt5f"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Bad Luck Got My Man",
+      "url": "https://open.spotify.com/track/0kbDkZ4f0rgBbk6MEBDboq"
+    },
+    {
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -302,7 +324,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 305893,
       "name": "Everything Gonna Be Alright",
       "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
@@ -400,7 +422,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 263306,
       "name": "Guide Me Home",
       "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
@@ -418,7 +440,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7H8a0ZcXknPTS3myoea6cE"
@@ -526,7 +548,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 156200,
       "name": "How Come",
       "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
@@ -664,7 +686,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 143840,
       "name": "I've Searched the World Over",
       "url": "https://open.spotify.com/track/0bvOaYXInXq13aY6mPUaih"
@@ -1480,7 +1502,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 164002,
       "name": "The Big Change",
       "url": "https://open.spotify.com/track/3bZBypHEmW6TUx7JVHJ5FB"
@@ -1754,7 +1776,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 163866,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL"

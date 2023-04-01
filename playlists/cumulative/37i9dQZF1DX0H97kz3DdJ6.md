@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-107 songs - 5 hr 8 min
+108 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Quando a Gente Briga](https://open.spotify.com/track/6xa79iVBuj8VYcXRb7CEbO) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma), [Rakky](https://open.spotify.com/artist/7Gf8nW5S8PtsnSkeeglQej) | [Quando a Gente Briga](https://open.spotify.com/album/6kJqYkJVUU8tE9uHICPQSi) | 3:25 | 2022-07-22 |  |
 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 | 2022-07-22 |  |
 | [Que não te falte amor](https://open.spotify.com/track/7sD8XcvDat0Xd2zoZUOYWU) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/01pvBMfl3wD6V1DAxk8CQr) | 2:43 | 2022-05-20 | 2022-07-29 |
+| [Refém](https://open.spotify.com/track/0ZpxV0SqDnurbFT8hgNzdv) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kayno](https://open.spotify.com/artist/1HwPQ8sTeEufVDCt2XfLlb) | [Refém](https://open.spotify.com/album/2HvYrLDBJGix3ntnQgC1QY) | 2:10 | 2023-03-31 |  |
 | [Rosas Voam](https://open.spotify.com/track/2W7K7gcNAZQXoyEDENJyEy) | [Mateustom](https://open.spotify.com/artist/3LN4cOR1DA6dPpi0w45bBb) | [Rosas Voam](https://open.spotify.com/album/6PpyaaEdjiywoC6REwtEQ9) | 5:06 | 2022-05-20 |  |
 | [Saída](https://open.spotify.com/track/3Lud2t0VgvILTFl1dyXDDY) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [Saída](https://open.spotify.com/album/5aztfQfRFt2UpLbTgpMelw) | 2:24 | 2022-05-20 |  |
 | [Sempre Acaba Assim](https://open.spotify.com/track/7o7PicsmexJW2FPu3gcaBj) | [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [C4stell](https://open.spotify.com/artist/42jMx9PiWgz7skNs857ZGi), [pluglip](https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV) | [Sempre Acaba Assim](https://open.spotify.com/album/47Oh6HPoh386WEj2hAh0PS) | 2:08 | 2022-09-30 | 2022-10-15 |

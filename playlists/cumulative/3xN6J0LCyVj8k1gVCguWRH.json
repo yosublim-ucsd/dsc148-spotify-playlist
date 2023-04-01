@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 198602,
       "name": "ADDICTED",
       "url": "https://open.spotify.com/track/4jVEHJXqOgXXwZDv0idl5d"
@@ -37170,6 +37170,24 @@
       "duration_ms": 151578,
       "name": "Up on Me",
       "url": "https://open.spotify.com/track/4W5P0XK73J0DRbrgbRr2Pg"
+    },
+    {
+      "album": {
+        "name": "ur Love",
+        "url": "https://open.spotify.com/album/1SVeATwnhbdMbpz56SwgDg"
+      },
+      "artists": [
+        {
+          "name": "haks",
+          "url": "https://open.spotify.com/artist/6FXKS5R7VtpGugMIrd7727"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226341,
+      "name": "ur Love",
+      "url": "https://open.spotify.com/track/01W5WozKg4erCEN7PNQZar"
     },
     {
       "album": {

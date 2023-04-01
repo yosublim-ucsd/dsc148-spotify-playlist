@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Matt Holubowski",
+  "description": "A laid-back trip in the folk scene. Cover: Billianne",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 301828,
       "name": "alibi",
       "url": "https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7"
+    },
+    {
+      "album": {
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227352,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi"
     },
     {
       "album": {
@@ -568,7 +586,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 155982,
       "name": "Better",
       "url": "https://open.spotify.com/track/0JHKOlL6X1BG2nigAlfI45"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 256107,
       "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
@@ -1080,6 +1098,36 @@
       "duration_ms": 182083,
       "name": "Concussion",
       "url": "https://open.spotify.com/track/44QZDutuB7stlBUk7fH5O3"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cool About It",
+      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
       "album": {
@@ -1184,7 +1232,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 283912,
       "name": "Currents",
       "url": "https://open.spotify.com/track/4wZlPWevkIrsHo4Wr5oIRt"
@@ -1566,7 +1614,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
@@ -2198,7 +2246,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 216951,
       "name": "For the Sake of Comedy",
       "url": "https://open.spotify.com/track/7m34UcmXaQzdpOUl71WUsR"
@@ -2256,6 +2304,24 @@
       "duration_ms": 238706,
       "name": "Fucked It Up",
       "url": "https://open.spotify.com/track/6YQYqDVVu774K0eFLiuKAo"
+    },
+    {
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199179,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
     },
     {
       "album": {
@@ -2733,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "I Don't Live Here Anymore",
+        "url": "https://open.spotify.com/album/5YZg6tXn4z1kPX30tJ8scD"
+      },
+      "artists": [
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186922,
+      "name": "I Don't Live Here Anymore",
+      "url": "https://open.spotify.com/track/7ECJeHWuydb003xEiqUnn1"
+    },
+    {
+      "album": {
         "name": "I Feel It",
         "url": "https://open.spotify.com/album/4ubQDotUd6fO1TDA7CBQn7"
       },
@@ -2838,7 +2922,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 198346,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/6Tzq8VMhkc2Oq1SBlHtKNS"
@@ -3477,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6uh2IXCgoBx14okaNQfcCV"
+      },
+      "artists": [
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153446,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/0eIrSjlA3j1rCNcFNh6Ipl"
+    },
+    {
+      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
@@ -3679,6 +3781,24 @@
     },
     {
       "album": {
+        "name": "Make No Mistakes",
+        "url": "https://open.spotify.com/album/3WMpLhAIpkQrimjZlk4XRJ"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Make No Mistakes",
+      "url": "https://open.spotify.com/track/0YT0OGtTkkYOlqVXfMOqE5"
+    },
+    {
+      "album": {
         "name": "Maybe (Live Acoustic)",
         "url": "https://open.spotify.com/album/3Xj9GyEPyLKCL2jRSFfE0s"
       },
@@ -3780,7 +3900,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 234028,
       "name": "Miles Are Wide",
       "url": "https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK"
@@ -3878,6 +3998,24 @@
       "duration_ms": 268246,
       "name": "Mother Love",
       "url": "https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP"
+    },
+    {
+      "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/3GCGJNpU4nRVw1uRPvJV0o"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143866,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1oE33RydbNjm4mjdniFNth"
     },
     {
       "album": {
@@ -4418,7 +4556,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 114382,
       "name": "Out of Body",
       "url": "https://open.spotify.com/track/7jMnEpPgvHmFBdLuDnQqVl"
@@ -6766,6 +6904,24 @@
       "duration_ms": 256995,
       "name": "What Remains",
       "url": "https://open.spotify.com/track/718WbSuYzjlBxu4MshY3e0"
+    },
+    {
+      "album": {
+        "name": "When Did I Grow Up?",
+        "url": "https://open.spotify.com/album/2HNtL0Gt037SCCMV1r5DcF"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169537,
+      "name": "When Did I Grow Up?",
+      "url": "https://open.spotify.com/track/5OQc60sLFAKinNJpZ2QDr4"
     },
     {
       "album": {

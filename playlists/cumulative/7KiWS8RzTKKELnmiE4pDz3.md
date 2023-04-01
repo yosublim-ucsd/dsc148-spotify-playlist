@@ -4,7 +4,7 @@
 
 > 
 
-414 songs - 18 hr 26 min
+416 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [globe](https://open.spotify.com/track/7sMpcpvDcXqRu6fwRj4D2H) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [globe](https://open.spotify.com/album/5mkWBx2xqAQp4z2yPzdfco) | 2:13 | 2022-12-21 |  |
 | [Gloria](https://open.spotify.com/track/52OXCYEGrvfWnynur5Ixyb) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [Not Coming Back](https://open.spotify.com/album/2F0QYNXXarfN8zSylcPVO3) | 2:34 | 2022-09-19 |  |
 | [Go Thru Trees](https://open.spotify.com/track/5rus9zh6rb5KL3NCb5uk1r) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Virtuous](https://open.spotify.com/album/1TFaFAKNXMlIeU65RasS9a) | 2:03 | 2022-03-20 |  |
+| [God's Child!](https://open.spotify.com/track/4ctJYLCZayN8ENoCFA21pM) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy) | 2:33 | 2023-03-31 |  |
 | [Goin Back 2 Ella](https://open.spotify.com/track/3VQhU8rnOgfSmtBDW7K9Dg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:51 | 2023-01-25 |  |
 | [Goin' To Hell](https://open.spotify.com/track/3opC4kS9RpbNJw7aORFmGF) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Oxy & Codeine](https://open.spotify.com/album/35UOSWUudVMViGWMUXiNQC) | 1:08 | 2022-05-24 |  |
 | [Golden Child!](https://open.spotify.com/track/6SB97vEyrYAd6sjnwoeLqj) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-08-27 |  |
@@ -164,6 +165,7 @@
 | [Hit Bout It](https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Bout It](https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0) | 2:57 | 2022-10-18 |  |
 | [Hobos](https://open.spotify.com/track/2tOUQ0d8EePqpJltokyhWo) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Hobos](https://open.spotify.com/album/4i0w8RJhXhNU5SdLQPj7w7) | 1:12 | 2023-01-06 |  |
 | [Hollywood](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:01 | 2022-07-23 |  |
+| [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 | 2023-03-31 |  |
 | [How Did We Know?](https://open.spotify.com/track/78rgKkKbtMOR182mR13HYZ) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Mr.Perfect](https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4) | 2:29 | 2022-07-17 |  |
 | [How It Feels](https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:46 | 2022-06-19 |  |
 | [How it go](https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:04 | 2023-02-28 |  |

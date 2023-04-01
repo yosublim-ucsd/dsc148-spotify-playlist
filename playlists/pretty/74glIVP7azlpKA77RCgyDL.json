@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Creeping Death",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Kommand",
   "num_followers": 7702,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjYwNCwxMjdlYjZlZmVmY2M3MmNmNTNjOWEwMTA2NzMxMDgyNzZmZmQ5YmVk",
+  "snapshot_id": "MjYxMyxkYmE1NzE2Y2JmZjA4ZjIwMTYwMTA5ZTJlMzhlZGQ2MGEyZGRmNjAz",
   "tracks": [
+    {
+      "added_at": "2023-03-31 19:18:49",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
+    },
+    {
+      "added_at": "2023-03-31 19:18:58",
+      "album": {
+        "name": "The Migrant",
+        "url": "https://open.spotify.com/album/5pkKdqw83QB8q5LXxWRoyO"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 240112,
+      "name": "The Migrant",
+      "url": "https://open.spotify.com/track/1pzjl4Y0VrDPhLE6MxGYkx"
+    },
+    {
+      "added_at": "2023-03-31 19:19:06",
+      "album": {
+        "name": "The Frozen Lake, Pt. II (The Ruined)",
+        "url": "https://open.spotify.com/album/620P8lwd4EtJaUsH5evlCN"
+      },
+      "artists": [
+        {
+          "name": "Worm Shepherd",
+          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
+        }
+      ],
+      "duration_ms": 455397,
+      "name": "The Frozen Lake, Pt. II (The Ruined)",
+      "url": "https://open.spotify.com/track/0J6fZNclXaZp8AXLdwXoOP"
+    },
+    {
+      "added_at": "2023-03-31 19:19:18",
+      "album": {
+        "name": "YES ALL MEN",
+        "url": "https://open.spotify.com/album/2sijNGBuZIOSGzSreKHVZg"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 143265,
+      "name": "YES ALL MEN",
+      "url": "https://open.spotify.com/track/4Lz2uH0ywXpEg5XWI99cwn"
+    },
+    {
+      "added_at": "2023-03-31 19:19:25",
+      "album": {
+        "name": "Death Age",
+        "url": "https://open.spotify.com/album/2gFXUc4YEPP610doUSoN2f"
+      },
+      "artists": [
+        {
+          "name": "Kommand",
+          "url": "https://open.spotify.com/artist/2ARiBdiOC3x2yKOjttPE63"
+        }
+      ],
+      "duration_ms": 265280,
+      "name": "Fleeing Western Territories",
+      "url": "https://open.spotify.com/track/0iyJH3IlYWM0kZDr4amw8l"
+    },
+    {
+      "added_at": "2023-03-31 19:19:32",
+      "album": {
+        "name": "Starve",
+        "url": "https://open.spotify.com/album/1NFAlXfwkDbedNfC2rek74"
+      },
+      "artists": [
+        {
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+        }
+      ],
+      "duration_ms": 221613,
+      "name": "Starve",
+      "url": "https://open.spotify.com/track/1tV2sOs3uIJrEdvpfblAqJ"
+    },
     {
       "added_at": "2023-03-24 19:37:03",
       "album": {

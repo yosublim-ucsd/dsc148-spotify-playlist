@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Bright as Yellow",
+        "url": "https://open.spotify.com/album/6ezoVNLVtyhJEvCdr8RuVY"
+      },
+      "artists": [
+        {
+          "name": "Casper Skulls",
+          "url": "https://open.spotify.com/artist/0GKW6ZqOuxZyZNiHlLzhTi"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214957,
+      "name": "Bright as Yellow",
+      "url": "https://open.spotify.com/track/4SENm2zb2HeS8ZPC3pCic2"
+    },
+    {
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
       },

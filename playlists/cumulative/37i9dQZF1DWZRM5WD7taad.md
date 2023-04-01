@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Young Miko en portada.
 
-164 songs - 8 hr 35 min
+167 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 | 2022-01-21 | 2023-03-11 |
 | [Kintsugi](https://open.spotify.com/track/5M5DaipN38XHlGQC4Tfa06) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W) | [Kintsugi](https://open.spotify.com/album/0LzlreqpMJPGWsseWggW3k) | 3:44 | 2021-12-13 |  |
 | [La Mexicana](https://open.spotify.com/track/24VM2sOz0yCR2feDyTehmA) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Los González](https://open.spotify.com/album/0sGiueQWjYKzacveBnbY5h) | 4:06 | 2021-12-13 |  |
+| [La Respuesta](https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Respuesta](https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF) | 2:48 | 2023-03-31 |  |
 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 | 2021-12-13 |  |
 | [Las Hijas Del Rap](https://open.spotify.com/track/0ZqIeOJEc6GGFI0remPX2Z) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Las Hijas Del Rap](https://open.spotify.com/album/2yzvkD2AxrxFQDWDy19by8) | 3:00 | 2021-12-13 |  |
 | [Latina P.I.M.P](https://open.spotify.com/track/08FlJMt7zz3rwJzXTCuKqU) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Latina P.I.M.P](https://open.spotify.com/album/1xibpvj8AmWtCR4JpyH33D) | 3:29 | 2022-09-03 | 2023-01-14 |
@@ -121,6 +122,7 @@
 | [No Puedes Parar](https://open.spotify.com/track/0S6bK0SXy9NZxidqc2SERP) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Mujer De Fuego](https://open.spotify.com/album/70JgCMpy5oRmrNSXUWegPY) | 3:36 | 2021-12-13 |  |
 | [No Soy Criminal](https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [No Soy Criminal](https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno) | 3:37 | 2021-12-13 | 2023-02-21 |
 | [Nunca Supiste](https://open.spotify.com/track/0C7ydVc1JJyw3kkthMiGLg) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Nunca Supiste](https://open.spotify.com/album/3bIRrdw5Hjvlb59eiT6Ldo) | 3:56 | 2021-12-13 |  |
+| [OGT](https://open.spotify.com/track/0LMO5H12gYWwmRdosBPW26) | [Isa La Mexicana](https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK) | [OGT](https://open.spotify.com/album/786aXMddhUEql9LBUwN1EP) | 2:46 | 2023-03-31 |  |
 | [Oveja Negra](https://open.spotify.com/track/21g1tdWEHKqsZj5OWfi4Pb) | [Sombrahh](https://open.spotify.com/artist/4dmREIz2avuMDu7jOz4l1W) | [Sombrahh](https://open.spotify.com/album/0KV2HbglTxFo6bCqDyoo1U) | 3:34 | 2021-12-13 |  |
 | [Oye lo que traigo](https://open.spotify.com/track/3oIocMhyo5YBxp3xuMDrn6) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [Gancho Perfecto](https://open.spotify.com/album/0N1yI86d5ZXqxtZk5jl1l5) | 4:56 | 2021-12-13 |  |
 | [Pareparqué](https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6IspoSEx7IJBzP0nKYyiZr) | 3:13 | 2022-10-16 |  |
@@ -137,6 +139,7 @@
 | [Qué Pasó?](https://open.spotify.com/track/1OWKUTJresDbTamd3t9G55) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:20 | 2022-06-27 |  |
 | [RACE](https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [FREE DOLLY / RACE](https://open.spotify.com/album/5fzgYot7HbKytPYWywwLhC) | 2:24 | 2021-12-13 |  |
 | [Renacer](https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MarieV](https://open.spotify.com/artist/3uzYu5ialLsEjbXa5jCEXa), [Bad Panda](https://open.spotify.com/artist/1MtHAFdeExB9QUoEDYN01M) | [Renacer](https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l) | 3:18 | 2023-01-13 | 2023-03-11 |
+| [Revolucionaria](https://open.spotify.com/track/3vnwirrjOder3YXDoey979) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9), [Dirtybird](https://open.spotify.com/artist/5Fk0y674atQID4XYwOIMcc) | [Revolucionaria](https://open.spotify.com/album/0ETiIGDVL0zzM8LoJdGfSF) | 2:27 | 2023-03-31 |  |
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2022-10-16 |  |
 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-08-01 | 2023-02-18 |
 | [Rompiendo Esquemas](https://open.spotify.com/track/39AsaL5KiC1qW3OTrmEBnM) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Dj Kaizen \(Chile\)](https://open.spotify.com/artist/3zRSeoE7Udey1Ggleah4VH) | [Verso… Luego Existo \(The NYC Version\)](https://open.spotify.com/album/2TejLZ73MuwhR4dQMNVAGZ) | 2:59 | 2021-12-13 |  |

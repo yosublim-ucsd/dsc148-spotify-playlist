@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Michael Cleveland",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Mighty Poplar",
   "name": "Grass Roots",
   "tracks": [
     {
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 135746,
       "name": "Bridge You're Gonna Burn",
       "url": "https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj"
@@ -1152,6 +1152,24 @@
       "duration_ms": 178507,
       "name": "Can't Hold Me Down",
       "url": "https://open.spotify.com/track/0hBkrp57ca4CIDqQb2gSy8"
+    },
+    {
+      "album": {
+        "name": "Carolina Avenue",
+        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275146,
+      "name": "Carolina Avenue",
+      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
     },
     {
       "album": {
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 186709,
       "name": "Fare Thee Well",
       "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
@@ -2929,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Highway of Love",
+        "url": "https://open.spotify.com/album/6cW3x9AoHibtZFc1tGBwe5"
+      },
+      "artists": [
+        {
+          "name": "Dalton Harper",
+          "url": "https://open.spotify.com/artist/3U4vzhdX7prKmPTNNv6jet"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151978,
+      "name": "Highway of Love",
+      "url": "https://open.spotify.com/track/0Zn4LyOByD6hUVoIBdGvfO"
+    },
+    {
+      "album": {
         "name": "Moxie and Mettle",
         "url": "https://open.spotify.com/album/1kyZS7aXOPfpWbhpv4vRJy"
       },
@@ -3261,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/3CHiv61vD2CDB7Od4alOta"
+      },
+      "artists": [
+        {
+          "name": "Meredith Moon",
+          "url": "https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224486,
+      "name": "I Loved That Town",
+      "url": "https://open.spotify.com/track/19ZCyJSkkhnpOS6OIn9rHz"
+    },
+    {
+      "album": {
         "name": "I Surely Will Be Singing",
         "url": "https://open.spotify.com/album/1BwqYcEbgcDjELk1LAiEQl"
       },
@@ -3374,6 +3428,32 @@
       "duration_ms": 159724,
       "name": "i. opening (ugento)",
       "url": "https://open.spotify.com/track/55j8dxbE1xHmWQHxzcP552"
+    },
+    {
+      "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/7LXtXnviJBIv3w6r13Olqi"
+      },
+      "artists": [
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/6bPV28MZGhKrAelauCkYto"
+        },
+        {
+          "name": "Wayne Benson",
+          "url": "https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac"
+        },
+        {
+          "name": "Kristin Scott Benson",
+          "url": "https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Icy Cold",
+      "url": "https://open.spotify.com/track/5VMEXtGEJnhJMnNMm7eKj3"
     },
     {
       "album": {
@@ -3752,7 +3832,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
@@ -4667,6 +4747,24 @@
     },
     {
       "album": {
+        "name": "Next to Nothing",
+        "url": "https://open.spotify.com/album/5Zxm5HVEGV7eKpVjzxMhy5"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159320,
+      "name": "Next to Nothing",
+      "url": "https://open.spotify.com/track/0GuigWEDQpaa81QQ8YtsAe"
+    },
+    {
+      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/1tkDlp0M7IIg64m3qFDMwH"
       },
@@ -5218,7 +5316,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 348849,
       "name": "Planets",
       "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
@@ -6284,7 +6382,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 139893,
       "name": "Super Moon",
       "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
@@ -6302,7 +6400,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 263662,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
@@ -6918,7 +7016,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 219826,
       "name": "The Trappings",
       "url": "https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z"
@@ -7016,6 +7114,24 @@
       "duration_ms": 157214,
       "name": "This Old Plane",
       "url": "https://open.spotify.com/track/4VCRlqJr50b8q3zJEkc4Ei"
+    },
+    {
+      "album": {
+        "name": "This Train",
+        "url": "https://open.spotify.com/album/17ZrP4A6MVPFkq94wD2L0B"
+      },
+      "artists": [
+        {
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "This Train",
+      "url": "https://open.spotify.com/track/09iWpYZvWO6BTSliOVFFQ7"
     },
     {
       "album": {
@@ -7542,7 +7658,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"

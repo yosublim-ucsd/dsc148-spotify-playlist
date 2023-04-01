@@ -12243,6 +12243,24 @@
     },
     {
       "album": {
+        "name": "Sz\u00e9lcsend",
+        "url": "https://open.spotify.com/album/4fOnrlqiLpbN8QXxLAJBNP"
+      },
+      "artists": [
+        {
+          "name": "Follow The Flow",
+          "url": "https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158955,
+      "name": "Sz\u00e9lcsend",
+      "url": "https://open.spotify.com/track/5kRKviUY95Ra2asUeqsGBX"
+    },
+    {
+      "album": {
         "name": "SZ\u00cdNVAK",
         "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
       },
@@ -13472,7 +13490,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 122833,
       "name": "Utols\u00f3 dal",
       "url": "https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO"

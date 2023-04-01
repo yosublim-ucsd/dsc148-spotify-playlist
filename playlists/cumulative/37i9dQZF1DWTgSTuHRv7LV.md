@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Peso Pluma, Aleman.
 
-472 songs - 1 day 2 hr 39 min
+473 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Plata](https://open.spotify.com/track/5eekxFFBOvM3w0XiDP1VH7) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Plata](https://open.spotify.com/album/3QLoZGtXUXGBbNdiXF3Egt) | 2:47 | 2022-01-19 | 2022-10-08 |
 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 | 2022-01-19 | 2022-05-14 |
 | [Por Mi México](https://open.spotify.com/track/6f3ISIn47Wyg6X0V8eHMjm) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/6FF9KMDcDJF0pnAfrInopS) | 3:38 | 2022-01-06 | 2022-01-20 |
+| [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 | 2023-03-31 |  |
 | [Problema](https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:53 | 2022-01-19 | 2022-05-14 |
 | [Problemas](https://open.spotify.com/track/2ZyhTy2QNKXBCmq2XbJWaD) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Problemas](https://open.spotify.com/album/6RshZ6diEoUBldSTEeWlEd) | 3:38 | 2022-01-19 | 2022-10-08 |
 | [Problemático](https://open.spotify.com/track/0ZpFL6klWmBauFySgFgURt) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/5e4XIcdU0zAxdqPe4tvcXw) | 4:22 | 2022-12-09 |  |
@@ -367,7 +368,7 @@
 | [Reza por Mi](https://open.spotify.com/track/3Do8Z2k6oTVW7eqiF46sfA) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [MAYKY](https://open.spotify.com/artist/3VyCaogCiEd7hflxCpQFz0) | [Reza por Mi](https://open.spotify.com/album/7lnEF5iwnAUSceidQ6v9nf) | 2:48 | 2022-10-07 | 2022-12-10 |
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-07-15 | 2022-10-08 |
 | [Roca N' Ron](https://open.spotify.com/track/17tWQcqeNO4Hh0RF9gJcvO) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [Manzanas a la Vuelta](https://open.spotify.com/album/4I6lImrXf0vqIjtsPQoOWJ) | 2:36 | 2022-01-06 | 2022-01-19 |
-| [Rolex](https://open.spotify.com/track/3ngemaN0E275eFYjHdrmw0) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Rolex](https://open.spotify.com/album/1LEWufsU7xMe9G83r5DGTt) | 3:58 | 2022-05-13 |  |
+| [Rolex](https://open.spotify.com/track/3ngemaN0E275eFYjHdrmw0) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Rolex](https://open.spotify.com/album/1LEWufsU7xMe9G83r5DGTt) | 3:58 | 2022-05-13 | 2023-04-01 |
 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 | 2022-01-19 | 2022-05-13 |
 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 | 2022-05-13 |  |
 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 | 2022-10-07 |  |

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190232,
+      "name": "a new romance",
+      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
+    },
+    {
+      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -2365,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/4BdE3Lt7eLlGKR2Fd4S4bv"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312373,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/4HMf8DnYWNpEbjgvQJFWl6"
+    },
+    {
+      "album": {
         "name": "Patterns, Erase (Simeon Walker Rework)",
         "url": "https://open.spotify.com/album/0TK2nWJwMLvoRhIpCqCdOS"
       },
@@ -2932,6 +2968,24 @@
       "duration_ms": 154549,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/3VkJtin5wvok5H43TN4xv5"
+    },
+    {
+      "album": {
+        "name": "Through The Blue (Piano Version)",
+        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225494,
+      "name": "Through The Blue - Piano Version",
+      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
     },
     {
       "album": {

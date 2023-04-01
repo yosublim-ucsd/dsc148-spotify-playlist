@@ -1128,7 +1128,7 @@
     {
       "album": {
         "name": "Serpentino",
-        "url": "https://open.spotify.com/album/4K4V9iG4mcGgJjd4vrCj3D"
+        "url": "https://open.spotify.com/album/2gC3fcWI0NmEb30Jcs3cQ2"
       },
       "artists": [
         {
@@ -1139,6 +1139,24 @@
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Choro",
+      "url": "https://open.spotify.com/track/0MxegOfsWLU9ebCMm7nLlP"
+    },
+    {
+      "album": {
+        "name": "Serpentino",
+        "url": "https://open.spotify.com/album/4K4V9iG4mcGgJjd4vrCj3D"
+      },
+      "artists": [
+        {
+          "name": "Lucy Val",
+          "url": "https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
       "duration_ms": 176000,
       "name": "Choro",
       "url": "https://open.spotify.com/track/1wtUhw1rAMZpiPcBERS1l7"

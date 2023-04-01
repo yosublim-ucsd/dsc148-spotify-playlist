@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 414827,
+  "num_followers": 414929,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGE1YzQ4Nzc4YjkxNGU0YTQzNGM1M2UzNjQ2OTRjYmJj",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDZmYmFlN2I3NDFjYzQzYmQ5ZjU5NDlhYTZkNzUwMjU3",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -203,26 +203,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Theres Still Us",
-        "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
-      },
-      "artists": [
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        },
-        {
-          "name": "Shiloh",
-          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "I'm sorry",
-      "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
       },
@@ -255,22 +235,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "disappear",
         "url": "https://open.spotify.com/album/3innYFypOVQEwccHtItsh6"
       },
@@ -283,6 +247,22 @@
       "duration_ms": 109741,
       "name": "disappear",
       "url": "https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -887,6 +867,22 @@
       "duration_ms": 116918,
       "name": "same stars",
       "url": "https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "No I'm Not",
+        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
+      },
+      "artists": [
+        {
+          "name": "Imfinenow",
+          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
+        }
+      ],
+      "duration_ms": 117196,
+      "name": "No I'm Not",
+      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
     }
   ],
   "unique_name": "sad lofi",

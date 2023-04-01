@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. LKJ e Voleur Pnz in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,227 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,267 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 38 | [BULLS](https://open.spotify.com/track/02ziGICyxDi5VHvKkQBkUB) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [BULLS](https://open.spotify.com/album/5uCB7ufT1yu047ld0EY1a0) | 2:32 |
 | 39 | [DRUG DEALERS \(feat\. Sapobully\)](https://open.spotify.com/track/65cwJw7TQRRPUgPgdVHftV) | [Pablo CT1](https://open.spotify.com/artist/7MgujiE0xHTeS5tqBNKRfe), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [DIARIO DI UN PUSHER](https://open.spotify.com/album/4tbTUVR5AXMjxp5unYO9a0) | 2:51 |
 | 40 | [Strade](https://open.spotify.com/track/27zqJfsRqMNZJdI13EnDGF) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5), [NRY](https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s) | [Strade](https://open.spotify.com/album/4FZq38mnAgnwYhNouzOuoG) | 2:49 |
-| 41 | [Va Bene](https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb) | [LOKI](https://open.spotify.com/artist/4kD5wLdwyIuYfcAJIHYbaQ), [Mitch](https://open.spotify.com/artist/3xS4uqr3q6umIa74qTP62H) | [Va Bene](https://open.spotify.com/album/0PFEZ3EBR8Qmyut1QGHfIS) | 1:53 |
+| 41 | [Va Bene](https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb) | [LOKI](https://open.spotify.com/artist/4kD5wLdwyIuYfcAJIHYbaQ), [Mitch](https://open.spotify.com/artist/2KmZCKrcq6twZoa1NrKUnw) | [Va Bene](https://open.spotify.com/album/0PFEZ3EBR8Qmyut1QGHfIS) | 1:53 |
 | 42 | [Polizia](https://open.spotify.com/track/2GOUFt7GPYXSA4UDEqrhGy) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3), [Hicham](https://open.spotify.com/artist/7yPHguk7KYWINERqIQSVAq) | [Polizia](https://open.spotify.com/album/2RnBTvII7lXZgqk9N1qtwR) | 2:06 |
 | 43 | [Equipe 3](https://open.spotify.com/track/4i0LOQjyzfAXDFvVbXPrEd) | [Nuel](https://open.spotify.com/artist/5E3PTmB24Rrp3XW9Xk2Ixs) | [Equipe 3](https://open.spotify.com/album/54WM2s5FvWMjuVNUQamUqE) | 2:46 |
 | 44 | [PROBLEMI](https://open.spotify.com/track/0tQ0qg8v57q56pG8o9Jczt) | [G.Issa](https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI) | [MESSIA](https://open.spotify.com/album/1NY3CkX3Jahf4nKfBrF4LO) | 2:13 |

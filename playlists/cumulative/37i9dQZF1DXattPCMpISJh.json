@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 198386,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/4SeRgGadREC8IIbRuhs6Rd"
@@ -2152,6 +2152,36 @@
       "duration_ms": 280239,
       "name": "Make That Change",
       "url": "https://open.spotify.com/track/176TfrKxalkOzOcSG1Mhyw"
+    },
+    {
+      "album": {
+        "name": "Missing You (Michael Gray Remix)",
+        "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
+      },
+      "artists": [
+        {
+          "name": "Artful",
+          "url": "https://open.spotify.com/artist/1VFA40Lt5TiFr0qWoWNQfw"
+        },
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Terri Walker",
+          "url": "https://open.spotify.com/artist/0x8TJV6fy1BwsZUpHJC13S"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179037,
+      "name": "Missing You - Michael Gray Remix",
+      "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
     },
     {
       "album": {
@@ -2232,7 +2262,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 356612,
       "name": "Never Coming Down",
       "url": "https://open.spotify.com/track/196FDQyfrv7Al62xocxKk5"
@@ -2793,6 +2823,28 @@
     },
     {
       "album": {
+        "name": "So Good To Me (feat. Karen Harding)",
+        "url": "https://open.spotify.com/album/67YrcWduP8KBrTpshIyvJV"
+      },
+      "artists": [
+        {
+          "name": "Hot Toddy",
+          "url": "https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252596,
+      "name": "So Good To Me (feat. Karen Harding)",
+      "url": "https://open.spotify.com/track/3WfuS8tulwcGr7XZX7Qkpw"
+    },
+    {
+      "album": {
         "name": "Seabra",
         "url": "https://open.spotify.com/album/3H7gm0dHWQ4CwHWItkQqIe"
       },
@@ -2826,6 +2878,24 @@
       "duration_ms": 193420,
       "name": "Something Bout The Night",
       "url": "https://open.spotify.com/track/0O2Nc2MkQt84yGHXfzdjZ0"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176803,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
     },
     {
       "album": {
@@ -3362,7 +3432,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 232745,
       "name": "Wake Up! (feat. Kaleta)",
       "url": "https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J"

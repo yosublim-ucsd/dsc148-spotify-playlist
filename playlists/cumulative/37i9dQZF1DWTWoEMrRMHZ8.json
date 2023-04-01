@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Michael Sullivan",
+  "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 275333,
       "name": "Apesar de Voc\u00ea",
       "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 241658,
       "name": "At\u00e9 Que Enfim",
       "url": "https://open.spotify.com/track/03spBIgLyBJgyVt6pZ5Pob"
@@ -2328,10 +2328,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 228720,
       "name": "Diga",
       "url": "https://open.spotify.com/track/4LLVwY3JPXTmXP6PMP9uDh"
+    },
+    {
+      "album": {
+        "name": "Diga Sim",
+        "url": "https://open.spotify.com/album/3wKE9miqxtaM7yiPpSB8qy"
+      },
+      "artists": [
+        {
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234514,
+      "name": "Diga Sim",
+      "url": "https://open.spotify.com/track/1OmhahcoJT6q3ItiNloID7"
     },
     {
       "album": {
@@ -2550,6 +2568,24 @@
       "duration_ms": 219954,
       "name": "E Agora? (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2wOPAT4iotmZ1aM0AmKJj9"
+    },
+    {
+      "album": {
+        "name": "Ordem Natural das Coisas",
+        "url": "https://open.spotify.com/album/7EQDEip9wIIRWiENxtMyed"
+      },
+      "artists": [
+        {
+          "name": "Chico Teixeira",
+          "url": "https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207867,
+      "name": "Efeito M\u00fasica",
+      "url": "https://open.spotify.com/track/0JLVlDAY29PDWcGeDJkWa0"
     },
     {
       "album": {
@@ -3729,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "Errante",
+        "url": "https://open.spotify.com/album/4CHLG06nQwBQjLuoBPsqMr"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170632,
+      "name": "Larga Tudo",
+      "url": "https://open.spotify.com/track/1CQIFlw9S6pz02XaP7eeJB"
+    },
+    {
+      "album": {
         "name": "Lasc\u00edvia",
         "url": "https://open.spotify.com/album/27V4k045zPbXcy8tRhEYnF"
       },
@@ -4513,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Muito Prazer, Meu Nome \u00c9 Salvador",
+        "url": "https://open.spotify.com/album/1R9yRCssXMD08whNj8bBzH"
+      },
+      "artists": [
+        {
+          "name": "Luiz Caldas",
+          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137307,
+      "name": "Muito Prazer, Meu Nome \u00c9 Salvador",
+      "url": "https://open.spotify.com/track/0rQJPTuRaGV06L9h37tROG"
+    },
+    {
+      "album": {
         "name": "Mulher Corvo",
         "url": "https://open.spotify.com/album/7c6QzhPNUTkpDKD2jBiJIh"
       },
@@ -4826,7 +4898,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 235081,
       "name": "Nu",
       "url": "https://open.spotify.com/track/12ARjD86nzGo7FKyXlvwhD"
@@ -7491,6 +7563,28 @@
     },
     {
       "album": {
+        "name": "Moska Apresenta Zoombido: Ti\u00ea",
+        "url": "https://open.spotify.com/album/4ycec7TgZlzHuUjBcwvv6J"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Paulinho Moska",
+          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147751,
+      "name": "Sweet Jardim",
+      "url": "https://open.spotify.com/track/6KqbrGVslg9R9VDAgr84JZ"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
       },
@@ -7538,7 +7632,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 186285,
       "name": "S\u00f3 Quem Ama",
       "url": "https://open.spotify.com/track/5hlGUTgrGUce82XmHjuuPO"

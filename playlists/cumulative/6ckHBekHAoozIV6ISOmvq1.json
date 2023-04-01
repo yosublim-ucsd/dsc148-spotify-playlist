@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 447040,
       "name": "Amour m\u2019a le cuer mis (Ballade)",
       "url": "https://open.spotify.com/track/6THfQ2uSdqmUTOScQIpZ5B"
@@ -2072,6 +2072,28 @@
     {
       "album": {
         "name": "Danze Strumentali Medievali Italiane, Vol. 2",
+        "url": "https://open.spotify.com/album/6x1bRYc5eqnEJMZjdMQ41e"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/3H269p8sGhjP7WBYlGsN18"
+        },
+        {
+          "name": "Anima Mundi Consort",
+          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385013,
+      "name": "Belicha (Additional 29987)",
+      "url": "https://open.spotify.com/track/6TcyIVlnO7mFdAEoVWmzPl"
+    },
+    {
+      "album": {
+        "name": "Danze Strumentali Medievali Italiane, Vol. 2",
         "url": "https://open.spotify.com/album/2Mq1pFTrbBvu796ijfH1wP"
       },
       "artists": [
@@ -2086,7 +2108,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 385013,
       "name": "Belicha [Additional 29987]",
       "url": "https://open.spotify.com/track/550rfA0AE6Mw2xFRvlKYt4"
@@ -2866,7 +2888,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 515466,
       "name": "Cantigas de Santa Maria: Madre de Deus",
       "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
@@ -3421,6 +3443,28 @@
     },
     {
       "album": {
+        "name": "Danze Strumentali Medievali Italiane, Vol. 1",
+        "url": "https://open.spotify.com/album/5x4JOm3YZnFW9UbjMRH0ag"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Anima Mundi Consort",
+          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438853,
+      "name": "Chanconeta tedesca 4",
+      "url": "https://open.spotify.com/track/4LkSKp7Bpq0OUqf1jfbEQO"
+    },
+    {
+      "album": {
         "name": "The Dante Troubadours",
         "url": "https://open.spotify.com/album/1Qdk5iPmnEwg5f4zMqeg4s"
       },
@@ -3882,6 +3926,32 @@
       "duration_ms": 676653,
       "name": "Christ ist erstande (Arr. T. Laux & U. Steinmetz for Saxophone & Organ)",
       "url": "https://open.spotify.com/track/1nwFOfWOlBbbtCsCGFx9s8"
+    },
+    {
+      "album": {
+        "name": "Gothic Italy: Johannes Ciconia, Matteo da Perugia, Zaccara da Teramo",
+        "url": "https://open.spotify.com/album/2ZYMwxXWFyYoqtCKIAfDeP"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ciconia",
+          "url": "https://open.spotify.com/artist/6Yux5045CWzC4UqxDX74sQ"
+        },
+        {
+          "name": "Mala Punica",
+          "url": "https://open.spotify.com/artist/6XsuXZjZmnYxWSBOqRAUv0"
+        },
+        {
+          "name": "Pedro Memelsdorff",
+          "url": "https://open.spotify.com/artist/4a4kjVU5kUK7AiaBehvRsf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349293,
+      "name": "Ciconia: Petrum Marcello Venetum - O Petre, antistes inclite",
+      "url": "https://open.spotify.com/track/536OAZBPEKsISmeWMHhLq8"
     },
     {
       "album": {
@@ -4490,7 +4560,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 822226,
       "name": "Dame d\u2019onour (Ballade)",
       "url": "https://open.spotify.com/track/7aItXFxzu8Uc4DztLPkFCX"
@@ -4556,7 +4626,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 249520,
       "name": "Danca Amorosa: Danca amorosa - Troto [Additional 29987]",
       "url": "https://open.spotify.com/track/0yTRIe6r1lmpy4hnAIMaWI"
@@ -5516,6 +5586,36 @@
       "duration_ms": 588552,
       "name": "Du tres douz non a la virge Marie (Chanson mariale)",
       "url": "https://open.spotify.com/track/5p02WM66Sw6R1aBB5OD4F2"
+    },
+    {
+      "album": {
+        "name": "Ars britannica. Old Hall Manuscript, Madrigals & Lute Songs",
+        "url": "https://open.spotify.com/album/6O7EAaghYxzMgItogmZlEu"
+      },
+      "artists": [
+        {
+          "name": "John Dunstable",
+          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
+        },
+        {
+          "name": "Pro Cantione Antiqua",
+          "url": "https://open.spotify.com/artist/1EDzadOnEraaBXI42sclav"
+        },
+        {
+          "name": "Alan Cuckston",
+          "url": "https://open.spotify.com/artist/2pDly90MTT7iAQBPlUTZpT"
+        },
+        {
+          "name": "Bruno Turner",
+          "url": "https://open.spotify.com/artist/0FGs0R4MPyI9WJzKqy1zWu"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277226,
+      "name": "Dunstable: O crux gloriosa",
+      "url": "https://open.spotify.com/track/7zgexH6oB7ggqOkYgVyCji"
     },
     {
       "album": {
@@ -6764,7 +6864,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 206053,
       "name": "Go To Sea No More (Arr. by Se\u00e1n Dagher and Nelson Carter)",
       "url": "https://open.spotify.com/track/32TIeJgYIl63FGxYbemcbM"
@@ -7310,6 +7410,36 @@
     {
       "album": {
         "name": "Ballate e Madrigali",
+        "url": "https://open.spotify.com/album/5YEHMilFO9BBKhqTlqeTVv"
+      },
+      "artists": [
+        {
+          "name": "Gherardello da Firenze",
+          "url": "https://open.spotify.com/artist/3Ei7qcsfsLzQ5B3rG9CSPu"
+        },
+        {
+          "name": "Cantilena Antiqua",
+          "url": "https://open.spotify.com/artist/6AELEmKPPS1Pulq9TZ56ke"
+        },
+        {
+          "name": "Concentus Lucensis",
+          "url": "https://open.spotify.com/artist/6cnb9DW8NFl2puJop4h1iq"
+        },
+        {
+          "name": "Stefano Albarello",
+          "url": "https://open.spotify.com/artist/2l7ifyyQoWPKBL9ozcWv21"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260278,
+      "name": "I' vo' bene",
+      "url": "https://open.spotify.com/track/4YX1LGuGT1t952JP4Qmi2I"
+    },
+    {
+      "album": {
+        "name": "Ballate e Madrigali",
         "url": "https://open.spotify.com/album/6fh6YmdIdi1wpIIo2cpdG9"
       },
       "artists": [
@@ -7332,7 +7462,7 @@
       ],
       "date_added": "2018-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 260279,
       "name": "I' vo' bene",
       "url": "https://open.spotify.com/track/53EsDQghnk9rdBelvhDGH7"
@@ -7640,6 +7770,28 @@
     {
       "album": {
         "name": "Istampitte: Danze italiane del Medioevo",
+        "url": "https://open.spotify.com/album/6NJxKAbO4BaA7VThffdJrW"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/3H269p8sGhjP7WBYlGsN18"
+        },
+        {
+          "name": "Ensemble Chominciamento di gioia",
+          "url": "https://open.spotify.com/artist/4hlB0I7n79Gc9gMK5imte9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402960,
+      "name": "Isabella (LEMS 8016): Isabella [Italian, 14th Century]",
+      "url": "https://open.spotify.com/track/7zQ0vqwB6ueVFCL6H3jHDL"
+    },
+    {
+      "album": {
+        "name": "Istampitte: Danze italiane del Medioevo",
         "url": "https://open.spotify.com/album/5fJAXPRJ28bLNWW1Z9Egp1"
       },
       "artists": [
@@ -7654,7 +7806,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 402960,
       "name": "Isabella [Italian, 14th Century]",
       "url": "https://open.spotify.com/track/0sCIuwWVniLKYuKh1JvoDV"
@@ -8092,7 +8244,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 444040,
       "name": "Je ne requier de ma dame",
       "url": "https://open.spotify.com/track/679eHr67g2JL8cXorvKir5"
@@ -8336,7 +8488,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 209040,
       "name": "Kemp\u2019s Jig / Mistress Winter\u2019s Jump / My Lady Hunsdon\u2019s Puff",
       "url": "https://open.spotify.com/track/4Ik9gn29GS48RDqYgBRhbY"
@@ -8768,7 +8920,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 194573,
       "name": "La plus jolie",
       "url": "https://open.spotify.com/track/6B9v1vflKg2rosKL08S0GP"
@@ -9890,7 +10042,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 477373,
       "name": "Matteo da Perugia: H\u00e9las avril",
       "url": "https://open.spotify.com/track/3zKQ8PUZ4vve0O3Bc5yjsI"
@@ -10274,6 +10426,32 @@
       "duration_ms": 436826,
       "name": "Missa cantilena: Ave sancta mundi salus panis - Agnus Dei (From Modena, Biblioteca estense MS M.5.24)",
       "url": "https://open.spotify.com/track/01TLrcWUV0i9z0UtK8JJcd"
+    },
+    {
+      "album": {
+        "name": "Gothic Italy: Johannes Ciconia, Matteo da Perugia, Zaccara da Teramo",
+        "url": "https://open.spotify.com/album/2ZYMwxXWFyYoqtCKIAfDeP"
+      },
+      "artists": [
+        {
+          "name": "Matteo da Perugia",
+          "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
+        },
+        {
+          "name": "Mala Punica",
+          "url": "https://open.spotify.com/artist/6XsuXZjZmnYxWSBOqRAUv0"
+        },
+        {
+          "name": "Pedro Memelsdorff",
+          "url": "https://open.spotify.com/artist/4a4kjVU5kUK7AiaBehvRsf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356440,
+      "name": "Missa cantilena: Credo II (From Modena, Biblioteca estense MS M.5.24)",
+      "url": "https://open.spotify.com/track/23SE386AcVZRnRjdr8C9o3"
     },
     {
       "album": {
@@ -10764,7 +10942,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 330973,
       "name": "Musique profane: I. Una panthera in compagnia di marte",
       "url": "https://open.spotify.com/track/6WG5bLKCHkQQv8LjHDJYO3"
@@ -10950,7 +11128,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 194040,
       "name": "Non al suo amante",
       "url": "https://open.spotify.com/track/4bawX8sRlXcdfzhDN2A846"
@@ -11496,7 +11674,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 191586,
       "name": "O pulcherrina mulierum",
       "url": "https://open.spotify.com/track/3kbt033CLCSGuZYvWxGqKK"
@@ -12424,10 +12602,40 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 314640,
       "name": "Per quella strada lactea del cielo",
       "url": "https://open.spotify.com/track/0wX7c34pyJEXX8q7Ra1qZ2"
+    },
+    {
+      "album": {
+        "name": "Ballate e Madrigali",
+        "url": "https://open.spotify.com/album/5YEHMilFO9BBKhqTlqeTVv"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ciconia",
+          "url": "https://open.spotify.com/artist/6Yux5045CWzC4UqxDX74sQ"
+        },
+        {
+          "name": "Cantilena Antiqua",
+          "url": "https://open.spotify.com/artist/6AELEmKPPS1Pulq9TZ56ke"
+        },
+        {
+          "name": "Concentus Lucensis",
+          "url": "https://open.spotify.com/artist/6cnb9DW8NFl2puJop4h1iq"
+        },
+        {
+          "name": "Stefano Albarello",
+          "url": "https://open.spotify.com/artist/2l7ifyyQoWPKBL9ozcWv21"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314640,
+      "name": "Per quella strada lactea del cielo",
+      "url": "https://open.spotify.com/track/1K61TqEFyEA7fkOumdQ7J7"
     },
     {
       "album": {
@@ -12966,7 +13174,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 323866,
       "name": "Puis que je voy, belle, que ne m'am\u00e9s",
       "url": "https://open.spotify.com/track/312Mgl63iP16HMOAmJrcJG"
@@ -13954,7 +14162,7 @@
       ],
       "date_added": "2020-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 317760,
       "name": "Saltarello I",
       "url": "https://open.spotify.com/track/5GaSxba0XMg53uUiPUKNKt"
@@ -15303,6 +15511,32 @@
     },
     {
       "album": {
+        "name": "Regina",
+        "url": "https://open.spotify.com/album/5druj6EoBtNLqutwdQuiD8"
+      },
+      "artists": [
+        {
+          "name": "Jacopo da Bologna",
+          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
+        },
+        {
+          "name": "Capella de Ministrers",
+          "url": "https://open.spotify.com/artist/2jOvK1TyxIca3pb50lHX9V"
+        },
+        {
+          "name": "Carles Magraner",
+          "url": "https://open.spotify.com/artist/2I8XJUpNoIU9Q6XapyIoOl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Un bel sparver - Madrigal",
+      "url": "https://open.spotify.com/track/1LqJFxxumjicU7pqperXd2"
+    },
+    {
+      "album": {
         "name": "Paolo da Firenze: Narcisso Speculando",
         "url": "https://open.spotify.com/album/2z4OeYljgJG2HlK4VLVnNC"
       },
@@ -15640,7 +15874,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 386533,
       "name": "Veni Sancte Spiritus et emitte/Veni Sancte Spiritus et infunde/Veni Creator Spiritus mentes tu - 1987 Remastered Version",
       "url": "https://open.spotify.com/track/0Kok1yqlbqw4RPAwaq9aPT"

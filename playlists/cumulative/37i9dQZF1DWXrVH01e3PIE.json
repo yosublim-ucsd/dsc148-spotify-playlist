@@ -1377,6 +1377,28 @@
     },
     {
       "album": {
+        "name": "GELATO",
+        "url": "https://open.spotify.com/album/0xbDePSBrKFaoYUsTCEjKq"
+      },
+      "artists": [
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        },
+        {
+          "name": "MP El Juvenil",
+          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210937,
+      "name": "GELATO",
+      "url": "https://open.spotify.com/track/7Go3Ftz3ogFCeuy7PIO6Su"
+    },
+    {
+      "album": {
         "name": "GIVENCHY",
         "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
       },
@@ -1468,7 +1490,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 153312,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/5kw4PXyQAKtIegpAfwjGMy"
@@ -3640,6 +3662,24 @@
       "duration_ms": 141407,
       "name": "TOLKIN YIT",
       "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
+    },
+    {
+      "album": {
+        "name": "TOP",
+        "url": "https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95008,
+      "name": "TOP",
+      "url": "https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ"
     },
     {
       "album": {

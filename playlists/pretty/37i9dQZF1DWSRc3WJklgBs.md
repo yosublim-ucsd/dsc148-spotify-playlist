@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,474 likes - 228 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,936 likes - 230 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,6 +235,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 225 | [Layover](https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Layover](https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV) | 3:23 |
 | 226 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 |
 | 227 | [Somebody Like You](https://open.spotify.com/track/28nXyID0HPs6t1H8113aJw) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Somebody Like You](https://open.spotify.com/album/5TBgT7OE7RGLFjkILG729A) | 3:26 |
-| 228 | [Colors \(with Eyelar\)](https://open.spotify.com/track/6ur4bHIfXz7v38Ug4c7sb9) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:51 |
+| 228 | [Heart On Fire](https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Heart On Fire](https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad) | 3:50 |
+| 229 | [Sweet Karma \(feat\. Adam Woods\)](https://open.spotify.com/track/1xtjlpOgI7J0erR750HmHM) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Sweet Karma \(feat\. Adam Woods\)](https://open.spotify.com/album/3v9b8tdWLa5H9c5arPPiUM) | 2:07 |
+| 230 | [The One \(feat\. ARA\)](https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [The One \(feat\. ARA\)](https://open.spotify.com/album/3sew2wh9h3aeNeVkrhZPAp) | 2:57 |
 
-Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMGY5OGJhNTljMGI4NzhmZTZhNDVmYTQ4MjQzMWI4NjRk`
+Snapshot ID: `MTY4MDI4MTA0MywwMDAwMDAwMGZhYTBhYzVlN2Q2NGM5ZTAwMzNjZGViYzZlNmEzMDA1`

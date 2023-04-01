@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/5Xl95STYauCnKb1qvbt1mm"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Bullseye",
+      "url": "https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO"
+    },
+    {
+      "album": {
         "name": "BURN YOU OUT",
         "url": "https://open.spotify.com/album/72Om2D1HRrWEfVqgqsRJU4"
       },
@@ -1493,6 +1511,36 @@
     },
     {
       "album": {
+        "name": "CLUSTERFUNK",
+        "url": "https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Felicia Douglass",
+          "url": "https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237653,
+      "name": "Everyone Moves To LA (feat. Felicia Douglass)",
+      "url": "https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re"
+    },
+    {
+      "album": {
         "name": "All In The Family",
         "url": "https://open.spotify.com/album/2DUBK14GtWoErG8eTy6fqI"
       },
@@ -2124,7 +2172,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 195925,
       "name": "God Made Me Funky",
       "url": "https://open.spotify.com/track/03k2IK5lwpXBHIUVadERaN"
@@ -2464,6 +2512,28 @@
       "duration_ms": 258039,
       "name": "Hide",
       "url": "https://open.spotify.com/track/48m0yIOWPyLYQHXEKnMJ12"
+    },
+    {
+      "album": {
+        "name": "High Class",
+        "url": "https://open.spotify.com/album/3hxQU0FS1oa42dkaUX7fYj"
+      },
+      "artists": [
+        {
+          "name": "Saucy Lady",
+          "url": "https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2"
+        },
+        {
+          "name": "Slynk",
+          "url": "https://open.spotify.com/artist/4V7ap2HEMGNvgwdmOv4dth"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202908,
+      "name": "High Class",
+      "url": "https://open.spotify.com/track/3BM6HmfZVhw2HZ3UxkSHNy"
     },
     {
       "album": {
@@ -4016,7 +4086,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 227360,
       "name": "Pay It No Mind",
       "url": "https://open.spotify.com/track/4sV3lFXdxg0xDtmt3IwRYr"
@@ -4124,7 +4194,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 202613,
       "name": "Power Station",
       "url": "https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB"
@@ -4405,6 +4475,32 @@
     },
     {
       "album": {
+        "name": "Same Song",
+        "url": "https://open.spotify.com/album/4EJYHrZ1FEdIcadrIO449B"
+      },
+      "artists": [
+        {
+          "name": "falcxne",
+          "url": "https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz"
+        },
+        {
+          "name": "ev\u00e4n",
+          "url": "https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G"
+        },
+        {
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Same Song",
+      "url": "https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS"
+    },
+    {
+      "album": {
         "name": "Sankofa Song",
         "url": "https://open.spotify.com/album/23tozi7NYHGQkjgH7URU8U"
       },
@@ -4608,7 +4704,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 323473,
       "name": "Slings and Arrows",
       "url": "https://open.spotify.com/track/4SelDlGzpaSB9i31ZqzQgS"

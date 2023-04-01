@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: A Loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,961 likes - 58 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,975 likes - 58 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 35 | [Ohebuka Raghman \- Always April Remix](https://open.spotify.com/track/6TMz1cbXzWFk5WA9oKwNQl) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Ohebuka Raghman \(Always April Remix\)](https://open.spotify.com/album/2Jy7QVorfZVcjvNXHVMGNo) | 2:03 |
 | 36 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 |
 | 37 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 |
-| 38 | [Hawlo \- Gaby Zgheib Remix](https://open.spotify.com/track/74cyl9q0lrXuySioeD10kB) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Gaby Zgheib](https://open.spotify.com/artist/2tAVxjSZZ5b5d1k360AWJr) | [Hawlo \(Gaby Zgheib Remix\)](https://open.spotify.com/album/4WKR4H1V39EMpgRaT6kzU0) | 4:46 |
+| 38 | [Hawlo](https://open.spotify.com/track/7AzkW2i75Tu6U5rRzMTPV4) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Hawlo](https://open.spotify.com/album/22z5UsIINFusXfM9kVYdqr) | 4:46 |
 | 39 | [El Hawa](https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr), [Hayam Mansour](https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6) | [El Hawa](https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T) | 5:47 |
 | 40 | [Akhedni Maak](https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Akhedni Maak](https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em) | 2:35 |
 | 41 | [Win \- Lesstars Remix](https://open.spotify.com/track/0F9RxNpcbyw0uif75wpqrz) | [Halim yousfi](https://open.spotify.com/artist/6EUe84nUL0UynwPD7ddtgp), [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba), [Lesstars](https://open.spotify.com/artist/6QKz2YMVPepGdsvvOqeAg9) | [Win](https://open.spotify.com/album/0GNcDMnCoCbAgdgpKZXflS) | 4:17 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 57 | [Elli Baana](https://open.spotify.com/track/6mPvxcBg9C5Msy6sJQtLdQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Elli Baana \(RANDALL Remix\)](https://open.spotify.com/album/0nScFV3dpOKHTivxuxAFqg) | 3:22 |
 | 58 | [لاموني](https://open.spotify.com/track/5OsH0PcgKUUnqSP7KM0yCM) | [Talia](https://open.spotify.com/artist/5IiJk1YXeHtE31vo4XBhn8) | [لاموني](https://open.spotify.com/album/3oAQZJwsH6iVQhcTIxtalh) | 3:20 |
 
-Snapshot ID: `MTY3OTA0OTU5NSwwMDAwMDAwMGMxMjAwOTRhYWU3M2IzZjQzNjE0ZWY0NmMzMjkwNDY1`
+Snapshot ID: `MTY3OTA0OTU5NSwwMDAwMDAwMDdkYzRlYjk5M2RlODk3YzE4ZGRkNGVjODZkMGUxOGQy`

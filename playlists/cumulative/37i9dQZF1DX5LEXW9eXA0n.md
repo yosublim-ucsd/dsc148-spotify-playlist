@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:Gaho\(가호\)\) \(당신의 감성에 발라드, 려요\)
 
-836 songs - 2 day 6 hr 23 min
+838 songs - 2 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-12 | 2022-12-27 |
 | [Long Day](https://open.spotify.com/track/2u9dTwkJBYoIWAeW2IE5Cv) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Long Day](https://open.spotify.com/album/0BIST1V2G2NjPT6cc01rTS) | 3:38 | 2023-03-27 |  |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-05-25 |
+| [Lost mind](https://open.spotify.com/track/4qp9FmYIcnvJQKuYM1DyF8) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Lost mind \(Made in 4MEN\)](https://open.spotify.com/album/1pTC8VGMlc8vQ181lKJJwL) | 3:31 | 2023-03-31 |  |
 | [Love Alone](https://open.spotify.com/track/5V0ZavoSTmk0mQlfyHiDFW) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Love Alone \(CURTAIN CALL OST Part.6\)](https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4) | 3:27 | 2022-11-22 | 2023-01-21 |
 | [Love Contact](https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Love Contact](https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX) | 4:11 | 2022-12-16 | 2023-01-21 |
 | [Love Has Come](https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 3:59 | 2023-02-14 | 2023-03-28 |
@@ -455,6 +456,7 @@
 | [me in longing](https://open.spotify.com/track/3UwMPI8S3VNRSByUz12N01) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [me in longing](https://open.spotify.com/album/3U3B3caDhoT8Lmaj7J1kjv) | 3:20 | 2023-03-27 |  |
 | [Meet him among them](https://open.spotify.com/track/6H8LsxDktkwTuUVGXf3anP) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Meet him among them](https://open.spotify.com/album/3AB3AhRKi0xR5vAj0iuRaP) | 4:18 | 2022-06-18 | 2022-08-02 |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-07-07 | 2022-08-02 |
+| [Melting](https://open.spotify.com/track/72JXhN9CABeVLNrt8VJm0l) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [The Secret Romantic Guesthouse Part.2](https://open.spotify.com/album/5PGBoR7sj4R54UrYLO4G9b) | 3:31 | 2023-03-31 |  |
 | [Memories](https://open.spotify.com/track/4brbKf89m6T7sul0VIV5cY) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [Memories](https://open.spotify.com/album/6cicBDN7VCijeMLd0qqyKD) | 2:51 | 2022-01-27 | 2022-02-04 |
 | [Memory](https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/67HFNkpetCimboi5JzugYd) | 4:23 | 2023-02-14 | 2023-03-28 |
 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-08-18 | 2022-12-27 |

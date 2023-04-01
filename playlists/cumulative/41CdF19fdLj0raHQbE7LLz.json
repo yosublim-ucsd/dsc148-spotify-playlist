@@ -99,6 +99,42 @@
     },
     {
       "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240403,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/6EqEtYGJnkP3BBySHscyLj"
+    },
+    {
+      "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231114,
+      "name": "Bodysnatcher",
+      "url": "https://open.spotify.com/track/2ReU1R4wUEhCnrL8Q6Nf8a"
+    },
+    {
+      "album": {
         "name": "Bring It On Down",
         "url": "https://open.spotify.com/album/07zJQUXucc05agVKLqhcNE"
       },
@@ -248,6 +284,24 @@
       "duration_ms": 435308,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/0YTa8TqgoTRjPznEJYNDDW"
+    },
+    {
+      "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229481,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/2BPrwqxSpvENgsehOYgFJB"
     },
     {
       "album": {

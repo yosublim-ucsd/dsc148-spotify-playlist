@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,919 likes - 65 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,972 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 2 | [Portugal](https://open.spotify.com/track/1tLBXifMqnSqLZrk1Rsl8n) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Portugal](https://open.spotify.com/album/5Acna8vDUeXMHpPTjf3J3h) | 3:36 |
 | 3 | [Rubi](https://open.spotify.com/track/3SOiQUQ988zKilwom5t0tS) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Rubi](https://open.spotify.com/album/4kEjE9IxjZuHveMQ62t6bw) | 3:27 |
 | 4 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
-| 5 | [Flores na Janela](https://open.spotify.com/track/2yrzG5NOawjNKKWqoQgcGb) | [Rafa!](https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO) | [Tudo Que Posso Deixar no Caminho](https://open.spotify.com/album/6WS1zDyXMRZS0oAWi0xHzR) | 2:54 |
-| 6 | [Quinto Degrau](https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Quinto Degrau](https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8) | 2:22 |
-| 7 | [Lana](https://open.spotify.com/track/6njzueGON26Kj3dy0wQUxs) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Lana](https://open.spotify.com/album/0EOvuq1kpXFM5N6ZUCfZj5) | 2:51 |
-| 8 | [As Luzes da Lua](https://open.spotify.com/track/26WbIQvHX81NlsgsCJQdyv) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [O Ciclo da Decepção](https://open.spotify.com/album/0u6ZJA3YRfRIJiE2du5zcz) | 3:03 |
-| 9 | [Cosplay de Amor da Minha Vida](https://open.spotify.com/track/7l8VsccVXfcUD6tYmiKxzI) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Cosplay de Amor da Minha Vida](https://open.spotify.com/album/3riQ42qoo9R4V7OSA9XoeU) | 3:01 |
-| 10 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 |
-| 11 | [Vênus](https://open.spotify.com/track/5TChJtHcdZXJILz64SylZi) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Vênus](https://open.spotify.com/album/3IWdWQcegW47JGPRM30t5S) | 4:07 |
+| 5 | [Quinto Degrau](https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Quinto Degrau](https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8) | 2:22 |
+| 6 | [Lana](https://open.spotify.com/track/6njzueGON26Kj3dy0wQUxs) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Lana](https://open.spotify.com/album/0EOvuq1kpXFM5N6ZUCfZj5) | 2:51 |
+| 7 | [As Luzes da Lua](https://open.spotify.com/track/26WbIQvHX81NlsgsCJQdyv) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [O Ciclo da Decepção](https://open.spotify.com/album/0u6ZJA3YRfRIJiE2du5zcz) | 3:03 |
+| 8 | [Cosplay de Amor da Minha Vida](https://open.spotify.com/track/7l8VsccVXfcUD6tYmiKxzI) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Cosplay de Amor da Minha Vida](https://open.spotify.com/album/3riQ42qoo9R4V7OSA9XoeU) | 3:01 |
+| 9 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 |
+| 10 | [Vênus](https://open.spotify.com/track/5TChJtHcdZXJILz64SylZi) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Vênus](https://open.spotify.com/album/3IWdWQcegW47JGPRM30t5S) | 4:07 |
+| 11 | [Tão Fácil](https://open.spotify.com/track/2hkiGoGHrT9KjagXN6Hs6s) | [Pxrtela](https://open.spotify.com/artist/78kdqxAPboMi6VkSw6uwMd), [Terin](https://open.spotify.com/artist/5EJnD0xePd6KNus2Oc5l0y) | [Tão Fácil](https://open.spotify.com/album/6E6k9VOkclaeC15CTevSOC) | 2:42 |
 | 12 | [nada contra \(ciúme\)](https://open.spotify.com/track/1unDZmI0EXHaZ7FWugXSqC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/4eQOYhDped8j3q2tZHVdM0) | 2:22 |
 | 13 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 |
 | 14 | [Intriga](https://open.spotify.com/track/0A2js14ZO6nnhK7zzzV1oP) | [Gigio Gama](https://open.spotify.com/artist/6zdrZoZm9ISZeUPGAl5kf5) | [Intriga](https://open.spotify.com/album/47yIhkQZzhA2YsTxQ3DP1j) | 1:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 64 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 |
 | 65 | [A Garota Mais Linda de Oz](https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [A Garota Mais Linda de Oz](https://open.spotify.com/album/6EnL3B0Co201xFS185pL0B) | 2:45 |
 
-Snapshot ID: `MTY3NDE4Mzc4MCwwMDAwMDAwMDM2YThkYmI0MjI1MWE3NWM0NmUxNWMzYmQxMTNiZGZh`
+Snapshot ID: `MTY4MDIzMTc4MCwwMDAwMDAwMDkzNWE0ZTUxNmJiMmU2NDQ5NTk2YWM3NmU1MTQ4M2Jj`

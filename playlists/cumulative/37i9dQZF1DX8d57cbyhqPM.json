@@ -934,7 +934,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 245601,
       "name": "Dindon",
       "url": "https://open.spotify.com/track/6qPNkMZwvdlUUD3s1fXDQs"
@@ -1086,6 +1086,24 @@
       "duration_ms": 156051,
       "name": "Dodo - Remix",
       "url": "https://open.spotify.com/track/0xX55NB90iv1LGAosfkmqO"
+    },
+    {
+      "album": {
+        "name": "Dolce & Gabbana",
+        "url": "https://open.spotify.com/album/0MazTQ41JWkYdlPLzXQN3j"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174968,
+      "name": "Dolce & Gabbana",
+      "url": "https://open.spotify.com/track/6qFbHaZFzOrX5wKSbu1vvx"
     },
     {
       "album": {
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 485760,
       "name": "Formule 7",
       "url": "https://open.spotify.com/track/1zo15YjbaTTwAho4ECmrDZ"
@@ -1887,6 +1905,28 @@
     },
     {
       "album": {
+        "name": "Licolo",
+        "url": "https://open.spotify.com/album/5VOIqfnUgpMQTITYb51d7T"
+      },
+      "artists": [
+        {
+          "name": "LUVANGA",
+          "url": "https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy"
+        },
+        {
+          "name": "Sekzy",
+          "url": "https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "Licolo",
+      "url": "https://open.spotify.com/track/4sxulmCPiTVmFuvRfTbMij"
+    },
+    {
+      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR"
       },
@@ -2273,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Miso",
+        "url": "https://open.spotify.com/album/1NliySxbgFExAbNOjLDMMe"
+      },
+      "artists": [
+        {
+          "name": "Hugo Kafumbi",
+          "url": "https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Miso",
+      "url": "https://open.spotify.com/track/4wjnWG0gIg1jDtLSuTMbGK"
+    },
+    {
+      "album": {
         "name": "Misu na misu",
         "url": "https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i"
       },
@@ -2356,7 +2414,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 175475,
       "name": "Motema",
       "url": "https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn"
@@ -3166,7 +3224,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 472163,
       "name": "Rond point",
       "url": "https://open.spotify.com/track/36V9liFzimANeSyaowyOA1"
@@ -3738,6 +3796,24 @@
       "duration_ms": 175725,
       "name": "Vanessa",
       "url": "https://open.spotify.com/track/0tCm9ehzqzfwTh8L31xS5g"
+    },
+    {
+      "album": {
+        "name": "Vas Laba (Afroflip)",
+        "url": "https://open.spotify.com/album/0ErTOqCZ1f6zEIRlkSzxED"
+      },
+      "artists": [
+        {
+          "name": "Omo Frenchie",
+          "url": "https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159016,
+      "name": "Vas Laba (Afroflip)",
+      "url": "https://open.spotify.com/track/2BqEQaryZII0qbbN7eo7Jj"
     },
     {
       "album": {

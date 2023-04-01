@@ -5488,7 +5488,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 219373,
       "name": "No Trouble",
       "url": "https://open.spotify.com/track/2cd4QBg7XpGuSxq0yVHK2j"
@@ -5906,7 +5906,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 244673,
       "name": "Queen of Paisley",
       "url": "https://open.spotify.com/track/2YwDDVHflNhUKgu70WR7OH"
@@ -7129,6 +7129,28 @@
     },
     {
       "album": {
+        "name": "Stockholmsvy",
+        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161396,
+      "name": "Stockholmsvy",
+      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+    },
+    {
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -7242,7 +7264,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 406566,
       "name": "Sun is going down",
       "url": "https://open.spotify.com/track/3DN0yq0VaZgiANOyTrWnUP"
@@ -7376,6 +7398,24 @@
       "duration_ms": 199308,
       "name": "Supalonely (Lownely)",
       "url": "https://open.spotify.com/track/0hVZCUZKWsWFU6i5zlRZZr"
+    },
+    {
+      "album": {
+        "name": "Supermoon",
+        "url": "https://open.spotify.com/album/2Op7mnPBZOqeObaeuZJcZ0"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Supermoon",
+      "url": "https://open.spotify.com/track/0JfYy60f4RN77F04fReXmW"
     },
     {
       "album": {
@@ -7550,6 +7590,24 @@
       "duration_ms": 186250,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0ndV1KbJuiFxPuZ4cJZZi8"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
     },
     {
       "album": {

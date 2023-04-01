@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "All of This Beauty",
+        "url": "https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja"
+      },
+      "artists": [
+        {
+          "name": "Izzy Heltai",
+          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128266,
+      "name": "All of This Beauty",
+      "url": "https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt"
+    },
+    {
+      "album": {
         "name": "All American Boy",
         "url": "https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0"
       },
@@ -792,6 +810,24 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
+    },
+    {
+      "album": {
+        "name": "Write Your Name In Pink",
+        "url": "https://open.spotify.com/album/5MimZH5rLcsbFj6tUxsnrM"
+      },
+      "artists": [
+        {
+          "name": "Quinn Christopherson",
+          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302426,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/0XVbJvveXmtVlMGKhIcGZK"
     },
     {
       "album": {
@@ -1830,6 +1866,24 @@
       "duration_ms": 172893,
       "name": "No Mistakes",
       "url": "https://open.spotify.com/track/6D3sNZ0y2P2uonpPQeMosP"
+    },
+    {
+      "album": {
+        "name": "People Talk",
+        "url": "https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa"
+      },
+      "artists": [
+        {
+          "name": "Lauren Morrow",
+          "url": "https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "Nobody but Me",
+      "url": "https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc"
     },
     {
       "album": {

@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Respect (Acoustic)",
+        "url": "https://open.spotify.com/album/2V4GPW1tBQjSXYycFOYnHI"
+      },
+      "artists": [
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156321,
+      "name": "Respect - Acoustic",
+      "url": "https://open.spotify.com/track/22ihU3hpmt2tTp68Ns7yMi"
+    },
+    {
+      "album": {
         "name": "Ring of Fire (Acoustic)",
         "url": "https://open.spotify.com/album/5C8Z4XQ2mBq5WIlOeXlN1v"
       },

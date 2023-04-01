@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Front Country",
+  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: The Brother Brothers",
   "name": "Bluegrass Covers",
   "tracks": [
     {
@@ -290,6 +290,28 @@
       "duration_ms": 266748,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1WCr2LWff8IKCuz71tM0ta"
+    },
+    {
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/4rLwPnpQyAEfBKW1zSlcuu"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/6W90nyRbwOUaiww9dSEnAa"
     },
     {
       "album": {
@@ -2650,6 +2672,24 @@
       "duration_ms": 230920,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/2RJA3aJLOKR1Q7xBQKDmy4"
+    },
+    {
+      "album": {
+        "name": "It's Just Me",
+        "url": "https://open.spotify.com/album/2n3PcUTqeReZYL980QVYOF"
+      },
+      "artists": [
+        {
+          "name": "Larry Sparks",
+          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155499,
+      "name": "She Thinks I Still Care",
+      "url": "https://open.spotify.com/track/6dLMYvXk5oBhxACr0PNvB0"
     },
     {
       "album": {

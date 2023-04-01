@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/4FiJNBdMADWZqTES9davUr"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239086,
+      "name": "In Pieces",
+      "url": "https://open.spotify.com/track/1NTkn9D1z3BoNet0YNJYWF"
+    },
+    {
+      "album": {
         "name": "Hey, I'm Just like You",
         "url": "https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX"
       },

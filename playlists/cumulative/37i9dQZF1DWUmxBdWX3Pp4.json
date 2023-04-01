@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: Eladio Carrion.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Pablo Chill-E.",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "5 Estrellas",
+        "url": "https://open.spotify.com/album/3hPNd8YlE88jGyQ1jIdNrM"
+      },
+      "artists": [
+        {
+          "name": "Genio",
+          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241814,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/3lN1fgtcVeToWt1H6AEVAM"
+    },
+    {
+      "album": {
         "name": "5:05 pm",
         "url": "https://open.spotify.com/album/2Ejm2cWwalFvS5pRGfyP1G"
       },
@@ -224,6 +250,24 @@
       "duration_ms": 187694,
       "name": "60 Barras",
       "url": "https://open.spotify.com/track/6NtEyIBt9KpNF1a1Om367P"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206645,
+      "name": "7",
+      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
     },
     {
       "album": {
@@ -1306,7 +1350,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 211200,
       "name": "Como Yo Puedo Olvidar",
       "url": "https://open.spotify.com/track/2dovaZsPSEQCRYuUCBtBLF"
@@ -1536,6 +1580,24 @@
       "duration_ms": 208205,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K"
+    },
+    {
+      "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241495,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT"
     },
     {
       "album": {
@@ -1840,7 +1902,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 193733,
       "name": "El Mexicano",
       "url": "https://open.spotify.com/track/24a2AvxZM73Sg1zKtXdM3M"
@@ -2625,6 +2687,28 @@
     },
     {
       "album": {
+        "name": "hARAkiRi",
+        "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169258,
+      "name": "hARAkiRi",
+      "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
+    },
+    {
+      "album": {
         "name": "HELLCAT",
         "url": "https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV"
       },
@@ -3305,6 +3389,28 @@
     },
     {
       "album": {
+        "name": "La Respuesta",
+        "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168015,
+      "name": "La Respuesta",
+      "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
+    },
+    {
+      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
@@ -3918,7 +4024,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 160408,
       "name": "MAN$ION",
       "url": "https://open.spotify.com/track/6zsvDXNgIPcnfXsAceGkLH"
@@ -4224,6 +4330,28 @@
       "duration_ms": 183512,
       "name": "Mill\u00f3n",
       "url": "https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe"
+    },
+    {
+      "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191524,
+      "name": "Minimo Esfuerzo (feat. Duki)",
+      "url": "https://open.spotify.com/track/4VOTF9Cnw0paixB9X0KUMh"
     },
     {
       "album": {
@@ -4810,7 +4938,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 175718,
       "name": "NUDE",
       "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
@@ -5006,6 +5134,24 @@
       "duration_ms": 240299,
       "name": "Pa' Cualquiera (Remix)",
       "url": "https://open.spotify.com/track/0QGhBcj9YjBcUDUhQN31cF"
+    },
+    {
+      "album": {
+        "name": "Pa' gan\u00e1",
+        "url": "https://open.spotify.com/album/01pnaYwlDIVi7EEyxX1Jm3"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186111,
+      "name": "Pa' gan\u00e1",
+      "url": "https://open.spotify.com/track/5gJ3lOJPUrbX5MsQxUAgaK"
     },
     {
       "album": {
@@ -5915,6 +6061,36 @@
     },
     {
       "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Shisosa",
+          "url": "https://open.spotify.com/artist/5RsDsSAjkrjeEekDmtbJKJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160024,
+      "name": "Shupano (feat. Young Cister, Bryartz & Shisosa)",
+      "url": "https://open.spotify.com/track/2CIx7kjDwTdNNyMuC7sDFM"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -6326,7 +6502,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 216056,
       "name": "Tamo Loco",
       "url": "https://open.spotify.com/track/3EsXS6UlpHtJvopnLTbsiT"
@@ -6805,6 +6981,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa Eres Loca?",
+        "url": "https://open.spotify.com/album/6ygS8nXo9JLjrjxYIWRo9X"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264679,
+      "name": "T\u00fa Eres Loca?",
+      "url": "https://open.spotify.com/track/279CFygxzwjumv9FTG25jn"
+    },
+    {
+      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -6860,7 +7054,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 85430,
       "name": "UOH OH OH",
       "url": "https://open.spotify.com/track/2LhnFINENqZgFnLIlChHzw"
@@ -7074,7 +7268,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 163298,
       "name": "Wou",
       "url": "https://open.spotify.com/track/6CWP3GnUDAcDUzu8Ct270p"
@@ -7254,7 +7448,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 236110,
       "name": "Ziploc (Blessd Version)",
       "url": "https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4"

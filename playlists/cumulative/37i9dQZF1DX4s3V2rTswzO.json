@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190232,
+      "name": "a new romance",
+      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
         "url": "https://open.spotify.com/album/4wJI6GbiR951BmUdbrVkFE"
       },
@@ -1547,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "When the Bells Ring",
+        "url": "https://open.spotify.com/album/39L6Mn2b1cuxpsUQ7Ck3qK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123850,
+      "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
+      "url": "https://open.spotify.com/track/5Y4NircviB9cWOEn3oVrF8"
+    },
+    {
+      "album": {
         "name": "Sheep May Safely Graze",
         "url": "https://open.spotify.com/album/35sLTSEVfSOZr37eTTdReu"
       },
@@ -1558,7 +1594,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 123850,
       "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
       "url": "https://open.spotify.com/track/62vy0nReW4u7ct09gyUlxm"
@@ -1794,7 +1830,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 519026,
       "name": "Symphony No. 3 in F Major, Op. 153, \"Im Walde\": II. Abteilung: In der Dammerung. Traumerei: Largo",
       "url": "https://open.spotify.com/track/1cdNMfQzAhyChjFUwXfYxL"
@@ -1957,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "The Poetry Of Wind And Waves",
+        "url": "https://open.spotify.com/album/7CENd1RU98aqawftWBefgk"
+      },
+      "artists": [
+        {
+          "name": "Rob Grant",
+          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150453,
+      "name": "The Poetry Of Wind And Waves",
+      "url": "https://open.spotify.com/track/3o9Yhvfzz2M7vpznPrCmFi"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude (Transcr. for Guitar)",
         "url": "https://open.spotify.com/album/5NZeobdPF0gjjynPpSLf3d"
       },
@@ -1976,6 +2030,24 @@
       "duration_ms": 115946,
       "name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude (Transcr. for Guitar)",
       "url": "https://open.spotify.com/track/79TcGoLB19MBED0O2YZLtn"
+    },
+    {
+      "album": {
+        "name": "Through The Blue (Piano Version)",
+        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225494,
+      "name": "Through The Blue - Piano Version",
+      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
     },
     {
       "album": {

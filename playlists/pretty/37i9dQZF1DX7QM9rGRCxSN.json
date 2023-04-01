@@ -1,28 +1,28 @@
 {
-  "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Apartamentos Acapulco en portada.",
-  "num_followers": 22180,
+  "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Con te vi en un planetario, en portada.",
+  "num_followers": 22212,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzNzYwMCwwMDAwMDAwMGViM2Y1Y2M0ZWFkNDdmYzJkMWM1ZGQ0MGIwNmMxZjBm",
+  "snapshot_id": "MTY4MDI4ODEzOSwwMDAwMDAwMDBmNDA0Mjc5Mjg5MzM2OWU4NDNiZGM0YWViYTRiYWY2",
   "tracks": [
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-03-24 06:00:00",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
         }
       ],
-      "duration_ms": 330600,
-      "name": "Luna Roja - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
     },
     {
       "added_at": "2023-03-17 17:31:33",
@@ -57,20 +57,20 @@
       "url": "https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9"
     },
     {
-      "added_at": "2023-03-24 06:00:00",
+      "added_at": "2021-10-19 01:46:50",
       "album": {
-        "name": "reina de primavera",
-        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
       },
       "artists": [
         {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 245840,
-      "name": "reina de primavera",
-      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+      "duration_ms": 330600,
+      "name": "Luna Roja - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
     },
     {
       "added_at": "2022-04-01 06:18:29",
@@ -141,6 +141,38 @@
       "url": "https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1"
     },
     {
+      "added_at": "2023-03-31 18:23:41",
+      "album": {
+        "name": "vampiro",
+        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
+      },
+      "artists": [
+        {
+          "name": "Kiddie Gang",
+          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
+        }
+      ],
+      "duration_ms": 178275,
+      "name": "vampiro",
+      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
+    },
+    {
+      "added_at": "2023-03-24 06:00:00",
+      "album": {
+        "name": "te odio",
+        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 170126,
+      "name": "te odio",
+      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+    },
+    {
       "added_at": "2021-10-19 01:46:50",
       "album": {
         "name": "Nubes",
@@ -191,6 +223,22 @@
     {
       "added_at": "2021-10-19 01:46:50",
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2021-10-19 01:46:50",
+      "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/0zEZh5PgV10xk2VM0GJ3Lm"
       },
@@ -219,22 +267,6 @@
       "duration_ms": 231640,
       "name": "Gemelos C\u00f3ctel",
       "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2021-10-19 01:46:50",
@@ -303,38 +335,6 @@
     {
       "added_at": "2021-10-19 01:46:50",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
-    },
-    {
-      "added_at": "2023-03-24 06:00:00",
-      "album": {
-        "name": "te odio",
-        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 170126,
-      "name": "te odio",
-      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -367,6 +367,38 @@
       "duration_ms": 242407,
       "name": "Especial",
       "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
+    },
+    {
+      "added_at": "2021-10-19 01:46:50",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
+    },
+    {
+      "added_at": "2021-10-19 01:46:50",
+      "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2021-10-19 01:46:50",
@@ -415,22 +447,6 @@
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2021-10-19 01:46:50",
@@ -721,22 +737,6 @@
       "url": "https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Amor de Furgoneta",
-        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 192865,
-      "name": "Amor de Furgoneta",
-      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
-    },
-    {
       "added_at": "2021-10-19 01:46:50",
       "album": {
         "name": "No S\u00e9 a Qui\u00e9n Matar",
@@ -751,6 +751,22 @@
       "duration_ms": 219475,
       "name": "No S\u00e9 a Qui\u00e9n Matar",
       "url": "https://open.spotify.com/track/2GblwI1Lhuwxd4bMkENMem"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Amor de Furgoneta",
+        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 192865,
+      "name": "Amor de Furgoneta",
+      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
     },
     {
       "added_at": "2023-01-04 01:54:29",
@@ -799,22 +815,6 @@
       "duration_ms": 237087,
       "name": "Lazy Lovers",
       "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
-        "name": "Entre Desiertos EP",
-        "url": "https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw"
-      },
-      "artists": [
-        {
-          "name": "Entre Desiertos",
-          "url": "https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

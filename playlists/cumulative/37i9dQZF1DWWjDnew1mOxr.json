@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: The Lathums",
+  "description": "Boss music for boss people. Cover: The K's",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230467,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
+    },
+    {
+      "album": {
         "name": "Big Deal",
         "url": "https://open.spotify.com/album/5aX2YO1amh4g9A20dlnT3T"
       },
@@ -128,6 +146,24 @@
       "duration_ms": 211451,
       "name": "Big Fish, Small Pond",
       "url": "https://open.spotify.com/track/54x9jwJU7a0xUjT1hbFtDi"
+    },
+    {
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/00KOYdLzspV1wDq6dU3Tna"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190206,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/2y0x5oohwPiUANKG4kqtEB"
     },
     {
       "album": {
@@ -236,6 +272,24 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
+    },
+    {
+      "album": {
+        "name": "Chancer",
+        "url": "https://open.spotify.com/album/4e5Wq8BfWIoW5sRe72mbqI"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194245,
+      "name": "Chancer",
+      "url": "https://open.spotify.com/track/2spJjz5986ndAKBdFZoTBP"
     },
     {
       "album": {
@@ -502,7 +556,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 173587,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4U1lnceYei81AcieKqPxIs"
@@ -743,6 +797,24 @@
     },
     {
       "album": {
+        "name": "I Never Wanted to Be Alone (F**king Feelings)",
+        "url": "https://open.spotify.com/album/0qHNSAOgpd7YC7pxl34L8t"
+      },
+      "artists": [
+        {
+          "name": "EEVAH",
+          "url": "https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "I Never Wanted to Be Alone (F**king Feelings)",
+      "url": "https://open.spotify.com/track/749rpRQcFBB6PNwJ2dPOFJ"
+    },
+    {
+      "album": {
         "name": "If You\u2019re Gonna Break My Heart",
         "url": "https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l"
       },
@@ -920,6 +992,24 @@
       "duration_ms": 186562,
       "name": "Just Move",
       "url": "https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf"
+    },
+    {
+      "album": {
+        "name": "World Full Of Worry",
+        "url": "https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl"
+      },
+      "artists": [
+        {
+          "name": "Peaness",
+          "url": "https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233074,
+      "name": "Kaizen",
+      "url": "https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo"
     },
     {
       "album": {
@@ -1283,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Right Time",
+        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240214,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
+    },
+    {
+      "album": {
         "name": "Electric Kool-Aid (Pt. 2)",
         "url": "https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI"
       },
@@ -1373,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Slowly Break My Heart",
+        "url": "https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF"
+      },
+      "artists": [
+        {
+          "name": "Frankie Beetlestone",
+          "url": "https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Slowly Break My Heart",
+      "url": "https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD"
+    },
+    {
+      "album": {
         "name": "Smashed Up My Fender",
         "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
       },
@@ -1460,6 +1586,24 @@
       "duration_ms": 242512,
       "name": "The Dance You Sell",
       "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
+    },
+    {
+      "album": {
+        "name": "Days Lost or Happily Wasted",
+        "url": "https://open.spotify.com/album/530f9RmlCdks6xvP7ZtObj"
+      },
+      "artists": [
+        {
+          "name": "The Sway",
+          "url": "https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191637,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/6gQheeYzRC6CFO6ydya9wx"
     },
     {
       "album": {
@@ -1643,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4FGWWBhvlrqbqQj0Bszc33"
+      },
+      "artists": [
+        {
+          "name": "The Covasettes",
+          "url": "https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188744,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/5uZrhapaUikHxUibhf5ELe"
+    },
+    {
+      "album": {
         "name": "Wayfinding",
         "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
       },
@@ -1715,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0"
+      },
+      "artists": [
+        {
+          "name": "Zuzu",
+          "url": "https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202450,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC"
+    },
+    {
+      "album": {
         "name": "The Bonny",
         "url": "https://open.spotify.com/album/6Ed44ptXyYJQM20Xat64I0"
       },
@@ -1748,6 +1928,24 @@
       "duration_ms": 252253,
       "name": "Wide Asleep",
       "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"
+    },
+    {
+      "album": {
+        "name": "Get Away from the Feeling",
+        "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
+      },
+      "artists": [
+        {
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230994,
+      "name": "You Change with the Seasons",
+      "url": "https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr"

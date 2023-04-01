@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ink Waruntorn",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 190725,
       "name": "Not Romantic",
       "url": "https://open.spotify.com/track/09whSxd83dqNcsKZvmmwko"
@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e47\u0e2d\u0e15\u0e1f\u0e35\u0e25\u0e41\u0e23\u0e07\u0e44\u0e1b\u0e44\u0e2b\u0e21 (Buzzkill) Feat. F.HERO",
+        "url": "https://open.spotify.com/album/74nX4wALX9YI5du7NJPP5t"
+      },
+      "artists": [
+        {
+          "name": "PentorJrp",
+          "url": "https://open.spotify.com/artist/0bHXI9cKfwXRzk9acBffsh"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "\u0e0a\u0e47\u0e2d\u0e15\u0e1f\u0e35\u0e25\u0e41\u0e23\u0e07\u0e44\u0e1b\u0e44\u0e2b\u0e21 (Buzzkill) Feat. F.HERO",
+      "url": "https://open.spotify.com/track/7AeeKbEm1ghtkccxQKyWzR"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e48\u0e27\u0e22\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e04\u0e19\u0e19\u0e31\u0e49\u0e19\u0e17\u0e35",
         "url": "https://open.spotify.com/album/3DMY1Mw0COtkmRF70gOgnQ"
       },
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 216315,
       "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e0a\u0e34\u0e1a\u0e1b\u0e38\u0e4b\u0e07 Feat.SPRITE",
       "url": "https://open.spotify.com/track/6I3Y2cxdvLVZeLRVoB3aVG"
@@ -3338,6 +3356,24 @@
       "duration_ms": 244136,
       "name": "\u0e23\u0e31\u0e01\u0e02\u0e49\u0e32\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27 (Falling in Love)",
       "url": "https://open.spotify.com/track/2VP2WPjDzo3bPutWdIbwpe"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) [From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step]",
+        "url": "https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) - From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step",
+      "url": "https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB"
     },
     {
       "album": {
@@ -4889,6 +4925,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1aSBzCOD3d7fEGNO2djBON"
+      },
+      "artists": [
+        {
+          "name": "DOM",
+          "url": "https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL"
+        },
+        {
+          "name": "MUON ATLAS",
+          "url": "https://open.spotify.com/artist/15K0fTYxItcRPxIMcefV9l"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174352,
+      "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/6PM9BmqnWn1Gg23BvWI6qu"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e15\u0e31\u0e27\u0e40\u0e25\u0e47\u0e01 (Chob Kub Khun)",
         "url": "https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI"
       },
@@ -5034,7 +5092,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 206062,
       "name": "\u0e41\u0e01\u0e25\u0e49\u0e07\u0e25\u0e37\u0e21 (Boyfriend)",
       "url": "https://open.spotify.com/track/1fd0ICmxYdKSlfk9bXmJpx"

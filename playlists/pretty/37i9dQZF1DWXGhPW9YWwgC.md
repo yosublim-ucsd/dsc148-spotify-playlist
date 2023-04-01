@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGhPW9YWwgC.md) - [plain]
 
 > La playlist oficial de la serie de Netflix, Sky High.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776 likes - 26 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 822 likes - 26 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

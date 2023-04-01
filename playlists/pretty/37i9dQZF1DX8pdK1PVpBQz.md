@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Milku\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,328 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,330 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 60 | [Burn](https://open.spotify.com/track/4u7oluBNNpWXjKqoJenGPl) | [Selfish Sons](https://open.spotify.com/artist/5Fqu2dYwt7GFleLcxCEYKE) | [Burn](https://open.spotify.com/album/2SFu5bKgSCHMYrFjluPcD6) | 2:22 |
 | 61 | [Wish We Ended Better](https://open.spotify.com/track/4HBD4xQCb7HvWIrLYMm7Gw) | [Ally Rendall](https://open.spotify.com/artist/6ZOCaRwVNqhX3frfV6qgN0) | [Wish We Ended Better](https://open.spotify.com/album/3RN8Cvf038ejMWf74yfU8x) | 3:11 |
 | 62 | [You Are The Reason](https://open.spotify.com/track/56F50CYq9MRcefIShTLPL4) | [Tassone](https://open.spotify.com/artist/470ihAHOGGu2P0xyo8upnv), [Amy Kisnorbo](https://open.spotify.com/artist/2PJz7yQtTtf05sYx7jsbrI) | [First Light](https://open.spotify.com/album/0j8NWZVyLmUtvybK07T1hi) | 4:00 |
-| 63 | [CHAINS \(REMIX\)](https://open.spotify.com/track/1Iaz6q0qgWOIEfLea1k9nf) | [Sailor Goon](https://open.spotify.com/artist/1FZj2HbeTP7F5xOqIrPKKZ), [NL](https://open.spotify.com/artist/44CpDft3h6UMOzq06YrHFO) | [CHAINS \(REMIX\)](https://open.spotify.com/album/6bVk4gijCKG6Go97AUcKMN) | 2:26 |
+| 63 | [CHAINS \(REMIX\)](https://open.spotify.com/track/1Iaz6q0qgWOIEfLea1k9nf) | [Sailor Goon](https://open.spotify.com/artist/1FZj2HbeTP7F5xOqIrPKKZ), [NL](https://open.spotify.com/artist/0xsfRXdiSo4keK2ebmupyD) | [CHAINS \(REMIX\)](https://open.spotify.com/album/6bVk4gijCKG6Go97AUcKMN) | 2:26 |
 | 64 | [Throw It Back](https://open.spotify.com/track/3n9vQ0yntYkuDmHwnK6cPQ) | [Jono The Six](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR) | [Throw It Back](https://open.spotify.com/album/6gtSHdN39ktK31WgFA2Tqq) | 2:32 |
 | 65 | [Ever](https://open.spotify.com/track/35kBRsu094CW38cgSlAQOx) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [Ever](https://open.spotify.com/album/0v19qej6RtA6pYGWIPnrOh) | 3:50 |
 | 66 | [Can't Let Go](https://open.spotify.com/track/2LUjgAiSeJ93YLnOQjjJgP) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [Can't Let Go](https://open.spotify.com/album/6jfhVLMVlhxljlJnS1qOpt) | 2:37 |

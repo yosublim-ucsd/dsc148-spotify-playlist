@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/3GCGJNpU4nRVw1uRPvJV0o"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143866,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1oE33RydbNjm4mjdniFNth"
+    },
+    {
+      "album": {
         "name": "Welcome Home",
         "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
       },
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 137293,
       "name": "True North",
       "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"

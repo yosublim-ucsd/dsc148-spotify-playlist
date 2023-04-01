@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sultan Stevenson Artwork: Joy Yamusangie
 
-1,035 songs - 3 day 11 hr 9 min
+1,036 songs - 3 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Archipelago](https://open.spotify.com/track/2aq8iH0Wr9uoj7ZdlmDOaI) | [Jules Brennan](https://open.spotify.com/artist/7unObIw4zbKUXYKFynXqQC) | [Archipelago](https://open.spotify.com/album/6CXVvIk3hjaELne5L4xZlq) | 5:31 | 2022-10-05 | 2022-10-27 |
 | [Arcipelago](https://open.spotify.com/track/4MUEcaK1OhK3c42fW9Pplg) | [Aura Safari](https://open.spotify.com/artist/2g7vF2a9fxqlidHNqcvROO) | [Arcipelago](https://open.spotify.com/album/45bYLHvAXCtAoTAoojjrZf) | 4:40 | 2022-07-20 | 2022-09-01 |
 | [Armando's Rhumba](https://open.spotify.com/track/4JuSosC9aUQ6etjKr62yoS) | [Steve Hudson](https://open.spotify.com/artist/5GNBhmXAHRfoJUupeXuWU1) | [Armando's Rhumba](https://open.spotify.com/album/4jSwvoNpHOyr73hXqMgiu3) | 4:18 | 2022-06-22 | 2022-07-21 |
-| [around the world](https://open.spotify.com/track/6aRIwsMliE5WFAzrub4zX7) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [earth sounds](https://open.spotify.com/album/3waYOXzSiDX8CnwOSkZVWT) | 2:30 | 2023-03-15 |  |
+| [around the world](https://open.spotify.com/track/6aRIwsMliE5WFAzrub4zX7) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [earth sounds](https://open.spotify.com/album/3waYOXzSiDX8CnwOSkZVWT) | 2:30 | 2023-03-15 | 2023-04-01 |
+| [around the world](https://open.spotify.com/track/70WBAN9os6FvYtDgJroIGU) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [around the world](https://open.spotify.com/album/5eL2i5al18gKUYP5NQmRZu) | 2:30 | 2023-03-15 |  |
 | [Around, Forever](https://open.spotify.com/track/1NDbqL9UmAqvaqfpGCXEB1) | [Kind Folk](https://open.spotify.com/artist/54mqhgv2wnQ6WlWK52FL6m), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H), [Alex LoRe](https://open.spotify.com/artist/1JPofOfw3ECJtn91Km4FnZ), [Colin Stranahan](https://open.spotify.com/artist/1owzblOPaoTvaopqpOp4zB), [Noam Weisenberg](https://open.spotify.com/artist/6WV1BxZcX9zOAmdeL5CZSF) | [Around, Forever](https://open.spotify.com/album/3MkjQpRnUBwQzfUZ2pK5Pu) | 7:38 | 2022-04-06 | 2022-04-28 |
 | [Arvo](https://open.spotify.com/track/3Ybo7qZG82G8EWRbbig8A6) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Liesu](https://open.spotify.com/album/69qer1Cm2ce3LVRLWPUgn7) | 4:55 | 2022-04-20 | 2022-05-19 |
 | [As They Are](https://open.spotify.com/track/37ZCc9H884xfdSmanr2e9o) | [Marijus Aleksa](https://open.spotify.com/artist/0pQnT6l8EyyRsh8vQuR8AS) | [As They Are](https://open.spotify.com/album/7tO5JMvaperIwT056UIvSS) | 5:30 | 2023-02-22 |  |

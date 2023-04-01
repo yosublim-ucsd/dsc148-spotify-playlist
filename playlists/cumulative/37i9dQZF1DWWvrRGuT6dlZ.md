@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Dominic Chin\. Artwork: Isu Kim.
 
-399 songs - 21 hr 56 min
+400 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [My World Too](https://open.spotify.com/track/6v4Y98Y5nhelVwwjB0Xdbk) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh) | [My World Too](https://open.spotify.com/album/4f1F2OfvY2ZsRUz7ic1Yfz) | 3:18 | 2022-01-13 | 2022-03-11 |
 | [Mysterious Interstellar Matter](https://open.spotify.com/track/2xlHbvu2g7YoGWGBMlr9rJ) | [Ky Den](https://open.spotify.com/artist/2LUQt3IqImFyupLVTie3Tk) | [Mysterious Interstellar Matter](https://open.spotify.com/album/680W5rwNNlx6ge7lItGcSt) | 2:11 | 2022-06-17 | 2022-09-23 |
 | [Nadia](https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Nadia](https://open.spotify.com/album/1dkVblyDuSDRjGfdL505Vf) | 3:21 | 2023-02-09 |  |
+| [Naia](https://open.spotify.com/track/2LpCT4VqzktXxfGavoT1N7) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj) | [Naia](https://open.spotify.com/album/6xRvK7V5Hz8usR348UHYVx) | 3:25 | 2023-03-31 |  |
 | [NAME DROP](https://open.spotify.com/track/06O9EQlQASt3khh9PrtVjZ) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS), [ZIONN](https://open.spotify.com/artist/5kEEpbGzmLPGYFm4gV7aYG) | [NAME DROP](https://open.spotify.com/album/6upXb5Huje6z6GXO58C71V) | 2:48 | 2021-12-01 | 2022-01-14 |
 | [Nervous](https://open.spotify.com/track/0EWw0f8uvX4kfOtIEQsyRH) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Nervous](https://open.spotify.com/album/6KPNk9pGhIQPzJFxhqGUAt) | 3:39 | 2023-01-12 |  |
 | [NEVER](https://open.spotify.com/track/7xPZnlty5gBy92kgqGtX6u) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [NEVER](https://open.spotify.com/album/3CQ13wZmKgdNIHe4aS0qm5) | 3:14 | 2022-03-10 | 2022-06-17 |

@@ -4,7 +4,7 @@
 
 > make it pop! cover: Catie Turner
 
-591 songs - 1 day 5 hr 48 min
+596 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,11 +256,13 @@
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2021-10-29 | 2022-02-19 |
 | [i love u](https://open.spotify.com/track/4h83bb7xRzB7Qo735CjLMH) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [i love u](https://open.spotify.com/album/6f3F3cp9VVYCFKerzAp82n) | 2:43 | 2022-02-25 | 2022-03-12 |
 | [I Love You So \- King Henry Remix](https://open.spotify.com/track/0F6XcWEzymSracgq12pOXX) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8), [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [I Love You So \(King Henry Remix\)](https://open.spotify.com/album/7mGp8czi0fTiBsg7xq6wMD) | 3:13 | 2022-01-07 | 2022-02-26 |
+| [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 | 2023-03-31 |  |
 | [I Miss My Friends](https://open.spotify.com/track/17KjW8iBczo8uF47vdsJQQ) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [I Miss My Friends](https://open.spotify.com/album/3LVns0qDEnPhBggXgtQtYN) | 3:17 | 2022-01-14 | 2022-02-26 |
 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 | 2022-12-02 | 2023-03-25 |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-10-29 | 2022-01-15 |
 | [I Still Need You](https://open.spotify.com/track/3WM935x8fQpvSskUP1LHPB) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [I Still Need You](https://open.spotify.com/album/0y0HmUGFAEhTS62TlZI3Rj) | 2:58 | 2022-04-01 | 2022-04-09 |
 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 | 2022-03-18 | 2022-08-27 |
+| [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 |  |
 | [I Wanted to Keep You](https://open.spotify.com/track/4H5QTP8dcCF43mplpAja28) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [I Wanted to Keep You](https://open.spotify.com/album/1fCPIcTrS1wkX529mzWDWw) | 2:48 | 2021-10-29 | 2021-12-25 |
 | [I Was a Fool](https://open.spotify.com/track/5TCSMWZow9lzc7jr8WscVD) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:24 | 2022-04-01 | 2022-04-09 |
 | [i wish you loved me](https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i wish you loved me](https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi) | 3:20 | 2022-11-18 | 2023-03-25 |
@@ -277,6 +279,7 @@
 | [if jesus saves, she's my type](https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [if jesus saves, she’s my type](https://open.spotify.com/album/31eBckdffuyRK8cKmZYhkH) | 3:37 | 2022-02-18 | 2022-04-09 |
 | [ilu](https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [ilu](https://open.spotify.com/album/76Dh2doBSUmXzLQzwAExG0) | 2:49 | 2022-06-10 | 2022-08-20 |
 | [Imaginary Friends](https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Imaginary Friends](https://open.spotify.com/album/6yx184mN6SndwRgl6PZlLc) | 2:52 | 2022-03-18 | 2022-06-25 |
+| [IN THE CLOUDS](https://open.spotify.com/track/3A1r88bLPBHsWW4JCdFyHl) | [DMAD](https://open.spotify.com/artist/4pjMa1uBw63lY4eoVqrfyX) | [IN THE CLOUDS](https://open.spotify.com/album/5y0xWK2xRC7rAfm6VAejnA) | 2:48 | 2023-03-31 |  |
 | [In The Night](https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [In The Night](https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z) | 3:26 | 2022-09-02 | 2022-12-17 |
 | [Infinitely Falling](https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:43 | 2023-03-24 |  |
 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 | 2022-12-02 | 2023-03-25 |
@@ -423,6 +426,7 @@
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-07 | 2022-10-13 |
 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-07 | 2023-01-28 |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-10-29 | 2022-03-26 |
+| [Red Hot](https://open.spotify.com/track/2oBS99VNVMUPFp1m4S7Omn) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [madwoman EP](https://open.spotify.com/album/0kzWo1WLOms89dJaNSCdIw) | 2:49 | 2023-03-31 |  |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-15 |
 | [Repeat Caller](https://open.spotify.com/track/69zIlo9KqVoQjenSCh10Wb) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Repeat Caller](https://open.spotify.com/album/4gmKqHoxwAaQw7meJMJ1Mz) | 2:21 | 2021-11-05 | 2022-01-22 |
 | [Replace Me](https://open.spotify.com/track/2WbIdh9RxH4V0xv465tQzQ) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Replace Me](https://open.spotify.com/album/5Z5eUGnz4aZrWjHJF5PBr5) | 3:17 | 2022-03-04 | 2022-04-29 |
@@ -469,6 +473,7 @@
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2022-11-11 | 2023-02-25 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-14 | 2022-04-09 |
 | [Solo](https://open.spotify.com/track/4iR9GcxaVVTHuZgb3KiNDY) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Solo](https://open.spotify.com/album/2W3oBE7aeeUYGvzwKKKaLL) | 2:37 | 2022-08-26 | 2022-09-17 |
+| [Solo](https://open.spotify.com/track/6YYvWyhAqooh8RqNeGsOlq) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Solo](https://open.spotify.com/album/0a7Qd2a1DiTqRJIdJgtcSC) | 2:47 | 2023-03-31 |  |
 | [Some Kind Of Way](https://open.spotify.com/track/0hyQgBINkDzvl5M7PkFg0L) | [Sitting on Stacy](https://open.spotify.com/artist/094vjpZRVz3pzNq8VXmq7R) | [Some Kind Of Way](https://open.spotify.com/album/2MxemBELXJhdMoLnvUC6Gc) | 3:04 | 2022-04-29 | 2022-07-30 |
 | [Someone Like You](https://open.spotify.com/track/413GLSu7A62MzPv3lYh6Kt) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Someone Like You](https://open.spotify.com/album/4BdRh4BDrt51Igtk0bPIKs) | 2:52 | 2022-02-25 | 2022-06-11 |
 | [Someone To You](https://open.spotify.com/track/0X48tmPQTHN2vtoyAnJK8M) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Someone To You](https://open.spotify.com/album/5EIHcxxy0gZCYOxjLVpWTP) | 3:20 | 2022-01-21 | 2022-03-18 |

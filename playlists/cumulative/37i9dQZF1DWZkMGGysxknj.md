@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-253 songs - 14 hr 22 min
+255 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 | 2022-07-29 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/0eoPoF7uj2QlMmQ9OdcRaz) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Configuraciones Onduladas](https://open.spotify.com/album/4jjkFIeyBjwPwLK5DzvQ6O) | 2:10 | 2021-07-16 | 2022-07-29 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 2:10 | 2021-07-16 |  |
+| [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
 | [Correcto](https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a) | [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Cabeza de león](https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J) | 2:34 | 2021-07-16 |  |
 | [Counting Stars](https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Counting Stars](https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw) | 3:38 | 2021-07-16 |  |
 | [Crazy Love](https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [I Love You Madly EP](https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu) | 3:46 | 2021-07-16 |  |
@@ -156,7 +157,7 @@
 | [My Name](https://open.spotify.com/track/0UZrloJ3IvP3d8XmtDFFJA) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [My Name](https://open.spotify.com/album/3xoEJqvx6pNH54BclKBwDx) | 3:22 | 2021-07-16 | 2022-07-28 |
 | [My Name](https://open.spotify.com/track/43MfBn9DA4rQWuIk2GRuc6) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:22 | 2021-07-16 |  |
 | [Never Leave You](https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO) | [Sterre Weldring](https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL) | [Never Leave You](https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN) | 3:27 | 2021-07-16 | 2022-07-29 |
-| [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2021-07-16 |  |
+| [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2021-07-16 | 2023-04-01 |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2021-07-16 |  |
 | [No Regrets](https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [No Regrets](https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI) | 3:07 | 2021-07-16 | 2022-11-13 |
 | [No Tears Left To Cry](https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [No Tears Left To Cry](https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y) | 3:58 | 2021-07-16 |  |
@@ -185,7 +186,8 @@
 | [Que Facil Es Hablar](https://open.spotify.com/track/2CiVK2RuaMOieFPdYacJtB) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2mmRppQCZB8ccGGUkxp0dJ) | 2:54 | 2021-07-16 | 2022-07-29 |
 | [Que Facil Es Hablar](https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw) | 2:54 | 2021-07-16 |  |
 | [Ransom](https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Ransom](https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb) | 2:46 | 2021-07-16 |  |
-| [Rare](https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P) | [Nina Olivia](https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9) | [Rare](https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak) | 3:44 | 2021-07-16 |  |
+| [Rare](https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P) | [Nina Olivia](https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9) | [Rare](https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak) | 3:44 | 2021-07-16 | 2023-04-01 |
+| [Reencontrarnos](https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5), [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Reencontrarnos](https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5) | 4:15 | 2023-04-01 |  |
 | [Sad Town](https://open.spotify.com/track/45VNBVpp3UZA3fD8At5j3I) | [Birdy Bardot](https://open.spotify.com/artist/0fLUN3EcqC9nKhHKYOQ539) | [Sad Town](https://open.spotify.com/album/1WVMyPT8JE0ZVgwRJTJI7e) | 4:19 | 2021-07-16 | 2022-07-28 |
 | [Saturday Nights](https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Saturday Nights](https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv) | 2:58 | 2021-07-16 |  |
 | [Saudade \- Versión Acústica](https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Saudade \(Versión Acústica\)](https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG) | 3:58 | 2021-07-16 |  |

@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 222626,
       "name": "Cool Whip",
       "url": "https://open.spotify.com/track/11VRbqIoImi99kotcVUDKw"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 187120,
       "name": "Devil and the Deep Blue",
       "url": "https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
@@ -2817,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Make It All Work Out",
+        "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "Make It All Work Out",
+      "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
+    },
+    {
+      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -3442,6 +3460,24 @@
       "duration_ms": 264066,
       "name": "Racing To A Red Light",
       "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+    },
+    {
+      "album": {
+        "name": "Rebels In The Street",
+        "url": "https://open.spotify.com/album/4SPtUiUfHxlWbfLSGIwWmA"
+      },
+      "artists": [
+        {
+          "name": "The Red Goes Black",
+          "url": "https://open.spotify.com/artist/12BYA91BSCxjbk1b638nlR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229540,
+      "name": "Rebels In The Street",
+      "url": "https://open.spotify.com/track/5kGFXbSqDNadDBSsdyO94y"
     },
     {
       "album": {
@@ -4197,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/0HyNnJrfMh3pQyjQFr5j60"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309936,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/53b1hEONbOjbiM4jrd9nPb"
+    },
+    {
+      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
@@ -4302,6 +4356,24 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F"
+    },
+    {
+      "album": {
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68"
     },
     {
       "album": {
@@ -4894,7 +4966,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 204524,
       "name": "We Are Here",
       "url": "https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs"

@@ -1,15 +1,15 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 6527,
+  "num_followers": 6541,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMDMyMjQsMDAwMDAwMDAwZjIwMzdmMThlYWEzM2JkZGY4NjkzNGU4NTI3MWE3Ng==",
+  "snapshot_id": "MjgwMDQ3MzcsMDAwMDAwMDBlODZlNDllM2VhNjk5M2E3ZDlmYzAyNWEzZGI4Mzk4Zg==",
   "tracks": [
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "We Gon\u2019 Be Alright",
         "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
+      "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 379507,
+      "name": "Get Up - Live",
+      "url": "https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut"
+    },
+    {
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "New",
         "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
@@ -97,23 +113,7 @@
       "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
-      "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 379507,
-      "name": "Get Up - Live",
-      "url": "https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut"
-    },
-    {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3MwZoGEVR9i2AWzA8Vko9O"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Anyhow",
         "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/1YODRGANKdfp31X1QC1XOx"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
@@ -333,23 +333,7 @@
       "url": "https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
-      "album": {
-        "name": "Work It Out (Live)",
-        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 320955,
-      "name": "Work It Out - Live",
-      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
-    },
-    {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
@@ -373,7 +357,23 @@
       "url": "https://open.spotify.com/track/4OpPtI0wirTyNdX1ZO1pJs"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
+      "album": {
+        "name": "Work It Out (Live)",
+        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 320955,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
+    },
+    {
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1lgy6Rg78ekOXUXP3V2BIk"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/7iBKYoVKGE8yJ2paD87Zvi"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/2AfxHwD4EII0RKJmSo7Z2C"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
@@ -509,23 +509,7 @@
       "url": "https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
-      "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 328920,
-      "name": "I Want It All Back - Live",
-      "url": "https://open.spotify.com/track/6JgbktlskIRt68HBmkfCgr"
-    },
-    {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "The Definition Of...",
         "url": "https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo"
@@ -545,7 +529,23 @@
       "url": "https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
+      "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 328920,
+      "name": "I Want It All Back - Live",
+      "url": "https://open.spotify.com/track/6JgbktlskIRt68HBmkfCgr"
+    },
+    {
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Church On The Moon",
         "url": "https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/6NabK7p4Fcor1gwBgv2jLQ"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/7wIkV5aBDfYDgmhr7x2IrY"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
@@ -629,27 +629,7 @@
       "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
-      "album": {
-        "name": "Fearless (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 505773,
-      "name": "I Give You Glory",
-      "url": "https://open.spotify.com/track/3OV4aZDRNpg46THOyltbUE"
-    },
-    {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "As I Am",
         "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
@@ -669,7 +649,27 @@
       "url": "https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
+      "album": {
+        "name": "Fearless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 505773,
+      "name": "I Give You Glory",
+      "url": "https://open.spotify.com/track/3OV4aZDRNpg46THOyltbUE"
+    },
+    {
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
@@ -765,7 +765,23 @@
       "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
+      "album": {
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Let Us Worship",
+      "url": "https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm"
+    },
+    {
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
@@ -781,23 +797,7 @@
       "url": "https://open.spotify.com/track/796T4AcNsk8eFPrJRViYMX"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
-      "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 282786,
-      "name": "Stand Out",
-      "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
-    },
-    {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Smokie Norful Live",
         "url": "https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO"
     },
     {
-      "added_at": "2023-03-30 16:24:11",
+      "added_at": "2023-03-31 17:37:34",
       "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 257733,
-      "name": "Let Us Worship",
-      "url": "https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm"
+      "duration_ms": 282786,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-86 songs - 7 hr 45 min
+87 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Benjamín Carrión](https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Benjamín Carrión](https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k) | 2:57 | 2022-12-19 |  |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-12-19 | 2023-03-22 |
 | [Blooming Flower \- Radio Version](https://open.spotify.com/track/0uRJIDGu0ivVVJqo4ocnRV) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [Blooming Flower](https://open.spotify.com/album/66VKKTA3Agn5qDlYsH7foU) | 3:44 | 2022-12-19 |  |
+| [Boa Noite](https://open.spotify.com/track/6BCizRXYVjlVsTHWporI29) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [Boa Noite](https://open.spotify.com/album/2bxlAdHsTpyuo1eWjMMuMc) | 2:46 | 2023-03-31 |  |
 | [Camaleon](https://open.spotify.com/track/19wgaEoumlpuTRu3XqH6W8) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 5:59 | 2023-03-21 |  |
 | [Camomille](https://open.spotify.com/track/4AyHuAzcc1wlVV3kuLb5uM) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Dub kantine EP](https://open.spotify.com/album/1jmVe0TmBy5dJPFk0HD30n) | 6:53 | 2023-03-21 |  |
 | [Can You See What I See](https://open.spotify.com/track/1HRKQf25EU09i3IvNuJRd4) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Can You See What I See](https://open.spotify.com/album/0CSbzLZKijkGdVgl4u4REk) | 6:40 | 2023-03-21 |  |
@@ -86,7 +87,7 @@
 | [Tango Bar \- Alvaro Suarez Remix](https://open.spotify.com/track/5t93cE5V3JELqsgXeBVoKG) | [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv), [Mr Doxx](https://open.spotify.com/artist/5Hi7p9BIFa2GlpcGL5tfaB) | [Tango Bar](https://open.spotify.com/album/4twfkJpB5oUWVBix59JVu7) | 7:18 | 2022-12-19 | 2023-03-22 |
 | [The Secret Drums of Bwiti \- Turu Anasi Remix](https://open.spotify.com/track/0ROrutIzpWjX7P6IcJPQGQ) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Turu Anasi](https://open.spotify.com/artist/1HKyZXQv90cYQtoZQDya0d) | [The Secret Drums of Bwiti](https://open.spotify.com/album/2dBT0nweCBYuKqQRu02hhc) | 6:02 | 2022-12-19 |  |
 | [Tropicana](https://open.spotify.com/track/157jn2YkxNcPZcG2dZZJz8) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana](https://open.spotify.com/album/3AJMgWuKwAUHvG0eJpaWDC) | 3:51 | 2022-12-19 |  |
-| [Turbina De Amor](https://open.spotify.com/track/4UY0w7Q0btgFOXmkF30KTj) | [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd), [Martin Boder](https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw), [Maria Barone](https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs) | [Beats & Culture \(BNC004\)](https://open.spotify.com/album/73V73BkhSteIKDX25qEgGH) | 4:48 | 2023-03-21 |  |
+| [Turbina De Amor](https://open.spotify.com/track/4UY0w7Q0btgFOXmkF30KTj) | [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd), [Martin Boder](https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw), [Maria Barone](https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs) | [Beats & Culture \(BNC004\)](https://open.spotify.com/album/73V73BkhSteIKDX25qEgGH) | 4:48 | 2023-03-21 | 2023-04-01 |
 | [Una Vida](https://open.spotify.com/track/1mOICLQ9wAw069fKRhnvQ6) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 7:00 | 2023-03-21 |  |
 | [Vamonos](https://open.spotify.com/track/3sVp4qJWZ9S24KPDvEE1E7) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Vamonos](https://open.spotify.com/album/6fqjsvw7ENyWIjpwYnPLnW) | 6:52 | 2022-12-19 | 2023-03-22 |
 | [Verte Triste](https://open.spotify.com/track/4PvM85aE1kiun9jG4m1apO) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Verte Triste](https://open.spotify.com/album/6gr5koVviqQjMMDehw6XDi) | 3:15 | 2022-12-19 | 2023-03-22 |

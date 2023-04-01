@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: Flo Milli",
+  "description": "Real Rap. All Pressure. Cover: Lola Brooke",
   "name": "Pressure",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 167952,
       "name": "Big Smoke",
       "url": "https://open.spotify.com/track/4N8uD36Xn50DSBg1Swh9do"
@@ -714,6 +714,24 @@
       "duration_ms": 147525,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+    },
+    {
+      "album": {
+        "name": "BING BONG",
+        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106736,
+      "name": "BING BONG",
+      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
     },
     {
       "album": {
@@ -768,7 +786,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 163011,
       "name": "Blow It (feat. Kali)",
       "url": "https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I"
@@ -1245,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Click Click (feat. B-Lovee)",
+        "url": "https://open.spotify.com/album/2NuOh0yov7vuBxweJIj17w"
+      },
+      "artists": [
+        {
+          "name": "Murda B",
+          "url": "https://open.spotify.com/artist/4HuE6dCutt16fdrJiA2uqr"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "Click Click (feat. B-Lovee)",
+      "url": "https://open.spotify.com/track/4nkUBzFunkTB1gwW42Rmrm"
+    },
+    {
+      "album": {
         "name": "Come Outside",
         "url": "https://open.spotify.com/album/43KMwZRQfScNnsSKdjWliV"
       },
@@ -1666,6 +1706,32 @@
       "duration_ms": 131052,
       "name": "Don't Play With It (feat. Billy B)",
       "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
+    },
+    {
+      "album": {
+        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
+        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
+      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
     },
     {
       "album": {
@@ -3681,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "Nu Nu",
+        "url": "https://open.spotify.com/album/4u45cvxz1r2X5uDbEm6aVJ"
+      },
+      "artists": [
+        {
+          "name": "Cuban Doll",
+          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151343,
+      "name": "Nu Nu",
+      "url": "https://open.spotify.com/track/6UIAPd2u3Pn81z0U5SebIO"
+    },
+    {
+      "album": {
         "name": "Nunnadet Shit (Remix)",
         "url": "https://open.spotify.com/album/1loyx1hQOMMyI2fZsIst7R"
       },
@@ -4244,7 +4328,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 174552,
       "name": "Raid",
       "url": "https://open.spotify.com/track/3AzAbVJqwsnrO5eqqH8pQB"
@@ -5756,7 +5840,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 185505,
       "name": "What Else",
       "url": "https://open.spotify.com/track/5k6stJRSOD9F1jYivysx9d"

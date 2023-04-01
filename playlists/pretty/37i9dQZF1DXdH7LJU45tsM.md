@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 
 > ¡Ay, chiquitita, cómo la quiero! ¡Y puro Grupo Firme!
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,008 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,640 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 | 69 | [Se Despide Juanito \(En Vivo\)](https://open.spotify.com/track/05UtcKKY8rtzIUwa8JhaAd) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Se Despide Juanito \(En Vivo\)](https://open.spotify.com/album/32HwQfPQ616pIZzRh5rLzd) | 4:43 |
 | 70 | [Cuando Me Tenías](https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:07 |
 
-Snapshot ID: `MTY3ODM4MDE1MiwwMDAwMDAwMGQ1ZDNmNjZmNmJlMjkyNjA4Y2E0NTIwNDFlM2NlMWZl`
+Snapshot ID: `MTY4MDI3MjEwMSwwMDAwMDAwMGM1ZDc4NzFlNWM5Yjk4MDFmZjJhMTQwZmVjNzhlYTMz`

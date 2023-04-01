@@ -4,7 +4,7 @@
 
 > 
 
-217 songs - 5 hr 55 min
+218 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Dark night, Sleep tight](https://open.spotify.com/track/4AyuF903Evw8I9J3ZtiCng) | [Percy Erickson](https://open.spotify.com/artist/2CZkyihyuE9dEYbA1DTC45) | [Dark night, Sleep tight](https://open.spotify.com/album/4T481VUerDBhjcx2cKwTCL) | 1:05 | 2021-11-11 |  |
 | [Das Zahnputzlied](https://open.spotify.com/track/4tJU7TE1Jwt7Nlil89lLUO) | [Frieda Ross](https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI) | [Das Zahnputzlied](https://open.spotify.com/album/4uW3B5iSpvK17bN7oLN0Nv) | 1:36 | 2022-06-10 |  |
 | [Deep Sleep Lullaby](https://open.spotify.com/track/4wqW83aTWcGH8JJyxxHPNy) | [Reynard Clark](https://open.spotify.com/artist/1jj1Bmkj4ib8Ev0TsDBnfJ) | [Deep Sleep Lullaby](https://open.spotify.com/album/1PjWDhPpPkli4PX0npleRO) | 1:07 | 2022-06-10 |  |
+| [Det gåtfulla folket](https://open.spotify.com/track/3ysXp3PEaSxrT7ycMPtDlh) | [Sigge Bergman](https://open.spotify.com/artist/1Y2a0no7uLCqX4RbdahpV6) | [Det gåtfulla folket](https://open.spotify.com/album/0imIbxToztJLHYfHmSZx3l) | 1:42 | 2023-03-31 |  |
 | [Didn't Leave Nobody but the Baby](https://open.spotify.com/track/4Xk05CiaJyLvWc7GtTUQCv) | [Joana Watts](https://open.spotify.com/artist/1Hd2JLOIkYcfgaeRQjfxQW) | [Didn't Leave Nobody but the Baby](https://open.spotify.com/album/5dyehg0WjxqP8ZYayF1tV1) | 2:04 | 2021-11-11 |  |
 | [Ding Dong](https://open.spotify.com/track/6EgPt4flLVAt723yffCBgA) | [Odell Aylmer](https://open.spotify.com/artist/6kFti89t1ebLGedez1cGeG) | [Ding Dong](https://open.spotify.com/album/5brVluzJndmfbCAlGaAOvL) | 1:25 | 2021-11-11 |  |
 | [Doodle Doo](https://open.spotify.com/track/32qIDzRk8DYmFrxGeNOa52) | [Jameson Morse](https://open.spotify.com/artist/75CLOXDoDKC14KyHexZXAz) | [Doodle Doo](https://open.spotify.com/album/3JSErm93H0FpekfOYzCNws) | 1:24 | 2022-10-27 |  |
@@ -103,7 +104,7 @@
 | [I Can't Help Falling In Love \- Harp](https://open.spotify.com/track/6ufNUNeLxtMKI99EmZbG0p) | [Chloe Hulme](https://open.spotify.com/artist/547PuusQ4w9ybqTNLkI4Nu) | [I Can't Help Falling In Love](https://open.spotify.com/album/67udOFmO7YqGWCIJFqo88w) | 1:59 | 2022-05-17 |  |
 | [I Don't Like Peas](https://open.spotify.com/track/0fm4S3aLlxvh1viBe47osX) | [Peggy Buggs](https://open.spotify.com/artist/6JZRlIGBEp56gHX94QzpQe) | [I Don't Like Peas](https://open.spotify.com/album/2dam7lg2R9iMIAEZ72Vo0t) | 1:22 | 2021-11-11 |  |
 | [I stilhed](https://open.spotify.com/track/2xy71tw29P53B6jO3w69T2) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [I stilhed](https://open.spotify.com/album/65sy3rMMNGNAYEqxtTJzrr) | 2:07 | 2023-01-27 |  |
-| [I Will Wait](https://open.spotify.com/track/1R6EvIkbjBXKdEgShye32j) | [Ratko Zrala](https://open.spotify.com/artist/1tuQN6hzZ7Nkifi8fTv8jQ) | [I Will Wait](https://open.spotify.com/album/3TNUI0JGMaGJas6FjahFY9) | 2:33 | 2022-09-22 |  |
+| [I Will Wait](https://open.spotify.com/track/1R6EvIkbjBXKdEgShye32j) | [Ratko Zrala](https://open.spotify.com/artist/1tuQN6hzZ7Nkifi8fTv8jQ) | [I Will Wait](https://open.spotify.com/album/3TNUI0JGMaGJas6FjahFY9) | 2:33 | 2022-09-22 | 2023-04-01 |
 | [Idas sommarvisa](https://open.spotify.com/track/6EtjH6yR0XIHAY0PXRd65U) | [Josefine Wennman](https://open.spotify.com/artist/4Iz7MgZBYGsZzFr3gVamSc) | [Idas sommarvisa](https://open.spotify.com/album/6QTrbS5qBgNVXmfXdllD2O) | 2:29 | 2021-11-11 |  |
 | [If all the stars](https://open.spotify.com/track/6qdsdpkntWpvn6vsgdwcXY) | [Ford Ripley](https://open.spotify.com/artist/6WLptfkrV9byJX74bdV2x9) | [If all the stars](https://open.spotify.com/album/27s25kTVun2NPwD2b3oSOD) | 1:45 | 2021-11-11 |  |
 | [If You Can't Fall Asleep](https://open.spotify.com/track/2OzYkqvv0gWeNn2fuI4BJx) | [Callie Berger](https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs) | [If You Can't Fall Asleep](https://open.spotify.com/album/7iI7Oz1jT9b1dkaWlb3qJC) | 1:47 | 2022-07-29 |  |
@@ -111,7 +112,7 @@
 | [In Your Dreams](https://open.spotify.com/track/2S2XvPvpTbSXYh8MfK4Uit) | [Fitz Wilmer](https://open.spotify.com/artist/0g8dTozmEA5bn0e6Xd2Gw8) | [In Your Dreams](https://open.spotify.com/album/4qWG2QrIdYGJ8mp3Ye43jY) | 1:45 | 2021-11-11 |  |
 | [It's Time For Bed](https://open.spotify.com/track/1BY99d77sqa5CBdHCAwkNQ) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [It's Time For Bed](https://open.spotify.com/album/1fo6lIEchk4zYw31EqlzqZ) | 2:50 | 2021-11-11 | 2023-03-15 |
 | [İyi geceler](https://open.spotify.com/track/2K3foJU3XYNmp2uAXS3VqH) | [Gunay Şahin](https://open.spotify.com/artist/00nxAJ82GFHQXiVZL0dEL3) | [İyi geceler](https://open.spotify.com/album/3GeZUtlhS0TiPyKRMsbs8R) | 1:32 | 2021-11-11 | 2023-03-15 |
-| [Joyful Dreams](https://open.spotify.com/track/1FF6kQGLkSexxQ0FxWPCCL) | [Wunder Harp](https://open.spotify.com/artist/7Hki2k0mnobCrWYGthcAqO) | [Joyful Dreams](https://open.spotify.com/album/2jOyYbb3igxJOMidFYCePu) | 1:23 | 2021-11-11 |  |
+| [Joyful Dreams](https://open.spotify.com/track/1FF6kQGLkSexxQ0FxWPCCL) | [Wunder Harp](https://open.spotify.com/artist/7Hki2k0mnobCrWYGthcAqO) | [Joyful Dreams](https://open.spotify.com/album/2jOyYbb3igxJOMidFYCePu) | 1:23 | 2021-11-11 | 2023-04-01 |
 | [Juliette la rainette](https://open.spotify.com/track/4SEwRdM99oGODGD957dnFf) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Juliette la rainette](https://open.spotify.com/album/4BIX2mOOLCEq1sjZxKdkgy) | 1:24 | 2021-11-11 |  |
 | [Justin the Beaver](https://open.spotify.com/track/0UQDe6Q4AiTDMAFtepd4sQ) | [Brenden Chancellor](https://open.spotify.com/artist/74ENjZjnuRXmh1Ip3BD6tP) | [Justin the Beaver](https://open.spotify.com/album/28AqxHQydW40rXciwhy31T) | 1:29 | 2022-01-21 |  |
 | [La la la la long](https://open.spotify.com/track/4X54gmTGFsjKESVJqthgHk) | [Rod Parsons](https://open.spotify.com/artist/0t294nMoDXNQcR1vvnMgdh) | [La la la la long](https://open.spotify.com/album/0gwGEOaICIvX0rbCtNDGq5) | 1:06 | 2021-11-11 | 2022-02-11 |
@@ -172,7 +173,7 @@
 | [Sleepy Pony](https://open.spotify.com/track/7bzxInF7V8ygpA3TUzSwMN) | [Brenden Chancellor](https://open.spotify.com/artist/74ENjZjnuRXmh1Ip3BD6tP) | [Sleepy Pony](https://open.spotify.com/album/0y6b44gSYYnLwiCLEJLyDV) | 1:21 | 2022-01-21 |  |
 | [Slumberland](https://open.spotify.com/track/3nL3Fw2VyJJcX7IKXFtYJi) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [Slumberland](https://open.spotify.com/album/38vYZzD3VHBFynAscSFWr0) | 1:36 | 2023-02-17 |  |
 | [Snuggle Tight](https://open.spotify.com/track/0HsSm3PpAGKuCMM86XK2Ft) | [Quinn Palmer](https://open.spotify.com/artist/6sCg5kvvJZOVhzRawPZpmF) | [Snuggle Tight](https://open.spotify.com/album/2qulT9EMnJ35sBOWKtWCuG) | 1:34 | 2022-04-26 |  |
-| [Sol, Vind Och Vatten](https://open.spotify.com/track/25965GjEebgh84GJuk4mjn) | [Eloise Gardner](https://open.spotify.com/artist/7AlKxvAw1X6hclw7qoDEqz) | [Sol, Vind Och Vatten](https://open.spotify.com/album/1nlRf8ZrcsMT8QSrwoAjAw) | 1:44 | 2023-02-17 |  |
+| [Sol, Vind Och Vatten](https://open.spotify.com/track/25965GjEebgh84GJuk4mjn) | [Eloise Gardner](https://open.spotify.com/artist/7AlKxvAw1X6hclw7qoDEqz) | [Sol, Vind Och Vatten](https://open.spotify.com/album/1nlRf8ZrcsMT8QSrwoAjAw) | 1:44 | 2023-02-17 | 2023-04-01 |
 | [Someday](https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI) | [Sia Bradley](https://open.spotify.com/artist/4o9QVRe1jOStjIsC4tIkdz) | [Someday](https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK) | 2:28 | 2023-01-27 |  |
 | [Song Of The Small Bear](https://open.spotify.com/track/40mHbIVXHZwZiUFomKa3aP) | [Jacob Radcliff](https://open.spotify.com/artist/48yYO2xrZxzM3xEjDujE0d) | [Song Of The Small Bear](https://open.spotify.com/album/7v3O7qxke2x91cxQDmUv8G) | 1:44 | 2021-11-11 |  |
 | [Spirit](https://open.spotify.com/track/5XECpuIjBhCVzF1dnx0qLg) | [Esmé Dean](https://open.spotify.com/artist/3AidWvpVrxSP3vCHDXqRHF) | [Spirit](https://open.spotify.com/album/5hJRqymE8HDPqkwYxw5ePA) | 2:11 | 2021-11-11 |  |

@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 186911,
       "name": "Golvet i hallen",
       "url": "https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw"
@@ -4812,7 +4812,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 155026,
       "name": "Hon har dig",
       "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
@@ -5262,7 +5262,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 81002,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF"
@@ -7213,6 +7213,24 @@
     },
     {
       "album": {
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
+    },
+    {
+      "album": {
         "name": "Poster Girl (Swedish Summer Edition)",
         "url": "https://open.spotify.com/album/2tJdPK9VjOY8XV6VM6s1Cy"
       },
@@ -7606,7 +7624,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 180787,
       "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
       "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
@@ -7824,6 +7842,24 @@
       "duration_ms": 220172,
       "name": "N\u00e5t \u00e4kta",
       "url": "https://open.spotify.com/track/0GijOgh6mFH7J0UIhOBKnk"
+    },
+    {
+      "album": {
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197297,
+      "name": "Oas",
+      "url": "https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o"
     },
     {
       "album": {
@@ -11075,6 +11111,24 @@
     },
     {
       "album": {
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237986,
+      "name": "Tombola 94",
+      "url": "https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI"
+    },
+    {
+      "album": {
         "name": "Best You've Ever Had",
         "url": "https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe"
       },
@@ -11264,6 +11318,24 @@
       "duration_ms": 226906,
       "name": "T\u00e4rning",
       "url": "https://open.spotify.com/track/2srEdr47X3EzfCrKLM6qWe"
+    },
+    {
+      "album": {
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Undantag",
+      "url": "https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b"
     },
     {
       "album": {

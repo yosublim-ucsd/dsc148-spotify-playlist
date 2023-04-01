@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Boy and a Bird Dog",
+        "url": "https://open.spotify.com/album/0ZzYKjU7Iamiu2Y3kpCwPV"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184393,
+      "name": "Boy and a Bird Dog",
+      "url": "https://open.spotify.com/track/4gDbSuC9bn0bl6ZGE8yaSy"
+    },
+    {
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/4KnNIPnhyfsL1EJMsk0XeO"
       },

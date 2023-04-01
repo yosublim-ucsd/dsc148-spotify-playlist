@@ -4,7 +4,7 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-162 songs - 9 hr 50 min
+163 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Restless Spirits](https://open.spotify.com/track/2j20WdSsdwdajj5ikGGKX5) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Restless Spirits](https://open.spotify.com/album/30Jp6NWXNluqn6LlwgzmvT) | 3:32 | 2022-03-18 | 2023-02-11 |
 | [Rewind](https://open.spotify.com/track/0Quy2MHYc35H50appKLDeC) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Rewind](https://open.spotify.com/album/0jZT7FcmyH8HgO7vzP49Vb) | 3:14 | 2021-10-08 | 2023-02-11 |
 | [Saturday Night](https://open.spotify.com/track/4yUKyGGS3XfZykGg8iWc49) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [Saturday Night](https://open.spotify.com/album/5WYIVmNQXmB9jE9dXYdZ5F) | 4:37 | 2021-09-24 | 2022-05-28 |
-| [Settle Me Down](https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Settle Me Down](https://open.spotify.com/album/6xTLQhjUBGvO1p3tvdfHIY) | 2:57 | 2021-07-16 |  |
+| [Settle Me Down](https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 2:57 | 2022-05-27 |  |
+| [Settle Me Down](https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Settle Me Down](https://open.spotify.com/album/6xTLQhjUBGvO1p3tvdfHIY) | 2:57 | 2021-07-16 | 2023-04-01 |
 | [Shine Out](https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:53 | 2022-05-27 |  |
 | [Shine Out](https://open.spotify.com/track/6HJnkoE9kkavx2o4aNRaPM) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/1kF1B13rK9ZpCgibPbawcw) | 3:53 | 2021-04-16 | 2022-07-29 |
 | [Silverado Saturday Night](https://open.spotify.com/track/3PDp4C3ycPS0U6OCn6e5ht) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Silverado Saturday Night](https://open.spotify.com/album/5o6y1VdM9JPwKaWBHzrBpS) | 2:45 | 2021-07-16 | 2022-03-19 |

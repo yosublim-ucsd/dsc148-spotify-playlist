@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-264 songs - 21 hr 19 min
+265 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Angel Dust](https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Angel Dust](https://open.spotify.com/album/7qCoXlzYUSkTNP6q5qkh8l) | 6:57 | 2022-11-25 | 2023-01-27 |
 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 | 2021-11-12 |  |
 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 | 2023-03-16 |  |
-| [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-03-25 |  |
+| [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-03-23 |  |
 | [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 | 2021-11-12 |  |
 | [At Night in Dreams](https://open.spotify.com/track/6ZeOVOdxz0Sf0o9yf6imUX) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/6BcETfqZtiIw2TmpQGvAGS) | 4:04 | 2021-11-12 | 2022-07-29 |
 | [Automation](https://open.spotify.com/track/2xrOwkZ4t3qMTaP3oti1Xx) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/7h72n5kHGmCYkoXkBoL3II) | 3:29 | 2021-11-12 | 2022-07-29 |
@@ -78,7 +78,7 @@
 | [Estratagema](https://open.spotify.com/track/0hqCVbE0yN4Ta5o8wJSbOY) | [Strange Color](https://open.spotify.com/artist/31AXponRbJJncqwRJy8CEX) | [Estratagema](https://open.spotify.com/album/1uusJlOWHPGktNiwcNhUEG) | 6:39 | 2021-11-12 | 2022-07-16 |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-03-18 | 2023-01-14 |
 | [Fanfare for Effective Freedom](https://open.spotify.com/track/3oVZYXAb0rzN6MELLiFXPa) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV) | [The Common Task](https://open.spotify.com/album/4K3Dv0nnMK10uxpphFNCco) | 7:21 | 2021-11-12 | 2022-07-29 |
-| [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2022-11-15 |  |
+| [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2022-11-15 | 2023-04-01 |
 | [Fantôme](https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Fantôme](https://open.spotify.com/album/35LP1ys9GIAUAIrk7XT3RZ) | 5:06 | 2021-11-12 | 2022-07-29 |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2022-04-12 |  |
 | [Fishbelly 86 Onions](https://open.spotify.com/track/7HiyaZlTkSRWvLrHfBMcqz) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Fishbelly 86 Onions](https://open.spotify.com/album/1rQg83IzxLuBv2WEYywn6c) | 6:02 | 2021-11-12 | 2022-07-29 |
@@ -221,6 +221,7 @@
 | [Station Europa](https://open.spotify.com/track/59jMq3TSZF3dhlCbbpNOtL) | [10 000 Russos](https://open.spotify.com/artist/2pkZFQGkxsNYlJK5jO4z3L) | [Station Europa](https://open.spotify.com/album/2spbDrHyznrc7jNtAJJp0j) | 5:18 | 2021-11-12 | 2022-07-14 |
 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 | 2022-08-03 |  |
 | [String Theory](https://open.spotify.com/track/6kmzMsSKCFfx0lYQgospLN) | [Fabriccio De La Mora](https://open.spotify.com/artist/7pLfqIgR1knxojsSQmmONZ) | [Grand Unified Theories](https://open.spotify.com/album/4jrPtdrkLT5tz4OUcrHn4c) | 5:23 | 2022-06-29 | 2022-08-04 |
+| [Su Sızıyor](https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Su Sızıyor](https://open.spotify.com/album/0eVvTt2KZztpxztS0JvgMd) | 4:04 | 2023-03-31 |  |
 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 | 2021-11-12 | 2022-07-20 |
 | [Tense Soup](https://open.spotify.com/track/73ghPgeqN9YLa2XJva3rS7) | [Modern Ruin](https://open.spotify.com/artist/4cKQl1wHAssze6XTKQwPJm) | [Unemployment Line Disco](https://open.spotify.com/album/00xfuXJwBODesUybW1GouI) | 5:24 | 2021-11-12 | 2022-07-22 |
 | [The Ark](https://open.spotify.com/track/35WcyVjvnNmShTVxWpzqBX) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Spirals / The Ark](https://open.spotify.com/album/42PQd5ADHI5PEoxRgsO0AL) | 2:45 | 2021-11-12 | 2022-07-02 |

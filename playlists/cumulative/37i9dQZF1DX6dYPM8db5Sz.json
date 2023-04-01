@@ -1137,7 +1137,7 @@
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 155680,
+      "duration_ms": 155690,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7Br9wfxnSnIh2y3PbQ1SOE"
     },
@@ -1558,6 +1558,24 @@
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+    },
+    {
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/2IUWiVMWbkBrkCNer03wwk"
+      },
+      "artists": [
+        {
+          "name": "Lakkabrah",
+          "url": "https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/1gfQQt60plVWAATT1kGzWn"
     },
     {
       "album": {

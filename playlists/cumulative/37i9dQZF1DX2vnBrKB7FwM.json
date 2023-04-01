@@ -177,6 +177,28 @@
     },
     {
       "album": {
+        "name": "Buenos D\u00edas Vietnam (Remix)",
+        "url": "https://open.spotify.com/album/5HcbYvdV0r6K5U24C9yEpN"
+      },
+      "artists": [
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        },
+        {
+          "name": "Gambeta",
+          "url": "https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "Buenos D\u00edas Vietnam - Remix",
+      "url": "https://open.spotify.com/track/4bVbXnnWEopM8Vz3Vdi5kH"
+    },
+    {
+      "album": {
         "name": "Busca Escuela (One Take Show XII)",
         "url": "https://open.spotify.com/album/1MK2aiy4W1DgjZT6dYWAm8"
       },
@@ -188,7 +210,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 168000,
       "name": "Busca Escuela (One Take Show XII)",
       "url": "https://open.spotify.com/track/6LT6oMAViR1MpTwIAedpYP"

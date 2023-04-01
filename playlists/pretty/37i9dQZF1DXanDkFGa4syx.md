@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanDkFGa4syx.md) - [plain]
 
 > pov: geef me mijn jeugd terug
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,338 likes - 200 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,482 likes - 200 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

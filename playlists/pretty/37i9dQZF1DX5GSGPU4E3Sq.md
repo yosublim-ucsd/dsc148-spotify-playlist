@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GSGPU4E3Sq.md) - [plain]
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,453 likes - 150 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,471 likes - 150 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

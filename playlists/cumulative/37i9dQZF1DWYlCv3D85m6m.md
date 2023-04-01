@@ -4,7 +4,7 @@
 
 > One in a million! TWICE! SET ME FREE is here!
 
-186 songs - 10 hr 15 min
+191 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,12 @@
 | [SCIENTIST \- Japanese ver.](https://open.spotify.com/track/3dFsp2LG3OIOgBaBU87FR6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:16 | 2022-03-24 |  |
 | [SCIENTIST \- R3HAB Remix](https://open.spotify.com/track/53V5RztDKB9AXoqbHVKq2y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:28 | 2022-03-24 | 2022-07-29 |
 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 |  |
+| [SET ME FREE \(ARMNHMR Remix\) \(ENG\)](https://open.spotify.com/track/6rEskoR1IPe8099gp8N5AL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 2:58 | 2023-03-31 |  |
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 |  |
+| [SET ME FREE \(Lindgren Remix\)](https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lindgren](https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 3:31 | 2023-03-31 |  |
+| [SET ME FREE \(Lindgren Remix\) \(ENG\)](https://open.spotify.com/track/7K5LvTMS85SKWK6bYtHhAP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lindgren](https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 3:31 | 2023-03-31 |  |
+| [SET ME FREE \(Tommy “TBHits” Brown Remix\)](https://open.spotify.com/track/3em8yvglQOquNvttDVnRWS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Tommy “TBHits” Brown](https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 2:50 | 2023-03-31 |  |
+| [SET ME FREE \(Tommy “TBHits” Brown Remix\) \(ENG\)](https://open.spotify.com/track/6BhpvHofjQy5ZHSJLUy1V5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Tommy “TBHits” Brown](https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 2:50 | 2023-03-31 |  |
 | [SHADOW](https://open.spotify.com/track/0Wv6HtcBNex6lwPugykWCd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:48 | 2022-03-24 | 2022-07-29 |
 | [SHADOW](https://open.spotify.com/track/7HzvvhTmfzvD1dV4F7MIcm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 2:48 | 2022-07-19 |  |
 | [SHOT CLOCK](https://open.spotify.com/track/35J5q8vdObi345b8NKm1CX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:29 | 2022-03-24 | 2022-07-29 |

@@ -4987,6 +4987,28 @@
     },
     {
       "album": {
+        "name": "Bob Corritore & Friends: Women In Blues Showcase",
+        "url": "https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166975,
+      "name": "You're Gonna Be Sorry",
+      "url": "https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov"
+    },
+    {
+      "album": {
         "name": "You've Been Cheatin'",
         "url": "https://open.spotify.com/album/1xsH8xPrguqeXMgn6ftCaT"
       },

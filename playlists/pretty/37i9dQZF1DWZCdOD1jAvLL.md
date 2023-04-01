@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,877 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,017 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 79 | [Psychedelic Girls](https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Psychedelic Girls](https://open.spotify.com/album/0kjg5HYPH9fM4gwTWTOaWD) | 2:52 |
 | 80 | [48 Hours \- Radio edit](https://open.spotify.com/track/71YW4ULePshglTMFK3xc29) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [48 Hours \(Radio edit\)](https://open.spotify.com/album/3WetDMZ9SA3D9FQ1ARq20c) | 3:48 |
 
-Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMGEyNjI2NDJhMjJiYWM0MWI0ZTljYTU3MmNkNjgwMzVh`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGM0YTRhZDc2NjZmYmJhM2I0YzM4MTc2MTQxZWE3Mzll`

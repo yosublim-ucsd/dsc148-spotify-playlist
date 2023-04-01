@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127085,
+  "num_followers": 127087,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDA5NCw3M2MzMjU5ZWM1YTRlZDkwZDFhYmEwZDU4ZGQ1NDQzOWE0N2FkN2U0",
+  "snapshot_id": "NDA5NyxjYjU5YWJhNTU1MzVhN2QxNzU5ODkwYjgxOGExMDNmZmE1MWRiZjBl",
   "tracks": [
+    {
+      "added_at": "2023-03-31 16:28:38",
+      "album": {
+        "name": "Mindbreak",
+        "url": "https://open.spotify.com/album/21Cj0g82RnutbkJdlrwTkD"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "duration_ms": 213488,
+      "name": "Mindbreak",
+      "url": "https://open.spotify.com/track/6EP8jgwI9FS3qEEfNC6idl"
+    },
     {
       "added_at": "2023-03-30 16:04:06",
       "album": {
@@ -1091,26 +1107,6 @@
       "duration_ms": 223515,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/7Ga0UUOoWhScCqfsIBZcS1"
-    },
-    {
-      "added_at": "2023-01-17 17:53:51",
-      "album": {
-        "name": "All I Wanted",
-        "url": "https://open.spotify.com/album/2PjrdQeP3ghvirjQBFETkV"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "WAILD",
-          "url": "https://open.spotify.com/artist/1OHv2TAFTSsMg21dhyoyEH"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/3oKUgGEaQ5bFsYWu6Wc9Dp"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

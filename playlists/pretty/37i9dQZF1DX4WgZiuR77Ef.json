@@ -1,13 +1,33 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 393893,
+  "num_followers": 393924,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDkyYzkwNDFiMTJhYmVmN2QyYTk3ZWQ0NGNhNmM0YTc5",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGRiNTk2NmU4OGU2NmJkZmNhNWI3MzIwOGQ2YTdlZWMy",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Stanky Funk (feat. Bootie Brown)",
+        "url": "https://open.spotify.com/album/0YgrdiYSwvpcWg6RPmqlHk"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 245644,
+      "name": "Stanky Funk - feat. Bootie Brown",
+      "url": "https://open.spotify.com/track/3zdE6X6hdKyth9TTDTEpcn"
+    },
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
@@ -1679,30 +1699,6 @@
       "duration_ms": 238053,
       "name": "You've Got To Change",
       "url": "https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "Felony / Rile 'Em Up",
-        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        },
-        {
-          "name": "Andy Cooper",
-          "url": "https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz"
-        },
-        {
-          "name": "Marietta Smith",
-          "url": "https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi"
-        }
-      ],
-      "duration_ms": 207070,
-      "name": "Rile 'Em Up",
-      "url": "https://open.spotify.com/track/4mvVLWbe50QZg4QJhzBztu"
     },
     {
       "added_at": "2020-10-30 04:02:00",

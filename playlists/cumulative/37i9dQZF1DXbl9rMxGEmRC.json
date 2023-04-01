@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 277013,
       "name": "Chimera Soldiers",
       "url": "https://open.spotify.com/track/3fJ9brORCmKrlr7K5zCVn5"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 272793,
       "name": "Cryptic Hatred",
       "url": "https://open.spotify.com/track/34emkkUGkQ0TNhklAMpeG8"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 292853,
       "name": "Destination Woe",
       "url": "https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl"
@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Dypet",
+        "url": "https://open.spotify.com/album/2dPuve2VirTp81dO4gwHIO"
+      },
+      "artists": [
+        {
+          "name": "Mork",
+          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320641,
+      "name": "Forf\u00f8rt Av Kulden",
+      "url": "https://open.spotify.com/track/6HS4agidoOvDkRGKiY6Jt3"
+    },
+    {
+      "album": {
         "name": "Fortress of Solitude",
         "url": "https://open.spotify.com/album/2FiGydND74LKbKzzC5oKMc"
       },
@@ -2390,6 +2408,24 @@
       "duration_ms": 258690,
       "name": "God Is Wasted",
       "url": "https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh"
+    },
+    {
+      "album": {
+        "name": "Gods of Black Blood",
+        "url": "https://open.spotify.com/album/0nH3459DWtSdBDRXr6Txbt"
+      },
+      "artists": [
+        {
+          "name": "Tsjuder",
+          "url": "https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319023,
+      "name": "Gods of Black Blood",
+      "url": "https://open.spotify.com/track/5AVRiCc9tTz4SFqMEO4zSe"
     },
     {
       "album": {
@@ -3810,7 +3846,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 468909,
       "name": "Mournful Glow",
       "url": "https://open.spotify.com/track/4dWlYMm90NXNyRBe8duLXv"
@@ -4772,7 +4808,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
@@ -4794,6 +4830,42 @@
       "duration_ms": 373906,
       "name": "Scars In The Landscape Of God",
       "url": "https://open.spotify.com/track/6gmMDrXjVOLZJXCxKdBl3w"
+    },
+    {
+      "album": {
+        "name": "Scorched Quadrant",
+        "url": "https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf"
+      },
+      "artists": [
+        {
+          "name": "Scar Symmetry",
+          "url": "https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305080,
+      "name": "Scorched Quadrant",
+      "url": "https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6"
+    },
+    {
+      "album": {
+        "name": "Scourge of the Offspring",
+        "url": "https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN"
+      },
+      "artists": [
+        {
+          "name": "Cattle Decapitation",
+          "url": "https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268699,
+      "name": "Scourge of the Offspring",
+      "url": "https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju"
     },
     {
       "album": {
@@ -5262,6 +5334,40 @@
       "duration_ms": 239680,
       "name": "Szex Witchery",
       "url": "https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT"
+    },
+    {
+      "album": {
+        "name": "The Propaganda Machine",
+        "url": "https://open.spotify.com/album/7GKai7jel0CA2C00c3BOrk"
+      },
+      "artists": [
+        {
+          "name": "Demonstealer",
+          "url": "https://open.spotify.com/artist/7A6AxHa4xv84XTYZVnVxUd"
+        },
+        {
+          "name": "Alex Baillie",
+          "url": "https://open.spotify.com/artist/4IecZ7TJVhaB9iaqwadf2s"
+        },
+        {
+          "name": "Anabelle Iratni",
+          "url": "https://open.spotify.com/artist/44hl46lOwYwNLIQHUJhj7f"
+        },
+        {
+          "name": "Kilian Duarte",
+          "url": "https://open.spotify.com/artist/37qb9qvrRueoTjy8x9oU5M"
+        },
+        {
+          "name": "Sebastian Lanser",
+          "url": "https://open.spotify.com/artist/4lW9LAfcGZvKxmOmH5PLsE"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367666,
+      "name": "The Art of Disinformation",
+      "url": "https://open.spotify.com/track/0je097gR1Lprjq3QuGnPs6"
     },
     {
       "album": {
@@ -5852,7 +5958,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 375793,
       "name": "Tilbake Til Opprinnelsen",
       "url": "https://open.spotify.com/track/1zIu37Rj840KEAtDl6FYbJ"
@@ -5960,7 +6066,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 272000,
       "name": "Udug-Hul Incantation",
       "url": "https://open.spotify.com/track/4gws3X9xLT4D2cT1h2nv4p"

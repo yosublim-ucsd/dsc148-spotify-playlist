@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 219590,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 218701,
       "name": "I Feel Like Dancing",
       "url": "https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP"
@@ -4818,7 +4818,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
@@ -5390,7 +5390,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 182895,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
@@ -5518,6 +5518,24 @@
       "duration_ms": 161868,
       "name": "So Special",
       "url": "https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t"
+    },
+    {
+      "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "album": {
@@ -5876,6 +5894,24 @@
       "duration_ms": 192859,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
+    },
+    {
+      "album": {
+        "name": "Stuck!",
+        "url": "https://open.spotify.com/album/26zrjITVdBdjA0B6NMordJ"
+      },
+      "artists": [
+        {
+          "name": "Erez Zobary",
+          "url": "https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177708,
+      "name": "Stuck!",
+      "url": "https://open.spotify.com/track/2bCxs0Arx9MPoqtswwMTAB"
     },
     {
       "album": {
@@ -7335,6 +7371,24 @@
     },
     {
       "album": {
+        "name": "Live at Daddy Macs",
+        "url": "https://open.spotify.com/album/0sCDxS38a9BKeBEiQ3wTfk"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Wright",
+          "url": "https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155203,
+      "name": "You Get What You See",
+      "url": "https://open.spotify.com/track/3IYORoSPt8WZ2Yq07knCmo"
+    },
+    {
+      "album": {
         "name": "You Gotta Respect Yourself!",
         "url": "https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd"
       },
@@ -7354,6 +7408,24 @@
       "duration_ms": 191566,
       "name": "You Gotta Respect Yourself!",
       "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
+    },
+    {
+      "album": {
+        "name": "Mystical Magical Rhythmical Radical Ride",
+        "url": "https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217942,
+      "name": "You Might Like It",
+      "url": "https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g"
     },
     {
       "album": {

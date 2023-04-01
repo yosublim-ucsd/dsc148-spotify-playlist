@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Keith Ape, PEEJAY\)\)
 
-853 songs - 1 day 23 hr 23 min
+854 songs - 1 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,6 +789,7 @@
 | [Vancouver](https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:36 | 2022-06-18 | 2022-08-13 |
 | [Victory](https://open.spotify.com/track/1N4m5I7HVLcL7Jr6jTyHuK) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Victory](https://open.spotify.com/album/7qO83BG110baknRcJDa6FI) | 3:35 | 2022-07-04 | 2022-10-04 |
 | [Vroom \(Feat\. lIlBOI, Swings\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/5a3aBxwQjcZfT1Qswlc1cK) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 4:10 | 2022-12-25 |  |
+| [Vroong](https://open.spotify.com/track/5Ps7tCxcqnTJxVZ18AlSo6) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [Vroong](https://open.spotify.com/album/4KllueUg7op1SBGoGxKsX0) | 2:48 | 2023-03-31 |  |
 | [W.G.C](https://open.spotify.com/track/7vxrsVk3u02QAepkhGRfrH) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [W.G.C](https://open.spotify.com/album/3mfAoElvNGipmw10H80wBf) | 2:58 | 2021-12-18 | 2022-06-29 |
 | [Wait! \(Feat\. Pullik, HOTCHKISS\)](https://open.spotify.com/track/0PATQFHgL6Ia7iRfolt5mL) | [BanggerDope](https://open.spotify.com/artist/4LPB4af7uKBu5RrRaZLb15), [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z), [HOTCHKISS](https://open.spotify.com/artist/4ang1laReM5X7wATItbxwQ) | [Wait!](https://open.spotify.com/album/64irzmwxbSHOmVRzJw6fjY) | 2:52 | 2022-03-29 | 2022-06-30 |
 | [Waiting For You \(feat\. Jay Park\)](https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 3:02 | 2023-02-23 | 2023-03-07 |

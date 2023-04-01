@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Tiller com Cíntia.
 
-407 songs - 20 hr 28 min
+408 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Cavalo de Troia 1](https://open.spotify.com/track/7kfBxswReFhZccGPcdgZcq) | [Business Boy](https://open.spotify.com/artist/2Vmgn1iGMVQ9TsxPoPGwqN) | [ICEBERG](https://open.spotify.com/album/1kepuHRbHpCmGxSbswUGtQ) | 3:40 | 2022-07-07 | 2022-09-21 |
 | [Change](https://open.spotify.com/track/7mAiamBfiH1idPEE8kpnfG) | [Kiddye Bonz](https://open.spotify.com/artist/4p7mOmJqtCVIvD7R5A2S13) | [Change](https://open.spotify.com/album/3mEgwHNCBb4295yEMK7bN3) | 4:18 | 2022-09-01 | 2022-11-11 |
 | [Chega\[te\]](https://open.spotify.com/track/0Izlsu3vlDQK6gWw9u0oKK) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Chega\[te\]](https://open.spotify.com/album/25WKOVqN4Z8fwT7HffjA5y) | 3:47 | 2022-07-07 | 2022-08-05 |
-| [Choro](https://open.spotify.com/track/1wtUhw1rAMZpiPcBERS1l7) | [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Serpentino](https://open.spotify.com/album/4K4V9iG4mcGgJjd4vrCj3D) | 2:56 | 2023-03-30 |  |
+| [Choro](https://open.spotify.com/track/0MxegOfsWLU9ebCMm7nLlP) | [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Serpentino](https://open.spotify.com/album/2gC3fcWI0NmEb30Jcs3cQ2) | 2:56 | 2023-03-30 |  |
+| [Choro](https://open.spotify.com/track/1wtUhw1rAMZpiPcBERS1l7) | [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Serpentino](https://open.spotify.com/album/4K4V9iG4mcGgJjd4vrCj3D) | 2:56 | 2023-03-30 | 2023-04-01 |
 | [Ciente Também Ama](https://open.spotify.com/track/2lLC9Etz8TEtISitLef46t) | [De Pica](https://open.spotify.com/artist/6ngOs0NUUxorYVYiFcKTf4), [Délcio Huambo](https://open.spotify.com/artist/4hWydjsWgXGviFZ5jhj3pZ) | [Ciente Também Ama](https://open.spotify.com/album/4Vnwf8KlNEQ0Qc5bQvHoMD) | 3:06 | 2022-07-21 | 2022-09-23 |
 | [City](https://open.spotify.com/track/6QEFHsS81ia1iN0DvGUfOC) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN), [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [City](https://open.spotify.com/album/09iif3XxLDwBr1JqaFUEeD) | 2:52 | 2022-11-11 | 2023-03-01 |
 | [Clássico](https://open.spotify.com/track/00FA5qLAduehX0S079Zsd7) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC) | [Clássico](https://open.spotify.com/album/5PGfV3MQSTbUY7DBSNBlHr) | 1:47 | 2022-07-21 | 2022-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,262 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,275 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 99 | [Egnaro](https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV) | [Los Valses](https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47) | [Egnaro](https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ) | 3:07 |
 | 100 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGI3MDkzZTc4NGQzMWQzNzJhNDE4YzFmYzY4NDUyZGM2`
+Snapshot ID: `MTY4MDIzMTYwMCwwMDAwMDAwMGQ5OTM5NzEzMmUyYWNmM2ViNzc5MDI3YjQ3MTMyYjQw`

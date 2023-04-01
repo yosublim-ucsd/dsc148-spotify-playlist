@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: DawaMafia, Random, Mody",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: LaF",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 279918,
       "name": "Allumette",
       "url": "https://open.spotify.com/track/7BJ4JuN9t3TNfb43KFgC41"
@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154069,
+      "name": "Combien de fois",
+      "url": "https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq"
+    },
+    {
+      "album": {
         "name": "Comme les autres",
         "url": "https://open.spotify.com/album/4Vi693DCvcgERzHeRn4grk"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 261176,
       "name": "Donne-moi tout",
       "url": "https://open.spotify.com/track/3p2F9SRs390U4dOp3siAcF"
@@ -3791,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "J'oublie",
+        "url": "https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls"
+      },
+      "artists": [
+        {
+          "name": "Vendou",
+          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167979,
+      "name": "J'oublie",
+      "url": "https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk"
+    },
+    {
+      "album": {
         "name": "J'pas une star 3",
         "url": "https://open.spotify.com/album/5UInEQJXXsunFahA3Xd9w6"
       },
@@ -3988,7 +4024,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 188807,
       "name": "JOLIE",
       "url": "https://open.spotify.com/track/3k12fBG7wbMpAvDgOdoDll"
@@ -5078,6 +5114,24 @@
       "duration_ms": 151560,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7upNugBM6AfbM77jKLgk95"
+    },
+    {
+      "album": {
+        "name": "Noy\u00e9",
+        "url": "https://open.spotify.com/album/41qjVmiRONGjHzAnNBHaFW"
+      },
+      "artists": [
+        {
+          "name": "Boris levrai",
+          "url": "https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Noy\u00e9",
+      "url": "https://open.spotify.com/track/6Q2UmYEhrFyQSe9PcKOz5b"
     },
     {
       "album": {
@@ -7285,6 +7339,28 @@
     },
     {
       "album": {
+        "name": "Wait a minute",
+        "url": "https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw"
+      },
+      "artists": [
+        {
+          "name": "Ruffneck",
+          "url": "https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO"
+        },
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/61fFh2G8tRalJbkvufFR9Y"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198963,
+      "name": "Wait a minute",
+      "url": "https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am"
+    },
+    {
+      "album": {
         "name": "WHAP",
         "url": "https://open.spotify.com/album/1HpV0b6wVhRgJ0MLbBoqqE"
       },
@@ -7522,7 +7598,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 174750,
       "name": "\u00c9cart type",
       "url": "https://open.spotify.com/track/7elFP749giV9I0f1LQHeFM"

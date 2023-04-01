@@ -1,13 +1,41 @@
 {
   "description": "The best of today's funk. Cover: Adi Oasis",
-  "num_followers": 294611,
+  "num_followers": 294710,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDRlMTQ2YzExZWFlN2U5NDdhZDc2YmM1YWVkYzRhMjc3",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDdjODBhZjk4YWM4ZmUwMGJmYzJlZjEwNjkxNGE0Mzg5",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "CLUSTERFUNK",
+        "url": "https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Felicia Douglass",
+          "url": "https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Everyone Moves To LA (feat. Felicia Douglass)",
+      "url": "https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re"
+    },
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
@@ -43,6 +71,30 @@
       "duration_ms": 145800,
       "name": "Come and Get It - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Same Song",
+        "url": "https://open.spotify.com/album/4EJYHrZ1FEdIcadrIO449B"
+      },
+      "artists": [
+        {
+          "name": "falcxne",
+          "url": "https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz"
+        },
+        {
+          "name": "ev\u00e4n",
+          "url": "https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G"
+        },
+        {
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "Same Song",
+      "url": "https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -85,6 +137,26 @@
       "url": "https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU"
     },
     {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "High Class",
+        "url": "https://open.spotify.com/album/3hxQU0FS1oa42dkaUX7fYj"
+      },
+      "artists": [
+        {
+          "name": "Saucy Lady",
+          "url": "https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2"
+        },
+        {
+          "name": "Slynk",
+          "url": "https://open.spotify.com/artist/4V7ap2HEMGNvgwdmOv4dth"
+        }
+      ],
+      "duration_ms": 202908,
+      "name": "High Class",
+      "url": "https://open.spotify.com/track/3BM6HmfZVhw2HZ3UxkSHNy"
+    },
+    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Games Change",
@@ -103,6 +175,22 @@
       "duration_ms": 275937,
       "name": "Funk Money",
       "url": "https://open.spotify.com/track/1Y5VqpjzxCSMNYpT81LvBt"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/5Xl95STYauCnKb1qvbt1mm"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Bullseye",
+      "url": "https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -187,30 +275,6 @@
       "duration_ms": 193924,
       "name": "Found My Groove",
       "url": "https://open.spotify.com/track/0NAQlpeVEX2kbAf6YoDHCK"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Pay It No Mind",
-        "url": "https://open.spotify.com/album/6mFhdt0e4DjyQ9U7lLqvGV"
-      },
-      "artists": [
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Pay It No Mind",
-      "url": "https://open.spotify.com/track/4sV3lFXdxg0xDtmt3IwRYr"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1449,22 +1513,6 @@
       "url": "https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Power Station",
-        "url": "https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Power Station",
-      "url": "https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB"
-    },
-    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Crazy",
@@ -1745,46 +1793,6 @@
       "url": "https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "God Made Me Funky",
-        "url": "https://open.spotify.com/album/3Jo1vXDO4TFhKVsGDdfZnQ"
-      },
-      "artists": [
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Headnodic",
-          "url": "https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3"
-        },
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        },
-        {
-          "name": "Crystal Monee Hall",
-          "url": "https://open.spotify.com/artist/2ARv20TnKCGhf3MCBBGKGY"
-        },
-        {
-          "name": "Wil Blades",
-          "url": "https://open.spotify.com/artist/6HLIDmXT3eehC2JNmMnerV"
-        },
-        {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
-        },
-        {
-          "name": "Colin Hogan",
-          "url": "https://open.spotify.com/artist/427GXhbmgjZ3W23hCzZMuB"
-        }
-      ],
-      "duration_ms": 195925,
-      "name": "God Made Me Funky",
-      "url": "https://open.spotify.com/track/03k2IK5lwpXBHIUVadERaN"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Waste My Time",
@@ -1867,30 +1875,6 @@
       "duration_ms": 248000,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Slings and Arrows",
-        "url": "https://open.spotify.com/album/1qeNTwz5GBpN7itlDaV31o"
-      },
-      "artists": [
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Trance Thompson",
-          "url": "https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ"
-        },
-        {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
-        }
-      ],
-      "duration_ms": 323473,
-      "name": "Slings and Arrows",
-      "url": "https://open.spotify.com/track/4SelDlGzpaSB9i31ZqzQgS"
     },
     {
       "added_at": "2022-09-23 04:00:00",

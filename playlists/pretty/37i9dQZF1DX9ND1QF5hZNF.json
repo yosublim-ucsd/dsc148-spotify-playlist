@@ -1,427 +1,15 @@
 {
   "description": "Evadez-vous tout en douceur...",
-  "num_followers": 575452,
+  "num_followers": 575523,
   "original_name": "Electro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0MzUxNSwwMDAwMDAwMGFkZmEyMzYyODYwZTgzNGQ0OGU5YmJjYmY2MjY3OGE2",
+  "snapshot_id": "MTY4MDI0MzQ1NSwwMDAwMDAwMGY4YWMzYTVjZWM5ZmU0ZjI0NzU3ODIzYmMxYjk0YzY2",
   "tracks": [
     {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Pink Soldiers",
-        "url": "https://open.spotify.com/album/6hg6LPeCo8KtSJLxXfSKf4"
-      },
-      "artists": [
-        {
-          "name": "Boris Way",
-          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
-        }
-      ],
-      "duration_ms": 135688,
-      "name": "Pink Soldiers",
-      "url": "https://open.spotify.com/track/2JOTbHmj0jwBM9bHgcVEOq"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Sunset Memories",
-        "url": "https://open.spotify.com/album/5unPukcKP0JqN4CU8SwOuj"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        }
-      ],
-      "duration_ms": 184824,
-      "name": "Sunset Memories",
-      "url": "https://open.spotify.com/track/29hvDT8LFAr0wMG8j3LJUr"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Matter of Time",
-        "url": "https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Alex Maher",
-          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Cool Kids",
-        "url": "https://open.spotify.com/album/7BeNCwqOUFyfWN4392UWEK"
-      },
-      "artists": [
-        {
-          "name": "Toby Rose",
-          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
-        },
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 153107,
-      "name": "Cool Kids",
-      "url": "https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/55rV8BxbZiE5cGoJPrDsWo"
-      },
-      "artists": [
-        {
-          "name": "Lieutenant 71",
-          "url": "https://open.spotify.com/artist/3V0O5QILU07M67Y2S3l0cy"
-        },
-        {
-          "name": "LU2VYK",
-          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
-        }
-      ],
-      "duration_ms": 158916,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/4N07uEml4JYUiWxjwOV8Ww"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Grass Is Greener (feat. SEM)",
-        "url": "https://open.spotify.com/album/1T5wlktsoLB93xm6TobPk1"
-      },
-      "artists": [
-        {
-          "name": "Horizon Blue",
-          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        },
-        {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
-        }
-      ],
-      "duration_ms": 196572,
-      "name": "Grass Is Greener (feat. SEM)",
-      "url": "https://open.spotify.com/track/1lvwGOKo5nT6W4wajlVCVu"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "City of Love",
-        "url": "https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        },
-        {
-          "name": "Nounours",
-          "url": "https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46"
-        }
-      ],
-      "duration_ms": 179113,
-      "name": "City of Love",
-      "url": "https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Leave a Smile",
-        "url": "https://open.spotify.com/album/4PdWkqJdqKB3arKBSI3qkx"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Leave a Smile",
-      "url": "https://open.spotify.com/track/2Qp0s8Qr7CMynidI7925H2"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/6eryNpfVWsLGm36OeISOaY"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 190034,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/6pSNRgtbbqRYgpwkVQqi3Z"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 157252,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Feels Like Summer",
-        "url": "https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k"
-      },
-      "artists": [
-        {
-          "name": "Samuel Jack",
-          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
-        }
-      ],
-      "duration_ms": 187094,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Free To Love",
-        "url": "https://open.spotify.com/album/4SCP4LS7vx12sdeZ95LLkK"
-      },
-      "artists": [
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
-        },
-        {
-          "name": "Arinity",
-          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
-        },
-        {
-          "name": "BIMINI",
-          "url": "https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx"
-        }
-      ],
-      "duration_ms": 155458,
-      "name": "Free To Love",
-      "url": "https://open.spotify.com/track/3Z9wiXDPADfxgovNa2I6ph"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Now You Know",
-        "url": "https://open.spotify.com/album/3P99SdLrd82kcVaB6XlRLw"
-      },
-      "artists": [
-        {
-          "name": "MR TOUT LE MONDE",
-          "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn"
-        },
-        {
-          "name": "Nounours",
-          "url": "https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46"
-        }
-      ],
-      "duration_ms": 169032,
-      "name": "Now You Know",
-      "url": "https://open.spotify.com/track/41iKApBwuxn4DlCulZGmYj"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Bloom (nowifi Remix)",
-        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        },
-        {
-          "name": "nowifi",
-          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
-        }
-      ],
-      "duration_ms": 121461,
-      "name": "Bloom (nowifi Remix)",
-      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 322298,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/7AN0hFYz8HBixfNKRn1sls"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 224549,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Smoke & Ash",
-        "url": "https://open.spotify.com/album/6Z41aZilSCkdW8IK75Y1wp"
-      },
-      "artists": [
-        {
-          "name": "Weisser Quiff",
-          "url": "https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy"
-        }
-      ],
-      "duration_ms": 164008,
-      "name": "Smoke & Ash",
-      "url": "https://open.spotify.com/track/7jUBj3nZfs0dRqr68b4yxy"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/1AWfn2bdgCCoc1ufl0qsSE"
-      },
-      "artists": [
-        {
-          "name": "Niicap",
-          "url": "https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW"
-        },
-        {
-          "name": "Jadana\u00eb",
-          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/6qGiXMtDuZiItgekdecWsd"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7MlDY9XBpz12WgZP8mG4fI"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 261587,
-      "name": "Polar",
-      "url": "https://open.spotify.com/track/26928XsDiGoSxtYvrGGccl"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
-      "album": {
-        "name": "Beautiful Day (Thank You for Sunshine)",
-        "url": "https://open.spotify.com/album/015qoIa2tAE8CETpsNIpqv"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
-        },
-        {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Beautiful Day (Thank You for Sunshine)",
-      "url": "https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX"
-    },
-    {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Time For Reason",
         "url": "https://open.spotify.com/album/2QfLANVm2mt6wsX041LGhw"
@@ -441,7 +29,7 @@
       "url": "https://open.spotify.com/track/4s7QgMMyMlol6ccHoSwyyQ"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "The Beach",
         "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
@@ -457,7 +45,7 @@
       "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/2WltsSNLIaFLNkXwM8M2XR"
@@ -473,7 +61,7 @@
       "url": "https://open.spotify.com/track/2oakI4aTZTOXPjL2jy4b94"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz"
@@ -493,7 +81,7 @@
       "url": "https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Sunset Lovers",
         "url": "https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu"
@@ -517,7 +105,7 @@
       "url": "https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
@@ -533,7 +121,7 @@
       "url": "https://open.spotify.com/track/2u5BsxcvX36t9ecVM70Ati"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/1iTccmhnjuEyE2wzkEGALD"
@@ -549,7 +137,7 @@
       "url": "https://open.spotify.com/track/5vxumGUQQAKNzE0osbTecZ"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Seve (Radio Edit)",
         "url": "https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4"
@@ -565,7 +153,7 @@
       "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Because You Move Me",
         "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
@@ -585,7 +173,7 @@
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Nopalitos",
         "url": "https://open.spotify.com/album/0qPeoLei81BIwwi8NKf27W"
@@ -601,7 +189,7 @@
       "url": "https://open.spotify.com/track/7mTu2ZcNb2Ip79YEzZZnrf"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/74T6J0W8EAM9LZRmpZNHN5"
@@ -621,7 +209,7 @@
       "url": "https://open.spotify.com/track/7nAeN4bX0kzrvftoG4jag6"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "She Said (Big Jet Plane)",
         "url": "https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc"
@@ -641,7 +229,7 @@
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Welcome Home",
         "url": "https://open.spotify.com/album/3xXkf8NdxsZWdPesmDoEJt"
@@ -657,7 +245,7 @@
       "url": "https://open.spotify.com/track/4bDbcJrUfGXbgEpzzlGKOw"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Away From Home",
         "url": "https://open.spotify.com/album/5T2CFeH0z9TW9SwostRiQq"
@@ -673,7 +261,7 @@
       "url": "https://open.spotify.com/track/44EgTZXLY0a2NcKaZdnkyL"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
@@ -697,7 +285,7 @@
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "The Ghost in Your Smile",
         "url": "https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa"
@@ -713,7 +301,7 @@
       "url": "https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Let's Go Back",
         "url": "https://open.spotify.com/album/4XYrQFUM6flD2n7G3EZrNx"
@@ -729,7 +317,7 @@
       "url": "https://open.spotify.com/track/1QCWBB8QbGDtdK34sDENL6"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Roches blanches",
         "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
@@ -745,7 +333,7 @@
       "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1sawVZiyUViCzUPVmjUxsU"
@@ -765,7 +353,419 @@
       "url": "https://open.spotify.com/track/7rjZ4ERXFVBypwt8NflUVQ"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Pink Soldiers",
+        "url": "https://open.spotify.com/album/6hg6LPeCo8KtSJLxXfSKf4"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        }
+      ],
+      "duration_ms": 135688,
+      "name": "Pink Soldiers",
+      "url": "https://open.spotify.com/track/2JOTbHmj0jwBM9bHgcVEOq"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Sunset Memories",
+        "url": "https://open.spotify.com/album/5unPukcKP0JqN4CU8SwOuj"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "duration_ms": 184824,
+      "name": "Sunset Memories",
+      "url": "https://open.spotify.com/track/29hvDT8LFAr0wMG8j3LJUr"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Cool Kids",
+        "url": "https://open.spotify.com/album/7BeNCwqOUFyfWN4392UWEK"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 153107,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/55rV8BxbZiE5cGoJPrDsWo"
+      },
+      "artists": [
+        {
+          "name": "Lieutenant 71",
+          "url": "https://open.spotify.com/artist/3V0O5QILU07M67Y2S3l0cy"
+        },
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        }
+      ],
+      "duration_ms": 158916,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/4N07uEml4JYUiWxjwOV8Ww"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Grass Is Greener (feat. SEM)",
+        "url": "https://open.spotify.com/album/1T5wlktsoLB93xm6TobPk1"
+      },
+      "artists": [
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "duration_ms": 196572,
+      "name": "Grass Is Greener (feat. SEM)",
+      "url": "https://open.spotify.com/track/1lvwGOKo5nT6W4wajlVCVu"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "City of Love",
+        "url": "https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "Nounours",
+          "url": "https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46"
+        }
+      ],
+      "duration_ms": 179113,
+      "name": "City of Love",
+      "url": "https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Leave a Smile",
+        "url": "https://open.spotify.com/album/4PdWkqJdqKB3arKBSI3qkx"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Leave a Smile",
+      "url": "https://open.spotify.com/track/2Qp0s8Qr7CMynidI7925H2"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/6eryNpfVWsLGm36OeISOaY"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 190034,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/6pSNRgtbbqRYgpwkVQqi3Z"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Feels Like Summer",
+        "url": "https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k"
+      },
+      "artists": [
+        {
+          "name": "Samuel Jack",
+          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
+        }
+      ],
+      "duration_ms": 187094,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Free To Love",
+        "url": "https://open.spotify.com/album/4SCP4LS7vx12sdeZ95LLkK"
+      },
+      "artists": [
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+        },
+        {
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
+        },
+        {
+          "name": "BIMINI",
+          "url": "https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx"
+        }
+      ],
+      "duration_ms": 155458,
+      "name": "Free To Love",
+      "url": "https://open.spotify.com/track/3Z9wiXDPADfxgovNa2I6ph"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Now You Know",
+        "url": "https://open.spotify.com/album/3P99SdLrd82kcVaB6XlRLw"
+      },
+      "artists": [
+        {
+          "name": "MR TOUT LE MONDE",
+          "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn"
+        },
+        {
+          "name": "Nounours",
+          "url": "https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46"
+        }
+      ],
+      "duration_ms": 169032,
+      "name": "Now You Know",
+      "url": "https://open.spotify.com/track/41iKApBwuxn4DlCulZGmYj"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Bloom (nowifi Remix)",
+        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "duration_ms": 121461,
+      "name": "Bloom (nowifi Remix)",
+      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 322298,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7AN0hFYz8HBixfNKRn1sls"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 224549,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Smoke & Ash",
+        "url": "https://open.spotify.com/album/6Z41aZilSCkdW8IK75Y1wp"
+      },
+      "artists": [
+        {
+          "name": "Weisser Quiff",
+          "url": "https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy"
+        }
+      ],
+      "duration_ms": 164008,
+      "name": "Smoke & Ash",
+      "url": "https://open.spotify.com/track/7jUBj3nZfs0dRqr68b4yxy"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/1AWfn2bdgCCoc1ufl0qsSE"
+      },
+      "artists": [
+        {
+          "name": "Niicap",
+          "url": "https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW"
+        },
+        {
+          "name": "Jadana\u00eb",
+          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6qGiXMtDuZiItgekdecWsd"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7MlDY9XBpz12WgZP8mG4fI"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 261587,
+      "name": "Polar",
+      "url": "https://open.spotify.com/track/26928XsDiGoSxtYvrGGccl"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
+      "album": {
+        "name": "Beautiful Day (Thank You for Sunshine)",
+        "url": "https://open.spotify.com/album/015qoIa2tAE8CETpsNIpqv"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+        },
+        {
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Beautiful Day (Thank You for Sunshine)",
+      "url": "https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX"
+    },
+    {
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Forms Of Love",
         "url": "https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Your Light",
         "url": "https://open.spotify.com/album/0VNiTeefqQ66bbMumnVzQh"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/3xwNqcWd3fGL5z0hhtMBmE"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Plein air",
         "url": "https://open.spotify.com/album/5Z2vbeJm4nv74ZctGS0HyS"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/41dazLpdMmO7Kr0yQCotfn"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/5wWAu59EvtfplSILL5S2mi"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/5f4ZzMG8zZXYXjBwLmd0aq"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Don't Hold Me Down",
         "url": "https://open.spotify.com/album/0gC58oCJxmvZUaoGfuBiA2"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/6ip3MZyHMvVJT5VUGmddVX"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Hey Maria - EP",
         "url": "https://open.spotify.com/album/4zb7p3vznnnhJaihdKtxR6"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/7v7teR4FtyiZzkc1tX2a4V"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Lied To Me",
         "url": "https://open.spotify.com/album/4AXoL7a5TPU6rktqwBeBgU"
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/5dO6eoFYVSkqtIcwIIAWr5"
     },
     {
-      "added_at": "2023-03-24 07:38:35",
+      "added_at": "2023-03-31 06:17:35",
       "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/1UqfHtwpJsgz8FtEzPmpoR"

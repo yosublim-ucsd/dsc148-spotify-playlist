@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-105 songs - 6 hr 24 min
+108 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Make You Weep \(OurVinyl Sessions\)](https://open.spotify.com/track/4pbgFPJ0ikbjAyrX5CmMNU) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [J.R\. Carroll \| OurVinyl Sessions](https://open.spotify.com/album/72089SOlxYZ4GbnDxqaXgQ) | 4:11 | 2023-03-10 |  |
 | [Marlboro Man](https://open.spotify.com/track/7g3WvWRM3wTOhbOmM9f6u4) | [Colten Jesse](https://open.spotify.com/artist/2a54v7t8zdzGJxDKHhEGrT) | [Marlboro Man](https://open.spotify.com/album/7LVd1AfhUSn8smErFirp0y) | 3:50 | 2023-02-24 |  |
 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 | 2023-02-24 |  |
+| [Mississippi](https://open.spotify.com/track/1WAgbIFKH1ruetQ3PKUlxi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Mississippi](https://open.spotify.com/album/2ZYYocRhZtuJB2DmRplEIN) | 3:47 | 2023-03-31 |  |
 | [Mockingbird](https://open.spotify.com/track/6JWgq21TmyArFEk78TvgqV) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Low Gap](https://open.spotify.com/album/1sXcs3y9hiX6aZjzQyAsjx) | 3:28 | 2023-03-03 |  |
 | [Never Turn Around](https://open.spotify.com/track/6G8rG1KuzcVXYsApWH0ree) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Men & Coyotes](https://open.spotify.com/album/2N7pHyHhmfU1AMkCJZi8bQ) | 2:51 | 2023-02-24 |  |
 | [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 | 2023-02-24 |  |
@@ -79,6 +80,7 @@
 | [Outlaw \(feat\. Ben Burgess\)](https://open.spotify.com/track/2NK6dtSujGIyilnEgbw8MX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:49 | 2023-03-17 |  |
 | [Pearson Road](https://open.spotify.com/track/1S5yRRnXYlNTp5x7Dipfdd) | [Austin Upchurch](https://open.spotify.com/artist/6shtDekLyD0Qw691reWyg0) | [Pearson Road](https://open.spotify.com/album/4ZabshU4G6mQyqWkHOPDTp) | 3:32 | 2023-02-24 | 2023-03-25 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-02-24 |  |
+| [Poets & Old Souls](https://open.spotify.com/track/5aJYaKr1blM9487x8NQWfp) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U), [Frank Foster](https://open.spotify.com/artist/77GSkIzDaduRlIbNjlvefc) | [Poets & Old Souls](https://open.spotify.com/album/6fN2WnQAXBxcV3cuRiGCh6) | 3:15 | 2023-03-31 |  |
 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 | 2023-02-24 |  |
 | [Ramblin Man](https://open.spotify.com/track/4a1oIFgu01B2nafpOHgvHZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ramblin Man](https://open.spotify.com/album/0PXuJaAC2SrNE3RUdjtNn3) | 2:47 | 2023-03-24 |  |
 | [River Run](https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [River Run](https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW) | 3:11 | 2023-03-24 |  |
@@ -99,6 +101,7 @@
 | [The Devil Always Made Me Think Twice](https://open.spotify.com/track/40FSPpFK3mhTjJvPE3wygi) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/1UfyxIrWgV9362cakdeucO) | 4:11 | 2023-02-24 |  |
 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:56 | 2023-02-24 |  |
 | [The Jealous Kind \(Live from the Church\)](https://open.spotify.com/track/5s39a54LU092WwtEGoOmtp) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Jealous Kind \(Live from the Church\)](https://open.spotify.com/album/1KSDcbkwcDd1XrjYz8Lpx0) | 3:35 | 2023-02-24 |  |
+| [The Light](https://open.spotify.com/track/0yR3qIIgtfTvv4bTXayP0m) | [James Tucker](https://open.spotify.com/artist/5BxhrOGx4mGsMPi9PphUXG) | [The Light](https://open.spotify.com/album/0GynnBKic0lC9PMaCmd24P) | 4:42 | 2023-03-31 |  |
 | [Thinkin Bout Cheatin](https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Thinkin Bout Cheatin](https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc) | 3:42 | 2023-02-24 |  |
 | [This Damn Song](https://open.spotify.com/track/784cuiNXGutuO6wJgqOFWd) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [This Damn Song](https://open.spotify.com/album/1SnlCthXFkWWkZPzNAdqrZ) | 4:40 | 2023-02-24 |  |
 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-03 |  |

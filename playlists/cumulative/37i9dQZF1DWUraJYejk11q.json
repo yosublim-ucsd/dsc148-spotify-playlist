@@ -834,7 +834,7 @@
           "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
         }
       ],
-      "date_added": "2023-03-29",
+      "date_added": "2023-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252601,
@@ -2507,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Opak",
+        "url": "https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337194,
+      "name": "Opak",
+      "url": "https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7"
+    },
+    {
+      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 224470,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"

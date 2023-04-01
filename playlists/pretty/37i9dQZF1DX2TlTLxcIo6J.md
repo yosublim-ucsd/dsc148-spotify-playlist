@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="spotify:playlist:37i9dQZF1EFNQOtgvYf8sH">Matt Schaeffer</a>, <a href="spotify:playlist:37i9dQZF1EFPfGQQdiNNNO">Jake Kosich</a> and <a href="spotify:playlist:37i9dQZF1EFyBQlHaB2TvT">Johnny Kosich</a> of Beach Noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,349 likes - 35 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,351 likes - 35 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

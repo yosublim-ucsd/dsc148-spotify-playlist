@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=NJq9xDo3Qey9oZYAEBhYpA"> Stonebwoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,603 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,111 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

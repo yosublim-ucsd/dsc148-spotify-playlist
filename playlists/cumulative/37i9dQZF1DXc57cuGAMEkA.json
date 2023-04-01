@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178950,
+      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
+    },
+    {
+      "album": {
         "name": "10,000 reasons",
         "url": "https://open.spotify.com/album/6kH4zeh04UPgsBrEpvNfmu"
       },
@@ -810,7 +836,7 @@
     {
       "album": {
         "name": "Forward March",
-        "url": "https://open.spotify.com/album/0Ndm0kE5YvYLWUbIFdbR27"
+        "url": "https://open.spotify.com/album/71XPt59wMLpmzWCjTM1meE"
       },
       "artists": [
         {
@@ -821,6 +847,24 @@
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 131600,
+      "name": "Attack On",
+      "url": "https://open.spotify.com/track/0Q1Zc2D9Cc1eVvt0T5qd7D"
+    },
+    {
+      "album": {
+        "name": "Forward March",
+        "url": "https://open.spotify.com/album/0Ndm0kE5YvYLWUbIFdbR27"
+      },
+      "artists": [
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
       "duration_ms": 131600,
       "name": "Attack On",
       "url": "https://open.spotify.com/track/6Ry5Z80zTIdN3FSVF9dN17"
@@ -1354,7 +1398,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 180124,
       "name": "BLOW",
       "url": "https://open.spotify.com/track/4aTDs2oV7XVsyip2842irm"
@@ -1871,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -2046,6 +2108,24 @@
       "duration_ms": 192787,
       "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
       "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+    },
+    {
+      "album": {
+        "name": "Carry Me Out",
+        "url": "https://open.spotify.com/album/78BtIMQEsMAc7sxhFeKnRB"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140852,
+      "name": "Carry Me Out",
+      "url": "https://open.spotify.com/track/2bTDJaOn3kEBse2wCKugBP"
     },
     {
       "album": {
@@ -3382,10 +3462,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 342293,
       "name": "Dry",
       "url": "https://open.spotify.com/track/07O1jQXUWuiYMKjvE1l6Bl"
+    },
+    {
+      "album": {
+        "name": "Peanut",
+        "url": "https://open.spotify.com/album/0M1L4UtFZreB5vKQfQ2WXe"
+      },
+      "artists": [
+        {
+          "name": "Jared Mattson",
+          "url": "https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342293,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/1HU1d7BK7oUeSt6p8fjFvC"
     },
     {
       "album": {
@@ -4148,10 +4246,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 173443,
       "name": "Far East",
       "url": "https://open.spotify.com/track/2s9o74xve4PcGsaHzPZpDF"
+    },
+    {
+      "album": {
+        "name": "Make U Dirty 2",
+        "url": "https://open.spotify.com/album/4R9nmXAAhSwIShB7pdHOZv"
+      },
+      "artists": [
+        {
+          "name": "MUD",
+          "url": "https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q"
+        },
+        {
+          "name": "Neetz",
+          "url": "https://open.spotify.com/artist/1MI8TsiYmYTE0Fu9CUqTr4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173443,
+      "name": "Far East",
+      "url": "https://open.spotify.com/track/3j39to8pbW2dcPp27A69qL"
     },
     {
       "album": {
@@ -4538,6 +4658,24 @@
       "duration_ms": 218616,
       "name": "Florence",
       "url": "https://open.spotify.com/track/6k696WC7KR1j01mf7WqDzn"
+    },
+    {
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173134,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
     },
     {
       "album": {
@@ -5211,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "album": {
         "name": "Going Kokomo",
         "url": "https://open.spotify.com/album/3j83OoSgq6I6CFUq5Wlxl6"
       },
@@ -5222,7 +5378,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 190626,
       "name": "Going Kokomo",
       "url": "https://open.spotify.com/track/51p3vKgHGVYjWr63eGH6jd"
@@ -5974,10 +6130,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+    },
+    {
+      "album": {
+        "name": "Tetris (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/7JhAss3J9U99ZO2BsEZCE9"
     },
     {
       "album": {
@@ -6083,6 +6257,24 @@
     },
     {
       "album": {
+        "name": "Honey Bun",
+        "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "Honey Bun",
+      "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
+    },
+    {
+      "album": {
         "name": "Honeylight",
         "url": "https://open.spotify.com/album/1r7iblFWhX6mfOBlNbc5a4"
       },
@@ -6116,6 +6308,28 @@
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
+    },
+    {
+      "album": {
+        "name": "Hot Boy (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "Hot Boy (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
     },
     {
       "album": {
@@ -6330,10 +6544,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 230855,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/5upUoCnUlWSHGP4N2b5guG"
+    },
+    {
+      "album": {
+        "name": "I Am Free",
+        "url": "https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230855,
+      "name": "I Am Free",
+      "url": "https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T"
     },
     {
       "album": {
@@ -16096,6 +16328,28 @@
       "duration_ms": 214500,
       "name": "\u51db\u3068",
       "url": "https://open.spotify.com/track/3IB0WE4bAoYWdSuZnTVtRC"
+    },
+    {
+      "album": {
+        "name": "Pent House",
+        "url": "https://open.spotify.com/album/6xvHKXLB89II7MPZrxzYj9"
+      },
+      "artists": [
+        {
+          "name": "mari",
+          "url": "https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180124,
+      "name": "\u5438\u3063\u3066",
+      "url": "https://open.spotify.com/track/0frkFYeXB5XgejnrlQbq46"
     },
     {
       "album": {

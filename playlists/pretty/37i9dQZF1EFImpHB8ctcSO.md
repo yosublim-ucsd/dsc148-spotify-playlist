@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3PDg3S0MIP0ktidASSh27r">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 289 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 47 | [Borrowing Time](https://open.spotify.com/track/0Xv2y4IUmfvGbKvR1xLh6v) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:12 |
 | 48 | [Winning the War](https://open.spotify.com/track/6i9TOevIr3XDVq2MMzbB6C) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:04 |
 | 49 | [Can't You Tell? \(30 Days, 30 Songs\)](https://open.spotify.com/track/4vm2JPCMQIc392b7DUnAPL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Can't You Tell? \(30 Days, 30 Songs\)](https://open.spotify.com/album/7oMCBEiG0ewZaODeskssLR) | 3:39 |
-| 50 | [Guys Like Me](https://open.spotify.com/track/7evO1D5eyTcGc0AvsaHitz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 3:12 |
-| 51 | [Going Through the Motions](https://open.spotify.com/track/3P6VrCeVPmqYL8R3nBdwFx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 2:57 |
+| 50 | [Going Through the Motions](https://open.spotify.com/track/3P6VrCeVPmqYL8R3nBdwFx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 2:57 |
+| 51 | [Guys Like Me](https://open.spotify.com/track/7evO1D5eyTcGc0AvsaHitz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 3:12 |
 | 52 | [Phoenix](https://open.spotify.com/track/3nci5qfpgQmf01JNKyMhtp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:56 |
 | 53 | [Amateur](https://open.spotify.com/track/0IsfUj7P0sMCCCa7yG2NPY) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:54 |
 | 54 | [That's How I Knew This Story Would Break My Heart](https://open.spotify.com/track/5L8e2K92EuSyhif3QKQUtU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 4:19 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 96 | [Volunteers of America](https://open.spotify.com/track/22cpblBBWOJN1yM5FMiK4l) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:43 |
 | 97 | [Barfly](https://open.spotify.com/track/6oOluNLNMauaM83wVga8oA) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 4:00 |
 | 98 | [The King of the Jailhouse](https://open.spotify.com/track/3o2M7CLofErdy5ic24gFe2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 5:19 |
-| 99 | [She Really Wants You](https://open.spotify.com/track/73T4BhGTXJNbwgvv9HtaZJ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:26 |
-| 100 | [Give Me Fifteen](https://open.spotify.com/track/4BsXBJGmQRdYwycT5JrNbn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:42 |
+| 99 | [Give Me Fifteen](https://open.spotify.com/track/4BsXBJGmQRdYwycT5JrNbn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:42 |
+| 100 | [She Really Wants You](https://open.spotify.com/track/73T4BhGTXJNbwgvv9HtaZJ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:26 |
 | 101 | [I Can't Get My Head Around It](https://open.spotify.com/track/5dxI2hCDcV4tTCHxNpo2ee) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:37 |
 | 102 | [Gamma Ray](https://open.spotify.com/track/7FAXrAZrRVzVeVorby0Kgt) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:00 |
 | 103 | [You're With Stupid Now](https://open.spotify.com/track/1KMrRIYGxU3jsGzD5fGe17) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:29 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `MjgwMDM2ODcsMDAwMDAwMDBhMzA3MDYxNWExODEzN2I2NjBkODA5ZjY1ODMxYzdmZQ==`
+Snapshot ID: `MjgwMDUxMjUsMDAwMDAwMDA2NmU3ZGZlMjljMjQyNjJkNWI4YmY0NGZmMDZjYjhjYg==`

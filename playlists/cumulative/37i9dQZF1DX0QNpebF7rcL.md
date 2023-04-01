@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-263 songs - 17 hr 52 min
+264 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [You Don't Know the Blues](https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:34 | 2021-12-10 |  |
 | [You Got To Move](https://open.spotify.com/track/2oP62DDj7RLqdQI3cmdvK1) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [You Got To Move](https://open.spotify.com/album/0CuehB0whg0SkLEqF8dDNa) | 2:41 | 2022-03-18 | 2022-05-28 |
 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 | 2022-04-05 |  |
+| [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 | 2023-03-31 |  |
 | [You've Been Cheatin'](https://open.spotify.com/track/52oE03gZSG2HSl6pOXWGaA) | [Omar Coleman](https://open.spotify.com/artist/7ygsLcqnNFW2UHy4rWWT56), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [You've Been Cheatin'](https://open.spotify.com/album/1xsH8xPrguqeXMgn6ftCaT) | 3:03 | 2021-10-08 |  |
 | [’62 Chevy](https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be...](https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S) | 3:28 | 2022-01-21 |  |
 

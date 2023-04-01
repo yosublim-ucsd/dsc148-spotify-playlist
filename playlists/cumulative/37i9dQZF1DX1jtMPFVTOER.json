@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "BeGod",
+        "url": "https://open.spotify.com/album/4QeehN1Yv6xnthhHUGh8sq"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176876,
+      "name": "BeGod",
+      "url": "https://open.spotify.com/track/6AhaKQrY0rac4mGE8lKOri"
+    },
+    {
+      "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu"
       },
@@ -1538,6 +1556,24 @@
       "duration_ms": 154520,
       "name": "Check The Pulse",
       "url": "https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W"
+    },
+    {
+      "album": {
+        "name": "Cheers To New Beginnings",
+        "url": "https://open.spotify.com/album/7uRM9iuJfa6PhQfkTF1MyP"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174319,
+      "name": "Cheers To New Beginnings",
+      "url": "https://open.spotify.com/track/6Y2Rj0pnuo9rS9iz1cOKjr"
     },
     {
       "album": {
@@ -3022,7 +3058,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 186573,
       "name": "For Those Who Love...",
       "url": "https://open.spotify.com/track/5FCmdWN4chwObaFEJg3Sfn"
@@ -4544,7 +4580,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 208178,
       "name": "Lila's Theme",
       "url": "https://open.spotify.com/track/3YQRELjxAeVd4SPxVo7AoN"
@@ -8091,6 +8127,28 @@
     },
     {
       "album": {
+        "name": "Too Many Bags (Kaidi's Remix)",
+        "url": "https://open.spotify.com/album/4HahgyW7u9bosBKyyV8PfZ"
+      },
+      "artists": [
+        {
+          "name": "Nyamekye Junction",
+          "url": "https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389120,
+      "name": "Too Many Bags - Kaidi's Remix",
+      "url": "https://open.spotify.com/track/66lnFWtNlxv3MQbF7QNQoy"
+    },
+    {
+      "album": {
         "name": "Topaz",
         "url": "https://open.spotify.com/album/1tu72HPJbqjKkly00SmADP"
       },
@@ -8984,7 +9042,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 175433,
       "name": "WS4 October 2022 - D'larm Version",
       "url": "https://open.spotify.com/track/028CXi6GZwjs4tEd9ENvez"

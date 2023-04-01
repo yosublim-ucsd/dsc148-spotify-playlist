@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 31 | [Stars](https://open.spotify.com/track/5CMBnOjkRa3KwVDPISztEl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:59 |
 | 32 | [closer](https://open.spotify.com/track/5uJpSKo6cFDwnvncugsC61) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:38 |
 
-Snapshot ID: `MjgwMDMyMjQsMDAwMDAwMDA4ODdiODRiZjNmNWUwZGFlMmQ1NzhkMzcwOGU3N2RiYw==`
+Snapshot ID: `MjgwMDQ3MzcsMDAwMDAwMDBhNTI1ZTNhN2E4OWU5MjE1MzgwMmQ4ZjZlOGQ3ODc4Mg==`

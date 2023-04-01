@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-284 songs - 22 hr 10 min
+285 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Cold As Weiss](https://open.spotify.com/track/4MqOTLIg1f6qomgOKkxkKp) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Cold As Weiss](https://open.spotify.com/album/7tZwLOlEKJkeaptUGyy7IL) | 2:40 | 2021-04-30 |  |
 | [Cold As Weiss](https://open.spotify.com/track/5QDbOItkJ37De1ug8pnPm4) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Cold As Weiss](https://open.spotify.com/album/5q5R6RXPZuRMpm1rDKeAvx) | 2:40 | 2021-04-30 | 2022-07-29 |
 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 | 2021-09-10 |  |
-| [Coming to You Live](https://open.spotify.com/track/0fe8ABoiVGgW0OUxzJWmNb) | [Charles Earland](https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi) | [Coming to You Live](https://open.spotify.com/album/39DrtAI2ObXRGtqUNb9bkC) | 6:15 | 2020-10-09 |  |
+| [Coming to You Live](https://open.spotify.com/track/0fe8ABoiVGgW0OUxzJWmNb) | [Charles Earland](https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi) | [Coming to You Live](https://open.spotify.com/album/39DrtAI2ObXRGtqUNb9bkC) | 6:15 | 2020-10-09 | 2023-04-01 |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-07-29 |  |
 | [Crab Walk](https://open.spotify.com/track/1jZFZBWG6ZPtJdflNoLUVX) | [Funkboy](https://open.spotify.com/artist/2n8PO916hz8G25cWsbyOYn), [James Dower](https://open.spotify.com/artist/2flfaaJZVJJDSDRl1NH5TL), [Doug Hinrichs](https://open.spotify.com/artist/2Oqnj7JiVN9pyWrF4AWhPi) | [Crab Walk](https://open.spotify.com/album/4QlqqwgOnGPzhKRhBGnGO8) | 4:16 | 2021-03-05 |  |
 | [Cream Puff War](https://open.spotify.com/track/3iaNLl7wvZ13qEUHfaR1PP) | [Grateful Brass](https://open.spotify.com/artist/1cSXMjY8e1lg44bA5usiFp), [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Rich Armstrong](https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs) | [Cream Puff War](https://open.spotify.com/album/7JsqgqNXvBtnlMdAY4EXKp) | 3:42 | 2022-09-23 |  |
@@ -207,6 +207,7 @@
 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 | 2022-07-22 |  |
 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 | 2022-07-22 | 2022-12-25 |
 | [So This Is Love?](https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 7:04 | 2020-10-09 |  |
+| [SoulMine](https://open.spotify.com/track/0C5cMnVFPyZwpc20oSMeLL) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii) | [SoulMine](https://open.spotify.com/album/4JnT8sjhZB19Wc0t4OV15N) | 4:34 | 2023-03-31 |  |
 | [Souly](https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj) | [Funky Times](https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV), [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa), [Adrian Bauer](https://open.spotify.com/artist/0JpuTrgbRjjjuvFj6tCnK1), [André Haaf](https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg) | [Funky Times](https://open.spotify.com/album/5XZCdlBDZ0CzxBGjU8ZvMX) | 3:32 | 2021-06-25 |  |
 | [SP's Galaxy](https://open.spotify.com/track/5cgtYVTPaQgJPWCo1pOj7P) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SP's Galaxy](https://open.spotify.com/album/4N3b8w28hUX5cxYL9rVgVG) | 2:45 | 2022-07-22 | 2022-08-17 |
 | [Spanish Joint](https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Geoff Clapp](https://open.spotify.com/artist/5Ezil114d4umN4hJDu8teY) | [Sam Fribush Organ Trio, Vol\. I: Riverboat](https://open.spotify.com/album/4i0SSxtyDqXRF5YwtqRPWR) | 4:24 | 2021-03-05 |  |

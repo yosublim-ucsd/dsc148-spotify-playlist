@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,048 likes - 60 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,074 likes - 60 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

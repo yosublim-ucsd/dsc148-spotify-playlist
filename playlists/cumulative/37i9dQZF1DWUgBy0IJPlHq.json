@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Lukas Nelson",
+  "description": "A new shade of Country. Cover: Nolan Taylor",
   "name": "Indigo",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 255440,
       "name": "Bells Of Every Chapel [Feat. Billy Strings]",
       "url": "https://open.spotify.com/track/2ckXdMhlCVl2bzWjAD0BqX"
@@ -2197,6 +2197,28 @@
     },
     {
       "album": {
+        "name": "Everything At Once",
+        "url": "https://open.spotify.com/album/10GH9Xfp9nTC9WgKTAUvY8"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        },
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225026,
+      "name": "Everything At Once (feat. Jeff Tweedy)",
+      "url": "https://open.spotify.com/track/2bit2LuOPnCeU2ob19Gxgl"
+    },
+    {
+      "album": {
         "name": "Raised",
         "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
       },
@@ -2302,7 +2324,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
@@ -5568,7 +5590,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
@@ -6448,7 +6470,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 187306,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/7MfjR1LV7kumgLcAfpCXN2"
@@ -6882,7 +6904,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 250694,
       "name": "The Way I Oughta Go",
       "url": "https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU"
@@ -7096,7 +7118,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"

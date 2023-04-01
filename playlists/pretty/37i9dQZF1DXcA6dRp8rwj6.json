@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: YoungQueenz)",
-  "num_followers": 417587,
+  "num_followers": 418079,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,30 @@
       "duration_ms": 148965,
       "name": "Triple Threat",
       "url": "https://open.spotify.com/track/0lTJgAfLs8aKBCobjtmrY0"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
+        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 178950,
+      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -531,6 +555,30 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 175626,
+      "name": "Summer Reign (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
         "name": "\u5c31\u7b97\u6211\u60f3\u4f60",
         "url": "https://open.spotify.com/album/1x9SwofDBm49EtMI30SaWk"
       },
@@ -547,7 +595,7 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "High Price (feat. Lil Tjay)",
+        "name": "High Price (with Lil Tjay)",
         "url": "https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y"
       },
       "artists": [
@@ -561,8 +609,24 @@
         }
       ],
       "duration_ms": 192133,
-      "name": "High Price (feat. Lil Tjay)",
+      "name": "High Price (with Lil Tjay)",
       "url": "https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
+        "name": "Honey Bun",
+        "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 134666,
+      "name": "Honey Bun",
+      "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
     },
     {
       "added_at": "2023-03-30 15:00:00",

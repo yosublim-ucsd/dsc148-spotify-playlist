@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1whYo9Mg2Mt.md) - [plain]
 
 > New album Planet Her and other hits
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,447 likes - 68 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,865 likes - 68 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

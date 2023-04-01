@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Anchorage OST Part.2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5Qoe81SSf2cpo4QpYV0NU4"
+      },
+      "artists": [
+        {
+          "name": "The Daisy",
+          "url": "https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215672,
+      "name": "As if nothing had happened",
+      "url": "https://open.spotify.com/track/1R5QflmLVc3SvSTLRS0Nc2"
+    },
+    {
+      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },

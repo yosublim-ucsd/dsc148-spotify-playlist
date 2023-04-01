@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Black Letters\. , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,914 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,952 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 9 | [Kyu Hi Hum Mile](https://open.spotify.com/track/6POdfxoYKn6PE0OK4PlY6R) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Kyu Hi Hum Mile](https://open.spotify.com/album/5z3R00e3c5u6LFhV0wtDx1) | 4:20 |
 | 10 | [Kahaani](https://open.spotify.com/track/6I2s9QNUzGqokQPszHzve5) | [Rohit Nigam](https://open.spotify.com/artist/7qdScuZ6LcdSpnjMLwQd6x) | [Kahaani](https://open.spotify.com/album/4lxUkMMvdKwdM6Hlwkmwtg) | 3:19 |
 | 11 | [Udd Re](https://open.spotify.com/track/1VRXOd1EtibAlmAV5CEWHT) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Udd Re](https://open.spotify.com/album/6V7xG8jWVHgk29H1eneQYz) | 3:24 |
-| 12 | [Bekhabar \(feat\. Hriday Gattani\)](https://open.spotify.com/track/3eUNJxtPr0KPBOUV95rMj2) | [Advait Sawant](https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Bekhabar \(feat\. Hriday Gattani\)](https://open.spotify.com/album/6PiVJRyk0AIMLfZxB7uac0) | 3:04 |
+| 12 | [Bekhabar](https://open.spotify.com/track/3eUNJxtPr0KPBOUV95rMj2) | [Advait Sawant](https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Bekhabar](https://open.spotify.com/album/6PiVJRyk0AIMLfZxB7uac0) | 3:04 |
 | 13 | [Chal Pada](https://open.spotify.com/track/3oyzb1Hn3x202SwPUZO7lf) | [Rawnaq](https://open.spotify.com/artist/4zS0AxuZ0IKFBGb1hdTS3S) | [Chal Pada](https://open.spotify.com/album/5n5sA4koDtPoCqTOBooZO6) | 3:23 |
 | 14 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 15 | [Heart](https://open.spotify.com/track/04aeOA5VRX4OWYRGL5OYQq) | [Signal W](https://open.spotify.com/artist/3oBeGAnlBAE2kCwmv8GqVb) | [Heart](https://open.spotify.com/album/1EIINZ7cx8cenEtjTPxVl0) | 4:08 |

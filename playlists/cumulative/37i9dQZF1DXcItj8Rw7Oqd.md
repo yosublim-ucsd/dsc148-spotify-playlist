@@ -2,9 +2,9 @@
 
 ### [X](https://open.spotify.com/playlist/37i9dQZF1DXcItj8Rw7Oqd)
 
-> Pop x Rock\. Cover: Precious Pepala
+> Pop x Rock\. Cover: McFly
 
-80 songs - 4 hr 2 min
+81 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Happier in Hell](https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happier in Hell](https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn) | 2:53 | 2022-12-09 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-12-09 |  |
 | [Happy Endings \(feat\. iann dior and UPSAHL\)](https://open.spotify.com/track/1nPd60em5Qwp0NPykFz5Xj) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Happy Endings \(feat\. iann dior and UPSAHL\)](https://open.spotify.com/album/60w0qccefb5HaAgxOVjc3Q) | 3:32 | 2022-12-09 |  |
-| [Hard Feelings](https://open.spotify.com/track/4BaX0wDUFPhBAoCpkOUCaX) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hard Feelings](https://open.spotify.com/album/41FGOYGw8gSYZ1t4YTYUHp) | 2:54 | 2023-02-17 |  |
+| [Hard Feelings](https://open.spotify.com/track/4BaX0wDUFPhBAoCpkOUCaX) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hard Feelings](https://open.spotify.com/album/41FGOYGw8gSYZ1t4YTYUHp) | 2:54 | 2023-02-17 | 2023-04-01 |
 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 | 2023-03-24 |  |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-17 |  |
 | [honey](https://open.spotify.com/track/6v8CTp7Up0m1AcylQk3vwl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Deluxe\)](https://open.spotify.com/album/1o8ExR66PcMb1h8a1nhi9k) | 2:53 | 2022-12-09 |  |
@@ -86,6 +86,7 @@
 | [wait what](https://open.spotify.com/track/39YEqg7dtit80pcOWB6mBw) | [Gia Lily](https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB) | [wait what](https://open.spotify.com/album/0jpYTCHCGg3f2NzN90DRYA) | 2:43 | 2023-02-03 |  |
 | [welcome to my life](https://open.spotify.com/track/19WPwFCDUPdie3IJhv615s) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [welcome to my life](https://open.spotify.com/album/1KMdePaDf6qQcMiWVSQ62E) | 2:15 | 2022-12-09 |  |
 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2022-12-09 |  |
+| [Where Did All the Guitars Go?](https://open.spotify.com/track/0mSyc3nkVCKYMcm6L2OpST) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Where Did All the Guitars Go?](https://open.spotify.com/album/5aSEMoRkXZLZs4A6OoUm0r) | 4:00 | 2023-03-31 |  |
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2022-12-09 |  |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-12-09 |  |
 

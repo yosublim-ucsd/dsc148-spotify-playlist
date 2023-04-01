@@ -2,9 +2,9 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Armani Caesar
+> Lyrical, lo\-fi, and lowlife raps\. Cover: Hit\-Boy
 
-394 songs - 21 hr 4 min
+395 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [100 Bands](https://open.spotify.com/track/13IZ2zkmlh9madvIjcyBqk) | [070 Phi](https://open.spotify.com/artist/7MlqHsqltfPsL4hzFEt3j6), [Irie Child](https://open.spotify.com/artist/3v7QlnRyy5ktMLokwRbv0x) | [100 Bands](https://open.spotify.com/album/7ifZDjP7NVDfqpyf8dqoUA) | 4:08 | 2021-09-03 | 2022-01-20 |
 | [180 \(Remix\) \(feat\. Kemba\)](https://open.spotify.com/track/1oF1tFOdqoM6I2Y4crbGRU) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [180 \(Remix\) \(feat\. Kemba\)](https://open.spotify.com/album/31L28flQSMiHW7fwtlTkBh) | 3:16 | 2021-09-03 | 2022-05-10 |
 | [200 Pies \(feat\. 2 Chainz\)](https://open.spotify.com/track/7FoLi3HouGfytmOekWmglN) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [La Maquina](https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz) | 4:25 | 2021-09-03 | 2022-03-18 |
-| [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 | 2022-10-21 |  |
+| [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 | 2022-10-21 | 2023-04-01 |
 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 | 2022-07-08 |  |
 | [297 Parkside](https://open.spotify.com/track/2Rsie0RsUDFt3NRBM94gUM) | [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Elcamino](https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg) | [297 Parkside](https://open.spotify.com/album/2rOxqka7BLWvKHaoz76qS2) | 3:40 | 2022-09-02 | 2022-09-17 |
 | [3:50 in L.A](https://open.spotify.com/track/7o2LXvuYDrH63Tv8UQxhLi) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: My Disregarded Thoughts](https://open.spotify.com/album/2noJiJ7pCVOIu1yc5BT50a) | 3:19 | 2021-09-03 | 2022-01-27 |
@@ -319,6 +319,7 @@
 | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/album/5FT1DfAMQ8ewLsCP6c8PtF) | 3:15 | 2021-09-03 | 2022-07-26 |
 | [Soccer Dad](https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Soccer Dad](https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS) | 3:13 | 2022-04-06 | 2022-10-27 |
 | [Something in the Water](https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Mrs\. Whoever / Something in the Water](https://open.spotify.com/album/5NPPBBqbTIeV7yrD8gPH2w) | 3:18 | 2021-09-03 | 2022-06-22 |
+| [SORRY NOT SORRY](https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:26 | 2023-03-31 |  |
 | [Sprague Street](https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx) | [Kipp Stone](https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Sprague Street](https://open.spotify.com/album/63KIa8D5Lb7J9nivOZRWKM) | 4:17 | 2021-09-03 | 2022-07-21 |
 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 | 2022-08-05 |  |
 | [Stain](https://open.spotify.com/track/0stfZSMUC46cbsQh4j1oSG) | [Peter Rosenberg](https://open.spotify.com/artist/36OaFcMjn2RWlJlcez2fhA), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Stain](https://open.spotify.com/album/0GGAWNUMv9ZnsNdbAYrrrF) | 2:12 | 2021-09-03 | 2022-03-18 |

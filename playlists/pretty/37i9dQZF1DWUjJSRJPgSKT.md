@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Up tempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030 likes - 100 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087 likes - 100 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

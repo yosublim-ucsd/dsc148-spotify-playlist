@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/2ZYYocRhZtuJB2DmRplEIN"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227662,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/1WAgbIFKH1ruetQ3PKUlxi"
+    },
+    {
+      "album": {
         "name": "Low Gap",
         "url": "https://open.spotify.com/album/1sXcs3y9hiX6aZjzQyAsjx"
       },
@@ -1336,6 +1354,28 @@
       "duration_ms": 181498,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
+    },
+    {
+      "album": {
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/6fN2WnQAXBxcV3cuRiGCh6"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        },
+        {
+          "name": "Frank Foster",
+          "url": "https://open.spotify.com/artist/77GSkIzDaduRlIbNjlvefc"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195910,
+      "name": "Poets & Old Souls",
+      "url": "https://open.spotify.com/track/5aJYaKr1blM9487x8NQWfp"
     },
     {
       "album": {
@@ -1696,6 +1736,24 @@
       "duration_ms": 215347,
       "name": "The Jealous Kind (Live from the Church)",
       "url": "https://open.spotify.com/track/5s39a54LU092WwtEGoOmtp"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/0GynnBKic0lC9PMaCmd24P"
+      },
+      "artists": [
+        {
+          "name": "James Tucker",
+          "url": "https://open.spotify.com/artist/5BxhrOGx4mGsMPi9PphUXG"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282476,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/0yR3qIIgtfTvv4bTXayP0m"
     },
     {
       "album": {

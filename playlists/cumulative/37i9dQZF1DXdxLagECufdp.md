@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-147 songs - 9 hr 26 min
+148 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 | 2021-09-10 |  |
 | [Malabares](https://open.spotify.com/track/1xBX2iazuZNqTnT2iPeB2A) | [Rumbaristas](https://open.spotify.com/artist/1lCsy1LgNCjBXrmfoAFvUr), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Malabares](https://open.spotify.com/album/6D4LjqR31YQ8OV4W3Wu0tR) | 3:11 | 2023-02-22 | 2023-03-11 |
 | [Malinalli](https://open.spotify.com/track/2BEXRY7Vefd38vrqjxo2kC) | [Diablocalavera](https://open.spotify.com/artist/3BCryyGZjvAmv20TUlNLfW) | [Malinalli](https://open.spotify.com/album/4BrDp9xZrnfvoZwasH3iLP) | 3:41 | 2021-09-10 | 2022-07-28 |
+| [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-04-01 |  |
 | [Marajà \- 2018 Remaster](https://open.spotify.com/track/70EXIyETxgloAlVkRbO2H9) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Canzoni a manovella \(2018 Remaster\)](https://open.spotify.com/album/7AYil3edcAVcb7nfyf0Tn7) | 3:25 | 2021-09-10 | 2022-07-29 |
 | [Marrakumbiah](https://open.spotify.com/track/0KQQDKtaplRyuTerGLQxt0) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [Etno Pachanga Sound System](https://open.spotify.com/album/0k3EsxNDJTIJtI44S8a6XD) | 3:45 | 2021-09-10 | 2022-07-26 |
 | [Marrakumbiah](https://open.spotify.com/track/45X61WpnNpZopCO92ZwKdw) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [Etno Pachanga Sound System](https://open.spotify.com/album/6fCxJA4Ar7o8PXRjDrKECo) | 3:45 | 2021-09-10 | 2023-01-07 |
@@ -121,7 +122,7 @@
 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/701VW4sjPM6NNyvgQiAUDX) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Pa' Bailar](https://open.spotify.com/album/5s5UhYWKiVH8o5GLmCVKDF) | 3:38 | 2021-09-10 | 2022-07-29 |
 | [Padam Padam](https://open.spotify.com/track/4LMjiB1lKCOwVMwMw9ecXe) | [Carte Blanche](https://open.spotify.com/artist/4gOHHRs5KgFVxwZBW0sZK7) | [Carte Blanche](https://open.spotify.com/album/5r10XYBTlosImiqo24TP7X) | 2:59 | 2021-09-10 | 2022-07-29 |
 | [Palinka](https://open.spotify.com/track/5A4bNWDzBFd6cfGrREE2Fo) | [Lemon Bucket Orkestra](https://open.spotify.com/artist/6GWO9W0sGGhCFEXPNt1w21), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [If I Had The Strength](https://open.spotify.com/album/27oG7yQMyxzz5p40ZwDjgb) | 4:16 | 2021-09-10 | 2022-07-29 |
-| [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 | 2023-01-07 |  |
+| [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 | 2023-01-07 | 2023-04-01 |
 | [Para Olvidarte](https://open.spotify.com/track/4zqtjs0gntUiyOwJ2XwGRa) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Para Olvidarte](https://open.spotify.com/album/7LJJlpLzQTBQ0wjMopDN81) | 4:04 | 2021-09-10 | 2022-07-29 |
 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 | 2022-09-03 |
 | [Parla più piano \(Love Theme from "The Godfather"\)](https://open.spotify.com/track/4vs7AkZvFE3T87rdfQEvVA) | [The Speakeasies' Swing Band!](https://open.spotify.com/artist/1oUi6Bbik9rnyUtnQUnC2g) | [Land of Plenty](https://open.spotify.com/album/2R4Nkyigz44hJbVd004zhS) | 4:51 | 2021-09-10 |  |

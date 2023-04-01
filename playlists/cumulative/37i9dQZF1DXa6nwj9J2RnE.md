@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-70 songs - 3 hr 52 min
+72 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ALotOnMyMind](https://open.spotify.com/track/0F80wAISZKUUnPSPi2N037) | [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [OPEN, BLOOT 'N PARANOÏDE](https://open.spotify.com/album/3A3X4wF8mPeP4rZylYawXz) | 2:12 | 2023-02-23 |  |
 | [Als Je Me Loslaat](https://open.spotify.com/track/1Tml6FZEX7iOYZAn6Qc3Wl) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Als Je Me Loslaat](https://open.spotify.com/album/19zvB5ueqojjM90lILpZ9M) | 2:50 | 2023-02-23 |  |
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2023-02-23 |  |
+| [Bee Suits](https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB) | [LIJO](https://open.spotify.com/artist/4fELglS1jHSC3lUA5A2SHC) | [Bee Suits](https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ) | 3:51 | 2023-03-31 |  |
 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 | 2023-02-23 |  |
 | [Caged Birds](https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Under Wishing Stars](https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1) | 3:02 | 2023-03-16 |  |
 | [Caged Birds](https://open.spotify.com/track/3vIWEQx9ZvuPuYHKV1EmXn) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Caged Birds](https://open.spotify.com/album/7qrCOjz9zwCbi1Ht3UvrPO) | 3:02 | 2023-02-23 | 2023-03-18 |
@@ -26,7 +27,7 @@
 | [De Leven](https://open.spotify.com/track/1RA3cTcU9xGnT5GNi6y7dO) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/2d0wssa9SabKowuZXc0gKn) | 4:04 | 2023-02-23 |  |
 | [Dit Is Alles](https://open.spotify.com/track/5au9uaIhhA51N27U68JXve) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Dit Is Alles](https://open.spotify.com/album/2MwKnMone5os6yTkqCWxXG) | 3:35 | 2023-02-23 |  |
 | [Fair Play](https://open.spotify.com/track/0PVLMa9RI4EFDE4NXsglvM) | [Veya](https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU) | [Fair Play](https://open.spotify.com/album/3j48ZkBE3HqHByil4s4xQE) | 3:04 | 2023-02-23 |  |
-| [For Good](https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [With You In The Room](https://open.spotify.com/album/2aN4RGXYEXSAtC92ePD7JD) | 3:04 | 2023-02-23 |  |
+| [For Good](https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [With You In The Room](https://open.spotify.com/album/2aN4RGXYEXSAtC92ePD7JD) | 3:04 | 2023-02-23 | 2023-04-01 |
 | [Forever](https://open.spotify.com/track/6mWi1D3usqO9JSFTqZWUuZ) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [GODSPEED](https://open.spotify.com/album/5PznlTVFdnmXyp34K4iJjI) | 3:06 | 2023-02-23 |  |
 | [Glas In Lood](https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 3:36 | 2023-02-23 |  |
 | [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [Navarone Cole](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 | 2023-02-23 |  |
@@ -43,9 +44,10 @@
 | [Little Girl](https://open.spotify.com/track/78JPkgiUKtPk16rgVwzwId) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Little Girl](https://open.spotify.com/album/1RYifRrTMcLIrGKOxTyt6N) | 2:49 | 2023-02-23 |  |
 | [Longing](https://open.spotify.com/track/2U7WtnPe5yrL8Om5Ml6P3v) | [Wynnm](https://open.spotify.com/artist/5OKbhPqXR4Xve2CSXW4T5K) | [Longing](https://open.spotify.com/album/5sqMOHMgo59ybNc2XXuoM8) | 3:14 | 2023-02-23 |  |
 | [Lost in a Dream](https://open.spotify.com/track/1BMKskvvqRdE6HfGcj8XbG) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Fabrik](https://open.spotify.com/artist/0Tf7on9sUYYHevISgz3phb) | [Lost in a Dream](https://open.spotify.com/album/7JAvvJn4k4F9eD2czSDQUp) | 3:19 | 2023-02-23 |  |
-| [M.I.A.](https://open.spotify.com/track/2k72CgD12K29xCHQrA9ToC) | [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [M.I.A.](https://open.spotify.com/album/50E2n5rDpO1uALeezN5M2W) | 2:07 | 2023-02-23 |  |
+| [M.I.A.](https://open.spotify.com/track/2k72CgD12K29xCHQrA9ToC) | [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [M.I.A.](https://open.spotify.com/album/50E2n5rDpO1uALeezN5M2W) | 2:07 | 2023-02-23 | 2023-04-01 |
+| [MEISJE IN WIT](https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [MEISJE IN WIT](https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U) | 2:22 | 2023-03-31 |  |
 | [Onbegrepen](https://open.spotify.com/track/2a2p471YjXXiCvpQtl8IHV) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Onbegrepen](https://open.spotify.com/album/0WNtBZDPbvqQue2UyLoTrL) | 2:29 | 2023-02-23 |  |
-| [Onbezonnen](https://open.spotify.com/track/4dxWDDEkFq9VqsAcIM0IpT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Licht En Donker](https://open.spotify.com/album/0YwrM4igfHYVfNLiIHfiLG) | 2:47 | 2023-02-23 |  |
+| [Onbezonnen](https://open.spotify.com/track/4dxWDDEkFq9VqsAcIM0IpT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Licht En Donker](https://open.spotify.com/album/0YwrM4igfHYVfNLiIHfiLG) | 2:47 | 2023-02-23 | 2023-04-01 |
 | [Our Time Is Here](https://open.spotify.com/track/3sDLHJgIDP1q2IYnEQjMWq) | [XILLAN](https://open.spotify.com/artist/4NTqnS8zPIpfzdNBcqK8Ly) | [Crowning Gods](https://open.spotify.com/album/3kC8B6AG2U2xrKNJYfj7f5) | 3:25 | 2023-02-23 |  |
 | [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 | 2023-02-23 |  |
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 |  |
@@ -53,18 +55,18 @@
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2023-02-23 |  |
 | [Shostakovich](https://open.spotify.com/track/347pgBmeEtrEiKrzXhmwJu) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Shostakovich](https://open.spotify.com/album/5iQwFbzozKjzM2GMpMwJ43) | 3:37 | 2023-02-23 |  |
 | [Simpel Leven](https://open.spotify.com/track/09wSw0pOVBJWW7Q7nuXvAB) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE), [Anishagf](https://open.spotify.com/artist/4jDEZRMVdx1wl08tjO4PFr) | [Simpel Leven](https://open.spotify.com/album/32Xek93X7KcaeoMN81bY24) | 2:43 | 2023-02-23 |  |
-| [Simpele Ziel](https://open.spotify.com/track/3cYnOvrNiOWyK9Iyx6VtxT) | [Tyrone Marcio](https://open.spotify.com/artist/5LNaytroUJTMebyCMO39AI) | [Simpele Ziel](https://open.spotify.com/album/23qubUacCRribg37QwTt1W) | 3:10 | 2023-02-23 |  |
+| [Simpele Ziel](https://open.spotify.com/track/3cYnOvrNiOWyK9Iyx6VtxT) | [Tyrone Marcio](https://open.spotify.com/artist/5LNaytroUJTMebyCMO39AI) | [Simpele Ziel](https://open.spotify.com/album/23qubUacCRribg37QwTt1W) | 3:10 | 2023-02-23 | 2023-04-01 |
 | [Sitting Here](https://open.spotify.com/track/1l6NJ79m7VMHl1RQobwsmk) | [Delic](https://open.spotify.com/artist/2vnJ6YXTxKiWKpARdtAD99), [Huda](https://open.spotify.com/artist/0YLcSj2Krk1kNAhvXq9VQ8) | [Lone Wolf](https://open.spotify.com/album/7aZrOpAP0SwCCIdcuOiqHI) | 4:33 | 2023-02-23 |  |
 | [Snow](https://open.spotify.com/track/1EBnTBd5Vyk9JjiABs4K9b) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [OBSIDIAN // SILK](https://open.spotify.com/album/6McpJlFhksAys07iNsfQjz) | 2:54 | 2023-02-23 |  |
 | [So Good It Hurts](https://open.spotify.com/track/3rh3cFQpZzkK61kupGoY2C) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Good News](https://open.spotify.com/album/4e2ipO4RcYGGHXf0eBgAnR) | 3:20 | 2023-02-23 |  |
 | [Something Somewhere](https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Something Somewhere](https://open.spotify.com/album/1Tq9NiZNrYWRE9j2GwQn2f) | 3:34 | 2023-02-23 |  |
 | [Startschot](https://open.spotify.com/track/5TYnWTit6kBSCJ3AfFZtJv) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Startschot](https://open.spotify.com/album/4pyUTzR03zB3F8cVmThH4H) | 3:59 | 2023-02-23 |  |
-| [Staying](https://open.spotify.com/track/4CKdLLyc4cu5oKFuflIX6b) | [Opera Alaska](https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx) | [Staying](https://open.spotify.com/album/4bgpK9yRrpcB2NGO7CDRav) | 3:19 | 2023-02-23 |  |
+| [Staying](https://open.spotify.com/track/4CKdLLyc4cu5oKFuflIX6b) | [Opera Alaska](https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx) | [Staying](https://open.spotify.com/album/4bgpK9yRrpcB2NGO7CDRav) | 3:19 | 2023-02-23 | 2023-04-01 |
 | [Step by Step](https://open.spotify.com/track/6VqudE83bSLJyorHfESAEw) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Step by Step](https://open.spotify.com/album/3H3mpuzo9kD19lsgg7MfBV) | 4:07 | 2023-02-23 |  |
 | [Stormy Weather](https://open.spotify.com/track/4KNEcjjLAk3cuIlYAtpODF) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [U](https://open.spotify.com/album/60WgNanjZ9t0usk1svK47C) | 3:44 | 2023-02-23 |  |
 | [Suicide Club](https://open.spotify.com/track/0pnED1pCTIMwyyeAEoux2g) | [GIAN](https://open.spotify.com/artist/5T9IzVTXZRCWuaEZzInXP3), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Suicide Club](https://open.spotify.com/album/1NiAQnXZVBbldqwJDv5GAe) | 3:00 | 2023-02-23 |  |
 | [Take It In](https://open.spotify.com/track/30vIfB5gtZGGFg97dEjOEe) | [Myrwood](https://open.spotify.com/artist/1fy4Uo845NnAgRroPZk3LD) | [Take It In](https://open.spotify.com/album/5qdadtcVVOMgJIAYJKlOP4) | 3:32 | 2023-02-23 |  |
-| [The Edge](https://open.spotify.com/track/6qz0vy1Vmlk0CkcIZVfDe6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [The Edge](https://open.spotify.com/album/4xBRWqgv6LwgOO15guGN5Z) | 4:07 | 2023-02-23 |  |
+| [The Edge](https://open.spotify.com/track/6qz0vy1Vmlk0CkcIZVfDe6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [The Edge](https://open.spotify.com/album/4xBRWqgv6LwgOO15guGN5Z) | 4:07 | 2023-02-23 | 2023-04-01 |
 | [The Great Hope Design](https://open.spotify.com/track/6D2whKQXHFzQtqPa5BXwPP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Great Hope Design](https://open.spotify.com/album/02KjMI6Z4XAJALVX9XjcEM) | 5:20 | 2023-02-23 |  |
 | [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 | 2023-02-23 |  |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 |  |
@@ -77,6 +79,6 @@
 | [Woman Life Freedom](https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Woman Life Freedom](https://open.spotify.com/album/4GB69MswlOepsu21T0NqUF) | 4:12 | 2023-02-23 |  |
 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 | 2023-03-16 |  |
 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 | 2023-02-23 |  |
-| [Zondagskind](https://open.spotify.com/track/5hWgdvdXXvq6l9ezrFeI8F) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:45 | 2023-02-23 |  |
+| [Zondagskind](https://open.spotify.com/track/5hWgdvdXXvq6l9ezrFeI8F) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:45 | 2023-02-23 | 2023-04-01 |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

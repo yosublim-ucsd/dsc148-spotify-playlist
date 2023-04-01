@@ -1,13 +1,33 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Destin Conrad",
-  "num_followers": 33434,
+  "description": "R&B of the moment by the artists of the future. Cover: Kenyon Dixon",
+  "num_followers": 33523,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDUwYWUwN2YzZWQxN2M0ZWJhMDE1YWU2NGIyZjhiMGI1",
+  "snapshot_id": "MTY4MDIzNTczMSwwMDAwMDAwMDQ0MjA3OTBkZjVlZWRkNDc3YzVhZTYwMWI2MDBjY2M4",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:08:51",
+      "album": {
+        "name": "Slow Dancing",
+        "url": "https://open.spotify.com/album/2mnONj1DFsjtCAFc3dJBlV"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Kincy",
+          "url": "https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53"
+        }
+      ],
+      "duration_ms": 226379,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr"
+    },
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
@@ -173,20 +193,20 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-03-31 04:08:51",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+        "name": "NOT ALONE",
+        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
+      "duration_ms": 185013,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -203,6 +223,22 @@
       "duration_ms": 152396,
       "name": "Palace",
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -251,6 +287,22 @@
       "duration_ms": 90836,
       "name": "IT'S YOURS",
       "url": "https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc"
+    },
+    {
+      "added_at": "2023-03-31 04:08:51",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/5je4RRaGpRma4N5fK9xhpY"
+      },
+      "artists": [
+        {
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
+        }
+      ],
+      "duration_ms": 108588,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6tv0ml6tExtwYWCiJfhvmN"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1145,22 +1197,6 @@
       "url": "https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Should Have Cared",
-        "url": "https://open.spotify.com/album/0ETiF2YCpnUMf0A9R8XPao"
-      },
-      "artists": [
-        {
-          "name": "nezsa",
-          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Should Have Cared",
-      "url": "https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "BEFORE WE GO (DEEPER)",
@@ -1179,26 +1215,6 @@
       "duration_ms": 210379,
       "name": "CALI LOVE (feat. Ambr\u00e9)",
       "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Slim Wav",
-          "url": "https://open.spotify.com/artist/4POukeJmTgfsZ8h0oCLZoB"
-        }
-      ],
-      "duration_ms": 242990,
-      "name": "I Do (feat. Slimwav)",
-      "url": "https://open.spotify.com/track/7fP5XHTX3hbR3g7TY8WtcW"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1307,26 +1323,6 @@
       "duration_ms": 173000,
       "name": "Ride",
       "url": "https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     }
   ],
   "unique_name": "R&B Rising",

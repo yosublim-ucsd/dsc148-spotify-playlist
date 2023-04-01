@@ -708,7 +708,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 161279,
       "name": "Casper",
       "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
@@ -2896,6 +2896,28 @@
       "duration_ms": 202666,
       "name": "MAKE ME DANCE",
       "url": "https://open.spotify.com/track/3at6CHKoGRGh5dzee3jREt"
+    },
+    {
+      "album": {
+        "name": "Makin Moves",
+        "url": "https://open.spotify.com/album/0KiLaRhGNQYN0j94MVjKhN"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Makin Moves",
+      "url": "https://open.spotify.com/track/3QwYSJpsLN0qannLsQqdVE"
     },
     {
       "album": {

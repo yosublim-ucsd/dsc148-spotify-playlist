@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,421 likes - 290 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,470 likes - 290 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 171 | [1989](https://open.spotify.com/track/5MLeS7gH48goD0uY0Ugwuy) | [Vasts](https://open.spotify.com/artist/2SFcZyrJePTkkpGJ3auRCV) | [1989](https://open.spotify.com/album/6ty8CSqH440EImNwbeAzX9) | 2:55 |
 | 172 | [Attends\-moi](https://open.spotify.com/track/5Tzz9ed8aqzEHMvBsYcwiN) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Attends\-moi](https://open.spotify.com/album/0OZA65EqED0lZ3cbGs73Bt) | 3:39 |
 | 173 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 |
-| 174 | [Lunar Waves](https://open.spotify.com/track/4V63oszHOnXfNM3ZHAmYqi) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Lunar Waves](https://open.spotify.com/album/2qvPTn1MjnyvdMChzShb0k) | 2:29 |
+| 174 | [Lunar Waves](https://open.spotify.com/track/4V63oszHOnXfNM3ZHAmYqi) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Lunar Waves](https://open.spotify.com/album/2qvPTn1MjnyvdMChzShb0k) | 2:29 |
 | 175 | [Slow Down](https://open.spotify.com/track/1A227JO30dAB3OYMu0hJux) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Slow Down](https://open.spotify.com/album/0Wunc0XjZrh9pIQUZCzccu) | 3:16 |
 | 176 | [Light The Dark](https://open.spotify.com/track/48mVKq6Z51m0MzfvPASYWZ) | [Golden Lakes](https://open.spotify.com/artist/5AQlE2K0Hy7UlNzPVQEKny) | [Light The Dark](https://open.spotify.com/album/1tD77At0A27rvSs2Hw7I5W) | 2:40 |
 | 177 | [Spatsmanium](https://open.spotify.com/track/7jUjRQpX5NCXhOgwtW5J47) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [Spatsmanium](https://open.spotify.com/album/5sEk9boEfqnmH7i4h3DxEx) | 3:11 |

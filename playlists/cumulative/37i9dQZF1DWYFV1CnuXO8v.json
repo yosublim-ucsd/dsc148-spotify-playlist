@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Khatawa",
+        "url": "https://open.spotify.com/album/3nNkVRG6vn79jqu1tmlPHP"
+      },
+      "artists": [
+        {
+          "name": "Moustafa Hagag",
+          "url": "https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200088,
+      "name": "Khatawa",
+      "url": "https://open.spotify.com/track/3N6DYmCVTZs2Oy4arj7RqN"
+    },
+    {
+      "album": {
         "name": "Ya Fatenny",
         "url": "https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj"
       },
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 196821,
       "name": "Mehtag Sana",
       "url": "https://open.spotify.com/track/53ZoGrHQevj1hq58PUS0tF"
@@ -2164,24 +2182,6 @@
       "duration_ms": 302027,
       "name": "\u062d\u0628\u0647 \u062c\u0646\u0629",
       "url": "https://open.spotify.com/track/2QK9spxKFUWe7zeirPHf5O"
-    },
-    {
-      "album": {
-        "name": "\u062e\u0637\u0648\u0629",
-        "url": "https://open.spotify.com/album/3nNkVRG6vn79jqu1tmlPHP"
-      },
-      "artists": [
-        {
-          "name": "Moustafa Hagag",
-          "url": "https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52"
-        }
-      ],
-      "date_added": "2023-02-13",
-      "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
-      "duration_ms": 200088,
-      "name": "\u062e\u0637\u0648\u0629",
-      "url": "https://open.spotify.com/track/3N6DYmCVTZs2Oy4arj7RqN"
     },
     {
       "album": {

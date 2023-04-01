@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: Tsu Nami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,823 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,892 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 |
 | 150 | [Gravity](https://open.spotify.com/track/21PELgAI135nZmhjEi9MxG) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Gravity](https://open.spotify.com/album/70pPhEPFbPp31jXsSxPiOj) | 4:22 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGFjYmY0NzRhZGQ0YTVlYjYwZmUwZGYyNjhhYjFiODEw`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDgyMTBjYzg4ZWU0ZDQzYjllZGNiNjY0MTQxNTYxN2Ew`

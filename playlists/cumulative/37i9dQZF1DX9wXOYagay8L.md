@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=\_aIL8crJSKC5kkUNk4ASlQ">Big Zulu</a> and <a href="https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=\_DabzKNsSnisZ\_NpwiIHDA">Sjava</a> are <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=V4X6pc3hQqG644fLEMUOLw">Inkabi Zezwe</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=XJYpcsMLTPC\-bMZw7RfAcg">Lloyiso</a>
 
-352 songs - 1 day 1 hr 6 min
+353 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Ghanama](https://open.spotify.com/track/2Rt9pvRDZ2ms4BKb0mNDbG) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Ghanama](https://open.spotify.com/album/3Xn8XHYzwQVWn3ALmiT3xp) | 4:53 | 2021-07-12 | 2022-07-29 |
 | [Gibela](https://open.spotify.com/track/7h7Ygv9SuMXcuYZYNaghvj) | [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Gibela](https://open.spotify.com/album/1PJlGUGa58yCaE83Kt8zYJ) | 3:37 | 2022-10-13 |  |
 | [Ginger](https://open.spotify.com/track/4ERr1kebAuB9DrleARjrux) | [Anita Jaxson](https://open.spotify.com/artist/6KXx2OYYruptjegbc2s7YA) | [Ginger](https://open.spotify.com/album/5HuIq0yYyLFYyR7h7Vn5Q4) | 3:27 | 2022-05-12 | 2022-06-03 |
+| [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-31 |  |
 | [Give Me Love](https://open.spotify.com/track/2ufp3FcGJ4qYpO4sfBZsA7) | [Tanaka Siziba](https://open.spotify.com/artist/0GXxyRP8kAhgERFJUDwUV2) | [Give Me Love](https://open.spotify.com/album/515EjVPbPb6nUiEF3qdM1Q) | 2:56 | 2022-04-22 | 2022-05-06 |
 | [Give Me Something \(feat\. Rowlene\)](https://open.spotify.com/track/5cRuXf4RQjrNEGkTVNlBrv) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Give Me Something \(feat\. Rowlene\)](https://open.spotify.com/album/4beeF1a8TR0ZAmHGbVmcjV) | 2:44 | 2022-08-25 | 2022-09-30 |
 | [Gomora](https://open.spotify.com/track/3PurQ26uEqE10OXpGUM6Al) | [Blendor](https://open.spotify.com/artist/39o9oJa1NUK3WKgFn2mc4P) | [Umacashelana](https://open.spotify.com/album/5FhZB8gNSc6HxGVz6Fo7kg) | 4:05 | 2022-04-22 | 2022-05-06 |
@@ -129,7 +130,7 @@
 | [Ithuba](https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Ithuba](https://open.spotify.com/album/1pYMs6qogXnmKzGoGlBwWQ) | 4:23 | 2022-08-11 |  |
 | [iType Yami](https://open.spotify.com/track/0g1HarKnAqvwSA63KzQC8e) | [Pony Guy Mash](https://open.spotify.com/artist/5zKvJGugIG7OCj6M6MulZe), [Youngzee](https://open.spotify.com/artist/21B9H62bg5ZSXSHAi8JDzl), [Intwana YeVocal](https://open.spotify.com/artist/1dpfMK84N5CY7fdxsfQeQX) | [iType Yami](https://open.spotify.com/album/0DjLyayGC8Ye9MaBFn4weQ) | 3:30 | 2022-06-16 | 2022-07-26 |
 | [Izimpi](https://open.spotify.com/track/5HivUEOLwjCIpJQsXj0S9r) | [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [3310](https://open.spotify.com/album/7AgGMHzNjT0Fudd77ZGonH) | 5:41 | 2021-08-26 | 2022-02-11 |
-| [Jabula](https://open.spotify.com/track/5e2vMDSGRmgjPEfJxOE2C2) | [Thalie MaMbooica](https://open.spotify.com/artist/4QDUrDd9oDGPYb7Rgl8fy7) | [Jabula](https://open.spotify.com/album/1PByTxEEJePPHAhWmXGaIS) | 3:19 | 2023-02-02 |  |
+| [Jabula](https://open.spotify.com/track/5e2vMDSGRmgjPEfJxOE2C2) | [Thalie MaMbooica](https://open.spotify.com/artist/4QDUrDd9oDGPYb7Rgl8fy7) | [Jabula](https://open.spotify.com/album/1PByTxEEJePPHAhWmXGaIS) | 3:19 | 2023-02-02 | 2023-04-01 |
 | [Jerusalema](https://open.spotify.com/track/2RhB9tngJm10e7yqQ7tYSF) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Jerusalema](https://open.spotify.com/album/0y6opZMEtMpmOp3kWI3n2r) | 5:22 | 2022-08-18 | 2022-10-29 |
 | [Jerusalema \(TikTok Classics Ballad Version\)](https://open.spotify.com/track/4XyP6kuLftVy5u8L5nVed7) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir) | [Jerusalema \(TikTok Classics Ballad Version\)](https://open.spotify.com/album/1vcmEZYFrlxu0psZesOi4x) | 4:06 | 2022-07-07 | 2022-07-26 |
 | [Jike'lemaweni](https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 4:28 | 2022-03-03 | 2022-03-11 |

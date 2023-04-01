@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-168 songs - 9 hr 26 min
+169 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2021-04-19 | 2022-07-29 |
 | [More Hearts Than Mine](https://open.spotify.com/track/3TRlhYlnRVlQQMQbh3m2Tv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TikTok Sounds](https://open.spotify.com/album/49FLPP6KDpXKwldgjkoCUR) | 3:34 | 2021-04-19 | 2022-11-13 |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-04-19 |  |
+| [Mountain](https://open.spotify.com/track/1oE33RydbNjm4mjdniFNth) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Mountain](https://open.spotify.com/album/3GCGJNpU4nRVw1uRPvJV0o) | 2:23 | 2023-03-31 |  |
 | [My Old Man](https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 3:47 | 2021-04-19 |  |
 | [My Old Man](https://open.spotify.com/track/6OzujJBXwYPxJ7KeqflLtr) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/2IcmfT1b5m1wWrJI1ZVAUa) | 3:47 | 2021-04-19 | 2022-07-29 |
 | [My Time Machine](https://open.spotify.com/track/44pg0fUyO3Fbj99LiLOHKy) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [My Time Machine](https://open.spotify.com/album/6dHcdUtQyeUbYEe6o8CY8c) | 2:25 | 2023-02-03 | 2023-03-25 |
@@ -157,7 +158,7 @@
 | [Troubled Soul](https://open.spotify.com/track/6jRlhzI3CNe4DOuEoF0rkw) | [Paper Wings](https://open.spotify.com/artist/42CYIYwKRNIYAHPrnjPvVn) | [Clementine](https://open.spotify.com/album/2xZS1wCPPJxPqRkTh8nhKB) | 3:54 | 2021-04-19 |  |
 | [True Believer](https://open.spotify.com/track/7MU641dWQo8zzExfQD7HW0) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [True Believer](https://open.spotify.com/album/5JSL79s5wVIDQeIy2xI05Z) | 3:15 | 2021-04-19 |  |
 | [True Love](https://open.spotify.com/track/7sigUoQGHreBIG14Rn7LGp) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [Break Your Crowns](https://open.spotify.com/album/3GFaakqzHGqLPB2er6noUD) | 3:23 | 2021-04-19 |  |
-| [True North](https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 2:17 | 2022-04-29 |  |
+| [True North](https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 2:17 | 2022-04-29 | 2023-04-01 |
 | [Trust in the Blue](https://open.spotify.com/track/0fzpLt2rI73GWQSiMfHs7w) | [Ram Dass](https://open.spotify.com/artist/0qXTvVI7Tgb1eA1fTgdxGk) | [Trust in the Blue](https://open.spotify.com/album/77dYW0aAyRB2Nevl1SLgk8) | 3:20 | 2022-08-05 |  |
 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 | 2022-03-18 |  |
 | [Universe](https://open.spotify.com/track/39xLmel5EtdwNhLlckj1TN) | [Hudson Moore](https://open.spotify.com/artist/26iVzd80yAXJjZlsrshRjQ) | [Universe](https://open.spotify.com/album/5Of0tnCeK1LKLjNBeziUX1) | 3:09 | 2021-04-19 |  |

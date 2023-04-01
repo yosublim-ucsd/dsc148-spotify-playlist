@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > Sped up songs from TikTok and around the internet.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 25,048 likes - 50 songs - 2 hr 19 min
+[Digster](https://open.spotify.com/user/digster.fm) - 25,044 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Step On Me \- Sped Up Version](https://open.spotify.com/track/7r28jv8dtlXDOoulEIPP04) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Step On Me \(Sped Up Version\)](https://open.spotify.com/album/4Hvhn8Llylsg57osaLEVcJ) | 3:26 |
 | 2 | [Wicked Games \- Sped Up](https://open.spotify.com/track/2gD25C4hWZoQeGNlfqCAK2) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Wicked Games \(Sped Up\)](https://open.spotify.com/album/4C5wHfZutXxy8BlqegHYHw) | 2:36 |
-| 3 | [Red Ruby Da Sleaze \- Sped Up](https://open.spotify.com/track/5J1vxba3jtIW9s8fQdf0rh) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Red Ruby Da Sleeze \(Sped Up\)](https://open.spotify.com/album/5HCvLKZPNfrztoLv2fPs48) | 2:59 |
+| 3 | [Red Ruby Da Sleeze \- Sped Up](https://open.spotify.com/track/5J1vxba3jtIW9s8fQdf0rh) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Red Ruby Da Sleeze \(Sped Up\)](https://open.spotify.com/album/5HCvLKZPNfrztoLv2fPs48) | 2:59 |
 | 4 | [Die For You \- Sped Up](https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Die For You](https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18) | 3:43 |
 | 5 | [Cardboard Box \- Sped Up](https://open.spotify.com/track/1Yywnto2PimPZNti7DGDZB) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cardboard Box](https://open.spotify.com/album/63AyqtzaDPQ7EEaSa2irK8) | 2:18 |
 | 6 | [Need \(with xxtristanxo & Speed Radio\) \(Sped Up\)](https://open.spotify.com/track/4B0DqbySyGD2dd0aYvZsnW) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Need \(with xxtristanxo & Speed Radio\) \(Sped Up\)](https://open.spotify.com/album/61yM7Zm86YVD9YUSBV831d) | 2:27 |

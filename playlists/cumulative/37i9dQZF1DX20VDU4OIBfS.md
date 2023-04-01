@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-354 songs - 22 hr 24 min
+355 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Por Ese Hombre \(with Dyango\)](https://open.spotify.com/track/7Lw1CMlaUzFICJGTwz6wvZ) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo), [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [20 Exitos Originales](https://open.spotify.com/album/7K29PoNitWdhxYhOTOHa35) | 4:49 | 2022-01-01 | 2022-07-29 |
 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Éxitos](https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3) | 3:20 | 2022-01-01 | 2022-07-29 |
 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 | 2022-06-02 |  |
+| [Porque Yo Te Amo](https://open.spotify.com/track/2KuP2WnaXV7hiHn9KLq27E) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha y una Guitarra](https://open.spotify.com/album/12h6RCRmJ7mgOzl9h7uigs) | 3:33 | 2023-01-12 |  |
 | [Porque Yo Te Amo](https://open.spotify.com/track/4c1njLePXF6bmo5usheY9A) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha y Una Guitarra](https://open.spotify.com/album/3rZPB9LUCoaqqw7WB03gce) | 3:33 | 2022-01-01 | 2022-11-13 |
 | [Prometimos No Llorar](https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:22 | 2022-06-02 |  |
 | [prometimos no llorar](https://open.spotify.com/track/2ARbrP8ycqMzKGkWSYMrmL) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Colecccion de Oro](https://open.spotify.com/album/5zPthclCeJlSDNXf0FEAxC) | 3:23 | 2022-01-01 | 2022-07-29 |
@@ -351,7 +352,7 @@
 | [Y Volveré](https://open.spotify.com/track/7wx1WRcxLovFDlhNe5leeX) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Celebridades\- los Angeles Negros](https://open.spotify.com/album/4yVGTVY6opYiklxtqRrKtu) | 4:00 | 2022-01-01 | 2022-07-29 |
 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 | 2022-06-02 |  |
 | [Yo No Te Pido La Luna](https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:51 | 2022-01-01 | 2023-03-20 |
-| [Yo soy aquél](https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:39 | 2022-08-31 |  |
+| [Yo soy aquél](https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:39 | 2022-08-31 | 2023-04-01 |
 | [Yo Te Pido Amor](https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:46 | 2022-01-01 | 2022-07-29 |
 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 | 2022-06-02 |  |
 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/2GCb04vjU2QePbEEHUOAC4) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/2IzK6dZXxuS20zoQ1b6Jxu) | 3:48 | 2022-01-01 | 2022-07-29 |

@@ -6,10 +6,226 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5OTM4NDAsMDAwMDAwMDAzZTBiMjk5NzQxMzA3ZGU4NDQ2OWJjMjQxODZiMmEzNg==",
+  "snapshot_id": "MjgwMDM5MjAsMDAwMDAwMDA1OGNlNDk2MzA3ZmNjZjg2NjExNGFlMjc3MWFjNjY5NQ==",
   "tracks": [
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daniel Laskiewicz",
+          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
+        }
+      ],
+      "duration_ms": 268744,
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Free Game",
+        "url": "https://open.spotify.com/album/4q2hpjHY1j2xil1Dp3OSf7"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 143006,
+      "name": "Free Game",
+      "url": "https://open.spotify.com/track/3e4t0zTcXMloTvdQgDUYnB"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Out Of Your Mind",
+        "url": "https://open.spotify.com/album/2IMgLM65tvnalH05gfWNYZ"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "Out Of Your Mind",
+      "url": "https://open.spotify.com/track/4LAeittiDHN59KGhTgBKhO"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Nuke's Blues",
+        "url": "https://open.spotify.com/album/2OE3m8C7REzAtHKsDJk6h8"
+      },
+      "artists": [
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Josef Leimberg",
+          "url": "https://open.spotify.com/artist/5rQ9q5c4pQKwn3OmpKE6vA"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "Nuke's Blues",
+      "url": "https://open.spotify.com/track/6ItY4g8M5jOBwrdCLF65TJ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Apho",
+        "url": "https://open.spotify.com/album/3W9XyDsJb5XDmF2iIFsjMx"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Apho",
+      "url": "https://open.spotify.com/track/4PShi8ZHJXoax9jqzSiMa2"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Continue as a Guest",
+        "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "Bottle Episodes",
+      "url": "https://open.spotify.com/track/4po80V0UADskVYWjH20GKk"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The Jaguar God",
+        "url": "https://open.spotify.com/album/7z8UBWhL5SiEC8VomlP3Y9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Lix",
+          "url": "https://open.spotify.com/artist/4pIuN8Np5qDTRVVxUF8gaM"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "B Mus",
+          "url": "https://open.spotify.com/artist/7tsaWDoqXCl0vklCKU0xfO"
+        }
+      ],
+      "duration_ms": 138057,
+      "name": "The Jaguar God",
+      "url": "https://open.spotify.com/track/7HR9sbOvvTrGiazxEpDdbn"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Extreme Ways (Resound NYC Version)",
+        "url": "https://open.spotify.com/album/2nVQEKfiwmH8ecebT80CYe"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Dougy Mandagi",
+          "url": "https://open.spotify.com/artist/1RwTwH0WT6kQzgRFf0m4uM"
+        }
+      ],
+      "duration_ms": 228990,
+      "name": "Extreme Ways - Resound NYC Version / Edit",
+      "url": "https://open.spotify.com/track/0aj27E2UXku6ael5ti7g7H"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 247875,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Death Below",
         "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
@@ -29,7 +245,7 @@
       "url": "https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Black Sunflower",
         "url": "https://open.spotify.com/album/5hWWS5ydQWvgEty3Wkypdz"
@@ -45,10 +261,10 @@
       "url": "https://open.spotify.com/track/6OWxTiwhdQXXidxdJSxHbo"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Land of Confusion (Metal Version)",
-        "url": "https://open.spotify.com/album/3Hu9izRzOotiCmnGRIMC3S"
+        "name": "Leo Metal, Vol. 42",
+        "url": "https://open.spotify.com/album/23hn5b2ewBQ2L0FuYhJ5Gt"
       },
       "artists": [
         {
@@ -56,12 +272,12 @@
           "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 328564,
-      "name": "Land of Confusion (Metal Version)",
-      "url": "https://open.spotify.com/track/1oe1dxFxBEVZK6YdPIShkn"
+      "duration_ms": 262079,
+      "name": "We Didn't Start The Fire (Metal Version)",
+      "url": "https://open.spotify.com/track/7MbRmAGg8QFbltXzWLqSHp"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Tomorrow (Snoop Dogg feat. Denaun)",
         "url": "https://open.spotify.com/album/5GyiLdYRAwYThnfdIpNh0R"
@@ -85,27 +301,35 @@
       "url": "https://open.spotify.com/track/090KQwFxJk5AWIffpXEzXB"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4OpUprBWsTAsEK5y3xMJBj"
+        "name": "Szechuan Capital",
+        "url": "https://open.spotify.com/album/6Wjkj7mbasv8jQKFssrWzn"
       },
       "artists": [
         {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+          "name": "Meyhem Lauren",
+          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
         },
         {
-          "name": "Stella Katherine Cole",
-          "url": "https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz"
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
         }
       ],
-      "duration_ms": 235485,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/7ouMHnBPsGDrOTHIKLDgOS"
+      "duration_ms": 303575,
+      "name": "Szechuan Capital",
+      "url": "https://open.spotify.com/track/5nK2Nmo5cNHB7FeBddWWTq"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/77ImJD1jSOmmaMGdHkPCiR"
@@ -129,23 +353,7 @@
       "url": "https://open.spotify.com/track/237yGWGEvX2phAuOgf7HHx"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 230499,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Subpar (with Method Man)",
         "url": "https://open.spotify.com/album/5C9BiODFRpVGxAPDp042fO"
@@ -165,79 +373,43 @@
       "url": "https://open.spotify.com/track/4ihDvBziAGDBtxggYujhks"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
+      "duration_ms": 230499,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2nYb1jBuzoEsHYIrh7ueL9"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4OpUprBWsTAsEK5y3xMJBj"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
         },
         {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+          "name": "Stella Katherine Cole",
+          "url": "https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz"
         }
       ],
-      "duration_ms": 135652,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6HziIqUKIzfSAHOpVtALrL"
+      "duration_ms": 235485,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7ouMHnBPsGDrOTHIKLDgOS"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Demon Time (with Ari Lennox) [Remix]",
-        "url": "https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 220249,
-      "name": "Demon Time (with Ari Lennox) - Remix",
-      "url": "https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Silver Lake Listening Companion",
-        "url": "https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 141187,
-      "name": "From the Subway Train - Extended Version",
-      "url": "https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Time (edit - 2023 Master)",
         "url": "https://open.spotify.com/album/0p4pqqmiJEc9hXTIjfJtKa"
@@ -253,7 +425,23 @@
       "url": "https://open.spotify.com/track/4PP3qyBdHkEDfrP1ucHabB"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Silver Lake Listening Companion",
+        "url": "https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 141187,
+      "name": "From the Subway Train - Extended Version",
+      "url": "https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Piece Of Me (Remix)",
         "url": "https://open.spotify.com/album/3pIl6V36ZA1KOnZzrnzOJW"
@@ -273,83 +461,7 @@
       "url": "https://open.spotify.com/track/0ox0UnhHQNvNPt1RbVqOWq"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Unpredictable",
-        "url": "https://open.spotify.com/album/6HS7Vlm6nSePmaceu9ctfo"
-      },
-      "artists": [
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Unpredictable",
-      "url": "https://open.spotify.com/track/5GdgI8N4V0IHPgiPfvlGnW"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Real A (WHTA) [feat. Skooly]",
-        "url": "https://open.spotify.com/album/53Dw3Stif7Z9kGdDDBBJut"
-      },
-      "artists": [
-        {
-          "name": "Yung Booke",
-          "url": "https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/5Krj7bywZuCiajTa1zHP1C"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Skooly",
-          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "The Real A (WHTA) [feat. Skooly]",
-      "url": "https://open.spotify.com/track/4Yp8G0ryuun0v1dRHtMNcH"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "DEATH",
-        "url": "https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 306655,
-      "name": "DEATH",
-      "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "At Capolinea (Remastered)",
         "url": "https://open.spotify.com/album/0KoYmJEWsOq1kJ6Z6eSQ1r"
@@ -365,79 +477,27 @@
       "url": "https://open.spotify.com/track/5ySdE6NWLnL5SsaDHzHt8B"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Staffan (Var En Stalledr\u00e4ng)",
-        "url": "https://open.spotify.com/album/2b2R85okYevKxo6D8LzqlA"
+        "name": "Demon Time (with Ari Lennox) [Remix]",
+        "url": "https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b"
       },
       "artists": [
         {
-          "name": "Yngwie Malmsteen",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Staffan (Var En Stalledr\u00e4ng)",
-      "url": "https://open.spotify.com/track/5NH850HLE8EKalHHtbQj0i"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "waste my time",
-        "url": "https://open.spotify.com/album/0PXBOgZi741Qj0jsEcDrWk"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 140312,
-      "name": "waste my time",
-      "url": "https://open.spotify.com/track/0NBVGDwK0a6y8ejqfipcgK"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
-      },
-      "artists": [
-        {
-          "name": "Ni'jah",
-          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
         },
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 171706,
-      "name": "Sticky (feat. Childish Gambino & KIRBY)",
-      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
+      "duration_ms": 220249,
+      "name": "Demon Time (with Ari Lennox) - Remix",
+      "url": "https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/1Oruyi89vAMbFOxVox2alE"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/1bBetNcLK8TbPfwYtaSMMi"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Wreckless",
         "url": "https://open.spotify.com/album/1E1HHfY6IClaSASPELV7t9"
@@ -465,71 +525,83 @@
       "url": "https://open.spotify.com/track/2C7ZHLGI6eQoQ1m0aGtLK3"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Things I Like",
-        "url": "https://open.spotify.com/album/77sn93da6cO2WivIKLaahQ"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1Oruyi89vAMbFOxVox2alE"
       },
       "artists": [
         {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
         }
       ],
-      "duration_ms": 191798,
-      "name": "Things I Like",
-      "url": "https://open.spotify.com/track/7ibnBtLC00cf6AFJFYmUlv"
+      "duration_ms": 228162,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/1bBetNcLK8TbPfwYtaSMMi"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Sweet Southern Comfort",
-        "url": "https://open.spotify.com/album/4omLcMWjPidak2J4cZtK22"
+        "name": "The Real A (WHTA) [feat. Skooly]",
+        "url": "https://open.spotify.com/album/53Dw3Stif7Z9kGdDDBBJut"
       },
       "artists": [
         {
-          "name": "Buddy Jewell",
-          "url": "https://open.spotify.com/artist/43c94u7flZbHSdDaUuohqS"
+          "name": "Yung Booke",
+          "url": "https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej"
         },
         {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         },
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "Marty Raybon",
-          "url": "https://open.spotify.com/artist/1SkREU1C2GYl4JSFuPXEQI"
+          "name": "Skooly",
+          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
         }
       ],
-      "duration_ms": 217808,
-      "name": "Sweet Southern Comfort",
-      "url": "https://open.spotify.com/track/7JSaBwtAXtQ91vE4HLVrqL"
+      "duration_ms": 204346,
+      "name": "The Real A (WHTA) [feat. Skooly]",
+      "url": "https://open.spotify.com/track/4Yp8G0ryuun0v1dRHtMNcH"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rivers (Live At The Afas Live)",
-        "url": "https://open.spotify.com/album/6aU1IBgcfYGEdJT37piNLN"
+        "name": "waste my time",
+        "url": "https://open.spotify.com/album/0PXBOgZi741Qj0jsEcDrWk"
       },
       "artists": [
         {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        },
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
         }
       ],
-      "duration_ms": 298561,
-      "name": "Rivers - Live At The Afas Live",
-      "url": "https://open.spotify.com/track/6PRQE3khfCrdun9EmO1Fqx"
+      "duration_ms": 140312,
+      "name": "waste my time",
+      "url": "https://open.spotify.com/track/0NBVGDwK0a6y8ejqfipcgK"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Staffan (Var En Stalledr\u00e4ng)",
+        "url": "https://open.spotify.com/album/2b2R85okYevKxo6D8LzqlA"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Staffan (Var En Stalledr\u00e4ng)",
+      "url": "https://open.spotify.com/track/5NH850HLE8EKalHHtbQj0i"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Insane (feat. Ant Clemons)",
         "url": "https://open.spotify.com/album/5dBWQQ0cqVGcYZZWRYlaY2"
@@ -557,23 +629,71 @@
       "url": "https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Pontius Pilate's Home Movies",
-        "url": "https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1"
+        "name": "Things I Like",
+        "url": "https://open.spotify.com/album/77sn93da6cO2WivIKLaahQ"
       },
       "artists": [
         {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
         }
       ],
-      "duration_ms": 234280,
-      "name": "Pontius Pilate's Home Movies",
-      "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
+      "duration_ms": 191798,
+      "name": "Things I Like",
+      "url": "https://open.spotify.com/track/7ibnBtLC00cf6AFJFYmUlv"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Sweet Southern Comfort",
+        "url": "https://open.spotify.com/album/4omLcMWjPidak2J4cZtK22"
+      },
+      "artists": [
+        {
+          "name": "Buddy Jewell",
+          "url": "https://open.spotify.com/artist/43c94u7flZbHSdDaUuohqS"
+        },
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        },
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        },
+        {
+          "name": "Marty Raybon",
+          "url": "https://open.spotify.com/artist/1SkREU1C2GYl4JSFuPXEQI"
+        }
+      ],
+      "duration_ms": 217808,
+      "name": "Sweet Southern Comfort",
+      "url": "https://open.spotify.com/track/7JSaBwtAXtQ91vE4HLVrqL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rivers (Live At The Afas Live)",
+        "url": "https://open.spotify.com/album/6aU1IBgcfYGEdJT37piNLN"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        },
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 298561,
+      "name": "Rivers - Live At The Afas Live",
+      "url": "https://open.spotify.com/track/6PRQE3khfCrdun9EmO1Fqx"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
@@ -595,26 +715,6 @@
       "duration_ms": 182918,
       "name": "Hungry Heart ft. Hayley Kiyoko",
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5E1hgax8y4HNmdqgTz0zUD"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 344242,
-      "name": "Walk With Me - Resound NYC Version",
-      "url": "https://open.spotify.com/track/2FLXGK0uYcyG0rSWYRByGy"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

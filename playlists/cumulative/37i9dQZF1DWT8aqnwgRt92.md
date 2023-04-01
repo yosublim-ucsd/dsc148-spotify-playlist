@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-560 songs - 1 day 11 hr 41 min
+562 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 | 2022-06-09 | 2022-06-15 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7) | 4:03 | 2022-07-28 | 2022-10-19 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/1IlMcBvlQlPSd58GxEHX44) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:05 | 2023-01-10 |  |
-| [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 | 2023-01-31 |  |
+| [Here I Stand](https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand](https://open.spotify.com/album/6XHLf6XkdhyHJzWSUhh1f0) | 3:49 | 2023-03-31 |  |
+| [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 | 2023-01-31 | 2023-04-01 |
 | [Here is](https://open.spotify.com/track/2x9XtAG7TS09EhGSOcCKEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Here is](https://open.spotify.com/album/2BzzAAFfBy5vrZHtGQscpb) | 4:10 | 2023-01-17 | 2023-02-10 |
 | [HIGHEST](https://open.spotify.com/track/1ocxu4f7ZOjOcwAbqQ8l1T) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0thfg8QuF1USWyk0XYYqMh) | 3:36 | 2022-10-25 | 2023-01-13 |
 | [HIGHEST](https://open.spotify.com/track/7IptC49keGgOpsfPYd9mXt) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [TVアニメ「陰の実力者になりたくて!」オープニングテーマ「HIGHEST」](https://open.spotify.com/album/2yOfQVtm4LE6TdA0Xc7bbG) | 3:36 | 2022-10-25 | 2022-10-27 |
@@ -325,6 +326,7 @@
 | [With you](https://open.spotify.com/track/57RtosVWxGr0pOSr6A9FYh) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With you](https://open.spotify.com/album/0Pjg5M9cD5YQNerW2oFFw6) | 4:34 | 2022-07-07 | 2022-07-29 |
 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-02-07 |  |
 | [WONDER LiGHT](https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WONDER LiGHT](https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs) | 3:27 | 2022-10-04 | 2022-11-16 |
+| [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 |  |
 | [Young Gun of The Sun](https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(波羅夷 空却\)](https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t) | [Bad Ass Temple \-戒定慧\-](https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy) | 3:02 | 2022-09-01 | 2022-09-16 |
 | [yurukuru\*love\(TV Size\)](https://open.spotify.com/track/4LdGwBH4qfF6vidBc7l5Ha) | [相沢 智\(CV:高橋李依\)](https://open.spotify.com/artist/7irrLhnxYR8qs4dHY6I8TI), [群堂みすず\(CV:日高里菜\)](https://open.spotify.com/artist/4vd1PZjB3QigIWcuIuta9q), [キャロル・オールストン\(CV:天城サリー\)](https://open.spotify.com/artist/5kAddo3uymgOgZR5aNaGp3) | [yurukuru\*love\(TV Size\)](https://open.spotify.com/album/7cguqibLdZHDG6lPW1vs94) | 1:33 | 2023-01-12 | 2023-01-18 |
 | [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 | 2022-09-29 | 2023-01-06 |
@@ -374,7 +376,7 @@
 | [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-05 | 2022-08-17 |
 | [エクリプス](https://open.spotify.com/track/2JeLniD4bXVqmsDHFrccBx) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [エクリプス](https://open.spotify.com/album/6rGaUpBPHfsQlvLYSpwpYG) | 3:23 | 2022-10-19 | 2022-11-23 |
 | [エクリプス](https://open.spotify.com/track/6mQeCaAtCOPtzJLZqDTmiG) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [エクリプス](https://open.spotify.com/album/1lDzHRBSL0fzeGglBM7N8w) | 3:23 | 2022-10-18 | 2022-10-20 |
-| [エソア](https://open.spotify.com/track/6JIIzfPFXofQvU7h4OQqWy) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [エソア](https://open.spotify.com/album/3hZzkUyGJ3s7sngXGLDOo5) | 3:29 | 2023-01-17 |  |
+| [エソア](https://open.spotify.com/track/6JIIzfPFXofQvU7h4OQqWy) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [エソア](https://open.spotify.com/album/3hZzkUyGJ3s7sngXGLDOo5) | 3:29 | 2023-01-17 | 2023-04-01 |
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2022-10-18 | 2023-01-13 |
 | [カラフルエンドエピローグ](https://open.spotify.com/track/6dEHgSbxLvgv6M7AKJldy4) | [日南葵\(CV:金元寿子\)](https://open.spotify.com/artist/3dRNtAFVXz4R8ktXX6PBqb), [七海みなみ\(CV:長谷川育美\)](https://open.spotify.com/artist/6c5RcHQCNxrXwbvgRNwyL7), [菊池風香\(CV:茅野愛衣\)](https://open.spotify.com/artist/7vuFzlerWfjt2oMZuloThF), [夏林花火\(CV:前川涼子\)](https://open.spotify.com/artist/5bdOjTlKATbUfCPzvc6F59), [泉優鈴\(CV:稗田寧々\)](https://open.spotify.com/artist/5SnGgtuQOezuYGuyKm8oKd) | [カラフルエンドエピローグ](https://open.spotify.com/album/6RRhHpQlo5httXeASMdNW6) | 4:23 | 2023-01-17 | 2023-01-19 |
 | [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-21 | 2022-07-29 |

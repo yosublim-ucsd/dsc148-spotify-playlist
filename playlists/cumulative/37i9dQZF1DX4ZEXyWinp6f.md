@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-308 songs - 1 day 3 hr 14 min
+309 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Teufelsberg](https://open.spotify.com/track/6WQOeaJBUTXNAMmeTxYvZ9) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 2:48 | 2020-10-30 | 2022-07-29 |
 | [The Belldog](https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 6:19 | 2021-03-08 | 2023-02-06 |
 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 | 2020-11-10 | 2022-04-21 |
-| [The Blissful Sounds \(Title Track\)](https://open.spotify.com/track/2e5f3N5VvL9qAt6VKZ6mnL) | [oedipus apartment complex](https://open.spotify.com/artist/3ny7Weqo4NGDnp0kT8WhXe) | [The Blissful Sounds of Miracula](https://open.spotify.com/album/60Q7oEjfUHTkZXpx9CKZL9) | 3:35 | 2023-02-15 |  |
+| [The Blissful Sounds \(Title Track\)](https://open.spotify.com/track/2e5f3N5VvL9qAt6VKZ6mnL) | [oedipus apartment complex](https://open.spotify.com/artist/3ny7Weqo4NGDnp0kT8WhXe) | [The Blissful Sounds of Miracula](https://open.spotify.com/album/60Q7oEjfUHTkZXpx9CKZL9) | 3:35 | 2023-02-15 | 2023-04-01 |
 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 | 2021-03-07 | 2022-07-09 |
 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 | 2020-10-20 |  |
 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 | 2020-07-07\* |  |
@@ -310,6 +310,7 @@
 | [White Cyclosa](https://open.spotify.com/track/4aoSnKywSeejCyNK9KmHg1) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 3:13 | 2021-02-24 | 2023-02-02 |
 | [White Cyclosa](https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:13 | 2021-10-20 |  |
 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 | 2020-10-20 |  |
+| [Windows Open](https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot) | 5:18 | 2023-03-31 |  |
 | [Yes! Come Parade With Us](https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz) | 4:54 | 2021-10-20 | 2023-02-05 |
 | [Yes! Come Parade With Us](https://open.spotify.com/track/298GDYfwfCREA9RCpnQmq8) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/5zajoik1fYvDE241lbpXxK) | 4:54 | 2020-07-07\* | 2022-07-28 |
 | [Yesterday's Entertainment](https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 2:12 | 2021-01-25 |  |

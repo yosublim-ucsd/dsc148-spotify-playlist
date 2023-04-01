@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-269 songs - 16 hr 15 min
+271 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-02-11 |  |
 | [Noticed I cried \- Flume Remix](https://open.spotify.com/track/2sA3V6IQVkdO8FhWh7ZCMN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 2:55 | 2022-01-28 |  |
 | [Numb](https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Numb](https://open.spotify.com/album/2reFtZBLjA2S5mO0mgFhv8) | 2:59 | 2023-01-06 |  |
+| [Oblivion](https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Oblivion](https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza) | 3:14 | 2023-03-31 |  |
 | [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2021-12-03 |  |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2021-12-03 |  |
 | [Once You Love Someone](https://open.spotify.com/track/3NDxc7r19AvChQiVOdUMoK) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Once You Love Someone](https://open.spotify.com/album/3VlWMpcZ2KpQib2mh44QZS) | 3:25 | 2022-07-15 |  |
@@ -247,6 +248,7 @@
 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 | 2021-12-03 |  |
 | [Walk Me Home](https://open.spotify.com/track/2qTtA6lgLLwfuYphfT4f8C) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walk Me Home](https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3) | 3:36 | 2022-02-11 | 2022-08-03 |
 | [Walk Me Home](https://open.spotify.com/track/5fWRLdgfMlbKDncAhdN9zI) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:36 | 2022-07-15 |  |
+| [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 | 2023-03-31 |  |
 | [Want You Bad](https://open.spotify.com/track/4TQnD9qrhuNN5bea2kCWQ5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Want You Bad](https://open.spotify.com/album/3GS1ipxKJuw8BY9n7kizOi) | 3:13 | 2021-12-03 | 2022-05-07 |
 | [Way Out](https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Clara Mae](https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP) | [Way Out](https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE) | 2:41 | 2021-12-03 |  |
 | [We Know Who We Are](https://open.spotify.com/track/2LWKBMNdzVJzmQe27IQGWc) | [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 4:07 | 2022-07-15 |  |

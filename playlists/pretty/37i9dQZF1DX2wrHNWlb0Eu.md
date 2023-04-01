@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > PM2.5 ไม่ดีต่อปอด แต่ที่ชอบเธอมาตลอดเพราะมันดีต่อใจ
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,037 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,114 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

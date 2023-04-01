@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,564 songs - 2 day 21 hr 43 min
+1,565 songs - 2 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1380,6 +1380,7 @@
 | [Three Bridges](https://open.spotify.com/track/6rqxGNzKxZUZeOysgBP09M) | [Juan María Solare](https://open.spotify.com/artist/0sr00YxbHKRAruzYrJ6PEg) | [Numbered Places, Vol\. 1](https://open.spotify.com/album/4YLbylwabfaYGdNjVLJvOo) | 2:25 | 2020-01-22 | 2020-09-30 |
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2019-05-26\* | 2019-08-30 |
 | [Throes](https://open.spotify.com/track/41Uz23jubhxB8YREUHvueV) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/1bAXNvCKZQ7aB5m3d6rFa4) | 0:54 | 2019-05-26\* | 2019-11-14 |
+| [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 | 2023-03-31 |  |
 | [Through Your Eyes](https://open.spotify.com/track/1Lvv07PvIeU1AMDVFiX7RY) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [Through Your Eyes](https://open.spotify.com/album/3f6SpZgJAux8QTglfkMr0i) | 3:26 | 2019-09-12 | 2020-04-21 |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2021-10-13 | 2022-07-07 |
 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 | 2020-08-04 | 2022-05-05 |

@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-111 songs - 7 hr 17 min
+112 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Shanna Shanna](https://open.spotify.com/track/4hqLCbV2r2g5LTyBIhzOQ6) | [Yasaswi Kondepudi](https://open.spotify.com/artist/3VR731cNZHEYH9krO4ewOb), [Pragna Nayani](https://open.spotify.com/artist/2Ih0i7NCAiVhyIkyp1kmL4) | [Mayapetika](https://open.spotify.com/album/4aT3YgjStbhHTyCXvd3mcN) | 4:08 | 2023-01-31 | 2023-02-21 |
 | [Siri Siri Muvvallona \(From "Ranga Ranga Vaibhavanga"\)](https://open.spotify.com/track/1ATGKQGak8Yqx7zuc6bZEY) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Siri Siri Muvvallona \(From "Ranga Ranga Vaibhavanga"\)](https://open.spotify.com/album/7jaB0bpbD4aeeXLiuLOx6N) | 3:38 | 2022-08-01 |  |
 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 | 2021-12-07 | 2023-02-21 |
+| [Sita Kalyanam \(From "Anni Manchi Sakunamule"\)](https://open.spotify.com/track/2cUMvJe7w6U9TnoXCLaDUI) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Chaitra Ambadipudi](https://open.spotify.com/artist/4RUN8jnm64ftsLkAEhybFB), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Sita Kalyanam \(From "Anni Manchi Sakunamule"\)](https://open.spotify.com/album/1b0MyEQFfhU24KAKT8F7PS) | 2:56 | 2023-03-31 |  |
 | [Sogasuke Soku](https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghantadi Krishna](https://open.spotify.com/artist/0pllOO8uQzMCl9IDGBxr8J) | [Risk \(Telugu\)](https://open.spotify.com/album/1x1YOnezfxRM5uq4E4LAp9) | 3:59 | 2023-03-25 |  |
 | [Sridevi Chiranjeevi \(From "Waltair Veerayya"\)](https://open.spotify.com/track/417fjHB7tqIaovwPvWskHX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Sridevi Chiranjeevi \(From "Waltair Veerayya"\)](https://open.spotify.com/album/5zZZLjaf8sIf0aiYMeMtI5) | 2:58 | 2022-12-19 |  |
 | [Tholi Tholiga \(From "Janakiram"\)](https://open.spotify.com/track/0S6WMIucenxU1SvRTA73qi) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Tholi Tholiga \(From "Janakiram"\) \- Single](https://open.spotify.com/album/0PxHjTPAkkn0qjhqBZ4W3T) | 4:59 | 2022-07-08 |  |

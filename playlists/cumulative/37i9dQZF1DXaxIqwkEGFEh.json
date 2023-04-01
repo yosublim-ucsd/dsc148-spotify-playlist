@@ -1,8 +1,52 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: GloRilla",
+  "description": "Strictly for the streets. Cover: Key Glock",
   "name": "Out The Mud",
   "tracks": [
+    {
+      "album": {
+        "name": "+4416",
+        "url": "https://open.spotify.com/album/1aO1aVkr2H4irfqb28Qrs0"
+      },
+      "artists": [
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "+4416",
+      "url": "https://open.spotify.com/track/1ZjnVt2btJQ7UTTnfXwgyt"
+    },
+    {
+      "album": {
+        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178950,
+      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
+    },
     {
       "album": {
         "name": "1, 2, 3",
@@ -318,6 +362,24 @@
       "duration_ms": 110090,
       "name": "5 Percent",
       "url": "https://open.spotify.com/track/5yRA5qmT2zOP5DTfCONS6Z"
+    },
+    {
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/2jBKKyyYCY4OawmOGNJbsq"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190083,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/63nPz8Y0oPCvGDcmDdLs9Z"
     },
     {
       "album": {
@@ -882,6 +944,28 @@
       "duration_ms": 143480,
       "name": "Ambition For Cash",
       "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
+    },
+    {
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168856,
+      "name": "Andale",
+      "url": "https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp"
     },
     {
       "album": {
@@ -2490,7 +2574,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 170666,
       "name": "Chedda Cheese (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM"
@@ -3092,7 +3176,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 201480,
       "name": "Deadicated",
       "url": "https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN"
@@ -3176,6 +3260,28 @@
       "duration_ms": 131213,
       "name": "Detroit Flow",
       "url": "https://open.spotify.com/track/6UcMwp8oE6BbdfAbF7U7CU"
+    },
+    {
+      "album": {
+        "name": "Speak Up G (Deluxe)",
+        "url": "https://open.spotify.com/album/6ISSwp4yc7Ph1hxySe3DlZ"
+      },
+      "artists": [
+        {
+          "name": "Big Homiie G",
+          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142419,
+      "name": "Diamonds and Money feat. BIG30",
+      "url": "https://open.spotify.com/track/7uPIwSQxsytWHUkNTk1OEI"
     },
     {
       "album": {
@@ -5788,7 +5894,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 144000,
       "name": "Home Confinement - Home Confinement (Explicit Stereo)",
       "url": "https://open.spotify.com/track/2X7wRcHcXWAKZQA4jmtEsM"
@@ -5832,6 +5938,28 @@
       "duration_ms": 150527,
       "name": "Hot (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5qyZ6LcHvBiIHLaoED8K4g"
+    },
+    {
+      "album": {
+        "name": "Hot Boy (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "Hot Boy (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
     },
     {
       "album": {
@@ -6702,6 +6830,24 @@
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
+    },
+    {
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/75rSja62Lr22xtzfVFxUe6"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/50goo5mlh41T2TvgeDgztd"
     },
     {
       "album": {
@@ -7667,6 +7813,24 @@
     },
     {
       "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/307v3FFRTkfyRg1xG9c8bq"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118922,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/4HYhjtXDWh8cWeZLysLtJm"
+    },
+    {
+      "album": {
         "name": "Look Ma I Did It",
         "url": "https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz"
       },
@@ -7726,7 +7890,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 186200,
       "name": "Love For The Streets",
       "url": "https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR"
@@ -7784,7 +7948,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 246213,
       "name": "Love Sosa",
       "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
@@ -8026,7 +8190,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 168962,
       "name": "Make Me Nervous (feat. Anti Da Menace)",
       "url": "https://open.spotify.com/track/5nd9cGp2QPZCPxAgbHSIXS"
@@ -8066,7 +8230,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 131160,
       "name": "Mandem",
       "url": "https://open.spotify.com/track/6hLZ6G18DmYbBIccZoqdrV"
@@ -8202,6 +8366,24 @@
       "duration_ms": 225664,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ"
+    },
+    {
+      "album": {
+        "name": "The Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1HzcqRkO0Er7vl8YGDCygZ"
+      },
+      "artists": [
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146261,
+      "name": "Meant 4 You",
+      "url": "https://open.spotify.com/track/6mlW6aQ4SF29Nu5QGAAWIB"
     },
     {
       "album": {
@@ -8550,7 +8732,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 107329,
       "name": "Mode",
       "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
@@ -8616,6 +8798,32 @@
       "duration_ms": 127231,
       "name": "Motion",
       "url": "https://open.spotify.com/track/6excfi52hCKksRlRt55VH2"
+    },
+    {
+      "album": {
+        "name": "Motion [feat. Wizz Havinn & Loe Shimmy] (Remix)",
+        "url": "https://open.spotify.com/album/65XJ1g5lSvHqQWisRVpRKh"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        },
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188451,
+      "name": "Motion [feat. Wizz Havinn & Loe Shimmy] - Remix",
+      "url": "https://open.spotify.com/track/419P7pvcvRBkz94d2B0F0J"
     },
     {
       "album": {
@@ -9006,7 +9214,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 153600,
       "name": "Neighborhood Trapstars",
       "url": "https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4"
@@ -9148,6 +9356,24 @@
       "duration_ms": 149701,
       "name": "Nino",
       "url": "https://open.spotify.com/track/3vkQqaIM82rW6ovsT2Paeg"
+    },
+    {
+      "album": {
+        "name": "Trick City (Deluxe)",
+        "url": "https://open.spotify.com/album/0s9ht3evRG374jM3oBzQua"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "No Degrees",
+      "url": "https://open.spotify.com/track/3h8eogxxBl7nO0PakCictQ"
     },
     {
       "album": {
@@ -9848,7 +10074,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 188833,
       "name": "On Site",
       "url": "https://open.spotify.com/track/2x3lGxurMUvLFEzFwlbxu9"
@@ -10055,6 +10281,28 @@
     },
     {
       "album": {
+        "name": "Outrageous (feat. Rayven Tyler)",
+        "url": "https://open.spotify.com/album/6biY9SYYT4owsjWuvs77zH"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Rayven Tyler",
+          "url": "https://open.spotify.com/artist/0lZfnMJMLQOWO5JcpFD9Df"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209886,
+      "name": "Outrageous (feat. Rayven Tyler)",
+      "url": "https://open.spotify.com/track/3YfzM9m4qogyM1TDMgC7yt"
+    },
+    {
+      "album": {
         "name": "Over The Top (feat. Drake)",
         "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
       },
@@ -10226,7 +10474,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 129688,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/2DhGDCZoUjyTyDh4SEXh8K"
@@ -12636,7 +12884,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 250003,
       "name": "Slide on Em",
       "url": "https://open.spotify.com/track/6GVsHIiHLDscRRS8d9T2Ya"
@@ -12846,7 +13094,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 112133,
       "name": "Specialty",
       "url": "https://open.spotify.com/track/6wVm22yQR2vux6aLz4MLp4"
@@ -13138,7 +13386,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 159680,
       "name": "Steppin In",
       "url": "https://open.spotify.com/track/1Ak40ZzMASE9ff66dNn92v"
@@ -15083,6 +15331,28 @@
     },
     {
       "album": {
+        "name": "Weeks (feat. NoCap)",
+        "url": "https://open.spotify.com/album/1ljMmc8zAt3Ls7AW9JrAO0"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182531,
+      "name": "Weeks (feat. NoCap)",
+      "url": "https://open.spotify.com/track/5dRKpEQl3T67smpyWGD7D4"
+    },
+    {
+      "album": {
         "name": "Went Deaf",
         "url": "https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB"
       },
@@ -15444,7 +15714,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 116306,
       "name": "Wine & Dine",
       "url": "https://open.spotify.com/track/7jqgrSK9y7N1P18NpZxJLn"
@@ -15648,6 +15918,24 @@
       "duration_ms": 157833,
       "name": "Yes, You Did (with Real Boston Richey)",
       "url": "https://open.spotify.com/track/5AxedaN7Udvbrotg3xPXTp"
+    },
+    {
+      "album": {
+        "name": "My Vision",
+        "url": "https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122378,
+      "name": "You Was Laughing",
+      "url": "https://open.spotify.com/track/6SiaytZHmZ8TjfvGqAOG9m"
     },
     {
       "album": {

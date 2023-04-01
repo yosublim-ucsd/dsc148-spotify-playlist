@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: CoCo Jones",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: 6LACK",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 209063,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6TRjT37UyRUVrGg3gTlIqb"
@@ -718,6 +718,24 @@
       "duration_ms": 231549,
       "name": "Away From You",
       "url": "https://open.spotify.com/track/6yO7jLUtxiDu4AIQrerB2n"
+    },
+    {
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228080,
+      "name": "B4L",
+      "url": "https://open.spotify.com/track/5WsGpThlS3yoMHbSwHNmx1"
     },
     {
       "album": {
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 212155,
       "name": "bnb",
       "url": "https://open.spotify.com/track/6wprPmHMxfXtb2BwywwdXE"
@@ -1590,6 +1608,24 @@
       "duration_ms": 179249,
       "name": "Call the Bluff",
       "url": "https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n"
+    },
+    {
+      "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "album": {
@@ -4278,7 +4314,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 181816,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
@@ -4762,6 +4798,24 @@
       "duration_ms": 229459,
       "name": "I Deserve",
       "url": "https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3"
+    },
+    {
+      "album": {
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177419,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/0BKP9mcDJOnIz3GHm07wP5"
     },
     {
       "album": {
@@ -6403,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Make It Look Easy",
+      "url": "https://open.spotify.com/track/19zaRJBWGDnWl6FII7PrAb"
+    },
+    {
+      "album": {
         "name": "Land Of Nothing Real",
         "url": "https://open.spotify.com/album/5RtnCCLZrqAV83rjf1rpUF"
       },
@@ -6660,6 +6732,24 @@
       "duration_ms": 218213,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0B85thbtraLF3LrirsWMjR"
+    },
+    {
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212967,
+      "name": "Moral Conscience",
+      "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
     },
     {
       "album": {
@@ -9986,7 +10076,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 229992,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
@@ -10916,6 +11006,24 @@
       "duration_ms": 241746,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/0T9mWwi0HmEUJ9QovxXlid"
+    },
+    {
+      "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154531,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
     },
     {
       "album": {

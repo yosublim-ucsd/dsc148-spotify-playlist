@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> a rihanna sempre avisou a gente!!!!!
+> procuro role open bar por 5 reais alguem????
 
 245 songs - 11 hr 13 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sultan Stevenson Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,150 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,225 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 65 | [Endless Memories](https://open.spotify.com/track/3ET3j2mWfXL7TspTk5EN4r) | [Thomas Naim](https://open.spotify.com/artist/7a1kUVqfVog6WvCtb65X6W) | [On the Far Side](https://open.spotify.com/album/0OecSYx0bsNXl3e0TADTrg) | 4:14 |
 | 66 | [This Town](https://open.spotify.com/track/7DxNrUAcEP22ECwJLG6ksy) | [Revulva](https://open.spotify.com/artist/478agCaHgiqDySnHUBzqGS) | [This Town](https://open.spotify.com/album/2N6V586tK0ELISVD387MHt) | 4:51 |
 | 67 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 |
-| 68 | [around the world](https://open.spotify.com/track/6aRIwsMliE5WFAzrub4zX7) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [earth sounds](https://open.spotify.com/album/3waYOXzSiDX8CnwOSkZVWT) | 2:30 |
+| 68 | [around the world](https://open.spotify.com/track/70WBAN9os6FvYtDgJroIGU) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [around the world](https://open.spotify.com/album/5eL2i5al18gKUYP5NQmRZu) | 2:30 |
 | 69 | [WHEN THE DAY COMES](https://open.spotify.com/track/5Mz8j6zm5sIRQMOfhxY8Zw) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso), [Magic Malik](https://open.spotify.com/artist/7mzj5bmHv7oFibvvj0hEzv) | [The Return Of The Tennis Champions](https://open.spotify.com/album/0BpsEXXGF0O0KPCQd4QJKc) | 3:10 |
 | 70 | [Brighter Days](https://open.spotify.com/track/2Wq1S6kCjiOak3QmYSGQc4) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j), [Cory Baker](https://open.spotify.com/artist/14ePPON5zkdxf98ohUL1xf), [Theljon Allen](https://open.spotify.com/artist/1s65RPZG6B3QkuFVmLAUKJ) | [Brighter Days](https://open.spotify.com/album/1TMugnWlcMysktIw0QWg5Y) | 3:31 |
 | 71 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Jazzdance](https://open.spotify.com/track/1LWbw3LYIe5i8iayx4efsz) | [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Jazzdance](https://open.spotify.com/album/2IkmKvorki1Y5QtBkt6ASm) | 3:57 |
 | 75 | [Powerful Vulnerability](https://open.spotify.com/track/4uAgZ5xEZ63DlcVcTwPoJU) | [Julia Kadel Trio](https://open.spotify.com/artist/6v52JqviYmn3ojHp4H2Y0A) | [Powerful Vulnerability](https://open.spotify.com/album/7vieF6tvzdmNQtWyN2qNEY) | 7:25 |
 
-Snapshot ID: `MTY4MDA2MjQwMCwwMDAwMDAwMDc1NWYwNTQ5MTc5NWRmZTFmYWFiZTMzYTY1YzNlZWFi`
+Snapshot ID: `MTY4MDA2MjQwMCwwMDAwMDAwMGY0MGI2ZjVmMGIyYjQ3Yjk4Mzg5OGRiZTVkYTM2ODg2`

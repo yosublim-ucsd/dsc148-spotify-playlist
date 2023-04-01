@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-415 songs - 1 day 4 hr 15 min
+416 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [It's in Your Heart Now](https://open.spotify.com/track/5X1yiohWRv7RfGzjKz8XyN) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 6:55 | 2022-06-29 | 2022-08-11 |
 | [It's Just A Bit Of Blood](https://open.spotify.com/track/4o9xGMKJTiNRqLiSV9ZrR6) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/6B1qz8kJ8VEnBAzVRM8UYC) | 4:46 | 2023-02-08 | 2023-03-16 |
 | [It's You](https://open.spotify.com/track/21sMYVKeuKzBWwSg5uYeVJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [It's You](https://open.spotify.com/album/68QR2RcoZoi8dMK0p0gLdm) | 4:45 | 2023-03-16 |  |
+| [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-03-31 |  |
 | [Ivory](https://open.spotify.com/track/01lA7LzLNOtMugU03L6yiS) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Ivory](https://open.spotify.com/album/1v30M9fQVZntSi3Gz0eSUs) | 3:51 | 2022-06-08 | 2022-06-23 |
 | [I’m Not My Season](https://open.spotify.com/track/2U48shTX8FoiDa3tNMRlKt) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Time in a Bottle / I’m Not My Season](https://open.spotify.com/album/1jD8MNqELrC0uNWhNLhF9E) | 3:15 | 2022-12-06 | 2023-02-02 |
 | [Karaoke](https://open.spotify.com/track/4WCPrvhloByVBtR0A9hqoo) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Karaoke](https://open.spotify.com/album/4Wl09axz0nWF0XwdZn4TYJ) | 3:41 | 2022-07-27 | 2022-09-15 |

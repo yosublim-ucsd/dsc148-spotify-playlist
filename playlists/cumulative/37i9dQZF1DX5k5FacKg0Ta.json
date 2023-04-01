@@ -1219,6 +1219,28 @@
     },
     {
       "album": {
+        "name": "Made in Finland",
+        "url": "https://open.spotify.com/album/49Fi3MgqfxOr16AnpIa9M7"
+      },
+      "artists": [
+        {
+          "name": "Markus Venehsalo",
+          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
+        },
+        {
+          "name": "Mavon Safia",
+          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266165,
+      "name": "Made In Finland",
+      "url": "https://open.spotify.com/track/3tshGD2GGqWYPPnB5L9DL7"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7wBPnoHvTAXNkPTuAmgCbU"
       },
@@ -1564,7 +1586,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 251490,
       "name": "Projekt 13",
       "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
@@ -1927,6 +1949,32 @@
     },
     {
       "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/0kKU0PwlEvOxTVgQLs1Qj9"
+      },
+      "artists": [
+        {
+          "name": "Aarni H\u00e4kkinen",
+          "url": "https://open.spotify.com/artist/5fL8MQ2i1zl3wczWfqAZYk"
+        },
+        {
+          "name": "Kasperi Sarikoski",
+          "url": "https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT"
+        },
+        {
+          "name": "Markus Niittynen",
+          "url": "https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427146,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/1rqk8yEMJ0R1oPvPjbM7Sv"
+    },
+    {
+      "album": {
         "name": "Meze",
         "url": "https://open.spotify.com/album/74JJd6RmHqD3deWsTIHEGq"
       },
@@ -2110,6 +2158,24 @@
       "duration_ms": 288219,
       "name": "Trial by Fire",
       "url": "https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY"
+    },
+    {
+      "album": {
+        "name": "Tunneli",
+        "url": "https://open.spotify.com/album/4riQO82LOKP3PD5tmqxhxv"
+      },
+      "artists": [
+        {
+          "name": "VIRTA",
+          "url": "https://open.spotify.com/artist/4cEFRqiPqB2DmwlZTv6X3b"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328583,
+      "name": "Tunneli",
+      "url": "https://open.spotify.com/track/29IzZzarZH9odXOpCGqAb3"
     },
     {
       "album": {

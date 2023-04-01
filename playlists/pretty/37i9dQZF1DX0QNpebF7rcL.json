@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 45266,
+  "num_followers": 45323,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDRhZTFiZWJiYjNkYjk0ZjViOTE0MGNkZmZjMWQyYTE1",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDQ3NjA3OGQzMjQxNDlmMGE0NDA0YWQ1OTcxOWYxMDg2",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -43,6 +43,26 @@
       "duration_ms": 216466,
       "name": "Hey Sweet Mama",
       "url": "https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Bob Corritore & Friends: Women In Blues Showcase",
+        "url": "https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 166975,
+      "name": "You're Gonna Be Sorry",
+      "url": "https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov"
     },
     {
       "added_at": "2023-03-17 04:01:00",

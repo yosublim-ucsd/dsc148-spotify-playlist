@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-90 songs - 6 hr 44 min
+91 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Give Life Back to Music](https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:35 | 2020-09-18 |  |
 | [Give Me a Sign](https://open.spotify.com/track/7bMYVi7vwumt36NA0XY356) | [Chromatiks](https://open.spotify.com/artist/2kgYddab6YcXcoDek1zivO), [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN) | [Give Me a Sign](https://open.spotify.com/album/3qvmT1RzSwCBJaGnOVLWKL) | 3:12 | 2020-10-23 |  |
 | [GROUPIES \(feat\. Jose Rios & Maurice Brown\)](https://open.spotify.com/track/6DeGNhPYvc4fgf3yrtVaLJ) | [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o), [Jose Rios](https://open.spotify.com/artist/108R3jGhL1XPwujQuZ3OKZ), [Maurice Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [Blackberry Mango](https://open.spotify.com/album/71bHOjhdk1ksqHlmpZnOny) | 4:23 | 2020-09-18 |  |
+| [Have You Heard?](https://open.spotify.com/track/3ZACQUwSnDnDo9DjCYk3I8) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr) | [Have You Heard?](https://open.spotify.com/album/78HvtkRKA4lZ3oh9goixXF) | 4:49 | 2023-03-31 |  |
 | [Heartbreaker \(Pt\. I, Pt\. II\)](https://open.spotify.com/track/487lDz6QPxnAgrVTpykRHb) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:15 | 2020-09-18 |  |
 | [Hey Girl](https://open.spotify.com/track/2MSaqH6YRPN15sStlE9D4B) | [Abekejser](https://open.spotify.com/artist/3SC5UVDF2iMjJt0Oyh3Tbb) | [Blueprint](https://open.spotify.com/album/0SKYVSxxcwRtpz5c3V0md1) | 6:19 | 2021-06-18 |  |
 | [Hips](https://open.spotify.com/track/3qNDTtFPFQsP9Y5d8vBtZI) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [Juicy Fruit](https://open.spotify.com/album/73kfq9W3uZk0TF61fBROOF) | 5:42 | 2020-09-18 |  |

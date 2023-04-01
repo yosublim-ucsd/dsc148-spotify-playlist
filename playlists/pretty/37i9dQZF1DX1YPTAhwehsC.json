@@ -1,57 +1,13 @@
 {
-  "description": "Up and down I-95. Cover: Coi Leray",
-  "num_followers": 440108,
+  "description": "Up and down I-95. Cover: A Boogie Wit Da Hoodie",
+  "num_followers": 440212,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDA4NDI1OWM0MDY2ODQ0MjFjM2M3ZjczZjQ3ZjAxNmIz",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDc3NTIzODNhMmMxOGU4NjJlMjJhZTNiMDY3ZTY2ZGYw",
   "tracks": [
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
-        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
-      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "I'M THAT BITCH",
-        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 152043,
-      "name": "I'M THAT BITCH",
-      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
-    },
     {
       "added_at": "2023-02-18 02:09:58",
       "album": {
@@ -77,22 +33,6 @@
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "HO4ME",
@@ -115,6 +55,62 @@
       "duration_ms": 235711,
       "name": "HO4ME",
       "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
+        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
+      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -157,20 +153,44 @@
       "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-03-18 03:02:07",
       "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+        "name": "PMR (feat. A Boogie wit da Hoodie)",
+        "url": "https://open.spotify.com/album/64QGA3ueY3dG8RZvmolsgI"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+      "duration_ms": 136176,
+      "name": "PMR (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -207,6 +227,42 @@
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Adventure Time",
+        "url": "https://open.spotify.com/album/1T41lXlauMiWEQWGCTqEtD"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 169695,
+      "name": "Adventure Time",
+      "url": "https://open.spotify.com/track/4QHXOP6YFZ4934kO1ATaEk"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Nu Nu",
+        "url": "https://open.spotify.com/album/4u45cvxz1r2X5uDbEm6aVJ"
+      },
+      "artists": [
+        {
+          "name": "Cuban Doll",
+          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+        }
+      ],
+      "duration_ms": 151343,
+      "name": "Nu Nu",
+      "url": "https://open.spotify.com/track/6UIAPd2u3Pn81z0U5SebIO"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -273,6 +329,58 @@
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rare Steppa",
+        "url": "https://open.spotify.com/album/0wLWXXmgSUHwIBvgCokK8K"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 118377,
+      "name": "Rare Steppa",
+      "url": "https://open.spotify.com/track/4IRcHxTAF48RyFA4rMzV2y"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Millions (Jumbo Sounds Mix)",
+        "url": "https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Millions - Jumbo Sounds Mix",
+      "url": "https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Upnow (feat. Coi Leray)",
@@ -307,26 +415,6 @@
       "duration_ms": 301445,
       "name": "Devil's Work 2",
       "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
-    },
-    {
-      "added_at": "2023-03-18 03:02:07",
-      "album": {
-        "name": "PMR (feat. A Boogie wit da Hoodie)",
-        "url": "https://open.spotify.com/album/64QGA3ueY3dG8RZvmolsgI"
-      },
-      "artists": [
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 136176,
-      "name": "PMR (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -421,6 +509,22 @@
       "url": "https://open.spotify.com/track/03gTp2zMOTL36xDsfzgJlh"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/75rSja62Lr22xtzfVFxUe6"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/50goo5mlh41T2TvgeDgztd"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "GOATED.",
@@ -441,26 +545,6 @@
       "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Move (Remix)",
@@ -479,6 +563,22 @@
       "duration_ms": 170370,
       "name": "Move (Remix) (with KenTheMan)",
       "url": "https://open.spotify.com/track/4ZB1XkV5RBj7fGcPfNCRDb"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Boy Ain't Mine",
+        "url": "https://open.spotify.com/album/3t8AU8sPnseSKyJpyd1fW5"
+      },
+      "artists": [
+        {
+          "name": "Chinese Kitty",
+          "url": "https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Boy Ain't Mine",
+      "url": "https://open.spotify.com/track/1wlm2FDfo5EVvlVST5SZ9O"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -515,6 +615,22 @@
       "duration_ms": 214431,
       "name": "Love Died",
       "url": "https://open.spotify.com/track/4ZcOJracZ42iM1lbffdtUI"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Whamm",
+        "url": "https://open.spotify.com/album/617dcNKfhPqnubkIzTe1jr"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        }
+      ],
+      "duration_ms": 139603,
+      "name": "Whamm",
+      "url": "https://open.spotify.com/track/3DIcTbNf44ekC4Ce9MObZt"
     },
     {
       "added_at": "2023-03-18 03:02:07",
@@ -1477,22 +1593,6 @@
       "url": "https://open.spotify.com/track/3rLIFJmJNoDWd43ayQHCEo"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Letter 2 Notti",
-        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 127397,
-      "name": "Letter 2 Notti",
-      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
-    },
-    {
       "added_at": "2023-02-03 05:15:14",
       "album": {
         "name": "Highlife",
@@ -1541,22 +1641,6 @@
       "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/3RbYFBgKVIg8m2TNxEL9sq"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 122718,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "One Track Minded",
@@ -1595,22 +1679,6 @@
       "duration_ms": 169693,
       "name": "One Mic, One Gun",
       "url": "https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "2daside",
-        "url": "https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 137706,
-      "name": "2daside",
-      "url": "https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1741,66 +1809,6 @@
       "url": "https://open.spotify.com/track/4kSzGWmReSyUy09q2G5lbf"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
-      "url": "https://open.spotify.com/track/3SsJ17EnPIu1B4GZshqjIS"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Stadiums",
-        "url": "https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "London On Da Track",
-          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
-        }
-      ],
-      "duration_ms": 172362,
-      "name": "Stadiums",
-      "url": "https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "CATCH DA FLU",
@@ -1815,46 +1823,6 @@
       "duration_ms": 144000,
       "name": "TRIALS AND TRIBULATIONS",
       "url": "https://open.spotify.com/track/3fYEFtPjmYhktsC2WCIRS5"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Heart On Display",
-        "url": "https://open.spotify.com/album/3HqfVpmue1Xpf0AoUSfwZZ"
-      },
-      "artists": [
-        {
-          "name": "3Breezy",
-          "url": "https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG"
-        },
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 199708,
-      "name": "Gangsta Wit It (Pt. 2)(feat. Toosii)",
-      "url": "https://open.spotify.com/track/2PQ1fLQkNhjpUroRow1zEt"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "CR6",
-        "url": "https://open.spotify.com/album/1HMpWsYXEUCokLNwwgGTR1"
-      },
-      "artists": [
-        {
-          "name": "Chinx",
-          "url": "https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 237673,
-      "name": "Lonely (feat. Offset)",
-      "url": "https://open.spotify.com/track/2wIXRxIzYm61W5zBHTptpn"
     },
     {
       "added_at": "2022-12-09 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s\. Cover: <a href="spotify:artist:5Mq7iqCWBzofK39FBqblNc">Jessie Ware</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,939 likes - 250 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,627 likes - 250 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

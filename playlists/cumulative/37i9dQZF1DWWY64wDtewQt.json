@@ -2265,6 +2265,32 @@
     },
     {
       "album": {
+        "name": "Do Or Die (Alternate Versions)",
+        "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        },
+        {
+          "name": "VYPER \uae68\ubb3c\ub2e4",
+          "url": "https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148153,
+      "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
+      "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
+    },
+    {
+      "album": {
         "name": "DON'T STOP",
         "url": "https://open.spotify.com/album/1pCj1u8toHNtw0C9oVxf33"
       },
@@ -2806,7 +2832,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 131384,
       "name": "Fear",
       "url": "https://open.spotify.com/track/0MTBiPyJ4u3XoS1JKBktdb"
@@ -4283,6 +4309,32 @@
     },
     {
       "album": {
+        "name": "Atomic Heart (Original Game Soundtrack) Vol.1",
+        "url": "https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        },
+        {
+          "name": "Igor Sklyar",
+          "url": "https://open.spotify.com/artist/0CS3vgS9XURba0m7OvCPJv"
+        },
+        {
+          "name": "Atomic Heart",
+          "url": "https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Komarovo (DVRST Phonk Remix)",
+      "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
+    },
+    {
+      "album": {
         "name": "ENDLESS DRIVE",
         "url": "https://open.spotify.com/album/6DmSxlBNOzxoRUilHFFr0i"
       },
@@ -4674,6 +4726,28 @@
       "duration_ms": 121229,
       "name": "Machiavelli",
       "url": "https://open.spotify.com/track/70U2jTJb22sGH2qVYLZJQ0"
+    },
+    {
+      "album": {
+        "name": "MAD!",
+        "url": "https://open.spotify.com/album/4ANbJ89NmCeIMbBr5sVZe6"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "FXRR",
+          "url": "https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118330,
+      "name": "MAD!",
+      "url": "https://open.spotify.com/track/6kYAPKJjFEbKNze2uz11js"
     },
     {
       "album": {
@@ -5779,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "Own Paradise",
+        "url": "https://open.spotify.com/album/5jh2KaX4hvRnEmPM8RM8HG"
+      },
+      "artists": [
+        {
+          "name": "LXAES",
+          "url": "https://open.spotify.com/artist/5H0EvN3WxKB6HaRpH7OY0z"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128026,
+      "name": "Own Paradise",
+      "url": "https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG"
+    },
+    {
+      "album": {
         "name": "PANIC ATTACK",
         "url": "https://open.spotify.com/album/0WavkEF6HWaWT23roT9BAY"
       },
@@ -6345,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Puncher",
+        "url": "https://open.spotify.com/album/0eIvnyjPYzjCAV5dBuAoQW"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122653,
+      "name": "Puncher",
+      "url": "https://open.spotify.com/track/54NEDYt9RTc7PCLm4AUftc"
+    },
+    {
+      "album": {
         "name": "PURE MONSTROSITY",
         "url": "https://open.spotify.com/album/1GCVqsTt7X89UMhZrrLRXH"
       },
@@ -6633,6 +6743,24 @@
     },
     {
       "album": {
+        "name": "RITMADINHA DAN\u00c7ANTE",
+        "url": "https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu"
+      },
+      "artists": [
+        {
+          "name": "DJ GUDOG",
+          "url": "https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125508,
+      "name": "RITMADINHA DAN\u00c7ANTE",
+      "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
+    },
+    {
+      "album": {
         "name": "RITUAL",
         "url": "https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI"
       },
@@ -6760,7 +6888,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
@@ -6778,7 +6906,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 146000,
       "name": "SACRILEGE",
       "url": "https://open.spotify.com/track/2apZD9YIweiBwbjqcCpgLT"
@@ -6992,7 +7120,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 112500,
       "name": "SHADOW DANCE",
       "url": "https://open.spotify.com/track/1Vt0OhAk0XztPBLym5k7Mc"
@@ -8580,7 +8708,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 148285,
       "name": "WAVESTAR",
       "url": "https://open.spotify.com/track/5rw6oPaeAN0ySL7DggrLAm"

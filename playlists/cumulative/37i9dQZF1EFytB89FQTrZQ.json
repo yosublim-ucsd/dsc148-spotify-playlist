@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/6bZ48hDnMVSavEVMcH4qdm"
+      },
+      "artists": [
+        {
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149048,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4gAOsYjYab3gcAjy6iXUSk"
+    },
+    {
+      "album": {
         "name": "Entirety",
         "url": "https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT"
       },
@@ -4598,6 +4620,24 @@
       "duration_ms": 213135,
       "name": "Say Something - Zac Samuel Remix",
       "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
+    },
+    {
+      "album": {
+        "name": "First Howling : ME",
+        "url": "https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Scent of you",
+      "url": "https://open.spotify.com/track/5ZYkN3JL30YiLogzEy38Sc"
     },
     {
       "album": {

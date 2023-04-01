@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz, Maxximal, Mc Hollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,399 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,508 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 20 | [Teletransporte](https://open.spotify.com/track/3scepjch61mbCMEiQ56C7Q) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Lau de Prá](https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt) | [Teletransporte](https://open.spotify.com/album/7ce0OYD2CrKIs70fXvKycS) | 2:45 |
 | 21 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
 | 22 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 |
-| 23 | [Bring Me To Life](https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [David Hodges](https://open.spotify.com/artist/7fRabwYwLBgvOudI9GY2Op) | [Bring Me To Life](https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT) | 2:21 |
-| 24 | [Time \- Sevek Remix](https://open.spotify.com/track/5grzVCT8ZFzWGBLZQs5dkH) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Time \(Sevek Remix\)](https://open.spotify.com/album/58AZcrMLTjgrsHrTByNX5L) | 2:25 |
-| 25 | [ARPT](https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [ARPT](https://open.spotify.com/album/1nEOMBQLIp1YgBR3i9eyJP) | 3:15 |
-| 26 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 |
+| 23 | [Time \- Sevek Remix](https://open.spotify.com/track/5grzVCT8ZFzWGBLZQs5dkH) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Time \(Sevek Remix\)](https://open.spotify.com/album/58AZcrMLTjgrsHrTByNX5L) | 2:25 |
+| 24 | [ARPT](https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [ARPT](https://open.spotify.com/album/1nEOMBQLIp1YgBR3i9eyJP) | 3:15 |
+| 25 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 |
+| 26 | [Pega Pega](https://open.spotify.com/track/3c65eVJXgjdGXjsfLjqy6D) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY) | [Pega Pega](https://open.spotify.com/album/61GhWu3UEDaYkXbIcLWNJW) | 2:38 |
 | 27 | [Cancún](https://open.spotify.com/track/2eLzS75uEe5NFXIWOhuoqy) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Lamic](https://open.spotify.com/artist/0kZghiFuW2mfJKbObHkwmA) | [Cancún](https://open.spotify.com/album/0wpYHCnXB6DjAtHODHQdj0) | 2:48 |
 | 28 | [Body Control](https://open.spotify.com/track/1DOiUHIWeuSePVnulxXRdM) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [Control](https://open.spotify.com/album/4JEt6Wo4ADJAoGi0NND8hm) | 3:50 |
 | 29 | [Beat, Slow, Check](https://open.spotify.com/track/6wTbJIaTtp14XhndssikxH) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/1EdGMNwdiGuM8Qn6GYm69H) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Falling for You](https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Briana](https://open.spotify.com/artist/4EK5SSlytCE7of3wEUqiDE) | [Falling for You](https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr) | 2:20 |
 | 50 | [Pretender](https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Yann Camargo](https://open.spotify.com/artist/1FAj2IV5DuzAW8Q5V9EDbp), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Pretender](https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T) | 2:50 |
 
-Snapshot ID: `MTY3OTYyNjk4MCwwMDAwMDAwMGRjOWIwODA0YzQwOTA1YTA5N2YwOTljZDljNmFkNmZl`
+Snapshot ID: `MTY4MDIzMTc4MCwwMDAwMDAwMDJlYTY0M2IxYzg0NjA4NWViMDQ1N2FiMTg5ODZiOWZm`

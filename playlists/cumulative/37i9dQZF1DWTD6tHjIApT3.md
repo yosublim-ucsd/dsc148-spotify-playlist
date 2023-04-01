@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-1,222 songs - 3 day 7 hr 49 min
+1,226 songs - 3 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Ai no sei](https://open.spotify.com/track/5SYSLd0yk5Ih53NANxEbu6) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Ai no sei](https://open.spotify.com/album/4Exj2cZX9KPaHlz0tvpVuY) | 4:16 | 2022-10-11 | 2022-10-19 |
 | [Aiseta](https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Aiseta](https://open.spotify.com/album/5x7Nn1bwdvJ5Vx1l5cyZST) | 4:07 | 2022-06-02 | 2022-07-21 |
 | [Aitagai](https://open.spotify.com/track/2d1Ei1KUpgoGFTpjqj6vBN) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Aitagai](https://open.spotify.com/album/08pc5v5qapwWz7UGRTl7ge) | 3:51 | 2022-07-28 | 2022-08-03 |
-| [Akatoki Reload](https://open.spotify.com/track/62EpDxcm0oRG5uxvjtel9r) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Akatoki Reload](https://open.spotify.com/album/5g1qutSXgwGmx5uEMzjfzk) | 4:04 | 2023-01-05 |  |
+| [Akatoki Reload](https://open.spotify.com/track/62EpDxcm0oRG5uxvjtel9r) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Akatoki Reload](https://open.spotify.com/album/5g1qutSXgwGmx5uEMzjfzk) | 4:04 | 2023-01-05 | 2023-04-01 |
+| [Akatoki Reload](https://open.spotify.com/track/5x1TPaQj5dvPpPt18A2GpY) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:07 | 2023-03-30 |  |
 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2022-11-10 | 2022-11-13 |
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-07-28 | 2023-02-22 |
 | [Alive](https://open.spotify.com/track/40ZUuVk5kJhslyay7Yxkbe) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [Alive](https://open.spotify.com/album/5TtdzosuufWYxT94PEfhJt) | 3:57 | 2022-07-26 | 2022-08-03 |
@@ -63,7 +64,8 @@
 | [Aoyama Killer Story \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX) | 5:02 | 2022-10-06 | 2022-10-19 |
 | [Apple Pie](https://open.spotify.com/track/2tTWFGQ3yhXbjobnvSs5kV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:00 | 2023-03-28 |  |
 | [Aquarium Summer](https://open.spotify.com/track/5A4zrqYxmkTCHR4rVecd4w) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ヨシカワミノリ](https://open.spotify.com/artist/5JnrRCxGkwDPN8LKxVfn4e) | [Summer Deja Vu](https://open.spotify.com/album/4Vk77i4FhPszz6f2Pf52zq) | 3:16 | 2022-08-02 | 2022-08-10 |
-| [Areta Kuchibiru wa Koi o Nakusu](https://open.spotify.com/track/28J0DrbuMz7G8hzz1nwNjJ) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/3a1PHwaqJwCMcQrrVEPO0e) | 4:07 | 2023-03-23 |  |
+| [Areta Kuchibiru wa Koi o Nakusu](https://open.spotify.com/track/28J0DrbuMz7G8hzz1nwNjJ) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/3a1PHwaqJwCMcQrrVEPO0e) | 4:07 | 2023-03-23 | 2023-04-01 |
+| [Areta Kuchibiru wa Koi o Nakusu](https://open.spotify.com/track/6E2qAhW7I06HTPV4BJkPkK) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:07 | 2023-03-30 |  |
 | [Arigatou](https://open.spotify.com/track/13yN6yw29zRuWeXWSc511R) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Arigatou](https://open.spotify.com/album/5q9pbzLLsfeOVHuf2188uL) | 3:31 | 2023-03-07 | 2023-03-09 |
 | [Arigatou](https://open.spotify.com/track/1BqO13qjFNkQXvcBUQJx3d) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Arigatou](https://open.spotify.com/album/26faPbLsIjkVUCFm7lmodo) | 3:31 | 2023-03-07 | 2023-03-15 |
 | [AURA](https://open.spotify.com/track/7jfxJTtptYMBatNETSJatd) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Elemental pop](https://open.spotify.com/album/1nJ7NkYmrale7NpIHP3xtB) | 2:48 | 2022-05-29 | 2022-06-12 |
@@ -239,7 +241,8 @@
 | [Greatest Gift](https://open.spotify.com/track/1H256jbhGYkT9WYzmWEeM2) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [ポッピンラブ!/Greatest Gift](https://open.spotify.com/album/2RJmrHhDtJLSaPF5Vn7Q1X) | 5:24 | 2022-06-02 | 2022-07-17 |
 | [Hank](https://open.spotify.com/track/2goChbIPuZYwE4AweOXNKd) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Hank](https://open.spotify.com/album/5VHwR3xLFQL745q58qE5s8) | 3:51 | 2022-05-29 | 2022-06-01 |
 | [HAPPY BIRTHDAY 2 ME](https://open.spotify.com/track/0960UrhSDKDs2we8HU3Z2Z) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [HAPPY BIRTHDAY 2 ME](https://open.spotify.com/album/6HLLAUopVxtorBVe37fYZu) | 3:39 | 2022-06-16 | 2022-07-29 |
-| [Hateshinai Futari](https://open.spotify.com/track/6leWYHCjGa8xdExUj5DtR1) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/5MBxq5TrnTGAsQD77RU5k2) | 4:44 | 2022-10-06 |  |
+| [Hateshinai Futari](https://open.spotify.com/track/4nIDnd8FurNoauKpwUEg1y) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:42 | 2023-03-30 |  |
+| [Hateshinai Futari](https://open.spotify.com/track/6leWYHCjGa8xdExUj5DtR1) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/5MBxq5TrnTGAsQD77RU5k2) | 4:44 | 2022-10-06 | 2023-04-01 |
 | [Hatsukoi](https://open.spotify.com/track/5Gp2LHC0Apdx51h0X3Wxz8) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Hatsukoi](https://open.spotify.com/album/3z0QAgSij3xNZDtRTh6tHj) | 4:58 | 2022-11-01 | 2022-11-09 |
 | [Hatsukoi \- ft.HANA AmPm Remix \[English ver.\]](https://open.spotify.com/track/164ioMz8FTYXCZoeTXFA8d) | [am8](https://open.spotify.com/artist/5GtEx6JS3XBlOL4J7Xhh1r), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [am8 was killed by ?](https://open.spotify.com/album/4rBbeJcxfOlza0yXIUdemi) | 4:00 | 2022-06-16 | 2022-07-20 |
 | [Haven \- feat\. Hana Hope](https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Haven \(feat\. Hana Hope\)](https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9) | 3:16 | 2023-01-17 | 2023-03-03 |
@@ -412,7 +415,8 @@
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2022-11-01 | 2022-12-24 |
 | [Mystic World](https://open.spotify.com/track/1QumIk74cRRiTkWyoY0E3E) | [Hitomi Shimatani](https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18) | [Mystic World](https://open.spotify.com/album/5O31gGBio9huP53Vckbdaz) | 3:27 | 2022-07-14 | 2022-07-20 |
 | [NATSU NO HAMON](https://open.spotify.com/track/7eukm0qtr0iBsVl3R9ktqr) | [heimrecord](https://open.spotify.com/artist/2JgVdTFw8AOfFAQEmb4NYC) | [NATSU NO HAMON](https://open.spotify.com/album/7gpyp8SJ911G4AUYdB04oa) | 5:27 | 2022-08-31 | 2022-09-07 |
-| [Negau Yoru](https://open.spotify.com/track/5nqjG5L7wOc6PQDY2L1kl0) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Negau Yoru](https://open.spotify.com/album/5YYC8jf3QNZzBzw1YdpiIF) | 3:55 | 2023-03-28 |  |
+| [Negau Yoru](https://open.spotify.com/track/5nqjG5L7wOc6PQDY2L1kl0) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Negau Yoru](https://open.spotify.com/album/5YYC8jf3QNZzBzw1YdpiIF) | 3:55 | 2023-03-28 | 2023-04-01 |
+| [Negau Yoru](https://open.spotify.com/track/0EkZthPot9kiQ1roxjD80n) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:56 | 2023-03-30 |  |
 | [Neko no yume](https://open.spotify.com/track/3GAFxFe3iUzN63c0iYRKun) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Seikatsu](https://open.spotify.com/album/3W01XFOYDBF3zi15bmxQpi) | 3:35 | 2022-11-15 | 2022-11-23 |
 | [NEO時をかける少女](https://open.spotify.com/track/7wDSjOaAfSwyQz4fpjc4He) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [NEO時をかける少女](https://open.spotify.com/album/6Lu2olLkfVkUJZxlo3grQh) | 2:33 | 2023-02-16 | 2023-02-22 |
 | [Never Fear](https://open.spotify.com/track/1WXGIXUZJjvA0hW7fNgLks) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/7Am4DaBuhF6LVo4II4Y43N) | 3:49 | 2023-01-10 | 2023-01-12 |

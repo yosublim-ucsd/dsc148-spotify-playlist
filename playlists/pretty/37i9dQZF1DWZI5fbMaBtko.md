@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI5fbMaBtko.md) - [plain]
 
 > Our editors' picks for the best Reggaeton songs of the year! \#SpotifyWrapped Cover: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,672 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,778 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

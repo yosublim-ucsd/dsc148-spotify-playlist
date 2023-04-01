@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Cid Palma, Artwork: Isu Kim
 
-1,004 songs - 2 day 11 hr 58 min
+1,005 songs - 2 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [No Way](https://open.spotify.com/track/4fT6TsqJuQcQvHSRKjLojz) | [Zeyonce](https://open.spotify.com/artist/2gGzQYe0yM4iTir2kk4Qkz) | [No Way](https://open.spotify.com/album/1u5JtOije88Qv9daWpfkTX) | 3:33 | 2022-08-19 | 2022-09-23 |
 | [NODRAMA](https://open.spotify.com/track/2vMW2tKA22OyR09Gsjgc92) | [Middas](https://open.spotify.com/artist/0owJAVoC3bHFIfkKvb1qoo) | [NODRAMA](https://open.spotify.com/album/2W3Zv4d37zgiEEj1PkpB8p) | 2:37 | 2023-03-16 | 2023-03-31 |
 | [Not 2 Much](https://open.spotify.com/track/24GiVReVzQgq4luoqXTmun) | [LONER](https://open.spotify.com/artist/7wuV7nxsIsWC0UBbDDBR6R) | [Not 2 Much](https://open.spotify.com/album/10T26ISAHggzvFjlNkaNPt) | 2:13 | 2023-02-23 | 2023-03-10 |
+| [novocaine](https://open.spotify.com/track/7d3zPTH9RdEAyYEB7Oqn0f) | [inshothekid](https://open.spotify.com/artist/3ayczvanRCHC7xRAzccrdm) | [novocaine](https://open.spotify.com/album/2lZCuVtKtybtvxUvAgezue) | 2:15 | 2023-03-30 |  |
 | [NSD](https://open.spotify.com/track/1LGKs4AnGVJYW0et6d8efo) | [Jacit](https://open.spotify.com/artist/3AxqU0aEiNVxBwPpOdzH21), [NIKKAELA](https://open.spotify.com/artist/4Ma1JK6XCfsToze3H3Ln0n) | [NSD](https://open.spotify.com/album/4U7A3xJWbE6VpJckysRY4l) | 2:45 | 2022-04-07 | 2022-05-06 |
 | [O AMING DAKILA](https://open.spotify.com/track/2vunLy3AxDewz0SQpyuRiq) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up) | [O AMING DAKILA](https://open.spotify.com/album/6YaULX1ApjUcL2Otl6wsqo) | 4:47 | 2023-02-23 | 2023-03-03 |
 | [O' Sinta](https://open.spotify.com/track/0zAV8rYo4BCn5jVJF3h6Wv) | [Ode To Mars](https://open.spotify.com/artist/6etJcEI2w59O6B0PDsMS8U) | [O' Sinta](https://open.spotify.com/album/6igvPzuBV8LlEsHTQWAWwl) | 3:54 | 2023-01-12 | 2023-02-10 |

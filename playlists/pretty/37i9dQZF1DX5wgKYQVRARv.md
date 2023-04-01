@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Ne Obliviscaris
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,291 likes - 200 songs - 14 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,431 likes - 200 songs - 14 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 199 | [Constructive](https://open.spotify.com/track/3ZcFuobNEfiHDWsanugeT3) | [Riccardo Moccia](https://open.spotify.com/artist/4KSLuEfIqlU6FkNZwuz5oe) | [Sensed](https://open.spotify.com/album/6qbmbHiZxEup9rrguCn5s3) | 5:01 |
 | 200 | [Such a Shame](https://open.spotify.com/track/6PGYsAkiIEJvF2w5f964ZB) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Power](https://open.spotify.com/album/2W3YX45J3X9L0JZvVIVhpU) | 4:13 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDhjZWI2ZTk2NmZkMTAzYTNhNjAwNzdhMDBmZjdkZTkz`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGEwOTg2NzM5NjYyOGMyYmIxZDZjZDZiMzI1NGVmZjNl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Puras morras rifadas. \u00a1S\u00fabele al volumen! En portada: Ivana",
+  "description": "Puras morras rifadas. \u00a1S\u00fabele al volumen! En portada: Vondr\u00e9",
   "name": "Ruidosas",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 191562,
       "name": "13",
       "url": "https://open.spotify.com/track/3mfKJjbs60oGhRPQCudhQB"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 150824,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 206698,
       "name": "Beef Mac",
       "url": "https://open.spotify.com/track/0c8ZhWamPw4TL1WCri6iel"
@@ -294,10 +294,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 203870,
       "name": "Deja De Mentir",
       "url": "https://open.spotify.com/track/2Jg2Wkt2KzgJ8ADnpZBlSp"
+    },
+    {
+      "album": {
+        "name": "Delirio",
+        "url": "https://open.spotify.com/album/0eFZzw4gzyOHQmhjz9VZK9"
+      },
+      "artists": [
+        {
+          "name": "Stereo Animal",
+          "url": "https://open.spotify.com/artist/7eBUK59MkPqsnf4QjpO08d"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210624,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/0L92CC92HVaDwGCZQ9nm9y"
     },
     {
       "album": {
@@ -366,7 +384,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 241194,
       "name": "Escapar",
       "url": "https://open.spotify.com/track/6eK3x5Q6m3ItwHGdmVEo1d"
@@ -427,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Fea",
+        "url": "https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl"
+      },
+      "artists": [
+        {
+          "name": "Las Pijamas",
+          "url": "https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Fea",
+      "url": "https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7"
+    },
+    {
+      "album": {
         "name": "Flores Sobre las Piedras",
         "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
       },
@@ -438,7 +474,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 302000,
       "name": "Flores Sobre las Piedras",
       "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
@@ -492,7 +528,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 186465,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If"
@@ -643,6 +679,42 @@
     },
     {
       "album": {
+        "name": "Mu\u00e9rete T\u00fa",
+        "url": "https://open.spotify.com/album/6gNvQwVQRwSG4cQ5GLYmgI"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00e9rete T\u00fa",
+          "url": "https://open.spotify.com/artist/7jku55nhXim5pUBmriM2Vo"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172752,
+      "name": "Mu\u00e9rete T\u00fa",
+      "url": "https://open.spotify.com/track/3pOdUPiHJaCS9liEjpiIWc"
+    },
+    {
+      "album": {
+        "name": "M\u00e1scara de Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194148,
+      "name": "M\u00e1scara de Ni\u00f1a",
+      "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
+    },
+    {
+      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -654,7 +726,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 304918,
       "name": "Natural",
       "url": "https://open.spotify.com/track/2rm7Vcdw9yIa6MFsi9lufL"
@@ -733,6 +805,24 @@
     },
     {
       "album": {
+        "name": "No Me Impulses a Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "No Me Impulses a Ser As\u00ed",
+      "url": "https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm"
+    },
+    {
+      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
@@ -792,7 +882,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 353000,
       "name": "Om Ganesh",
       "url": "https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU"
@@ -826,7 +916,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 81818,
       "name": "P3da",
       "url": "https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy"
@@ -866,6 +956,24 @@
       "duration_ms": 259579,
       "name": "Prometimos No Hablar",
       "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
+    },
+    {
+      "album": {
+        "name": "Pulitzer",
+        "url": "https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF"
+      },
+      "artists": [
+        {
+          "name": "Onyricats",
+          "url": "https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263718,
+      "name": "Pulitzer",
+      "url": "https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf"
     },
     {
       "album": {
@@ -938,6 +1046,42 @@
       "duration_ms": 189000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
+    },
+    {
+      "album": {
+        "name": "somos flores",
+        "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206727,
+      "name": "somos flores",
+      "url": "https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK"
+    },
+    {
+      "album": {
+        "name": "Soy Vertical",
+        "url": "https://open.spotify.com/album/0GgXrrPAu26XWuakFBi0ph"
+      },
+      "artists": [
+        {
+          "name": "Marcela Viejo",
+          "url": "https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204608,
+      "name": "Soy Vertical",
+      "url": "https://open.spotify.com/track/5JHvSr5jry0K2miFIJ5whI"
     },
     {
       "album": {
@@ -1130,6 +1274,46 @@
       "duration_ms": 128487,
       "name": "Vigilantes del Espejo",
       "url": "https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh"
+    },
+    {
+      "album": {
+        "name": "Volver a Ser",
+        "url": "https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208048,
+      "name": "Volver a Ser",
+      "url": "https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj"
+    },
+    {
+      "album": {
+        "name": "Voy en Auto",
+        "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178686,
+      "name": "Voy en Auto",
+      "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
     },
     {
       "album": {

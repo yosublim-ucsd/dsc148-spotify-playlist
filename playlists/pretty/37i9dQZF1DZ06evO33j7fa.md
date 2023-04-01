@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,952 likes - 33 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,989 likes - 33 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 32 | [Milk And Honey](https://open.spotify.com/track/177sqIhTfzg8PSioaKQ4WI) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 2:59 |
 | 33 | [All My Trials](https://open.spotify.com/track/7nTkGz7kHuDZ6frHXk2HEQ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 1:55 |
 
-Snapshot ID: `MjgwMDMyMjQsMDAwMDAwMDA0ZjJlNDQwZTYzZTljZjA2NjkyNjdmMTk1OWNiNzY5MA==`
+Snapshot ID: `MjgwMDQ3MzcsMDAwMDAwMDBiZWY2MjMxN2Y4M2M2YjJiZmM3MWVkZjJkMjkyMGIwMw==`

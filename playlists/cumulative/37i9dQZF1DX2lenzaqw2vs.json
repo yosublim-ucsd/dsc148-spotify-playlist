@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Young Miko",
+  "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Ptazeta",
   "name": "BRILLO",
   "tracks": [
     {
@@ -2001,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "i love you but this is goodbye",
+        "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6"
+    },
+    {
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -2296,6 +2314,24 @@
       "duration_ms": 206493,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/4oYrcsoNCmgKvj3R60IcoG"
+    },
+    {
+      "album": {
+        "name": "kiss my friends",
+        "url": "https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162143,
+      "name": "kiss my friends",
+      "url": "https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR"
     },
     {
       "album": {
@@ -2778,7 +2814,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 192631,
       "name": "lo siento",
       "url": "https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr"
@@ -3214,7 +3250,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 150000,
       "name": "MFD",
       "url": "https://open.spotify.com/track/0jw9L7QvjqCavzMtquLKOS"
@@ -3312,7 +3348,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 284725,
       "name": "Monarca",
       "url": "https://open.spotify.com/track/2sX8WnUz2m9h9sWcpFVDBm"
@@ -4458,7 +4494,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 173796,
       "name": "salvatore",
       "url": "https://open.spotify.com/track/2j1rf8gz82mPSUFYtZL4VK"
@@ -4813,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Soy Un Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/1ZrKg7EXPJ787usjfGVzcY"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216106,
+      "name": "Soy Un Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/2tAL1SKeBWQfc4ttSDe8Zn"
+    },
+    {
+      "album": {
         "name": "Bairopolis",
         "url": "https://open.spotify.com/album/1IBYaybDDIcaJuNQDfYQZQ"
       },
@@ -5046,6 +5100,28 @@
       "duration_ms": 209373,
       "name": "Tiburones - Remix",
       "url": "https://open.spotify.com/track/73HSOVmGMA0Qfo4ujlM1GF"
+    },
+    {
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131437,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
     },
     {
       "album": {

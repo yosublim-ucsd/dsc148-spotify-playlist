@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: CAMO\(카모\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\) Enjoy trendy and chill hip hop music selected by CAMO! \(카모가 직접 선정한 트렌디하고 Chill한 힙합 음악을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,038 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,132 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

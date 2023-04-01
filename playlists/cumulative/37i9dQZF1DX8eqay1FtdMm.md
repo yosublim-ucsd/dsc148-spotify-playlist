@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover:Hwang Chi Yeol\(황치열\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover:The Stray\(스트레이\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-396 songs - 1 day 1 hr 54 min
+397 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2021-12-20 |  |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-02-10 | 2022-04-21 |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 |  |
-| [No love](https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [No love](https://open.spotify.com/album/4bgDVPwibaY66Ej45yzkyr) | 3:58 | 2023-03-27 |  |
+| [No love](https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [No love](https://open.spotify.com/album/4bgDVPwibaY66Ej45yzkyr) | 3:58 | 2023-03-27 | 2023-04-01 |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2021-12-27 | 2022-07-17 |
 | [Nobody else \(Under the Oak Tree\) \- Original Soundtrack, Part\. 3](https://open.spotify.com/track/41hJZwfHtGsr3MxQa6V7bv) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Nobody else \(Under the Oak Tree\) \[Original Soundtrack, Part\. 3\]](https://open.spotify.com/album/0HYFc6RTdNzocWOcSKkVP7) | 3:45 | 2022-01-27 | 2022-07-27 |
 | [Not Anyone Else](https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Not Anyone Else](https://open.spotify.com/album/60GKYHN9SHL0IdxZhU5uBR) | 4:18 | 2021-12-20 | 2022-07-23 |
@@ -267,6 +267,7 @@
 | [Regret 미련](https://open.spotify.com/track/7mhtDyKAWTnZWifCFA4lfn) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [Shin Jisu 신지수](https://open.spotify.com/artist/2aT0syFxiZ4MUG4g0Xhufl) | [Regret 미련](https://open.spotify.com/album/1XsMbgIn0kwL59HfqJJMsL) | 4:10 | 2022-03-24 | 2022-04-19 |
 | [Repeatedly](https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Penthouse2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo) | 3:37 | 2021-12-20 | 2022-07-13 |
 | [Repetition \(Feat\. Shin Jong Wook\)](https://open.spotify.com/track/6pX5HtlcSumP8XgablXLbV) | [Noh Hyunwoo](https://open.spotify.com/artist/2UvVidJJv6g17OMmlpS39z), [신종욱](https://open.spotify.com/artist/3cxWvvIqZGNyWsgmdi0wsf) | [Repetition](https://open.spotify.com/album/7grs7APT3ALK9vNT3r2GdD) | 3:53 | 2022-03-07 | 2022-04-20 |
+| [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 |  |
 | [Roomie](https://open.spotify.com/track/1KH10P3M4x3ONABMhiv8B5) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Roomie](https://open.spotify.com/album/0XIFtmJyxwfYFzTxzq4ILi) | 3:52 | 2021-12-27 | 2022-05-01 |
 | [rumor](https://open.spotify.com/track/698TO5R7XS6uHypzpVYbuH) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [r](https://open.spotify.com/album/6KmrLxGgaRGIchZU1eb3br) | 4:36 | 2022-03-24 | 2022-05-16 |
 | [Run](https://open.spotify.com/track/0rqth7TKBij4qKmqI1h4Ts) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [WORD](https://open.spotify.com/album/1y20zPeDfHZyG5BZmJKSiO) | 6:09 | 2021-12-20 | 2022-07-13 |

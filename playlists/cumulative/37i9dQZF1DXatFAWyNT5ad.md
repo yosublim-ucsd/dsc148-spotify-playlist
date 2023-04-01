@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: GAYLE
 
-590 songs - 1 day 6 hr 48 min
+591 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Low Key In Love \(with paris jackson\)](https://open.spotify.com/track/41kxBQJuRpuvqlfR0Rh8fJ) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Low Key In Love \(with paris jackson\)](https://open.spotify.com/album/4TE3zcWHniKuBjwVwElauc) | 3:15 | 2022-03-24 | 2022-07-13 |
 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 | 2022-03-17 | 2022-07-03 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-17 | 2022-07-29 |
-| [m.i.a.](https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8) | 2:32 | 2023-03-24 |  |
+| [m.i.a.](https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8) | 2:32 | 2023-03-24 | 2023-04-01 |
 | [Maid Marian's Toast](https://open.spotify.com/track/3ULLSWSWdHM7B9GKT3llMR) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Cooler Returns](https://open.spotify.com/album/2ofh6hffQvD5vD3SqXENYI) | 2:23 | 2022-03-24 | 2022-04-19 |
 | [Make It Easy](https://open.spotify.com/track/5k2LqjXyy7iKU6dbIHQZhb) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [Make It Easy](https://open.spotify.com/album/0WV6w3PUAtAxW7iwAJNFLB) | 4:16 | 2022-03-24 | 2022-04-21 |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-03-24 | 2023-03-18 |
@@ -429,7 +429,7 @@
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-17 |  |
 | [Pretend](https://open.spotify.com/track/6L0CV2dKwROWygdfPUXKI2) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Let's Go Camping](https://open.spotify.com/album/4hKEjXh28wr4AcWB2FBZ6Q) | 3:02 | 2022-03-24 | 2022-04-16 |
 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 | 2023-03-24 |  |
-| [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-03-24 |  |
+| [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-03-24 | 2023-04-01 |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-03-24 | 2022-07-25 |
 | [Rabbit Hole](https://open.spotify.com/track/52rCBUn3IYm7hkx8D9JdZp) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Rabbit Hole](https://open.spotify.com/album/3bqlnUrivsl8p5iCCTDZOy) | 3:03 | 2022-03-24 | 2022-04-18 |
 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 | 2022-03-24 | 2023-03-18 |
@@ -558,7 +558,7 @@
 | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/track/2qP3VifO2gnLn7sj5md688) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/album/1xeTGwmriV3NHmNgMzvPav) | 2:57 | 2022-03-24 | 2022-04-17 |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2022-03-24 | 2022-04-10 |
 | [Up From A Dream](https://open.spotify.com/track/3MKdPWUmCXymXVGKf2Njdr) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:17 | 2022-03-24 | 2022-04-16 |
-| [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 | 2022-10-06 | 2023-03-31 |
+| [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 | 2022-10-06 |  |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-03-17 | 2022-08-30 |
 | [Velvet](https://open.spotify.com/track/1wwM5H5qpU0PfHEDsFEiJW) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 2:58 | 2022-03-24 | 2022-04-20 |
 | [Vertigo](https://open.spotify.com/track/4N6KMuOIpoCE97UiXOml1S) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Vertigo](https://open.spotify.com/album/4Ee1r6lPG1neAJZUT6Drz7) | 2:19 | 2022-03-24 | 2022-04-19 |
@@ -567,6 +567,7 @@
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-03-24 | 2022-08-06 |
 | [virtual reality](https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [virtual reality](https://open.spotify.com/album/3I8QGm5k3zW9MU5alzXI2c) | 2:41 | 2022-03-17 | 2022-07-29 |
 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 | 2022-03-24 | 2022-04-17 |
+| [VOID](https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:07 | 2023-03-31 |  |
 | [W.A.I.S.T.D\. \(what am I supposed to do\)](https://open.spotify.com/track/5xIpDXjT1Dq3IHnQVXPuLi) | [Kristin Sesselja](https://open.spotify.com/artist/5cCNyLzR6LfXj5GXjWnN7B) | [W.A.I.S.T.D\. \(what am I supposed to do\)](https://open.spotify.com/album/2Q7csZfS4J7NyclxV9BcVG) | 2:58 | 2022-03-24 | 2022-04-12 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2022-04-14 | 2022-06-11 |
 | [Walk Away](https://open.spotify.com/track/5VjkLpmGmWsbEZMgrvuamt) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Walk Away](https://open.spotify.com/album/5y83Nst94Qnc0TC3Thlk7J) | 3:03 | 2022-03-24 | 2022-04-21 |

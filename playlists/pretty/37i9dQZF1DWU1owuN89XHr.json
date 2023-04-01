@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 259336,
+  "num_followers": 259378,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMGIwMjRjOWIyNDhiYWY2YmM3MzUwZTk3ZDA3ZTljNDgy",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDJkMGMyNDU2YWE4ZjFmZmRjNTllMTNjYjAxYzNhNjJm",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Quiero Cantar",
-        "url": "https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
-        },
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Tan Distintos (feat. Edgar Oceransky)",
-      "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "La vida entera",
         "url": "https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH"
       },
@@ -1211,38 +1191,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Buscando un \u00c1ngel",
-      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
-      },
-      "artists": [
-        {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Coincidir",
         "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
       },
@@ -1271,6 +1219,38 @@
       "duration_ms": 254786,
       "name": "Hasta Donde tu vayas",
       "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Buscando un \u00c1ngel",
+      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1675,6 +1655,26 @@
       "duration_ms": 231897,
       "name": "Viene la Cosa",
       "url": "https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 1 (En Directo)",
+        "url": "https://open.spotify.com/album/5G2BgAImOmJ6lSc2UtpSlm"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Tan Distintos - En Directo",
+      "url": "https://open.spotify.com/track/7gzVEILbAdE3NwJt2XdFJf"
     },
     {
       "added_at": "2022-01-11 03:05:13",

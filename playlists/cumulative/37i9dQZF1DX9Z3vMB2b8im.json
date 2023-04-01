@@ -337,6 +337,32 @@
     },
     {
       "album": {
+        "name": "Can't Be By Myself",
+        "url": "https://open.spotify.com/album/6GGqDtR8l4sebnwl7Zcqdj"
+      },
+      "artists": [
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "Can't Be By Myself",
+      "url": "https://open.spotify.com/track/30d5RsO6WvseuBB1UXQGM4"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -366,7 +392,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 174878,
       "name": "Chemical Vernacular",
       "url": "https://open.spotify.com/track/1WeOkh5So3kQdVpT177onf"
@@ -384,7 +410,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 199829,
       "name": "Codependent",
       "url": "https://open.spotify.com/track/1RXysmMeZ1jvYgkpkCyYfi"
@@ -796,7 +822,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 173866,
       "name": "FU",
       "url": "https://open.spotify.com/track/2F37All4Cmeteqm0aTc1gC"
@@ -1457,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Joyride (home demo)",
+        "url": "https://open.spotify.com/album/1a9vLDB7fm36N1EeJe7gV6"
+      },
+      "artists": [
+        {
+          "name": "Jake Whiskin",
+          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224349,
+      "name": "Joyride (home demo)",
+      "url": "https://open.spotify.com/track/1crXwNM34nG0P3c55HvqtY"
+    },
+    {
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/1ytsYG5T02plyHuYfIyw1w"
       },
@@ -1544,7 +1588,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 171560,
       "name": "Latchkey",
       "url": "https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL"
@@ -1861,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "NEW GUITAR SONG",
+        "url": "https://open.spotify.com/album/2fsHEwsDEf8SF0TbpCdeun"
+      },
+      "artists": [
+        {
+          "name": "Khushi",
+          "url": "https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "NEW GUITAR SONG",
+      "url": "https://open.spotify.com/track/0OcdoAW9S1EjWVCXS1MBup"
+    },
+    {
+      "album": {
         "name": "New Song",
         "url": "https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY"
       },
@@ -2020,7 +2082,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 274389,
       "name": "Old Times",
       "url": "https://open.spotify.com/track/2LpnnVITgcXV3vaQysj37V"
@@ -2042,6 +2104,24 @@
       "duration_ms": 192040,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW"
+    },
+    {
+      "album": {
+        "name": "The Summer Isles",
+        "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/0TNQTCtjB0tIXbdzbJPgiL"
     },
     {
       "album": {
@@ -2352,6 +2432,36 @@
       "duration_ms": 301413,
       "name": "Remember Fall In Montreal",
       "url": "https://open.spotify.com/track/7hhxzsZse96VD6lr4tullS"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "Revolution 0",
+      "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
     },
     {
       "album": {
@@ -2759,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "This Is How We Move",
+        "url": "https://open.spotify.com/album/2RaeZMQcqgAxuGEhVdSstZ"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186168,
+      "name": "This Is How We Move",
+      "url": "https://open.spotify.com/track/0EPvfQyCSDzywcFOF9H6Gt"
+    },
+    {
+      "album": {
         "name": "this ocean",
         "url": "https://open.spotify.com/album/2lwxhmMjuukxB46Mb7AIMY"
       },
@@ -2972,7 +3100,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 296560,
       "name": "we\u2019ll be fine - acoustic",
       "url": "https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8"

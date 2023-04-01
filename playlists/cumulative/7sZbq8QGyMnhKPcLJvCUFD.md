@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-231 songs - 11 hr 45 min
+233 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [On & On \- nuumi Remix](https://open.spotify.com/track/4qH7J782JmdxbNnuNmLjcl) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [nuumi](https://open.spotify.com/artist/1lqYiWjUzZVxxgdVdwFSvc), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On Remixes](https://open.spotify.com/album/6RUi11xJz970QRSpPRsIEy) | 3:15 | 2022-05-12 |  |
 | [On & On \- Time To Talk Remix](https://open.spotify.com/track/6SxnErPRbyesOjoTSbINTt) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On Remixes](https://open.spotify.com/album/6RUi11xJz970QRSpPRsIEy) | 3:00 | 2022-05-12 |  |
 | [One more try](https://open.spotify.com/track/3SrXtpCZdFg17W1KBYRXQJ) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [One more try](https://open.spotify.com/album/5za49Q0yHp1JBrmcvM8l7C) | 3:17 | 2022-06-14 |  |
+| [One Taste](https://open.spotify.com/track/0HwgZzRDcSC6dvDz7Eepsy) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [One Taste](https://open.spotify.com/album/7z5mJozS5AxvzQqcXTvvtR) | 3:12 | 2023-03-31 |  |
 | [Online](https://open.spotify.com/track/2PgivAhiFtODlcuSrC9QO4) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Online](https://open.spotify.com/album/6PRAD7CISUhkoXegWG9mCD) | 3:04 | 2022-11-16 |  |
 | [Out Of Here](https://open.spotify.com/track/1RpmCnc7AjpDYqacXYRLZY) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Out Of Here](https://open.spotify.com/album/6WL6RJfNBi89mntTBIvKua) | 2:14 | 2022-08-30 |  |
 | [Paradise](https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Paradise](https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg) | 2:43 | 2023-02-21 |  |
@@ -178,6 +179,7 @@
 | [Runaway](https://open.spotify.com/track/3DzOMCStLUpXvooH03HF1C) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Runaway](https://open.spotify.com/album/0uBqvxbWAPEBvJ9FZnI780) | 4:20 | 2022-10-27 |  |
 | [Running Away](https://open.spotify.com/track/7HJSanooTjRCfNpSY4J7lj) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3) | [Running Away](https://open.spotify.com/album/4luyrFOvpeHNC8qpy6Ab0O) | 2:31 | 2022-04-07 |  |
 | [Running Wild](https://open.spotify.com/track/7Mp1SXLvQEh02nVsLNnmLR) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Vizzen](https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Running Wild](https://open.spotify.com/album/6VZdLgAn691GkOqHxWZwP4) | 3:05 | 2022-11-24 |  |
+| [Rush](https://open.spotify.com/track/45NFKx36T2kIrKmIRykcc3) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Rush](https://open.spotify.com/album/2yajINb11ZN7C7HtOEGJuE) | 3:32 | 2023-03-31 |  |
 | [Samurai](https://open.spotify.com/track/45hr1fXe8raIz3Q851CFa2) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Samurai](https://open.spotify.com/album/7zbwXAxBnAuoJfmZ7m4duL) | 3:20 | 2022-08-09 |  |
 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 | 2022-07-05 |  |
 | [Set Me Free](https://open.spotify.com/track/4iqmbx1CkLGEVozDwxii2w) | [Simbai](https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg), [Frizzy The Streetz](https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ) | [Set Me Free](https://open.spotify.com/album/4CiM00EnVv7QpHTkFaaKab) | 2:49 | 2022-06-23 |  |

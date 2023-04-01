@@ -6,7 +6,7 @@
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "OTUwLGZlODBhOGVmYzU5OTgzZTU0YTg4YjUwMGYyMTE5MGVkNjA5MTU3M2I=",
+  "snapshot_id": "OTUxLGUxMThlY2M4Yzc2Y2EzN2NhNDAzNWYzMWI4YmY1YjI3ZTE3ZDQ4OTA=",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -291,6 +291,22 @@
       "duration_ms": 282093,
       "name": "Fields Of Gold",
       "url": "https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H"
+    },
+    {
+      "added_at": "2023-03-31 06:37:46",
+      "album": {
+        "name": "Respect (Acoustic)",
+        "url": "https://open.spotify.com/album/2V4GPW1tBQjSXYycFOYnHI"
+      },
+      "artists": [
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "duration_ms": 156321,
+      "name": "Respect - Acoustic",
+      "url": "https://open.spotify.com/track/22ihU3hpmt2tTp68Ns7yMi"
     },
     {
       "added_at": "2022-03-25 19:26:24",

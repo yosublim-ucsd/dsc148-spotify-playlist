@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...",
-  "num_followers": 54473,
+  "num_followers": 54543,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDEyMTUwNiwwMDAwMDAwMDkwODBlYWYyYjY1ZGI5MjAzNWY4NTYwNjcxOTMzMTAx",
+  "snapshot_id": "MTY4MDMwOTI4MiwwMDAwMDAwMGRkY2JjYTFmNTVjZDFiN2YzMDA5OWEzOWUzNzUzZWNi",
   "tracks": [
     {
       "added_at": "2023-03-28 05:24:00",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
     },
     {
+      "added_at": "2023-03-31 19:25:46",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
+    },
+    {
       "added_at": "2023-03-29 18:09:18",
       "album": {
         "name": "Follow the Cyborg",
@@ -95,6 +111,22 @@
       "duration_ms": 166039,
       "name": "Perfect Blue",
       "url": "https://open.spotify.com/track/4c7nNdZi1x61Pjvrgww4HD"
+    },
+    {
+      "added_at": "2023-03-31 18:25:02",
+      "album": {
+        "name": "vampiro",
+        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
+      },
+      "artists": [
+        {
+          "name": "Kiddie Gang",
+          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
+        }
+      ],
+      "duration_ms": 178275,
+      "name": "vampiro",
+      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
     },
     {
       "added_at": "2023-02-21 01:45:02",
@@ -117,6 +149,26 @@
       "url": "https://open.spotify.com/track/74F3bv0liKu2QN8MjqqDP9"
     },
     {
+      "added_at": "2023-03-31 17:50:03",
+      "album": {
+        "name": "Head On EP",
+        "url": "https://open.spotify.com/album/1kmN7lxLayS5azCGXn7e0n"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Head On - Miss Grit Remix",
+      "url": "https://open.spotify.com/track/2etTUUZRsSJn4oNuZXvAJn"
+    },
+    {
       "added_at": "2023-03-24 19:44:17",
       "album": {
         "name": "Ca\u00f1a Brava",
@@ -137,6 +189,22 @@
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
     },
     {
+      "added_at": "2023-03-31 17:50:03",
+      "album": {
+        "name": "Impurities",
+        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229203,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
       "added_at": "2023-03-29 18:09:18",
       "album": {
         "name": "Su S\u0131z\u0131yor",
@@ -151,6 +219,26 @@
       "duration_ms": 244800,
       "name": "Su S\u0131z\u0131yor",
       "url": "https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk"
+    },
+    {
+      "added_at": "2023-04-01 00:34:41",
+      "album": {
+        "name": "Mamita Santa",
+        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Mamita Santa",
+      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
       "added_at": "2023-02-03 05:03:32",
@@ -325,20 +413,44 @@
       "url": "https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84"
     },
     {
-      "added_at": "2023-03-23 20:07:16",
+      "added_at": "2023-03-31 19:25:46",
       "album": {
-        "name": "Ready To Ball",
-        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
+    },
+    {
+      "added_at": "2023-03-31 19:36:17",
+      "album": {
+        "name": "Make My Way Back Home",
+        "url": "https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42"
       },
       "artists": [
         {
           "name": "Kassa Overall",
           "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        },
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
         }
       ],
-      "duration_ms": 207484,
-      "name": "Ready To Ball",
-      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
+      "duration_ms": 236054,
+      "name": "Make My Way Back Home",
+      "url": "https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU"
     },
     {
       "added_at": "2023-03-24 15:37:42",
@@ -413,6 +525,22 @@
       "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
+      "added_at": "2023-03-31 17:50:03",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 201492,
+      "name": "tens morada em mim",
+      "url": "https://open.spotify.com/track/3Cw2TWb0LgtY9vegjf0o9m"
+    },
+    {
       "added_at": "2023-03-03 04:34:32",
       "album": {
         "name": "Jardines Vol. 1",
@@ -433,22 +561,6 @@
       "url": "https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK"
     },
     {
-      "added_at": "2023-01-25 21:58:45",
-      "album": {
-        "name": "Sandrail Silhouette",
-        "url": "https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 269446,
-      "name": "Sandrail Silhouette",
-      "url": "https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ"
-    },
-    {
       "added_at": "2023-03-17 17:25:19",
       "album": {
         "name": "0792",
@@ -465,22 +577,6 @@
       "url": "https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb"
     },
     {
-      "added_at": "2023-02-01 15:45:06",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
       "added_at": "2023-03-23 20:24:35",
       "album": {
         "name": "M\u00e1scara de Ni\u00f1a",
@@ -495,50 +591,6 @@
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
-    },
-    {
-      "added_at": "2023-01-25 03:35:34",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Emily I'm Sorry",
-      "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
-    },
-    {
-      "added_at": "2023-01-25 03:35:34",
-      "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "n la disco",
-      "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
     },
     {
       "added_at": "2023-02-03 04:51:05",
@@ -575,6 +627,38 @@
       "duration_ms": 216053,
       "name": "Moody Cumbia",
       "url": "https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9"
+    },
+    {
+      "added_at": "2023-03-31 19:06:25",
+      "album": {
+        "name": "Anadolu Ejderi",
+        "url": "https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ"
+      },
+      "artists": [
+        {
+          "name": "Gaye Su Akyol",
+          "url": "https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ"
+        }
+      ],
+      "duration_ms": 285810,
+      "name": "Vurgunum Ama Acelesi Yok",
+      "url": "https://open.spotify.com/track/1yiWGEADkJPYlMalqk1VfC"
+    },
+    {
+      "added_at": "2023-03-31 17:56:35",
+      "album": {
+        "name": "Kristina",
+        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "duration_ms": 238221,
+      "name": "Kristina",
+      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
     },
     {
       "added_at": "2023-03-24 06:00:00",
@@ -701,58 +785,6 @@
       "url": "https://open.spotify.com/track/2YHUd3ru7TjevD6BNRu2mD"
     },
     {
-      "added_at": "2023-01-20 04:35:50",
-      "album": {
-        "name": "STORY OF BLOOD",
-        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 451986,
-      "name": "STORY OF BLOOD",
-      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
-      "added_at": "2023-02-10 03:15:01",
-      "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "Rice",
-      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
-    },
-    {
-      "added_at": "2023-01-20 20:13:57",
-      "album": {
-        "name": "I Play My Bass Loud",
-        "url": "https://open.spotify.com/album/7DQY6bwfrs58VTGKQh4MGg"
-      },
-      "artists": [
-        {
-          "name": "Gina Birch",
-          "url": "https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft"
-        }
-      ],
-      "duration_ms": 267116,
-      "name": "I Play My Bass Loud",
-      "url": "https://open.spotify.com/track/2tdLhnzLh9zknYf8bjIN93"
-    },
-    {
       "added_at": "2023-02-28 04:35:15",
       "album": {
         "name": "Regresar (Vibes4YourSoul Remix)",
@@ -771,22 +803,6 @@
       "duration_ms": 251428,
       "name": "Regresar (Vibes4YourSoul Remix)",
       "url": "https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w"
-    },
-    {
-      "added_at": "2023-01-25 14:44:37",
-      "album": {
-        "name": "The Smell of Your Hair",
-        "url": "https://open.spotify.com/album/5ShXw6uLiiBezqx1ODEABH"
-      },
-      "artists": [
-        {
-          "name": "Laure Briard",
-          "url": "https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "The Smell of Your Hair",
-      "url": "https://open.spotify.com/track/6jD1IiSNuKkTL6EGEhFQk7"
     },
     {
       "added_at": "2023-02-14 03:11:01",
@@ -863,22 +879,6 @@
       "duration_ms": 285608,
       "name": "Ana Qalbi Ehtar - Habibi Funk 021",
       "url": "https://open.spotify.com/track/2Nv9GGqfvggAUo5UgcMHPZ"
-    },
-    {
-      "added_at": "2023-01-24 20:43:13",
-      "album": {
-        "name": "Arcadian Daze",
-        "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 196222,
-      "name": "Arcadian Daze",
-      "url": "https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc"
     },
     {
       "added_at": "2023-02-28 03:47:42",

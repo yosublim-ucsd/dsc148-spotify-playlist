@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 162133,
       "name": "Ese Fui Yo",
       "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
@@ -1943,6 +1943,28 @@
     },
     {
       "album": {
+        "name": "Renuncio",
+        "url": "https://open.spotify.com/album/1DZeF0T2EnATyKIqdiuA5I"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204861,
+      "name": "Renuncio",
+      "url": "https://open.spotify.com/track/3bilLSXa7DLZVsjLMi2eaQ"
+    },
+    {
+      "album": {
         "name": "Rep\u00edtela",
         "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
       },
@@ -2316,6 +2338,24 @@
       "duration_ms": 195535,
       "name": "Vuelve y Me Pasa",
       "url": "https://open.spotify.com/track/2wTUAAdqoRpaP9w5VIzM6s"
+    },
+    {
+      "album": {
+        "name": "Y Si Me Dejas",
+        "url": "https://open.spotify.com/album/5GTf9GjfeIQsDxS0UZotD1"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178218,
+      "name": "Y Si Me Dejas",
+      "url": "https://open.spotify.com/track/4vAuiieTrceTs1H3hjr9p2"
     },
     {
       "album": {

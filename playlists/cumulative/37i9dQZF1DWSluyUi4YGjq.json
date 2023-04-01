@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
@@ -240,10 +240,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "album": {
@@ -1185,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "Debris",
+        "url": "https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS"
+      },
+      "artists": [
+        {
+          "name": "Relay Tapes",
+          "url": "https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322025,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/64AAttKIyZcQgtPVHhNyj2"
+    },
+    {
+      "album": {
         "name": "Cometa",
         "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
       },
@@ -1380,6 +1416,24 @@
       "duration_ms": 272498,
       "name": "Dance AM",
       "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
+    },
+    {
+      "album": {
+        "name": "Debris",
+        "url": "https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS"
+      },
+      "artists": [
+        {
+          "name": "Relay Tapes",
+          "url": "https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266250,
+      "name": "Daylighter",
+      "url": "https://open.spotify.com/track/2Nfv9rms6Q7uloTk2KYU8k"
     },
     {
       "album": {
@@ -2846,7 +2900,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 125333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"

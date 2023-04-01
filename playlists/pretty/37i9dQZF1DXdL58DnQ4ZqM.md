@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,095 likes - 166 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,116 likes - 166 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 37 | [Herds Of Joys](https://open.spotify.com/track/2l7igZmtOhDYv3bdKm7Ynq) | [Benjamin Gold](https://open.spotify.com/artist/5cizXuYhbvzWQGHqqU7yQX) | [Herds Of Joys](https://open.spotify.com/album/09PeLqiIqQAGHXru5qOguD) | 3:34 |
 | 38 | [Jim Bell](https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Aso EP](https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U) | 3:28 |
 | 39 | [Lazy Afternoon](https://open.spotify.com/track/6Ys876iVTWMlV2Lr9b06ke) | [Jersy K](https://open.spotify.com/artist/7jTOgoEq9CR9usJbJHFgmD) | [Lazy Afternoon](https://open.spotify.com/album/7HhBg8OhWjmccdOEIfHZeb) | 2:01 |
-| 40 | [Watching The Water](https://open.spotify.com/track/45FEuD08GJ2wcpyaDoRjKO) | [Future Marker](https://open.spotify.com/artist/3g8mVAfu82zNiB7UsQ4Ht1) | [Watching The Water](https://open.spotify.com/album/73ogzIhzjFlO4Van9QCAXQ) | 2:41 |
+| 40 | [Watching The Water](https://open.spotify.com/track/45FEuD08GJ2wcpyaDoRjKO) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Watching The Water](https://open.spotify.com/album/73ogzIhzjFlO4Van9QCAXQ) | 2:41 |
 | 41 | [Vanilla](https://open.spotify.com/track/3zD6VOx0Zi1JGKT454To81) | [Riën](https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [P\-Rob](https://open.spotify.com/artist/5HTGXluN7OrPp6WlCidtRb) | [Vanilla](https://open.spotify.com/album/2SJcCAbW0wYHwX0MegdUq5) | 1:45 |
 | 42 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 |
 | 43 | [Lets Chill Tonight](https://open.spotify.com/track/5GC8kD0RnHtVuQf2cqGljU) | [Atlantis Dove](https://open.spotify.com/artist/4lWGfxuk3gXKG0v4fI4mqi) | [Lets Chill Tonight](https://open.spotify.com/album/7sscQarmqdcxJRqiizYPTe) | 3:40 |

@@ -1115,6 +1115,28 @@
     },
     {
       "album": {
+        "name": "Majestic Casual - Chapter 3",
+        "url": "https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        },
+        {
+          "name": "shiloh",
+          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "i\u2019m sorry",
+      "url": "https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU"
+    },
+    {
+      "album": {
         "name": "Jashne Bahara (Lofi Flip)",
         "url": "https://open.spotify.com/album/55bGbfX2eC1SECIotOJrD2"
       },

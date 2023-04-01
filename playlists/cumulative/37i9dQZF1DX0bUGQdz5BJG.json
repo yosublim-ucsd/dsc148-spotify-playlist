@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Kassi Ashton",
+  "description": "Music City must-hears. Cover: Bryan Martin",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "2 Years Back",
+        "url": "https://open.spotify.com/album/0c7Cn7WMUYRMJCyKCGSGlY"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186085,
+      "name": "2 Years Back",
+      "url": "https://open.spotify.com/track/7b4DJ2LfdaK6YfGSJi3PoY"
+    },
+    {
+      "album": {
         "name": "20Something",
         "url": "https://open.spotify.com/album/0tIU8Lg0dDr9VhWcDJM12C"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 206642,
       "name": "25 To Life",
       "url": "https://open.spotify.com/track/4EeowIiHBakhTYerquNYwk"
@@ -597,6 +615,24 @@
     },
     {
       "album": {
+        "name": "All It Was",
+        "url": "https://open.spotify.com/album/2irvPojPatPa5yAHsiY4ni"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152946,
+      "name": "All It Was",
+      "url": "https://open.spotify.com/track/7bEt4pbdUhCPVF1ajNexeF"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/53kNGz1qGKuHNOFYxGPZVs"
       },
@@ -813,6 +849,24 @@
     },
     {
       "album": {
+        "name": "American Dirt",
+        "url": "https://open.spotify.com/album/5ki9d661De9vyhXQ8UCwi7"
+      },
+      "artists": [
+        {
+          "name": "Neon Union",
+          "url": "https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182603,
+      "name": "American Dirt",
+      "url": "https://open.spotify.com/track/2a2lmhi4vcRDVMWlbenbef"
+    },
+    {
+      "album": {
         "name": "Reno",
         "url": "https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM"
       },
@@ -954,7 +1008,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 176712,
       "name": "Another Round",
       "url": "https://open.spotify.com/track/4PDVSGSRqigxcgtlTSY8vf"
@@ -1886,7 +1940,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 169736,
       "name": "Better Liar",
       "url": "https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O"
@@ -2060,6 +2114,24 @@
       "duration_ms": 202533,
       "name": "Big on the Little Things",
       "url": "https://open.spotify.com/track/7lAuzqo0zeMf9Hckp8JylI"
+    },
+    {
+      "album": {
+        "name": "Big Prayers",
+        "url": "https://open.spotify.com/album/4AOd6TGN4Rqx3E1ZvgBtMF"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Big Prayers",
+      "url": "https://open.spotify.com/track/0bZRv3Vh13qKj6E2OpNDwV"
     },
     {
       "album": {
@@ -3379,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/4kDAD2mWZu1J4PJeAesMCg"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/2FDeQuwRXkAXgeYrHCBBuZ"
+    },
+    {
+      "album": {
         "name": "Couldn't Care Less",
         "url": "https://open.spotify.com/album/50gHenRfrlNVQ6nSYELygE"
       },
@@ -3470,7 +3560,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 173492,
       "name": "Country Boys",
       "url": "https://open.spotify.com/track/2NbJiIzCKFpF2NPHoqzTQG"
@@ -4449,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/5ZDFSKTaL8h6ja88cipNjv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199121,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3QIzwzWLtfy7XSQmnFHV5R"
+    },
+    {
+      "album": {
         "name": "Don't It Feel Like Rain",
         "url": "https://open.spotify.com/album/6vTFibcqaVDMflKlJYpyE3"
       },
@@ -4958,7 +5066,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 212360,
       "name": "Drive You Out Of My Mind",
       "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
@@ -5244,6 +5352,28 @@
       "duration_ms": 169935,
       "name": "Everybody Breaks Up",
       "url": "https://open.spotify.com/track/24rwlqDs1a0VIGuQKZkpcQ"
+    },
+    {
+      "album": {
+        "name": "Everybody Get Along",
+        "url": "https://open.spotify.com/album/3V8SeswQuyWIr9LMU4lMDP"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191882,
+      "name": "Everybody Get Along",
+      "url": "https://open.spotify.com/track/2kuchtsRgBpEOdE6LfJgl8"
     },
     {
       "album": {
@@ -5897,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Man",
+        "url": "https://open.spotify.com/album/5VopLjQeg8EOJU6dCTlfPU"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217594,
+      "name": "Forgotten Man",
+      "url": "https://open.spotify.com/track/3DllAMFdz1wYoYLexnbS56"
+    },
+    {
+      "album": {
         "name": "Sun Up to Sundown",
         "url": "https://open.spotify.com/album/57FPKfJyjp3hXukgNjFsym"
       },
@@ -6178,7 +6326,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 188515,
       "name": "Gettin' There",
       "url": "https://open.spotify.com/track/6EgRugCFo1htCTkFsBmQRc"
@@ -6579,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "I Know You Do",
+        "url": "https://open.spotify.com/album/4dMuMiI0HVQviA93ZnDr70"
+      },
+      "artists": [
+        {
+          "name": "Tyler Rich",
+          "url": "https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199664,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/2B9cjmYGGD29TH2knA0hRR"
+    },
+    {
+      "album": {
         "name": "Good Good Life",
         "url": "https://open.spotify.com/album/6oc3vY9qCokLPp18GQ8p3e"
       },
@@ -6750,7 +6916,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 173031,
       "name": "GOT IT GOOD",
       "url": "https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF"
@@ -7441,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "Heart On Fire In Mexico",
+        "url": "https://open.spotify.com/album/5mJcJMEQLumfNkNYo2mTN7"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "Heart On Fire In Mexico",
+      "url": "https://open.spotify.com/track/72SRZVihNBosupaENmkdrv"
+    },
+    {
+      "album": {
         "name": "Heart on My Glass",
         "url": "https://open.spotify.com/album/5wn3rXI7ahFosQJmt14ZJ2"
       },
@@ -7990,10 +8174,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 183404,
       "name": "Hillbilly (featuring Elvie Shane and Ketch Secor of Old Crow Medicine Show)",
       "url": "https://open.spotify.com/track/2Msuy0psLMrdPN01WZo6BE"
+    },
+    {
+      "album": {
+        "name": "History Of Repeating",
+        "url": "https://open.spotify.com/album/51gd1r5IT0mPSJ0iajOwN1"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "History Of Repeating",
+      "url": "https://open.spotify.com/track/49BOywRTICAn5UxVoTtt3L"
     },
     {
       "album": {
@@ -8336,7 +8538,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 212125,
       "name": "Hope You're Happy",
       "url": "https://open.spotify.com/track/1b428LIjkiLcHOZYaSWzh1"
@@ -9028,7 +9230,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 195509,
       "name": "I Know You Do",
       "url": "https://open.spotify.com/track/5FUcyCkzfcusdZMExfmz91"
@@ -9557,6 +9759,24 @@
     },
     {
       "album": {
+        "name": "IF YOU'RE GONNA LEAVE",
+        "url": "https://open.spotify.com/album/7gmk3BGyrpYhNuEHiakECj"
+      },
+      "artists": [
+        {
+          "name": "Angel White",
+          "url": "https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213959,
+      "name": "IF YOU'RE GONNA LEAVE",
+      "url": "https://open.spotify.com/track/3302p1EGYArdg0JmcZ3E4e"
+    },
+    {
+      "album": {
         "name": "Imma",
         "url": "https://open.spotify.com/album/2x64IH4wQpBBRO7UZNVrkX"
       },
@@ -9806,7 +10026,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 216670,
       "name": "it's been a year",
       "url": "https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv"
@@ -11109,6 +11329,24 @@
     },
     {
       "album": {
+        "name": "Looking at the Numbers",
+        "url": "https://open.spotify.com/album/5HRkWv0wumBbzY26Ra1Kft"
+      },
+      "artists": [
+        {
+          "name": "Trey Rose",
+          "url": "https://open.spotify.com/artist/48drlUm5UiPULfpDwxUXvd"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200994,
+      "name": "Looking at the Numbers",
+      "url": "https://open.spotify.com/track/5GtSBogakPmKLqPwjMDLvz"
+    },
+    {
+      "album": {
         "name": "Looking Back Now",
         "url": "https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd"
       },
@@ -11682,6 +11920,24 @@
       "duration_ms": 189989,
       "name": "Make the Best Memories",
       "url": "https://open.spotify.com/track/6Z2vjMFWw0s4pPiyOd8qhw"
+    },
+    {
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/7vwX7Eavq0fZccBj56FkWA"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/0CZwrYqSTnfzAjtynr6zBp"
     },
     {
       "album": {
@@ -12620,7 +12876,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 166728,
       "name": "My Boots Miss Yours",
       "url": "https://open.spotify.com/track/5CTNpeHC0By6Mke80F8xa4"
@@ -13911,6 +14167,24 @@
     },
     {
       "album": {
+        "name": "On This Piano",
+        "url": "https://open.spotify.com/album/64YNdgJn8gnzpt4SotI3iU"
+      },
+      "artists": [
+        {
+          "name": "Gray Robinson",
+          "url": "https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205118,
+      "name": "On This Piano",
+      "url": "https://open.spotify.com/track/34tS5urc3LIee0qL7LnqFZ"
+    },
+    {
+      "album": {
         "name": "One Day Tonight",
         "url": "https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl"
       },
@@ -14534,7 +14808,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 187499,
       "name": "Petty",
       "url": "https://open.spotify.com/track/7qQy2zQ0DfkNB5Dmw7VFF4"
@@ -15242,6 +15516,24 @@
       "duration_ms": 236597,
       "name": "Red Dirt Cursed",
       "url": "https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY"
+    },
+    {
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172861,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv"
     },
     {
       "album": {
@@ -16324,7 +16616,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 181240,
       "name": "Should've Been",
       "url": "https://open.spotify.com/track/0w6Gggzlzn5ONZahABj2Qr"
@@ -16898,6 +17190,24 @@
       "duration_ms": 175599,
       "name": "Someone Else's Radio",
       "url": "https://open.spotify.com/track/4RGcCaJPeBIxmD8nWm7vV1"
+    },
+    {
+      "album": {
+        "name": "Someone Else's Summer",
+        "url": "https://open.spotify.com/album/2NFqsYoTv7U1tJy05M6TDt"
+      },
+      "artists": [
+        {
+          "name": "CB30",
+          "url": "https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Someone Else's Summer",
+      "url": "https://open.spotify.com/track/0fJXlFBJbNaUDjabUqYkUS"
     },
     {
       "album": {
@@ -17666,7 +17976,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 220816,
       "name": "Stray Dogs",
       "url": "https://open.spotify.com/track/4Z428xkY8tQ4U2JxGHO4eP"
@@ -19177,6 +19487,24 @@
     },
     {
       "album": {
+        "name": "This Town Is A Ghost",
+        "url": "https://open.spotify.com/album/5YrxejmZDna1Kc0lRaFflF"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224031,
+      "name": "This Town Is A Ghost",
+      "url": "https://open.spotify.com/track/1IXVqGFTcrAAriHrGrNxMq"
+    },
+    {
+      "album": {
         "name": "THIS-A-WAY",
         "url": "https://open.spotify.com/album/1TrPFb93ycBnCPBMlZmLxj"
       },
@@ -19242,7 +19570,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 191573,
       "name": "Three Favorite Colors",
       "url": "https://open.spotify.com/track/3OW44UgVC9RrayjcEBcqWY"
@@ -19726,6 +20054,24 @@
       "duration_ms": 181253,
       "name": "U or Nothing",
       "url": "https://open.spotify.com/track/4EJyH12rmUPiDC6SE8qtpA"
+    },
+    {
+      "album": {
+        "name": "Unlearn",
+        "url": "https://open.spotify.com/album/3YQVNRLNjcbgtmCaoBIqDT"
+      },
+      "artists": [
+        {
+          "name": "Griffen Palmer",
+          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217803,
+      "name": "Unlearn",
+      "url": "https://open.spotify.com/track/7HeMck0yQutWRKZZj44RoE"
     },
     {
       "album": {
@@ -21136,7 +21482,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 210876,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/0YShQ5alIoF9aSPUtWUryx"

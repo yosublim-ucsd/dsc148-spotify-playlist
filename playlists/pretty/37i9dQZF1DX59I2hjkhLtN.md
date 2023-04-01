@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Tiller com Cíntia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,974 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Phil Foden](https://open.spotify.com/track/65ZeU61TxIXMBegL7iQQW8) | [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Phil Foden](https://open.spotify.com/album/61dya1HZH90S9x91LOK5nv) | 2:49 |
 | 2 | [V](https://open.spotify.com/track/74J9zDuyFsz5VhJirO7FKQ) | [LOUIS DVART](https://open.spotify.com/artist/1TL1qQoaFtWUt2D85hCOIl) | [V](https://open.spotify.com/album/39PwtUwIWH7QoLli8lYOdi) | 2:20 |
 | 3 | [Mereces](https://open.spotify.com/track/3GMiqQto55B9vjUhFUFYGK) | [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Mereces](https://open.spotify.com/album/0jUehlIRWSQkj3XjQY1hSw) | 3:18 |
-| 4 | [Choro](https://open.spotify.com/track/1wtUhw1rAMZpiPcBERS1l7) | [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Serpentino](https://open.spotify.com/album/4K4V9iG4mcGgJjd4vrCj3D) | 2:56 |
+| 4 | [Choro](https://open.spotify.com/track/0MxegOfsWLU9ebCMm7nLlP) | [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Serpentino](https://open.spotify.com/album/2gC3fcWI0NmEb30Jcs3cQ2) | 2:56 |
 | 5 | [Acelera](https://open.spotify.com/track/1HiSXfoLj03X3Ia3koIG8A) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Acelera](https://open.spotify.com/album/3dC49OQ0zhYnNIwvX6VlKy) | 2:38 |
 | 6 | [Eh](https://open.spotify.com/track/5DVbWrpjCK4VPpiGhKXvcj) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Eh](https://open.spotify.com/album/6ygzizFzseHIKrWuTE0vns) | 3:09 |
 | 7 | [FREESTYLE](https://open.spotify.com/track/0Z48gxf8RNpGFEm5wR7u2h) | [YuriGotBandz](https://open.spotify.com/artist/78y9L2lOJBsY4uUBcPsTu2) | [FREESTYLE](https://open.spotify.com/album/6xJ6tx7e1qncF9543u0TGW) | 2:35 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [BAD BOY](https://open.spotify.com/track/57zxovJPN372GQSUTTI9Zf) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [BAD BOY](https://open.spotify.com/album/4bPbsZ4Y2z5oeZQOyogVB7) | 1:59 |
 | 99 | [Still Active 2](https://open.spotify.com/track/4qAawYHaFXBcv5OIU1C7IK) | [Lil Mapz](https://open.spotify.com/artist/1I1rTfeVpspUIYVSKLIVoR) | [Still Active 2](https://open.spotify.com/album/3hkcTUcGjgeXkcNd1CLH7B) | 2:14 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDgyNWQ1Y2M3ZDM2NjkzZjFiOGVmMjFmNTI4NjBhMzFh`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMGUxMmEzOWRkOWFmOWNlZDY1ZDliNzJlMzgyNDczNTI4`

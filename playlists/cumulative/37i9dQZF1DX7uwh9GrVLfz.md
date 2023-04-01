@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: キュウソネコカミ \(KYUSONEKOKAMI\)
 
-526 songs - 1 day 4 hr 44 min
+527 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,8 @@
 | [wake up! wake up!](https://open.spotify.com/track/3lEXSVcunWsoDvb4A1KQ90) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [Hello! Mr.latecomer](https://open.spotify.com/album/4qZyWJo3epGLT7Y09RVeEV) | 3:40 | 2022-06-02 | 2022-07-29 |
 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 | 2022-05-12 |  |
 | [Walk This Way](https://open.spotify.com/track/537qw1IuzBAUOTbS6aww5u) | [Your Last Diary](https://open.spotify.com/artist/3naxNIZotcqCdf2Q50oxgV) | [Zero Division Vol.02 \- Single](https://open.spotify.com/album/79a338u2eyram2On4ALARx) | 3:04 | 2022-05-12 | 2022-07-24 |
-| [Watashi Akinu Watashi](https://open.spotify.com/track/3DuZhfyQTHmityBjFugI6q) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/0SLWfFwN3psEdqNsS6qhIA) | 3:47 | 2023-01-17 |  |
+| [Watashi Akinu Watashi](https://open.spotify.com/track/3DuZhfyQTHmityBjFugI6q) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/0SLWfFwN3psEdqNsS6qhIA) | 3:47 | 2023-01-17 | 2023-04-01 |
+| [Watashi Akinu Watashi](https://open.spotify.com/track/1wcjpwo30bl7RbFcMKyilX) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:49 | 2023-04-01 |  |
 | [WAVES](https://open.spotify.com/track/3PsI6QdnjX5mOrIa44SvKY) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [WAVES](https://open.spotify.com/album/1l4Ll8sZk6WP4Es0uzovNe) | 3:28 | 2022-05-17 | 2022-07-23 |
 | [We Are The World](https://open.spotify.com/track/1IP28hIFiHfhj4XKquOh0u) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAtegory](https://open.spotify.com/album/3hoGg8akRjWHeU1fpI3byQ) | 3:26 | 2022-05-12 | 2022-07-20 |
 | [WE RUN ON FAITH](https://open.spotify.com/track/5dxZ39MTF8Iw6uJ0p12aMz) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [BIGMAMA](https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k) | [WE RUN ON FAITH](https://open.spotify.com/album/66qU6ihtnFkknA4cKJavbv) | 3:45 | 2022-05-12 | 2022-07-28 |

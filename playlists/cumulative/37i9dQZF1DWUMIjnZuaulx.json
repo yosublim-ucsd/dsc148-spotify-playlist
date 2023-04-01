@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=IqXsEneWQW-htSSi4v5-aQ\">Mercy Chinwo</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD?si=8ef283b1df6945a4\">JJ Hairston</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 202838,
       "name": "Adulting - Live",
       "url": "https://open.spotify.com/track/42ilVo7uiw5VjsgmJ58O1c"
+    },
+    {
+      "album": {
+        "name": "Tribute To A Legend: Rance Allen, Chapter One",
+        "url": "https://open.spotify.com/album/1isKOLWcjCC9JdHaeI8Sxo"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311077,
+      "name": "Ain't No Need Of Crying",
+      "url": "https://open.spotify.com/track/01Eh9td5WOYyOsyPd6ONW7"
     },
     {
       "album": {
@@ -1459,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "God, You've Been Faithful",
+        "url": "https://open.spotify.com/album/2v7y2SPCAlHLxRNN5QOEuy"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Moore",
+          "url": "https://open.spotify.com/artist/36NpWbQn9NARm2hy9oP58x"
+        },
+        {
+          "name": "Tramaine Hawkins",
+          "url": "https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324185,
+      "name": "God, You've Been Faithful",
+      "url": "https://open.spotify.com/track/55JwXIZkXP4PeOMNCZ4q0R"
+    },
+    {
+      "album": {
         "name": "Compatible",
         "url": "https://open.spotify.com/album/13VuLGvusvU6nT0omDt6gh"
       },
@@ -1710,7 +1754,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 302577,
       "name": "He Kept Me - Live",
       "url": "https://open.spotify.com/track/3q5Btikwq1dKZxNica2gch"
@@ -2555,6 +2599,32 @@
     },
     {
       "album": {
+        "name": "In Him There Is No Sorrow",
+        "url": "https://open.spotify.com/album/5KRqIJnf4RZzdn1torzeZa"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & Company",
+          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
+        },
+        {
+          "name": "Twinkie Clark",
+          "url": "https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377460,
+      "name": "In Him There Is No Sorrow",
+      "url": "https://open.spotify.com/track/1eaob8lv7dnnn282p6j28d"
+    },
+    {
+      "album": {
         "name": "IN MY FEELINGS",
         "url": "https://open.spotify.com/album/1dkPju5MuM7S2lrWuOBy9A"
       },
@@ -2654,6 +2724,32 @@
       "duration_ms": 255478,
       "name": "It's Alright To Cry",
       "url": "https://open.spotify.com/track/5GqlpLE5mySda7HAnSGot4"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Demarcus Kelly",
+          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
+        },
+        {
+          "name": "JaNae Jones",
+          "url": "https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292276,
+      "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
+      "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
     },
     {
       "album": {
@@ -2997,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Keeper Of My Soul",
+        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
+      },
+      "artists": [
+        {
+          "name": "Earnest Pugh",
+          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Keeper Of My Soul",
+      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
+    },
+    {
+      "album": {
         "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
         "url": "https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz"
       },
@@ -3074,7 +3188,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 244053,
       "name": "Let God In - Radio Edit",
       "url": "https://open.spotify.com/track/1DAJ0tC7d0wsIMA4atKkJC"
@@ -4556,7 +4670,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 275751,
       "name": "Something About The Name Jesus (feat. Lewis Sky & Rance Allen)",
       "url": "https://open.spotify.com/track/5rpLS9LTrQNjhTFhMYQVkD"
@@ -4694,7 +4808,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 391612,
       "name": "Stands Forever",
       "url": "https://open.spotify.com/track/1pGgUQ7ObuYnBGb8pt98Zw"
@@ -5898,7 +6012,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 510000,
       "name": "You Deserve It (feat. Cecily)",
       "url": "https://open.spotify.com/track/1tg1ZOxKsEb9z4lVlZnZX3"

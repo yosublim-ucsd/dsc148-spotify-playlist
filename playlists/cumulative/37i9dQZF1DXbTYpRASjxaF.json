@@ -28,7 +28,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 186666,
       "name": "20G",
       "url": "https://open.spotify.com/track/69Flz1PeHxdGW0trMUNjll"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 244500,
       "name": "Afrodis\u00edaco",
       "url": "https://open.spotify.com/track/4N5X9gkfB7PUV8iE1P7pon"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 157166,
       "name": "Blindada",
       "url": "https://open.spotify.com/track/2zJsF3MNM7S1WaOjSnKfHm"
@@ -684,10 +684,36 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 135813,
       "name": "Buchanan's",
       "url": "https://open.spotify.com/track/4AR5WaxzOd60gcsCPUCDo5"
+    },
+    {
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124913,
+      "name": "C'est la vie (B\u00f4nus)",
+      "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
     },
     {
       "album": {
@@ -800,7 +826,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 260178,
       "name": "Cerol Finin",
       "url": "https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m"
@@ -1417,6 +1443,36 @@
     },
     {
       "album": {
+        "name": "Duas Doses",
+        "url": "https://open.spotify.com/album/0ekNA7uYau9DF65F5ESe0e"
+      },
+      "artists": [
+        {
+          "name": "Oliveira",
+          "url": "https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "A Matilha",
+          "url": "https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Duas Doses",
+      "url": "https://open.spotify.com/track/1uCasGURHhzPYiA7Hx7Rp6"
+    },
+    {
+      "album": {
         "name": "Dubl\u00ea de Marido",
         "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
       },
@@ -1907,6 +1963,40 @@
     },
     {
       "album": {
+        "name": "Invejoso, Golpe",
+        "url": "https://open.spotify.com/album/5n5K0cvH2kkw50kqn8i3s5"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209543,
+      "name": "Invejoso, Golpe",
+      "url": "https://open.spotify.com/track/2xPCWuytIvEIms19wdgl2A"
+    },
+    {
+      "album": {
         "name": "Honra & Lealdade",
         "url": "https://open.spotify.com/album/4BBB3VhPtzVjCnS88Zm1JE"
       },
@@ -2086,7 +2176,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 230204,
       "name": "J\u00f3ia Rara",
       "url": "https://open.spotify.com/track/6fNtfIaMgkllAZghEvSvqr"
@@ -2672,6 +2762,24 @@
       "duration_ms": 127778,
       "name": "Miami Open",
       "url": "https://open.spotify.com/track/4AvihZHnTz2DYGkTCBERum"
+    },
+    {
+      "album": {
+        "name": "Minha Vida \u00e9 um Filme",
+        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Minha Vida \u00e9 um Filme",
+      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
       "album": {
@@ -3556,7 +3664,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 143333,
       "name": "Qatar Freestyle (Papatracks #9)",
       "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
@@ -3764,6 +3872,32 @@
       "duration_ms": 120000,
       "name": "ROLEX",
       "url": "https://open.spotify.com/track/5MUzFAAQqXZGNJUkvY0cYG"
+    },
+    {
+      "album": {
+        "name": "Round",
+        "url": "https://open.spotify.com/album/6mhWjrggzDTOe529u0MlLj"
+      },
+      "artists": [
+        {
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Perazo",
+          "url": "https://open.spotify.com/artist/6Z7v8XHDlrZPefEzZLSFll"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109354,
+      "name": "Round",
+      "url": "https://open.spotify.com/track/121a7r1ZMK1y0823ceCFcC"
     },
     {
       "album": {

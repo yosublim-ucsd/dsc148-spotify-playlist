@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: MarSimba
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,496 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,538 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [3enek](https://open.spotify.com/track/6AaTlM8DYO8iT3DEeciiqh) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [3enek](https://open.spotify.com/album/7GeYslOHKhXrGf9rBwDnbf) | 3:33 |
-| 2 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
-| 3 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
-| 4 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 |
+| 2 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 |
+| 3 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
+| 4 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
 | 5 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
 | 6 | [Man On Fire \- North Africa Remix](https://open.spotify.com/track/416C8Z5XpYe3Bw6ARnFieF) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Man On Fire \(North Africa Remix\)](https://open.spotify.com/album/3IdsPL40Zv0UQfWpCRoPtk) | 2:47 |
 | 7 | [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 |
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 31 | [TKT](https://open.spotify.com/track/2ET8K5jJLaCCRn7M6u2ExO) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TKT](https://open.spotify.com/album/3p7wvvIX1IdeCtuJ24aXiS) | 2:49 |
 | 32 | [Maalich](https://open.spotify.com/track/0jUPTAe0FAHcxnWh90SysJ) | [Mng917](https://open.spotify.com/artist/2PcEZiroZNJhGwc7h2ou0V), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Lwind](https://open.spotify.com/artist/7FKJkQg0IVsjN3r4m60rl9) | [Maalich](https://open.spotify.com/album/5UF4EOwp1LcK3kSx8KxEYX) | 3:25 |
 | 33 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 |
-| 34 | [El Madi](https://open.spotify.com/track/2nqE5xiKvAJgfKzDlA7Fk5) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k), [Mr Choco](https://open.spotify.com/artist/6Gm8ZCNMGwbLcM5snYUr5v) | [El Madi](https://open.spotify.com/album/1vBQ92dp5JxEDDlckKfvRk) | 3:33 |
+| 34 | [El Madi](https://open.spotify.com/track/1uN8MEM7HP6rb99N0QV68r) | [Yazan Elsaeed \| Mr Choco](https://open.spotify.com/artist/2QkYsq6gUnwTr5dlqK7q65) | [El Madi](https://open.spotify.com/album/3hOP7WTLLX1UfJ6YmYOUjX) | 3:33 |
 | 35 | [Machine](https://open.spotify.com/track/4BMmGaUZVOlLIREgZKZh9a) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Machine](https://open.spotify.com/album/1Oy60tLp9CAJ5Vw9ixeLU0) | 2:18 |
 | 36 | [Sabbinaha](https://open.spotify.com/track/4q7MWhLldYu7gyXRoHax5g) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [A 249 Experience, Vol\. 1](https://open.spotify.com/album/5aPoFtmnkmYctV1f1vlVfI) | 3:02 |
 | 37 | [hasta la vista.](https://open.spotify.com/track/3uwmEuilZP6sA0TLLNxd9x) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [hasta la vista.](https://open.spotify.com/album/6eOrS43L3EuwK6ZmFYRt1W) | 2:48 |
 | 38 | [Allo Mama](https://open.spotify.com/track/0X3j7PKZYinokK4csqWKdZ) | [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Allo Mama](https://open.spotify.com/album/4eInwPKDlzgMU0c9s90UdV) | 3:05 |
 | 39 | [Safe Salina \(Nigerian Remix\)](https://open.spotify.com/track/1d73hFKVz2vvTMxLvqqzjx) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [RAYBEKAH](https://open.spotify.com/artist/5xiO5aB50qkMfgUyDNpFYk) | [Safe Salina \(Nigerian Remix\)](https://open.spotify.com/album/1AMww3MQURWSVPEiqGQEg4) | 3:24 |
-| 40 | [Yek Yek](https://open.spotify.com/track/4FurrzPajAoNGcY4P3pu2W) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/3YB8Ew2pmNCUP7QA9FVCau) | 3:31 |
+| 40 | [Yek Yek](https://open.spotify.com/track/617V6FOa1Qo3UIMn7y84fA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2pJTYN66za2S6VZ0ceOKZP) | 3:31 |
 | 41 | [Laywagef](https://open.spotify.com/track/5OP2tICFk99PTkih5jIKq5) | [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Laywagef](https://open.spotify.com/album/0c6EvBCiPrnrmEplS56NBW) | 3:38 |
 | 42 | [Bambina](https://open.spotify.com/track/7GRkUt2D8RZJVn8uWVpa9o) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/6pVwkIiwNhL0Vd3auyMEjj) | 3:20 |
 | 43 | [Kandaka](https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Kandaka](https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 49 | [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 |
 | 50 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY3NjAxODIwMiwwMDAwMDAwMGZkYjM1Njk4OTEzYTllOGVkMGMyNjJhNTdhM2E2ZGNk`
+Snapshot ID: `MTY4MDI1NjcwNSwwMDAwMDAwMGE1MjJmYTg3YjgyMTQ2ODAwNjdkZWVhY2Y2NjRmZmNi`

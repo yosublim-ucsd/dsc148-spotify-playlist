@@ -1,12 +1,12 @@
 {
   "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. SFDK en portada.",
-  "num_followers": 293597,
+  "num_followers": 293806,
   "original_name": "Rap en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzNzYwMCwwMDAwMDAwMDk4NDI5OWQxNDU3NGE3MTkwMWE4NWUwYzgwOTljNWQw",
+  "snapshot_id": "MTY4MDI0MjQwMCwwMDAwMDAwMDAzNjY1MzVlOGVkMGZjY2VhNjg2ZDEzMjg3YjMwNTE5",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 236000,
       "name": "Defectos y Taras",
       "url": "https://open.spotify.com/track/36bpPEAwmSzy3IKDWvalmL"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
+        "url": "https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 328346,
+      "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
+      "url": "https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu"
     },
     {
       "added_at": "2023-02-24 21:36:48",
@@ -67,8 +83,8 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "TIKI",
-        "url": "https://open.spotify.com/album/706jigUnjkVzVflc3lDOls"
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/3sfLvbXtGlQl9wVafzi55i"
       },
       "artists": [
         {
@@ -76,9 +92,33 @@
           "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
         }
       ],
-      "duration_ms": 113103,
+      "duration_ms": 113090,
       "name": "TIKI",
-      "url": "https://open.spotify.com/track/6Oi46ZScfwLecGdnfi3lB3"
+      "url": "https://open.spotify.com/track/4kf612vXDfbM5AHrFIVUN9"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Nevada",
+        "url": "https://open.spotify.com/album/4BCGrlLcmFBeY0JN7nTx7E"
+      },
+      "artists": [
+        {
+          "name": "Chuch\u00fa Bermudas",
+          "url": "https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX"
+        },
+        {
+          "name": "Willie DeVille",
+          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
+        },
+        {
+          "name": "Drama Theme",
+          "url": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+        }
+      ],
+      "duration_ms": 126014,
+      "name": "Nevada",
+      "url": "https://open.spotify.com/track/0bHuCyPRZc5Pfx1Dm982ws"
     },
     {
       "added_at": "2023-03-03 06:00:00",
@@ -101,6 +141,26 @@
       "url": "https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e"
     },
     {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Mitolo G's",
+        "url": "https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        }
+      ],
+      "duration_ms": 196243,
+      "name": "Mitolo G's",
+      "url": "https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM"
+    },
+    {
       "added_at": "2023-03-24 06:00:00",
       "album": {
         "name": "SIN UN PLAN",
@@ -119,6 +179,22 @@
       "duration_ms": 201785,
       "name": "SIN UN PLAN",
       "url": "https://open.spotify.com/track/0w3VooVHnwqRSCVXc9L3Bd"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "DREAM TEAM",
+        "url": "https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1"
+      },
+      "artists": [
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        }
+      ],
+      "duration_ms": 158431,
+      "name": "DREAM TEAM",
+      "url": "https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm"
     },
     {
       "added_at": "2023-03-17 06:00:00",

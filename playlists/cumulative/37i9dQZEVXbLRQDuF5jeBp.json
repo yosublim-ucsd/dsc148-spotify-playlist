@@ -33712,7 +33712,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 122740,
       "name": "Painting Pictures",
       "url": "https://open.spotify.com/track/6MGsx3Usu6IJbbYFoAOEtv"
@@ -48764,6 +48764,24 @@
       "duration_ms": 248407,
       "name": "VOID",
       "url": "https://open.spotify.com/track/3e6ebtUCZ0tZL1J7wvM8Xi"
+    },
+    {
+      "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247875,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },
     {
       "album": {

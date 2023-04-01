@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,236 likes - 170 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,538 likes - 170 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 169 | [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 |
 | 170 | [Discovery \- 432 Hz](https://open.spotify.com/track/4HABaUNQRaAgcO2NVHZssO) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Discovery \(432 Hz\)](https://open.spotify.com/album/0ad22P8z4rXNjwgQ3CDA4U) | 2:02 |
 
-Snapshot ID: `MTY3OTYxNjA2MCwwMDAwMDAwMGMxZDFhYmY1NTJiYzQ1YmE5NGJlMTE2NjhjZmE1NjIx`
+Snapshot ID: `MTY4MDIyMDg2MCwwMDAwMDAwMGZkZTVlM2MzMGVhODE3Y2RkZmZkYjNmNDA2ZDFhZTIw`

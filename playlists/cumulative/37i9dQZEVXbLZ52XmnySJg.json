@@ -6060,7 +6060,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 223459,
       "name": "Kabira",
       "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
@@ -8149,6 +8149,32 @@
     },
     {
       "album": {
+        "name": "Mere Ghar Ram Aaye Hain",
+        "url": "https://open.spotify.com/album/7Ix1yiXrfhOyrEle56urwV"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234149,
+      "name": "Mere Ghar Ram Aaye Hain",
+      "url": "https://open.spotify.com/track/4afA2YQlZfYzJbfnNoNknK"
+    },
+    {
+      "album": {
         "name": "Mere Liye Tum Kaafi Ho (From \"Shubh Mangal Zyada Saavdhan\")",
         "url": "https://open.spotify.com/album/1fUXh8MW0KHacBvURrLG96"
       },
@@ -10073,6 +10099,42 @@
     },
     {
       "album": {
+        "name": "Ram Siya Ram",
+        "url": "https://open.spotify.com/album/0iBLxJmGzLBQOe6TxLzJjU"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265264,
+      "name": "Ram Siya Ram",
+      "url": "https://open.spotify.com/track/0lKILDCwOjyR54xYhBazuJ"
+    },
+    {
+      "album": {
+        "name": "Ram Siya Ram (Lo-Fi)",
+        "url": "https://open.spotify.com/album/5ElJxAZdA2RNyuMkZKbgjt"
+      },
+      "artists": [
+        {
+          "name": "Striven",
+          "url": "https://open.spotify.com/artist/1jClwcjgQMoyxGz3Ahd8sf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Ram Siya Ram (Lo-Fi)",
+      "url": "https://open.spotify.com/track/5yjh1Y7lt6lx0nPslNz3H0"
+    },
+    {
+      "album": {
         "name": "Silsila",
         "url": "https://open.spotify.com/album/7vLbhMgxPh61vW6beUZWn5"
       },
@@ -10272,7 +10334,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 218880,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
@@ -12894,7 +12956,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"

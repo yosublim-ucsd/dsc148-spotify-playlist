@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,152 likes - 142 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,228 likes - 142 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

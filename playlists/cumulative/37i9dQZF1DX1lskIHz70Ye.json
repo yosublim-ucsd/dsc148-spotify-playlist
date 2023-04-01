@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Ebro",
+        "url": "https://open.spotify.com/album/4bonBhQZAj1VtE3pBxooke"
+      },
+      "artists": [
+        {
+          "name": "Dominic Ruiz",
+          "url": "https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202771,
+      "name": "Ebro",
+      "url": "https://open.spotify.com/track/7iWSfu4622gZ0g1U2g51BT"
+    },
+    {
+      "album": {
         "name": "El Banco De La Plaza",
         "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
       },

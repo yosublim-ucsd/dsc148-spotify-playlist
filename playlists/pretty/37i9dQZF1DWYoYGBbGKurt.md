@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,558 likes - 520 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,660 likes - 520 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 18 | [Breakfast at the diner](https://open.spotify.com/track/5zN5hcMJSTyJyp9JjH33Q8) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Breakfast at the diner](https://open.spotify.com/album/3TyHScGdUwyaVMvpxuUxc4) | 2:17 |
 | 19 | [somebody else](https://open.spotify.com/track/4SwdZqpbUSk66Ml3LtV1JA) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [somebody else](https://open.spotify.com/album/2Xge9gAY63AG4CL9vp27e9) | 1:39 |
 | 20 | [Getthrough](https://open.spotify.com/track/3zjYDopjIYG87BUKJiobB3) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Getthrough](https://open.spotify.com/album/4yInGnArjz6KqBDY7Bh2Yy) | 1:41 |
-| 21 | [Awake](https://open.spotify.com/track/3QPWAZOWUW66GQq7wDfjNI) | [Future Marker](https://open.spotify.com/artist/3g8mVAfu82zNiB7UsQ4Ht1) | [Awake](https://open.spotify.com/album/4HHch0dspTBouzlM9yn4SL) | 2:29 |
+| 21 | [Awake](https://open.spotify.com/track/3QPWAZOWUW66GQq7wDfjNI) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Awake](https://open.spotify.com/album/4HHch0dspTBouzlM9yn4SL) | 2:29 |
 | 22 | [Elephant Soul](https://open.spotify.com/track/2pP6NmXnV9JeOXuJKkp0EQ) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:19 |
 | 23 | [Forest For The Trees](https://open.spotify.com/track/3qf3tcgxxYmdyLAgJt5ns8) | [Holographic Landscapes](https://open.spotify.com/artist/03LeuK9TVEPdFkf9RdHfEN) | [Forest For The Trees](https://open.spotify.com/album/67m6xBoeW7yDdKPULCNWAJ) | 2:51 |
 | 24 | [love me, kyoto](https://open.spotify.com/track/1JgS9FCcSMQH5KkanIffPN) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [love me, kyoto](https://open.spotify.com/album/3xT0IyTPefOjqbaRjYmngQ) | 3:33 |
@@ -159,10 +159,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 149 | [Kolibri](https://open.spotify.com/track/1XwZCSDfSXJbrhU3IaFwgE) | [Tobinio Armstrong](https://open.spotify.com/artist/3GsD3Oqvr0S0LC9dWmaFQm) | [Kolibri](https://open.spotify.com/album/4sUsL0tyNZuXxKfkoOKkmG) | 1:44 |
 | 150 | [Mark free & I](https://open.spotify.com/track/2zAu8dAb8sR86NQTZ9D39A) | [Mervion](https://open.spotify.com/artist/2bVjMeUXBabXj0PdrAaVdu) | [Mark free & I](https://open.spotify.com/album/4r0T4lq4beBVtTQfHtGZmg) | 3:30 |
 | 151 | [Shifting Edges](https://open.spotify.com/track/3LdcCUiZjLpfMaZK6KCmuz) | [Vacant Clinic](https://open.spotify.com/artist/069LYwxcFj7gaqBl2cEUGS) | [Shifting Edges](https://open.spotify.com/album/1NqjwHLO0xPKLrFxukYdQE) | 3:28 |
-| 152 | [Spinning Worlds](https://open.spotify.com/track/4w6LroqW4Fp6oUBQ0jlv58) | [Future Marker](https://open.spotify.com/artist/3g8mVAfu82zNiB7UsQ4Ht1) | [Spinning Worlds](https://open.spotify.com/album/0XnhsMBRpF4uI8Wqt9eW2a) | 2:28 |
+| 152 | [Spinning Worlds](https://open.spotify.com/track/4w6LroqW4Fp6oUBQ0jlv58) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Spinning Worlds](https://open.spotify.com/album/0XnhsMBRpF4uI8Wqt9eW2a) | 2:28 |
 | 153 | [Bedtime story](https://open.spotify.com/track/5xpn9R7Up1bMbYMWY8rYrk) | [fluffy](https://open.spotify.com/artist/4OqfSWELqg0RW8Ab9blfaA) | [Bedtime story](https://open.spotify.com/album/5MiUnzOjQAHrwJMs70aNRm) | 2:29 |
 | 154 | [Ubbadd](https://open.spotify.com/track/7FmNnWZUXiqXLngbAmh1X9) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Ubbadd](https://open.spotify.com/album/1arYRdx6nIYgn7tALBNar5) | 2:06 |
-| 155 | [Fables](https://open.spotify.com/track/5oqP7MKHZQFV6I8We5HRcJ) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Fables](https://open.spotify.com/album/0wa26glUmIrsSmUwKXDvvp) | 2:36 |
+| 155 | [Fables](https://open.spotify.com/track/5oqP7MKHZQFV6I8We5HRcJ) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Fables](https://open.spotify.com/album/0wa26glUmIrsSmUwKXDvvp) | 2:36 |
 | 156 | [Sweetheart](https://open.spotify.com/track/3ArvP9AbeHp62ilqkDA2Gp) | [Sexy Lofi](https://open.spotify.com/artist/5tjDeNHFLOUsyPV9b4NDNz) | [Sweetheart](https://open.spotify.com/album/4sreNQkLMhKDhTMhM2zStt) | 1:30 |
 | 157 | [A Path For The Waterfall](https://open.spotify.com/track/3Dze9FqniWV2DPfGjTFtZP) | [Clumby](https://open.spotify.com/artist/2j6nnzQl3kndd91nG9QsvA) | [A Path For The Waterfall](https://open.spotify.com/album/23YZ3U3au0pFlnlVLuV14q) | 2:16 |
 | 158 | [Olympus](https://open.spotify.com/track/0cuLlDBs3IqN8RbE0RhApH) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [bugzug](https://open.spotify.com/artist/51RjceiwmeWYUP3NSTzRNH) | [Olympus](https://open.spotify.com/album/4DIqEaV0vDGfelvjbl3jJA) | 2:07 |

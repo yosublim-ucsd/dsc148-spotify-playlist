@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
+    },
+    {
+      "album": {
         "name": "A World Without Love",
         "url": "https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL"
       },
@@ -182,6 +200,28 @@
       "duration_ms": 210893,
       "name": "Angelcover",
       "url": "https://open.spotify.com/track/2OMmR7z317VmvoVAP2dq2i"
+    },
+    {
+      "album": {
+        "name": "Apho",
+        "url": "https://open.spotify.com/album/3W9XyDsJb5XDmF2iIFsjMx"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "Apho",
+      "url": "https://open.spotify.com/track/4PShi8ZHJXoax9jqzSiMa2"
     },
     {
       "album": {
@@ -411,6 +451,54 @@
     },
     {
       "album": {
+        "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daniel Laskiewicz",
+          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268744,
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
+    },
+    {
+      "album": {
+        "name": "Continue as a Guest",
+        "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252053,
+      "name": "Bottle Episodes",
+      "url": "https://open.spotify.com/track/4po80V0UADskVYWjH20GKk"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT"
       },
@@ -594,7 +682,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 306655,
       "name": "DEATH",
       "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
@@ -708,6 +796,24 @@
       "duration_ms": 199008,
       "name": "Diferente ft CNCO",
       "url": "https://open.spotify.com/track/02dJRtnDdqon7U1CQD5BpH"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
     },
     {
       "album": {
@@ -853,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Extreme Ways (Resound NYC Version)",
+        "url": "https://open.spotify.com/album/2nVQEKfiwmH8ecebT80CYe"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Dougy Mandagi",
+          "url": "https://open.spotify.com/artist/1RwTwH0WT6kQzgRFf0m4uM"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228990,
+      "name": "Extreme Ways - Resound NYC Version / Edit",
+      "url": "https://open.spotify.com/track/0aj27E2UXku6ael5ti7g7H"
+    },
+    {
+      "album": {
         "name": "Fact (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX"
       },
@@ -978,6 +1106,32 @@
       "duration_ms": 274564,
       "name": "Flowers (Metal Version)",
       "url": "https://open.spotify.com/track/5h8k6b7a85OqTqWfAEqSde"
+    },
+    {
+      "album": {
+        "name": "Free Game",
+        "url": "https://open.spotify.com/album/4q2hpjHY1j2xil1Dp3OSf7"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143006,
+      "name": "Free Game",
+      "url": "https://open.spotify.com/track/3e4t0zTcXMloTvdQgDUYnB"
     },
     {
       "album": {
@@ -1186,7 +1340,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
@@ -1468,7 +1622,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 328564,
       "name": "Land of Confusion (Metal Version)",
       "url": "https://open.spotify.com/track/1oe1dxFxBEVZK6YdPIShkn"
@@ -1879,6 +2033,28 @@
     },
     {
       "album": {
+        "name": "Nuke's Blues",
+        "url": "https://open.spotify.com/album/2OE3m8C7REzAtHKsDJk6h8"
+      },
+      "artists": [
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Josef Leimberg",
+          "url": "https://open.spotify.com/artist/5rQ9q5c4pQKwn3OmpKE6vA"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Nuke's Blues",
+      "url": "https://open.spotify.com/track/6ItY4g8M5jOBwrdCLF65TJ"
+    },
+    {
+      "album": {
         "name": "Off The Rip",
         "url": "https://open.spotify.com/album/39fixJEnfnEKwZk9kNAAmi"
       },
@@ -1916,6 +2092,24 @@
       "duration_ms": 98668,
       "name": "One For",
       "url": "https://open.spotify.com/track/79erxfnOS3GubC1BUAC8Jx"
+    },
+    {
+      "album": {
+        "name": "Out Of Your Mind",
+        "url": "https://open.spotify.com/album/2IMgLM65tvnalH05gfWNYZ"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "Out Of Your Mind",
+      "url": "https://open.spotify.com/track/4LAeittiDHN59KGhTgBKhO"
     },
     {
       "album": {
@@ -1974,7 +2168,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 234280,
       "name": "Pontius Pilate's Home Movies",
       "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
@@ -2378,7 +2572,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 171706,
       "name": "Sticky (feat. Childish Gambino & KIRBY)",
       "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
@@ -2525,6 +2719,36 @@
     },
     {
       "album": {
+        "name": "Szechuan Capital",
+        "url": "https://open.spotify.com/album/6Wjkj7mbasv8jQKFssrWzn"
+      },
+      "artists": [
+        {
+          "name": "Meyhem Lauren",
+          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
+        },
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303575,
+      "name": "Szechuan Capital",
+      "url": "https://open.spotify.com/track/5nK2Nmo5cNHB7FeBddWWTq"
+    },
+    {
+      "album": {
         "name": "Tell Everyone",
         "url": "https://open.spotify.com/album/4op8ISB7KalhZCs511oydO"
       },
@@ -2613,6 +2837,32 @@
     },
     {
       "album": {
+        "name": "The Jaguar God",
+        "url": "https://open.spotify.com/album/7z8UBWhL5SiEC8VomlP3Y9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Lix",
+          "url": "https://open.spotify.com/artist/4pIuN8Np5qDTRVVxUF8gaM"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "B Mus",
+          "url": "https://open.spotify.com/artist/7tsaWDoqXCl0vklCKU0xfO"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138057,
+      "name": "The Jaguar God",
+      "url": "https://open.spotify.com/track/7HR9sbOvvTrGiazxEpDdbn"
+    },
+    {
+      "album": {
         "name": "The Muffin Man (Metal Version)",
         "url": "https://open.spotify.com/album/2mvUfnVH97YRGRMTOf2WsI"
       },
@@ -2663,7 +2913,7 @@
         },
         {
           "name": "T.I.",
-          "url": "https://open.spotify.com/artist/5Krj7bywZuCiajTa1zHP1C"
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         },
         {
           "name": "Killer Mike",
@@ -2982,10 +3232,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 196129,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/5GdgI8N4V0IHPgiPfvlGnW"
+    },
+    {
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247875,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx"
     },
     {
       "album": {
@@ -3004,7 +3272,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 344242,
       "name": "Walk With Me - Resound NYC Version",
       "url": "https://open.spotify.com/track/2FLXGK0uYcyG0rSWYRByGy"
@@ -3073,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Leo Metal, Vol. 42",
+        "url": "https://open.spotify.com/album/23hn5b2ewBQ2L0FuYhJ5Gt"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262079,
+      "name": "We Didn't Start The Fire (Metal Version)",
+      "url": "https://open.spotify.com/track/7MbRmAGg8QFbltXzWLqSHp"
+    },
+    {
+      "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
@@ -3106,7 +3392,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 135652,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6HziIqUKIzfSAHOpVtALrL"

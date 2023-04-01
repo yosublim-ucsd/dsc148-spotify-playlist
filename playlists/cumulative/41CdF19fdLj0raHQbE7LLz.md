@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-113 songs - 10 hr 21 min
+116 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,8 @@
 | [Ancient Dream](https://open.spotify.com/track/5utYhzfINlpLxPxyFfXeeE) | [Zimmz](https://open.spotify.com/artist/1fjyfUlALNaLiP57l5UmGn) | [Ancient Dream](https://open.spotify.com/album/2OI2N7cuA4BwWfpkXivMkI) | 8:11 | 2022-04-18 |  |
 | [Are You All Ready \- Spektre Extended Remix](https://open.spotify.com/track/1eCZodeqrjY8vWngATrAmP) | [Tony De Vit](https://open.spotify.com/artist/17acmoMCDxCeLPYv4T5sV1), [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Are You All Ready \(Spektre Remix\)](https://open.spotify.com/album/1B8MCRyfqk7Dmsa5R37bu6) | 6:54 | 2021-09-17 |  |
 | [Astel](https://open.spotify.com/track/2Cl5g4MBcwDjjJwGWfGi4e) | [Mattia Saviolo](https://open.spotify.com/artist/0CHQALTC4ovqi6EU4xvUeq) | [Astel](https://open.spotify.com/album/7IPVqgQjOvY3MQ3IYTfm7I) | 7:09 | 2022-11-25 |  |
+| [Badlands](https://open.spotify.com/track/6EqEtYGJnkP3BBySHscyLj) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Badlands](https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD) | 4:00 | 2023-03-31 |  |
+| [Bodysnatcher](https://open.spotify.com/track/2ReU1R4wUEhCnrL8Q6Nf8a) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Badlands](https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD) | 3:51 | 2023-03-31 |  |
 | [Bring It On Down](https://open.spotify.com/track/42BajmF7S541Gl8eUELqKl) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Bring It On Down](https://open.spotify.com/album/07zJQUXucc05agVKLqhcNE) | 7:12 | 2022-11-25 |  |
 | [Carnival of Souls \- Push Remix](https://open.spotify.com/track/4tdBYLQOTA9FzRhASJ7Skg) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Push](https://open.spotify.com/artist/55Os8XqAryj0AfK6zjkCbx) | [Respekt Reworks, Vol\. 1](https://open.spotify.com/album/6iv34cW6L7o0XoKHEcheGs) | 3:29 | 2021-11-26 |  |
 | [Catalepsia](https://open.spotify.com/track/59AJFyxHGuBq4KTaEJDRV3) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX) | [Catalepsia](https://open.spotify.com/album/3uCvxpEmhWNH2XNdF7IZMW) | 6:50 | 2022-04-18 |  |
@@ -21,6 +23,7 @@
 | [Circles](https://open.spotify.com/track/2xU4Ejdq5h5EE7YcIbjnZe) | [Nicolas Taboada](https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE) | [A\-Sides, Vol\. 11](https://open.spotify.com/album/3uDzg42dI0fxJUojkmN1aY) | 6:23 | 2022-11-25 |  |
 | [Claptrap](https://open.spotify.com/track/1wxgrpzFQPePRLW4YKYvJN) | [Crossbow](https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV) | [Claptrap](https://open.spotify.com/album/1w2LMklzYKEjJYT5yCqvyc) | 4:36 | 2023-03-09 |  |
 | [Clarity](https://open.spotify.com/track/0YTa8TqgoTRjPznEJYNDDW) | [A.S.H](https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC) | [Obsession](https://open.spotify.com/album/5fzpNfrjHhr7z3fk3jEnYn) | 7:15 | 2022-02-03 |  |
+| [Concentrate](https://open.spotify.com/track/2BPrwqxSpvENgsehOYgFJB) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Badlands](https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD) | 3:49 | 2023-03-31 |  |
 | [Connect](https://open.spotify.com/track/1XsCduhjiJEwFlkNxnTI6S) | [Alessandro Grops](https://open.spotify.com/artist/07Glpj38nleLSAo3mJmcQH) | [Connect EP](https://open.spotify.com/album/1HC64k8KzGmEg5bgfSo283) | 5:35 | 2022-05-17 |  |
 | [Constellation](https://open.spotify.com/track/0KxenwZHOqXRQYV9GSaLxY) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Matteo Vitanza](https://open.spotify.com/artist/5NjFXNobjTKu8ZV2lFiXRa) | [Respekt Rebels, Vol\. 4](https://open.spotify.com/album/65AIbwBS7j6HSf6uD47Hda) | 3:27 | 2022-12-28 |  |
 | [Continuation \- Original Mix](https://open.spotify.com/track/5ORXNsjI3Df5ZpYaP9J88P) | [Novem Vivit](https://open.spotify.com/artist/3IhPvqOFbFQinyxhQsJ2D0) | [Continuation](https://open.spotify.com/album/4IbLPigtMzBits7Uuez5L9) | 4:51 | 2022-02-03 |  |

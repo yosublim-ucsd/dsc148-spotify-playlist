@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Metalcore at its finest. Cover: Invent Animate",
+  "description": "Metalcore at its finest. Cover: Attack Attack!",
   "name": "The Core",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 169000,
       "name": "10:35",
       "url": "https://open.spotify.com/track/0F0lT8EmvnKUYZ1YLR6ops"
@@ -1202,6 +1202,24 @@
       "duration_ms": 215880,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0yniOmVAE9jUGz6Vn8QvCO"
+    },
+    {
+      "album": {
+        "name": "The Seventh Sun",
+        "url": "https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215039,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6uCkCdWgzS2joEVTGnGSz9"
     },
     {
       "album": {
@@ -2662,10 +2680,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 222571,
       "name": "Dark Waves",
       "url": "https://open.spotify.com/track/3SDcDLF3wwQwnI3Wst38aY"
+    },
+    {
+      "album": {
+        "name": "Dark Waves",
+        "url": "https://open.spotify.com/album/0BZeEi4o7PFTP1s6HHK2ud"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222571,
+      "name": "Dark Waves",
+      "url": "https://open.spotify.com/track/3yRHVvzkDd8g6GkQzCycYj"
     },
     {
       "album": {
@@ -3324,7 +3360,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 200495,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
@@ -4973,6 +5009,42 @@
     },
     {
       "album": {
+        "name": "Granite",
+        "url": "https://open.spotify.com/album/35zx0t2picyGskSU3QceVr"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "Granite",
+      "url": "https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2"
+    },
+    {
+      "album": {
+        "name": "Graphic",
+        "url": "https://open.spotify.com/album/0pmmOjKGXNDfsAo1H9hyCv"
+      },
+      "artists": [
+        {
+          "name": "Earth Caller",
+          "url": "https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233100,
+      "name": "Graphic",
+      "url": "https://open.spotify.com/track/3gZz9dqftXeYS7vLbolcG2"
+    },
+    {
+      "album": {
         "name": "Empires Fall",
         "url": "https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb"
       },
@@ -5306,7 +5378,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 212878,
       "name": "Heretic (feat. Loz Taylor)",
       "url": "https://open.spotify.com/track/2mTi7e03FygOF0bds32848"
@@ -5364,7 +5436,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 205276,
       "name": "Hip To Be Scared",
       "url": "https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG"
@@ -5566,7 +5638,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 216579,
       "name": "I See Dead People",
       "url": "https://open.spotify.com/track/3UgZA53hNSPbwtNJ7x8Bd9"
@@ -5960,6 +6032,24 @@
       "duration_ms": 221419,
       "name": "Isolated",
       "url": "https://open.spotify.com/track/5ol2lC3LsGr2ynRo0ptaFE"
+    },
+    {
+      "album": {
+        "name": "It's Hell Down Here",
+        "url": "https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240082,
+      "name": "It's Hell Down Here",
+      "url": "https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH"
     },
     {
       "album": {
@@ -7496,6 +7586,24 @@
       "duration_ms": 209620,
       "name": "No Dignity",
       "url": "https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO"
+    },
+    {
+      "album": {
+        "name": "No Evil",
+        "url": "https://open.spotify.com/album/5CA2LhicOyfJdDq5vosOpD"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150445,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/1zO6NIKsqvH5p578KXr97T"
     },
     {
       "album": {
@@ -9485,6 +9593,24 @@
     },
     {
       "album": {
+        "name": "Silver Bullet",
+        "url": "https://open.spotify.com/album/1syKhS52gQ9bxzdZlN9IOC"
+      },
+      "artists": [
+        {
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193618,
+      "name": "Silver Bullet",
+      "url": "https://open.spotify.com/track/0wqeXCzidJo3h8jG01OMoT"
+    },
+    {
+      "album": {
         "name": "Hell Is Where The Heart Is, Pt. I: Love",
         "url": "https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7"
       },
@@ -10144,7 +10270,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 171486,
       "name": "Survive",
       "url": "https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x"
@@ -10901,6 +11027,28 @@
     },
     {
       "album": {
+        "name": "The Shape of Water",
+        "url": "https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        },
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "The Shape of Water",
+      "url": "https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5"
+    },
+    {
+      "album": {
         "name": "The Snow",
         "url": "https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo"
       },
@@ -10948,7 +11096,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"

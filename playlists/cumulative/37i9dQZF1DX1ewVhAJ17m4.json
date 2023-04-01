@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: Meet Me @ The Altar ",
+  "description": "All the best new songs from the pop punk scene. Cover: Hot Milk",
   "name": "Pop Punk's Not Dead",
   "tracks": [
+    {
+      "album": {
+        "name": "(Full Free) Radical",
+        "url": "https://open.spotify.com/album/6EUJcyqHfR7gmS5ZtuKtE6"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235574,
+      "name": "(Full Free) Radical",
+      "url": "https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re"
+    },
     {
       "album": {
         "name": "(NOT A) LOVE SONG",
@@ -74,7 +92,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 191145,
       "name": "2009",
       "url": "https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4"
@@ -110,7 +128,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 177209,
       "name": "3 Days Sober",
       "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
@@ -498,7 +516,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 177755,
       "name": "Bowser's Castle",
       "url": "https://open.spotify.com/track/7KGCp5rReukE5rsPhoF8wJ"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 162166,
       "name": "Deadbeat",
       "url": "https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy"
@@ -980,7 +998,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 148500,
       "name": "Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 159157,
       "name": "Every Guy Ever",
       "url": "https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc"
@@ -2175,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "HORROR SHOW",
+        "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195646,
+      "name": "HORROR SHOW",
+      "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
+    },
+    {
+      "album": {
         "name": "Hot Boys",
         "url": "https://open.spotify.com/album/5dNjDAcHssb25WBjvo0ks2"
       },
@@ -2912,7 +2948,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
@@ -3133,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "NO SLEEP",
+        "url": "https://open.spotify.com/album/5wE0ZI8nXIDqrkBu9hTDaE"
+      },
+      "artists": [
+        {
+          "name": "Boy Destroy",
+          "url": "https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176749,
+      "name": "NO SLEEP",
+      "url": "https://open.spotify.com/track/4cb4AJPCtXRswCG4wzT5kU"
+    },
+    {
+      "album": {
         "name": "Nowhere, Ohio",
         "url": "https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE"
       },
@@ -3216,7 +3270,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 176247,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/28RPEcjNNGKRdbTygQ7WoH"
@@ -3506,6 +3560,24 @@
       "duration_ms": 149194,
       "name": "REAL SUPER DARK",
       "url": "https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3"
+    },
+    {
+      "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII"
+      },
+      "artists": [
+        {
+          "name": "LOU",
+          "url": "https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175234,
+      "name": "RECKLESS",
+      "url": "https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst"
     },
     {
       "album": {
@@ -3908,7 +3980,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 188387,
       "name": "SiCK ABOuT U",
       "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
@@ -3930,7 +4002,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 124191,
       "name": "SIDEWAYS (with Travis Barker)",
       "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
@@ -4196,6 +4268,24 @@
       "duration_ms": 147259,
       "name": "St. Girlfriend",
       "url": "https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT"
+    },
+    {
+      "album": {
+        "name": "Stop Living & Don't Dream",
+        "url": "https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
     },
     {
       "album": {
@@ -4527,6 +4617,28 @@
     },
     {
       "album": {
+        "name": "flare guns in the living room",
+        "url": "https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1"
+      },
+      "artists": [
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        },
+        {
+          "name": "Headstrong",
+          "url": "https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180970,
+      "name": "theme song",
+      "url": "https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB"
+    },
+    {
+      "album": {
         "name": "theonlytimehefeelsfine",
         "url": "https://open.spotify.com/album/7ieUL8QlkwJnqpnPqLF9G0"
       },
@@ -4722,7 +4834,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 149713,
       "name": "UNCOMPLICATED",
       "url": "https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK"
@@ -4902,7 +5014,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 141908,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/1rCQdw3dnvVexJwu1c7EAL"

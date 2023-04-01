@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,153 likes - 381 songs - 23 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,350 likes - 381 songs - 23 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

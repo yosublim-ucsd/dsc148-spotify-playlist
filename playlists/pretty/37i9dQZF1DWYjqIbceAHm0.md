@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,778 likes - 41 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,895 likes - 41 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RE\-ZERO](https://open.spotify.com/track/1Axfp66kiGBYjU6iWthx7m) | [DIGNITY](https://open.spotify.com/artist/4JXwnODs4LpQQoZjmJaeNV) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:19 |
 | 2 | [CIRCUIT](https://open.spotify.com/track/2WvsWMrKzoqSJuWIwu6tZB) | [TEAM 2:00](https://open.spotify.com/artist/3BuAOZOiI0qWb5YfG62nxi) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:21 |
-| 3 | [HOLA!](https://open.spotify.com/track/29trjL95k1YM8DfxztI3Ru) | [BXB](https://open.spotify.com/artist/1RPKtMe9eJUQ5maINBW1bP) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:09 |
+| 3 | [HOLA!](https://open.spotify.com/track/29trjL95k1YM8DfxztI3Ru) | [BXB](https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:09 |
 | 4 | [TEXT ME \(1052\)](https://open.spotify.com/track/0cJksW6QDYGKaVQ9x7i6uU) | [ATBO](https://open.spotify.com/artist/5PvZwNStF8cgnUmsEMG1h6) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:38 |
 | 5 | [Doesn’t Matter](https://open.spotify.com/track/3rgzMSf3aouR4lZSoJql5w) | [TEAM 7:00](https://open.spotify.com/artist/2UFo4oEsxKVnhEGgVon9hS) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:17 |
 | 6 | [Coco Colada](https://open.spotify.com/track/2m7mHlWmijH6FBfkhlwcxA) | [TEAM 8:00](https://open.spotify.com/artist/18dzwxwxMH7ZUrW6ILGFRc) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:31 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 | 11 | [Nothin' without you](https://open.spotify.com/track/2zCBydeXslxRDueRELNtTI) | [TEAM 15:00](https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:08 |
 | 12 | [Thunder\(Urr\)](https://open.spotify.com/track/5Cy07EPonlsFFQ4HCbBkQE) | [BDC](https://open.spotify.com/artist/1hYcOxPUD0VmX734aHe0HQ) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:23 |
 | 13 | [Like We’ve Never Been](https://open.spotify.com/track/6sGSemAYoAkSimoC3hETv6) | [TEAM 20:00](https://open.spotify.com/artist/27N5dZt4aw2s3RDCaV5XWf) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:20 |
-| 14 | [STEP BY STEP](https://open.spotify.com/track/0Gfdo6899913Re01dh7lFU) | [24K](https://open.spotify.com/artist/7i5RQ3ndYWLxraEYFl3Alg) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:33 |
+| 14 | [STEP BY STEP](https://open.spotify.com/track/0Gfdo6899913Re01dh7lFU) | [24K](https://open.spotify.com/artist/5r6waWb7zJbYnwwdy08EPO) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:33 |
 | 15 | [Chamomile](https://open.spotify.com/track/6DnltfCFJE2yzuj3LoMIno) | [TEAM 23:00](https://open.spotify.com/artist/3MkfOOCUo4pqJzdZv6YzrN) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:16 |
 | 16 | [Be Mine](https://open.spotify.com/track/4SUoJARMnoLM8raLDxL52X) | [TEAM 24:00](https://open.spotify.com/artist/5L7N8Gswa6XUVHLPJ2M7a0) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:42 |
 | 17 | [Time of Our Life](https://open.spotify.com/track/4lPq0t2yWlIpRuURifAdJi) | [Vocal A Unit](https://open.spotify.com/artist/3Dom1R1u7Jbn8VSuiFDjx6) | [PEAK TIME \- 2Round <Union match>Pt.2](https://open.spotify.com/album/3uTbsS82hqYxpmf0dAWTLY) | 2:49 |

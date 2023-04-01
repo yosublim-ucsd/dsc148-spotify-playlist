@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,639 likes - 522 songs - 19 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,722 likes - 522 songs - 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 108 | [Calm](https://open.spotify.com/track/7b8typZKTFHbGA1jivtORb) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [Calm](https://open.spotify.com/album/4PdgJJokVcXVGf8xahnZy8) | 1:58 |
 | 109 | [This Wave](https://open.spotify.com/track/3v5clD1XubNmt9cS21fEsV) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Too Close](https://open.spotify.com/album/6cSJgnK1IAxMk2tS0c5ouz) | 1:24 |
 | 110 | [Stussy](https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Stussy](https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx) | 2:46 |
-| 111 | [Fall Leaves](https://open.spotify.com/track/70zApwjfafyTs2FSf7DWOV) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Fall Leaves](https://open.spotify.com/album/12Zad9rjMt8E3kIZbYkcTa) | 2:34 |
+| 111 | [Fall Leaves](https://open.spotify.com/track/70zApwjfafyTs2FSf7DWOV) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Fall Leaves](https://open.spotify.com/album/12Zad9rjMt8E3kIZbYkcTa) | 2:34 |
 | 112 | [Flowers](https://open.spotify.com/track/6SYl55XQDXAllbN8ZWIFXQ) | [Alf Bringström](https://open.spotify.com/artist/5pJjeqNUp7OHlqH3ocOO0K) | [Flowers](https://open.spotify.com/album/36H3hDtR0cR6F46zrJIWZ8) | 2:13 |
 | 113 | [Reflecting Light](https://open.spotify.com/track/1HHyhFkYrokYeNR16GiGx9) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Reflecting Light](https://open.spotify.com/album/6GHH0NWPTGcNAvUiR6kTPh) | 2:41 |
 | 114 | [An Evening In March](https://open.spotify.com/track/0N1ICKD9OJEoMOeTGBDnNy) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Hendy](https://open.spotify.com/artist/6McvQxkxDcQzLzRdDDhbMd), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [An Evening in March](https://open.spotify.com/album/3wrDjzDWqnEon5qyXHDeR1) | 2:07 |

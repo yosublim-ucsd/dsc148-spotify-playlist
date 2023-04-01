@@ -27025,6 +27025,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/7hoHKCNSvSxzEIiUVJ06Yr"
+      },
+      "artists": [
+        {
+          "name": "Zagi",
+          "url": "https://open.spotify.com/artist/4XzbOlXXYGRHZdTXqJuHCD"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249024,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/2LSvSkqLnxU4hSCg27wnPc"
+    },
+    {
+      "album": {
         "name": "Take Me Back Home",
         "url": "https://open.spotify.com/album/4lSxrzXTLxUokzz7vI1Rg8"
       },

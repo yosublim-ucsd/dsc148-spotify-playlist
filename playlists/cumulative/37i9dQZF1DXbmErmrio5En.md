@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: Riovaz
 
-137 songs - 6 hr 5 min
+138 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [ihatefeelingthisway](https://open.spotify.com/track/3IP5kKSUkqZcOLraMddHJy) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [ihatefeelingthisway](https://open.spotify.com/album/72me9cMEdcQxa0uwvEijen) | 3:43 | 2022-12-09 |  |
 | [immerensis](https://open.spotify.com/track/5BeS3D2ewRYPcFS0Tz3UcC) | [abbot](https://open.spotify.com/artist/0Ro9LZA0sRl1FG66KgsA1u) | [immerensis](https://open.spotify.com/album/6nPSa56mb9lDNk2Ppv6Hq8) | 2:41 | 2023-01-26 | 2023-02-18 |
 | [Internet Girl](https://open.spotify.com/track/3Qo8zqhdyVxacgVJGIQF4u) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Internet Girl](https://open.spotify.com/album/6a48qrtBppd0YVIZpEntaH) | 2:19 | 2022-12-04 |  |
+| [It's Goin Bad](https://open.spotify.com/track/1weAJG8eNS4Bbk0vYn7vV4) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [It's Goin Bad / Lacerate](https://open.spotify.com/album/5kxj9JXn7XW5b4B82e5MUw) | 2:50 | 2023-03-31 |  |
 | [jealousy](https://open.spotify.com/track/1moK2L5Y2bftYzpGrcOU5X) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [jealousy](https://open.spotify.com/album/4RUrlqnlDk7HAQlruVR7SO) | 2:48 | 2022-12-09 | 2023-03-04 |
 | [just like before \- sped up](https://open.spotify.com/track/3w8rxEsj85AOAjt4TUUXmW) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [just like before \- sped up / slowed](https://open.spotify.com/album/1bs3OVHVL7WsEB6fS8uoWv) | 3:35 | 2023-01-27 |  |
 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 | 2022-12-09 | 2023-01-14 |

@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: Catie Turner",
-  "num_followers": 202922,
+  "num_followers": 202926,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAzNDQ1MSwwMDAwMDAwMDYwN2M3YjMxNzE2ZGMyNzMyZTgyNGU3ZDRjNWZlMDlm",
+  "snapshot_id": "MTY4MDIzNTE4NiwwMDAwMDAwMDIxYzBlMjBlZGMxOTM4ZjA3ODA0ODRjYzQ2YmQ0YTdl",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 195221,
       "name": "Hyperfixations",
       "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
+    },
+    {
+      "added_at": "2023-03-31 03:59:46",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0a7Qd2a1DiTqRJIdJgtcSC"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 167029,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6YYvWyhAqooh8RqNeGsOlq"
+    },
+    {
+      "added_at": "2023-03-31 03:59:46",
+      "album": {
+        "name": "I Wanna Live Forever",
+        "url": "https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 206904,
+      "name": "I Wanna Live Forever",
+      "url": "https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -73,6 +105,22 @@
       "url": "https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT"
     },
     {
+      "added_at": "2023-03-31 03:59:46",
+      "album": {
+        "name": "i loved a boy",
+        "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 145128,
+      "name": "i loved a boy",
+      "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Fictional Illustrations",
@@ -87,6 +135,22 @@
       "duration_ms": 163738,
       "name": "Infinitely Falling",
       "url": "https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds"
+    },
+    {
+      "added_at": "2023-03-31 03:59:46",
+      "album": {
+        "name": "madwoman EP",
+        "url": "https://open.spotify.com/album/0kzWo1WLOms89dJaNSCdIw"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 169501,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/2oBS99VNVMUPFp1m4S7Omn"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -119,6 +183,22 @@
       "duration_ms": 192106,
       "name": "Buzzkill Baby",
       "url": "https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA"
+    },
+    {
+      "added_at": "2023-03-31 03:59:46",
+      "album": {
+        "name": "IN THE CLOUDS",
+        "url": "https://open.spotify.com/album/5y0xWK2xRC7rAfm6VAejnA"
+      },
+      "artists": [
+        {
+          "name": "DMAD",
+          "url": "https://open.spotify.com/artist/4pjMa1uBw63lY4eoVqrfyX"
+        }
+      ],
+      "duration_ms": 168018,
+      "name": "IN THE CLOUDS",
+      "url": "https://open.spotify.com/track/3A1r88bLPBHsWW4JCdFyHl"
     },
     {
       "added_at": "2023-03-24 04:00:00",

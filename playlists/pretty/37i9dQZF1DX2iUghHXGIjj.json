@@ -1,13 +1,29 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
-  "num_followers": 669148,
+  "num_followers": 669146,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDk1ZjhkZWU5ZWUwNGFmM2VmMjJiZDUyY2QyNzc3OTI4",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDljNTQ3MDNkYzY2YWZjMjQxZDg4MzBmMDE4NDFmNTQx",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "75-71",
+        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "75-71",
+      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
+    },
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
@@ -719,22 +735,6 @@
       "duration_ms": 147506,
       "name": "Life by the Drop",
       "url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
     },
     {
       "added_at": "2020-08-11 16:18:31",

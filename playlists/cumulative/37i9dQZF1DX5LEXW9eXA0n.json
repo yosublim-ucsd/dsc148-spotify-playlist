@@ -7705,6 +7705,24 @@
     },
     {
       "album": {
+        "name": "Lost mind (Made in 4MEN)",
+        "url": "https://open.spotify.com/album/1pTC8VGMlc8vQ181lKJJwL"
+      },
+      "artists": [
+        {
+          "name": "4MEN",
+          "url": "https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "Lost mind",
+      "url": "https://open.spotify.com/track/4qp9FmYIcnvJQKuYM1DyF8"
+    },
+    {
+      "album": {
         "name": "Love Alone (CURTAIN CALL OST Part.6)",
         "url": "https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4"
       },
@@ -8260,6 +8278,24 @@
       "duration_ms": 234066,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
+    },
+    {
+      "album": {
+        "name": "The Secret Romantic Guesthouse Part.2",
+        "url": "https://open.spotify.com/album/5PGBoR7sj4R54UrYLO4G9b"
+      },
+      "artists": [
+        {
+          "name": "Jin Minho",
+          "url": "https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/72JXhN9CABeVLNrt8VJm0l"
     },
     {
       "album": {

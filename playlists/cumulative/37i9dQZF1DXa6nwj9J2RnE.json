@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Bee Suits",
+        "url": "https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ"
+      },
+      "artists": [
+        {
+          "name": "LIJO",
+          "url": "https://open.spotify.com/artist/4fELglS1jHSC3lUA5A2SHC"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231589,
+      "name": "Bee Suits",
+      "url": "https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB"
+    },
+    {
+      "album": {
         "name": "Binary",
         "url": "https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK"
       },
@@ -368,7 +386,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 184250,
       "name": "For Good",
       "url": "https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy"
@@ -706,10 +724,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 127058,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/2k72CgD12K29xCHQrA9ToC"
+    },
+    {
+      "album": {
+        "name": "MEISJE IN WIT",
+        "url": "https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142008,
+      "name": "MEISJE IN WIT",
+      "url": "https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0"
     },
     {
       "album": {
@@ -742,7 +778,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 167434,
       "name": "Onbezonnen",
       "url": "https://open.spotify.com/track/4dxWDDEkFq9VqsAcIM0IpT"
@@ -890,7 +926,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 190328,
       "name": "Simpele Ziel",
       "url": "https://open.spotify.com/track/3cYnOvrNiOWyK9Iyx6VtxT"
@@ -1002,7 +1038,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 199874,
       "name": "Staying",
       "url": "https://open.spotify.com/track/4CKdLLyc4cu5oKFuflIX6b"
@@ -1096,7 +1132,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 247697,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/6qz0vy1Vmlk0CkcIZVfDe6"
@@ -1338,7 +1374,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 165500,
       "name": "Zondagskind",
       "url": "https://open.spotify.com/track/5hWgdvdXXvq6l9ezrFeI8F"

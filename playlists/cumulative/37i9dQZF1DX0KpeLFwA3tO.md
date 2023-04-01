@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Connie Constance ft\. Jason Williamson
 
-950 songs - 1 day 23 hr 53 min
+951 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [I don't want to die alone](https://open.spotify.com/track/0lzAKbMrjLuTCivfmQTOL6) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:55 | 2022-05-05 | 2022-06-18 |
 | [I Dont Wanna Wake Up](https://open.spotify.com/track/14CmnPIbM7Ujvtth1xZCzv) | [Vin Jay](https://open.spotify.com/artist/2DQkr7ZMTqNrlz5HcXZeI7) | [I Dont Wanna Wake Up](https://open.spotify.com/album/0dt8bm2IVdicHi5aqs6guG) | 2:29 | 2022-07-07 | 2022-08-19 |
 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 | 2022-07-14 | 2022-08-26 |
+| [i h8 skewl](https://open.spotify.com/track/0o7jsFaNfMBrqSrlyY2bVz) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i h8 skewl](https://open.spotify.com/album/3StXuwTWExhBOuChvk5Cb1) | 2:04 | 2023-03-30 |  |
 | [I HATE ME TOO](https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:57 | 2022-02-04 | 2022-04-01 |
 | [I just wanna be silent](https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [I Just Wanna Be Silent](https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ) | 2:40 | 2021-12-17 | 2022-02-25 |
 | [I Just Want That Movie Ending](https://open.spotify.com/track/26wbsjbBrWrEDGWsuMNXGk) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [I Just Want That Movie Ending](https://open.spotify.com/album/1hLNThy6I1yvXw0bCBsTwm) | 4:30 | 2022-03-18 | 2022-04-22 |

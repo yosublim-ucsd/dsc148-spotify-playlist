@@ -1,13 +1,33 @@
 {
   "description": "Just chill.",
-  "num_followers": 2419996,
+  "num_followers": 2420359,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ0MTI3NywwMDAwMDAwMGEyZGUzM2NhYWQwOTk4NTZmZjBlYzcxODlmYWU5NzVm",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDk0OTk2NGI5MGM0ZTgzM2E2N2ZhMDZiNGQ5Yjk5MzA5",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Stockholmsvy",
+        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 161396,
+      "name": "Stockholmsvy",
+      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+    },
     {
       "added_at": "2023-03-09 17:25:47",
       "album": {
@@ -301,28 +321,20 @@
       "url": "https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK"
     },
     {
-      "added_at": "2022-12-23 19:37:42",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
+        "name": "Supermoon",
+        "url": "https://open.spotify.com/album/2Op7mnPBZOqeObaeuZJcZ0"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
         }
       ],
-      "duration_ms": 187788,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
+      "duration_ms": 252106,
+      "name": "Supermoon",
+      "url": "https://open.spotify.com/track/0JfYy60f4RN77F04fReXmW"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -405,6 +417,30 @@
       "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
     },
     {
+      "added_at": "2022-12-23 19:37:42",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "duration_ms": 187788,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
+    },
+    {
       "added_at": "2023-03-17 18:54:51",
       "album": {
         "name": "Selene",
@@ -419,6 +455,22 @@
       "duration_ms": 294640,
       "name": "Selene",
       "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2523,54 +2575,6 @@
       "duration_ms": 282177,
       "name": "Love and Hate in a Different Time - Original",
       "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Queen of Paisley",
-        "url": "https://open.spotify.com/album/68YvD3abQk3tHk3blTVnRF"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 244673,
-      "name": "Queen of Paisley",
-      "url": "https://open.spotify.com/track/2YwDDVHflNhUKgu70WR7OH"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Drugstore Heaven",
-        "url": "https://open.spotify.com/album/22LWHEt5nZlH8ZTo0YywgC"
-      },
-      "artists": [
-        {
-          "name": "Houses",
-          "url": "https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "No Trouble",
-      "url": "https://open.spotify.com/track/2cd4QBg7XpGuSxq0yVHK2j"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Sun is going down",
-        "url": "https://open.spotify.com/album/5ybhHe6n1NG337HnTFeBvj"
-      },
-      "artists": [
-        {
-          "name": "HIMI",
-          "url": "https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy"
-        }
-      ],
-      "duration_ms": 406566,
-      "name": "Sun is going down",
-      "url": "https://open.spotify.com/track/3DN0yq0VaZgiANOyTrWnUP"
     },
     {
       "added_at": "2022-08-19 04:00:00",

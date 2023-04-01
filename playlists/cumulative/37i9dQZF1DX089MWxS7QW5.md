@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Padi\)
 
-182 songs - 10 hr 23 min
+183 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Re: 14 \(feat\. Minjeong\)](https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [New Edition 49](https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP) | 3:30 | 2023-03-27 |  |
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 | 2022-11-15 |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-05-28 | 2022-08-03 |
+| [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 |  |
 | [Rust \(feat\. Rico\)](https://open.spotify.com/track/2jYtKXsb2RblcLMhUMD3Fx) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [Rico](https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk) | [Rust \(feat\. Rico\)](https://open.spotify.com/album/6IifE3wcI8uxFaOrU21Hvr) | 4:21 | 2022-09-05 | 2023-01-21 |
 | [Saturn](https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Saturn](https://open.spotify.com/album/6xt9QesnTMEOm78vIXCTPA) | 3:05 | 2023-02-23 |  |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 |  |

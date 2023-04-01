@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-182 songs - 11 hr 46 min
+183 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Good God Almighty](https://open.spotify.com/track/2QAJK11pRGn8CvTmogpkxo) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Good God Almighty](https://open.spotify.com/album/7t1A9fY1f3YmcvTCfAlmxt) | 3:11 | 2022-02-17 | 2022-08-27 |
 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 | 2022-04-18 |  |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2022-02-17 | 2022-08-27 |
+| [Grace To Grace \(Staring Out Into The Old City\) \- Live](https://open.spotify.com/track/7FqbZmbhvGeKu0E0V5cumF) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Of Dirt And Grace: Live From The Land \(Expanded Edition\)](https://open.spotify.com/album/1GUEempDMheicK14bjCtv0) | 6:05 | 2023-03-31 |  |
 | [Hallelujah Anyway](https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Whosoever](https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ) | 3:45 | 2022-08-26 |  |
 | [He Believes In You](https://open.spotify.com/track/4aSEMyeOX4bORHIRToPcy0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [He Believes In You](https://open.spotify.com/album/4WndsUGUWi2hLMYH7xVbSD) | 4:01 | 2022-02-17 | 2022-07-02 |
 | [He Is With You](https://open.spotify.com/track/1lqBf8ukugE5e8vOQrw4pi) | [Adam Agee](https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl) | [He Is With You](https://open.spotify.com/album/20OH5FnNwSfVmBd7EC12xI) | 3:18 | 2022-08-12 |  |

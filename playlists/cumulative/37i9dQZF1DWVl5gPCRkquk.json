@@ -2609,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Middle of the Morning",
+        "url": "https://open.spotify.com/album/72GOjmgEWNgOTQ59TpIAYb"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280978,
+      "name": "Middle of the Morning",
+      "url": "https://open.spotify.com/track/0DYIKbIhf2XwWchqSqTc5D"
+    },
+    {
+      "album": {
         "name": "Million Dollar Secret",
         "url": "https://open.spotify.com/album/1kpe6fMGGgpMZGtAU9yLuQ"
       },
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 242400,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7xD1cDSRz033zGBBTW6z2q"

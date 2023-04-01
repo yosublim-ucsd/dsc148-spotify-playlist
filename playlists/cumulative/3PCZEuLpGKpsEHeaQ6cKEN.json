@@ -353,6 +353,28 @@
     },
     {
       "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/7BKtdirerHSNQOF2T6fkcy"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "Rob Mayth",
+          "url": "https://open.spotify.com/artist/618ZpOIfe3ELAa36M3GMz7"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152364,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/1KD25zo2re5wKcMjyMMrJW"
+    },
+    {
+      "album": {
         "name": "Another Way",
         "url": "https://open.spotify.com/album/4gOynyODgKfJNihfqFpdUv"
       },
@@ -3388,7 +3410,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 145365,
       "name": "Growing In The Shadows",
       "url": "https://open.spotify.com/track/0cHBlkdti2EgOKac5FbSIV"

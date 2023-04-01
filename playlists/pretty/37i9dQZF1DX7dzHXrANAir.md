@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,609 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,698 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [On Being \[Foam and Sand Rework\]](https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [On Being \[Foam and Sand Rework\]](https://open.spotify.com/album/4XJwtAr2AISvX4GZByc0pG) | 4:14 |
 | 80 | [Remembering](https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE) | [Thom Robson](https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk) | [Walking With Ghosts](https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a) | 3:54 |
 
-Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMGI1ZGZmODQxZDI0Y2ZiYTdiODMzMWNmYWJjYzVmOWYx`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGRiOGFlNzNiNTdkN2FhMGIwM2ExYjJkZDkyYTM3MWQ4`

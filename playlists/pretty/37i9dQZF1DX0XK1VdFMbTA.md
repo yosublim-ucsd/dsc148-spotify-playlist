@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,082 likes - 500 songs - 1 day 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,226 likes - 500 songs - 1 day 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

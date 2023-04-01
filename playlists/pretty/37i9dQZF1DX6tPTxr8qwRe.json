@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: laye",
-  "num_followers": 335835,
+  "description": "Dark, hard hitting pop. Cover: salem ilese",
+  "num_followers": 336068,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGI1NzllMGE1ZDBlNjkxZTkwZDcyNTRmMDdjMGJiYjU5",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDgwZjE0ZDBkYzVhM2IzNjg1NmQ1NjZmMTJkZGFkNjdi",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "PainHub",
+        "url": "https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 136545,
+      "name": "PainHub",
+      "url": "https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3"
+    },
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 168365,
       "name": "blue",
       "url": "https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 247875,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -41,52 +73,20 @@
       "url": "https://open.spotify.com/track/5hvxB7vZ8p6YDLlt7iC7o8"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
       "artists": [
         {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 132793,
-      "name": "Dolls",
-      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "brokenboys&bitterbitches",
-        "url": "https://open.spotify.com/album/0Db14UCdRoie6qmMA5nPwv"
-      },
-      "artists": [
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 166309,
-      "name": "brokenboys&bitterbitches",
-      "url": "https://open.spotify.com/track/7wX1A5JaAhBZyTSdfARBSE"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "DEATH",
-        "url": "https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 306655,
-      "name": "DEATH",
-      "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -103,6 +103,134 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Drama King",
+        "url": "https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "duration_ms": 157350,
+      "name": "Drama King",
+      "url": "https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Tell On U",
+        "url": "https://open.spotify.com/album/7EhQ6wX3mvSJrCVqIrq8gZ"
+      },
+      "artists": [
+        {
+          "name": "Zoe Clark",
+          "url": "https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "Tell On U",
+      "url": "https://open.spotify.com/track/39xEQ4GBaQFyj8xbNLJdSo"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 132793,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/02C4IPMfqef1jih3U6xrKx"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "duration_ms": 158197,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/7kci5BIV3lQntWLztgsPdf"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "RUDE",
+        "url": "https://open.spotify.com/album/05iSGiCNkYxLUThUK2C4Ob"
+      },
+      "artists": [
+        {
+          "name": "Ella Isaacson",
+          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
+        }
+      ],
+      "duration_ms": 144923,
+      "name": "RUDE",
+      "url": "https://open.spotify.com/track/2PXHdc5d8Uuckc2e9hhBEV"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Crazier Best Friend",
+        "url": "https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "duration_ms": 171214,
+      "name": "Crazier Best Friend",
+      "url": "https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "brokenboys&bitterbitches",
+        "url": "https://open.spotify.com/album/0Db14UCdRoie6qmMA5nPwv"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 166309,
+      "name": "brokenboys&bitterbitches",
+      "url": "https://open.spotify.com/track/7wX1A5JaAhBZyTSdfARBSE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -141,6 +269,38 @@
       "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"
     },
     {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "GOOD ENEMY",
+        "url": "https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 130613,
+      "name": "GOOD ENEMY",
+      "url": "https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Green Honda",
+        "url": "https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 166981,
+      "name": "Green Honda",
+      "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Scatterbrain",
@@ -155,22 +315,6 @@
       "duration_ms": 129938,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Crazier Best Friend",
-        "url": "https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j"
-      },
-      "artists": [
-        {
-          "name": "Andi",
-          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
-        }
-      ],
-      "duration_ms": 171214,
-      "name": "Crazier Best Friend",
-      "url": "https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -203,6 +347,22 @@
       "duration_ms": 194400,
       "name": "HAPPY EVER AFTER",
       "url": "https://open.spotify.com/track/2tKw9pdaR2paQyfDYLGrWo"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -275,38 +435,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "RUDE",
-        "url": "https://open.spotify.com/album/05iSGiCNkYxLUThUK2C4Ob"
-      },
-      "artists": [
-        {
-          "name": "Ella Isaacson",
-          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
-        }
-      ],
-      "duration_ms": 144923,
-      "name": "RUDE",
-      "url": "https://open.spotify.com/track/2PXHdc5d8Uuckc2e9hhBEV"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Green Honda",
-        "url": "https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166981,
-      "name": "Green Honda",
-      "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
       },
@@ -319,22 +447,6 @@
       "duration_ms": 143233,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -403,22 +515,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Not My Problem",
         "url": "https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2"
       },
@@ -467,22 +563,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "GODDESS",
-        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Lego Blocks",
         "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
       },
@@ -515,6 +595,22 @@
       "duration_ms": 215760,
       "name": "PREGAME (with 7evin7ins)",
       "url": "https://open.spotify.com/track/06rpsdoGOnLqqrkqorpuLc"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -583,18 +679,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "PSYCHO FREAK",
-        "url": "https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ"
+        "name": "GODDESS",
+        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
       },
       "artists": [
         {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 165373,
-      "name": "PSYCHO FREAK",
-      "url": "https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY"
+      "duration_ms": 152133,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -711,22 +807,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "OVER MY HEAD",
-        "url": "https://open.spotify.com/album/5mSyWUOvz1l57XOeDDDYGb"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 138256,
-      "name": "OVER MY HEAD",
-      "url": "https://open.spotify.com/track/6ZTM2VyrkUT5Y8kQHUy9Yf"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "ever fallen?",
         "url": "https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo"
       },
@@ -755,22 +835,6 @@
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Sagittarius",
-        "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Kickflip",
-      "url": "https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -875,58 +939,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/4fXvwuGNst1OzuwVdoK80D"
-      },
-      "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        },
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "Falling from the Sky",
-      "url": "https://open.spotify.com/track/58vqgltwYoOCSPIyqNiBaU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "BROKEN HEARTS",
-        "url": "https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 186317,
-      "name": "BROKEN HEARTS",
-      "url": "https://open.spotify.com/track/4bDVNFNYFVQFOglZIcmuAP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "End of an Era",
-        "url": "https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 133985,
-      "name": "End of an Era",
-      "url": "https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Lose Lose",
         "url": "https://open.spotify.com/album/0j0dNw26VKfudkaXZm2QaT"
       },
@@ -939,22 +951,6 @@
       "duration_ms": 190225,
       "name": "Lose Lose",
       "url": "https://open.spotify.com/track/47AcRzodwvcQlnS6BjNZBQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Alive and Unwell",
-        "url": "https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 121674,
-      "name": "Alive and Unwell",
-      "url": "https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1039,22 +1035,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Life's A Bitch",
-        "url": "https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd"
-      },
-      "artists": [
-        {
-          "name": "TAELA",
-          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
-        }
-      ],
-      "duration_ms": 158346,
-      "name": "Good In Bed",
-      "url": "https://open.spotify.com/track/3nceiixhkjFwEpFITqy3f0"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "i'm yours",
         "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
       },
@@ -1071,58 +1051,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "girl\u2019s girl - Spotify Singles",
-        "url": "https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 197042,
-      "name": "girl\u2019s girl - Spotify Singles",
-      "url": "https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Witch Hunt",
-        "url": "https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z"
-      },
-      "artists": [
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        },
-        {
-          "name": "DEZI",
-          "url": "https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm"
-        }
-      ],
-      "duration_ms": 159821,
-      "name": "Witch Hunt",
-      "url": "https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Sad Ghost",
-        "url": "https://open.spotify.com/album/0BKbLRyigNvoZIBcCw1fcH"
-      },
-      "artists": [
-        {
-          "name": "ari hicks",
-          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
-        }
-      ],
-      "duration_ms": 187590,
-      "name": "Sad Ghost",
-      "url": "https://open.spotify.com/track/45fNZIKK6NYTLq5nNvTTyx"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Take Me To Hell",
         "url": "https://open.spotify.com/album/0T4WcR1wyRD7om6x7scVvY"
       },
@@ -1135,38 +1063,6 @@
       "duration_ms": 132673,
       "name": "Take Me To Hell",
       "url": "https://open.spotify.com/track/2rmTtv5xWuqHiKzM4i0QjQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "STRUT",
-        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 117727,
-      "name": "STRUT",
-      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1219,38 +1115,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Cold Killer",
-        "url": "https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw"
-      },
-      "artists": [
-        {
-          "name": "noelle",
-          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
-        }
-      ],
-      "duration_ms": 159112,
-      "name": "Cold Killer",
-      "url": "https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "(MORE) Unsponsored Content",
-        "url": "https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 129343,
-      "name": "ExBox",
-      "url": "https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "I Really F**ked It Up",
         "url": "https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ"
       },
@@ -1263,38 +1127,6 @@
       "duration_ms": 165746,
       "name": "I Really F**ked It Up",
       "url": "https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "bitches get lonely",
-        "url": "https://open.spotify.com/album/6JilLr2a8ifQBYaOxiedjN"
-      },
-      "artists": [
-        {
-          "name": "Torine",
-          "url": "https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo"
-        }
-      ],
-      "duration_ms": 151818,
-      "name": "bitches get lonely",
-      "url": "https://open.spotify.com/track/5cRaRnMOAogPowDitqkMKL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "HUSH",
-      "url": "https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf"
     },
     {
       "added_at": "2023-03-10 05:00:00",

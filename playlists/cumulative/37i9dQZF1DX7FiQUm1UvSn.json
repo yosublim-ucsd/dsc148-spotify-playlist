@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Blanket On The Ground",
+        "url": "https://open.spotify.com/album/373M8k23TiJ2QvysKoDuAo"
+      },
+      "artists": [
+        {
+          "name": "Los Types",
+          "url": "https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213883,
+      "name": "Blanket On The Ground",
+      "url": "https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl"
+    },
+    {
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 168887,
       "name": "China",
       "url": "https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6"
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-01",
       "duration_ms": 165223,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R"

@@ -4,11 +4,12 @@
 
 > Check your vibe with Epic Records.
 
-163 songs - 8 hr 18 min
+164 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 | 2022-10-21 | 2023-03-04 |
+| [5 Star](https://open.spotify.com/track/63nPz8Y0oPCvGDcmDdLs9Z) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [5 Star](https://open.spotify.com/album/2jBKKyyYCY4OawmOGNJbsq) | 3:10 | 2023-03-31 |  |
 | [50 M's](https://open.spotify.com/track/6ccXIf6EOJsfp2CnHsl72s) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn) | [50 M's](https://open.spotify.com/album/1UHlBdLDa9YeGaAa3rBriO) | 2:29 | 2022-08-05 |  |
 | [9 Lives \(feat\. Polo G & NLE Choppa\)](https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Not Me It's You](https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN) | 3:48 | 2022-09-30 |  |
 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 | 2022-01-14 | 2022-08-06 |
@@ -40,7 +41,7 @@
 | [Cloud](https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Cloud](https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc) | 3:07 | 2022-06-17 | 2022-07-30 |
 | [COUNTING SHEEP \(feat\. 21 Savage\)](https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [THIS IS NOT A DRILL](https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg) | 3:17 | 2022-10-21 |  |
 | [COUNTRY TO THE CITY](https://open.spotify.com/track/1uoymmNEenD0E2jRoW2Zwq) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [COUNTRY TRAP](https://open.spotify.com/album/3IEYwKGZtYATXBhauRa3n8) | 2:20 | 2022-10-21 | 2022-11-19 |
-| [COWBOY GANGSTA \(feat\. Peewee Longway\) \- Remix](https://open.spotify.com/track/4Pte2WRbanQQF0Q2CIrn3Y) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2), [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [COWBOY GANGSTA \(feat\. Peewee Longway\) \[Remix\]](https://open.spotify.com/album/0ejTxEMZoHWeueFA2zub7L) | 3:17 | 2023-02-24 |  |
+| [COWBOY GANGSTA \(feat\. Peewee Longway\) \- Remix](https://open.spotify.com/track/4Pte2WRbanQQF0Q2CIrn3Y) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2), [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [COWBOY GANGSTA \(feat\. Peewee Longway\) \[Remix\]](https://open.spotify.com/album/0ejTxEMZoHWeueFA2zub7L) | 3:17 | 2023-02-24 | 2023-04-01 |
 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 | 2021-10-01 | 2022-11-05 |
 | [Damn \(feat\. G Herbo\)](https://open.spotify.com/track/7Dy1LrsEmooLc39o5bSk7k) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Damn \(feat\. G Herbo\)](https://open.spotify.com/album/6qlLwfmIfkvJjCiEiLiUgI) | 3:37 | 2022-11-18 | 2023-01-07 |
 | [Dangerous](https://open.spotify.com/track/3DpxSpi0jot0XH73uZmlul) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Dangerous](https://open.spotify.com/album/7rH6ZOH1ZnbYqUfXEJW3xP) | 3:47 | 2022-08-26 | 2022-10-15 |

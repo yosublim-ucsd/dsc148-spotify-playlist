@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: King Isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,463 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,465 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 8 | [violet](https://open.spotify.com/track/6wOypcYXXeROfeVQLZ0sVU) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [violet](https://open.spotify.com/album/5FIKnOqH26AfMGiRs570EY) | 2:58 |
 | 9 | [Singing & Songing](https://open.spotify.com/track/3KqGacjfy2PdnXdjSidtIa) | [Hubcaps](https://open.spotify.com/artist/5ynTku6G5so8Dxog1qrOS0) | [Singing & Songing](https://open.spotify.com/album/3ooT05Dv2UJtjwIXzimvy8) | 3:30 |
 | 10 | [Bricks](https://open.spotify.com/track/6dM1vcolkt9ft1HNpCbIyJ) | [Parker Fans](https://open.spotify.com/artist/1vY8fuL3kdwvvfdoMHwvsX) | [Bricks](https://open.spotify.com/album/2rhNRVQaqL1mhwXvC1gunX) | 2:54 |
-| 11 | [Rhododenron](https://open.spotify.com/track/76JE0eDxa04e99qnw7xyR1) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [Rhododendron](https://open.spotify.com/album/6nEEILAs63DqDTFOtZ6A15) | 3:21 |
+| 11 | [Rhododendron](https://open.spotify.com/track/76JE0eDxa04e99qnw7xyR1) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [Rhododendron](https://open.spotify.com/album/6nEEILAs63DqDTFOtZ6A15) | 3:21 |
 | 12 | [We Talked About It](https://open.spotify.com/track/6WP6zG6DdePXtVaVJqR5wl) | [Elijah Wolf](https://open.spotify.com/artist/0BMdnleIiGoRac4KolpTGs) | [We Talked About It](https://open.spotify.com/album/3MzkCAvgL77WNzuTMI5I42) | 3:25 |
 | 13 | [Gentleman](https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk) | [Lonely Pirate Committee](https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2) | [Gentleman](https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X) | 2:42 |
 | 14 | [This Is Gonna Hurt](https://open.spotify.com/track/5gDFQs6TYDevsUq7lDN0Fp) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [This Is Gonna Hurt](https://open.spotify.com/album/1Yq4EvMi1stQzlNAOR2oDB) | 3:31 |

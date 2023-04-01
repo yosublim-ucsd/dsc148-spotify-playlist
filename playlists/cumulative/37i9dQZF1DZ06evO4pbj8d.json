@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Give Me the Truth",
+        "url": "https://open.spotify.com/album/3yOlYe0Rc57s41Te9z1JPY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Balli",
+          "url": "https://open.spotify.com/artist/2QCtK2hdxxcU1BU5Npa8Zu"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243156,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2cid9gPwIOMa4fYTreyLtl"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
