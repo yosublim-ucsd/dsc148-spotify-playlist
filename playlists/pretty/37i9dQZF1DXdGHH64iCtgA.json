@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 60253,
+  "num_followers": 60280,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDQxNDQ3NTFjODU3NDllY2RhZGQwNTVkNDkxZTU4ZTI0",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGNmNmVlMzM5M2Y5ODFmZGQwY2Q3MTRhMzdiNDQ5ZWYw",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "MADELINE",
-        "url": "https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 204791,
-      "name": "MADELINE",
-      "url": "https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 221813,
       "name": "La Rua Madureira",
       "url": "https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "MADELINE",
+        "url": "https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 204791,
+      "name": "MADELINE",
+      "url": "https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Naked City",
-        "url": "https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy"
-      },
-      "artists": [
-        {
-          "name": "Glass Candy",
-          "url": "https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Naked City",
-      "url": "https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Pick Up (Even Shorter Version)",
         "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 228480,
       "name": "Pick Up - Even Shorter Version",
       "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Naked City",
+        "url": "https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy"
+      },
+      "artists": [
+        {
+          "name": "Glass Candy",
+          "url": "https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Naked City",
+      "url": "https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
+        "name": "Family Portrait",
+        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
       },
       "artists": [
         {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
         }
       ],
-      "duration_ms": 149051,
-      "name": "Composure",
-      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
+      "duration_ms": 306118,
+      "name": "Thank God I'm A Lizard",
+      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Family Portrait",
-        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
       },
       "artists": [
         {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
         }
       ],
-      "duration_ms": 306118,
-      "name": "Thank God I'm A Lizard",
-      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
+      "duration_ms": 149051,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Polymer",
         "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 300000,
       "name": "Dancers",
       "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "U Wanna?",
-        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
-      },
-      "artists": [
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Sir JoQ",
-          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
-        }
-      ],
-      "duration_ms": 250009,
-      "name": "U Wanna?",
-      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Play In The Dark",
         "url": "https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 295831,
       "name": "Play In The Dark",
       "url": "https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
+      },
+      "artists": [
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Sir JoQ",
+          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
+        }
+      ],
+      "duration_ms": 250009,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "F*ck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "F*ck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 176372,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Young Lies",
-        "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
-      },
-      "artists": [
-        {
-          "name": "Pot\u00e9",
-          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
-        },
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        }
-      ],
-      "duration_ms": 230839,
-      "name": "Young Lies",
-      "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Like A Good Old Friend",
         "url": "https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8"
       },
@@ -1599,26 +1579,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "U. (Junior Sanchez Remix)",
-        "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
+        "name": "Young Lies",
+        "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
       },
       "artists": [
         {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
         },
         {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
-        {
-          "name": "Junior Sanchez",
-          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
         }
       ],
-      "duration_ms": 164000,
-      "name": "U. - Junior Sanchez Remix",
-      "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
+      "duration_ms": 230839,
+      "name": "Young Lies",
+      "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1647,6 +1623,30 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "U. (Junior Sanchez Remix)",
+        "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "U. - Junior Sanchez Remix",
+      "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
     },
     {
       "added_at": "2023-02-10 05:00:00",

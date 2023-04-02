@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 115048,
+  "num_followers": 115082,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGEyNDc4ZmUzZjlhNzA1YjQzMTAzMjM0NzBmZGFhODU2",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDJiNWUyOGYxMzZkMjg0ZjE3ZDgxOGUwMjM4MGM0OTFl",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -79,26 +79,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "A Alegria do Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
-        }
-      ],
-      "duration_ms": 220185,
-      "name": "A Alegria do Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
       },
@@ -123,22 +103,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Daniel (feat. Fernandinho)",
-        "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
+        "name": "A Alegria do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy"
       },
       "artists": [
         {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
         },
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
         }
       ],
-      "duration_ms": 252348,
-      "name": "Daniel (feat. Fernandinho)",
-      "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+      "duration_ms": 220185,
+      "name": "A Alegria do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -155,6 +135,26 @@
       "duration_ms": 249937,
       "name": "HEREGE",
       "url": "https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Daniel (feat. Fernandinho)",
+        "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 252348,
+      "name": "Daniel (feat. Fernandinho)",
+      "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "ATEU",
+        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 245462,
+      "name": "ATEU",
+      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Me Fez Vivo (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Retrato",
-        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 333250,
-      "name": "Retrato",
-      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Lembre-se 80's (Ao Vivo)",
         "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "ATEU",
-        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
         }
       ],
-      "duration_ms": 245462,
-      "name": "ATEU",
-      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
+      "duration_ms": 333250,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -379,22 +379,70 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "O Que Me Espera",
-        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
+        "name": "Baile das M\u00e1scaras",
+        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
       },
       "artists": [
         {
           "name": "Rosa de Saron",
           "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
         }
       ],
-      "duration_ms": 221805,
-      "name": "O Que Me Espera",
-      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
+      "duration_ms": 215754,
+      "name": "Baile das M\u00e1scaras",
+      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Livre Sou",
+        "url": "https://open.spotify.com/album/28NPgRLhM0u0UiIQnTvUKd"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 206806,
+      "name": "Livre Sou",
+      "url": "https://open.spotify.com/track/62aGtaEunlFAd8HagOBeWx"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Lembre-se 90's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Tudo Fica Bem",
+        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Tudo Fica Bem",
+      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -419,18 +467,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Lembre-se 90's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+        "name": "O Que Me Espera",
+        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
       },
       "artists": [
         {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
         }
       ],
-      "duration_ms": 283933,
-      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
+      "duration_ms": 221805,
+      "name": "O Que Me Espera",
+      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -467,22 +519,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Baile das M\u00e1scaras",
-        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 215754,
-      "name": "Baile das M\u00e1scaras",
-      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Eu Vou Amanhecer (ao Vivo)",
         "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
@@ -495,26 +531,6 @@
       "duration_ms": 341789,
       "name": "Eu Vou Amanhecer - Ao Vivo",
       "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Tudo Fica Bem",
-        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Tudo Fica Bem",
-      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -535,34 +551,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Livre Sou",
-        "url": "https://open.spotify.com/album/28NPgRLhM0u0UiIQnTvUKd"
+        "name": "Mauro",
+        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
       },
       "artists": [
         {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 206806,
-      "name": "Livre Sou",
-      "url": "https://open.spotify.com/track/62aGtaEunlFAd8HagOBeWx"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+      "duration_ms": 250475,
+      "name": "Escolho Ser Fiel",
+      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -603,34 +603,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Mauro",
-        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
         }
       ],
-      "duration_ms": 250475,
-      "name": "Escolho Ser Fiel",
-      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -667,6 +651,22 @@
       "duration_ms": 296500,
       "name": "A Carta",
       "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "A Porta (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
         }
       ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Estrangeiro",
         "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vida/Eternidade",
-        "url": "https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP"
-      },
-      "artists": [
-        {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
-        }
-      ],
-      "duration_ms": 258700,
-      "name": "Jo\u00e3o 1 - VEC",
-      "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 244457,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Vida/Eternidade",
+        "url": "https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP"
+      },
+      "artists": [
+        {
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+        }
+      ],
+      "duration_ms": 258700,
+      "name": "Jo\u00e3o 1 - VEC",
+      "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -927,8 +927,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
       },
       "artists": [
         {
@@ -936,25 +936,9 @@
           "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
-      },
-      "artists": [
-        {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-03-24 03:00:00",

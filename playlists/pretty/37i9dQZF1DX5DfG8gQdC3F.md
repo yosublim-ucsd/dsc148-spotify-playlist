@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tyler, The Creator, Josh Ross, City and Colour, and Melanie Martinez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,981 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,005 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 87 | [The One](https://open.spotify.com/track/22BWGMdhWA9bzxx04tbfV7) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Who I Am](https://open.spotify.com/album/3r8dj1ruZN0PGP7dFjZhfo) | 3:12 |
 | 88 | [I Don't Live Here Anymore](https://open.spotify.com/track/7ECJeHWuydb003xEiqUnn1) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [I Don't Live Here Anymore](https://open.spotify.com/album/5YZg6tXn4z1kPX30tJ8scD) | 3:06 |
 | 89 | [Right To Be Wrong](https://open.spotify.com/track/7E1gOUWLZfCDn6yEeZuafk) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Right To Be Wrong](https://open.spotify.com/album/47NhbVR5PrcYhGWXBk6Osm) | 2:06 |
-| 90 | [Insight](https://open.spotify.com/track/1TmCCPrOJjyByclYIHr5mC) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Nate Stein](https://open.spotify.com/artist/4m5zi18W8tjVpadJrQKKMw) | [Insight](https://open.spotify.com/album/7HMs8tD3rGT2b6GpyGxE1b) | 3:05 |
+| 90 | [Insight](https://open.spotify.com/track/1TmCCPrOJjyByclYIHr5mC) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn) | [Insight](https://open.spotify.com/album/7HMs8tD3rGT2b6GpyGxE1b) | 3:05 |
 | 91 | [Wild and Free](https://open.spotify.com/track/2TUdlRWOmU4yMKQXsCt3hy) | [Chris Buck Band](https://open.spotify.com/artist/0ns82mvA25By3a6t2S2Lxr) | [Answers](https://open.spotify.com/album/1WqPWV82iL1GV08Hw48vSu) | 2:58 |
 | 92 | [1994](https://open.spotify.com/track/6rTgr7hrdyBVpGXehD8iWQ) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [1994](https://open.spotify.com/album/495cEXky5fPlnh2EJBm0KB) | 3:17 |
 | 93 | [Greyboy Says](https://open.spotify.com/track/0LqxncnznP2X7NRY0A03rE) | [Gord Downie](https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc), [Bob Rock](https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg) | [Greyboy Says](https://open.spotify.com/album/5fMWjhBEyWLBigYEaBusnE) | 3:43 |

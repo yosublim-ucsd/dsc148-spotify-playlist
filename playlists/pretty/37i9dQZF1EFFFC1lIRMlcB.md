@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 44 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 44 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 22 | [Novo Governo](https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG) | 3:05 |
 | 23 | [Nyah](https://open.spotify.com/track/4RxYyH7ZGRPzoMUN1lyriz) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 0:50 |
 | 24 | [Tem Algo Além](https://open.spotify.com/track/0BiZdeyfiC7OCswgTCwRb2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj) | [Familia Ponto](https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv) | 2:53 |
-| 25 | [Diamante Rubi](https://open.spotify.com/track/3IA66NZnwvk2tNdAUKNToQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:38 |
-| 26 | [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 |
+| 25 | [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 |
+| 26 | [Diamante Rubi](https://open.spotify.com/track/3IA66NZnwvk2tNdAUKNToQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:38 |
 | 27 | [Reggae Juntinho](https://open.spotify.com/track/33Xp1gdWmJe7gIDePPvAbp) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Reggae Juntinho](https://open.spotify.com/album/5XtVthzSIz5YRcjBusQ0TA) | 4:15 |
 | 28 | [Mundo Melhor](https://open.spotify.com/track/0p22eZo9otCwJtqC7RLmc9) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Mundo Melhor](https://open.spotify.com/album/6IQkiElPhDcMES5AjifUcM) | 3:38 |
 | 29 | [Curador](https://open.spotify.com/track/3j0KxlP0MuRfvkiO4SoGM5) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Little Roy](https://open.spotify.com/artist/2trprGWyY8Y0Gjd7OtfLdU), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 3:27 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 43 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 44 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `MjgwMDUxMjcsMDAwMDAwMDA2YjYwYjhmZTIzZjg0YjYxM2ZjZWYxMDZiMTNjOTZiMw==`
+Snapshot ID: `MjgwMDY1NjcsMDAwMDAwMDBkNGM3MmI3YmQyYTgwMmNiZTMyMDQyNzYzNzNkZjllNA==`

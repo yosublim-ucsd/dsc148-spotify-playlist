@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Tiago PZK en portada.
 
-198 songs - 10 hr 35 min
+199 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Aifon](https://open.spotify.com/track/3Ok5HfWRL3CssQVJho7ejp) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Aifon](https://open.spotify.com/album/0THoSCtMZks6QyVY1QqCTk) | 2:58 | 2022-11-25 | 2023-01-27 |
 | [Al Revés](https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8) | [FERCHO](https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU) | [Al Revés](https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR) | 2:18 | 2023-03-03 | 2023-03-18 |
 | [Always In My Heart](https://open.spotify.com/track/2Z7Mn5AnCw6s5pdAqLpfeT) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Always In My Heart](https://open.spotify.com/album/6OBV3YXcqe4ukv5fglXiIH) | 3:35 | 2021-12-13 | 2022-01-29 |
-| [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 | 2021-12-13 |  |
+| [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 | 2021-12-13 | 2023-04-02 |
 | [Antítesis](https://open.spotify.com/track/2sOE1BdMO5iW9WTG4yWSJU) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Antítesis](https://open.spotify.com/album/05PPWZrJxJGPOYr9vkCDqP) | 3:05 | 2021-12-13 | 2023-01-27 |
 | [Aparecer \(feat\. Orestes Gomez\)](https://open.spotify.com/track/1B2VkQw5htPR1MpuKkM4jA) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Aparecer \(feat\. Orestes Gomez\)](https://open.spotify.com/album/3rv5KhM7m6w67YR355YyYm) | 5:24 | 2021-12-13 | 2023-01-27 |
 | [Arde](https://open.spotify.com/track/7wxQD6sSe4bFBcYGvuCPrZ) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Arde](https://open.spotify.com/album/64BBfi1KbtXfpL6PDCUusq) | 4:05 | 2021-12-13 | 2022-01-05 |
@@ -157,6 +157,7 @@
 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 | 2021-12-13 | 2022-02-19 |
 | [QCVH](https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [QCVH](https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G) | 2:16 | 2023-01-13 |  |
 | [Que Quede Claro](https://open.spotify.com/track/4YfenXjiKqYlp1WSIOerAL) | [Babe Mija](https://open.spotify.com/artist/0gVYLAFNx3SJcjWoCqPbC3) | [Que Quede Claro](https://open.spotify.com/album/02tQvB53cVQ5AROvu9GlmW) | 3:24 | 2021-12-13 | 2023-01-27 |
+| [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-03-31 |  |
 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 | 2021-12-13 |  |
 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 | 2022-11-24 | 2023-04-01 |
 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 | 2022-01-28 | 2023-04-01 |

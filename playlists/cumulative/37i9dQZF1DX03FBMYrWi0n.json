@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 187542,
       "name": "Nyx",
       "url": "https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU"
@@ -1534,6 +1534,24 @@
       "duration_ms": 197666,
       "name": "Trou d'eau",
       "url": "https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5"
+    },
+    {
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "album": {

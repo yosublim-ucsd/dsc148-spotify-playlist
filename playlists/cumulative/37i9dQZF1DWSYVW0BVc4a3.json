@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 377904,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/1I1tcgZx6J1IHeZqWa3611"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 300200,
       "name": "Four Tet Is My Godmother",
       "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
@@ -6856,7 +6856,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 415960,
       "name": "Saints & Sinners",
       "url": "https://open.spotify.com/track/0JHHFmQhjiDO0J7ll4BQmQ"
@@ -7768,7 +7768,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 361187,
       "name": "Sun",
       "url": "https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx"
@@ -8464,7 +8464,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 258716,
       "name": "Time",
       "url": "https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM"
@@ -9102,6 +9102,24 @@
       "duration_ms": 417321,
       "name": "Upon Us",
       "url": "https://open.spotify.com/track/76cT0lXYQnyuCFCUtL8wNq"
+    },
+    {
+      "album": {
+        "name": "Via Infinita",
+        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237096,
+      "name": "Via Infinita",
+      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
     },
     {
       "album": {

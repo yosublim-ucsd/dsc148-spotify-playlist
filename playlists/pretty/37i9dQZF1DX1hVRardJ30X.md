@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: NATTI NATASHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,170 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,388 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 58 | [Tu Mal](https://open.spotify.com/track/5MM7qBRE7av0neCcsPrll0) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Tu Mal](https://open.spotify.com/album/39uy6LRqVbLbh5pFNCFtgT) | 2:56 |
 | 59 | [Amargura](https://open.spotify.com/track/6e3pKfgk4h7uxMFYP9YDF7) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Amargura](https://open.spotify.com/album/7scO0Ib7m8xtFTFJMeNtwL) | 2:19 |
 | 60 | [Vibras Positivas](https://open.spotify.com/track/6nq8qg9OAldCiM6jaCVKer) | [Tomás Lauría](https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY) | [Viaje \(a\)marte](https://open.spotify.com/album/0s5pP23tx9XCUAQ82xSouC) | 1:58 |
-| 61 | [Me Muero](https://open.spotify.com/track/1j5TURkDjZRUSEp3ZUk17D) | [Tiago Cruz](https://open.spotify.com/artist/7uSu1ZRFZv9qnb210hceeg) | [Me Muero](https://open.spotify.com/album/4Reu7Thhx2CPhUxAy00jjA) | 2:49 |
+| 61 | [Me Muero](https://open.spotify.com/track/1j5TURkDjZRUSEp3ZUk17D) | [Tiago Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Me Muero](https://open.spotify.com/album/4Reu7Thhx2CPhUxAy00jjA) | 2:49 |
 | 62 | [Arrebatada](https://open.spotify.com/track/2635qgGEdvylmvCYCNZ33i) | [Sarhai](https://open.spotify.com/artist/1kFFQgFBwYFDYySGfCpIji) | [Arrebatada](https://open.spotify.com/album/51CvjXKO9SpAOSmor1Xz7G) | 2:32 |
 | 63 | [Otros XOXO](https://open.spotify.com/track/3vJ44oLx2n1izEqpD9yycT) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Otros XOXO](https://open.spotify.com/album/7MYLqUdrYDK6i1K7bbCVcr) | 3:15 |
 

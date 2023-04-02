@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-138 songs - 8 hr 0 min
+139 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [DANCEFLOOR SLAYER](https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [DANCEFLOOR SLAYER](https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo) | 2:41 | 2022-12-15 |  |
 | [Death Jams](https://open.spotify.com/track/4adnfSbly0bAD5YTDh30Jx) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Death Jams](https://open.spotify.com/album/2x44uTjnKxzCNujOQ3qCqM) | 2:54 | 2023-03-07 | 2023-03-18 |
 | [Deathblow](https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Deathblow](https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa) | 3:46 | 2022-12-08 |  |
-| [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 | 2022-12-08 |  |
+| [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 | 2022-12-08 | 2023-04-02 |
 | [Demonic Rage](https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Demonic Rage](https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w) | 3:16 | 2022-12-08 |  |
 | [DEQUINOX 100](https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [DEQUINOX 100](https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ) | 3:42 | 2022-12-08 |  |
 | [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 | 2022-12-08 |  |
@@ -67,6 +67,7 @@
 | [Hell Boy](https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Hell Boy](https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk) | 3:44 | 2022-12-08 |  |
 | [Hell Of A Ride \- Official Dominator 2022 Anthem](https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Hell Of A Ride \(Official Dominator 2022 Anthem\)](https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d) | 4:11 | 2022-12-08 |  |
 | [Hide Me](https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B) | [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Hide Me](https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL) | 3:03 | 2022-12-08 | 2023-01-20 |
+| [HIT IT](https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [HIT IT](https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95) | 2:44 | 2023-03-30 |  |
 | [HIT THA CLUB](https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [HIT THA CLUB](https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9) | 2:46 | 2023-01-26 |  |
 | [Hypnosis](https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Hypnosis](https://open.spotify.com/album/2NaIPARHXxQq8HFpPPThTX) | 2:24 | 2022-12-08 | 2023-03-07 |
 | [I'm A Raver](https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [I'm A Raver](https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu) | 3:25 | 2023-01-26 |  |

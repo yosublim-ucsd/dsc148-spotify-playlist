@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 155404,
       "name": "Embrace Chaos",
       "url": "https://open.spotify.com/track/5Zt8IFYVXIR9KkRtZBXL10"
@@ -3832,6 +3832,28 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+    },
+    {
+      "album": {
+        "name": "Heart On Fire",
+        "url": "https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM"
     },
     {
       "album": {

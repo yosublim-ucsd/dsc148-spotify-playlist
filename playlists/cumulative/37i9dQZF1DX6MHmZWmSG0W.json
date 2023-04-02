@@ -59,10 +59,14 @@
     },
     {
       "album": {
-        "name": "Church (with PARISI) [Mixed]",
+        "name": "Church (Mixed)",
         "url": "https://open.spotify.com/album/0SMrRf78Rk88Ye3OymbWHm"
       },
       "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
         {
           "name": "Steve Angello",
           "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
@@ -74,17 +78,13 @@
         {
           "name": "Buy Now",
           "url": "https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ"
-        },
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
         }
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170000,
-      "name": "Church (with PARISI) - Mixed",
+      "name": "Church - Mixed",
       "url": "https://open.spotify.com/track/50rzsaM9NTEmCw4vLmqQRE"
     },
     {

@@ -2404,10 +2404,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 207000,
       "name": "Counterfeit Love",
       "url": "https://open.spotify.com/track/3YJnWvCpMM4t1VIrsXirDs"
+    },
+    {
+      "album": {
+        "name": "Counterfeit Love",
+        "url": "https://open.spotify.com/album/69BqqXyTKAe79iYQHgekD0"
+      },
+      "artists": [
+        {
+          "name": "Flight School",
+          "url": "https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Counterfeit Love",
+      "url": "https://open.spotify.com/track/4tP3Nn5XDbDUlSY2BH87Ky"
     },
     {
       "album": {
@@ -6598,10 +6620,6 @@
         {
           "name": "Equanimous",
           "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
-        },
-        {
-          "name": "Nate Stein",
-          "url": "https://open.spotify.com/artist/4m5zi18W8tjVpadJrQKKMw"
         }
       ],
       "date_added": "2023-03-31",

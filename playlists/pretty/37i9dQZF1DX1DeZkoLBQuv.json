@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6053,
+  "num_followers": 6052,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDQwMmQ3ZWRkNTQzYTI2Y2YwNmUyODEyYmFhNGRkYWIz",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDgzYzQ1YzViM2VmZTExNDM0NzNhMTc4NTM0OTFlNGY3",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Revolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 258054,
+      "name": "Filho de Deus Amigo Meu",
+      "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Revolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 258054,
-      "name": "Filho de Deus Amigo Meu",
-      "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 396266,
       "name": "Noite Santa (Cantique de Noel)",
       "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 204196,
+      "name": "Natal",
+      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Celebrando o Natal",
         "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+        "name": "Deus Emanuel",
+        "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
       },
       "artists": [
         {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+          "name": "Adora\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
         }
       ],
-      "duration_ms": 204196,
-      "name": "Natal",
-      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+      "duration_ms": 313652,
+      "name": "Deus Emanuel",
+      "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -855,22 +871,6 @@
       "duration_ms": 324820,
       "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
       "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Deus Emanuel",
-        "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
-      },
-      "artists": [
-        {
-          "name": "Adora\u00e7\u00e3o Central",
-          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
-        }
-      ],
-      "duration_ms": 313652,
-      "name": "Deus Emanuel",
-      "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
     },
     {
       "added_at": "2022-12-09 06:26:14",

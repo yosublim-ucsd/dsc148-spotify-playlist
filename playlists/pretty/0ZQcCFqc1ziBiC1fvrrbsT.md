@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,471 likes - 37 songs - 2 hr 38 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,480 likes - 37 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 7 | [Raid](https://open.spotify.com/track/3BTOXCnDs4CfrOmOUcc0t5) | [BAD OPTIX](https://open.spotify.com/artist/5KIqdI4DIdPdiS5JVWQVxj) | [Raid](https://open.spotify.com/album/6y8OALegURudf2X9umflcV) | 3:11 |
 | 8 | [One More Minute](https://open.spotify.com/track/3thb7JZkIpiXEPXdronS8S) | [Omnigone](https://open.spotify.com/artist/6Rc7Wk2li9j2cEJewUUYSd) | [Against The Rest](https://open.spotify.com/album/1HkiwlZUwCe0eZrYOOhwAu) | 2:47 |
 | 9 | [Fortified](https://open.spotify.com/track/68buaDzYT8NwHlZSX7wYk2) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Only Constant](https://open.spotify.com/album/3khEZvQmpSLplYYIlmK8ti) | 1:30 |
-| 10 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own PET](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
+| 10 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
 | 11 | [U \(JUJU\) \(feat\. Skepta\)](https://open.spotify.com/track/3kvfr5h3oQuJHbkEfg2R3U) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:13 |
 | 12 | [life lived through you](https://open.spotify.com/track/7DHsZPHxz6UBEpQR7PbTBI) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [gisela](https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR) | 3:46 |
 | 13 | [Tame](https://open.spotify.com/track/40rmyLdNfKfDyMEUf309Cp) | [Katie Gately](https://open.spotify.com/artist/6FP6ynzSPeBFX46vkI1OsW) | [Fawn / Brute](https://open.spotify.com/album/4H06AaDyLKId4aeu986XaP) | 5:07 |

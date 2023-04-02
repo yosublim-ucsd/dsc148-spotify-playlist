@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: London Brew / Shabaka Hutchings
 
-806 songs - 2 day 17 hr 35 min
+807 songs - 2 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,7 +781,8 @@
 | [Wings](https://open.spotify.com/track/0P0vNFONGtnVFxEEk3k0K2) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/2fmSHB85lXiVxUT8tKwyP2) | 5:30 | 2022-10-07 | 2023-02-11 |
 | [Wings](https://open.spotify.com/track/3hUngNsqq838qYdEQrMEcg) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/16K9DKlpw0YWAj6PfnXQwT) | 5:30 | 2022-10-07 | 2022-12-25 |
 | [Winter Blues](https://open.spotify.com/track/6mfwtqsfJHIMZl22Yf16Hq) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Winter Blues](https://open.spotify.com/album/2XpEElni16wHDpusrS4TZZ) | 7:13 | 2022-04-22 | 2022-05-20 |
-| [Winter Sun](https://open.spotify.com/track/74dCXyyOhSZf3dKuNRSv5J) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Winter Sun](https://open.spotify.com/album/45wJuUPm0dFSoLnSP7ILGv) | 3:59 | 2023-01-20 |  |
+| [Winter Sun](https://open.spotify.com/track/2CqtIFjoTHvvrULM3RdKtc) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Sunset Milk Tea](https://open.spotify.com/album/0OYidrC0U9oySFk0zTCaRq) | 3:59 | 2023-01-20 |  |
+| [Winter Sun](https://open.spotify.com/track/74dCXyyOhSZf3dKuNRSv5J) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Winter Sun](https://open.spotify.com/album/45wJuUPm0dFSoLnSP7ILGv) | 3:59 | 2023-01-20 | 2023-04-02 |
 | [Winter Wanderland](https://open.spotify.com/track/38SDSOUseCfC96TFYYxxjC) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Winter Wanderland](https://open.spotify.com/album/1pJwZhrbnagouc088GiL9y) | 2:52 | 2022-12-09 | 2023-01-21 |
 | [Within You Are Answers](https://open.spotify.com/track/0xtoC9lDPA20RKNZPonFoN) | [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Eye Of I](https://open.spotify.com/album/4QMevzEjkMADSzgx2nTXWm) | 5:46 | 2023-02-03 | 2023-03-18 |
 | [Wolf](https://open.spotify.com/track/6aCuXpTZX2TgOTm3flPvSE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Wolf](https://open.spotify.com/album/2zVYZbbm0rwmFrSawRtyGn) | 3:55 | 2022-03-04 | 2022-04-02 |

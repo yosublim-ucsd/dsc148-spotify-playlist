@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/2gbVLcmiy7wtX0Y3QsCsrT"
+      },
+      "artists": [
+        {
+          "name": "Dani Boi",
+          "url": "https://open.spotify.com/artist/47PMTWWTclESWUZBKjJGF0"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/3jg1KibIAZQn0jioczUhG5"
+    },
+    {
+      "album": {
         "name": "2021",
         "url": "https://open.spotify.com/album/6vig6WnPEpY81sPGRunJW0"
       },
@@ -14713,6 +14731,24 @@
     },
     {
       "album": {
+        "name": "Groovin Alone",
+        "url": "https://open.spotify.com/album/7DEImfxGRyjrzceTFpno0R"
+      },
+      "artists": [
+        {
+          "name": "Sadies Sloth",
+          "url": "https://open.spotify.com/artist/4TdNld7p8dHpIPqzLXujbZ"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226363,
+      "name": "Groovin Alone",
+      "url": "https://open.spotify.com/track/20bd1ugc6E8Nu99kljqpPZ"
+    },
+    {
+      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -16218,7 +16254,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 273773,
       "name": "How I Loved You",
       "url": "https://open.spotify.com/track/0v5L68lrpE6KwjA24ATQnX"
@@ -16802,7 +16838,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 208213,
       "name": "I Hope You Find Whatever You Are Looking For",
       "url": "https://open.spotify.com/track/149i2TjDuCrcC9gyFABY3l"
@@ -22180,7 +22216,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 212659,
       "name": "Make The World Go Away",
       "url": "https://open.spotify.com/track/35VKy1zrVoI1J15bG1lHqq"
@@ -23806,7 +23842,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 145000,
       "name": "Moves Like Shakira",
       "url": "https://open.spotify.com/track/6fMPXPyCT7PpksAa8g43wC"
@@ -26526,6 +26562,24 @@
       "duration_ms": 182500,
       "name": "Osprey Park",
       "url": "https://open.spotify.com/track/7CWc1AWtfHpoq8qj2XCDdb"
+    },
+    {
+      "album": {
+        "name": "LOST AT SEA",
+        "url": "https://open.spotify.com/album/5mRz4EsbpK5jdZH3gYOVV6"
+      },
+      "artists": [
+        {
+          "name": "Hakami",
+          "url": "https://open.spotify.com/artist/5PCjZI5anffjjvWELUQNEV"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198125,
+      "name": "OURS",
+      "url": "https://open.spotify.com/track/0k1umUayu5jjkTSucRkkNT"
     },
     {
       "album": {
@@ -30706,7 +30760,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 230015,
       "name": "Shadows and Illusions",
       "url": "https://open.spotify.com/track/2PS8qQwAfL7xt3LWsQ13cy"
@@ -32327,6 +32381,24 @@
     },
     {
       "album": {
+        "name": "Standing at the Altar",
+        "url": "https://open.spotify.com/album/15lIUB4sLfY1fVcr0htaoB"
+      },
+      "artists": [
+        {
+          "name": "Oscar Bryant and The Bluebirds",
+          "url": "https://open.spotify.com/artist/53ZHIQIURbIH2KD5sx2iXs"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219780,
+      "name": "Standing at the Altar",
+      "url": "https://open.spotify.com/track/740tWsllt99upfwFNhhWEb"
+    },
+    {
+      "album": {
         "name": "Star (feat. Yogi)",
         "url": "https://open.spotify.com/album/2CYg0eTUZlemEt7sdhRaA0"
       },
@@ -33496,7 +33568,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 173000,
       "name": "Swallowed Up In Space",
       "url": "https://open.spotify.com/track/6zUh0SQ7SPx30vbr3plUZU"
@@ -36452,7 +36524,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 187088,
       "name": "Tu nombre",
       "url": "https://open.spotify.com/track/2eNI3eRtrNKJgl0uJkY8cU"
@@ -38556,7 +38628,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 160515,
       "name": "What if",
       "url": "https://open.spotify.com/track/5PDtoSXgJfq8QMavmoNsvn"

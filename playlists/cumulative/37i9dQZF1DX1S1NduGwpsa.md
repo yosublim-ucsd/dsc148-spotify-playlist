@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover:  Emilie\-Claire Barlow
 
-251 songs - 18 hr 13 min
+252 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Swing State](https://open.spotify.com/track/4A5uJZZHQr2jCNeWJEauVr) | [Ben Sidran](https://open.spotify.com/artist/4FVlx0LkBCw52txBL8QVDl) | [Swing State](https://open.spotify.com/album/1JqmsqrK13m1nrvFdGIrTX) | 6:10 | 2022-05-12 | 2022-09-30 |
 | [Taboo](https://open.spotify.com/track/00DVBKks7yF8Mii6DSiO9g) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 3:09 | 2022-10-13 | 2023-01-20 |
 | [Taking a Chance on Love](https://open.spotify.com/track/00ItGhp6jpOUHX7ELUTcNB) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Taking a Chance on Love](https://open.spotify.com/album/4M0mXr3Tqlik3mEq8gd6Sa) | 3:20 | 2023-02-02 | 2023-03-25 |
-| [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 | 2023-03-30 |  |
+| [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 | 2023-03-30 | 2023-04-02 |
+| [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 | 2023-03-30 |  |
 | [Teo](https://open.spotify.com/track/3O90QPnqAyFoTlpU9nBPkt) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [The Source](https://open.spotify.com/album/5e2gQsP9jvj5telqe9zERG) | 6:04 | 2023-01-26 |  |
 | [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 | 2022-10-10 | 2023-01-20 |
 | [Textures](https://open.spotify.com/track/2QRQlpdtB9muofjlirBBaR) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Textures](https://open.spotify.com/album/6dF4z28EZgdvJLfAMbvSPO) | 5:39 | 2022-04-14 | 2022-06-03 |

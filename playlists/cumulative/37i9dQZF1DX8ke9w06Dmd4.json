@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "<Phantom Singer 4> Episode 1",
+        "url": "https://open.spotify.com/album/44eXsnZ4IpsqYb4MO9MrBL"
+      },
+      "artists": [
+        {
+          "name": "RIM PARK",
+          "url": "https://open.spotify.com/artist/75R0fZngf4BNYaGqfCQFSN"
+        },
+        {
+          "name": "SEO YEONG TAEK",
+          "url": "https://open.spotify.com/artist/2cyRG8cE4xa1l76I4hI2Qj"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210969,
+      "name": "D'istinto e di cuore",
+      "url": "https://open.spotify.com/track/5pZ9l8u590v9jXgkD8IEK8"
+    },
+    {
+      "album": {
         "name": "Phantom Singer All Stars Episode.7",
         "url": "https://open.spotify.com/album/7aGRttnu1VKYXPB8Picpct"
       },
@@ -396,6 +418,32 @@
       "duration_ms": 214320,
       "name": "E lucevan le stelle",
       "url": "https://open.spotify.com/track/6oECmrj1pqvafuy3VFJZSi"
+    },
+    {
+      "album": {
+        "name": "<Phantom Singer 4> Episode 1",
+        "url": "https://open.spotify.com/album/44eXsnZ4IpsqYb4MO9MrBL"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG MIN",
+          "url": "https://open.spotify.com/artist/6wXu4ygVzi4uoPQhxOjyNF"
+        },
+        {
+          "name": "ROH HYUN WOO",
+          "url": "https://open.spotify.com/artist/1KDRNEl5dzCd5gLJcvim5C"
+        },
+        {
+          "name": "LEE HAN BEOM",
+          "url": "https://open.spotify.com/artist/6oQsSgP5uIBJrsSDtZoMVR"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262449,
+      "name": "E\u2019 mezzanotte",
+      "url": "https://open.spotify.com/track/02LntwSKvu51iz5E49d3ub"
     },
     {
       "album": {

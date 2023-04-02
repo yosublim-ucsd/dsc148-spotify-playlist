@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72568,
+  "num_followers": 72581,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDU1YTU5ZWNjNjk5MzM0MWYyZmM5MzNjOTJkMGY4N2Vi",
+  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDg0Mzk0MDk2ZDQ3Njg3NzY3MDZiOGZlZTkzYzZjNzQ2",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 218999,
-      "name": "don't get caught up",
-      "url": "https://open.spotify.com/track/39HhlulOd8AAQ1VGdVD1In"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 204573,
       "name": "Every Side Of You",
       "url": "https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 218999,
+      "name": "don't get caught up",
+      "url": "https://open.spotify.com/track/39HhlulOd8AAQ1VGdVD1In"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Call Me Home",
-        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 201999,
-      "name": "Call Me Home",
-      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 271999,
       "name": "heartbeat",
       "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Call Me Home",
+        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 201999,
+      "name": "Call Me Home",
+      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
-      },
-      "artists": [
-        {
-          "name": "Miller Roberts",
-          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "DANCING IN THE DARK",
         "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 180000,
       "name": "CAMPFIRE",
       "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
+      },
+      "artists": [
+        {
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
       },
       "artists": [
         {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 206999,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "TATTOOS",
-      "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Grew Inside the Water",
         "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 284037,
       "name": "Society's a Mansion",
       "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "TATTOOS",
+      "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
     },
     {
-      "added_at": "2023-04-01 01:36:31",
+      "added_at": "2023-04-02 00:58:53",
       "album": {
         "name": "Higher Now",
         "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "In Between",
-        "url": "https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 238174,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Love Shack",
         "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 249489,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU"
+      },
+      "artists": [
+        {
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+        }
+      ],
+      "duration_ms": 238174,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
     }
   ],
   "unique_name": "Summer Daze",

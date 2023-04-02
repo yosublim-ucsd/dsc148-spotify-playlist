@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by a number of our ambassadors for International Women\u2019s Day. Cover: Jamala.",
-  "num_followers": 875986,
+  "num_followers": 875945,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMGIzZDA5NmEzMjYxMWM4YzA2Y2M0MjE0ZjQzMjI5YTUx",
+  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMDU0MDc0NmI1ZjJiODYwYzMxYWI4MjM2NjJmN2I4MDY5",
   "tracks": [
     {
       "added_at": "2023-03-05 05:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Gazoza",
-        "url": "https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Gazoza",
-      "url": "https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Things Aren't Nice In Paradise",
         "url": "https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "BAS G\u0130T",
-        "url": "https://open.spotify.com/album/2RB6IQB4QUVKgkFhoc1LSu"
+        "name": "Gazoza",
+        "url": "https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h"
       },
       "artists": [
         {
-          "name": "Nova Norda",
-          "url": "https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R"
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
         }
       ],
-      "duration_ms": 174374,
-      "name": "BAS G\u0130T",
-      "url": "https://open.spotify.com/track/4FU9LDNKP1R8zNyYkrYXLm"
+      "duration_ms": 225333,
+      "name": "Gazoza",
+      "url": "https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "BAS G\u0130T",
+        "url": "https://open.spotify.com/album/2RB6IQB4QUVKgkFhoc1LSu"
+      },
+      "artists": [
+        {
+          "name": "Nova Norda",
+          "url": "https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "BAS G\u0130T",
+      "url": "https://open.spotify.com/track/4FU9LDNKP1R8zNyYkrYXLm"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Fi 7eta Tanya",
-        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Fi 7eta Tanya",
-      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "When It's Going Wrong",
         "url": "https://open.spotify.com/album/0VlMxPSC0bAUieTVGKxtiS"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 113640,
       "name": "When It's Going Wrong",
       "url": "https://open.spotify.com/track/46rsYJCT5WAgzOzjTNZMVv"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Fi 7eta Tanya",
+        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Fi 7eta Tanya",
+      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -727,38 +727,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Strawberry Icecream",
-        "url": "https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD"
-      },
-      "artists": [
-        {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Strawberry Icecream",
-      "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "KOLIR",
-        "url": "https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle"
-      },
-      "artists": [
-        {
-          "name": "ONUKA",
-          "url": "https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6"
-        }
-      ],
-      "duration_ms": 272108,
-      "name": "ZENIT",
-      "url": "https://open.spotify.com/track/4Zx0sAKSVmX9Sr5bX0W6hv"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/2yV6eZVN6U78Rq6cwRyQiG"
       },
@@ -779,6 +747,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "KOLIR",
+        "url": "https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle"
+      },
+      "artists": [
+        {
+          "name": "ONUKA",
+          "url": "https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6"
+        }
+      ],
+      "duration_ms": 272108,
+      "name": "ZENIT",
+      "url": "https://open.spotify.com/track/4Zx0sAKSVmX9Sr5bX0W6hv"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "Reina de la Canci\u00f3n Latina",
         "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 165213,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Strawberry Icecream",
+        "url": "https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Strawberry Icecream",
+      "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
+        "url": "https://open.spotify.com/album/14YiiAuDaEBbP5WaMNb7JO"
+      },
+      "artists": [
+        {
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
+      "url": "https://open.spotify.com/track/0riTg4W5chUXwJJq7W8DSE"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "Eleipes",
         "url": "https://open.spotify.com/album/5gY4FYHGquRpuEKKA0Ezqz"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 149159,
       "name": "Eleipes",
       "url": "https://open.spotify.com/track/6UaJR5yQZOTnHOT2Uqg33f"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
-        "url": "https://open.spotify.com/album/14YiiAuDaEBbP5WaMNb7JO"
-      },
-      "artists": [
-        {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
-        },
-        {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
-      "url": "https://open.spotify.com/track/0riTg4W5chUXwJJq7W8DSE"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Amyl and The Sniffers",
-        "url": "https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Got You",
-      "url": "https://open.spotify.com/track/26EvVb7HxLt5fVXtNRzUEw"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "All Hail the Queen",
         "url": "https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 238693,
       "name": "Ladies First",
       "url": "https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Amyl and The Sniffers",
+        "url": "https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 138946,
+      "name": "Got You",
+      "url": "https://open.spotify.com/track/26EvVb7HxLt5fVXtNRzUEw"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "RBND",
-        "url": "https://open.spotify.com/album/2IgRAdB7ITP9m0NQAn9mrM"
-      },
-      "artists": [
-        {
-          "name": "Zachary",
-          "url": "https://open.spotify.com/artist/5rqiwyKEa9FZTy78BVNRSc"
-        }
-      ],
-      "duration_ms": 177741,
-      "name": "RBND",
-      "url": "https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Babul Teri Galliyaan",
         "url": "https://open.spotify.com/album/6rmibXRijYIvOTmdezma9n"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 309473,
       "name": "Babul Teri Galliyaan",
       "url": "https://open.spotify.com/track/6v8zxfQJihReMngblfEiZZ"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "RBND",
+        "url": "https://open.spotify.com/album/2IgRAdB7ITP9m0NQAn9mrM"
+      },
+      "artists": [
+        {
+          "name": "Zachary",
+          "url": "https://open.spotify.com/artist/5rqiwyKEa9FZTy78BVNRSc"
+        }
+      ],
+      "duration_ms": 177741,
+      "name": "RBND",
+      "url": "https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs"
     },
     {
       "added_at": "2023-03-05 05:00:00",

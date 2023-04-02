@@ -4910,7 +4910,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 168275,
       "name": "Pour Me a Drink",
       "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
@@ -6004,6 +6004,24 @@
       "duration_ms": 204444,
       "name": "Tales By Moonlight (Ft Amaarae)",
       "url": "https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht"
+    },
+    {
+      "album": {
+        "name": "For Good Reasons",
+        "url": "https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Tekkers",
+      "url": "https://open.spotify.com/track/34xP9J8ofSuYzsAPM7LjCE"
     },
     {
       "album": {

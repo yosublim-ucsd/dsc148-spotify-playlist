@@ -6,7 +6,7 @@
     "name": "Metodi Hristov",
     "url": "https://open.spotify.com/user/metodihristov"
   },
-  "snapshot_id": "MTE1Nyw2NDJmZDFhZDFjZDFhYWU4YmU5YzliNmEzZTc0NmNiNzgwNzNiMTEz",
+  "snapshot_id": "MTE1OSw5MzVmNzUyYjgzNmE4MTUzY2VhY2M4ZDE3ZjU5NGNkNGJhMWMwNDg5",
   "tracks": [
     {
       "added_at": "2023-03-31 08:39:32",
@@ -55,6 +55,22 @@
       "duration_ms": 221405,
       "name": "Afraid of the Time - Radio Edit",
       "url": "https://open.spotify.com/track/6V8X3Q0Eu8pkjXdqbs96JW"
+    },
+    {
+      "added_at": "2023-04-01 19:03:02",
+      "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
     },
     {
       "added_at": "2023-03-10 11:26:14",

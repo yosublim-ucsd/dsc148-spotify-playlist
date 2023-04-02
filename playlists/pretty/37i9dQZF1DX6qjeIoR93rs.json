@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 42947,
+  "num_followers": 42961,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDk5MzQ5NTU5YzU5M2Y3ODAyMTQyMTVkOWM5Mzk5MmU2",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGM4OWRhYmYzNTQ1ZWJhMGRhZjY4NTEyOTYxMmVlMTQy",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "\u062f\u0628\u0631\u0647\u0627",
         "url": "https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 289320,
       "name": "\u062f\u0628\u0631\u0647\u0627",
       "url": "https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "Can I Live",
+        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Can I Live",
+      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "Dedication",
         "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 283724,
       "name": "Tareeq",
       "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "Can I Live",
-        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
-      },
-      "artists": [
-        {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Can I Live",
-      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Today Is the day",
-        "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
-      },
-      "artists": [
-        {
-          "name": "Hazy Noir",
-          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Today is the day",
-      "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Gaza - Tradition musicale palestinienne",
         "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 289920,
       "name": "Mayel ya Ghuzayel",
       "url": "https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Today Is the day",
+        "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
+      },
+      "artists": [
+        {
+          "name": "Hazy Noir",
+          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "Today is the day",
+      "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Le meilleur, vol.1",
-        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
-      },
-      "artists": [
-        {
-          "name": "Nass El Ghiwane",
-          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
-        }
-      ],
-      "duration_ms": 383333,
-      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
-      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
         "url": "https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 228813,
       "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Le meilleur, vol.1",
+        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
+      },
+      "artists": [
+        {
+          "name": "Nass El Ghiwane",
+          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
+        }
+      ],
+      "duration_ms": 383333,
+      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
+      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Mo Light",
-        "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Mo Light",
-      "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "\u0639\u0646\u062f\u064a \u0634\u0648 \u0645\u0627 \u0628\u062f\u064a",
         "url": "https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 226716,
       "name": "\u0639\u0643\u0627 \u0639\u0644\u0649 \u0631\u0627\u0633\u064a",
       "url": "https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Mo Light",
+        "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "Mo Light",
+      "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Room",
-        "url": "https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX"
-      },
-      "artists": [
-        {
-          "name": "Fadi Ammous",
-          "url": "https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Room",
-      "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Telephone",
         "url": "https://open.spotify.com/album/06yTr9V77gQArdYMsmzX2i"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 201882,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/5IawIr3eOioOqURiHFMNNY"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Room",
+        "url": "https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX"
+      },
+      "artists": [
+        {
+          "name": "Fadi Ammous",
+          "url": "https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
+      },
+      "artists": [
+        {
+          "name": "Akram Abdulfattah",
+          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "Abu 3ntr (feat. Lina Makoul)",
         "url": "https://open.spotify.com/album/0RZwnKlm8Oo2EtqcjrDQz3"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 213368,
       "name": "Abu 3ntr (feat. Lina Makoul)",
       "url": "https://open.spotify.com/track/68DqedAzUtn8RsX7hFRQGy"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "From Here",
-        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
-      },
-      "artists": [
-        {
-          "name": "Akram Abdulfattah",
-          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "From Here",
-      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
     }
   ],
   "unique_name": "Palestine Sounds",

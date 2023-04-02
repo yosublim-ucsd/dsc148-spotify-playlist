@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Monk
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,582 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,920 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 44 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
 | 45 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 |
 | 46 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 |
-| 47 | [My Love](https://open.spotify.com/track/6SS4erRzIpcNdrTmGncuGy) | [Kiara Austen](https://open.spotify.com/artist/23OyEtxlI4OWrHE3SxCY4e) | [My Love](https://open.spotify.com/album/5opkabje6vaNeZe7T5gUjC) | 3:01 |
+| 47 | [My Love](https://open.spotify.com/track/69eIYV80zISfItEDE0r0Ui) | [Lil\-K](https://open.spotify.com/artist/79hts1H3bhswabKZPnX9jB) | [My Love](https://open.spotify.com/album/3oRk46p3WHxtf2mLt9lmmR) | 3:04 |
 | 48 | [Ok es tut mir leid](https://open.spotify.com/track/41za1eeqP32PgCUpYCNU4F) | [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL) | [Luftballon EP](https://open.spotify.com/album/5b34iA2RXnOrp4NWuazW5k) | 2:39 |
 | 49 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
 | 50 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Girls](https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Girls](https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL) | 3:08 |
 | 100 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 |
 
-Snapshot ID: `MTY4MDIxMzYwMCwwMDAwMDAwMGM1M2QwNDc5MzQ1MGEzYWVkMTllZjgwMzhhNmY3OWEw`
+Snapshot ID: `MTY4MDIxMzYwMCwwMDAwMDAwMGJkYjNiYjM3OThjNGNjYjVmNDc2NzJhNDJkOGNlNjE1`

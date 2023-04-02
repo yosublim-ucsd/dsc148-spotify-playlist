@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-353 songs - 22 hr 36 min
+354 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,8 @@
 | [Wild Ones](https://open.spotify.com/track/2Nfwhr89NY1PKY0Cb4If7o) | [The Rassle](https://open.spotify.com/artist/1w7xqTJFKpD7XS03t0KkuU) | [Wild Ones](https://open.spotify.com/album/3HmVyQwJj2ectPIPdP9zHF) | 4:05 | 2022-04-08 |  |
 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 | 2021-09-01 |  |
 | [Wonder Woman](https://open.spotify.com/track/2FUPJxcJwZu4F7H4gs3wCu) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 3:19 | 2021-09-01 |  |
-| [Ya Lili](https://open.spotify.com/track/0rl99X2LTXz2Ot7u0qEujP) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Ya Lili](https://open.spotify.com/album/3ZMrAHHAi5kBze92L80mSH) | 3:20 | 2021-09-01 |  |
+| [Ya Lili](https://open.spotify.com/track/0rl99X2LTXz2Ot7u0qEujP) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Ya Lili](https://open.spotify.com/album/3ZMrAHHAi5kBze92L80mSH) | 3:20 | 2021-09-01 | 2023-04-02 |
+| [Ya Lili](https://open.spotify.com/track/31LwJUNoX6cmxtbwCtGiND) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Ya Lili](https://open.spotify.com/album/1MuXKQqzUGBvATkE02DyNI) | 3:20 | 2021-09-01 |  |
 | [Yellow Jacket](https://open.spotify.com/track/5VqtAbPR64zkQHaYbcxtVQ) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Yellow Jacket](https://open.spotify.com/album/1yJe9UFhWZvMGFlaDF9haP) | 3:48 | 2022-04-08 |  |
 | [You](https://open.spotify.com/track/1m4Jk7HXqNBdlkJtTGSK8u) | [Flo/So](https://open.spotify.com/artist/3Exl4gYa8yBajHnOFwt94e) | [You](https://open.spotify.com/album/1jOVM0dhGeRd1FepOGH86J) | 3:36 | 2022-04-08 |  |
 | [You Ain't Takin' My Man](https://open.spotify.com/track/0zAQd8HPcb720jtBnU4YMF) | [SPARKLE DIVISION](https://open.spotify.com/artist/2qJTi04qBpG3C0RR62l1Du) | [To Feel Embraced](https://open.spotify.com/album/6pEg6rRDGKqsrQjCiY5AUc) | 4:14 | 2022-04-08 |  |

@@ -1983,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "Golibaaz (feat. Jizzy)",
+        "url": "https://open.spotify.com/album/4o7G62VPpg3RE9unGYrFSF"
+      },
+      "artists": [
+        {
+          "name": "Burrah",
+          "url": "https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS"
+        },
+        {
+          "name": "Jizzy",
+          "url": "https://open.spotify.com/artist/0Eou17pQD8Wd8sqQnoIOQ4"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203584,
+      "name": "Golibaaz (feat. Jizzy)",
+      "url": "https://open.spotify.com/track/0fRmEv74VclQ4DFi4RVi5a"
+    },
+    {
+      "album": {
         "name": "Haan Main Galat (From \"Love Aaj Kal\")",
         "url": "https://open.spotify.com/album/5e0lk4qOylKNYoQKe7nxhC"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,426 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,436 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 16 | [Alleen \(Weer\)](https://open.spotify.com/track/2KhW9wzxsOjcHhRqIq1dfn) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Alleen \(Weer\)](https://open.spotify.com/album/4ygSGZsHpGfCkTcRVjiAco) | 3:37 |
 | 17 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 |
 | 18 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
-| 19 | [De Nacht](https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn) | 2:30 |
+| 19 | [De Nacht](https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII) | 2:30 |
 | 20 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 |
 | 21 | [Burning Daylight](https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ), [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Burning Daylight](https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK) | 3:04 |
 | 22 | [Layla](https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/5WBoyKy4ezxq7P4v6Yyvf7) | 2:43 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Doe Wat Je Doet](https://open.spotify.com/track/5wwjB3x0ULGlZ4o2xJwqzM) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Doe Wat Je Doet](https://open.spotify.com/album/5vn20sanTK8TRN2JyQrymL) | 2:14 |
 | 40 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMGEyMmJmZGYzNjA5NWU5Y2IzMjk5MDVkZTEyODE2OWY3`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDM5MzIwNWRkNzhjOWU5OTI4Y2M3YTE0YWQzNTU0MzQ2`

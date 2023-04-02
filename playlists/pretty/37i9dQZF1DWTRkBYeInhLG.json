@@ -1,12 +1,12 @@
 {
   "description": "Songs to unwind",
-  "num_followers": 400822,
+  "num_followers": 401130,
   "original_name": "Chill for awhile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDA4NjQ2NiwwMDAwMDAwMDQzNDhlN2ZhOGEyZGMzZjhlYTk0YTg1Yjc2ZGZhODRj",
+  "snapshot_id": "MTY4MDA4NjQ2NiwwMDAwMDAwMGM5ZTQxOTg4ZmMzMThjMTBhZjI2ODFlYWEyODQ5ZTRh",
   "tracks": [
     {
       "added_at": "2023-03-22 21:46:23",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
-        "name": "Mesin Waktu",
-        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 262734,
-      "name": "Mesin Waktu",
-      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
-    },
-    {
-      "added_at": "2023-03-22 21:46:23",
-      "album": {
         "name": "Lyodra",
         "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 261299,
       "name": "Pesan Terakhir",
       "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
+    },
+    {
+      "added_at": "2023-03-22 21:46:23",
+      "album": {
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 262734,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+        "name": "Ruang Tunggu",
+        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
       "artists": [
         {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+      "duration_ms": 258281,
+      "name": "Akad",
+      "url": "https://open.spotify.com/track/3AAAGS7iM1ekDywqdYMJG2"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
-        "name": "Losing Us.",
-        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
       "artists": [
         {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         }
       ],
-      "duration_ms": 236885,
-      "name": "Losing Us.",
-      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
-        "name": "Belum Siap Kehilangan",
-        "url": "https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x"
+        "name": "Losing Us.",
+        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
       },
       "artists": [
         {
-          "name": "Stevan Pasaribu",
-          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 288333,
-      "name": "Belum Siap Kehilangan",
-      "url": "https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1"
+      "duration_ms": 236885,
+      "name": "Losing Us.",
+      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
+        "name": "Belum Siap Kehilangan",
+        "url": "https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Belum Siap Kehilangan",
+      "url": "https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1"
+    },
+    {
+      "added_at": "2023-03-22 21:46:23",
+      "album": {
         "name": "Lelaku",
         "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 229986,
       "name": "Aku Tenang",
       "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
-    },
-    {
-      "added_at": "2023-03-22 21:46:23",
-      "album": {
-        "name": "RAN For Your Life",
-        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Pandangan Pertama",
-      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
+        "name": "RAN For Your Life",
+        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pandangan Pertama",
+      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
+    },
+    {
+      "added_at": "2023-03-22 21:46:23",
+      "album": {
         "name": "Ruang Tunggu",
         "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 329865,
       "name": "Di Atas Meja",
       "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2023-03-22 21:46:23",
-      "album": {
-        "name": "Handmade",
-        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 207403,
-      "name": "Jatuh Hati",
-      "url": "https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 207403,
+      "name": "Jatuh Hati",
+      "url": "https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw"
+    },
+    {
+      "added_at": "2023-03-22 21:46:23",
+      "album": {
         "name": "Film Favorit",
         "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
-    },
-    {
-      "added_at": "2023-03-22 21:46:23",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2023-03-22 21:46:23",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
-    },
-    {
-      "added_at": "2023-03-22 21:46:23",
-      "album": {
         "name": "Peace, Love And Respect",
         "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
       },
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-03-22 21:46:23",
       "album": {
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
+    },
+    {
+      "added_at": "2023-03-22 21:46:23",
+      "album": {
         "name": "Judika",
         "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
       },
@@ -1143,6 +1159,22 @@
       "duration_ms": 242942,
       "name": "Jikalau Kau Cinta",
       "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
+    },
+    {
+      "added_at": "2023-03-22 21:46:23",
+      "album": {
+        "name": "My Happy Life",
+        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
+      },
+      "artists": [
+        {
+          "name": "Tompi",
+          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Menghujam Jantungku",
+      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -1179,22 +1211,6 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu-Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
-    },
-    {
-      "added_at": "2023-03-22 21:46:23",
-      "album": {
-        "name": "My Happy Life",
-        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
-      },
-      "artists": [
-        {
-          "name": "Tompi",
-          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Menghujam Jantungku",
-      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
     },
     {
       "added_at": "2023-03-22 21:46:23",
@@ -1307,22 +1323,6 @@
       "duration_ms": 241000,
       "name": "Jangan Kau Lepas",
       "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
-    },
-    {
-      "added_at": "2023-03-22 21:46:23",
-      "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     }
   ],
   "unique_name": "Chill for awhile",

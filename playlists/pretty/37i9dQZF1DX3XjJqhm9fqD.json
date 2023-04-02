@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Micha\u00ebl Brun",
-  "num_followers": 75740,
+  "num_followers": 75771,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA4NTIxNSwwMDAwMDAwMGVjNDU1OWNmMDNlNDJiN2UxYjliM2IwMjlmOTMzNGFj",
+  "snapshot_id": "MTY3OTA4NTIxNSwwMDAwMDAwMDE5YTU3ODhkZTliNzdkYTVmMDBkN2EzZTYzZmFlOWFh",
   "tracks": [
     {
       "added_at": "2023-02-17 22:40:08",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-04-02 00:27:20",
       "album": {
         "name": "Tous Ces D\u00e9tails",
         "url": "https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
     },
     {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-04-02 00:27:20",
       "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Gen Bagay",
         "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 194716,
       "name": "Gen Bagay",
       "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Kelly Krow",
-        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        },
-        {
-          "name": "Mozart Louis",
-          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Sal Vle",
-      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Melanin",
         "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 133835,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/74sVNFKqFoOMqaeNYpeiIT"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Kelly Krow",
+        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        },
+        {
+          "name": "Mozart Louis",
+          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Sal Vle",
+      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
+      "added_at": "2023-04-02 00:27:20",
+      "album": {
+        "name": "Plenyen Player Yo",
+        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 226542,
+      "name": "Plenyen Player Yo",
+      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
+    },
+    {
       "added_at": "2023-02-17 22:40:08",
       "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
     },
     {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-04-02 00:27:20",
       "album": {
         "name": "Podyab Yo",
         "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
@@ -767,22 +783,6 @@
       "duration_ms": 319974,
       "name": "Podyab Yo",
       "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
-    },
-    {
-      "added_at": "2023-04-01 01:00:27",
-      "album": {
-        "name": "Plenyen Player Yo",
-        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 226542,
-      "name": "Plenyen Player Yo",
-      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-04-02 00:27:20",
       "album": {
         "name": "Thug Love",
         "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
@@ -997,24 +997,20 @@
       "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
     },
     {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "P's & Q's",
-        "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
+        "name": "Anthology, Vol. IV",
+        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
       "artists": [
         {
-          "name": "Dyna Edyne",
-          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
-        },
-        {
-          "name": "Anonymuz",
-          "url": "https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm"
+          "name": "Tabou Combo",
+          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
         }
       ],
-      "duration_ms": 196433,
-      "name": "Ps and Qs",
-      "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
+      "duration_ms": 526373,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1033,20 +1029,24 @@
       "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
-      "added_at": "2023-02-17 22:40:08",
+      "added_at": "2023-04-02 00:27:20",
       "album": {
-        "name": "Anthology, Vol. IV",
-        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
+        "name": "P's & Q's",
+        "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
       },
       "artists": [
         {
-          "name": "Tabou Combo",
-          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
+          "name": "Dyna Edyne",
+          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
+        },
+        {
+          "name": "Anonymuz",
+          "url": "https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm"
         }
       ],
-      "duration_ms": 526373,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
+      "duration_ms": 196433,
+      "name": "Ps and Qs",
+      "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
-      },
-      "artists": [
-        {
-          "name": "NEVRMIND",
-          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 265929,
       "name": "Twa Fey",
       "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
+      },
+      "artists": [
+        {
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1441,27 +1441,7 @@
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
     },
     {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
-      },
-      "artists": [
-        {
-          "name": "Freedom",
-          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
-        },
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "U.F.O.",
-      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-04-02 00:27:20",
       "album": {
         "name": "Gas",
         "url": "https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI"
@@ -1495,18 +1475,22 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Nan ou",
-        "url": "https://open.spotify.com/album/6hofahig2OrGv725bqsmo3"
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
       "artists": [
         {
-          "name": "Gessica G\u00e9n\u00e9us",
-          "url": "https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw"
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 226520,
-      "name": "Nan ou",
-      "url": "https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH"
+      "duration_ms": 210857,
+      "name": "U.F.O.",
+      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "Nan ou",
+        "url": "https://open.spotify.com/album/6hofahig2OrGv725bqsmo3"
+      },
+      "artists": [
+        {
+          "name": "Gessica G\u00e9n\u00e9us",
+          "url": "https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Nan ou",
+      "url": "https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND"
       },
@@ -1539,30 +1539,6 @@
       "duration_ms": 173142,
       "name": "Tet Ou Wo",
       "url": "https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "Nahil\u00e9",
-        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
-      },
-      "artists": [
-        {
-          "name": "RockLee",
-          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
-        },
-        {
-          "name": "Wesli",
-          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
-        },
-        {
-          "name": "Paul Cargnello",
-          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Nahil\u00e9",
-      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1587,6 +1563,30 @@
       "duration_ms": 197999,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Nahil\u00e9",
+        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
+      },
+      "artists": [
+        {
+          "name": "RockLee",
+          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
+        },
+        {
+          "name": "Wesli",
+          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
+        },
+        {
+          "name": "Paul Cargnello",
+          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Nahil\u00e9",
+      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1649,27 +1649,7 @@
       "url": "https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ"
     },
     {
-      "added_at": "2023-04-01 01:00:27",
-      "album": {
-        "name": "Stupid Love",
-        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
-      },
-      "artists": [
-        {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
-        },
-        {
-          "name": "BlecksFlex",
-          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
-        }
-      ],
-      "duration_ms": 164607,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
-    },
-    {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-04-02 00:27:20",
       "album": {
         "name": "Koup\u00e9",
         "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
@@ -1693,7 +1673,7 @@
       "url": "https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk"
     },
     {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-04-02 00:27:20",
       "album": {
         "name": "Ou Bezwen",
         "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
@@ -1709,7 +1689,27 @@
       "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
     },
     {
-      "added_at": "2023-04-01 01:00:27",
+      "added_at": "2023-04-02 00:27:20",
+      "album": {
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
+      },
+      "artists": [
+        {
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+        },
+        {
+          "name": "BlecksFlex",
+          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
+        }
+      ],
+      "duration_ms": 164607,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
+    },
+    {
+      "added_at": "2023-04-02 00:27:20",
       "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3"

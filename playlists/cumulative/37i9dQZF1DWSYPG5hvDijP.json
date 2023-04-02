@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe"
+      },
+      "artists": [
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107600,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1i0OA7qz1PQkX01TeR8Ua8"
+    },
+    {
+      "album": {
         "name": "2023 FLOW",
         "url": "https://open.spotify.com/album/4OJpmHAuQ4O8bB7e2HTdDw"
       },
@@ -86,6 +108,24 @@
       "duration_ms": 238170,
       "name": "36",
       "url": "https://open.spotify.com/track/24uSxern7HZJupb1fGqLuQ"
+    },
+    {
+      "album": {
+        "name": "Aaj Kya Karu?",
+        "url": "https://open.spotify.com/album/33lk0F1GAKHxbKCGMAgZZl"
+      },
+      "artists": [
+        {
+          "name": "Shuman",
+          "url": "https://open.spotify.com/artist/37RVI9e6Cg0mE3QZ3aDcpd"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Aaj Kya Karu?",
+      "url": "https://open.spotify.com/track/5fWTE8vJR97JJmqjyhGli4"
     },
     {
       "album": {
@@ -367,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Burey Din",
+        "url": "https://open.spotify.com/album/0w4hFThSG9OBgac9g50zgS"
+      },
+      "artists": [
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146945,
+      "name": "Burey Din",
+      "url": "https://open.spotify.com/track/6St0M4ePah3MzAmdgIi4Vf"
+    },
+    {
+      "album": {
         "name": "Storm Shadow",
         "url": "https://open.spotify.com/album/2t7PoBOHJGERxRqaqBpX9B"
       },
@@ -572,6 +630,28 @@
       "duration_ms": 170400,
       "name": "GANGNUM",
       "url": "https://open.spotify.com/track/5jjF4AbQaA7mTZyGjK5aLo"
+    },
+    {
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe"
+      },
+      "artists": [
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133913,
+      "name": "Glacier Gang",
+      "url": "https://open.spotify.com/track/4oPPeiS1itm0FKJxRzEG8m"
     },
     {
       "album": {

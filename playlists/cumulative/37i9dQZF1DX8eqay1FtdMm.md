@@ -4,7 +4,7 @@
 
 > Meet the vocalists representing Korea! \(Cover:The Stray\(스트레이\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-397 songs - 1 day 1 hr 58 min
+398 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-04 |  |
 | [Homesick](https://open.spotify.com/track/7bcfyB9jvnfkgLpIjZjL4Q) | [SOULSTAR](https://open.spotify.com/artist/354y0OnCO8WxPCaCMtbVSo) | [Who We Are \#3](https://open.spotify.com/album/2PrbCgHyAZi7h2sc6cNCWu) | 3:40 | 2021-12-27 | 2022-07-14 |
 | [Honest](https://open.spotify.com/track/6DzDRbPXIOajCimqmqSzfm) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:54 | 2022-03-24 | 2022-04-19 |
-| [How Can I Forget You](https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Forbidden Marriage, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv) | 4:35 | 2022-12-27 |  |
+| [How Can I Forget You](https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Forbidden Marriage, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv) | 4:35 | 2022-12-27 | 2023-04-02 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2021-12-20 | 2022-07-29 |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-25 | 2023-02-14 |
 | [I \(feat\. MINSEO\)](https://open.spotify.com/track/0OmPQqX1CajqAZ4MkBz6tb) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [I \(feat\. MINSEO\)](https://open.spotify.com/album/7wcgA4iskyzVb8s4w7St3e) | 4:00 | 2021-12-20 | 2022-07-29 |
@@ -305,6 +305,7 @@
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-23 |  |
 | [Sword 칼](https://open.spotify.com/track/70d0d8AihMEWKXl8aid4jB) | [Budung 버둥](https://open.spotify.com/artist/1cAqarmHOItcH2onbpbzBX) | [Chasing 잡아라!](https://open.spotify.com/album/2xQXEHDZjLgmqlEGUwE1Nl) | 2:49 | 2022-03-24 | 2022-04-13 |
 | [T O R O N T O](https://open.spotify.com/track/6hNudb9DR4aMgRVmppOkMc) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [T O R O N T O](https://open.spotify.com/album/3ngoBgyKEq10w2J1nsJxtP) | 4:18 | 2023-02-15 | 2023-02-25 |
+| [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 | 2023-03-31 |  |
 | [Tale 동화](https://open.spotify.com/track/1O6gfRnuWW3jRG77Tn8gHW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:47 | 2022-01-27 | 2022-04-12 |
 | [Talk To Me](https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 | 2023-01-25 |  |
 | [Tell Me](https://open.spotify.com/track/4mobQQm9hzeBawOl36Mmw9) | [Ru.a.na](https://open.spotify.com/artist/2bZpDQEYZ3dwfpjoxHTIzY) | [Tell Me](https://open.spotify.com/album/6cydofTPNZU5qc6FlE3mHA) | 3:57 | 2022-03-24 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Jão, Anitta
 
-363 songs - 19 hr 37 min
+364 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Macetar](https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Macetar](https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v) | 1:54 | 2023-02-14 |  |
 | [Mais Uma](https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [Zain](https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp) | [Mais Uma](https://open.spotify.com/album/4dnZFRXRCa2ez2jLAUcNp1) | 2:07 | 2023-03-17 |  |
 | [Make Love](https://open.spotify.com/track/3aQVJli1oacTuEez1JNOp9) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:41 | 2023-03-24 |  |
-| [MALA MEMO](https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:16 | 2023-02-14 |  |
+| [MALA MEMO](https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:16 | 2023-02-14 | 2023-04-02 |
+| [MALA MEMO](https://open.spotify.com/track/2RBgpZ7VODWZUjr0onXIzW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:16 | 2023-03-31 |  |
 | [Malvadão 2](https://open.spotify.com/track/1f9lD5VdRIGdSihiIwOFSx) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão 2](https://open.spotify.com/album/1E51Sg2mecSmWIXkuqY2mp) | 2:29 | 2020-10-20 | 2022-07-29 |
 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 | 2023-02-14 |  |
 | [Mamacita](https://open.spotify.com/track/25AJGUhaTSaWntIZgbQgxL) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Mamacita](https://open.spotify.com/album/6rNkjSuGLuirQNhwyWUoNo) | 2:26 | 2020-10-20 | 2022-07-29 |

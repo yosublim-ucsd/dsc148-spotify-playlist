@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MHmZWmSG0W.md) - [plain]
 
 > Let <a href="spotify:artist:5PdkRVDASsw6P7QoqRpz0F">Salvatore Ganacci</a>'s uniqueness be heard in this energetic mix filled with his own productions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341 likes - 21 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,372 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Siki Siki Baba \- Mixed](https://open.spotify.com/track/6Dq4Ntc1FD1zXrzSjckEYC) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Butch](https://open.spotify.com/artist/1GpIknY20BVWsFGF8CdBBw) | [Siki Siki Baba \(Mixed\)](https://open.spotify.com/album/1TxBuKbCSxL9ZiDR8lnDpb) | 3:45 |
 | 2 | [Interest in Sport \- Mixed](https://open.spotify.com/track/3VbPWcJZ0RYKQ6NxVxqVOY) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Interest in Sport \(Mixed\)](https://open.spotify.com/album/4amPqPAoCPIon7VTnk1ZdR) | 3:37 |
 | 3 | [The Concert \- Mixed](https://open.spotify.com/track/0ReTSluIODIuTIzTDJxvEy) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [The Concert \(Mixed\)](https://open.spotify.com/album/0WB0q4C1pyU78R8qKRe62e) | 1:48 |
-| 4 | [Church \(with PARISI\) \- Mixed](https://open.spotify.com/track/50rzsaM9NTEmCw4vLmqQRE) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Church \(with PARISI\) \[Mixed\]](https://open.spotify.com/album/0SMrRf78Rk88Ye3OymbWHm) | 2:50 |
+| 4 | [Church \- Mixed](https://open.spotify.com/track/50rzsaM9NTEmCw4vLmqQRE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Church \(Mixed\)](https://open.spotify.com/album/0SMrRf78Rk88Ye3OymbWHm) | 2:50 |
 | 5 | [And Dance \- Mixed](https://open.spotify.com/track/58OyAeuAx3i1WNe2Sg45N5) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [And Dance \(Mixed\)](https://open.spotify.com/album/79sHKm3O5JaOLIYdWyrvMq) | 5:40 |
 | 6 | [No Worries \- 2022 Version \- Mixed](https://open.spotify.com/track/3xNWZ0cXvAInDIaqJB9lmD) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [No Worries \- 2022 Version \(Mixed\)](https://open.spotify.com/album/6kdKTtIMMo2kBe5XkRE0QQ) | 3:49 |
 | 7 | [Nu World \- Solomun Remix \- Mixed](https://open.spotify.com/track/1sjsVuC4Q1i9du1RWPW7Ft) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nu World \- Solomun Remix \(Mixed\)](https://open.spotify.com/album/7sTkdQcFLhU66D972Wl7oo) | 2:17 |

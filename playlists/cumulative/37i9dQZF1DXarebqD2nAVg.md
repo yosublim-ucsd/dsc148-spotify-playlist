@@ -4,7 +4,7 @@
 
 > Raw, sentimental feels.
 
-106 songs - 4 hr 13 min
+107 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [I'm sorry](https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Theres Still Us](https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp) | 2:37 | 2023-02-16 | 2023-04-01 |
 | [im closing my eyes \(feat\. shiloh\)](https://open.spotify.com/track/3RO8tQsiLI0cJFcWGTUZKk) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [im closing my eyes \(feat\. shiloh\)](https://open.spotify.com/album/4rtNy3gLzPnkxkd5jxVMg4) | 1:58 | 2019-03-27 | 2023-01-20 |
 | [In My Eyes](https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah) | [Beowülf](https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg) | [In My Eyes](https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di) | 1:41 | 2023-02-16 |  |
+| [i’m sorry](https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Majestic Casual \- Chapter 3](https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6) | 2:37 | 2023-02-16 |  |
 | [Keep On Going](https://open.spotify.com/track/0W8GsPozYoonDEjOdLHnsC) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/51SCRafgNIjbYob0VCyhBn) | 2:40 | 2019-03-27 | 2022-07-29 |
 | [Keep On Going](https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD) | 2:40 | 2019-03-27 | 2023-02-17 |
 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 | 2019-03-27 | 2022-11-20 |
@@ -75,7 +76,7 @@
 | [memories of u](https://open.spotify.com/track/64VWsh5helyoWopibmzXmf) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9) | 1:56 | 2019-03-27 | 2023-02-17 |
 | [memories of you](https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:36 | 2023-02-16 |  |
 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 | 2023-02-16 |  |
-| [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2019-03-27 |  |
+| [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2019-03-27 | 2023-04-02 |
 | [No More](https://open.spotify.com/track/7cp4RhTjLWv4XEyeJLcbrp) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [No More](https://open.spotify.com/album/6cRPoaVpeyxtkM6IvZqwut) | 3:10 | 2019-03-27 | 2023-02-17 |
 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 | 2019-03-27 | 2023-03-04 |
 | [Safe \(feat\. Shiloh\)](https://open.spotify.com/track/0TMez4fjyOAciXn4VefMNU) | [Bra Dy](https://open.spotify.com/artist/6tTaHSgwQ4Ld5lBKAc93Bd), [Shiloh](https://open.spotify.com/artist/2hkB8tem6WtX6015adeOXU) | [Safe \(feat\. Shiloh\)](https://open.spotify.com/album/6r33t1qiEt1UfJrByhcdn9) | 3:05 | 2023-02-16 | 2023-03-25 |

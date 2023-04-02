@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrating International Transgender Day of Visibility\. Learn more and support <a href="http://spotify.com/transvisibility">here.</a> Cover: TAAHLIAH
+> <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: TAAHLIAH
 
 650 songs - 1 day 11 hr 29 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > RADAR's artists to watch in 2023\. Featuring RADAR official artist Q on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,926 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,033 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 40 | [LIFT MY HANDS](https://open.spotify.com/track/1ywzTEhz2wgVfaUvzPiXOQ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LIFT MY HANDS](https://open.spotify.com/album/2klAopt9CenASP8ZxD4JBh) | 3:39 |
 | 41 | [Ego Death](https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Ego Death](https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO) | 4:03 |
 
-Snapshot ID: `MTY4MDI5ODIwNSwwMDAwMDAwMGRhMjFjYjEzMjMyNjliOTc0YzIzN2I1MDBiODA4OTFm`
+Snapshot ID: `MTY4MDM2ODMzNSwwMDAwMDAwMDQzYWNmNmMyNTRlNWM0MjAwZDkxYjRlMTFlODM3NzNj`

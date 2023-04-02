@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 382156,
+  "num_followers": 382788,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4Nzc3NywwMDAwMDAwMDQzYzFkMjQyN2QxNjQzZTlmZDY0NGE2MTBkZjczNjBl",
+  "snapshot_id": "MTY3ODQ4Nzc3NywwMDAwMDAwMGM2ODcxNjgyMzg3M2FhNzA2NDZhN2Q3NzRiZjA0MzEz",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Gouryella",
-        "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
-      },
-      "artists": [
-        {
-          "name": "Gouryella",
-          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Gouryella",
-      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 228653,
       "name": "Loneliness - Radio Cut",
       "url": "https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Gouryella",
+        "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
+      },
+      "artists": [
+        {
+          "name": "Gouryella",
+          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Gouryella",
+      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
-        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Susana",
-          "url": "https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf"
-        }
-      ],
-      "duration_ms": 189816,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/0pfJH3eRkM4t9wlg6LwuTU"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Coming On Strong (ReOrder Remix)",
         "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 199719,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
+        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Susana",
+          "url": "https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf"
+        }
+      ],
+      "duration_ms": 189816,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/0pfJH3eRkM4t9wlg6LwuTU"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "C'est Musique (Armin van Buuren Mix)",
-        "url": "https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX"
+        "name": "Bits N Pianos",
+        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
       },
       "artists": [
         {
-          "name": "Shane",
-          "url": "https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "SDC",
+          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
         }
       ],
-      "duration_ms": 669685,
-      "name": "C'est Musique - Armin van Buuren Mix",
-      "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
+      "duration_ms": 329337,
+      "name": "Bits N Pianos",
+      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -843,18 +839,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Bits N Pianos",
-        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
+        "name": "C'est Musique (Armin van Buuren Mix)",
+        "url": "https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX"
       },
       "artists": [
         {
-          "name": "SDC",
-          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
+          "name": "Shane",
+          "url": "https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         }
       ],
-      "duration_ms": 329337,
-      "name": "Bits N Pianos",
-      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
+      "duration_ms": 669685,
+      "name": "C'est Musique - Armin van Buuren Mix",
+      "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
     },
     {
       "added_at": "2023-03-10 22:36:17",

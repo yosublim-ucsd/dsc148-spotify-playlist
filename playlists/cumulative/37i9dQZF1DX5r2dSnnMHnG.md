@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-154 songs - 8 hr 53 min
+155 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Spring in bloom](https://open.spotify.com/track/6m51in9H0buP6igYjOpoS7) | [Soul People](https://open.spotify.com/artist/4osIclpwZM5DUwI2JgBJp3) | [Spring in bloom](https://open.spotify.com/album/0TsOJe0TorrH9l5EhlAMnn) | 4:07 | 2022-05-11 | 2022-07-29 |
 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 | 2022-05-11 |  |
 | [Spring is coming to me too](https://open.spotify.com/track/5vLZtKnI0ydghxsW3Tc7vX) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [Spring is coming to me too](https://open.spotify.com/album/72US5x3oeSjI6o2Ycb2lXe) | 3:06 | 2022-05-11 | 2022-06-25 |
-| [Spring Is Gone by chance](https://open.spotify.com/track/5A0ut5JjeNLgGaScBIRyBU) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell OST Part.2](https://open.spotify.com/album/2DH3LaLcK63kEHYIH6ZK8A) | 3:21 | 2022-05-11 |  |
+| [Spring Is Gone by chance](https://open.spotify.com/track/5A0ut5JjeNLgGaScBIRyBU) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell OST Part.2](https://open.spotify.com/album/2DH3LaLcK63kEHYIH6ZK8A) | 3:21 | 2022-05-11 | 2023-04-02 |
+| [Spring Is Gone by chance](https://open.spotify.com/track/5rZN0PP6xZsf5SWxkpMm7k) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0KLTnRxu16LGkmlWJDAQkE) | 3:21 | 2023-03-27 |  |
 | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba) | 3:30 | 2022-05-11 |  |
 | [Spring Pieces 봄조각](https://open.spotify.com/track/1CMpIzWfPLpiPfr1YlyEo4) | [Sijm 시즘](https://open.spotify.com/artist/1sFAOMHlzpH19uht6wXdqL) | [Spring Pieces 봄조각](https://open.spotify.com/album/0YN9FtAqLe1S3i0dlRqVPG) | 2:50 | 2022-05-11 | 2022-07-20 |
 | [Spring Reminds Me Of You](https://open.spotify.com/track/1hC6jdVJfAzf42xdOtDoMJ) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [Spring Reminds Me Of You](https://open.spotify.com/album/0vboeLS2Bk7kLqChVINwmn) | 3:40 | 2022-05-11 | 2022-07-28 |

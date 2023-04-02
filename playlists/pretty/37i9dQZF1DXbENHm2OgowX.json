@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 32077,
+  "num_followers": 32113,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMGM3NDZhNTI5YTQxYTVmMzBjODk4MzAzMDJlMzUwYmVl",
+  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMDQ3ZjAwZjg3MWFlNDUzZmUwZGVmZjBiNmIxZDUzNGU1",
   "tracks": [
     {
       "added_at": "2023-01-20 15:04:59",
@@ -857,23 +857,7 @@
       "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
-    },
-    {
-      "added_at": "2023-04-01 01:06:04",
+      "added_at": "2023-04-02 01:06:14",
       "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
@@ -891,6 +875,22 @@
       "duration_ms": 153984,
       "name": "haunted (florence slowed version)",
       "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2023-01-20 15:04:59",

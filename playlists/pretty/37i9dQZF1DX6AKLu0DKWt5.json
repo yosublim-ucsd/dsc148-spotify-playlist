@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5475,
+  "num_followers": 5476,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDEyMzU5MmYxMjYxM2JhNzM1YzVkMjczZmU0OGFhZWUx",
+  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDMzZWRiOGIwMDQzMmNiMjkwMWU4OWE5MWQ1MmJhOTFm",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "Glass Onion: A Knives Out Mystery (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "duration_ms": 113897,
+      "name": "Theme from Glass Onion",
+      "url": "https://open.spotify.com/track/3ah2iIRAY7R3xbh1c8hKrW"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "T\u00c1R (MUSIC FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 199173,
       "name": "Symphony No. 5 in C Sharp Minor / Pt. 1: I. Trauermarsch & II. St\u00fcrmisch bewegt - Rehearsals",
       "url": "https://open.spotify.com/track/50Zfv1fSYcuTr9JeKV5OZ5"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Glass Onion: A Knives Out Mystery (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus"
-      },
-      "artists": [
-        {
-          "name": "Nathan Johnson",
-          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
-        }
-      ],
-      "duration_ms": 113897,
-      "name": "Theme from Glass Onion",
-      "url": "https://open.spotify.com/track/3ah2iIRAY7R3xbh1c8hKrW"
     },
     {
       "added_at": "2022-12-21 17:45:34",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "The Menu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rNzQmIHjZCVQEfdOxEItQ"
-      },
-      "artists": [
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
-        }
-      ],
-      "duration_ms": 264238,
-      "name": "All Aboard - from \"The Menu\" Soundtrack",
-      "url": "https://open.spotify.com/track/1hT4ky9OMjtDpZJbJs08XY"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
         "name": "Inventing Anna (Music From The Netflix Series)",
         "url": "https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM"
       },
@@ -443,22 +427,18 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "Blonde (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz"
+        "name": "The Menu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rNzQmIHjZCVQEfdOxEItQ"
       },
       "artists": [
         {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
-        },
-        {
-          "name": "Warren Ellis",
-          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
         }
       ],
-      "duration_ms": 225893,
-      "name": "Bright Horses (Instrumental)",
-      "url": "https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9"
+      "duration_ms": 264238,
+      "name": "All Aboard - from \"The Menu\" Soundtrack",
+      "url": "https://open.spotify.com/track/1hT4ky9OMjtDpZJbJs08XY"
     },
     {
       "added_at": "2022-12-21 17:45:34",
@@ -475,6 +455,26 @@
       "duration_ms": 76244,
       "name": "We're Back (Persons of Interest)",
       "url": "https://open.spotify.com/track/7rhF7tvuOdveyQ74ophxml"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
+        "name": "Blonde (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        },
+        {
+          "name": "Warren Ellis",
+          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "Bright Horses (Instrumental)",
+      "url": "https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9"
     },
     {
       "added_at": "2022-12-21 17:45:34",

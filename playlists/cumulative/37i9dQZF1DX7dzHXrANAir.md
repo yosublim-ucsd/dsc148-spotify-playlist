@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-243 songs - 17 hr 38 min
+244 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Pavane \- Sam Thompson Rework](https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM) | [Sam Thompson](https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV), [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Martha Thompson](https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX) | [Pavane \(Sam Thompson Rework\)](https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc) | 5:23 | 2022-07-22 | 2023-02-11 |
 | [Pelikan \- Aukai Rework](https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Pelikan \(Aukai Rework\)](https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp) | 5:32 | 2022-03-25 | 2022-04-20 |
 | [Peter](https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes, Vol\. II](https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP) | 3:57 | 2021-12-10 | 2023-03-10 |
+| [Peter](https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:57 | 2023-03-31 |  |
 | [Phases](https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Phases](https://open.spotify.com/album/608DP618oad2ENr4JzaYdT) | 3:09 | 2022-10-28 | 2023-03-14 |
 | [Phosphenes](https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4) | [Sam Thompson](https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV) | [As Now the Light Retreats](https://open.spotify.com/album/0xbyQ12QWk7PFgiXjOfVD7) | 4:09 | 2021-12-10 | 2022-07-29 |
 | [Pièces froides: II\. Danses de travers, 2\. Passer \- TWO LANES Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Pièces froides: II\. Danses de travers, 2\. Passer \[TWO LANES Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh) | 5:35 | 2021-12-10 |  |
@@ -188,7 +189,7 @@
 | [Rameau, etc](https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ) | [PAVANE](https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB) | [Rameau, etc](https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1) | 4:05 | 2022-03-25 |  |
 | [Rembihnútur \- Liminal re\-work by Paul Corley](https://open.spotify.com/track/5jPcyrg8ixRFxWcybzoQGt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:24 | 2022-03-25 | 2022-04-01 |
 | [Remembered Words](https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [We All Have Places That We Miss](https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa) | 5:10 | 2023-02-10 |  |
-| [Remembering](https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE) | [Thom Robson](https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk) | [Walking With Ghosts](https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a) | 3:54 | 2023-01-13 |  |
+| [Remembering](https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE) | [Thom Robson](https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk) | [Walking With Ghosts](https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a) | 3:54 | 2023-01-13 | 2023-04-02 |
 | [Retour](https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl), [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Retour](https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8) | 7:05 | 2021-12-10 |  |
 | [Reverie](https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO) | [Todd & Klein](https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz) | [Epilogue, Pt\. 1](https://open.spotify.com/album/56A14A6JdE5Cxxw4YKqL8p) | 3:00 | 2021-12-10 | 2022-07-28 |
 | [Rhythmicon](https://open.spotify.com/track/6OMhxlIR8Hrnbn8vtnCJrE) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M) | [Rhythmicon](https://open.spotify.com/album/6HJMeLoOUbqZkzLu2HxbCN) | 5:09 | 2022-01-21 | 2022-07-29 |

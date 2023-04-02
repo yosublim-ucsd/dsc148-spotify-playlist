@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-499 songs - 1 day 6 hr 41 min
+500 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Need Somebody \(Acoustic\)](https://open.spotify.com/track/2TukzxmwVW0JkiI8isgUXd) | [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Need Somebody \(Acoustic\)](https://open.spotify.com/album/6nkLk6EeG15an3kbLOJ86x) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 | 2022-07-01 |  |
 | [Need You Now](https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now \(Remix\)](https://open.spotify.com/album/5nzSVa3uk2ctc4ELkld7mj) | 3:56 | 2021-12-15 | 2022-05-13 |
-| [Nerve](https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nerve](https://open.spotify.com/album/0puJioCWJCRTm95h2DmOSl) | 2:58 | 2022-11-14 |  |
+| [Nerve](https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nerve](https://open.spotify.com/album/0puJioCWJCRTm95h2DmOSl) | 2:58 | 2022-11-14 | 2023-04-02 |
 | [Never Be Alone](https://open.spotify.com/track/4LWIp8HAFxpfg37mnxHqCS) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:35 | 2022-07-01 | 2023-01-05 |
 | [Never Be Alone](https://open.spotify.com/track/4k5FaS9QHmeJNu7kDNkLnO) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Never Be Alone](https://open.spotify.com/album/7BDdBEmGXbKki40g1r4za7) | 3:35 | 2021-12-15 | 2022-07-29 |
 | [Next To Me](https://open.spotify.com/track/2LaCyasH2uVsTPrO3bgLEK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/2iU0cUGlqNhNAPqoY54fMC) | 3:50 | 2022-02-07 | 2022-04-18 |
@@ -409,6 +409,7 @@
 | [Talk](https://open.spotify.com/track/5Kwi8hF3UyV8FfmzrdkDqE) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/3OQSAcBqlGTH1ydq7MUt8Z) | 4:28 | 2021-12-15 | 2022-07-26 |
 | [that was then](https://open.spotify.com/track/5gfSLaq4wPme6Nsvhg7alp) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie](https://open.spotify.com/album/3sVAfvNnL6CdF6U6owX18f) | 4:08 | 2022-02-07 | 2022-04-20 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2021-12-15 |  |
+| [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-03-31 |  |
 | [The Best You Had](https://open.spotify.com/track/5GT8b1dFaOWFF5twsmSOYx) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Best You Had](https://open.spotify.com/album/4UcVryZcV8ju40ZjGYYE1u) | 2:55 | 2021-12-15 | 2022-07-29 |
 | [The Best You Had](https://open.spotify.com/track/3i0VfLdOUCks9DmAht65XI) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 2:56 | 2022-07-01 | 2022-11-11 |
 | [The Book of Love](https://open.spotify.com/track/7MLZgiQmw0MATFIT3zKjw8) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [For You](https://open.spotify.com/album/26wUpvnA3YWqEpr0d8fbe6) | 3:13 | 2022-02-07 | 2022-04-20 |

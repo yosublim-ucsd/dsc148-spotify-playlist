@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 179040,
       "name": "Army Camp Harmony Blues",
       "url": "https://open.spotify.com/track/6RsdMKNawozhGqlP2i1IZu"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 152947,
       "name": "Black Cat Hoot Owl Blues",
       "url": "https://open.spotify.com/track/3UGcwgbDYLuVGUTHXhkWuQ"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 198933,
       "name": "Black Eye Blues",
       "url": "https://open.spotify.com/track/0pyIUitbPJ0Yau1DSlMZYc"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 186984,
       "name": "Blues The World Forgot - Part 2",
       "url": "https://open.spotify.com/track/6Jrmut4oucwIvd3caTsNCL"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 182600,
       "name": "Farewell Daddy Blues",
       "url": "https://open.spotify.com/track/5gXcVZdE4t3625XIYn2ZTt"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 174960,
       "name": "Four Day Honorary Scat: 2",
       "url": "https://open.spotify.com/track/7GPJS2ML5iURFTlNElxyhd"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 202658,
       "name": "Four Day Honory Scat (Take 1)",
       "url": "https://open.spotify.com/track/0jaNMavPO23d0ut1KfBCGA"
@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "First of the Great Blues Singers",
+        "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "Let's Get It Straight",
+      "url": "https://open.spotify.com/track/24ZVqUW4YiOsnAK1jIvtbp"
+    },
+    {
+      "album": {
         "name": "Booze and Blues",
         "url": "https://open.spotify.com/album/0QBW52anY4yPNHKvTAjUsQ"
       },
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 161593,
       "name": "Misery Blues",
       "url": "https://open.spotify.com/track/6tcfRhVILM8brsQr2dj3qK"
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 193358,
       "name": "See See Rider Blues (Take 1)",
       "url": "https://open.spotify.com/track/0YZnvHqwtoev2MwObrNmed"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 187853,
       "name": "Those All Night Blues",
       "url": "https://open.spotify.com/track/3NWcy10odYa4dR9k1bZt8D"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 185522,
       "name": "Toad Frog Blues",
       "url": "https://open.spotify.com/track/1NjKoqe99Gp4RZbuqeaPvU"

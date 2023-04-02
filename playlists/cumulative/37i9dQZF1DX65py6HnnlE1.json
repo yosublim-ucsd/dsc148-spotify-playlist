@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 177600,
       "name": "Pena Por Ti",
       "url": "https://open.spotify.com/track/1HX2dU4tr8PfvS648S0Xtz"
@@ -1838,6 +1838,24 @@
       "duration_ms": 178600,
       "name": "Pena por Ti",
       "url": "https://open.spotify.com/track/1qFnIBb3QdDk4jGSCH1XuU"
+    },
+    {
+      "album": {
+        "name": "Pena Por T\u00ed",
+        "url": "https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl"
+      },
+      "artists": [
+        {
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178776,
+      "name": "Pena Por T\u00ed",
+      "url": "https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd"
     },
     {
       "album": {

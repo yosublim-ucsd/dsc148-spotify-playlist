@@ -1,6 +1,6 @@
 {
   "description": "Let <a href=\"spotify:artist:5PdkRVDASsw6P7QoqRpz0F\">Salvatore Ganacci</a>'s uniqueness be heard in this energetic mix filled with his own productions.",
-  "num_followers": 1341,
+  "num_followers": 1372,
   "original_name": "Salvatore Ganacci's DJ Mix",
   "owner": {
     "name": "Spotify",
@@ -63,10 +63,14 @@
     {
       "added_at": "2023-03-22 07:00:00",
       "album": {
-        "name": "Church (with PARISI) [Mixed]",
+        "name": "Church (Mixed)",
         "url": "https://open.spotify.com/album/0SMrRf78Rk88Ye3OymbWHm"
       },
       "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
         {
           "name": "Steve Angello",
           "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
@@ -78,14 +82,10 @@
         {
           "name": "Buy Now",
           "url": "https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ"
-        },
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
         }
       ],
       "duration_ms": 170000,
-      "name": "Church (with PARISI) - Mixed",
+      "name": "Church - Mixed",
       "url": "https://open.spotify.com/track/50rzsaM9NTEmCw4vLmqQRE"
     },
     {

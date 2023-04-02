@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,152 likes - 74 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,195 likes - 74 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 51 | [Wenn Die Welt Weint](https://open.spotify.com/track/4Nu3ioTzEbCC48lD2UX4co) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Wenn Die Welt Weint](https://open.spotify.com/album/22uorOmcd34IXxtZvPKdbD) | 2:55 |
 | 52 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 |
 | 53 | [No Words](https://open.spotify.com/track/5PBxD6QaOYV1HKeKNvgDCk) | [Pale Blue](https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr) | [No Words](https://open.spotify.com/album/27iuFlJawNgWcNsK3WGUzb) | 4:46 |
-| 54 | [1999](https://open.spotify.com/track/5ABy6tQKNoAAZfwStB0DcS) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo), [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [1999](https://open.spotify.com/album/3JBOKKRLPdZmUwLOydCBkT) | 3:28 |
+| 54 | [1999](https://open.spotify.com/track/5ABy6tQKNoAAZfwStB0DcS) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [1999](https://open.spotify.com/album/3JBOKKRLPdZmUwLOydCBkT) | 3:28 |
 | 55 | [Move Me](https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Move Me](https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE) | 3:51 |
 | 56 | [Cry Cry Cry](https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Cry Cry Cry](https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO) | 3:22 |
 | 57 | [Like You in Linen](https://open.spotify.com/track/43C6k35MErofjbUCQAFD37) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Like You in Linen](https://open.spotify.com/album/0uyaQpCaqeZKLHS5Zf8e4x) | 3:20 |

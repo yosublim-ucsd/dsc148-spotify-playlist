@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-234 songs - 14 hr 22 min
+235 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Gerua \(From "Dilwale"\)](https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 5:45 | 2023-03-20 |  |
 | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ) | 3:13 | 2023-01-09 |  |
 | [Ghungroo \(From "War"\)](https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ghungroo \(From "War"\)](https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ) | 5:02 | 2019-09-27 | 2023-02-07 |
+| [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/track/0fRmEv74VclQ4DFi4RVi5a) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Jizzy](https://open.spotify.com/artist/0Eou17pQD8Wd8sqQnoIOQ4) | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/album/4o7G62VPpg3RE9unGYrFSF) | 3:23 | 2023-04-01 |  |
 | [Haan Main Galat \(From "Love Aaj Kal"\)](https://open.spotify.com/track/068HSvCf5MbQfhV4qqaelg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Haan Main Galat \(From "Love Aaj Kal"\)](https://open.spotify.com/album/5e0lk4qOylKNYoQKe7nxhC) | 3:38 | 2020-01-29 | 2022-08-20 |
 | [Hakam \(From "Teeja Punjab"\)](https://open.spotify.com/track/0qev4ho1deZhQLKVtkMV0b) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Shah An Shah](https://open.spotify.com/artist/7m7CYrgAso8DmLNwWL3yTD), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Hakam \(From "Teeja Punjab"\)](https://open.spotify.com/album/569VCuJEFZWQXYJP2GCpY9) | 2:59 | 2021-11-30 | 2022-04-19 |
 | [Har Funn Maula \(From "Koi Jaane Na"\)](https://open.spotify.com/track/3ayMReTwLoo6jAg7adDqyz) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P) | [Har Funn Maula \(From "Koi Jaane Na"\)](https://open.spotify.com/album/2UkMgINFaNJYDOkzKBE8yc) | 4:07 | 2021-03-25 | 2022-04-19 |

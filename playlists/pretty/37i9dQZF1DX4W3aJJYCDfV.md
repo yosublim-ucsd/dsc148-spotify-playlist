@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Davido \(pictured\), Cat Burns, Georgia and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,544 likes - 123 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,618 likes - 123 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 118 | [Pull Up](https://open.spotify.com/track/4BNrVoRFuLQqVHxKBpa1YA) | [House of EL](https://open.spotify.com/artist/0UMMEX2H03BK9oleRvjHos), [Sækyi](https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB) | [Pull Up](https://open.spotify.com/album/7COKTK6PIS0xcvqAAfbybV) | 2:22 |
 | 119 | [Love Of My Life](https://open.spotify.com/track/3E9m3h6DvHDR6YKZHcExaK) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Love Of My Life](https://open.spotify.com/album/72DYOxcf0YUxlj2GVdwvAg) | 2:49 |
 | 120 | [Before Sunset](https://open.spotify.com/track/5ATYkNayeDUVEgv3YsR6h4) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [Before Sunset](https://open.spotify.com/album/5QxSOkqhHPd7GSelL2uDRE) | 3:46 |
-| 121 | [You Take Me High \(feat\. Tendai\)](https://open.spotify.com/track/2aUIlPyl4w1XeJJIle8DrX) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [Tendai](https://open.spotify.com/artist/4hmylka20BUPWymqRRSqWx) | [You Take Me High \(feat\. Tendai\)](https://open.spotify.com/album/7FaBE39lmLdOSLUw1mzcqy) | 3:04 |
+| 121 | [You Take Me High \(feat\. Tendai\)](https://open.spotify.com/track/2aUIlPyl4w1XeJJIle8DrX) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [Tendai](https://open.spotify.com/artist/1M0CCoQo5AGCoWh7FIdaNs) | [You Take Me High \(feat\. Tendai\)](https://open.spotify.com/album/7FaBE39lmLdOSLUw1mzcqy) | 3:04 |
 | 122 | [I Don't Live Here Anymore](https://open.spotify.com/track/7ECJeHWuydb003xEiqUnn1) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [I Don't Live Here Anymore](https://open.spotify.com/album/5YZg6tXn4z1kPX30tJ8scD) | 3:06 |
 | 123 | [✨ mum is calling ✨](https://open.spotify.com/track/27fusRmYpex94O3REevU1F) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4rT7zzBMEzrHJ0i7X81Rdv) | 3:18 |
 

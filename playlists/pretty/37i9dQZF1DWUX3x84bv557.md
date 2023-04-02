@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Zoë Tauran op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,697 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,758 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 3 | [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 |
 | 4 | [Layla](https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/5WBoyKy4ezxq7P4v6Yyvf7) | 2:43 |
 | 5 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 |
-| 6 | [De Nacht](https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn) | 2:30 |
+| 6 | [De Nacht](https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII) | 2:30 |
 | 7 | [Dit Moet Verliefd Zijn](https://open.spotify.com/track/64ArZjpQr4pTH9SuMYjm6b) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Dit Moet Verliefd Zijn](https://open.spotify.com/album/3QAnfcAmeRXDJibQrfUJZq) | 3:27 |
 | 8 | [Terugweg](https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Terugweg](https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii) | 2:43 |
 | 9 | [Het Feest Is Al Voorbij](https://open.spotify.com/track/79L1CzU84gFrFIqriFu6os) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Alles Smaakt Beter Met Prik](https://open.spotify.com/album/6QXgdZ5XkMOuQmRpv0KIo0) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 99 | [Goddamn](https://open.spotify.com/track/1RKkXpPjda5Ow3dih6nNI8) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Lima](https://open.spotify.com/album/5Xj9VAjRTCfXHTWjHn2bxM) | 2:25 |
 | 100 | [Ver Van Huis](https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Ver Van Huis](https://open.spotify.com/album/2pXbiUAJ6gbNNjHOy7qFcM) | 3:21 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDg5ODA4MTg0OGI1NTAzYjQ2ZWIwYzk4NjIxZGJkYjll`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMGNkMjgwYjZmYzJmYjAzYWNjZWEzOWQ5YzRkYTAyZGFm`

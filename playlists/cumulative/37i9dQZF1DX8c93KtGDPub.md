@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-262 songs - 15 hr 21 min
+263 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [1996](https://open.spotify.com/track/4Ty0vDG9dS1dLa2x2aPK3v) | [The Lake Poets](https://open.spotify.com/artist/1DuQn0J1YVDcA4g0WJwRvw) | [The Lake Poets](https://open.spotify.com/album/2oi7ulPKLf1eItg8P9f8li) | 3:33 | 2021-12-24 |  |
 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 | 2021-12-24 |  |
 | [7 O'clock News / Silent Night](https://open.spotify.com/track/1vt97xJDv7I0r7sZfpBh8X) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/6UVMddA5Sra9lidIcEJoTx) | 2:02 | 2021-12-24 | 2022-07-29 |
-| [A Child's Christmas in Wales](https://open.spotify.com/track/1cIs8KYUELQisgxr4ge3bj) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/2clg3LK0ARJLApeqhKI3Ow) | 3:53 | 2021-12-24 |  |
+| [A Child's Christmas in Wales](https://open.spotify.com/track/1cIs8KYUELQisgxr4ge3bj) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/2clg3LK0ARJLApeqhKI3Ow) | 3:53 | 2021-12-24 | 2023-04-02 |
 | [A Child's Christmas in Wales](https://open.spotify.com/track/4KCmvWOJCXFCXyY4TvH7DE) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/4EHx0sAHOQT805dBoiiSpf) | 3:53 | 2021-12-24 | 2022-07-29 |
+| [A Child's Christmas in Wales](https://open.spotify.com/track/4gydEH2RTA91rV5F8NkonM) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/2ixBkmoRp6Mnt6irGcr9B1) | 3:53 | 2022-11-15 |  |
 | [A Little Magic](https://open.spotify.com/track/6rCw1KBUFspWwrjITjaQCN) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [A Little Magic](https://open.spotify.com/album/3JGH2XprRi3xsQH19J40Ko) | 2:53 | 2021-12-24 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/4zIyVPoeA6E71Y0a4FpgbT) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [All I Want For Christmas Is You](https://open.spotify.com/album/6stDo8b4EYNFZCPn0vESRz) | 3:09 | 2022-11-15 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/2XxEQ7WcKW2N1ej6G9SxR5) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [All I Want for Christmas Is You](https://open.spotify.com/album/1hZtFOaHptEeLk0Qj14rF1) | 3:02 | 2021-12-24 | 2022-07-29 |
@@ -64,8 +65,8 @@
 | [Christmas Must Be Tonight](https://open.spotify.com/track/4oTvofluzKOEfYRpus5wwm) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/2cnnQ2yuRdtpmVe1vRuyru) | 3:47 | 2021-12-24 | 2022-07-29 |
 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 | 2021-12-24 |  |
 | [Christmas Must Be Tonight](https://open.spotify.com/track/6SmcOPw2z5Ha0hl6M8kadt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Indie & Folk Christmas 2022](https://open.spotify.com/album/5XyV9ciesak8GB2gRveME5) | 3:47 | 2021-12-24 | 2022-11-13 |
-| [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 | 2021-12-24 | 2023-04-01 |
-| [Christmas Song](https://open.spotify.com/track/3FLo2Axjd3CB22BUbrcJmZ) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [My Friends All Died in a Plane Crash](https://open.spotify.com/album/4oWpaJ9K4QXSrtjvHBwGsg) | 3:11 | 2022-11-15 |  |
+| [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 | 2021-12-24 |  |
+| [Christmas Song](https://open.spotify.com/track/3FLo2Axjd3CB22BUbrcJmZ) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [My Friends All Died in a Plane Crash](https://open.spotify.com/album/4oWpaJ9K4QXSrtjvHBwGsg) | 3:11 | 2022-11-15 | 2023-04-02 |
 | [Christmas Tipsy](https://open.spotify.com/track/3Olu03toKvfdOsJASvH0du) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [Christmas Tipsy](https://open.spotify.com/album/140Y6P1v5FSJ0GOPwaOIUH) | 3:43 | 2021-12-24 |  |
 | [Christmas Tree](https://open.spotify.com/track/1DauQsxBWMtYJmiV6iIKHq) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/3tIAOisF8RB8jiJdCgMIwN) | 3:13 | 2021-12-24 |  |
 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 | 2021-12-24 |  |

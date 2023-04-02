@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: PJAE\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,881 likes - 176 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,930 likes - 176 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

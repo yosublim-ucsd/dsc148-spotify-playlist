@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Om jag ramlar omkull så är det bara för att jag är fuuuull!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,600 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,720 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 13 | [Lallare \(feat\. Fjortisper & Isak Löb\)](https://open.spotify.com/track/4sYY9yh77rqUEepvhYXZGG) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Fjortisper](https://open.spotify.com/artist/6nZSlTPlopHz04FgQCIAkk), [Isak Löb](https://open.spotify.com/artist/1dDiEbpoW7MaTxhhWxRuzT) | [Lallare \(feat\. Fjortisper & Isak Löb\)](https://open.spotify.com/album/3s8yea08hRA80v4kyikBLG) | 2:27 |
 | 14 | [DunkDunkDunk](https://open.spotify.com/track/0JxQNOhOGzo95AxYBvYDyE) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [DunkDunkDunk](https://open.spotify.com/album/6WtguNMxX8ONaqrr4yVJ8h) | 2:16 |
 | 15 | [Raggarbruden](https://open.spotify.com/track/4BD1UNL0sJSOVCTz17I8sZ) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Raggarbruden](https://open.spotify.com/album/1bb7qNLMTdsbZFL1qAk0kw) | 2:40 |
-| 16 | [DansbandsRAVE](https://open.spotify.com/track/7I9xY2V2hmOuyonAG8LImj) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [DansbandsRAVE](https://open.spotify.com/album/76q8zCzlrSL7004pSFT6Fp) | 2:30 |
+| 16 | [DansbandsRAVE](https://open.spotify.com/track/7I9xY2V2hmOuyonAG8LImj) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [Jazzman](https://open.spotify.com/artist/6scL6Vx5FpIw2RiyoSBuef) | [DansbandsRAVE](https://open.spotify.com/album/76q8zCzlrSL7004pSFT6Fp) | 2:30 |
 | 17 | [Aldrig bakis \- Mozby Remix](https://open.spotify.com/track/5JjSecXTv5UcyeOpqjviX6) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Aldrig bakis \(Mozby Remix\)](https://open.spotify.com/album/4suXqKlcnqtRByQZx1x3fx) | 2:13 |
 | 18 | [RAGGARBIL](https://open.spotify.com/track/2VhK6oiMVLEMp16Ri3FRqW) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [RAGGARBIL](https://open.spotify.com/album/4OzfP62K5kmYNkBD1yw0nd) | 2:04 |
 | 19 | [MIN KÄRA MAMMA](https://open.spotify.com/track/5hFzPWi9fAXzrEuuL6Sufn) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [MIN KÄRA MAMMA](https://open.spotify.com/album/0Pxynl2BaH8hA0jIrnlPVO) | 2:18 |

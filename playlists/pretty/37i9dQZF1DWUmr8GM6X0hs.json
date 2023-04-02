@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 62775,
+  "num_followers": 62830,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDk4MmVkNDRiOWE3ZDBmOTcxZTExMjliN2Q3MTM0MGMw",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGIxZTRhZWVjYTI0YWJlZTkxOGEyMzdkMzk1OTA0MTM2",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "\u00c9xitos Alci Acosta",
+        "url": "https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "duration_ms": 152531,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/6VUzRBWXZwsH6ODa68KNdX"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
         "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 159240,
       "name": "Se Rompio la Cadena",
       "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "\u00c9xitos Alci Acosta",
-        "url": "https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 152531,
-      "name": "El Contragolpe",
-      "url": "https://open.spotify.com/track/6VUzRBWXZwsH6ODa68KNdX"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "La Voz Elegante del Bolero",
+        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Farf\u00e1n",
+          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "Se\u00f1or Abogado",
+      "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Una Rockola en el Cielo, Vol. 1",
         "url": "https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 113653,
       "name": "Se\u00f1or Abogado",
       "url": "https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Selecci\u00f3n Especial (Remastered)",
-        "url": "https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Si Nos Dejan - Remastered",
-      "url": "https://open.spotify.com/track/5BOaXQYdApvDBVFCSxd23D"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "La Voz Elegante del Bolero",
-        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
+        "name": "Selecci\u00f3n Especial (Remastered)",
+        "url": "https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR"
       },
       "artists": [
         {
-          "name": "Johnny Farf\u00e1n",
-          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 163400,
-      "name": "Se\u00f1or Abogado",
-      "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
+      "duration_ms": 182546,
+      "name": "Si Nos Dejan - Remastered",
+      "url": "https://open.spotify.com/track/5BOaXQYdApvDBVFCSxd23D"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Ese Bolero Es M\u00edo",
-      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "50 A\u00f1os Live",
         "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
       },
@@ -767,18 +751,34 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
       "artists": [
         {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
         }
       ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
+      "duration_ms": 173373,
+      "name": "Ese Bolero Es M\u00edo",
+      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aranda",
+          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Solo Cenizas Quedaron",
+      "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
       "artists": [
         {
-          "name": "Daniel Aranda",
-          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Solo Cenizas Quedaron",
-      "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
+      "duration_ms": 137826,
+      "name": "En El Balcon Aquel",
+      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
     },
     {
       "added_at": "2021-12-17 05:01:00",

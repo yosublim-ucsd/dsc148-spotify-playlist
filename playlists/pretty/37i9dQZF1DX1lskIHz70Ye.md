@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,159 likes - 103 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,201 likes - 103 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 7 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 |
 | 8 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
 | 9 | [Etude in B Minor Op 35, No\. 22](https://open.spotify.com/track/1bXlPJ4imn61Wgp07VxNeT) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2), [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd) | [Etude in B Minor Op 35, No\. 22](https://open.spotify.com/album/6lRwu0g0mCOzTryQHoLnux) | 1:42 |
-| 10 | [Schwanengesang, D.957: Ständchen \(Arr\. J\. K\. Mertz\)](https://open.spotify.com/track/25ZCsdrkQDstOIr2gtiBXl) | [Franz Schubert](https://open.spotify.com/artist/5Ms5QvLqKkE7w74pqwFjRH), [Raimundo Luco](https://open.spotify.com/artist/5tF1ThzwEZEjowMN64pfbY) | [Schwanengesang, D.957: Ständchen \(Arr\. J\. K\. Mertz\)](https://open.spotify.com/album/5pNvOBLcfteZbjlAAsOTps) | 4:23 |
+| 10 | [Schwanengesang, D.957: Ständchen \(Arr\. J\. K\. Mertz\)](https://open.spotify.com/track/25ZCsdrkQDstOIr2gtiBXl) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Raimundo Luco](https://open.spotify.com/artist/5tF1ThzwEZEjowMN64pfbY) | [Schwanengesang, D.957: Ständchen \(Arr\. J\. K\. Mertz\)](https://open.spotify.com/album/5pNvOBLcfteZbjlAAsOTps) | 4:23 |
 | 11 | [The Wizard of Oz \(arr\. J\. Carter\): Wizard of Oz: Epilogue \- Over the Rainbow](https://open.spotify.com/track/0dqTvunQcHw7WscGn3zoNv) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1), [John Stubberfield](https://open.spotify.com/artist/77ze7bd3cvDho2XbA7t8yg), [Martin Entwistle](https://open.spotify.com/artist/5F2HOKGYHiZ0ideI9s52yU) | [Carter Jason: Eclipse](https://open.spotify.com/album/0OksXOwEMDQKSZkPlwXtik) | 2:30 |
 | 12 | [Alta Gracia](https://open.spotify.com/track/010yj9FYqZdw3WfYSxD1xD) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Alta Gracia](https://open.spotify.com/album/3uBkXH5pj3w8MgWmNIxIAo) | 2:22 |
 | 13 | [Grande sonata, MS 3\. II\. Romance \- Più tosto Largo, Amorosamente](https://open.spotify.com/track/5t5gLPTHxS72odJk4MhDIl) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Grande sonata, MS 3\. II\. Romance \- Più tosto Largo, Amorosamente](https://open.spotify.com/album/3EsiCjBLa9Y7LBWE7M0k2v) | 3:17 |

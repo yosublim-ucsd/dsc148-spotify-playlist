@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 94190,
+  "num_followers": 94274,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzODg2MCwwMDAwMDAwMDlkZGExMGM2MGIyZGIxNjU3YWNlZGJjMzIwOTg5NGE5",
+  "snapshot_id": "MTY4MDIzODg2MCwwMDAwMDAwMDcxMTI5OWM0MGI3NmNmN2RjOGJjNDcwYzczZGY2NjQ3",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Expreso Tropical Parada 1",
-        "url": "https://open.spotify.com/album/5uoW9SUUtQ17G3pLHwdmV9"
-      },
-      "artists": [
-        {
-          "name": "Corazon Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Decid\u00ed Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/6dQnfkXZU4ikIk8V54bwVI"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Goza Tu Cumbia: Peruvian Cumbia",
         "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 261600,
       "name": "El Solitario",
       "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Nectar Internacional",
+        "url": "https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "El Arbolito",
+      "url": "https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Nectar Internacional",
-        "url": "https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2"
+        "name": "Expreso Tropical Parada 1",
+        "url": "https://open.spotify.com/album/5uoW9SUUtQ17G3pLHwdmV9"
       },
       "artists": [
         {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+          "name": "Corazon Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
         }
       ],
-      "duration_ms": 210048,
-      "name": "El Arbolito",
-      "url": "https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B"
+      "duration_ms": 219533,
+      "name": "Decid\u00ed Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/6dQnfkXZU4ikIk8V54bwVI"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Mi Princesa, Vol. 3",
-        "url": "https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG"
-      },
-      "artists": [
-        {
-          "name": "Zafiro Sensual",
-          "url": "https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1"
-        }
-      ],
-      "duration_ms": 351308,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "He Sentido Amor",
         "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 235154,
       "name": "He Sentido Amor",
       "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Mi Princesa, Vol. 3",
+        "url": "https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG"
+      },
+      "artists": [
+        {
+          "name": "Zafiro Sensual",
+          "url": "https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1"
+        }
+      ],
+      "duration_ms": 351308,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Amor Incomparable",
-        "url": "https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88"
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ"
       },
       "artists": [
         {
-          "name": "Grupo Guinda",
-          "url": "https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD"
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
         }
       ],
-      "duration_ms": 194746,
-      "name": "Amor Incomparable",
-      "url": "https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN"
+      "duration_ms": 246048,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE"
     }
   ],
   "unique_name": "Cumbias de Oro",

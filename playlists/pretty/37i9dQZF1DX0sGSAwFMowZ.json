@@ -1,12 +1,12 @@
 {
   "description": "This Is Girls' Generation. The essential tracks, all in one playlist.",
-  "num_followers": 224499,
+  "num_followers": 224557,
   "original_name": "This Is Girls' Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTkzMDU3NCwwMDAwMDAwMDQ4MTU0OTRhOGM5ZTA4MWFkMDc5MmQ3MTVlZGY5NzI4",
+  "snapshot_id": "MTY1OTkzMDU3NCwwMDAwMDAwMGU1ZWRjNDAzMGE0MzNlYWMyMDE1MjQxYTA0NjE2YzAz",
   "tracks": [
     {
       "added_at": "2022-08-08 03:49:33",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2022-08-08 03:49:33",
       "album": {
-        "name": "The Boys",
-        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
         }
       ],
-      "duration_ms": 226893,
-      "name": "The Boys",
-      "url": "https://open.spotify.com/track/6o6XlivwGtP1JgQZ8IAwty"
+      "duration_ms": 228880,
+      "name": "The Boys - English Version",
+      "url": "https://open.spotify.com/track/3ym8svDx03YE9WDdLOOg1z"
     },
     {
       "added_at": "2022-08-08 03:49:33",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2022-08-08 03:49:33",
       "album": {
-        "name": "The Boys",
-        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
       },
       "artists": [
         {
@@ -1484,19 +1484,27 @@
           "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Lil Playy",
+          "url": "https://open.spotify.com/artist/1d5znoU7LGiCy3H8TMtLWg"
+        },
+        {
+          "name": "Clinton Sparks",
+          "url": "https://open.spotify.com/artist/3kOPviLsiuKCFTTsHc47lI"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
         }
       ],
-      "duration_ms": 256786,
+      "duration_ms": 256777,
       "name": "The Boys - Clinton Sparks & Disco Fries Remix",
-      "url": "https://open.spotify.com/track/7eIEa58JbbZyDPYpJNBkxc"
+      "url": "https://open.spotify.com/track/0lgjN8m6N7SndvLmwo5nm7"
     },
     {
       "added_at": "2022-08-08 03:49:33",
       "album": {
-        "name": "The Boys",
-        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
       },
       "artists": [
         {
@@ -1505,44 +1513,56 @@
         },
         {
           "name": "Suzi",
-          "url": "https://open.spotify.com/artist/3ImHydeN8Sciy5cLgeDtOR"
+          "url": "https://open.spotify.com/artist/1IwKtNTYM8znWPKnv3kU8J"
+        },
+        {
+          "name": "Teddy Riley",
+          "url": "https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw"
         }
       ],
-      "duration_ms": 216733,
-      "name": "The Boys *Bring Dem Boys*",
-      "url": "https://open.spotify.com/track/1t1pTgdPrhJGMwt5gZqFel"
+      "duration_ms": 218720,
+      "name": "The Boys *Bring Dem Boys* - Teddy Riley Remix",
+      "url": "https://open.spotify.com/track/79qKDXwVdpsalZvRX8eq0k"
     },
     {
       "added_at": "2022-08-08 03:49:33",
       "album": {
-        "name": "The Boys",
-        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
       },
       "artists": [
         {
           "name": "Girls' Generation",
           "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "David Anthony",
+          "url": "https://open.spotify.com/artist/75frj8UB2JwByVGCHxGbpy"
         }
       ],
-      "duration_ms": 264000,
+      "duration_ms": 265986,
       "name": "The Boys *Bring The Boys Out* - David Anthony Remix",
-      "url": "https://open.spotify.com/track/1clLR4YXaRgd5MP1PCr5SM"
+      "url": "https://open.spotify.com/track/5ecmJO7p9d4OSTUq3JiH7A"
     },
     {
       "added_at": "2022-08-08 03:49:33",
       "album": {
-        "name": "The Boys",
-        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
       },
       "artists": [
         {
           "name": "Girls' Generation",
           "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Teddy Riley",
+          "url": "https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw"
         }
       ],
-      "duration_ms": 241200,
+      "duration_ms": 243186,
       "name": "The Boys *Bring The Boys* - Teddy Riley Remix",
-      "url": "https://open.spotify.com/track/1hCBfU7DDU48zoeZNUJv6c"
+      "url": "https://open.spotify.com/track/751VCyYR0ZLHbz2IzBXUPy"
     },
     {
       "added_at": "2022-08-08 03:49:33",

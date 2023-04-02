@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48233,
+  "num_followers": 48256,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NzEzMCwwMDAwMDAwMDdmZmUwMDU5ZGJjMGE2NDEyYzU1ZGE1YWU2MzEyZDMy",
+  "snapshot_id": "MTY4MDI3NzEzMCwwMDAwMDAwMDc2M2I5ZTliZTk4MDM5MmJmNDA2YjNmZmM1OGVlYjE1",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -1731,18 +1731,26 @@
     {
       "added_at": "2022-12-23 05:53:22",
       "album": {
-        "name": "Praja Rajya",
-        "url": "https://open.spotify.com/album/0qTCxXdhmhFTpHYxQPhPNg"
+        "name": "Jai Election Dhan Dhana Dhan (From \"Prajarajya\")",
+        "url": "https://open.spotify.com/album/1zRceyro2HUc5O6h51hZyZ"
       },
       "artists": [
         {
           "name": "Upendra",
           "url": "https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH"
+        },
+        {
+          "name": "Vijetha Manjaiah",
+          "url": "https://open.spotify.com/artist/4shEtV0cxBRMGw1T1YoavQ"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
         }
       ],
-      "duration_ms": 229365,
-      "name": "Jai Election Dhan Dhana Dhan",
-      "url": "https://open.spotify.com/track/2KMbDxBUmNclFEnBbSHodQ"
+      "duration_ms": 231176,
+      "name": "Jai Election Dhan Dhana Dhan - From \"Prajarajya\"",
+      "url": "https://open.spotify.com/track/3IFy5BLCShAilzgPQQmbXW"
     },
     {
       "added_at": "2023-01-13 11:29:59",
@@ -1955,18 +1963,22 @@
     {
       "added_at": "2022-10-27 11:48:36",
       "album": {
-        "name": "Head Bush",
-        "url": "https://open.spotify.com/album/2vGOIhx4KxChnbqO4S7WRQ"
+        "name": "Habibi Habibi",
+        "url": "https://open.spotify.com/album/52HBIbzhwv1t4lMuJKfTFD"
       },
       "artists": [
         {
           "name": "Vagu Mazan",
           "url": "https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
         }
       ],
       "duration_ms": 216923,
       "name": "Habibi Habibi",
-      "url": "https://open.spotify.com/track/5JOg1vfzLwNsattTDq9QbO"
+      "url": "https://open.spotify.com/track/1Tomechk8C2ADcmGxlrNw1"
     },
     {
       "added_at": "2022-11-23 09:49:27",
@@ -2019,8 +2031,8 @@
     {
       "added_at": "2022-10-17 05:34:12",
       "album": {
-        "name": "Dil Pasand",
-        "url": "https://open.spotify.com/album/0iICq3mg6ddYWF6ZYoVAES"
+        "name": "Rama Rama Rama",
+        "url": "https://open.spotify.com/album/1q18QQCiHIurxiTdHY85hR"
       },
       "artists": [
         {
@@ -2030,7 +2042,7 @@
       ],
       "duration_ms": 182636,
       "name": "Rama Rama Rama",
-      "url": "https://open.spotify.com/track/0aLovS5m8YwIdgNfruWPjO"
+      "url": "https://open.spotify.com/track/6RFoaGn8nqc7LfqvYO84cp"
     },
     {
       "added_at": "2022-10-12 07:23:01",
@@ -2131,8 +2143,8 @@
     {
       "added_at": "2022-10-27 11:09:02",
       "album": {
-        "name": "Raymo",
-        "url": "https://open.spotify.com/album/2d73atLAA3Mr9CdG4nYTNO"
+        "name": "Hodare Hogu Yaarige Beku (Raymo)",
+        "url": "https://open.spotify.com/album/5vd35RkFioo7v6cCcaK43L"
       },
       "artists": [
         {
@@ -2141,8 +2153,8 @@
         }
       ],
       "duration_ms": 267008,
-      "name": "Hodare Hogu Yaarige Beku",
-      "url": "https://open.spotify.com/track/7aGVMy9HJ5UBvZiYfWb2y9"
+      "name": "Hodare Hogu Yaarige Beku - Raymo",
+      "url": "https://open.spotify.com/track/1Rf7eNXrYeYRk7zbF3OryU"
     },
     {
       "added_at": "2022-10-06 14:52:14",

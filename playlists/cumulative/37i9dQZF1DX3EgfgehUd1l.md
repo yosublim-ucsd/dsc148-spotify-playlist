@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-248 songs - 10 hr 57 min
+250 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Be Bop a Lula](https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Saga All Stars: Be Bop a Lula / 1956](https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs) | 2:36 | 2020-07-08 | 2022-07-29 |
 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 | 2020-07-08 |  |
 | [Bell Bottom Blues](https://open.spotify.com/track/5pEEoyopjRqfQdhgEEqLbu) | [Alma Cogan](https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:35 | 2020-07-08 | 2022-07-28 |
-| [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 | 2020-07-08 |  |
+| [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 | 2020-07-08 | 2023-04-02 |
 | [Blue Moon](https://open.spotify.com/track/1XriePxA916cla1W90JBLt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis At Sun](https://open.spotify.com/album/2w9qV3ELWjmpGBDxBPmYif) | 2:42 | 2020-07-08 | 2022-07-29 |
 | [Blue Moon \- Take 9/M](https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 2:42 | 2020-07-08 |  |
 | [Blue Tango](https://open.spotify.com/track/2Vgbw2OjqlXwZveOWfhHbF) | [Ray Martin](https://open.spotify.com/artist/5B8OYcJutY1BlxrJOafqbu) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:39 | 2020-07-08 | 2022-07-24 |
@@ -105,7 +105,8 @@
 | [Island In The Sun](https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Essential Harry Belafonte](https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi) | 3:21 | 2020-07-08 |  |
 | [It Doesn't Matter Anymore](https://open.spotify.com/track/00S7zXnfMD9JSImK37XjYd) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [The Very Best Of Buddy Holly](https://open.spotify.com/album/4ufhEXGkugwUgZ2fOHx5ts) | 2:03 | 2020-07-08 | 2022-07-29 |
 | [It Doesn't Matter Anymore](https://open.spotify.com/track/38s1KAGSzopcquTCeN6jnj) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:03 | 2020-07-08 | 2022-11-13 |
-| [It Doesn't Matter Anymore](https://open.spotify.com/track/5EL2sCnfsxm3FPCXGET1U6) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Buddy Holly Story](https://open.spotify.com/album/0HOBzCqZERU4XdD1vStK31) | 2:04 | 2020-07-08 |  |
+| [It Doesn't Matter Anymore](https://open.spotify.com/track/5EL2sCnfsxm3FPCXGET1U6) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Buddy Holly Story](https://open.spotify.com/album/0HOBzCqZERU4XdD1vStK31) | 2:04 | 2020-07-08 | 2023-04-02 |
+| [It's All In The Game](https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game](https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d) | 2:38 | 2020-07-08 |  |
 | [It's All In The Game](https://open.spotify.com/track/2lmPUdIdzlFH64PWJrw6Zb) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game: The Best Of Tommy Edwards](https://open.spotify.com/album/1r5eluEOlo6G5UW3Pf3ZZR) | 2:39 | 2020-07-08 | 2023-03-27 |
 | [It's All In The Game](https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [The Hits and More](https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ) | 2:39 | 2020-07-08 | 2022-07-29 |
 | [It's All In The Game \- 1951 Version](https://open.spotify.com/track/4rOzaygKTac4EVqhyjqWNL) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game](https://open.spotify.com/album/4neoNV2NbKmPcTSzwMt628) | 2:38 | 2020-07-08 | 2023-02-19 |
@@ -250,6 +251,7 @@
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 | 2020-07-08 | 2023-03-28 |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/6vL5Kx5LmZzcL12DZl2OiY) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [25 Greatest Hits](https://open.spotify.com/album/7cJP8OI40VbrT0yuVKPtNL) | 2:18 | 2020-07-08 | 2022-07-25 |
 | [Why Do Fools Fall in Love \(Remastered 2022\)](https://open.spotify.com/track/7nlPZ4gBK2JCRPuhmi3aOE) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk) | [Essential Classics, Vol\. 84: Frankie Lymon \(Remastered 2022\)](https://open.spotify.com/album/4QsBxPnLNULZRDrYPsKWX2) | 2:20 | 2020-07-08 | 2022-08-29 |
+| [Why Do Fools Fall In Love?](https://open.spotify.com/track/1Lw3f4kieVLzwPPItlO4bS) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Milestones of "The" Legends \- Boy Groups, Vol\. 8](https://open.spotify.com/album/5vHNocVGT5hVdYlAPaXQZd) | 2:18 | 2020-07-08 |  |
 | [Wish You Were Here](https://open.spotify.com/track/7LbU3pUDhC71j34o2jF7fN) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Cindy Oh Cindy](https://open.spotify.com/album/3Cq0QwqTxscwNlLiNn1DNG) | 2:55 | 2020-07-08 | 2022-07-26 |
 | [Yes Tonight, Josephine \- Single Version](https://open.spotify.com/track/1ptz7A6ZOwrlLbDFAkEsFu) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Len Goodman's Ballroom Bonanza](https://open.spotify.com/album/3RybSlD24na4uzm1X5MP3z) | 2:29 | 2020-07-08 | 2022-07-29 |
 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 | 2020-07-08 | 2022-07-29 |

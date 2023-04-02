@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,622 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,621 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 32 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 |
 | 33 | [Quien Va a Frontiar](https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Quien Va a Frontiar](https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf) | 2:54 |
 | 34 | [Amandita](https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Amandita](https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P) | 3:43 |
-| 35 | [Después Del Party](https://open.spotify.com/track/6kO6nue7gVJMQYsIMBLhvY) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Después Del Party](https://open.spotify.com/album/0wr0yNb8J8neG6lPWGsJvF) | 2:42 |
+| 35 | [VVS](https://open.spotify.com/track/39ybYY9pRl1F2YZv1NdkmZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [VVS](https://open.spotify.com/album/22aX6gdTEGRsX7qJWSLEdf) | 2:44 |
 | 36 | [JS4E](https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:57 |
-| 37 | [VVS](https://open.spotify.com/track/39ybYY9pRl1F2YZv1NdkmZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [VVS](https://open.spotify.com/album/22aX6gdTEGRsX7qJWSLEdf) | 2:44 |
+| 37 | [Después Del Party](https://open.spotify.com/track/6kO6nue7gVJMQYsIMBLhvY) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Después Del Party](https://open.spotify.com/album/0wr0yNb8J8neG6lPWGsJvF) | 2:42 |
 | 38 | [Que Hay](https://open.spotify.com/track/2TK4Oy3iu4AdCaD8HXqBQf) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:15 |
 | 39 | [SOS](https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [SOS](https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH) | 3:02 |
 | 40 | [LOS DUEÑOS DE LA CALLE](https://open.spotify.com/track/1aWiVOJDIKVW13w1earaQf) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS DUEÑOS DE LA CALLE](https://open.spotify.com/album/7icb0keRMS05h8wgPN94NG) | 3:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 46 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
 | 47 | [Los Palos](https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Palos](https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0) | 4:40 |
 | 48 | [Trending](https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Trending](https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ) | 2:38 |
-| 49 | [Perreo](https://open.spotify.com/track/00pzK0N5lKU80Qr9SxswuU) | [Castillo La Cone](https://open.spotify.com/artist/0F40CdkERy7qYPgM8YLGYP), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Perreo](https://open.spotify.com/album/68I6OQQgy4lIVQJyu47gfJ) | 3:36 |
-| 50 | [19x](https://open.spotify.com/track/3B1HyarUAuFn0uDpbT9Ivp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Yecko](https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU) | [19x](https://open.spotify.com/album/2BwnE3xoDPWnrGIzMTeiNC) | 2:36 |
+| 49 | [19x](https://open.spotify.com/track/3B1HyarUAuFn0uDpbT9Ivp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Yecko](https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU) | [19x](https://open.spotify.com/album/2BwnE3xoDPWnrGIzMTeiNC) | 2:36 |
+| 50 | [Perreo](https://open.spotify.com/track/00pzK0N5lKU80Qr9SxswuU) | [Castillo La Cone](https://open.spotify.com/artist/0F40CdkERy7qYPgM8YLGYP), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Perreo](https://open.spotify.com/album/68I6OQQgy4lIVQJyu47gfJ) | 3:36 |
 
-Snapshot ID: `MTY4MDI0NzE2NCwwMDAwMDAwMDcxMWNmZDdhZDdjNjI2Y2FjMGIwOTQyMDg1YWMyN2Vh`
+Snapshot ID: `MTY4MDI0NzE2NCwwMDAwMDAwMDZkNDYyYmZhNzljODhkZTdmMTFkMjU2MzJjN2UyMzNl`

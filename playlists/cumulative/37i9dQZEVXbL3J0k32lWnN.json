@@ -4085,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "Jeg venter i lyset",
+        "url": "https://open.spotify.com/album/75UBJvqh2C5R3UnY6Rp6jc"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199930,
+      "name": "Det\u00b4 kun vigtigt, hvad det er",
+      "url": "https://open.spotify.com/track/103dSvGgdVisdi7OAqdihj"
+    },
+    {
+      "album": {
         "name": "MGP 2023",
         "url": "https://open.spotify.com/album/5MRXvUqpJqPGaLsD2qVCK6"
       },
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2021-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 157102,
       "name": "Er Her (Artigeardit, KESI)",
       "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
@@ -7023,6 +7041,28 @@
     },
     {
       "album": {
+        "name": "BOYBAND",
+        "url": "https://open.spotify.com/album/5SorawwOwcnSYnDfXzU2ot"
+      },
+      "artists": [
+        {
+          "name": "Danser Med Piger",
+          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
+        },
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167227,
+      "name": "God Pige (feat. TopGunn)",
+      "url": "https://open.spotify.com/track/71JW11U2IpJQBRicrFUzMZ"
+    },
+    {
+      "album": {
         "name": "Gode Dage, Gode Drinks",
         "url": "https://open.spotify.com/album/3VhCfnPU8oabodFfd9pqlA"
       },
@@ -8382,7 +8422,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -8520,7 +8560,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 170883,
       "name": "Hustle & K\u00e6rlighed (feat. KESI & ICEKIID)",
       "url": "https://open.spotify.com/track/7w07uwsutDZbpnfW4mhYW2"
@@ -12260,7 +12300,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 184435,
       "name": "L\u00e6nge Leve",
       "url": "https://open.spotify.com/track/12YCYHtGcwm9kbSmbcWB4f"
@@ -13444,7 +13484,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 179783,
       "name": "Mucki Bar",
       "url": "https://open.spotify.com/track/4XhW9iOypxiiNyIMpirPFv"
@@ -14742,7 +14782,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 206019,
       "name": "Ozonlag A Energi (feat. Niels Brandt)",
       "url": "https://open.spotify.com/track/3fe2pEkW24bNn4WCOt1b0s"
@@ -14800,7 +14840,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 136710,
       "name": "Paid",
       "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
@@ -16149,6 +16189,24 @@
     },
     {
       "album": {
+        "name": "Se Dig Gr\u00e6de",
+        "url": "https://open.spotify.com/album/3Sw0RFbDZXoZw2Df3bLiMF"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113990,
+      "name": "Se Dig Gr\u00e6de",
+      "url": "https://open.spotify.com/track/3r8ie9cu2LumbxtwAzXTAd"
+    },
+    {
+      "album": {
         "name": "30 Somre",
         "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
       },
@@ -16854,6 +16912,24 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
+    },
+    {
+      "album": {
+        "name": "smugryger",
+        "url": "https://open.spotify.com/album/6asmVS16E8HIedmaS0QAOz"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163254,
+      "name": "smugryger",
+      "url": "https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5"
     },
     {
       "album": {
@@ -18538,7 +18614,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 180908,
       "name": "TIL VI D\u00d8R",
       "url": "https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w"

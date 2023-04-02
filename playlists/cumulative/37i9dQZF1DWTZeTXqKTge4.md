@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: LaF
 
-377 songs - 19 hr 27 min
+378 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Le passé nous le dira](https://open.spotify.com/track/5PSa5UlautRrllU20C9jY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Le passé nous le dira](https://open.spotify.com/album/5Qdzs8SPjcZBxMFTDsFXSt) | 3:14 | 2022-07-29 | 2022-12-10 |
 | [Le réel](https://open.spotify.com/track/5d68x1WwPsdImQQ3TXbwYv) | [Omnikrom](https://open.spotify.com/artist/3ulh5In2ctv0u0d4BmDunq) | [LE VRAI](https://open.spotify.com/album/522iek09o43Ba78L1k8DiV) | 2:28 | 2023-01-20 | 2023-02-04 |
 | [Leansy](https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Le calme avant la tempête](https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp) | 3:53 | 2023-02-17 |  |
-| [Les belles filles \- Spotify Singles](https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:23 | 2022-12-02 |  |
+| [Les belles filles \- Spotify Singles](https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:23 | 2022-12-02 | 2023-04-02 |
+| [Les belles filles \- Spotify Singles](https://open.spotify.com/track/6ArGOTiUwMzXgAh0tWjZKu) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/2eiZ94kZNFeLdDzUi5cV5X) | 2:23 | 2023-03-31 |  |
 | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/album/6mKwEJV5F4DqilpZaJMS0N) | 3:24 | 2022-04-01 | 2022-07-09 |
 | [LFQB](https://open.spotify.com/track/4kw4akPXc0aMJJIklnSc3B) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [LFQB](https://open.spotify.com/album/6SrTR3iGnL2NUpjAKcP9Vc) | 2:38 | 2022-08-12 | 2022-09-24 |
 | [Like That](https://open.spotify.com/track/1Kw5YOwgBijPXOsNazPGm7) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Like That](https://open.spotify.com/album/0ATe5aLX1LMZnavETQCtRw) | 2:50 | 2022-09-16 | 2022-12-10 |
@@ -369,7 +370,7 @@
 | [Viser haut](https://open.spotify.com/track/3WqvryjPUMyWD3gG4sc97X) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Temps\-tôt](https://open.spotify.com/album/7BqKxMQVXELSYioMF4aDmE) | 2:43 | 2022-12-09 | 2023-01-28 |
 | [Vitamix](https://open.spotify.com/track/1FKG7W0cVenRDl9Nx1m0jE) | [YUYU](https://open.spotify.com/artist/7AKP5OQLpIiuPLGQ7d4Seh) | [Vitamix](https://open.spotify.com/album/1WKZ26ChixsM6wWkqQLiO7) | 2:53 | 2022-12-09 | 2023-01-14 |
 | [Voleur d'esprit](https://open.spotify.com/track/0joPetCA1uEmgBzkBjRVDQ) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Voleur d'esprit](https://open.spotify.com/album/6bQOhjFmY4mPuX7S9X0hvy) | 2:57 | 2022-12-16 |  |
-| [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/61fFh2G8tRalJbkvufFR9Y) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 | 2023-03-31 |  |
+| [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 | 2023-03-31 |  |
 | [WHAP](https://open.spotify.com/track/7pNJNSyIM9uHW5GeJQha6F) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [WHAP](https://open.spotify.com/album/1HpV0b6wVhRgJ0MLbBoqqE) | 2:42 | 2022-10-28 |  |
 | [Whoopty](https://open.spotify.com/track/2sQSWHkBKN4cuEx9RkAEGB) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Whoopty](https://open.spotify.com/album/1JOZu5P4aQ1NLcqtiDVYFp) | 2:43 | 2022-03-25 | 2022-04-23 |
 | [Wildin](https://open.spotify.com/track/5J0m5sJZLfIQnPC8nkIu7u) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Wildin](https://open.spotify.com/album/1wPWe6TfynJcCxrVAimwt4) | 2:20 | 2022-01-07 | 2022-05-07 |

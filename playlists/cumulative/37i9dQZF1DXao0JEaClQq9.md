@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Feist
 
-494 songs - 1 day 6 hr 45 min
+495 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Reflections](https://open.spotify.com/track/7rWDTJfWevA0ukbsJE1xJi) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 3:54 | 2021-06-03 | 2022-04-21 |
 | [Replay](https://open.spotify.com/track/6GXc2suLoUJxYfzghNva2K) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [Devotion \(Deluxe\)](https://open.spotify.com/album/24ZsoeEvWnCVZnmU7Ken97) | 2:53 | 2021-06-03 | 2022-06-04 |
 | [replica](https://open.spotify.com/track/0TrRIlfaTzdsgG90fSsTzr) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:23 | 2021-06-03 | 2022-04-20 |
+| [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 | 2023-03-31 |  |
 | [Ribs](https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 4:18 | 2021-06-03 | 2022-07-25 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2021-06-03 |  |
 | [Ride Or Die \(feat\. Chilly Gonzales\)](https://open.spotify.com/track/6avcTjapRBq4AL6760uUbF) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Ride Or Die \(feat\. Chilly Gonzales\)](https://open.spotify.com/album/5Lko5vYjWNMzxyKNz78wWn) | 3:43 | 2021-06-03 | 2022-07-28 |
@@ -425,7 +426,7 @@
 | [Studying Your Door](https://open.spotify.com/track/2pAbcnRMvygn1WPqGQX7dS) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Studying Your Door](https://open.spotify.com/album/2D1sSDYQrKkXfDrJArdubC) | 3:20 | 2022-04-08 | 2022-06-17 |
 | [Suck Teeth](https://open.spotify.com/track/6wIeymnRFnRnyF4GoGKxSF) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Suck Teeth](https://open.spotify.com/album/1JLmSc2s9RS152aFcVzohM) | 3:56 | 2021-06-11 | 2022-04-22 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2021-06-03 | 2022-04-20 |
-| [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 | 2022-10-21 |  |
+| [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 | 2022-10-21 | 2023-04-02 |
 | [SUNSHiiNE \(feat\. Shamir, Nick Valensi\)](https://open.spotify.com/track/3H3AINDfOplfuXi83Z5aQH) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj), [Nick Valensi](https://open.spotify.com/artist/1wicL5Ziz5pOtxWiBZDqFt) | [SUNSHiiNE \(feat\. Shamir, Nick Valensi\)](https://open.spotify.com/album/5xNvuAyT853nUVbSG75FEa) | 2:55 | 2021-10-08 | 2022-04-21 |
 | [Sunshine](https://open.spotify.com/track/08WoFlGwyAB7ckXoJPDoqY) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 3:00 | 2022-04-22 | 2022-07-29 |
 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/53UPLafka6xWNDyDmOnNqy) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/60UDYHQJprwayFDIjhfcaV) | 4:29 | 2021-06-03 | 2022-04-20 |

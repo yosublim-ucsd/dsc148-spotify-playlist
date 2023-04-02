@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: Boy Bleach
 
-144 songs - 7 hr 36 min
+145 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Gaslighter](https://open.spotify.com/track/0CvJWXoFSiPHYpLiQK1PBf) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/3pgkvZHrpEawDd8GKrG1xu) | 3:44 | 2023-01-13 | 2023-03-25 |
 | [Geisha](https://open.spotify.com/track/02wRK11rA8xRXBWAoI42iP) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Geisha](https://open.spotify.com/album/3GunDz6ntvuNGQcFHPtMiW) | 3:17 | 2023-03-24 |  |
 | [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 | 2023-01-27 |  |
-| [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 | 2023-03-10 |  |
+| [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 | 2023-03-24 |  |
+| [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 | 2023-03-10 | 2023-04-02 |
 | [good boys remember well](https://open.spotify.com/track/4syzVAkmE49hs9WjY7j0o7) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [good boys remember well](https://open.spotify.com/album/1m7ZzHsSp6EqucLAt57O3S) | 3:08 | 2023-01-13 |  |
 | [GOOD TO GO](https://open.spotify.com/track/2U3Qw3JAJUwu6JJLoBf1pz) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [GOOD TO GO](https://open.spotify.com/album/2jwTqdrJMisYIpUOr5CFJJ) | 1:45 | 2023-02-17 |  |
 | [Great Grief](https://open.spotify.com/track/0mzrTxRfEN2jjP9CCHVY5A) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief / Atone](https://open.spotify.com/album/5Co6smDpKCGRKiBnQ17Acc) | 4:11 | 2023-01-27 | 2023-03-03 |

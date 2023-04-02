@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Ne Obliviscaris
 
-608 songs - 2 day 4 hr 27 min
+609 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Ocean in the Sky](https://open.spotify.com/track/5Q3MQghFZvvkpJJsovhvZP) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures](https://open.spotify.com/album/3OT2KGRdRGRIT83VVrFMdc) | 6:06 | 2021-12-17 | 2022-07-29 |
 | [One](https://open.spotify.com/track/1SXaNlT88KkWotaPlJwosb) | [Fates Warning](https://open.spotify.com/artist/4S6URhg3PMKnCv9clR4ejE) | [Disconnected](https://open.spotify.com/album/6lNHGyqPf6b8qQxamd3uFw) | 4:26 | 2021-12-17 | 2022-01-28 |
 | [Opiate²](https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate²](https://open.spotify.com/album/13sWe0tYKenwLd2t25bHIi) | 9:54 | 2022-03-01 |  |
+| [Our Time is Now \(feat\. The Anix\) \- Extended](https://open.spotify.com/track/6wph3xiQIXwpcVRhhXzsik) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [humAnIty](https://open.spotify.com/album/27UpDVJhVwusFYfSomvS2j) | 5:22 | 2023-03-31 |  |
 | [Outliers](https://open.spotify.com/track/2sRmAZqE51Mpi0V8R3uQBP) | [Aviations](https://open.spotify.com/artist/6dW9mkTQTr10cm2Lv4pPuY) | [Retrospect](https://open.spotify.com/album/7BDdYqybjtzbEpIDj9tM9p) | 11:36 | 2021-12-17 | 2022-09-03 |
 | [Outsider](https://open.spotify.com/track/2Hq9A0EbpApmncExOiG1oM) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outsider](https://open.spotify.com/album/1L6xcFfEIP4b8KUZCBj4jz) | 4:09 | 2022-10-28 |  |
 | [Outsider](https://open.spotify.com/track/2UJ7e55bObCYCqpBkehnsr) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outsider](https://open.spotify.com/album/7GO1IxJeKLxhsOiD6aag2r) | 4:09 | 2022-07-13 | 2022-11-05 |
@@ -466,7 +467,7 @@
 | [String Theory](https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [String Theory](https://open.spotify.com/album/2VbMfWccghg85IgMXkaPiv) | 4:56 | 2021-12-17 | 2022-09-03 |
 | [Stuck](https://open.spotify.com/track/74vy9v25MuoqNVBdAjGwJC) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Malina](https://open.spotify.com/album/0DvboP39IwpnJU9QrKIpDW) | 6:48 | 2021-12-17 | 2022-09-03 |
 | [Such a Shame](https://open.spotify.com/track/31ecPwecmstplaiMrDUpPs) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Metal Covers, Vol\. 1](https://open.spotify.com/album/6AJ0wg09tASuePn8zKV8nP) | 4:13 | 2022-04-01 | 2023-02-25 |
-| [Such a Shame](https://open.spotify.com/track/6PGYsAkiIEJvF2w5f964ZB) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Power](https://open.spotify.com/album/2W3YX45J3X9L0JZvVIVhpU) | 4:13 | 2023-02-24 |  |
+| [Such a Shame](https://open.spotify.com/track/6PGYsAkiIEJvF2w5f964ZB) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Power](https://open.spotify.com/album/2W3YX45J3X9L0JZvVIVhpU) | 4:13 | 2023-02-24 | 2023-04-02 |
 | [Sundowner](https://open.spotify.com/track/3xktHOVxDZqnfzd5J7YqmA) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Sundowner](https://open.spotify.com/album/5AG9QH3YQSsr2lNO0tYiTK) | 4:22 | 2021-12-17 | 2022-07-28 |
 | [Sunshine Dust](https://open.spotify.com/track/2l7nVNOhkH9GveLLidCP6l) | [Skyharbor](https://open.spotify.com/artist/0YbvZPP1HufDyWIsR0ei6K) | [Sunshine Dust](https://open.spotify.com/album/4VWICVl0jvAPNIN0qePUaO) | 6:19 | 2022-01-14 | 2022-01-17 |
 | [Surrounded \- Live in NYC \- 1993](https://open.spotify.com/track/4gi86wbezjWWY6UcSFHZut) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Live in NYC \- 1993](https://open.spotify.com/album/02Y334D78pAitL6f5nxgxE) | 5:58 | 2022-03-18 |  |

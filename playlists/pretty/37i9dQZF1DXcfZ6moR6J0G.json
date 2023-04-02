@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1618164,
+  "num_followers": 1619162,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMGU1N2ZhZDc5MjdkY2E5NGI5MDY3OGRiOWQzNDk1NWU2",
+  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMDczYzkwMmMyZWJhMTM4M2MzMzg4YWQ0MWY1NjA0NjVj",
   "tracks": [
     {
       "added_at": "2023-02-27 22:20:42",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 189706,
       "name": "Brackish",
       "url": "https://open.spotify.com/track/6lqwRfIHYRiJ7M9xfLqcRx"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Introduction To Mayhem",
-        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
-      },
-      "artists": [
-        {
-          "name": "Primer 55",
-          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
         "name": "Recoil (Explicit Content U.S. Version)",
         "url": "https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 273066,
       "name": "In the Air Tonight",
       "url": "https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "Introduction To Mayhem",
+        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
+      },
+      "artists": [
+        {
+          "name": "Primer 55",
+          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
     },
     {
       "added_at": "2023-02-27 22:20:42",

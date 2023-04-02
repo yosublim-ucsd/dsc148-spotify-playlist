@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 38717,
+  "num_followers": 38817,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGNjMDBkZjMxYmRmZWVjMmI1ZWZmYTI0ODc3MmJkZjA4",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDE3YjcxMGY0NGNkNGUzYjQ4YTE0YWE4MzMxZjE1NDdm",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Mad Masquerade",
-        "url": "https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Mad Masquerade",
-      "url": "https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "From The Underground (Rave Core)",
         "url": "https://open.spotify.com/album/3HX5w8ehEqbGsCk4x6mfZ9"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 202040,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/0TYBkC9jZ5b8FPW7kn673t"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Mad Masquerade",
+        "url": "https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Mad Masquerade",
+      "url": "https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Broken Inside",
-        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
-      },
-      "artists": [
-        {
-          "name": "Namara",
-          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
-        }
-      ],
-      "duration_ms": 205339,
-      "name": "Broken Inside",
-      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "PartyRockerz",
         "url": "https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Broken Inside",
+        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
+      },
+      "artists": [
+        {
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+        }
+      ],
+      "duration_ms": 205339,
+      "name": "Broken Inside",
+      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "DEQUINOX 100",
         "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
       },
@@ -475,6 +475,26 @@
       "duration_ms": 222272,
       "name": "DEQUINOX 100",
       "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Dope Sh!t",
+      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -503,26 +523,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        },
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 221368,
-      "name": "Dope Sh!t",
-      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "F#ck The Haters",
         "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
       },
@@ -535,26 +535,6 @@
       "duration_ms": 147003,
       "name": "F#ck The Haters",
       "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -575,6 +555,26 @@
       "duration_ms": 207553,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -695,46 +695,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
-      },
-      "artists": [
-        {
-          "name": "Yoshiko",
-          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
-        },
-        {
-          "name": "Antenora",
-          "url": "https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz"
-        },
-        {
-          "name": "Dionysus",
-          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Hardcore By Nature",
         "url": "https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ"
       },
@@ -763,22 +723,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Fat Beat",
-        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
       },
       "artists": [
         {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Killshot",
-          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Fat Beat",
-      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -803,6 +759,50 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Fat Beat",
+        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Fat Beat",
+      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko",
+          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
+        },
+        {
+          "name": "Antenora",
+          "url": "https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Order & Chaos",
         "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/7pSS3fffGxnngajOo32c9F"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 319500,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/65qF8kMxmpKagt23L0jJJv"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1131,6 +1131,30 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs"
+        },
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "The Ultimate Sound",
         "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
       },
@@ -1163,26 +1187,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
+        "name": "Pac-man 2.0",
+        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
       },
       "artists": [
         {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs"
-        },
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+          "name": "FrenchFaces",
+          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX"
+      "duration_ms": 148360,
+      "name": "Pac-man 2.0",
+      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Pac-man 2.0",
-        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
-      },
-      "artists": [
-        {
-          "name": "FrenchFaces",
-          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Pac-man 2.0",
-      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "The Bones Collection",
         "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 200666,
       "name": "Hardcore Style",
       "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "LOSE STRESS",
         "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
       },
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Paganos",
-        "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
+        "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
+        "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Paganos",
-      "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
+      "duration_ms": 324300,
+      "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
+      "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
-        "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
+        "name": "Paganos",
+        "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
       },
       "artists": [
         {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
         }
       ],
-      "duration_ms": 324300,
-      "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
-      "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
+      "duration_ms": 247200,
+      "name": "Paganos",
+      "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1399,22 +1399,6 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 175271,
       "name": "Sky Ablaze",
       "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1739,6 +1755,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Demonic Rage",
         "url": "https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w"
       },
@@ -1759,22 +1791,6 @@
       "duration_ms": 196636,
       "name": "Demonic Rage",
       "url": "https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1863,26 +1879,6 @@
       "duration_ms": 240300,
       "name": "Die For This",
       "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Demolition Hardcore",
-        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Demolition Hardcore",
-      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

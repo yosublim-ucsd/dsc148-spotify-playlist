@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. SFDK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,806 likes - 77 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,990 likes - 77 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 7 | [BIEN](https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR) | [BIEN](https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD) | 3:29 |
 | 8 | [Mitolo G's](https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7) | [Mitolo G's](https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1) | 3:16 |
 | 9 | [SIN UN PLAN](https://open.spotify.com/track/0w3VooVHnwqRSCVXc9L3Bd) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh), [Esse Delgado](https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0) | [SIN UN PLAN](https://open.spotify.com/album/5jJrIgfr6jyhOsIsNU16MU) | 3:21 |
-| 10 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:38 |
+| 10 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:16 |
 | 11 | [Migas](https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Migas](https://open.spotify.com/album/5lZC1pTFVb0b5rz6j86now) | 4:01 |
 | 12 | [Alzypher Vol\. 10](https://open.spotify.com/track/1gnsY2TnziUSPAdTwScTtl) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alzypher Vol\. 10](https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd) | 3:02 |
 | 13 | [0880](https://open.spotify.com/track/3a1iaFg2FLSqzl42BtIldv) | [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [0880](https://open.spotify.com/album/4CxxPMxN8t7LKKz9izpwhZ) | 2:13 |

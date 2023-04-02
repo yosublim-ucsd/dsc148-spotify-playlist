@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-344 songs - 19 hr 15 min
+345 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bout It](https://open.spotify.com/track/3H4ohIbQHof4qKgrV6Fchc) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Bout It](https://open.spotify.com/album/1PbSsoxiRuWMV9CVmXvHXd) | 3:50 | 2021-12-15 | 2022-07-29 |
 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 | 2023-02-17 |  |
 | [Brakelights](https://open.spotify.com/track/43IjtK3IEEyTM5Ek32a2Pr) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Brakelights](https://open.spotify.com/album/51MDT07zYxiW3QMBeyVJJp) | 2:48 | 2021-12-15 | 2022-04-21 |
+| [Brand New Life \(feat\. Mumu Fresh\)](https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Brand New Life](https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE) | 4:32 | 2023-03-24 |  |
 | [Bruises](https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:15 | 2023-02-10 |  |
 | [Buying Time](https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Buying Time](https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3) | 3:56 | 2021-12-15 | 2023-03-25 |
 | [Caged Bird](https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Caged Bird](https://open.spotify.com/album/1jtKoTIOnGlTuw9Vamp0qc) | 3:55 | 2022-06-30 | 2023-03-29 |
@@ -164,7 +165,7 @@
 | [Jealous](https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Jealous](https://open.spotify.com/album/5LTnPoGjyuWwLwOcLJzFL3) | 2:08 | 2021-12-15 | 2022-07-17 |
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-06-30 |  |
 | [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:51 | 2021-12-15 | 2022-04-04 |
-| [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-16 |  |
+| [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-16 | 2023-04-02 |
 | [Kendrick \- Too Hot Outside Edit](https://open.spotify.com/track/3agOGtAAYH5dH0h8AoZXn3) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Kendrick](https://open.spotify.com/album/1Cj7R7Gp0rO6q5bSuAiFEe) | 3:38 | 2021-12-15 | 2022-04-19 |
 | [Khala My Friend](https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 3:23 | 2021-12-15 | 2023-03-11 |
 | [Kimmi](https://open.spotify.com/track/4PICq5Ndi0cEWsyRAEWED6) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [I'll Miss You](https://open.spotify.com/album/1Rmb0T7FGzLK9fOrZHmwyz) | 4:34 | 2021-12-15 | 2022-07-29 |

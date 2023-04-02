@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 105443,
+  "num_followers": 105461,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMGMxOWI5OWY2Yjg2ZGY5OWEzM2FkZDRkZDMyZWFlY2Y1",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDMyMmY4NmY5MzgyMjJmMzExNDk2MzQyMTYzNzQ3ZmFj",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Garabatos (with Jay Wheeler)",
         "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 202478,
       "name": "Garabatos (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -763,38 +763,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 233743,
-      "name": "Horas y Horas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Pleasure (feat. RINI)",
         "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
       },
@@ -815,6 +783,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 233743,
+      "name": "Horas y Horas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Truth Is",
         "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 225733,
       "name": "Truth Is (Spanish Version)",
       "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "5 A.M.",
-        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 182442,
-      "name": "5 A.M.",
-      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 204327,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "5 A.M.",
+        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 182442,
+      "name": "5 A.M.",
+      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
-      },
-      "artists": [
-        {
-          "name": "Fernanda",
-          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
-        }
-      ],
-      "duration_ms": 137794,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 257233,
       "name": "Jungla de locos",
       "url": "https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
+      },
+      "artists": [
+        {
+          "name": "Fernanda",
+          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
+        }
+      ],
+      "duration_ms": 137794,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "VAIV\u00c9N",
-        "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
-      },
-      "artists": [
-        {
-          "name": "Leo X",
-          "url": "https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A"
-        },
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 218823,
-      "name": "VAIV\u00c9N",
-      "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 230787,
       "name": "diario",
       "url": "https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "VAIV\u00c9N",
+        "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
+      },
+      "artists": [
+        {
+          "name": "Leo X",
+          "url": "https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "VAIV\u00c9N",
+      "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
     },
     {
       "added_at": "2023-03-10 21:49:16",

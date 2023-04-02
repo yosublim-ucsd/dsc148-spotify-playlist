@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Delicatoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,191 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,195 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 14 | [SOLO PER TE](https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [SOLO PER TE](https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV) | 3:19 |
 | 15 | [r\(\)t\(\)nda \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/7FsuMwalG48ZfjklkSkuJa) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:39 |
 | 16 | [fiori ghiacciati](https://open.spotify.com/track/1lnhdEvBwLMS3lwfb42jmW) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [fiori ghiacciati](https://open.spotify.com/album/2Ggf9V2RpHuCy10Vu95zQ7) | 2:38 |
-| 17 | [U](https://open.spotify.com/track/6xDskSDQjJrP0H1lYWhvCj) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Zenit](https://open.spotify.com/artist/6mEvUdcumrH3O0uM0Study) | [U](https://open.spotify.com/album/3GlEHam8rrkJhqitV5jw0a) | 2:14 |
+| 17 | [U](https://open.spotify.com/track/6xDskSDQjJrP0H1lYWhvCj) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [U](https://open.spotify.com/album/3GlEHam8rrkJhqitV5jw0a) | 2:14 |
 | 18 | [piedixterra](https://open.spotify.com/track/3pjRBRPgpLonKovRM3IEKe) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [piedixterra](https://open.spotify.com/album/1Idmo4y713JrQhFTNaWzEb) | 3:18 |
 | 19 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 | 20 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 |

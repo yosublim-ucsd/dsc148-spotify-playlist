@@ -4,7 +4,7 @@
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-99 songs - 4 hr 11 min
+100 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Are You Ready To Rock](https://open.spotify.com/track/68uRn5hfyRhOGTdf2qYSLL) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [School of Rock Cast](https://open.spotify.com/artist/4K0OM7fVHVhfMNfMklEwaa) | [School of Rock \(Original Music from the Series\)](https://open.spotify.com/album/3SsHDfRaZOQqsnEYudPV4C) | 1:56 | 2023-01-30 |  |
 | [Baby Animals Dance](https://open.spotify.com/track/2dWIX6bnShOvLds71mxLli) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits Vol\. 12](https://open.spotify.com/album/5v59BIsYXNxBsjIvwVBDRC) | 2:41 | 2023-03-26 |  |
 | [Best Dress](https://open.spotify.com/track/3EvUbBdAytE6Cywr1OZGLx) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Best Dress](https://open.spotify.com/album/2mcs399XGsrglhADN0KJ9u) | 3:11 | 2022-05-27 | 2022-10-26 |
+| [Biddy Bom \(feat\. Qai Qai\)](https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq), [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Biddy Bom](https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb) | 3:06 | 2023-04-02 |  |
 | [Bright Lights](https://open.spotify.com/track/76qQor3rG3Heo4TWhyZumC) | [THE SQUISH](https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP) | [Bright Lights](https://open.spotify.com/album/2boFQNrjqTeNJj9AprJ0k3) | 4:22 | 2022-10-25 |  |
 | [Brusha, Brusha](https://open.spotify.com/track/2aTENCRUOZcG7zzAEhTEeo) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Play Along With Sam: We're Gonna Dance!](https://open.spotify.com/album/1wzpCQo4cJL2ICv9p4mkC0) | 2:01 | 2023-02-05 |  |
 | [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 | 2023-02-23 |

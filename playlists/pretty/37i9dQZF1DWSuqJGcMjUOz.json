@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDJhMjkzMGQxYzM1MWQ2NGYzYmJjM2QzNDQ0ZTZlZGNk",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDRhN2VlYzUwMDYzY2MxNDQ0MDY2ODhmODM5MDhjOWUz",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "COUCOU",
-        "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
-      },
-      "artists": [
-        {
-          "name": "Mathieu B\u00e9rub\u00e9",
-          "url": "https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S"
-        }
-      ],
-      "duration_ms": 238060,
-      "name": "JOS\u00c9PHINE",
-      "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Luce Dufault",
         "url": "https://open.spotify.com/album/0CSO0Cq6hGT5KbqNKhZZP5"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 213293,
       "name": "Soirs de Scotch",
       "url": "https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "COUCOU",
+        "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
+      },
+      "artists": [
+        {
+          "name": "Mathieu B\u00e9rub\u00e9",
+          "url": "https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S"
+        }
+      ],
+      "duration_ms": 238060,
+      "name": "JOS\u00c9PHINE",
+      "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "O\u00f9 sera le monde",
-        "url": "https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl"
-      },
-      "artists": [
-        {
-          "name": "Marc Dupr\u00e9",
-          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "O\u00f9 sera le monde",
-      "url": "https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 152727,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "O\u00f9 sera le monde",
+        "url": "https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl"
+      },
+      "artists": [
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "O\u00f9 sera le monde",
+      "url": "https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Abri de fortune (pour fin du monde)",
-        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Corde \u00e0 linge",
-      "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Hippie Hourrah!",
         "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Abri de fortune (pour fin du monde)",
+        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
         }
       ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+      "duration_ms": 199453,
+      "name": "Corde \u00e0 linge",
+      "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 158733,
       "name": "Pas de limite",
       "url": "https://open.spotify.com/track/2XoYRNX6SJEZaVvP0aZ3sb"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Bo\u00eete aux lettres",
-        "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
-      },
-      "artists": [
-        {
-          "name": "Les Hay Babies",
-          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "Fontaine \u00e0 v\u0153ux",
-      "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Grand voyage d\u00e9sorganis\u00e9",
         "url": "https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "L'heure mauve",
-        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
+        "name": "Bo\u00eete aux lettres",
+        "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
         }
       ],
-      "duration_ms": 203666,
-      "name": "Les fleurs d\u2019une autre dimension",
-      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
+      "duration_ms": 210920,
+      "name": "Fontaine \u00e0 v\u0153ux",
+      "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 218653,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "L'heure mauve",
+        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Les fleurs d\u2019une autre dimension",
+      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Roi",
+        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "Roi",
+      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Sans tomber",
         "url": "https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Roi",
-        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
+        "name": "Encre rose",
+        "url": "https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2"
       },
       "artists": [
         {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
         }
       ],
-      "duration_ms": 153846,
-      "name": "Roi",
-      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
+      "duration_ms": 204343,
+      "name": "Nouveau monde",
+      "url": "https://open.spotify.com/track/0OSJ5W0WTd6zfUn3fi2zFt"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1215,18 +1231,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Encre rose",
-        "url": "https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS"
       },
       "artists": [
         {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
         }
       ],
-      "duration_ms": 204343,
-      "name": "Nouveau monde",
-      "url": "https://open.spotify.com/track/0OSJ5W0WTd6zfUn3fi2zFt"
+      "duration_ms": 232053,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/0taw82ovKIdw6kIVdhhVWE"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1263,22 +1283,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
-      },
-      "artists": [
-        {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
-        }
-      ],
-      "duration_ms": 297133,
-      "name": "Oublie pas",
-      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
       },
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "\u00c9lectro-Vacances",
-        "url": "https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5"
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
       },
       "artists": [
         {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        },
-        {
-          "name": "Laurence Camille",
-          "url": "https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF"
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
         }
       ],
-      "duration_ms": 186128,
-      "name": "Amazone (feat. Laurence Camille)",
-      "url": "https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM"
+      "duration_ms": 297133,
+      "name": "Oublie pas",
+      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS"
+        "name": "\u00c9lectro-Vacances",
+        "url": "https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5"
       },
       "artists": [
         {
-          "name": "Hansom \u0112li",
-          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
         },
         {
-          "name": "Mike Clay",
-          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+          "name": "Laurence Camille",
+          "url": "https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF"
         }
       ],
-      "duration_ms": 232053,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/0taw82ovKIdw6kIVdhhVWE"
+      "duration_ms": 186128,
+      "name": "Amazone (feat. Laurence Camille)",
+      "url": "https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Fauve",
+        "url": "https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 253274,
+      "name": "Je t\u2019aime",
+      "url": "https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Sablier",
         "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Fauve",
-        "url": "https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1"
-      },
-      "artists": [
-        {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
-        }
-      ],
-      "duration_ms": 253274,
-      "name": "Je t\u2019aime",
-      "url": "https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "PEKUAIAPU",
-        "url": "https://open.spotify.com/album/0nST396yMeFu8mECv5zzzA"
-      },
-      "artists": [
-        {
-          "name": "Scott-Pien Picard",
-          "url": "https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E"
-        }
-      ],
-      "duration_ms": 300249,
-      "name": "Ka minuatituiaku",
-      "url": "https://open.spotify.com/track/058D8oMxiBBxVQDckw9t88"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Sweet Mont\u00e9r\u00e9gie",
         "url": "https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 229413,
       "name": "Sweet Mont\u00e9r\u00e9gie",
       "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "PEKUAIAPU",
+        "url": "https://open.spotify.com/album/0nST396yMeFu8mECv5zzzA"
+      },
+      "artists": [
+        {
+          "name": "Scott-Pien Picard",
+          "url": "https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E"
+        }
+      ],
+      "duration_ms": 300249,
+      "name": "Ka minuatituiaku",
+      "url": "https://open.spotify.com/track/058D8oMxiBBxVQDckw9t88"
     },
     {
       "added_at": "2022-05-25 18:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126585,
+  "num_followers": 126576,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMGU1MjhjNWIxNzRjNTNhNDdhYjBiOWNlMTNmYmFhMGY4",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDAwY2M5ZmRlZjM3NzM0NjIzNjg2MTEyNGVhYzVlODU3",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Elvis' Christmas Album",
-        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 129173,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "two queens in a king sized bed",
         "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 190944,
       "name": "two queens in a king sized bed",
       "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Together With Cliff Richard",
-        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Mistletoe and Wine",
-      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 183079,
       "name": "For Those Who Can't Be Here",
       "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Wonder (Deluxe)",
         "url": "https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH"
     },
     {
-      "added_at": "2022-11-18 01:17:11",
-      "album": {
-        "name": "Driving Home For Christmas",
-        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 183556,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
-    },
-    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "Christmas Bells",
@@ -699,6 +683,22 @@
       "duration_ms": 246745,
       "name": "Christmas Bells",
       "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
+    },
+    {
+      "added_at": "2022-11-18 01:17:11",
+      "album": {
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 183556,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "The Very Best Of Mud",
-        "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
-      },
-      "artists": [
-        {
-          "name": "Mud",
-          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "Lonely This Christmas",
-      "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
-    },
-    {
       "added_at": "2022-12-09 00:00:00",
       "album": {
         "name": "River (Live in Studio)",
@@ -767,6 +751,22 @@
       "duration_ms": 243733,
       "name": "River - Live in Studio",
       "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Very Best Of Mud",
+        "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
+      },
+      "artists": [
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "Lonely This Christmas",
+      "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "This Time Of Year",
         "url": "https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 222855,
       "name": "This Time Of Year",
       "url": "https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The Magic Of Boney M. (Special Remix Edition)",
-        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Mary's Boy Child / Oh My Lord",
-      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "frozen halos",
         "url": "https://open.spotify.com/album/6nxmokEb7lvYzorjXzUfYt"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 182206,
       "name": "frozen halos",
       "url": "https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Magic Of Boney M. (Special Remix Edition)",
+        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Mary's Boy Child / Oh My Lord",
+      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
     },
     {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 193379,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
       "added_at": "2022-12-02 00:00:00",
       "album": {
         "name": "At Christmas",
@@ -1211,18 +1227,34 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Carol Of The Bells",
-        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
+        "name": "Sister Winter B/W Rest",
+        "url": "https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa"
       },
       "artists": [
         {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 193379,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+      "duration_ms": 216733,
+      "name": "Sister Winter",
+      "url": "https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "I Dream Of Christmas (Extended)",
+        "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 240257,
+      "name": "Christmastime",
+      "url": "https://open.spotify.com/track/1qQFeYlob4mNY2Q2ZLRsqk"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1243,22 +1275,6 @@
       "duration_ms": 177866,
       "name": "Christmas Dream",
       "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Sister Winter B/W Rest",
-        "url": "https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Sister Winter",
-      "url": "https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1307,22 +1323,6 @@
       "duration_ms": 129679,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "I Dream Of Christmas (Extended)",
-        "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 240257,
-      "name": "Christmastime",
-      "url": "https://open.spotify.com/track/1qQFeYlob4mNY2Q2ZLRsqk"
     },
     {
       "added_at": "2022-11-18 01:05:05",

@@ -838,7 +838,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 191709,
       "name": "ARASAN DA",
       "url": "https://open.spotify.com/track/5sIHhx9IOpQ7ggv16wLsWZ"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 180127,
       "name": "Belki - Akustik",
       "url": "https://open.spotify.com/track/5nH1QRipfAJ8Pd9rFu3xHh"
@@ -4003,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173134,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
+    },
+    {
+      "album": {
         "name": "Forsa",
         "url": "https://open.spotify.com/album/1fAHRAftczSdXs0u62jEWY"
       },
@@ -4428,7 +4446,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -5048,6 +5066,24 @@
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "album": {
+        "name": "Harcand\u0131k\u00e7a",
+        "url": "https://open.spotify.com/album/6KCKPzAVsReCDA6sloQP4x"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167878,
+      "name": "Harcand\u0131k\u00e7a",
+      "url": "https://open.spotify.com/track/38G2capuqdXVTrPIle2FzX"
     },
     {
       "album": {
@@ -7819,6 +7855,24 @@
     },
     {
       "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150220,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE"
+    },
+    {
+      "album": {
         "name": "MONTERO (Call Me By Your Name)",
         "url": "https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97"
       },
@@ -8462,7 +8516,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 209829,
       "name": "Olur Mu",
       "url": "https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG"
@@ -9014,6 +9068,24 @@
       "duration_ms": 185270,
       "name": "Pe\u015fimde Kara Geceler",
       "url": "https://open.spotify.com/track/0kb45bLkER1V0gcu2rnw69"
+    },
+    {
+      "album": {
+        "name": "CAFFEINEE",
+        "url": "https://open.spotify.com/album/6vlN46Kthwc4kvnFSoYudm"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104521,
+      "name": "PHONK (200mg)",
+      "url": "https://open.spotify.com/track/5L94pS0Z0qHqtVZtHbHXAb"
     },
     {
       "album": {
@@ -10366,7 +10438,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 171894,
       "name": "Su\u00e7lar\u0131mdan Biri",
       "url": "https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi"
@@ -11264,6 +11336,24 @@
       "duration_ms": 201522,
       "name": "Yabani",
       "url": "https://open.spotify.com/track/6OfgOcfxPRXQj6i529ICLH"
+    },
+    {
+      "album": {
+        "name": "Yakalarsan",
+        "url": "https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116499,
+      "name": "Yakalarsan",
+      "url": "https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx"
     },
     {
       "album": {

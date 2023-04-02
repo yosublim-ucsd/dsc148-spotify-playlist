@@ -4068,6 +4068,24 @@
     {
       "album": {
         "name": "Soleil De Printemps",
+        "url": "https://open.spotify.com/album/7HEBXPgrGgxWrDe4Eq1kPY"
+      },
+      "artists": [
+        {
+          "name": "Martin La Pelle",
+          "url": "https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "Soleil De Printemps",
+      "url": "https://open.spotify.com/track/2BbNiUr4ghymoRiLJfAB2c"
+    },
+    {
+      "album": {
+        "name": "Soleil De Printemps",
         "url": "https://open.spotify.com/album/5YgADlrXYIu8D8zVVENFVo"
       },
       "artists": [
@@ -4078,7 +4096,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 177386,
       "name": "Soleil De Printemps",
       "url": "https://open.spotify.com/track/3oCeHeT1LpAKRK7esg4S0R"

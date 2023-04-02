@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 228651,
+  "num_followers": 228815,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzMTM3OSwwMDAwMDAwMGVkZTk5ODQ5N2I4ODE4ZDYxM2VlM2M5MGEwMjk4ODE0",
+  "snapshot_id": "MTY3NzUzMTM3OSwwMDAwMDAwMGY2ZGFjY2NkMTRjYzkyYmJjOGRiODBhODc4NDQxMDFk",
   "tracks": [
     {
       "added_at": "2022-11-22 19:37:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
+        "name": "Everywhere And Right Here",
+        "url": "https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5"
+      },
+      "artists": [
+        {
+          "name": "The Six Parts Seven",
+          "url": "https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL"
+        }
+      ],
+      "duration_ms": 322160,
+      "name": "What You Love You Must Love Now",
+      "url": "https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
         "name": "Fake Starfield",
         "url": "https://open.spotify.com/album/3UanbDy5SRrq3K1LCcdWPK"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 160540,
       "name": "Fake Starfield",
       "url": "https://open.spotify.com/track/01sIVQByS0Z4NpkbgCa6Xp"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
-        "name": "Everywhere And Right Here",
-        "url": "https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5"
-      },
-      "artists": [
-        {
-          "name": "The Six Parts Seven",
-          "url": "https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL"
-        }
-      ],
-      "duration_ms": 322160,
-      "name": "What You Love You Must Love Now",
-      "url": "https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -835,26 +835,22 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Accepted",
-        "url": "https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO"
+        "name": "Distant Memory",
+        "url": "https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG"
       },
       "artists": [
         {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C"
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
         },
         {
-          "name": "Supine",
-          "url": "https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM"
-        },
-        {
-          "name": "Wist",
-          "url": "https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8"
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Accepted",
-      "url": "https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5"
+      "duration_ms": 163519,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov"
     }
   ],
   "unique_name": "Chill Gaming",

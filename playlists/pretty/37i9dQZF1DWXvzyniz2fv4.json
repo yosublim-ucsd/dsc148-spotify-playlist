@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 145926,
+  "num_followers": 145946,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTY2MCwwMDAwMDAwMDE4NjA2MjIxNmVhMDkwNTJiMzFkYTQ3MTI4NGQ3ZmUz",
+  "snapshot_id": "MTY4MDIzMTY2MCwwMDAwMDAwMDQ4NjY3ODgwNjg1ODUxYjI2NDVjOTBkYjU4YmQxNDRk",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
     },
     {
-      "added_at": "2023-04-01 01:06:52",
+      "added_at": "2023-04-02 00:35:18",
       "album": {
         "name": "Minha Vida \u00e9 um Filme",
         "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
@@ -443,6 +443,38 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "SSA",
+        "url": "https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        },
+        {
+          "name": "ajcookin",
+          "url": "https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F"
+        }
+      ],
+      "duration_ms": 221359,
+      "name": "SSA",
+      "url": "https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Melhor Dia 10 - A Rua Ensina",
         "url": "https://open.spotify.com/album/4ywpPfbLWlsNlDnJ3olYPW"
       },
@@ -483,38 +515,6 @@
       "duration_ms": 186297,
       "name": "Pra Praia",
       "url": "https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "SSA",
-        "url": "https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "VANDAL",
-          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        },
-        {
-          "name": "ajcookin",
-          "url": "https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F"
-        }
-      ],
-      "duration_ms": 221359,
-      "name": "SSA",
-      "url": "https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Sabor Cereja",
-        "url": "https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 175074,
-      "name": "Sabor Cereja",
-      "url": "https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 264547,
       "name": "Original MTK #2 - Se Voc\u00ea Vier",
       "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Sabor Cereja",
+        "url": "https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 175074,
+      "name": "Sabor Cereja",
+      "url": "https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Nossas M\u00eddias",
-        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
-      },
-      "artists": [
-        {
-          "name": "Gabziim",
-          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
-        },
-        {
-          "name": "Sim\u00f8n",
-          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Nossas M\u00eddias",
-      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Mapa Astral",
         "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 189240,
       "name": "Esse Teu Sorriso",
       "url": "https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Nossas M\u00eddias",
+        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
+      },
+      "artists": [
+        {
+          "name": "Gabziim",
+          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
+        },
+        {
+          "name": "Sim\u00f8n",
+          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Nossas M\u00eddias",
+      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "ELA ME TEM",
+        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "ELA ME TEM",
+      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "V\u00e1rios Planos",
         "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
       },
@@ -1275,6 +1291,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
       },
@@ -1291,22 +1323,6 @@
       "duration_ms": 197333,
       "name": "Neon",
       "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "ELA ME TEM",
-        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
-      },
-      "artists": [
-        {
-          "name": "Ikki",
-          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "ELA ME TEM",
-      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
@@ -1455,30 +1455,6 @@
       "duration_ms": 213698,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Voe",
-        "url": "https://open.spotify.com/album/5sEJvbVgT33VcOkKc3C5Sa"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Voe",
-      "url": "https://open.spotify.com/track/1Ea9xfSLH7uOi6NuAx0hOw"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1531,22 +1507,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
-      },
-      "artists": [
-        {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1571,6 +1531,22 @@
       "duration_ms": 181546,
       "name": "Lance Casual",
       "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
+      },
+      "artists": [
+        {
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
+        }
+      ],
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1631,6 +1607,30 @@
       "duration_ms": 149610,
       "name": "Kim Kardashian",
       "url": "https://open.spotify.com/track/5vEd02O4TMOKhZ1K9cSY64"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Voe",
+        "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Voe",
+      "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
     }
   ],
   "unique_name": "Resenha na Praia",

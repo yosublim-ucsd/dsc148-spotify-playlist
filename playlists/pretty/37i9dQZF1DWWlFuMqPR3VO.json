@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 11128,
+  "num_followers": 11139,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMDVmNmUyYWMyNTIwYWE5YzQ1NGI1NDgwOTc4MTc1OWE4",
+  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMGZjZGI1NzE0NDMwYjk0NDAxZjNkNjU1YjM5ODA3YzEy",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Baby Scratch My Back - Single Version",
-      "url": "https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Tradition Masters Series",
         "url": "https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 181892,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Baby Scratch My Back - Single Version",
+      "url": "https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "Saint James Infirmary",
-      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/1heK7tmUTRLA2jwrRG4LiB"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 347453,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3OvV9R4RIoXwUi7UcuXwkU"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "Saint James Infirmary",
+      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Shake Your Hips - Single Version",
-      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Creole Moon",
         "url": "https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 193333,
-      "name": "I Got a Woman",
-      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
+      "duration_ms": 149800,
+      "name": "Shake Your Hips - Single Version",
+      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -315,6 +299,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "I Got a Woman",
+      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 310040,
       "name": "Junco Partner",
       "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "By the Water",
-      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -411,8 +395,8 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 227960,
-      "name": "Brown Skin Woman",
-      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
+      "duration_ms": 159373,
+      "name": "By the Water",
+      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -459,6 +443,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Good Neighbor",
+        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
+      },
+      "artists": [
+        {
+          "name": "John Boutt\u00e9",
+          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "Accentuate The Positive",
+      "url": "https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Classified (Remixed & Expanded Edition)",
         "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
       },
@@ -475,38 +475,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
       "artists": [
         {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        },
-        {
-          "name": "Sam Charters",
-          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Trick Bag",
-      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Good Neighbor",
-        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
-      },
-      "artists": [
-        {
-          "name": "John Boutt\u00e9",
-          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "Accentuate The Positive",
-      "url": "https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal"
+      "duration_ms": 227960,
+      "name": "Brown Skin Woman",
+      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -539,6 +519,26 @@
       "duration_ms": 277933,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
+      },
+      "artists": [
+        {
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        },
+        {
+          "name": "Sam Charters",
+          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Trick Bag",
+      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "I'm A Mojo Man: The Best Of The Excello Singles",
+        "url": "https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Gonna Stick To You Baby",
+      "url": "https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Vol. 1: Blues Won't Let Me Take My Rest",
         "url": "https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 232413,
       "name": "Let's Get High",
       "url": "https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "Davell Crawford",
-          "url": "https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Gather by the River",
-      "url": "https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ"
     }
   ],
   "unique_name": "Louisiana Blues",

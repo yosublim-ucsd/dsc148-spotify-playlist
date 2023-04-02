@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 172997,
+  "num_followers": 173086,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMGJmZjhhMDM3ZmE3OTNiMTcyOGRmNjk5ZWUwM2VmMzE0",
+  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDQ3YjBkY2UyZmE5Mjc1ZTVlNmEwNTUzOTM0NTk4YjQy",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "10 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4G3uYZwUvhvi8IByx7CUgU"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283600,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/5MWJ8J0jyXtJQcnsB9iykS"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 300408,
       "name": "Nunca Niegues Que Te Amo",
       "url": "https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246047,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "Sorpresa Caribe",
+        "url": "https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 275774,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 294295,
       "name": "Volver",
       "url": "https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Lenguaje Universal",
-        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 246047,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -283,8 +283,8 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Sorpresa Caribe",
-        "url": "https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC"
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 275774,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6"
+      "duration_ms": 282827,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -403,8 +403,8 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO"
+        "name": "Version Original",
+        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 282827,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER"
+      "duration_ms": 266187,
+      "name": "Me Tiraste Al Mar",
+      "url": "https://open.spotify.com/track/4x0fsFljh9cbNLQTZxCov1"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Version Original",
-        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 266187,
-      "name": "Me Tiraste Al Mar",
-      "url": "https://open.spotify.com/track/4x0fsFljh9cbNLQTZxCov1"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Avanzando",
         "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "Tierra Mala",
+        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Tierra Mala",
-        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
+        "name": "Version Original",
+        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 289933,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
+      "duration_ms": 296620,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Con Aroma de Mujer",
-        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "Todo Daria por Ti",
-      "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Gracias Mi Gente",
         "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 286493,
       "name": "No Te Detengas",
       "url": "https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Con Aroma de Mujer",
+        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
+      },
+      "artists": [
+        {
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "Todo Daria por Ti",
+      "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "El Pueblo Quiere Al Cantante",
+        "url": "https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 259413,
+      "name": "Acompa\u00f1ame",
+      "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 287346,
       "name": "Te Amo y Te Amo",
       "url": "https://open.spotify.com/track/35DHosusaWYuFw2gCyoKWL"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Coleccion Top 50",
-        "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Zuleta",
-          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
-        }
-      ],
-      "duration_ms": 299733,
-      "name": "Mi Hermano Y Yo",
-      "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "El Pueblo Quiere Al Cantante",
-        "url": "https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl"
+        "name": "Coleccion Top 50",
+        "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
       },
       "artists": [
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+          "name": "Los Hermanos Zuleta",
+          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
         }
       ],
-      "duration_ms": 259413,
-      "name": "Acompa\u00f1ame",
-      "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
+      "duration_ms": 299733,
+      "name": "Mi Hermano Y Yo",
+      "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenato",
-          "url": "https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X"
-        }
-      ],
-      "duration_ms": 265213,
-      "name": "Donde Estas",
-      "url": "https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Alto Voltaje",
         "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 246800,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenato",
+          "url": "https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "30 Vallenatos Pegaditos",
-        "url": "https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5"
+        "name": "14 Vallenatos Rom\u00e1nticos, Vol. 1",
+        "url": "https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6"
       },
       "artists": [
         {
-          "name": "Rugido Vallenato",
-          "url": "https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j"
+          "name": "Luis Mateus Y La Nueva Generacion",
+          "url": "https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
         }
       ],
-      "duration_ms": 284520,
-      "name": "Nunca Comprendi Tu Amor",
-      "url": "https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU"
+      "duration_ms": 259880,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "14 Vallenatos Rom\u00e1nticos, Vol. 1",
-        "url": "https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6"
+        "name": "30 Vallenatos Pegaditos",
+        "url": "https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5"
       },
       "artists": [
         {
-          "name": "Luis Mateus Y La Nueva Generacion",
-          "url": "https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+          "name": "Rugido Vallenato",
+          "url": "https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j"
         }
       ],
-      "duration_ms": 259880,
-      "name": "Adios Amor",
-      "url": "https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q"
+      "duration_ms": 284520,
+      "name": "Nunca Comprendi Tu Amor",
+      "url": "https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU"
     }
   ],
   "unique_name": "Vallenato Full Bacano",

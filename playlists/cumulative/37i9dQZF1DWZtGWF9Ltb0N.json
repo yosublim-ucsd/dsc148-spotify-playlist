@@ -3487,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/7HMs8tD3rGT2b6GpyGxE1b"
+      },
+      "artists": [
+        {
+          "name": "Khanvict",
+          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
+        },
+        {
+          "name": "Equanimous",
+          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185699,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/1TmCCPrOJjyByclYIHr5mC"
+    },
+    {
+      "album": {
         "name": "Instinct EP",
         "url": "https://open.spotify.com/album/6T3y446mhfvtTtxXkLPLHr"
       },
@@ -3892,7 +3914,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 231111,
       "name": "Lana",
       "url": "https://open.spotify.com/track/0mnUXaOHyLDnhJ34qllbKB"
@@ -4428,6 +4450,28 @@
       "duration_ms": 198857,
       "name": "Mage",
       "url": "https://open.spotify.com/track/1sVeutIp3sh1eePjz7ONnH"
+    },
+    {
+      "album": {
+        "name": "Makin Moves",
+        "url": "https://open.spotify.com/album/0KiLaRhGNQYN0j94MVjKhN"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Makin Moves",
+      "url": "https://open.spotify.com/track/3QwYSJpsLN0qannLsQqdVE"
     },
     {
       "album": {
@@ -7180,7 +7224,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 163155,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/7pGClgDyg6EzpEulHy3pMh"

@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 145009,
+  "num_followers": 145133,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1OTQ3OCwwMDAwMDAwMGNjZTRjMGZmNDY3OTEwNjNjNzdjZTU3N2FjNWY3ODk3",
+  "snapshot_id": "MTY3NzI1OTQ3OCwwMDAwMDAwMGM1MGY3YTllMDY4MTg4NzNjMGNkOTBlNzcwMWQyMWJk",
   "tracks": [
     {
       "added_at": "2023-02-17 11:58:20",
@@ -291,18 +291,22 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
       "artists": [
         {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -327,22 +331,18 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 217626,
       "name": "Fancy Drones (Fracture Me)",
       "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Colin James And The Little Big Band",
-        "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Three Hours Past Midnight",
-      "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "The Amogla Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 299973,
       "name": "Mean Blues",
       "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Colin James And The Little Big Band",
+        "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Three Hours Past Midnight",
+      "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Bluesmen Don't Use Umbrellas",
-        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
-      },
-      "artists": [
-        {
-          "name": "Michigan Curve",
-          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "J.C's. Blues",
-      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Bluesmen Don't Use Umbrellas",
+        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
+      },
+      "artists": [
+        {
+          "name": "Michigan Curve",
+          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "J.C's. Blues",
+      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
     },
     {
-      "added_at": "2023-04-01 00:22:24",
+      "added_at": "2023-04-02 01:06:46",
       "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "One Day Closer To Home",
-        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "One Day Closer To Home",
-      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Sailin' Shoes",
         "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 208133,
       "name": "A Apolitical Blues",
       "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "One Day Closer To Home",
+        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 228832,
+      "name": "One Day Closer To Home",
+      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
     },
     {
-      "added_at": "2023-04-01 00:22:24",
+      "added_at": "2023-04-02 01:06:46",
       "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Push The Blues Away",
-        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
       "artists": [
         {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 187447,
-      "name": "Something With Feel",
-      "url": "https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq"
+      "duration_ms": 257093,
+      "name": "Thanks, But No Thanks",
+      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1243,22 +1239,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Thanks, But No Thanks",
-      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 81000,
       "name": "Don't Go Back To New Orleans - Remastered 2022",
       "url": "https://open.spotify.com/track/17J48o0PQhGI7KFZXMe9j1"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Something With Feel",
+      "url": "https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
-        "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sitting At Home Alone",
-      "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Your Lies",
         "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 193130,
       "name": "Your Lies",
       "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
+        "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Sitting At Home Alone",
+      "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Shadows and Ghosts",
-        "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
-      },
-      "artists": [
-        {
-          "name": "Sean Stephen",
-          "url": "https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp"
-        }
-      ],
-      "duration_ms": 230524,
-      "name": "Don't Deal With The Devil",
-      "url": "https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Bob Corritore & Friends: You Shocked Me",
         "url": "https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 197388,
       "name": "Blue Blue Water",
       "url": "https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Shadows and Ghosts",
+        "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
+      },
+      "artists": [
+        {
+          "name": "Sean Stephen",
+          "url": "https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp"
+        }
+      ],
+      "duration_ms": 230524,
+      "name": "Don't Deal With The Devil",
+      "url": "https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r"
     },
     {
       "added_at": "2023-02-17 11:58:20",

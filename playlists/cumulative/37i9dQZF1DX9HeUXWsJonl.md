@@ -4,7 +4,7 @@
 
 > Écoute en boucle les hits tunisiens du moment.
 
-153 songs - 9 hr 30 min
+154 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 | 2023-01-08 | 2023-02-02 |
 | [7 Snin](https://open.spotify.com/track/5hSs2Tq3dkarWaRtt46QM7) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [7 Snin](https://open.spotify.com/album/5q6JhGTERJe7fWAQOJwz1W) | 4:47 | 2022-10-21 | 2022-11-23 |
 | [7amra ka7la](https://open.spotify.com/track/7LlTfu1SyKqU1I4Zwscvo1) | [Ta9chira](https://open.spotify.com/artist/3i9OYfUCXrnExALGVDFVbV), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY), [Brotherhood Family](https://open.spotify.com/artist/10cwob7dZC2NvAJtTc6GwD), [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [RISE OF A GANG](https://open.spotify.com/album/1IE9cNCHBKtGIwk8gfqFW6) | 3:13 | 2022-11-26 | 2022-11-30 |
-| [7elma](https://open.spotify.com/track/2Dbvw3R3GqaF4ucrbe4dTs) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [7elma](https://open.spotify.com/album/27l6Sbd25Oy7dhrNxItLJQ) | 4:02 | 2021-12-10 |  |
+| [7elma](https://open.spotify.com/track/0BQ88yi1T6GEVgqPB6Q0nb) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [7elma](https://open.spotify.com/album/3HsnSlpKD6gsDGh8Pq5gNT) | 4:02 | 2023-03-30 |  |
+| [7elma](https://open.spotify.com/track/2Dbvw3R3GqaF4ucrbe4dTs) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [7elma](https://open.spotify.com/album/27l6Sbd25Oy7dhrNxItLJQ) | 4:02 | 2021-12-10 | 2023-04-02 |
 | [7kit M3a Leb7ar](https://open.spotify.com/track/1S3vLnBYhccO9L5o46HtH8) | [Aveyro Ave](https://open.spotify.com/artist/0gcWKqqEEiY4xLTxZDBDu4) | [Infection 5 Revelation](https://open.spotify.com/album/2OAGlBJZcVhyP0YjNJDfhr) | 6:40 | 2022-11-29 | 2023-01-18 |
 | [9al w 9il](https://open.spotify.com/track/3GDQzysNN5JUDclQHMtvHG) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:02 | 2022-10-04 |  |
 | [9ased Rabbi \- قاصد ربي](https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [9ased Rabbi \(قاصد ربي\)](https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl) | 3:44 | 2023-03-06 |  |

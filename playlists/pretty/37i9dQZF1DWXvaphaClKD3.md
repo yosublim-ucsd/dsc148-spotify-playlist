@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Luis R Conriquez y Grupo Laberinto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,349 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,868 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 17 | [Marco Arturo \- En Vivo](https://open.spotify.com/track/3kkkDMvrkBpdm1WVTsZ0T8) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Jorge Santacruz Y Su Grupo Quinto Elemento](https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ) | [Marco Arturo \(En Vivo\)](https://open.spotify.com/album/01z8WwmhqjLB9FedDr6XcE) | 2:25 |
 | 18 | [Señor Miedo \(En Vivo\)](https://open.spotify.com/track/7cs9ZjLAWTn7fch2zyOzNj) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Señor Miedo \(En Vivo\)](https://open.spotify.com/album/3v8oLSHuUOoDc3kHlimPk8) | 2:54 |
 | 19 | [El Grillo](https://open.spotify.com/track/1TnNKfbqeML9LcWdhRpcgL) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [El Grillo](https://open.spotify.com/album/54UR0rpNVfRkIkWIQQotUi) | 3:34 |
-| 20 | [Amor De Los Dos \(En Vivo\)](https://open.spotify.com/track/07b5C2ppQBDIWPKclU31sz) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Amor De Los Dos \(En Vivo\)](https://open.spotify.com/album/2LbAxI8gUsdrW4yPTArhRD) | 2:46 |
+| 20 | [Amor de los Dos \(En Vivo\)](https://open.spotify.com/track/07b5C2ppQBDIWPKclU31sz) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Amor de los Dos \(En Vivo\)](https://open.spotify.com/album/2LbAxI8gUsdrW4yPTArhRD) | 2:46 |
 | 21 | [A Ver Cómo Le Haces](https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [A Ver Cómo Le Haces](https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9) | 3:59 |
 | 22 | [Tu Lunarcito](https://open.spotify.com/track/0vUdAbGM61fvJiX9Nuvcie) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Lunarcito](https://open.spotify.com/album/7nG7RKoZ9vgepYpd6OiLa0) | 4:00 |
 | 23 | [Yo No Fumo](https://open.spotify.com/track/79U0Bz4XoHMyjmwK2AlX2B) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo No Fumo](https://open.spotify.com/album/6iElKHUTsv8TQck59XGWsW) | 2:59 |

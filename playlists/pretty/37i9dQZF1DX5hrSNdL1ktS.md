@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Yng Lvcas y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,697 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,724 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 13 | [Como Tú](https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Como Tú](https://open.spotify.com/album/1uGYD7JyIY9FwNc0pFCB4b) | 2:59 |
 | 14 | [Causa y Efecto](https://open.spotify.com/track/2C83HVLQBbVCQWLXAyB9ba) | [Alex Sp](https://open.spotify.com/artist/7e1ohjVfANpybCcXZTgxlI), [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Causa y Efecto](https://open.spotify.com/album/0i3LDfdEG9hLKrNs8RsALQ) | 3:17 |
 | 15 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
-| 16 | [Cenizas](https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG) | [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y) | [Cenizas](https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM) | 3:40 |
+| 16 | [Ceniza](https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG) | [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y) | [Ceniza](https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM) | 3:40 |
 | 17 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
 | 18 | [Waii](https://open.spotify.com/track/1YV4LaJpgdEzqLhzScQWuw) | [Santa Griega](https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu) | [Waii](https://open.spotify.com/album/2lWsYpwRzt5eocRtcFaaB9) | 3:29 |
 | 19 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 51 | [LA PUERTA](https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [LA PUERTA](https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj) | 3:03 |
 | 52 | [El Baile De Perrito](https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5) | [Partylifemusic](https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [El Baile De Perrito](https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd) | 2:32 |
 | 53 | [Sueño](https://open.spotify.com/track/5zzeED4DVkAX9ujce347pD) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Tommy Artz](https://open.spotify.com/artist/5d8RjWwyW7wKhdiMXFQcPt), [Freciso](https://open.spotify.com/artist/2f5seq5MeXUMIbCCwoqm9C) | [Sueño](https://open.spotify.com/album/0i5yS4tEvSRHYaw2fRseOr) | 3:40 |
-| 54 | [Viaje](https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Viaje](https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI) | 3:24 |
-| 55 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 |
+| 54 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 |
+| 55 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 |
 
-Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMGE0YWI2NTdkOGYwYTI1Y2NiMTRjZGQ2ZTY1ZmIxMGQz`
+Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDBiZWNkMWE2YzIxNWM2OWRiZDI0Mzc2NjcyNGQ3ZWU4`

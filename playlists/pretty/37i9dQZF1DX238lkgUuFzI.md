@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,479 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,466 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 45 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 |
 | 46 | [Girls Can Do Anything](https://open.spotify.com/track/6heGVcEj4wAyvdM9vg81kF) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Girls Can Do Anything](https://open.spotify.com/album/21ZOZVvKJtmGn4OjW8f3wW) | 2:54 |
 | 47 | [sting](https://open.spotify.com/track/0XGbReaytKAW0QioXzetZ2) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [world champ](https://open.spotify.com/album/2DMlRJkO8lu0GpXcgHijYg) | 3:05 |
-| 48 | [You've Created a Monster](https://open.spotify.com/track/6TeKpZbqRo3QEIPKUUzNQj) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/7ftqRI6pFDYwFZYGARS9wP) | 2:38 |
+| 48 | [You've Created a Monster](https://open.spotify.com/track/5jUOuMBnav0iyM6DINhETm) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/0QHzvyZZtby59Jh2KXjC1f) | 2:38 |
 | 49 | [god sent me as karma](https://open.spotify.com/track/7sUDunSJDK8HnFPJOCtPef) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 3:06 |
 | 50 | [weekends](https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Quantum Jumping](https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk) | 2:52 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDU3MjIyYmYzYmFiY2YxNmIxNjRmYzIwMTVkZjM2ZmJi`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGQ0ZjE3YmY3ZDdhMWNhNTgwZmU3MzBiMTVjNGJiNjM3`

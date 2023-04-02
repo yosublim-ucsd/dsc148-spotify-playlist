@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,752 likes - 96 songs - 4 hr 56 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,757 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 15 | [U Not Special](https://open.spotify.com/track/1z81Kn9zSI6bfPlPqBw7Sj) | [Solochulo](https://open.spotify.com/artist/5qy2nVW8X4Jq7SknKoxenJ) | [U Not Special](https://open.spotify.com/album/5D7i0lvdqszQUbCFRrI7sD) | 2:30 |
 | 16 | [Don't Wanna Go Out On The Weekend](https://open.spotify.com/track/7v7mNmMsfNm2QGuXlLQo8s) | [Private Function](https://open.spotify.com/artist/3XWRl19mJPqyWHfvehJAMD) | [370HSSV 0773H](https://open.spotify.com/album/3ekwVeQiGVHn3tSRwDb5lS) | 3:18 |
 | 17 | [Wake Up](https://open.spotify.com/track/1TdPkJcFlcQxJQ18tNHcrd) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA), [Francesca](https://open.spotify.com/artist/6fSls1L2HK89bfvszH3oFw) | [Wake Up](https://open.spotify.com/album/6sDCfydxsZnccNPTsVhzwz) | 3:57 |
-| 18 | [Salute](https://open.spotify.com/track/5DYHrzFAkN2oEm3F4zMyGL) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [Lowfades](https://open.spotify.com/artist/5tQDf3f7QrnrP3bv8rI77A), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Salute](https://open.spotify.com/album/5O0HtpMI4ME919zkRqwRQ1) | 3:34 |
+| 18 | [Salute](https://open.spotify.com/track/5DYHrzFAkN2oEm3F4zMyGL) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [Lowfades](https://open.spotify.com/artist/5tQDf3f7QrnrP3bv8rI77A) | [Salute](https://open.spotify.com/album/5O0HtpMI4ME919zkRqwRQ1) | 3:34 |
 | 19 | [Bracing](https://open.spotify.com/track/6cliZq0DpmY6QE6tUlvqjO) | [169](https://open.spotify.com/artist/39YXk0KLGQwWNHIAkrQngR), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [Bracing](https://open.spotify.com/album/78JmFCHC0q0NyahoLLb7G9) | 3:03 |
 | 20 | [Drop Music More](https://open.spotify.com/track/7upUPxvWCGyJkE380lmhQS) | [Hakkz](https://open.spotify.com/artist/1D7I4dxMMjjxxwpO90ezb1) | [Drop Music More](https://open.spotify.com/album/7vNe6TjIUiozhQZWczEJc8) | 2:34 |
 | 21 | [Money & Fame](https://open.spotify.com/track/3d3pocp0zwU4jDgJ9zAEN4) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS), [Juvie](https://open.spotify.com/artist/3rImvpEhHXqXGm5lBdfVMX) | [Money & Fame](https://open.spotify.com/album/6mw9MvqCxZfADuzZ8e9VzY) | 2:37 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 23 | [Veronica](https://open.spotify.com/track/7dqmmHDo6QHAap0tC5biXF) | [Cliché Cult](https://open.spotify.com/artist/0wIIaLPfQvlqIFgGjD0lXA) | [Veronica](https://open.spotify.com/album/47txItXyBs0a2gcXTWEXXg) | 3:21 |
 | 24 | [Water](https://open.spotify.com/track/5ccRwSXDmHV8U4ZQXQwWiP) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Water](https://open.spotify.com/album/0j7UB9CZTBWWH3jhwsb9Vx) | 3:24 |
 | 25 | [La cumbia del velorio](https://open.spotify.com/track/6nF4nfhZlzLxUPNrW8ZB5m) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon) | [La cantimplora](https://open.spotify.com/album/5GhGrKABQaaGgUHisH2SZM) | 8:29 |
-| 26 | [Desconocidos](https://open.spotify.com/track/3YpFWMr47GFboa5XGywNSi) | [Facu Suarez](https://open.spotify.com/artist/2djgNzjsLY8tT9I1LvAg5a), [Cheimota](https://open.spotify.com/artist/3ZmJKioAWxyJO3RGnBkDIC) | [Desconocidos](https://open.spotify.com/album/4VkUn4QiYXQhgmE5mDdoze) | 3:01 |
+| 26 | [Desconocidos](https://open.spotify.com/track/3YpFWMr47GFboa5XGywNSi) | [Facu Suarez](https://open.spotify.com/artist/2djgNzjsLY8tT9I1LvAg5a), [Cheimota](https://open.spotify.com/artist/5wEa5in7XAmO5g4YguKagC) | [Desconocidos](https://open.spotify.com/album/4VkUn4QiYXQhgmE5mDdoze) | 3:01 |
 | 27 | [Vengan Ya \(Reggaeton\)](https://open.spotify.com/track/4cbtbacyKsdDvSGuBZROAK) | [Element Black](https://open.spotify.com/artist/26j57IpZzF7aFa4iVAf2i1) | [Vengan Ya \(Reggaeton\)](https://open.spotify.com/album/18yhg7Cdrd3DuWtL0cXwBR) | 2:00 |
 | 28 | [Billeticos](https://open.spotify.com/track/0GLnt71Pn9QsT7SjrgjgeW) | [Jambeau](https://open.spotify.com/artist/294dt5FF6vPvuflq8O9FAZ), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Billeticos](https://open.spotify.com/album/2CWKjZa9HkB26UBtnAriD3) | 2:14 |
 | 29 | [READY TO ATTACK](https://open.spotify.com/track/4GU0TFrm63LBrG4MevqfNB) | [Lion Bigmao](https://open.spotify.com/artist/7bGp7qMPwSdqdcxA9qOl16) | [READY TO ATTACK](https://open.spotify.com/album/563Wl9Pi0HPGqrb6jvz9sT) | 2:38 |

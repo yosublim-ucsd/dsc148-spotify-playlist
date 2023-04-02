@@ -7643,6 +7643,24 @@
     },
     {
       "album": {
+        "name": "I Think I Like When It Rains",
+        "url": "https://open.spotify.com/album/3k9XrV1ZOBZ9U78Womi2f0"
+      },
+      "artists": [
+        {
+          "name": "Tizory",
+          "url": "https://open.spotify.com/artist/2vBWV1vHu9aroWHcuqTCkc"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278386,
+      "name": "I Think I Like When It Rains",
+      "url": "https://open.spotify.com/track/3GsTQmEynWPDnds0H72Bp4"
+    },
+    {
+      "album": {
         "name": "Locals 2",
         "url": "https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2"
       },
@@ -7654,7 +7672,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 278293,
       "name": "I Think I Like When It Rains",
       "url": "https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2"

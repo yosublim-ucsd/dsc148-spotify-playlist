@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 547676,
+  "num_followers": 547818,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMGM1YzgwZGE3NDRiNjdiYzg2MWM0MjYxOTkzZTI0M2Jm",
+  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMGI1YjAzMTdlNWM1ZWZiOTAyNmU2OTU5ZDI4ZWRmZDY5",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Old Tyme Religion",
-        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
-      },
-      "artists": [
-        {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
-        }
-      ],
-      "duration_ms": 137426,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 199240,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Old Tyme Religion",
+        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
+        }
+      ],
+      "duration_ms": 137426,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
-      "added_at": "2023-04-01 01:01:32",
+      "added_at": "2023-04-02 01:01:38",
       "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
     },
     {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Devil\u2019s Backbone",
+      "url": "https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M"
+    },
+    {
       "added_at": "2022-07-11 21:23:38",
       "album": {
         "name": "Run On",
@@ -267,22 +283,6 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Devil\u2019s Backbone",
-      "url": "https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Lungs - Live",
-      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 138440,
       "name": "Bobby Reid",
       "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Lungs - Live",
+      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "I'm Not Your Man",
-        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Heart Of My Own",
+        "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Heart Of My Own",
+      "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "The Devil Dancing",
         "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Heart Of My Own",
-        "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
+        "name": "I'm Not Your Man",
+        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
       },
       "artists": [
         {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
         }
       ],
-      "duration_ms": 229626,
-      "name": "Heart Of My Own",
-      "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
+      "duration_ms": 175320,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Heavy Load",
+        "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller Band",
+          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Get Right Church",
+      "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Heavy Load",
-        "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller Band",
-          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Get Right Church",
-      "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
-      },
-      "artists": [
-        {
-          "name": "The Huntress and Holder of Hands",
-          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
-        }
-      ],
-      "duration_ms": 331908,
-      "name": "Shake off Your Flesh",
-      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 223493,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
+      },
+      "artists": [
+        {
+          "name": "The Huntress and Holder of Hands",
+          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
+        }
+      ],
+      "duration_ms": 331908,
+      "name": "Shake off Your Flesh",
+      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "My Church Is Black",
-        "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
-      },
-      "artists": [
-        {
-          "name": "Me And That Man",
-          "url": "https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "My Church Is Black",
-      "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "My Church Is Black",
+        "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
+      },
+      "artists": [
+        {
+          "name": "Me And That Man",
+          "url": "https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "My Church Is Black",
+      "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
     },
     {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Blood Money (Anniversary Edition)",
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "The Longest Day",
-        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
       "artists": [
         {
-          "name": "Barnaby Bright",
-          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
         }
       ],
-      "duration_ms": 270228,
-      "name": "Highway 9",
-      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1583,6 +1567,22 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "The Longest Day",
+        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Bright",
+          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
+        }
+      ],
+      "duration_ms": 270228,
+      "name": "Highway 9",
+      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
     },
     {
       "added_at": "2022-06-06 19:18:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,391 likes - 106 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,400 likes - 106 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [霧.忘我](https://open.spotify.com/track/1mtOtGe8RSC6Ll9kw6qA4T) | [林沛蕎](https://open.spotify.com/artist/39XlIxY2Aen2Bt30FAbOLn) | [霧.忘我](https://open.spotify.com/album/0brfrxtQAOWArQLc5nxuNB) | 5:16 |
 | 100 | [翅膀](https://open.spotify.com/track/6xcEl6mdZGvLCyYRCzWD41) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [翅膀](https://open.spotify.com/album/72Dy4BgvYSW7vcEnKGxYql) | 3:52 |
 | 101 | [Sometimes](https://open.spotify.com/track/0tTseTE9ClBiYoiuLrktBB) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [Sometimes](https://open.spotify.com/album/3DyDtywdzXqcfLkOQ07TFI) | 4:08 |
-| 102 | [微陌生的朋友](https://open.spotify.com/track/6txtLZLvSaujzYK27Aohl0) | [蜜雪薇琪](https://open.spotify.com/artist/2PvxkWnXNsFWiZVnXSf4Mq) | [微陌生的朋友](https://open.spotify.com/album/1ZiXjVmopblFsSBXQSOXkU) | 3:58 |
+| 102 | [微陌生的朋友](https://open.spotify.com/track/6txtLZLvSaujzYK27Aohl0) | [蜜雪薇琪](https://open.spotify.com/artist/2PvxkWnXNsFWiZVnXSf4Mq) | [微陌生的朋友](https://open.spotify.com/album/1ZiXjVmopblFsSBXQSOXkU) | 3:49 |
 | 103 | [just like you \(在八〇年代\)](https://open.spotify.com/track/4aOOnJ8CCULHQCbbB77gLp) | [黃小楨](https://open.spotify.com/artist/36nWYFJVxfbpEenzbQRPZr) | [just like you](https://open.spotify.com/album/2O7t7YvtsLy7vLHrwCoAc7) | 3:05 |
 | 104 | [白色情人](https://open.spotify.com/track/7co4gh5YscJ6HQyj5ivBXS) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [白色情人](https://open.spotify.com/album/1EVPe8Eorf73kDGmgQpWjG) | 3:56 |
 | 105 | [穿過月光遇見你 \(電視劇《月裡青山淡如畫》片尾曲\)](https://open.spotify.com/track/7bPEHCuMmG6958diWEq3ic) | [郭靜](https://open.spotify.com/artist/3Pl7k0vDSDBqT2aBgE8eEQ) | [穿過月光遇見你 \(電視劇《月裡青山淡如畫》片尾曲\)](https://open.spotify.com/album/4ZWZaWfXDyDdr9mC289Ear) | 2:59 |

@@ -144,7 +144,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 354245,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/66zDhENpxNMKLC6iWxDvTC"
@@ -625,6 +625,28 @@
     },
     {
       "album": {
+        "name": "Can You See Me",
+        "url": "https://open.spotify.com/album/1pMViL7L8nQOIHkuBsLcuv"
+      },
+      "artists": [
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254330,
+      "name": "Can You See Me",
+      "url": "https://open.spotify.com/track/5fbgFotZD68RuoPM0JmJe6"
+    },
+    {
+      "album": {
         "name": "Cascades Of Colour (Remixes)",
         "url": "https://open.spotify.com/album/42kJmZ8pCizaMqhVr7J8YY"
       },
@@ -838,7 +860,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 361967,
       "name": "Cuba Libre (Original Mix) [Mixed]",
       "url": "https://open.spotify.com/track/4LclKgDIPXqV4ClJmXQVJT"
@@ -962,7 +984,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 169180,
       "name": "Dare Your Move",
       "url": "https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9"
@@ -2333,6 +2355,28 @@
     },
     {
       "album": {
+        "name": "Jacaranda",
+        "url": "https://open.spotify.com/album/20haQolPNjMtxDaN8561KL"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372005,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/5gxbSGshbeAUqLzSsxUKFA"
+    },
+    {
+      "album": {
         "name": "Jama",
         "url": "https://open.spotify.com/album/4sAc7tRe15p3J3VV4Uu77A"
       },
@@ -3159,6 +3203,36 @@
     },
     {
       "album": {
+        "name": "Messiah (feat. Zipho Thusi)",
+        "url": "https://open.spotify.com/album/66WdOqFm2emHM0EVE3gd8H"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
+        },
+        {
+          "name": "Ricardo",
+          "url": "https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL"
+        },
+        {
+          "name": "Cisco De Sol",
+          "url": "https://open.spotify.com/artist/5hqEYWxLkwx6tFnsDcTGpQ"
+        },
+        {
+          "name": "Zipho Thusi",
+          "url": "https://open.spotify.com/artist/3EmyyIj985nwu1TCgVVC4W"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243481,
+      "name": "Messiah (feat. Zipho Thusi)",
+      "url": "https://open.spotify.com/track/32s4M923qOhi5hWRbNqE80"
+    },
+    {
+      "album": {
         "name": "Mezdeke",
         "url": "https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv"
       },
@@ -3410,6 +3484,24 @@
       "duration_ms": 444053,
       "name": "My Heart Is Trembling - The Soul Brothers Remix - Mixed",
       "url": "https://open.spotify.com/track/0funJdzeqUX6g96a7P4i2p"
+    },
+    {
+      "album": {
+        "name": "Stay True Sounds Vol.5 (Compiled By Kid Fonque)",
+        "url": "https://open.spotify.com/album/3qSqE4MDNPyTZ5sEagwjWF"
+      },
+      "artists": [
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567251,
+      "name": "My Mothers Wish",
+      "url": "https://open.spotify.com/track/6PvNQpn73tahevi552in27"
     },
     {
       "album": {
@@ -3888,7 +3980,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 410298,
       "name": "Parallel Universe",
       "url": "https://open.spotify.com/track/2hFFwsZEmraBpK2YbyKSmW"
@@ -3914,6 +4006,32 @@
       "duration_ms": 481623,
       "name": "Peah",
       "url": "https://open.spotify.com/track/6oq5rfJnVMZZ3OoUY4f96d"
+    },
+    {
+      "album": {
+        "name": "Pendula (Remixes)",
+        "url": "https://open.spotify.com/album/53Cp69TaNjTGMmsGU3iIsp"
+      },
+      "artists": [
+        {
+          "name": "HyperSOUL-X",
+          "url": "https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Shredder SA",
+          "url": "https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397933,
+      "name": "Pendula - Shredder SA Remix",
+      "url": "https://open.spotify.com/track/2F83N4qCkp7RBqZywaQT4x"
     },
     {
       "album": {
@@ -4052,7 +4170,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 515292,
       "name": "Powel",
       "url": "https://open.spotify.com/track/6hUzA8A7enOIUntTyH577Z"
@@ -4725,6 +4843,32 @@
     },
     {
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/7ueceAJ4XTWPVkaxRoFZEk"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Marocco",
+          "url": "https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/6hqHaIC9pdRDvPtUGmjlfp"
+    },
+    {
+      "album": {
         "name": "Since I Fell For You",
         "url": "https://open.spotify.com/album/4Ux5BJDBmvdF4JCGZ5FGVH"
       },
@@ -4806,7 +4950,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 426890,
       "name": "Something More",
       "url": "https://open.spotify.com/track/6H6wIGM3b4RzmdPsj2d0mL"
@@ -4846,7 +4990,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 439631,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1orqzpMNxFRwxO3UZpBpGO"
@@ -5056,7 +5200,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 270442,
       "name": "Take It Back - Kasango Remix",
       "url": "https://open.spotify.com/track/6PS4FKjcGqMIyQ81A6235u"
@@ -5648,7 +5792,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 247879,
       "name": "ukuthanda wena",
       "url": "https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd"
@@ -5831,6 +5975,28 @@
     },
     {
       "album": {
+        "name": "Wangila",
+        "url": "https://open.spotify.com/album/0nBCezgCVzrmcqGW8Jjym4"
+      },
+      "artists": [
+        {
+          "name": "Studio Bros",
+          "url": "https://open.spotify.com/artist/5TGycVupaB4WmtdWZNC2b3"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472200,
+      "name": "Wangila",
+      "url": "https://open.spotify.com/track/1EBtwghC5Z4rpXlh6mtWiO"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/3YNYc8GUmq4BRIWt4KQp4B"
       },
@@ -5864,6 +6030,28 @@
       "duration_ms": 475515,
       "name": "WASTELAND",
       "url": "https://open.spotify.com/track/5gcOTAcV7OVRjGFxWKNEhx"
+    },
+    {
+      "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/7LTp71dO3Yy3gYzabjSRtb"
+      },
+      "artists": [
+        {
+          "name": "DJ IC",
+          "url": "https://open.spotify.com/artist/5m0mPka5wvWns733bGWIHz"
+        },
+        {
+          "name": "Dj Jim Mastershine",
+          "url": "https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347689,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/4LjzdeQnST657PWpTU4yzH"
     },
     {
       "album": {

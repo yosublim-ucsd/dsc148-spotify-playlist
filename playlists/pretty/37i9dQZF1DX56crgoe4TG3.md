@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,099 likes - 132 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,168 likes - 132 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

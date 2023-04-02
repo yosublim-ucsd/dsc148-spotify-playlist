@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "album": {
         "name": "Low Key Classic R&B For Kids",
         "url": "https://open.spotify.com/album/0boeRKSkxN5X5pqNk3y2s8"
       },
@@ -1098,24 +1116,6 @@
       "duration_ms": 163600,
       "name": "You Beat Me To The Punch - Single Version / Mono",
       "url": "https://open.spotify.com/track/6ueaJVCf7x0hvFc3GeVKms"
-    },
-    {
-      "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "date_added": "2022-03-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch - Stereo Version",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "album": {

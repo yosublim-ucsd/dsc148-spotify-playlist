@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Connie Constance ft\. Jason Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,700 likes - 125 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,793 likes - 125 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 |
 | 2 | [i h8 skewl](https://open.spotify.com/track/0o7jsFaNfMBrqSrlyY2bVz) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i h8 skewl](https://open.spotify.com/album/3StXuwTWExhBOuChvk5Cb1) | 2:04 |
-| 3 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own PET](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
+| 3 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
 | 4 | [Lately](https://open.spotify.com/track/5OE25ggoxJ6ydrSN4Op2Ag) | [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq), [Todd Barriage](https://open.spotify.com/artist/5JvB18ikUg21Uv5MrUBagY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Lately](https://open.spotify.com/album/3CwpPyVy8P6UjE4s81I3cm) | 3:01 |
 | 5 | [Lake Speed](https://open.spotify.com/track/0ZK1Ii5fhYlwPhS2uIj3bz) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [Stowaway](https://open.spotify.com/album/5EZd3zQ30PFR9Xtbcbp0EU) | 2:46 |
 | 6 | [\(Full Free\) Radical](https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [\(Full Free\) Radical](https://open.spotify.com/album/6EUJcyqHfR7gmS5ZtuKtE6) | 3:55 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 43 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 |
 | 44 | [Howl](https://open.spotify.com/track/1eRAZZelizJPQkksU0oEux) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Howl](https://open.spotify.com/album/1DUB2TNAvBF8WMBvd2kUdr) | 4:46 |
 | 45 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
-| 46 | [So Trendy](https://open.spotify.com/track/0XcFrS0wGmXpuJlBAcL6s4) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [So Trendy](https://open.spotify.com/album/7K20NkKuowGGMoVfk5ouvd) | 3:45 |
+| 46 | [So Trendy](https://open.spotify.com/track/0XcFrS0wGmXpuJlBAcL6s4) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [So Trendy](https://open.spotify.com/album/7K20NkKuowGGMoVfk5ouvd) | 3:45 |
 | 47 | [BRAINWASHED](https://open.spotify.com/track/4ImWu6A4KgQbTfNkkvaZQ3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [BRAINWASHED](https://open.spotify.com/album/0LfDJpBcEmuU7DVbz1cI61) | 2:44 |
 | 48 | [Tear Me to Pieces](https://open.spotify.com/track/67e8Oap4yuF4yS7XYW5yZW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:56 |
 | 49 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 107 | [Makeshift Happy](https://open.spotify.com/track/0OveTt3b75JHtVL4hdd4Ze) | [Errorr](https://open.spotify.com/artist/1wVtzjX6YlqkRrdTEDyaRr) | [Makeshift Happy](https://open.spotify.com/album/28OXgBRrelfgwThpYe2690) | 3:57 |
 | 108 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 |
 | 109 | [Gravitation](https://open.spotify.com/track/5gJlbXcrjLhk7n4cAnrFbC) | [LOBSTERBOMB](https://open.spotify.com/artist/2zBxQyNS9Ja2Y9YUbYiOOS) | [Gravitation](https://open.spotify.com/album/5B43hsTF3S0Q8CWyaYfqnG) | 2:53 |
-| 110 | [Force 10 From Navarone](https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Force 10 From Navarone](https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM) | 3:24 |
+| 110 | [Force 10 From Navarone](https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Florence Shaw](https://open.spotify.com/artist/5PGw6aGfWBvSRnOZif7K84) | [Force 10 From Navarone](https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM) | 3:24 |
 | 111 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 |
 | 112 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 |
 | 113 | [The Voice In My Head](https://open.spotify.com/track/2pLBgqBQxTqrUN1jCn8M8B) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [The Voice In My Head](https://open.spotify.com/album/4M3uXTjbtdPBBiMGtNGCa1) | 1:58 |

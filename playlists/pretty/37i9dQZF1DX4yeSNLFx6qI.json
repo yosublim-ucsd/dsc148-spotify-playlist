@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1734070,
+  "num_followers": 1734252,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGE0ZmMxNWNmOTllZTkyNmVhZTczNGYwMTg0MTk5ZGM0",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDE0YTVkMGYxNGVlMWVmY2IzODU4NWE1NDcyNDc3Yzc2",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Infieles",
-        "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Infieles",
-      "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 92539,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Infieles",
+        "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Infieles",
+      "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 159465,
-      "name": "ADI\u00d3S AMOR",
-      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 232331,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 159465,
+      "name": "ADI\u00d3S AMOR",
+      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "De la Ilusi\u00f3n Al Miedo",
+        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "De la Ilusi\u00f3n Al Miedo",
+      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL"
       },
@@ -1307,38 +1323,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "De la Ilusi\u00f3n Al Miedo",
-        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 245466,
-      "name": "De la Ilusi\u00f3n Al Miedo",
-      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Lo Que Me D\u00e9 la Gana",
-        "url": "https://open.spotify.com/album/7wtZmmV9IngZcM71QUBUgL"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 229630,
-      "name": "Avioncito de Papel",
-      "url": "https://open.spotify.com/track/3NotbAoyN09CuKaqWQP48U"
+      "duration_ms": 202867,
+      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
+      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
+        "name": "Lo Que Me D\u00e9 la Gana",
+        "url": "https://open.spotify.com/album/7wtZmmV9IngZcM71QUBUgL"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 202867,
-      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
-      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+      "duration_ms": 229630,
+      "name": "Avioncito de Papel",
+      "url": "https://open.spotify.com/track/3NotbAoyN09CuKaqWQP48U"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Amar Sin Mentiras",
         "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Amarte y Perderte",
-        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
+        "name": "Te Necesito (Live Acoustic)",
+        "url": "https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH"
       },
       "artists": [
         {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 208947,
-      "name": "Amarte y Perderte",
-      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
+      "duration_ms": 195929,
+      "name": "Te Necesito (Live Acoustic)",
+      "url": "https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1715,22 +1719,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Te Necesito (Live Acoustic)",
-        "url": "https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH"
+        "name": "Amarte y Perderte",
+        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
         }
       ],
-      "duration_ms": 195929,
-      "name": "Te Necesito (Live Acoustic)",
-      "url": "https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB"
+      "duration_ms": 208947,
+      "name": "Amarte y Perderte",
+      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
     },
     {
       "added_at": "2023-03-24 04:00:00",

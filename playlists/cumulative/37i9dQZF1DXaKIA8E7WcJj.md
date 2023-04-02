@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-820 songs - 1 day 18 hr 58 min
+821 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [A Place In The Sun](https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Down To Earth](https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm) | 2:52 | 2019-12-01 | 2022-07-29 |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 | 2021-01-05 |  |
 | [A Whiter Shade Of Pale](https://open.spotify.com/track/3qitymULqEibr7yknRMKU4) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade Of Pale](https://open.spotify.com/album/2WcfgOosdw0bN9g9twoA4K) | 4:08 | 2019-05-26\* | 2022-07-29 |
-| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade of Pale](https://open.spotify.com/album/16cvzyvunqoYiyr6j34ICO) | 4:08 | 2022-08-12 |  |
+| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade of Pale](https://open.spotify.com/album/16cvzyvunqoYiyr6j34ICO) | 4:08 | 2022-08-12 | 2023-04-02 |
 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 | 2022-06-08 | 2022-10-22 |
 | [A World Without Love](https://open.spotify.com/track/4NNK7IAziJkwbXEFXCAkQv) | [Peter And Gordon](https://open.spotify.com/artist/6lHC2EQMEMZiEmSfFloarn) | [British Invasion Time](https://open.spotify.com/album/4p0nHgfuQmmB4iRvBeJ8dU) | 2:40 | 2019-06-06 | 2022-07-29 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/0ejSOUMcnYJlIuTZZWgOTb) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [songs that lowkey slap](https://open.spotify.com/album/5iy19BhOQpUmNGqTIgJYW4) | 2:27 | 2022-08-12 | 2022-11-13 |
@@ -536,6 +536,7 @@
 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 | 2019-07-16 |  |
 | [Ramblin' Gamblin' Man](https://open.spotify.com/track/691Wr3tOjDqic3OTPLouX3) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Ramblin' Gamblin' Man](https://open.spotify.com/album/0mnZhL4hkaGyIckwOZ6dgE) | 2:25 | 2020-08-15 | 2022-11-13 |
 | [Rawhide \- Single Version](https://open.spotify.com/track/7K9j1l8gM2yBRfPwAb7gxi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Whistle Bait: 25 Rockabilly Rave\-Ups](https://open.spotify.com/album/4vlbGggiywlr01bTF1GrFG) | 2:05 | 2019-07-16 | 2019-07-28 |
+| [Reach Out I'll Be There](https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:58 | 2022-08-12 |  |
 | [Reach Out, I'll Be There](https://open.spotify.com/track/3zA42VIIrkVc2OkgUENTa5) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Gold \(International Version\)](https://open.spotify.com/album/7AetomzAid1LhjAQSMxWIx) | 2:54 | 2019-05-26\* | 2022-07-28 |
 | [Ready or Not Here I Come \(Can't Hide from Love\)](https://open.spotify.com/track/5RnlUyTKgmd7V6tXdQcKVK) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 1:59 | 2019-07-24 | 2019-08-08 |
 | [Red Rubber Ball](https://open.spotify.com/track/213YUBpRZdZGCrtb2dcbzi) | [The Cyrkle](https://open.spotify.com/artist/4qnb4cn5aykCACoyuCirGg) | [Red Rubber Ball](https://open.spotify.com/album/1zRCoUPL0gauLKMfYKfqio) | 2:19 | 2019-07-27 | 2020-08-15 |

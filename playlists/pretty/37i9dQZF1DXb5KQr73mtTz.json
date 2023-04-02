@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9445,
+  "num_followers": 9468,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGRjMTlhNGJiZWJiZGVjZmU5ZmNiZDE0NWQxMTgxOWUx",
+  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGQ0ODgyZWVhZjhkNjI1ZjIwNDk3MzVhZGQ2NjkxZTI5",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
-      "added_at": "2023-04-01 01:25:53",
+      "added_at": "2023-04-02 01:03:07",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c, Pt. 3 Original Television Soundtrack",
         "url": "https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 302852,
       "name": "\ub9c8\uc74c\uc758 \ub9d0",
       "url": "https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -407,34 +407,18 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
       },
       "artists": [
         {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -451,6 +435,22 @@
       "duration_ms": 250480,
       "name": "Living in the same time",
       "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -501,20 +501,20 @@
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
     },
     {
-      "added_at": "2023-02-28 10:14:13",
+      "added_at": "2023-04-02 01:03:07",
       "album": {
-        "name": "Despite it all",
-        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 229210,
-      "name": "Despite it all",
-      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 221093,
       "name": "Dreaming About You",
       "url": "https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5"
-    },
-    {
-      "added_at": "2023-04-01 01:25:53",
-      "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -697,30 +697,6 @@
       "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
     },
     {
-      "added_at": "2023-04-01 01:25:53",
-      "album": {
-        "name": "Wouldn't have",
-        "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
-      "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
-    },
-    {
       "added_at": "2023-02-28 10:14:13",
       "album": {
         "name": "The Hardest Part",
@@ -769,6 +745,54 @@
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     },
     {
+      "added_at": "2023-04-02 01:03:07",
+      "album": {
+        "name": "Wouldn't have",
+        "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
+      "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
+    },
+    {
+      "added_at": "2023-04-02 01:03:07",
+      "album": {
+        "name": "Can I Not ?",
+        "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boy",
+          "url": "https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY"
+        },
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Dumb (Feat. Kim Seungmin, Chan)",
+      "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
+    },
+    {
       "added_at": "2023-02-28 10:14:13",
       "album": {
         "name": "MIRROR",
@@ -801,31 +825,7 @@
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
-      "added_at": "2023-04-01 01:25:53",
-      "album": {
-        "name": "Can I Not ?",
-        "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Boy",
-          "url": "https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY"
-        },
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Dumb (Feat. Kim Seungmin, Chan)",
-      "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
-    },
-    {
-      "added_at": "2023-04-01 01:25:53",
+      "added_at": "2023-04-02 01:03:07",
       "album": {
         "name": "The Work Of Erasing You",
         "url": "https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI"

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2421410,
+  "num_followers": 2421368,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDEyMDUyNSwwMDAwMDAwMDRmYWYwMmY1ODMwODNjMDAwODA5ZjIzZThiYTcxODI1",
+  "snapshot_id": "MTY4MDEyMDUyNSwwMDAwMDAwMGVlZGExNjJlZWZjZjZlZTFhM2JlOTA3MGU1ZDExYmFk",
   "tracks": [
     {
       "added_at": "2023-03-29 20:08:45",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
         "name": "Going In",
         "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 161324,
       "name": "Going In",
       "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 206400,
       "name": "Wait so Long",
       "url": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 269083,
       "name": "Letter to Madeline",
       "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
+        "name": "34 N. River",
+        "url": "https://open.spotify.com/album/1DBaSoZDEr2HG4X3TTDjjw"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "Caesar Knows",
+      "url": "https://open.spotify.com/track/7skCLVpO2PbGfPib1FgD5C"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
-        "name": "34 N. River",
-        "url": "https://open.spotify.com/album/1DBaSoZDEr2HG4X3TTDjjw"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "Caesar Knows",
-      "url": "https://open.spotify.com/track/7skCLVpO2PbGfPib1FgD5C"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 234694,
-      "name": "Roots And Wings",
-      "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "Remind Me Tomorrow",
         "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 182333,
       "name": "Comeback Kid",
       "url": "https://open.spotify.com/track/1Qpyt7U1yu4tfuJc4LKuzF"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 234694,
+      "name": "Roots And Wings",
+      "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
     },
     {
       "added_at": "2023-03-29 20:08:45",

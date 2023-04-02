@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-116 songs - 6 hr 9 min
+117 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Vem Pra Cá](https://open.spotify.com/track/7zSVVDqYlQUxKkAiM3Jkb3) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Vem Pra Cá](https://open.spotify.com/album/71LlHHvQZ8BGPnJy2eXgoF) | 3:53 | 2023-01-27 | 2023-03-25 |
 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 | 2021-11-12 |  |
 | [Você É Meu Love](https://open.spotify.com/track/5Rnjrn6iOQlQHowaohN1Xh) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Você É Meu Love](https://open.spotify.com/album/6iS7icor7jV49DRk1bfbQQ) | 2:24 | 2022-11-18 | 2022-12-17 |
-| [Voe](https://open.spotify.com/track/1Ea9xfSLH7uOi6NuAx0hOw) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/5sEJvbVgT33VcOkKc3C5Sa) | 2:32 | 2023-03-17 |  |
+| [Voe](https://open.spotify.com/track/1Ea9xfSLH7uOi6NuAx0hOw) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/5sEJvbVgT33VcOkKc3C5Sa) | 2:32 | 2023-03-17 | 2023-04-02 |
+| [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 | 2023-03-24 |  |
 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 | 2023-02-10 |  |
 | [ZAZA](https://open.spotify.com/track/5fzo9MLujhCxZYIPJ29nNH) | [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [ZAZA](https://open.spotify.com/album/57ig0q3dthGuN0jl43WK9l) | 2:15 | 2023-02-03 | 2023-03-25 |
 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 | 2021-11-12 |  |

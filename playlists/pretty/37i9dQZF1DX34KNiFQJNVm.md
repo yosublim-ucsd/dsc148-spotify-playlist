@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Murilo Huff com Matheus & Kauan, Wesley Safadão com Ana Castela, Fernando & Sorocaba, Turma do Pagode e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,856,195 likes - 103 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,856,851 likes - 103 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 65 | [NEM SEI](https://open.spotify.com/track/5BHciqc8K9MwFA8DdZjuBT) | [kLap](https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA) | [NEM SEI](https://open.spotify.com/album/1neIGYEI8oVsVA7uGzUJ4m) | 2:27 |
 | 66 | [Cbzn Session \#04](https://open.spotify.com/track/2KCsWPi8vmAlWzaMFkGQXu) | [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt) | [Cbzn Session \#04](https://open.spotify.com/album/12YEQ2rMRfuwEvGqA5XIUE) | 2:34 |
 | 67 | [Mês de Junho É São João](https://open.spotify.com/track/5uFQtTM8LEJ16UCC5wXCUL) | [O Boy da Seresta](https://open.spotify.com/artist/4TShXxXZjnjd1nnEw9R5Hs) | [São João 2023](https://open.spotify.com/album/0k8MtqEhYnGy0n1dkpMjF5) | 2:02 |
-| 68 | [Quando a Onda Bater](https://open.spotify.com/track/1YwvT983g3Br5dDY1agT6U) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Quando a Onda Bater](https://open.spotify.com/album/53JD3XpyaAjTtQvlZb3Gev) | 2:36 |
+| 68 | [QAOB](https://open.spotify.com/track/1YwvT983g3Br5dDY1agT6U) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [QAOB](https://open.spotify.com/album/53JD3XpyaAjTtQvlZb3Gev) | 2:36 |
 | 69 | [Realiza Meu Sonho](https://open.spotify.com/track/6RN5RhiQABdv436MX30Nox) | [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [Realiza Meu Sonho](https://open.spotify.com/album/0BU6B9mi61TUfgLcR4DMqg) | 2:35 |
 | 70 | [Lugar do Meu Passado \(feat\. Murilo Huff\)](https://open.spotify.com/track/4n65SXBaAvkHu5rGGZSDDG) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Lugar do Meu Passado \(feat\. Murilo Huff\)](https://open.spotify.com/album/6glb4cTojT3RjFlkmBDDI6) | 2:42 |
 | 71 | [Bigodin De Chopp](https://open.spotify.com/track/3jQ2B3VxLhCYmpsDGOxPHf) | [Léo & Raphael](https://open.spotify.com/artist/68cvVh3HBHdwWfccCTaq0T) | [Bigodin De Chopp](https://open.spotify.com/album/4mp2k4w0b3h5bb6s8ZiLUc) | 2:49 |

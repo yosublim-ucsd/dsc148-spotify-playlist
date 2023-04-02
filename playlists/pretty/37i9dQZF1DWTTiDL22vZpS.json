@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 6994,
+  "num_followers": 7014,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3ODEyNSwwMDAwMDAwMGEyNzI2OTdiMzgyMmMyZDkxNzkxNzQ2YTc4OGUyMzli",
+  "snapshot_id": "MTY4MDI3ODEyNSwwMDAwMDAwMDQ1N2RjNzk0ZWMwNjZiYzM2MDEzNTFiMWQxN2VkMWRj",
   "tracks": [
     {
       "added_at": "2023-03-31 15:55:25",
@@ -622,15 +622,11 @@
         {
           "name": "Diamante El\u00e9ctrico",
           "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
         }
       ],
-      "duration_ms": 205462,
-      "name": "Leche de Tigre",
-      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+      "duration_ms": 211281,
+      "name": "Gobi\u00e9rname",
+      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -750,11 +746,15 @@
         {
           "name": "Diamante El\u00e9ctrico",
           "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
         }
       ],
-      "duration_ms": 211281,
-      "name": "Gobi\u00e9rname",
-      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
+      "duration_ms": 205462,
+      "name": "Leche de Tigre",
+      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -875,26 +875,18 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
-        "name": "LIKE THAT! \u26a1",
-        "url": "https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib"
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
       },
       "artists": [
         {
-          "name": "Redemm",
-          "url": "https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu"
-        },
-        {
-          "name": "CHELS",
-          "url": "https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ"
-        },
-        {
-          "name": "Darko",
-          "url": "https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL"
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 166475,
-      "name": "LIKE THAT! \u26a1",
-      "url": "https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A"
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     }
   ],
   "unique_name": "feels like latin funk",

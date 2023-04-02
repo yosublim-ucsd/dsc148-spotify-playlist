@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6GZ9F4MZpPdHJEwhq3kHKG.md) - [plain]
 
 > Listen to all of Seth's favorite classic soul tracks right here\. And be sure to check out his charity, Hilarity for Charity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,853 likes - 41 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,854 likes - 41 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/6GZ9F4MZpPdHJEwhq3kHKG.md) - [plain]
 | 14 | [It's Your Thing](https://open.spotify.com/track/2oezpnnea1VXHpJEbqnBhw) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Your Thing: The Story Of The Isley Brothers](https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs) | 2:46 |
 | 15 | [Have You Seen Her](https://open.spotify.com/track/01cQPNCptd662nikuY42zw) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 5:10 |
 | 16 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
-| 17 | [Please Mr\. Postman \- Stereo Version](https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Forever: The Complete Motown Albums, Volume 1](https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA) | 2:29 |
+| 17 | [Please Mr\. Postman](https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Forever: The Complete Motown Albums, Volume 1](https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA) | 2:29 |
 | 18 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
 | 19 | [The Soulful Streets of Vancouver, British Columbia](https://open.spotify.com/track/0N6UwUz1xcDvopUiqNaKZT) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:26 |
 | 20 | [Little Red Rooster](https://open.spotify.com/track/5SlnifhSwzhn2S40O45Tl9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:50 |

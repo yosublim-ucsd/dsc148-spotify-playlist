@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 339348,
       "name": "Into The Blue",
       "url": "https://open.spotify.com/track/2Ou5fxpYTS1t0mNCDVzsKx"
@@ -4770,6 +4770,24 @@
       "duration_ms": 123693,
       "name": "IVY CHARCOAL",
       "url": "https://open.spotify.com/track/5cx2CdLDP2wQBDEZGWwKge"
+    },
+    {
+      "album": {
+        "name": "PHANTOM BRICKWORKS",
+        "url": "https://open.spotify.com/album/7gfiKccZVCv9gp1KFfMDlb"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123693,
+      "name": "IVY CHARCOAL",
+      "url": "https://open.spotify.com/track/6h3JUAMgbshgVpYez5eyY5"
     },
     {
       "album": {
@@ -9758,7 +9776,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 280661,
       "name": "Translucent",
       "url": "https://open.spotify.com/track/7nXlwdROvJxmmtdkPNggfR"
@@ -10252,7 +10270,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 363380,
       "name": "Vaporware 05",
       "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"

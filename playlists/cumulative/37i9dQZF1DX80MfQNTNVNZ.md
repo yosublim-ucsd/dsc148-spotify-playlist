@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-359 songs - 21 hr 31 min
+360 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Sniffin'](https://open.spotify.com/track/3dO2JV43Se9FxoY7r1iIed) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Jargon](https://open.spotify.com/album/3UcUdZDAZYD2QnwpyD9FGc) | 3:51 | 2022-03-24 | 2022-06-14 |
 | [So Good](https://open.spotify.com/track/0xjpgDNFyekbjessCBaaBq) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 4:26 | 2022-02-10 | 2022-07-29 |
 | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Nicholas Ryan Gant](https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS), [Suede Jury](https://open.spotify.com/artist/256MjcBz1G9sIN0LL932tr) | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA) | 3:08 | 2023-02-16 |  |
+| [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 |  |
 | [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-07 | 2022-08-19 |
 | [Sonhos Cor De Rosa](https://open.spotify.com/track/4BKsABy7jDwmuGRvnUcZkK) | [Tiawa](https://open.spotify.com/artist/0QrKRZo0bqCEvzjXfanjqw) | [Sonhos Cor De Rosa](https://open.spotify.com/album/3CaqsA6ii3fB6ME0EBZEQl) | 2:35 | 2022-03-31 | 2022-04-17 |
 | [SPACE](https://open.spotify.com/track/0w8KR0YHluavjJx1DLwu6Q) | [Spice rhythm](https://open.spotify.com/artist/5lmsbZAumn8MwK6llKn4Kx), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [SPACE](https://open.spotify.com/album/58UDQ360N0Iswe8is6rSuu) | 4:17 | 2022-03-24 | 2022-04-19 |
@@ -318,7 +319,7 @@
 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 | 2021-12-23 | 2022-11-13 |
 | [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 | 2022-03-31 | 2022-04-15 |
 | [Two Face](https://open.spotify.com/track/7eE8Doh8THjGp6Vpg3RdQ8) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Two Face](https://open.spotify.com/album/52G5UzGDFImfKKpMiYzn1W) | 4:07 | 2022-03-24 | 2022-07-24 |
-| [Two Sides \(I’m So Gemini\) \- Single Version](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 | 2023-02-16 |  |
+| [Two Sides \(I’m So Gemini\) \- Single Version](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 | 2023-02-16 | 2023-04-02 |
 | [uncertainty \- 2ession](https://open.spotify.com/track/3ngGiWWdR8zH8xhTH6xBnr) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [uncertainty \(2ession\)](https://open.spotify.com/album/5Tgi7vQhv2k3zqqfRBd0zX) | 3:34 | 2022-03-24 | 2022-07-29 |
 | [Under The Moon](https://open.spotify.com/track/26nkk00XfQQyH19jAFqbDg) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Powder](https://open.spotify.com/album/6CoPIYQyBpopu4Tb5UdqAQ) | 3:11 | 2022-03-24 | 2022-04-20 |
 | [Under The Moon \- Pastel Remix](https://open.spotify.com/track/7BKrieYlpF9jhi0eP8m24K) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Under The Moon \(Pastel Remix\)](https://open.spotify.com/album/6TK54IJypPiIE8EsOOyXUX) | 3:28 | 2021-12-23 | 2022-06-18 |

@@ -4,7 +4,7 @@
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: REXORIA
 
-521 songs - 1 day 16 hr 6 min
+522 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Ghost of Marley](https://open.spotify.com/track/7pczoeIkihynLe4VgWEQUx) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Ghost of Marley](https://open.spotify.com/album/6wENRoHkOij2hS1s8DKUOL) | 4:39 | 2020-11-29\* | 2021-10-01 |
 | [Glory for Salvation](https://open.spotify.com/track/1RYR3U81aq4eJ5zcaPGSC7) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Glory for Salvation](https://open.spotify.com/album/6UIe4O10a2ef9Mg2v8PWpO) | 5:04 | 2021-07-10 | 2021-09-04 |
 | [Gloryhammer](https://open.spotify.com/track/4HA34COgxgVJ6zK88UN4Ik) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Gloryhammer](https://open.spotify.com/album/2HJFrpR304ZxZ4CPQK1ws2) | 5:00 | 2020-11-29\* | 2021-05-07 |
-| [God Is Silent](https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [God Is Silent](https://open.spotify.com/album/66xCgz4iKULVQ44Ymthzog) | 6:06 | 2022-06-11 |  |
+| [God Is Silent](https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [God Is Silent](https://open.spotify.com/album/66xCgz4iKULVQ44Ymthzog) | 6:06 | 2022-06-11 | 2023-04-02 |
 | [Godma](https://open.spotify.com/track/2zwBEhQ07Do6TsrnYCKvoa) | [Bulb](https://open.spotify.com/artist/2VD2tCp2pxWqsguRJUsSCB) | [Archives: Volume 1](https://open.spotify.com/album/7acypPZfKdM8YMVRlMCVwA) | 4:02 | 2022-07-13 | 2022-07-27 |
 | [Gods Of War](https://open.spotify.com/track/6BuzVtnvjc3mLXIuWPVOBL) | [Dragony](https://open.spotify.com/artist/4ZGFYwFpBWxq6FxqilvRJT) | [Viribus Unitis](https://open.spotify.com/album/4SkSm5iv5Mh1UkUB0GmOiU) | 3:36 | 2021-02-26 | 2022-01-22 |
 | [Golden Dawn](https://open.spotify.com/track/6fHfS2jRIrP52heiBobADA) | [Dragony](https://open.spotify.com/artist/4ZGFYwFpBWxq6FxqilvRJT) | [Golden Dawn](https://open.spotify.com/album/6KJWWRCjTEK1vstCfJk2I7) | 4:40 | 2020-12-11 | 2021-02-26 |
@@ -447,6 +447,7 @@
 | [The Longing](https://open.spotify.com/track/6nLAVYh5wKwASkNoYVNSNi) | [Oversense](https://open.spotify.com/artist/2s2E3a8FosQdQvs1r8KHYd) | [The Longing](https://open.spotify.com/album/7bNjKNmZ2Wj58s9zCRCJ0u) | 4:43 | 2021-07-10 | 2022-04-02 |
 | [The Other Side](https://open.spotify.com/track/3o9soRptwDhjVZ5IW0c2OG) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [The Other Side](https://open.spotify.com/album/6pzWHJIhb1m0bynoFZzx7Q) | 3:34 | 2022-03-22 | 2022-06-18 |
 | [The Prelude to Bereavement](https://open.spotify.com/track/559Y7yDP8HXuuVb3FGHxGf) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [The Instrumentals](https://open.spotify.com/album/3E13XWEBDe4il8vgrWbfbX) | 5:51 | 2022-07-13 | 2022-07-30 |
+| [The Queen](https://open.spotify.com/track/5UPzTaFmFFrdQhJjnAOsnY) | [Cruachan](https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH) | [The Living and The Dead](https://open.spotify.com/album/4W5j6t64ca4oKkku2VnQSe) | 6:50 | 2023-03-24 |  |
 | [The Raven's Cry](https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [The Raven's Cry](https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG) | 3:54 | 2023-03-24 |  |
 | [The Return](https://open.spotify.com/track/6PFnze11f9ykaDJCL6zSFx) | [Mongol](https://open.spotify.com/artist/3LBx7vONslSdXt0mL2TNzv) | [The Return](https://open.spotify.com/album/775yCS5Clyy00sCXPQOYHK) | 4:25 | 2020-11-29\* | 2021-02-19 |
 | [The Rivers of Sand and Blood](https://open.spotify.com/track/4TrzCwl0dYBHtNkF7fVHlM) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Rivers of Sand and Blood](https://open.spotify.com/album/5ul1t1IuEql7JiBT6971sS) | 3:26 | 2022-07-13 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > 😈 turn anywhere into a sexy club 😈
 
-250 songs - 14 hr 38 min
+251 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Wile Out](https://open.spotify.com/track/7ehawMu8e3ipoY7stfct5M) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Wile Out](https://open.spotify.com/album/6AQlgm7uh20Ni78Wz794A3) | 4:59 | 2022-12-28 | 2023-02-23 |
 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 | 2022-03-16 | 2022-08-10 |
 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-08-16 | 2022-11-17 |
-| [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/64xy8ja7i7F0VPmgLUrMCx) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/2Bnzz1MOwqdalLiHpX2mhV) | 2:40 | 2022-10-13 |  |
+| [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/64xy8ja7i7F0VPmgLUrMCx) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/2Bnzz1MOwqdalLiHpX2mhV) | 2:40 | 2022-10-13 | 2023-04-02 |
+| [WIZZ \- COBRAH REMIX](https://open.spotify.com/track/2lrYHwhlNTNm63BqFBqGIT) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [1](https://open.spotify.com/album/0nWTolsYQF7QJBb7eIo4tL) | 2:40 | 2023-02-22 |  |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2022-03-16 |  |
 | [Yeah Yeah \- D Ramirez Vocal Radio Edit](https://open.spotify.com/track/4HVGC52IogHANcKFA0QYiT) | [Bodyrox](https://open.spotify.com/artist/3FVJvsdVNbVmydSuI22Z5v) | [Yeah Yeah](https://open.spotify.com/album/0qIj9p0MyiMJWtw9Bqc5br) | 2:41 | 2022-12-28 | 2023-02-23 |
 | [Yoga](https://open.spotify.com/track/00nlvJd1e6EGFc2dzssl9g) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Yoga](https://open.spotify.com/album/6m6KVNLn58mxPUmAzhLBjS) | 2:59 | 2022-12-02 | 2022-12-28 |

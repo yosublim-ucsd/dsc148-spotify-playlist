@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 123335,
+  "num_followers": 123376,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDYzMmJhYzJlNDU5Yjc0NzY1OGMzYTg2ZjIyMTZiNTJm",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDcxNzgxZjYzODA1Mjc0NzVmMmIyMjgxZjczOTE1MTBm",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -483,22 +483,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Gar\u00faa (Sabor a Querer)",
-        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
       },
       "artists": [
         {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         },
         {
-          "name": "Migliz",
-          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Gar\u00faa (Sabor a Querer)",
-      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+      "duration_ms": 161357,
+      "name": "O Velho e a Flor",
+      "url": "https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -523,22 +523,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
+        "name": "Gar\u00faa (Sabor a Querer)",
+        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
         },
         {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+          "name": "Migliz",
+          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
         }
       ],
-      "duration_ms": 161357,
-      "name": "O Velho e a Flor",
-      "url": "https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03"
+      "duration_ms": 222000,
+      "name": "Gar\u00faa (Sabor a Querer)",
+      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -741,6 +741,26 @@
       "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
+      "added_at": "2023-04-02 00:50:14",
+      "album": {
+        "name": "Esque\u00e7o das Horas (Always On Replay)",
+        "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Kat Eaton",
+          "url": "https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P"
+        }
+      ],
+      "duration_ms": 216060,
+      "name": "Esque\u00e7o das Horas (Always On Replay)",
+      "url": "https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p"
+    },
+    {
       "added_at": "2023-03-11 03:38:22",
       "album": {
         "name": "TU",
@@ -759,22 +779,6 @@
       "duration_ms": 192800,
       "name": "Terrorista Del Amor",
       "url": "https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
-        "name": "C\u00e9U",
-        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Concrete Jungle",
-      "url": "https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -807,6 +811,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
+        "name": "C\u00e9U",
+        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
-    },
-    {
-      "added_at": "2023-04-01 00:56:15",
-      "album": {
-        "name": "Esque\u00e7o das Horas (Always On Replay)",
-        "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Kat Eaton",
-          "url": "https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P"
-        }
-      ],
-      "duration_ms": 216060,
-      "name": "Esque\u00e7o das Horas (Always On Replay)",
-      "url": "https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Ya S\u00e9",
-        "url": "https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15"
-      },
-      "artists": [
-        {
-          "name": "Edu Requejo",
-          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
-        }
-      ],
-      "duration_ms": 163519,
-      "name": "Ya S\u00e9",
-      "url": "https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
+        "name": "Ya S\u00e9",
+        "url": "https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15"
+      },
+      "artists": [
+        {
+          "name": "Edu Requejo",
+          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
+        }
+      ],
+      "duration_ms": 163519,
+      "name": "Ya S\u00e9",
+      "url": "https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W"
     }
   ],
   "unique_name": "Sol de Domingo",

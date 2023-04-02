@@ -1,12 +1,12 @@
 {
   "description": "Up tempo jazz classics.",
-  "num_followers": 1087,
+  "num_followers": 1135,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0MTYwMiwwMDAwMDAwMDI3NWQwODU0N2E2ODViYThkMTlmNjZlMTQ5YzAyNzY3",
+  "snapshot_id": "MTY3OTY0MTYwMiwwMDAwMDAwMGZhZjMxZjJlZWZiOWQxODg1ZDdmZjM4Njc3Y2E3ZTk2",
   "tracks": [
     {
       "added_at": "2023-03-24 07:06:42",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Boogie Stop Shuffle",
+      "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 310733,
       "name": "Two Bass Hit (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/0DtEf3aHfOgaCFJQO98x0c"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Boogie Stop Shuffle",
-      "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -387,6 +387,34 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
+        "name": "Saxophone Colossus",
+        "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Doug Watkins",
+          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 314573,
+      "name": "Strode Rode - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/5xoQDcAjk0AaOU8QBZ4w4w"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
         "name": "Bags' Groove (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -415,34 +443,6 @@
       "duration_ms": 299680,
       "name": "Airegin - RVG Remaster",
       "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
-        "name": "Saxophone Colossus",
-        "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        },
-        {
-          "name": "Doug Watkins",
-          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 314573,
-      "name": "Strode Rode - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/5xoQDcAjk0AaOU8QBZ4w4w"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
-        "name": "Miles Smiles",
-        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "Orbits",
-      "url": "https://open.spotify.com/track/5AO8TeKZeo6ouwNaDn8xVE"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
         "name": "Blue Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 427826,
       "name": "On Green Dolphin Street",
       "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
+        "name": "Miles Smiles",
+        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "Orbits",
+      "url": "https://open.spotify.com/track/5AO8TeKZeo6ouwNaDn8xVE"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 383560,
-      "name": "Seven Steps to Heaven",
-      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
         "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
         "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
       },
@@ -711,22 +695,6 @@
       "duration_ms": 417445,
       "name": "Mr. P.C. - 2020 Remaster",
       "url": "https://open.spotify.com/track/0DWU6lDxGXt555jdXRUPuz"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
-        "name": "Here Comes Louis Smith (Remastered)",
-        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
-      },
-      "artists": [
-        {
-          "name": "Louis Smith",
-          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
-        }
-      ],
-      "duration_ms": 402546,
-      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -747,6 +715,22 @@
       "duration_ms": 255533,
       "name": "Take The \"A\" Train",
       "url": "https://open.spotify.com/track/2yclkgCz6boR9JYvIVQDZl"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
+        "name": "Here Comes Louis Smith (Remastered)",
+        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
+      },
+      "artists": [
+        {
+          "name": "Louis Smith",
+          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
+        }
+      ],
+      "duration_ms": 402546,
+      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -783,6 +767,22 @@
       "duration_ms": 417720,
       "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 383560,
+      "name": "Seven Steps to Heaven",
+      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
+        "name": "The Genius Of Charlie Parker",
+        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
         "name": "Art Blakey's Jazz Messengers With Thelonious Monk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 402186,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/1d44s41MxK7xaNSNwt4gwr"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
-        "name": "The Genius Of Charlie Parker",
-        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 615426,
-      "name": "Birdlike - Remastered 2004/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 439013,
       "name": "Freight Trane",
       "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 615426,
+      "name": "Birdlike - Remastered 2004/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 431733,
-      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
         "name": "Cornbread",
         "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
       },
@@ -1199,6 +1183,38 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 341473,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 431733,
+      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
         "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
         "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
@@ -1223,26 +1239,6 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
-        "name": "A Blowing Session",
-        "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 581026,
-      "name": "The Way You Look Tonight - Remastered 2009",
-      "url": "https://open.spotify.com/track/48LBp3r6onaYB7UDGOPXgI"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
         "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
       },
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+        "name": "A Blowing Session",
+        "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
       },
       "artists": [
         {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 341473,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
+      "duration_ms": 581026,
+      "name": "The Way You Look Tonight - Remastered 2009",
+      "url": "https://open.spotify.com/track/48LBp3r6onaYB7UDGOPXgI"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
-        "name": "Red Clay",
-        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 643706,
-      "name": "The Intrepid Fox",
-      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
         "name": "Diz And Getz",
         "url": "https://open.spotify.com/album/7KA8kHUpFAYiplsWXcrMrl"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 400840,
       "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/6nxeNIU4meNfpJe9120CjL"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
+        "name": "Red Clay",
+        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 643706,
+      "name": "The Intrepid Fox",
+      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 347240,
+      "name": "On the Que-Tee",
+      "url": "https://open.spotify.com/track/2S4zpjfSKapsaSbDKTx9vK"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
         "name": "For Musicians Only",
         "url": "https://open.spotify.com/album/1RHZ13bNTtG39NaapJmWlW"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 766493,
       "name": "Be-Bop",
       "url": "https://open.spotify.com/track/73jGUrktmtsqOZDRndlOoI"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
-        "name": "Backlash",
-        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 347240,
-      "name": "On the Que-Tee",
-      "url": "https://open.spotify.com/track/2S4zpjfSKapsaSbDKTx9vK"
     },
     {
       "added_at": "2023-03-24 07:06:42",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-03-24 07:06:42",
       "album": {
-        "name": "Hard Bop (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 288626,
-      "name": "Cranky Spanky",
-      "url": "https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf"
-    },
-    {
-      "added_at": "2023-03-24 07:06:42",
-      "album": {
         "name": "The Essential Art Blakey - The Columbia & RCA Years",
         "url": "https://open.spotify.com/album/56b5T1iEXsM3d2ZjaqL0lS"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 772533,
       "name": "A Night In Tunisia - Take 3",
       "url": "https://open.spotify.com/track/6SVAPhAYeX62EeLarDpJYJ"
+    },
+    {
+      "added_at": "2023-03-24 07:06:42",
+      "album": {
+        "name": "Hard Bop (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "Cranky Spanky",
+      "url": "https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf"
     },
     {
       "added_at": "2023-03-24 07:06:42",

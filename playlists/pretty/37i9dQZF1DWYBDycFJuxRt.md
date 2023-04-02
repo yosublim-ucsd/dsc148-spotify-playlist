@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SIRUP + Skaai + uin \*👉 <a href="https://spice.eplus.jp/articles/316521?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,562 likes - 69 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,588 likes - 69 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 41 | [グリンピース](https://open.spotify.com/track/5soa09bsZgHxoG57cN9bwu) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [グリンピース](https://open.spotify.com/album/5ViTFnqeDks6U1Zg4OqQhi) | 3:19 |
 | 42 | [君だけの歌](https://open.spotify.com/track/15EYIkRNsQTEtVftNpGjAh) | [FUNKY MONKEY BΛBY'S](https://open.spotify.com/artist/2w4WfstEu2xDTe7y0vLhN9) | [ファンキーモンキーベイビーズZ](https://open.spotify.com/album/3wwZDsoxIa0VJxrZPssYjE) | 4:06 |
 | 43 | [Tonight is the night](https://open.spotify.com/track/4azggBeTxDaQ5zPU6ihP0V) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [Tonight is the night](https://open.spotify.com/album/17uuzHoS8GBOT8JTd3ojUA) | 4:20 |
-| 44 | [SCRANBLE CROSS](https://open.spotify.com/track/2svcuXkuP1Y8CSTvjWZ8CB) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER REMIX](https://open.spotify.com/album/2WBgDzIFNojmCZqKgRm3Gy) | 4:22 |
+| 44 | [SCRAMBLE CROSS](https://open.spotify.com/track/2svcuXkuP1Y8CSTvjWZ8CB) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER REMIX](https://open.spotify.com/album/2WBgDzIFNojmCZqKgRm3Gy) | 4:22 |
 | 45 | [Phoenix](https://open.spotify.com/track/7m979AXvqhcKAYzEIMalma) | [ROYALcomfort](https://open.spotify.com/artist/5ypvNXHsg17kMSdGNW5oid) | [Phoenix](https://open.spotify.com/album/5A8EhRzt6dCcY9gjphBChc) | 3:17 |
 | 46 | [ゆめうつつ](https://open.spotify.com/track/4igx6WnfBfVYrwT5OQZ1fC) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [ゆめうつつ](https://open.spotify.com/album/03e9muGfgEQf3zFcPv3p2e) | 3:40 |
 | 47 | [月のスポットライト](https://open.spotify.com/track/7uNQV6Biziuziq0lYZ4qMh) | [okkaaa](https://open.spotify.com/artist/0XKKphL5aa8LY6Fn5hXjCF) | [月のスポットライト](https://open.spotify.com/album/4NAKtMnPwgQpLG33Dq1uUd) | 3:06 |

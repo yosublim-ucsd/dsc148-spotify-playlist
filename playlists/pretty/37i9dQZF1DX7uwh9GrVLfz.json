@@ -1,15 +1,15 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30ad\u30e5\u30a6\u30bd\u30cd\u30b3\u30ab\u30df (KYUSONEKOKAMI)",
-  "num_followers": 96535,
+  "num_followers": 96602,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDI5N2YzZDMwZWUwNWVhZGY0YjAyMzQ2ZGFmMjdlMTdj",
+  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDYzN2E4MTVlNDhkYzY5ZWRlZjhkNTA4ZjEyOWY4OWQ2",
   "tracks": [
     {
-      "added_at": "2023-04-01 01:18:48",
+      "added_at": "2023-04-02 01:07:19",
       "album": {
         "name": "Watashi Akinu Watashi",
         "url": "https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9"
     },
     {
-      "added_at": "2023-04-01 01:18:48",
+      "added_at": "2023-04-02 01:07:19",
       "album": {
         "name": "\u30ae\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8"
     },
     {
-      "added_at": "2023-04-01 01:18:48",
+      "added_at": "2023-04-02 01:07:19",
       "album": {
         "name": "Watashi Akinu Watashi",
         "url": "https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR"
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Goo Goo Goo",
-        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
-      },
-      "artists": [
-        {
-          "name": "PAN",
-          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
-      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
         "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 209000,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30e9\u30a4\u30d5",
       "url": "https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "Goo Goo Goo",
+        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
+      },
+      "artists": [
+        {
+          "name": "PAN",
+          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
+      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Wicked and Naked",
-        "url": "https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH"
+        "name": "RARA",
+        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
       },
       "artists": [
         {
-          "name": "TOTALFAT",
-          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
         }
       ],
-      "duration_ms": 219400,
-      "name": "PARTY PARTY",
-      "url": "https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS"
+      "duration_ms": 235973,
+      "name": "NAME",
+      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "RARA",
-        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
+        "name": "Wicked and Naked",
+        "url": "https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH"
       },
       "artists": [
         {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
         }
       ],
-      "duration_ms": 235973,
-      "name": "NAME",
-      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
+      "duration_ms": 219400,
+      "name": "PARTY PARTY",
+      "url": "https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "BeachBoys",
-        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
-      },
-      "artists": [
-        {
-          "name": "TENDOUJI",
-          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "BeachBoys",
-      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
         "url": "https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p"
       },
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "\u30d3\u30c3\u30b0 \u30d6\u30e9\u30c3\u30af \u30b9\u30c8\u30a2(\u9023\u7d61\u3057\u308d)",
-        "url": "https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "\u60c5\u71b1\u305f\u307e\u3057\u3044",
-      "url": "https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
         "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
       },
@@ -1339,6 +1307,38 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
+        "name": "BeachBoys",
+        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "BeachBoys",
+      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "\u30d3\u30c3\u30b0 \u30d6\u30e9\u30c3\u30af \u30b9\u30c8\u30a2(\u9023\u7d61\u3057\u308d)",
+        "url": "https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU"
+      },
+      "artists": [
+        {
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "\u60c5\u71b1\u305f\u307e\u3057\u3044",
+      "url": "https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
-        "name": "\u6708\u306e\u82b1 EP",
-        "url": "https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h"
-      },
-      "artists": [
-        {
-          "name": "LINK",
-          "url": "https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "\u6708\u306e\u82b1",
-      "url": "https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
+        "name": "\u6708\u306e\u82b1 EP",
+        "url": "https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h"
+      },
+      "artists": [
+        {
+          "name": "LINK",
+          "url": "https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "\u6708\u306e\u82b1",
+      "url": "https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
         "name": "\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u3068\u3044\u3046\u30dc\u30b1",
         "url": "https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 138000,
       "name": "\u30af\u30e9\u30fc\u30af\u535a\u58eb\u3068\u50d5",
       "url": "https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
-        "name": "\u307d",
-        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "\u611b\u3059\u308bPOW",
-      "url": "https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1483,22 +1467,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "H.U.E.",
-        "url": "https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 233879,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "77 Days",
         "url": "https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib"
       },
@@ -1515,18 +1483,34 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Intergalactic",
-        "url": "https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2"
+        "name": "\u307d",
+        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
       },
       "artists": [
         {
-          "name": "dustbox",
-          "url": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
         }
       ],
-      "duration_ms": 204892,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E"
+      "duration_ms": 200840,
+      "name": "\u611b\u3059\u308bPOW",
+      "url": "https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "H.U.E.",
+        "url": "https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "MAKING THE ROAD",
-        "url": "https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY"
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2"
       },
       "artists": [
         {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+          "name": "dustbox",
+          "url": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
         }
       ],
-      "duration_ms": 120200,
-      "name": "STAY GOLD",
-      "url": "https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR"
+      "duration_ms": 204892,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E"
     },
     {
       "added_at": "2023-03-23 15:00:00",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
+        "name": "MAKING THE ROAD",
+        "url": "https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 120200,
+      "name": "STAY GOLD",
+      "url": "https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
         "name": "Into Another World",
         "url": "https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-03-23 15:00:00",
       "album": {
-        "name": "Blooming Harvest",
-        "url": "https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn"
-      },
-      "artists": [
-        {
-          "name": "dustbox",
-          "url": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Hurdle Race",
-      "url": "https://open.spotify.com/track/2vVdCWpMMJGoLXoDTiVSOd"
-    },
-    {
-      "added_at": "2023-03-23 15:00:00",
-      "album": {
         "name": "more-AA-janaica",
         "url": "https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 327653,
       "name": "OUT\u8001GUYS",
       "url": "https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM"
+    },
+    {
+      "added_at": "2023-03-23 15:00:00",
+      "album": {
+        "name": "\u68b5\u5504 -bonbai-",
+        "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
+      },
+      "artists": [
+        {
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
     }
   ],
   "unique_name": "Punk Japan",

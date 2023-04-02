@@ -1945,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "The Summer Isles",
+        "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "I Just Love You",
+      "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
+    },
+    {
+      "album": {
         "name": "I Just Love You",
         "url": "https://open.spotify.com/album/2owEBEzStwkeUDp7dHLj9R"
       },
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 290775,
       "name": "Little Lover",
       "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"

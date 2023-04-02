@@ -4,7 +4,7 @@
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-50 songs - 4 hr 22 min
+51 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Quiet Distortion \- Bart Skils Remix](https://open.spotify.com/track/2Dp0PXgdEfQSZSGIzYe4N9) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Quiet Distortion \(Bart Skils Remix\)](https://open.spotify.com/album/0tAE6OieagjJzcssAi2ISi) | 5:14 | 2023-01-09 |  |
 | [Rider \- Original Mix](https://open.spotify.com/track/1SMIk113it3eyw9hk0MwXT) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Rider](https://open.spotify.com/album/4YsU1wmbXYOGT7l7kVmEMr) | 6:34 | 2023-03-10 |  |
 | [Rigel](https://open.spotify.com/track/5r9NvBUqtMn2MnFXI3Ih76) | [Axis Of Time](https://open.spotify.com/artist/0y4TXuiPGjA80YqCzEMGfo) | [Rigel](https://open.spotify.com/album/2SbeViW1M8xSOJaU7vznB5) | 4:55 | 2023-02-11 |  |
+| [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 | 2023-04-01 |  |
 | [Romeo](https://open.spotify.com/track/5UFuJRFBtXZw1GJ8vOOZlc) | [Zafer Atabey](https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7) | [Romeo](https://open.spotify.com/album/1UqJ1UaT2HFsPHu2ymhdn8) | 6:52 | 2023-02-11 |  |
 | [Rosso Profondo](https://open.spotify.com/track/2lHBQNCTJjSldyb61SeZeD) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5LrkujqKSVnEFduB6IE6Hq) | 5:33 | 2022-10-31 |  |
 | [Silence \- Vocal Mix](https://open.spotify.com/track/6rMSQ5RzR4aiP2uRImEEiG) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 5:01 | 2022-10-31 |  |

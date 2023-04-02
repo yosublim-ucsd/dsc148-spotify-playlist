@@ -504,10 +504,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 303276,
       "name": "Karen no Life",
       "url": "https://open.spotify.com/track/0KE7g8ZJ93bTNWQk9BOuIB"
+    },
+    {
+      "album": {
+        "name": "Ima no Futari o Otagai ga Miteru",
+        "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307493,
+      "name": "Karen no Life",
+      "url": "https://open.spotify.com/track/3Mt2KYnAFIW1jH3u1DJgE5"
     },
     {
       "album": {
@@ -807,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Ima no Futari o Otagai ga Miteru",
+        "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316440,
+      "name": "Tabeta Ai",
+      "url": "https://open.spotify.com/track/3EPScz3jhncxN4vZOiIKTz"
+    },
+    {
+      "album": {
         "name": "Tabeta Ai / Atashi Tachi",
         "url": "https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL"
       },
@@ -818,7 +854,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 316458,
       "name": "Tabeta Ai",
       "url": "https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I"

@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 231693,
       "name": "Could I Be Somebody",
       "url": "https://open.spotify.com/track/5EvZrVjfMe8Ie42gqwJXF9"
@@ -2735,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212228,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
+    },
+    {
+      "album": {
         "name": "Healing House",
         "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
       },
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 190559,
       "name": "Honey Filled Skies",
       "url": "https://open.spotify.com/track/7bz3qPnazPPEJMj2XtNVEd"
@@ -5021,6 +5039,32 @@
     },
     {
       "album": {
+        "name": "No Explanations",
+        "url": "https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "ZHANG YANQI",
+          "url": "https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "No Explanations",
+      "url": "https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub"
+    },
+    {
+      "album": {
         "name": "Nobody Sees Me Like You Do",
         "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
       },
@@ -6856,7 +6900,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 289618,
       "name": "That XX - Spotify Singles",
       "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
@@ -7686,6 +7730,24 @@
       "duration_ms": 215300,
       "name": "Wild Jasmine",
       "url": "https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR"
+    },
+    {
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183839,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
     },
     {
       "album": {

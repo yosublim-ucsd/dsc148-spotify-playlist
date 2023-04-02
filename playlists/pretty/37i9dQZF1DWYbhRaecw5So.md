@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332 likes - 89 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,366 likes - 89 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 80 | [Vertigo](https://open.spotify.com/track/0pHMJaVBgSPqK5sis5HAU7) | [The Organism](https://open.spotify.com/artist/2ZbM7ypKR8jIF6sfyI54Kz) | [Terpsichore](https://open.spotify.com/album/06JbOpRYnicLbLQvdLeLd6) | 7:49 |
 | 81 | [Dream Factory](https://open.spotify.com/track/4LUtcJjhBNhhhI31Ys005u) | [Sasha Carassi](https://open.spotify.com/artist/6UFFThDuFiQixrwog0FecB) | [Dream Factory](https://open.spotify.com/album/1Z1GJAR1SnkA1p9LkdYvp7) | 7:04 |
 | 82 | [Reveries](https://open.spotify.com/track/7zT7Mhq0tvsvbly0MmYsRf) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Reveries EP](https://open.spotify.com/album/2KsBVtqRuOW0KhcuZO3Tdd) | 6:35 |
-| 83 | [Fireblade](https://open.spotify.com/track/4WzBCQDwfaGG1p25ky8xx6) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Henry Saiz](https://open.spotify.com/artist/1f5QPXLfjlzlG77lCkdl0W) | [Fireblade](https://open.spotify.com/album/0vJKpqOnajgVSJKrhfzFph) | 10:11 |
+| 83 | [Fireblade](https://open.spotify.com/track/63enJ98vhcKj0HqjiREJCw) | [Henry Saiz](https://open.spotify.com/artist/1f5QPXLfjlzlG77lCkdl0W), [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088) | [Fireblade](https://open.spotify.com/album/2YTNJ3Db6wPReeZ6EEcU51) | 10:11 |
 | 84 | [Tarambana](https://open.spotify.com/track/1v0JtVdAEIuClhZgF8uwbx) | [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Plot EP](https://open.spotify.com/album/6pOC4Dizjrquu2HZ2sflRc) | 8:04 |
 | 85 | [Somebody To Love](https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Somebody To Love](https://open.spotify.com/album/69Jz6rL189yH01zQZzm7Y9) | 3:42 |
 | 86 | [Phonogene](https://open.spotify.com/track/79q4IDQiMnIUbNQNHCmMjA) | [Guido Cusani](https://open.spotify.com/artist/4mDZCUzA1j7a38Um1YpN1s) | [Phonogene](https://open.spotify.com/album/1tiYcSQtgxF6ZVwrNywmju) | 7:28 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 88 | [nCTRL](https://open.spotify.com/track/5XfojfN07IcOskzRjQgCrT) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [nCTRL](https://open.spotify.com/album/4y97dGnwLXUHyPtSPJPCfz) | 4:10 |
 | 89 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 
-Snapshot ID: `MTY3OTkxMTI1MiwwMDAwMDAwMDQwYmIzNTA2MDBkMzZlY2RkODQ1YTg2OTYwNjYwMTQ0`
+Snapshot ID: `MTY3OTkxMTI1MiwwMDAwMDAwMGMxNjBiYmQyZjdlZTg5ODA1ZjE0YjRlYTFhZDI4MTMz`

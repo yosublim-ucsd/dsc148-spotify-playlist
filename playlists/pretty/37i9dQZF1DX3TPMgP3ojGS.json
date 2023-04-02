@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 342898,
+  "num_followers": 343145,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMDkxMmEyOGY5ZWMyNGM2YTE3MTkwMTcyYWU4ZmM1MjNl",
+  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMDhiOGZkZmY1NTdjNzdkNTAyMzg2YTZjODg3N2FmZTYz",
   "tracks": [
     {
       "added_at": "2023-03-23 10:18:42",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
         "name": "piano room",
         "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
-        }
-      ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Estelle",
-        "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
-      },
-      "artists": [
-        {
-          "name": "Doris Casella",
-          "url": "https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Estelle",
-      "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Mist",
         "url": "https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 122698,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Estelle",
+        "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
+      },
+      "artists": [
+        {
+          "name": "Doris Casella",
+          "url": "https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Estelle",
+      "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Leap Of Faith",
-        "url": "https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z"
-      },
-      "artists": [
-        {
-          "name": "Dylan John Sparkes",
-          "url": "https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
+        "name": "Leap Of Faith",
+        "url": "https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z"
       },
       "artists": [
         {
-          "name": "Miriam Raye",
-          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
+          "name": "Dylan John Sparkes",
+          "url": "https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R"
         }
       ],
-      "duration_ms": 191980,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
+      "duration_ms": 176000,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -747,6 +731,22 @@
       "duration_ms": 144905,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
+      },
+      "artists": [
+        {
+          "name": "Miriam Raye",
+          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
+        }
+      ],
+      "duration_ms": 191980,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "November Birdie",
-        "url": "https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ"
-      },
-      "artists": [
-        {
-          "name": "El Pianista Manco",
-          "url": "https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "November Birdie",
-      "url": "https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Truth - The Solo Piano Collection",
         "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 176457,
       "name": "Papillon - Solo Piano Version",
       "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "November Birdie",
+        "url": "https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ"
+      },
+      "artists": [
+        {
+          "name": "El Pianista Manco",
+          "url": "https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "November Birdie",
+      "url": "https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Pascoal",
-          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
-        }
-      ],
-      "duration_ms": 219565,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Ellebori",
         "url": "https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 179022,
       "name": "Ellebori",
       "url": "https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Pascoal",
+          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
+        }
+      ],
+      "duration_ms": 219565,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
       },
       "artists": [
         {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
         }
       ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
       "artists": [
         {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
         }
       ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
-      },
-      "artists": [
-        {
-          "name": "Ambrosiae",
-          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "The Water Floats",
         "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
+      },
+      "artists": [
+        {
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P"
+      },
+      "artists": [
+        {
+          "name": "Ji\u0159\u00ed Hor\u00e1k",
+          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
+        }
+      ],
+      "duration_ms": 122125,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
         "name": "Windspiel",
         "url": "https://open.spotify.com/album/4eeDKOvHgtYecnij6AtgI7"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 181079,
       "name": "Windspiel",
       "url": "https://open.spotify.com/track/5UvdAChDs1Rr0GYEkUMZma"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P"
-      },
-      "artists": [
-        {
-          "name": "Ji\u0159\u00ed Hor\u00e1k",
-          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
-        }
-      ],
-      "duration_ms": 122125,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1247,22 +1247,6 @@
       "duration_ms": 113758,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
-      },
-      "artists": [
-        {
-          "name": "Michiel Borstlap",
-          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1331,22 +1315,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Your Story",
-        "url": "https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2"
-      },
-      "artists": [
-        {
-          "name": "Albin Svensson",
-          "url": "https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP"
-        }
-      ],
-      "duration_ms": 106013,
-      "name": "From Above",
-      "url": "https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Os ventos do amor",
         "url": "https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx"
       },
@@ -1363,18 +1331,34 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
+        "name": "Your Story",
+        "url": "https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2"
       },
       "artists": [
         {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+          "name": "Albin Svensson",
+          "url": "https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP"
         }
       ],
-      "duration_ms": 132318,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
+      "duration_ms": 106013,
+      "name": "From Above",
+      "url": "https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
+      },
+      "artists": [
+        {
+          "name": "Michiel Borstlap",
+          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1391,6 +1375,22 @@
       "duration_ms": 128608,
       "name": "Open Sail",
       "url": "https://open.spotify.com/track/5fOv8ynuVRniCFLQ48grdI"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 132318,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Le jardin de ma grand-m\u00e8re",
-        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Kowalski",
-          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
-        }
-      ],
-      "duration_ms": 176567,
-      "name": "Le jardin de ma grand-m\u00e8re",
-      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Returning",
         "url": "https://open.spotify.com/album/3hZ1OaonuWlr1NO4zsTxmj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 140250,
       "name": "Returning",
       "url": "https://open.spotify.com/track/0yccHAlypw9zM9Pf33lLjd"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Le jardin de ma grand-m\u00e8re",
+        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Kowalski",
+          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+        }
+      ],
+      "duration_ms": 176567,
+      "name": "Le jardin de ma grand-m\u00e8re",
+      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Pour dessiner des fleur",
-        "url": "https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl Alexandrienne",
-          "url": "https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu"
-        }
-      ],
-      "duration_ms": 144406,
-      "name": "Pour dessiner des fleur",
-      "url": "https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 151500,
       "name": "Still",
       "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Pour dessiner des fleur",
+        "url": "https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl Alexandrienne",
+          "url": "https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu"
+        }
+      ],
+      "duration_ms": 144406,
+      "name": "Pour dessiner des fleur",
+      "url": "https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9"
     },
     {
       "added_at": "2023-03-23 10:18:42",

@@ -164,10 +164,32 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 205000,
       "name": "Amarnos",
       "url": "https://open.spotify.com/track/4GlJZmAfBesKa5xrY0I1rg"
+    },
+    {
+      "album": {
+        "name": "Amarnos",
+        "url": "https://open.spotify.com/album/5j7KJx5cEJAelHynrW7L0z"
+      },
+      "artists": [
+        {
+          "name": "Norma",
+          "url": "https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl"
+        },
+        {
+          "name": "Rotman",
+          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Amarnos",
+      "url": "https://open.spotify.com/track/6JMeRwLmGHjdelPQYF55mN"
     },
     {
       "album": {

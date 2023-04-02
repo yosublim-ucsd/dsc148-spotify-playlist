@@ -10355,22 +10355,10 @@
     },
     {
       "album": {
-        "name": "Bangalter, de Homem-Christo, Moroder: Giorgio By Moroder",
+        "name": "Bangalter, de Homem-Christo, Moroder: Giorgio by Moroder",
         "url": "https://open.spotify.com/album/3pQmp2o3tFRICDetu1Mx8H"
       },
       "artists": [
-        {
-          "name": "Giorgio Moroder",
-          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
-        },
-        {
-          "name": "Guy-Manuel de Homem-Christo",
-          "url": "https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq"
-        },
-        {
-          "name": "Thomas Bangalter",
-          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
-        },
         {
           "name": "Shani Diluka",
           "url": "https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73"
@@ -21464,6 +21452,10 @@
           "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
         },
         {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
           "name": "Thomas Hampson",
           "url": "https://open.spotify.com/artist/6pxEWWaFpWFJGEZK6dOzsF"
         },
@@ -21480,7 +21472,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 234320,
-      "name": "Der Erlk\u00f6nig, S. 375/4",
+      "name": "Der Erlk\u00f6nig, S. 375/4 (After Schubert)",
       "url": "https://open.spotify.com/track/7j3y3d7JFpvzVnVX3B653y"
     },
     {

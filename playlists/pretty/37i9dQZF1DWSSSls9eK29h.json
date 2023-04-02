@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 102014,
+  "num_followers": 102133,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGM2MWNjYzg5YTkzODI0M2NmZGVlNzUzM2E2ZWNiM2Nh",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGY4YTYwY2Y4NWU4OGY2MWU4YjM0Y2MwZWUwYzUxYjBi",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Color Rit (Remastered)",
-        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I Can\u2019t Let Go - Remastered",
-      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 269893,
       "name": "Pleasure Seeker",
       "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Color Rit (Remastered)",
+        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I Can\u2019t Let Go - Remastered",
+      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -507,6 +507,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "The Power Of Touch",
+        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
+      },
+      "artists": [
+        {
+          "name": "Bobby Lyle",
+          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Aruban Nights",
+      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Touchdown",
         "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 316466,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "The Power Of Touch",
-        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
-      },
-      "artists": [
-        {
-          "name": "Bobby Lyle",
-          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Aruban Nights",
-      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Intimacy",
         "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 256933,
       "name": "Just Hold Me",
       "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 317133,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "Sunset Bay",
-      "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Long Night Out",
         "url": "https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 334160,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "Sunset Bay",
+      "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 329826,
-      "name": "I Want You For Myself",
-      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "The Best Of The Rippingtons",
         "url": "https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 308826,
       "name": "Affair In San Miguel",
       "url": "https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 329826,
+      "name": "I Want You For Myself",
+      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
     },
     {
       "added_at": "2020-08-19 00:00:21",

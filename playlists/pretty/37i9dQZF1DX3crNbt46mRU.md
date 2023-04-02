@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Purple Disco Machine, Kungs
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,438 likes - 112 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,444 likes - 112 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 70 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 71 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 72 | [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 |
-| 73 | [Kannst Du mich hören](https://open.spotify.com/track/2D0S9xyBJG0umrtMatUlvz) | [Fabian Wegerer](https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ) | [Wenn ich von Liebe rede](https://open.spotify.com/album/0u2kuX3lSyL35P1iXi5o3Y) | 2:34 |
+| 73 | [Kannst du mich hören?](https://open.spotify.com/track/2D0S9xyBJG0umrtMatUlvz) | [Fabian Wegerer](https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ) | [Wenn ich von Liebe rede](https://open.spotify.com/album/0u2kuX3lSyL35P1iXi5o3Y) | 2:34 |
 | 74 | [Leicht](https://open.spotify.com/track/5gKjJUeVg91i66KQEq9xyB) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Leicht](https://open.spotify.com/album/3fC25QUjgzDS6qbdPrembu) | 2:25 |
 | 75 | [Put On \(Am I Wrong\)](https://open.spotify.com/track/1VNGsS4EECbGWApEyv6a4K) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Put On \(Am I Wrong\)](https://open.spotify.com/album/4u9nFFk3Gq1zpxfmKnQ2m8) | 2:18 |
 | 76 | [Free Bird](https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Free Bird](https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ) | 3:43 |

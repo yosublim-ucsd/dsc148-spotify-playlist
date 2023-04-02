@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-243 songs - 13 hr 32 min
+244 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 | 2022-11-25 |  |
 | [Goldclap](https://open.spotify.com/track/1lDEM6ESKlPj3wFBTtZ8Z8) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Fall Again](https://open.spotify.com/album/669HtfPdwIVB2sCpdF0bbU) | 3:59 | 2021-12-09 | 2022-02-21 |
 | [Halo](https://open.spotify.com/track/1p9cjLG43MuaenXlUMvzgP) | [Okwen](https://open.spotify.com/artist/4snWBwVHKKPJ4Ha9LrcLaY) | [Halo](https://open.spotify.com/album/6QofnAjTE7W1sbd1HSGqG7) | 4:18 | 2021-12-09 | 2022-02-27 |
-| [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 |  |
+| [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 | 2023-04-02 |
 | [Hangin Up](https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Hangin Up](https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy) | 3:04 | 2021-12-09 |  |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2021-12-09 |  |
 | [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 | 2022-01-21 | 2022-10-12 |
@@ -144,6 +144,7 @@
 | [Must Have Forgotten](https://open.spotify.com/track/5D7P5pFRBubnuKzAQkBz6c) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Zebrawood](https://open.spotify.com/album/4dWOHUf6hyWQRa9S7WZwk7) | 3:23 | 2021-12-09 | 2022-05-21 |
 | [Need You](https://open.spotify.com/track/1FofRLPW08PcSxX9EEXFrI) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Need You](https://open.spotify.com/album/4qmolHjMNllhUkem8Pnakj) | 4:24 | 2021-12-09 | 2022-05-18 |
 | [Never Let You Go](https://open.spotify.com/track/2rxjPYh8ZfQDBqOMz6TOXZ) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Never Let You Go](https://open.spotify.com/album/0xk1iMxznjxOjZY4IyJ2CC) | 3:45 | 2023-01-13 | 2023-03-05 |
+| [Never Let You Go](https://open.spotify.com/track/6da6Ygbd8bi1N1Ah6Rxrgm) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Never Let You Go](https://open.spotify.com/album/5RgAQOjc5nyF4uqnpVocoh) | 3:45 | 2023-02-17 |  |
 | [Never Thought](https://open.spotify.com/track/7J6C6egjH7ZmFMko8ESITj) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Never Thought](https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st) | 6:34 | 2022-04-22 |  |
 | [New Guinea](https://open.spotify.com/track/2aOeoucXlw56zHNrbBwHWa) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [New Guinea](https://open.spotify.com/album/7J7a6QJeaUutYMW1HP59Dq) | 2:28 | 2021-12-09 | 2022-01-22 |
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2021-12-09 | 2023-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: OHGEESY
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,145 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,253 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 14 | [\#1 Freak \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0tgAhrvNPhSyMZR0wWbv6Z) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 2:49 |
 | 15 | [At It Again](https://open.spotify.com/track/5G1tpprHgmauHLBjUUsgTV) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [At It Again](https://open.spotify.com/album/5QtacdOsOOiOJCwQZJ9oxT) | 2:54 |
 | 16 | [Tradeline](https://open.spotify.com/track/3ILtDXaZM2TjJuhAOzgk2u) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Tradeline](https://open.spotify.com/album/16PMPx5G0MTsrjFVbkUsKR) | 3:58 |
-| 17 | [Bacc Like I Never Left](https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [BIGHEAD](https://open.spotify.com/artist/2H1LiROfuxEO0EORx0hFD4) | [Bacc Like I Never Left](https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB) | 2:35 |
+| 17 | [Bacc Like I Never Left](https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Bighead](https://open.spotify.com/artist/47rYP3OnFecFuino5DXte1) | [Bacc Like I Never Left](https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB) | 2:35 |
 | 18 | [Class](https://open.spotify.com/track/3IwTfr5BZ9Wiz9dmgp5ITm) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Class](https://open.spotify.com/album/7ySRtcBS3aaEv7myWwMPKN) | 3:42 |
 | 19 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/0sKJExQWRKxd76gSSwrsaI) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/2gtzhUrfhH4VsoiWeQqSmX) | 2:27 |
 | 20 | [Fear Factor](https://open.spotify.com/track/244X0ypfFdSFT5uSpfoREj) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS), [FREDOBAGZ](https://open.spotify.com/artist/0euYOLFecgeOBTuMewENL0) | [Hotboiiz:4L](https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo) | 2:40 |

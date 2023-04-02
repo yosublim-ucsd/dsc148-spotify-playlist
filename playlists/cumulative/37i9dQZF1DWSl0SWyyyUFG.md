@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-216 songs - 11 hr 25 min
+218 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Bandido De Amores](https://open.spotify.com/track/5gbThduFQLh53m500xE54t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 2:58 | 2021-10-22 |  |
 | [Batelo Morena](https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 3:02 | 2021-10-22 |  |
 | [Borracho Morire](https://open.spotify.com/track/4b6ImioSLFFQeweQFzx69h) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Colección Privada](https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq) | 3:23 | 2021-10-22 | 2022-07-29 |
-| [Borracho Moriré](https://open.spotify.com/track/2DxXeD084VPwQDQxTiTaSo) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Ladrón de Amor](https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p) | 3:25 | 2021-10-22 |  |
+| [Borracho Moriré](https://open.spotify.com/track/2VQrfYqMxukVnzi47VVozS) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Borracho Moriré](https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu) | 3:23 | 2022-12-30 |  |
+| [Borracho Moriré](https://open.spotify.com/track/2DxXeD084VPwQDQxTiTaSo) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Ladrón de Amor](https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p) | 3:25 | 2021-10-22 | 2023-04-02 |
 | [Borracho Moriré](https://open.spotify.com/track/0ipLL6JmZVQewK7097hdXl) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Lo Mejor De Las Bandas](https://open.spotify.com/album/46wVyYUYSGJKYZ7fqr7h3b) | 3:25 | 2021-10-22 | 2022-11-14 |
 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 | 2021-10-22 |  |
 | [Chiquilla Cariñosa](https://open.spotify.com/track/2iYIFcJsRJqve6j2YKJ91e) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Ahy Te Va Kora](https://open.spotify.com/album/6uv5LHEjoT0mvY3AFJG52h) | 2:34 | 2021-10-22 |  |
@@ -143,7 +144,8 @@
 | [No Bailes De Caballito](https://open.spotify.com/track/3VYLfI2nCOSj7jetmxfWlm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar Con La Banda](https://open.spotify.com/album/2ev4BdYJSYgwDlszVWCCtC) | 4:01 | 2021-10-22 | 2022-11-13 |
 | [No Me Dejes Tan Solo](https://open.spotify.com/track/7kDmpsxLjsExnH0PF7E2oU) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Lo Dejaría Todo](https://open.spotify.com/album/0slFxxE8mELjY6pg5My39R) | 3:02 | 2021-10-22 | 2022-07-04 |
 | [No Me Dejes Tan Solo](https://open.spotify.com/track/0KvbfjJA9CMYp45ZIXNx56) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Lo Dejaría Todo](https://open.spotify.com/album/2K3WGh73eQzxxxiLXdtpNL) | 3:02 | 2021-10-22 | 2022-11-13 |
-| [No Me Dejes Tan Solo](https://open.spotify.com/track/5seb18FFKQKhkZxVrrVYNf) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Ladrón de Amor](https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p) | 3:06 | 2021-10-22 |  |
+| [No Me Dejes Tan Solo](https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Lo Dejaría Todo](https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP) | 3:02 | 2022-12-30 |  |
+| [No Me Dejes Tan Solo](https://open.spotify.com/track/5seb18FFKQKhkZxVrrVYNf) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Ladrón de Amor](https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p) | 3:06 | 2021-10-22 | 2023-04-02 |
 | [Nunca se Acabo el Encanto](https://open.spotify.com/track/1EXziMYeJon3kD58RZaFTW) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/6mVMsBmvxhIDNWZ44qS2hd) | 3:10 | 2021-10-22 | 2022-07-29 |
 | [Nunca se Acabo el Encanto](https://open.spotify.com/track/4UY78AVRWQycRrJHTCOxRw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k) | 3:10 | 2021-10-22 |  |
 | [Ojitos Mentirosos](https://open.spotify.com/track/0PCEsbdqumz3l27LOLMGy6) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [Estrellas De La Banda](https://open.spotify.com/album/1IlsBg2a9VdRIeTtMuIl1m) | 3:37 | 2021-10-22 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,590 likes - 177 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,625 likes - 177 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

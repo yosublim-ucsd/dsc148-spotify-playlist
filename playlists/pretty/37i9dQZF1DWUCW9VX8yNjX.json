@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 76234,
+  "num_followers": 76239,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMGYyYzc1YWI5YzEwNjVlMzQ2Y2VhYzEzYTJmOTA5M2Yx",
+  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDJlZjM2NzI1NzU4MDMwNTg4MTE4MTRmOGE1YTc3OWE0",
   "tracks": [
     {
       "added_at": "2021-12-14 16:21:13",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Dos Mundos",
-        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "El Idolo De Mexico",
         "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 182440,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/4va4REkaDpC31k6jcAbLGY"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/4lSsdT57CtgjpWQ1oILLC4"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Quiero Que Vuelvas",
         "url": "https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 156893,
       "name": "Quiero Que Vuelvas",
       "url": "https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Si T\u00fa Supieras",
+      "url": "https://open.spotify.com/track/4lSsdT57CtgjpWQ1oILLC4"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Yo Nac\u00ed para Amarte",
-      "url": "https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 263426,
       "name": "C\u00f3ncavo Y Convexo",
       "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Yo Nac\u00ed para Amarte",
+      "url": "https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Mis Canciones, Mis Amigos",
-        "url": "https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 167000,
       "name": "Que Seas Muy Feliz",
       "url": "https://open.spotify.com/track/0Zyy54PmcZ2wUUhtDLaKkJ"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Mis Canciones, Mis Amigos",
+        "url": "https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1655,22 +1655,18 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+        "name": "Arrullo De Estrellas",
+        "url": "https://open.spotify.com/album/3WpXOKVAbbFLVD2OK7QALS"
       },
       "artists": [
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 290013,
-      "name": "En el Jard\u00edn",
-      "url": "https://open.spotify.com/track/3J0rEntEhkv5aE9vbr3VmF"
+      "duration_ms": 205320,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/4yalDD5kuqKZKI3z1rfWqD"
     }
   ],
   "unique_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",

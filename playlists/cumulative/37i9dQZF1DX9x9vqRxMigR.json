@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 180160,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5CDldnbhdpDJs0KUIiOM6X"
@@ -4186,7 +4186,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 211280,
       "name": "Keep Your Lamps Trimmed and Burning",
       "url": "https://open.spotify.com/track/1P48SL7KyyVQbcLPoW0AvV"
@@ -5952,10 +5952,28 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/2J2oWsC3KGoqdUMIwcMRMU"
+    },
+    {
+      "album": {
+        "name": "Pharmakon",
+        "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155352,
+      "name": "Pharmakon",
+      "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
     },
     {
       "album": {
@@ -6104,6 +6122,24 @@
       "duration_ms": 614615,
       "name": "Poesia Ac\u00fastica #8: Amor e Samba",
       "url": "https://open.spotify.com/track/2RoWhAVtQrPU53BERYlmYZ"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/1PywdoIJhaJq0RRvJHOgDj"
+      },
+      "artists": [
+        {
+          "name": "Anna Ekborg",
+          "url": "https://open.spotify.com/artist/6a5TsuCJmnO5WR9f7ANl7q"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195640,
+      "name": "Polska efter Karls Anders",
+      "url": "https://open.spotify.com/track/7lynTekJgwz0MEmFaVas0W"
     },
     {
       "album": {
@@ -9236,7 +9272,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 234980,
       "name": "You Don't Care or You Don't Have the Time",
       "url": "https://open.spotify.com/track/1BHSkaWKX6ndWSNM2azk5L"

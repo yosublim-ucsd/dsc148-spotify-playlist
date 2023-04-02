@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Jungle
 
-756 songs - 2 day 1 hr 40 min
+757 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Butterfly Wings \- Franc Moody Remix](https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Butterfly Wings \(Franc Moody Remix\)](https://open.spotify.com/album/6Oo3cX5rOtUITuwQbjz4Wz) | 3:32 | 2022-04-29 | 2022-07-29 |
 | [California, Pt\. I](https://open.spotify.com/track/7jZdaKyarANolzHVosOglg) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [California, Pt\. I](https://open.spotify.com/album/4P5aUcVlhnTvEdp81HYQUc) | 3:05 | 2021-07-23 | 2022-07-29 |
 | [Call On Me \(with Tove Lo\)](https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\)](https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi) | 3:16 | 2022-10-14 |  |
-| [Calling Out](https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Calling Out](https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg) | 4:41 | 2023-02-24 |  |
+| [Calling Out](https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Calling Out](https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg) | 4:41 | 2023-02-24 | 2023-04-02 |
 | [Cameo](https://open.spotify.com/track/5FazJBNgurMEDrVaUqqliH) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Reborn](https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner) | 4:19 | 2022-03-25 | 2023-02-10 |
 | [Can't Believe](https://open.spotify.com/track/4DxI01RKuKGPas1SuSmDi7) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Can't Believe \(Original Mix\)](https://open.spotify.com/album/34Ml8acAOMcafM6xLrip7u) | 4:27 | 2022-01-28 | 2022-04-15 |
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-02-11 |  |
@@ -609,6 +609,7 @@
 | [Spell](https://open.spotify.com/track/2UqQXvudBolM4qRpMYBrLS) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Spell](https://open.spotify.com/album/7tf7U3SDs3CKSgyHhyUiN3) | 3:13 | 2021-09-24 | 2022-06-22 |
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-02-04 | 2022-04-15 |
 | [Star City \- Radio Edit](https://open.spotify.com/track/1DxjrGvRHPxmLF8TEmsqwt) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City](https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb) | 3:36 | 2022-02-25 | 2022-07-28 |
+| [Star Song](https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Star Song](https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD) | 3:30 | 2023-03-03 |  |
 | [Staring at the Ceiling](https://open.spotify.com/track/1vPRVC9OhWpLUFmHwUCziG) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Staring at the Ceiling](https://open.spotify.com/album/2pI8tzfUm19pAGtH3ZHfq5) | 3:43 | 2022-02-25 | 2022-04-17 |
 | [Staring In The Dark](https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Staring In The Dark](https://open.spotify.com/album/2jxqw18TEVeQ2GhNMq7Ht3) | 4:03 | 2023-03-24 |  |
 | [Starstruck \- Vegyn Remix](https://open.spotify.com/track/1DuPTyxPS2oiZMgLAF11gj) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Starstruck \(Vegyn Remix\)](https://open.spotify.com/album/6GJDNkrgXK9vjiJbK9g9qa) | 3:48 | 2021-05-07 | 2023-02-11 |

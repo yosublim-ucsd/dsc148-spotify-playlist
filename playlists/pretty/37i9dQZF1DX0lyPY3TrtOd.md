@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > Extatische gevoelens met prachtige muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,698 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,706 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 42 | [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 |
 | 43 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 |
 | 44 | [My Everything](https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/6wglqk5rW63K9eaeqxzZpI) | [My Everything](https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI) | 3:58 |
-| 45 | [tnght](https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tnght](https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe) | 3:27 |
-| 46 | [Caught in the Moment](https://open.spotify.com/track/5rG3DY9m1qxdr3jYSgPlJF) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Caught in the Moment](https://open.spotify.com/album/30UswNsDzEdhRmYM9rZBJJ) | 2:49 |
+| 45 | [Caught in the Moment](https://open.spotify.com/track/5rG3DY9m1qxdr3jYSgPlJF) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Caught in the Moment](https://open.spotify.com/album/30UswNsDzEdhRmYM9rZBJJ) | 2:49 |
+| 46 | [tnght](https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tnght](https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe) | 3:27 |
 | 47 | [Call Me](https://open.spotify.com/track/0DMIyfegCv93GER37aHR4E) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Call Me](https://open.spotify.com/album/2EAoeBk0yH5I6kVMaXJCV0) | 3:18 |
-| 48 | [Sad Lonely Groove](https://open.spotify.com/track/49SudSFHwgnwMprTAYqa0p) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sad Lonely Groove](https://open.spotify.com/album/2bIg0JjNVir6ldrYyGuqaU) | 3:58 |
-| 49 | [Linger On \- Roosevelt Remix Edit](https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Linger On \(Roosevelt Remix\)](https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA) | 4:15 |
-| 50 | [Dancing On the Other Side \- Kraak & Smaak Remix](https://open.spotify.com/track/3RLjQ2GvQrXftXOPlcu8mV) | [The George Kaplan Conspiracy](https://open.spotify.com/artist/1oghnjbVNJIYKnNhV3Y5cR), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Dancing On the Other Side \(Kraak & Smaak Remix\)](https://open.spotify.com/album/7J2Bm1IBOnzGVtbXTTx9kr) | 4:07 |
+| 48 | [Dancing On the Other Side \- Kraak & Smaak Remix](https://open.spotify.com/track/3RLjQ2GvQrXftXOPlcu8mV) | [The George Kaplan Conspiracy](https://open.spotify.com/artist/1oghnjbVNJIYKnNhV3Y5cR), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Dancing On the Other Side \(Kraak & Smaak Remix\)](https://open.spotify.com/album/7J2Bm1IBOnzGVtbXTTx9kr) | 4:07 |
+| 49 | [Sad Lonely Groove](https://open.spotify.com/track/49SudSFHwgnwMprTAYqa0p) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sad Lonely Groove](https://open.spotify.com/album/2bIg0JjNVir6ldrYyGuqaU) | 3:58 |
+| 50 | [Linger On \- Roosevelt Remix Edit](https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Linger On \(Roosevelt Remix\)](https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA) | 4:15 |
 | 51 | [Six Hills](https://open.spotify.com/track/0DS6SAfdJWRmbAb1Ltl1Px) | [Lewsberg](https://open.spotify.com/artist/49q3PS0SzgbyvWDwZj7qg5) | [Six Hills](https://open.spotify.com/album/5e6m3OIy6GxGTJBqag8Nki) | 5:45 |
 | 52 | [SEROTONIN](https://open.spotify.com/track/77qco7OEBQKvM6uQvCcTlZ) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [SEROTONIN](https://open.spotify.com/album/6leBN3kkqUoHi9dgMOfMwo) | 1:35 |
 | 53 | [Born Again](https://open.spotify.com/track/3imW9xm9mC6koegNba6pL9) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Born Again](https://open.spotify.com/album/7hnrKp9gJfTwMyu87ORT7I) | 3:15 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 58 | [it's a setup](https://open.spotify.com/track/7ofHL446H6rlUaalD0aFpT) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [it's a setup](https://open.spotify.com/album/3JJx2oLUYfOmAk1OjJsXl5) | 3:56 |
 | 59 | [Electric Connect](https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS) | [Milo Clare](https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR) | [Electric Connect](https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d) | 3:45 |
 | 60 | [Here We Go Again](https://open.spotify.com/track/3yYZe2t3bgCxJvAA4Dg3dA) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Here We Go Again](https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb) | 3:15 |
-| 61 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 |
-| 62 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 |
-| 63 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |
-| 64 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
-| 65 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
-| 66 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
-| 67 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
+| 61 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 |
+| 62 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 |
+| 63 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
+| 64 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
+| 65 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |
+| 66 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
+| 67 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
 | 68 | [3 Nights](https://open.spotify.com/track/3VjxQzKXRtV2c8W7IeAXQh) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Milkshakes & Heartbreaks](https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s) | 2:40 |
 | 69 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 |
 | 70 | [Keep It Together](https://open.spotify.com/track/3kyL3FdLJvCIS9HIf1pPHj) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Keep It Together](https://open.spotify.com/album/4KDaXA0zbILlJO62i07plQ) | 3:16 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGIyMzcwYzg3ODEyYWVjZDEyOTFhOGNlMmJmNGIwNTgw`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDgzMTYxODY0Y2UyZGQxYWU3MTk0Y2YyZDliZjdmMzUw`

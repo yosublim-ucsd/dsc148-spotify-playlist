@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 163584,
       "name": "085 - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
@@ -5355,6 +5355,36 @@
     },
     {
       "album": {
+        "name": "Essa \u00e9 a Vida de um Corredor",
+        "url": "https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "PAKO BEATZ",
+          "url": "https://open.spotify.com/artist/7tJV2B9ErlFQE9oXyYg0qA"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "Corsa Freestyle",
+      "url": "https://open.spotify.com/track/00OOvPtSPhJYLOtHi31mUU"
+    },
+    {
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -8052,7 +8082,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 212456,
       "name": "Existe um Lugar",
       "url": "https://open.spotify.com/track/2JB6qlvOmDufRcMMcEEIwl"

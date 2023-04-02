@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover:  Emilie\-Claire Barlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,250 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,281 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 20 | [Momo](https://open.spotify.com/track/0CBX0WAXLUlxZLxVzNcL2U) | [David Georgelet](https://open.spotify.com/artist/2LtA68RzaNBt40yR5HCFJJ), [François Chesnel](https://open.spotify.com/artist/6V7lY4nwZUyd0SfHv8wv0w), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs) | [La Septième Reine](https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO) | 3:05 |
 | 21 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 |
 | 22 | [Rituel du soleil](https://open.spotify.com/track/28s6vG5qO8iJ6EOtqIoBQZ) | [Naïssam Jalal](https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk) | [Rituel du soleil](https://open.spotify.com/album/1349X3aKwOlh6XimmsJS5U) | 6:06 |
-| 23 | [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 |
+| 23 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 |
 | 24 | [I'm On My Way](https://open.spotify.com/track/40MiZBtqaj19eRza6L67g1) | [Sarah Brown](https://open.spotify.com/artist/6qu4iot78uVk1bp65nuQvh) | [Sarah Brown Sings Mahalia Jackson](https://open.spotify.com/album/1sBIYJA6QJMbcV8aGPHspJ) | 3:04 |
 | 25 | [People Tell Me / Les gens me disent \(feat\. Julian Lage\)](https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 2:36 |
 | 26 | [A Lullaby for Constance](https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa) | [Olivier Temime](https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK) | [Inner Songs](https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Why Should We Care](https://open.spotify.com/track/1N5P9bFKXgUiwRzNrI7Enb) | [Gauthier Toux](https://open.spotify.com/artist/7IDfdcPGVTXSWIG5ZtQmVW), [Maxence Sibille](https://open.spotify.com/artist/2qniG8aGnYc6CQJ59CsKlP), [Simon Tailleu](https://open.spotify.com/artist/1NYeTK44a3YpVx5MGHv78d) | [Why Should We Care](https://open.spotify.com/album/4ofn3FiF0xyUOT96Kgrp8E) | 5:39 |
 | 50 | [Herbie’s Dance](https://open.spotify.com/track/7hesAzyUW6ObSHGqX2NUbx) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Herbie's Dance](https://open.spotify.com/album/1clnxwZjzbtYExWQXrdBhR) | 4:52 |
 
-Snapshot ID: `MTY4MDIxMzYwMCwwMDAwMDAwMGIwNzhiODg5MzQ0ZDg1Yzg1MTAzY2ZhNTRhNzk4ODk2`
+Snapshot ID: `MTY4MDIxMzYwMCwwMDAwMDAwMDlhZTRlZTEzOTExNWE5NjU2YWRmMGQyYjEwM2MzZDY0`

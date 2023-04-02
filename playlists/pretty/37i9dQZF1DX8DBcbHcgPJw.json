@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rusherking & La China",
-  "num_followers": 1179542,
+  "num_followers": 1179668,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMGIxNTMxN2E5MWFmZmFlMmRiNGY5YzIxNjczYTk0M2Zh",
+  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMDkyMDc1OGMxZDcxY2IxYTZlMzUyZjI3MDVjNDdjODBk",
   "tracks": [
     {
       "added_at": "2023-03-31 03:00:00",
@@ -727,8 +727,8 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "La Gira",
-        "url": "https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft"
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
       "artists": [
         {
@@ -736,13 +736,13 @@
           "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         },
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 194666,
-      "name": "La Gira",
-      "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
+      "duration_ms": 183430,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
       "artists": [
         {
           "name": "Marama",
           "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
         }
       ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -911,8 +915,8 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+        "name": "La Gira",
+        "url": "https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft"
       },
       "artists": [
         {
@@ -920,13 +924,29 @@
           "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         }
       ],
-      "duration_ms": 183430,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+      "duration_ms": 194666,
+      "name": "La Gira",
+      "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -947,26 +967,6 @@
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm"
+        "name": "C14TORCE V: Balada para un Alien",
+        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 362946,
-      "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B"
+      "duration_ms": 170146,
+      "name": "C14TORCE V: Balada para un Alien",
+      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "C14TORCE V: Balada para un Alien",
-        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
+        "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 170146,
-      "name": "C14TORCE V: Balada para un Alien",
-      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
+      "duration_ms": 362946,
+      "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
+        "name": "Color\u00edn Colorado",
+        "url": "https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 144879,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
         "name": "No Te Confundas",
         "url": "https://open.spotify.com/album/1of5ndRyyQ4LjADe7wlO9U"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 200842,
       "name": "No Te Confundas",
       "url": "https://open.spotify.com/track/5ZOLvkyS5xkkfzLe9ytDmQ"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
-        "name": "Color\u00edn Colorado",
-        "url": "https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 144879,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1859,18 +1859,22 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "P\u00eddeme la Luna",
-        "url": "https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ"
+        "name": "PR Sessions #4",
+        "url": "https://open.spotify.com/album/4Ru3IxuOccecbtIEvDxMEF"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Panchito Records",
+          "url": "https://open.spotify.com/artist/6U1nvY2YuhmVZ96Af8K6qb"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 169575,
-      "name": "P\u00eddeme la Luna",
-      "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
+      "duration_ms": 148771,
+      "name": "PR Sessions #4",
+      "url": "https://open.spotify.com/track/6dYUROj5Z5EV6PNOPUprhF"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

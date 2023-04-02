@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X , DES3ETT, Georgia Meek
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,258 likes - 42 songs - 2 hr 1 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,278 likes - 42 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take Me Higher](https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Take Me Higher](https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg) | 2:22 |
 | 2 | [Love For Love](https://open.spotify.com/track/4nfXHdRAn7GOcW6LzHxMpZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Love For Love](https://open.spotify.com/album/7xlJk5LPhEPieZzRddkdOp) | 2:51 |
-| 3 | [Lost Your Love](https://open.spotify.com/track/6CuISNgSkIsZYU1H1COjqw) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw), [Lonely Night](https://open.spotify.com/artist/70B2FFH4Md3FSgAkYcLXPU) | [Lost Your Love](https://open.spotify.com/album/5Hj66Z2Mj6Jjf8x3EGtRRD) | 3:23 |
+| 3 | [Lost Your Love](https://open.spotify.com/track/6CuISNgSkIsZYU1H1COjqw) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw), [Lonely Night](https://open.spotify.com/artist/0VhGRelJUSMxWbmRrdqGL5) | [Lost Your Love](https://open.spotify.com/album/5Hj66Z2Mj6Jjf8x3EGtRRD) | 3:23 |
 | 4 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 5 | [YOU \(feat\. Dotter\)](https://open.spotify.com/track/0axT0DfgcNn3qH9lnsTB19) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [YOU \(feat\. Dotter\)](https://open.spotify.com/album/5w320Wl1cBvI83WMCzdhFs) | 2:31 |
 | 6 | [MAMA](https://open.spotify.com/track/6N4oW9eNyI6skalFOH38OU) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [MAMA](https://open.spotify.com/album/15UMgwZQz9v556LPIc4lpQ) | 2:30 |

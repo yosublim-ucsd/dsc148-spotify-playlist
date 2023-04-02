@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Beautiful Smile](https://open.spotify.com/track/6vF4WczlVFGa8pO2dWy8gv) | [Lars Jansson Trio](https://open.spotify.com/artist/0VfeNMnzhhUyyFwvyi3yJk) | [More Human](https://open.spotify.com/album/5F8ZMFGcd3heEYbAzHk2lp) | 4:06 | 2021-11-08 |  |
+| [A Beautiful Smile](https://open.spotify.com/track/6vF4WczlVFGa8pO2dWy8gv) | [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [More Human \(Lars Jansson Trio\)](https://open.spotify.com/album/5F8ZMFGcd3heEYbAzHk2lp) | 4:06 | 2021-11-08 |  |
 | [Accettura](https://open.spotify.com/track/6nJKK8an7PRBtGrymIKp8T) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [Accettura](https://open.spotify.com/album/7BR5kNibJmbbSgeHfK1O2n) | 3:38 | 2022-12-01 |  |
 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-16 |  |
 | [After Hours](https://open.spotify.com/track/0PbpJzWJEI6RIxDLCp1eqJ) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM), [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [After Hours](https://open.spotify.com/album/6CRpFwhy7WkZRRPGGvEatZ) | 5:48 | 2021-11-08 |  |

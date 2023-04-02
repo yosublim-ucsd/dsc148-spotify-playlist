@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 226077,
+  "num_followers": 226128,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMGU5ZmE0ZGEwNjM0YjRlYzFmOTRjMDIxZmQ5MDZhZjEy",
+  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMGUyNzlkZjc1ZWUxYWUwYWNjYzNlYjQwYThkNmZiZDUx",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "VIBE (Ao Vivo)",
         "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 169201,
       "name": "Prudente - Ao Vivo",
       "url": "https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "Mundu\u00ea",
+        "url": "https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 211059,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "Mais Feliz",
         "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 224376,
       "name": "Dependente Do Amor",
       "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Mundu\u00ea",
-        "url": "https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 211059,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "De M\u00e3os Dadas",
-        "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
-      },
-      "artists": [
-        {
-          "name": "Noca Da Portela",
-          "url": "https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Promessa",
-      "url": "https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 233346,
       "name": "Tive Raz\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "De M\u00e3os Dadas",
+        "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
+      },
+      "artists": [
+        {
+          "name": "Noca Da Portela",
+          "url": "https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Promessa",
+      "url": "https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo"
     },
     {
       "added_at": "2023-01-25 16:05:09",

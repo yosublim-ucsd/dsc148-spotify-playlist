@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-603 songs - 1 day 9 hr 35 min
+604 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Drama](https://open.spotify.com/track/1vH3GM0b9BqBCZ0ACVa7XA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:29 | 2022-03-24 | 2022-04-15 |
 | [Dream](https://open.spotify.com/track/5fAmvVpvp7iL0QkL1kuw6S) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 3:20 | 2021-12-29 | 2022-07-24 |
 | [Dream](https://open.spotify.com/track/5lwzBGBEkbonYhRN84Kj3j) | [JAMIE](https://open.spotify.com/artist/12WC3s3087JX9hDaTj4nW8) | [START\-UP \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/029nCxucY9xCd9TP9TwU9b) | 3:33 | 2022-01-03 | 2022-04-09 |
-| [Dream of You \(with R3HAB\)](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:12 | 2022-08-12 |  |
+| [Dream of You \(with R3HAB\)](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:12 | 2022-08-12 | 2023-04-02 |
 | [Dream of You \(with R3HAB\)](https://open.spotify.com/track/5SEvxpu5ImOFOcXyeM8fbx) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Dream of You \(with R3HAB\)](https://open.spotify.com/album/7v5VyW176u5m9aNcnvs2Cv) | 3:12 | 2021-12-07 | 2022-07-19 |
 | [DREAMLIKE](https://open.spotify.com/track/3Hpzmd4GsW2vqxNplwUL1r) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:46 | 2022-01-03 | 2022-07-14 |
 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 | 2022-05-03 | 2022-09-26 |
@@ -493,6 +493,7 @@
 | [SOS](https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:53 | 2021-12-07 | 2022-07-26 |
 | [SOS \(Cast away\) \(Feat\. EL Rune, 1DAY\)](https://open.spotify.com/track/0iYu0msq3tBmvO6C6OlNul) | [NEKOBLUE](https://open.spotify.com/artist/1CH5A5vJWTZd9AROIDqrbE), [EL RUNE](https://open.spotify.com/artist/7iAlGyGxgevD4Dk8HttCzu), [1DAY](https://open.spotify.com/artist/45TZXCZTEW5gv6TpV8sxvj) | [Overlay](https://open.spotify.com/album/5v9Fg8uOfQCNK0Mkbn2Ryl) | 2:52 | 2022-03-24 | 2022-04-16 |
 | [Sound](https://open.spotify.com/track/3NXq3EZ1dcIN0y2gZTqZXq) | [GOMCHI](https://open.spotify.com/artist/7uA35iZSc9vZLATSFqCRua) | [TRUE STORY](https://open.spotify.com/album/4dwceGQaqejgtkZ5hbkcbG) | 4:31 | 2022-03-24 | 2022-04-14 |
+| [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 |  |
 | [SPACESHIP](https://open.spotify.com/track/6mjHRq4u7xiXgCyBNVJsY3) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 2:51 | 2022-03-24 | 2022-04-11 |
 | [Spell](https://open.spotify.com/track/7sG8AYU0OsfzoruOaY86Xs) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Spell](https://open.spotify.com/album/7lapdInin3swBdK7bmAhLy) | 3:03 | 2022-03-24 | 2022-04-06 |
 | [Stamp On It](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:52 | 2023-01-16 |  |

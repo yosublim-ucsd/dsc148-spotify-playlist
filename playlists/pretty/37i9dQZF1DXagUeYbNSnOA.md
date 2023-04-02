@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Aroe Phoenix\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,345 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,342 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 28 | [Universos Distintos](https://open.spotify.com/track/021ixWdzxdf61Jx5qEqqSY) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz), [André Prando](https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk) | [Universos Distintos](https://open.spotify.com/album/0UB9bGnLYP2xs4YK9CweHw) | 3:52 |
 | 29 | [Me Levanto Solo](https://open.spotify.com/track/5Kj9gesd6cum0socwlqPxV) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [Solo, Vol\. 1](https://open.spotify.com/album/7BS7wIq72yuLc4sKgeHLEX) | 2:39 |
 | 30 | [Break](https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Break](https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6) | 3:25 |
-| 31 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 |
-| 32 | [FKN INDIRECTAS](https://open.spotify.com/track/0R62eYL3Ms9sOB4AvPDh6g) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [FKN INDIRECTAS](https://open.spotify.com/album/50Kpv6hfoTuOUk0HNJkIdn) | 2:47 |
+| 31 | [FKN INDIRECTAS](https://open.spotify.com/track/0R62eYL3Ms9sOB4AvPDh6g) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [FKN INDIRECTAS](https://open.spotify.com/album/50Kpv6hfoTuOUk0HNJkIdn) | 2:47 |
+| 32 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 |
 | 33 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
 | 34 | [CUMPLEAÑOS](https://open.spotify.com/track/09tEjSbhoLi3SVgfgVEtdd) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [CUMPLEAÑOS](https://open.spotify.com/album/2hTA8BtUFje0IG7VXQOjaY) | 2:48 |
 | 35 | [Watersport](https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Watersport](https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg) | 4:01 |
 | 36 | [Temporary](https://open.spotify.com/track/5GNP6vz90HXit8M4bnXPnc) | [DANI G](https://open.spotify.com/artist/4yVM2Wto6llICCwf58y2mM) | [Temporary](https://open.spotify.com/album/7iYUejnfaFRhQsmLgsCZlT) | 2:56 |
 | 37 | [Agua Marfil](https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT) | [Matt Austin](https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ) | [Agua Marfil](https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI) | 2:51 |
-| 38 | [Destiempo](https://open.spotify.com/track/4La8SpJL3ecn6EZc6tSyO9) | [Casa de Kello](https://open.spotify.com/artist/3ZzhFV13vSnWtx0TPkbpOl), [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Destiempo](https://open.spotify.com/album/1v2Ieeo8LvAq8adnEktx8h) | 3:32 |
-| 39 | [Las Luces de Esta Ciudad](https://open.spotify.com/track/7m5Z4EkNYUR9Zt0qHKQpfN) | [Awexa](https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa), [KidSxnpai](https://open.spotify.com/artist/4VOPjvICpNc9VTSCyqgUkF) | [Las Luces de Esta Ciudad](https://open.spotify.com/album/40QBjZEAa4hzoqA9KmbGFJ) | 2:27 |
-| 40 | [Feliz](https://open.spotify.com/track/3v8D562eKmS74tiio3JLwG) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Feliz](https://open.spotify.com/album/5OryS0f5aSUvZtV5FgLt9t) | 3:18 |
-| 41 | [Oh Oh Oh](https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 3:10 |
+| 38 | [Oh Oh Oh](https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 3:10 |
+| 39 | [Destiempo](https://open.spotify.com/track/4La8SpJL3ecn6EZc6tSyO9) | [Casa de Kello](https://open.spotify.com/artist/3ZzhFV13vSnWtx0TPkbpOl), [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Destiempo](https://open.spotify.com/album/1v2Ieeo8LvAq8adnEktx8h) | 3:32 |
+| 40 | [Las Luces de Esta Ciudad](https://open.spotify.com/track/7m5Z4EkNYUR9Zt0qHKQpfN) | [Awexa](https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa), [KidSxnpai](https://open.spotify.com/artist/4VOPjvICpNc9VTSCyqgUkF) | [Las Luces de Esta Ciudad](https://open.spotify.com/album/40QBjZEAa4hzoqA9KmbGFJ) | 2:27 |
+| 41 | [Feliz](https://open.spotify.com/track/3v8D562eKmS74tiio3JLwG) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Feliz](https://open.spotify.com/album/5OryS0f5aSUvZtV5FgLt9t) | 3:18 |
 | 42 | [Verano](https://open.spotify.com/track/2LfYgvxQ0CVTeUG4NU183h) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0), [Clara Bares](https://open.spotify.com/artist/6jtaP0NhMvxjmRmsrJHmWg) | [Verano](https://open.spotify.com/album/5XYp05CrQS8vzJeyjvrEUI) | 3:35 |
 | 43 | [Mijita](https://open.spotify.com/track/1Sov0pi4zkxntdYfcDMV1n) | [Chesca](https://open.spotify.com/artist/1MRWKooJe1RFjLrJcZSui2) | [Mijita](https://open.spotify.com/album/2J3t4QBygIIbVMDqBqeI99) | 5:00 |
 | 44 | [Adamantcore](https://open.spotify.com/track/13MZoSzpGMXXQEJvL4zWFP) | [Eduardo Sanz](https://open.spotify.com/artist/0cbVvkUuJKKA2IeUc3R35Q), [Sairo](https://open.spotify.com/artist/5SYKVmpU4BRNXJEne0oL3O) | [Adamantcore](https://open.spotify.com/album/7p0Vw2CNMlGNhAjGbRgxGs) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [A Pair of Eyes/Sway](https://open.spotify.com/track/0c7VhDF9H0MN5qrCGgpVwx) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [A Pair of Eyes/Sway](https://open.spotify.com/album/0N1RqNWH9148zU6gcYHtga) | 3:19 |
 | 50 | [sueño despierto](https://open.spotify.com/track/42d29yUrbScNy51YHdp1Cu) | [CORARROTO](https://open.spotify.com/artist/1kAlrjWbgDdekZaLDIBD3A) | [sueño despierto](https://open.spotify.com/album/6OAqEExydoUYtlGL00FNW3) | 1:51 |
 
-Snapshot ID: `MTY4MDEwOTIwMCwwMDAwMDAwMGE1ZmY0ZjY2ZmQ5MGM1YzFiODY4Y2E3MmQ5MmMxOTcw`
+Snapshot ID: `MTY4MDEwOTIwMCwwMDAwMDAwMDhlZTk5MmE1ZmI4MTM3NWU5YjBkNWQxNDBkMTNkNWYz`

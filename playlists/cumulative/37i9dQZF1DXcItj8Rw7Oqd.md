@@ -4,7 +4,7 @@
 
 > Pop x Rock\. Cover: McFly
 
-81 songs - 4 hr 6 min
+82 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [F2F](https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:05 | 2022-12-09 |  |
 | [FAMILY TREE](https://open.spotify.com/track/0f1PmNCHUGKVAqx1Kr0A8l) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [FAMILY TREE](https://open.spotify.com/album/65PWn1gJCj9euujQEIJejW) | 3:05 | 2022-12-09 | 2023-02-16 |
 | [FAMILY TREE](https://open.spotify.com/track/7abPglmFMfwM2iPolJVPEQ) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [FAMILY TREE](https://open.spotify.com/album/18ClpLTgc2V310gG61nvwm) | 3:05 | 2023-02-03 |  |
-| [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 | 2023-03-24 |  |
+| [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 | 2023-03-24 |  |
+| [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 | 2023-03-24 | 2023-04-02 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-12-09 |  |
 | [Growing Up \(feat\. Mark Hoppus\)](https://open.spotify.com/track/25cuN4hKRiJHuPtXtKwEdE) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Tonight Is the Night](https://open.spotify.com/album/6iCKnMoS7OmyQ6D3fkvpeG) | 2:48 | 2022-12-09 |  |
 | [Happier in Hell](https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happier in Hell](https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn) | 2:53 | 2022-12-09 |  |

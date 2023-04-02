@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: U\-jin\(유진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,160 likes - 91 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,180 likes - 91 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 2 | [Sebaet\-noli](https://open.spotify.com/track/3RA5FtWW7iYcxbhpA3fjq7) | [XIIDO](https://open.spotify.com/artist/0Rehu23IN36yNREIHyLRMy) | [leap](https://open.spotify.com/album/1zbvwDTqquGyfJwztj7EWx) | 3:36 |
 | 3 | [Lullaby](https://open.spotify.com/track/3c3budMk8QIYmmEM1YOcbl) | [Jung\-hee Cho](https://open.spotify.com/artist/2R4PolkYfSHK9KezOzR7aa) | [Jazz Children's Song 'Moon Pieces'](https://open.spotify.com/album/2zUaajNADVR2FC1aL2VDiy) | 3:46 |
 | 4 | [Mother](https://open.spotify.com/track/4yFZI3a9OSWthGSW9G5lFr) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Mother](https://open.spotify.com/album/6C8can54DREmXWUC2Gcg6I) | 5:19 |
-| 5 | [MURMURANDO](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/6ZLpbFVyzK7aGGndlO2Afi) | [MURMURANDO](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 |
+| 5 | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln), [Sora Kim](https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An) | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 |
 | 6 | [Travel](https://open.spotify.com/track/3ByEkueYQJCWHT7ZGZMzSj) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [Travel](https://open.spotify.com/album/15uxCGogrdVoDxYML1hpxG) | 2:55 |
 | 7 | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/track/3P4vnvUu03m0kjoLWNWvTa) | [Youjin KO](https://open.spotify.com/artist/4DwpWXyj4LSXRDaB2zmfcj), [Nicola Sergio](https://open.spotify.com/artist/2bxce9EIkMF99r0baqX9Sy) | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr) | 5:59 |
 | 8 | [Unrealtime](https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi) | [임광균](https://open.spotify.com/artist/5uNWaCVmTX58YBaaE9E3Nv) | [Unrealtime](https://open.spotify.com/album/5IKEzaDVF1oG4hPwlUP303) | 4:54 |

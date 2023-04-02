@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163522,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ"
+    },
+    {
+      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -3027,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173134,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -3550,6 +3586,24 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
+    },
+    {
+      "album": {
+        "name": "Gra Gra / R2F",
+        "url": "https://open.spotify.com/album/1yxIPuGgpyoLCb6CSkj5X2"
+      },
+      "artists": [
+        {
+          "name": "LIL MORTY",
+          "url": "https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/1Xun1Rspd2RVnXZrdu0JbY"
     },
     {
       "album": {
@@ -4636,7 +4690,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 146086,
       "name": "Komarovo (DVRST Phonk Remix)",
       "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
@@ -5712,7 +5766,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -7226,6 +7280,24 @@
       "duration_ms": 150781,
       "name": "quinque",
       "url": "https://open.spotify.com/track/6QRn5fvEBJ1SIcW0ee3fBI"
+    },
+    {
+      "album": {
+        "name": "Gra Gra / R2F",
+        "url": "https://open.spotify.com/album/1yxIPuGgpyoLCb6CSkj5X2"
+      },
+      "artists": [
+        {
+          "name": "LIL MORTY",
+          "url": "https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117142,
+      "name": "R2F",
+      "url": "https://open.spotify.com/track/13LhzupnoFTNb9A5nMGr7u"
     },
     {
       "album": {
@@ -9824,7 +9896,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 164629,
       "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
@@ -11572,7 +11644,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 169586,
       "name": "\u0432\u043e\u0442\u0441\u0430\u043f",
       "url": "https://open.spotify.com/track/7iGdK8FeeKfWiLR3Ax6phw"
@@ -12238,7 +12310,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 144000,
       "name": "\u0413\u0443\u043b\u044f\u044e",
       "url": "https://open.spotify.com/track/4lleps28xCklJLtTt5MoJt"
@@ -13320,7 +13392,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 130153,
       "name": "\u0417\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u043b",
       "url": "https://open.spotify.com/track/24wc81Y0AA6uMsikUF4NSv"
@@ -13972,7 +14044,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 132258,
       "name": "\u041a\u041e\u0417\u0410\u0426\u042c\u041a\u041e\u041c\u0423_\u0420\u041e\u0414\u0423",
       "url": "https://open.spotify.com/track/6NePBUCeIGqfnIQag5crC0"
@@ -19976,7 +20048,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 144923,
       "name": "\u042f \u0443\u0451\u0431\u044b\u0432\u0430\u044e \u0432 \u0434\u0436\u0430\u0437",
       "url": "https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex"

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-422 songs - 1 day 1 hr 10 min
+423 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Juguetitos](https://open.spotify.com/track/2wiN2QrEgBooB3VZBJmMSy) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Guerrera/Soldado](https://open.spotify.com/album/6DpYoyH9mPlgvhc8BNhRvC) | 5:20 | 2022-06-03 | 2022-07-20 |
 | [Julia](https://open.spotify.com/track/5t7sGOswn980bSMcXw4YTv) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [Julia](https://open.spotify.com/album/6NtzL5k6Ao2GmSaKXTci6H) | 2:26 | 2022-07-01 | 2022-07-08 |
 | [L'ultimo Gesto Di Liberazzione](https://open.spotify.com/track/7L2wpUGXwANKyfloRG1Uen) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:01 | 2022-07-15 | 2022-07-20 |
-| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-01 |  |
+| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-01 | 2023-04-02 |
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-03 |  |
 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Copia Viva](https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg) | 3:16 | 2022-06-03 |  |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-06-03 |  |
@@ -304,6 +304,7 @@
 | [Pana](https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N) | 3:48 | 2022-07-15 |  |
 | [Para Renacer \(Lado V\)](https://open.spotify.com/track/4jZDcaRTAESl4TMgXu35sL) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0xUtJQzRNWrQurHiYzXLF7) | 3:35 | 2022-07-01 | 2022-07-27 |
 | [Para Ver Mejor](https://open.spotify.com/track/7egYJTped8k8NooizYEJVl) | [LIMON](https://open.spotify.com/artist/3bOCNWtgHz0rLE1j5bfR72) | [En Una Ola Desfasada](https://open.spotify.com/album/1QV9sHmGWSpjr6vAMaWs8H) | 2:52 | 2022-07-01 | 2022-10-21 |
+| [PARANOIA](https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94) | [PARANOIA](https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb) | 1:44 | 2023-03-31 |  |
 | [Pastillas Para Dormir Mejor](https://open.spotify.com/track/4slGmHvchtV9vgtYpiSzM0) | [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9), [Ignacia](https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg) | [SUPERSAD](https://open.spotify.com/album/0yRGn3oGpSAi41lV9RVBnP) | 4:00 | 2022-06-03 | 2022-07-29 |
 | [Patagonia](https://open.spotify.com/track/5lepYM9RnUYWjanPa4ylUP) | [Sombrero](https://open.spotify.com/artist/3hmB86ilZyAyOWuihKkILI) | [Patagonia](https://open.spotify.com/album/32ZoEaVwxcFftVErcCyLfA) | 5:13 | 2022-07-01 | 2022-07-25 |
 | [Pedazo de Cielo](https://open.spotify.com/track/4QHl7wxPoNQeN2QyKQ96vX) | [ESHA](https://open.spotify.com/artist/1JguCBS70W5P0NQWAXoCpT), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Pieles](https://open.spotify.com/album/4IP2FJtK1OMgHIsHHuFTb2) | 3:21 | 2022-07-01 | 2022-07-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Darkthrone",
-  "num_followers": 425124,
+  "num_followers": 425260,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGMzZmZkNDlhNzE3NDdiZjQyMzliYTE5YmU2MzRiY2Ix",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGI1NmEwYzY2ZWYwYzVkN2RjN2E1ZTkwNWRjMmQwYzQ1",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Sons of Northern Darkness",
+        "url": "https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 298680,
+      "name": "One by One",
+      "url": "https://open.spotify.com/track/65sql5o05skwJ6frSq4exl"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Heimdal",
         "url": "https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Sons of Northern Darkness",
-        "url": "https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 298680,
-      "name": "One by One",
-      "url": "https://open.spotify.com/track/65sql5o05skwJ6frSq4exl"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Arson",
         "url": "https://open.spotify.com/album/2swBN6MZL9myFcJPgqQR2V"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Slasher",
-        "url": "https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB"
+        "name": "Drifting in a Dream",
+        "url": "https://open.spotify.com/album/0hdLPkixmOIX2a4Rblj3nu"
       },
       "artists": [
         {
-          "name": "Omnium Gatherum",
-          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
         }
       ],
-      "duration_ms": 261186,
-      "name": "Slasher",
-      "url": "https://open.spotify.com/track/5QsYwX1DDvuhpsOCaCn4YP"
+      "duration_ms": 325000,
+      "name": "Drifting in a Dream",
+      "url": "https://open.spotify.com/track/2AJ7yy7ulIXoDgLNMzjfbv"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Enthrone Darkness Triumphant",
-        "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "In Death's Embrace",
-      "url": "https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Pure Holocaust",
         "url": "https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ"
       },
@@ -719,34 +703,34 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Compulsion for Cruelty",
-        "url": "https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL"
+        "name": "Enthrone Darkness Triumphant",
+        "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
       },
       "artists": [
         {
-          "name": "Dying Fetus",
-          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
         }
       ],
-      "duration_ms": 277996,
-      "name": "Compulsion for Cruelty",
-      "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
+      "duration_ms": 342160,
+      "name": "In Death's Embrace",
+      "url": "https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL"
     },
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Drifting in a Dream",
-        "url": "https://open.spotify.com/album/0hdLPkixmOIX2a4Rblj3nu"
+        "name": "Slasher",
+        "url": "https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB"
       },
       "artists": [
         {
-          "name": "Kalmah",
-          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+          "name": "Omnium Gatherum",
+          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
         }
       ],
-      "duration_ms": 325000,
-      "name": "Drifting in a Dream",
-      "url": "https://open.spotify.com/track/2AJ7yy7ulIXoDgLNMzjfbv"
+      "duration_ms": 261186,
+      "name": "Slasher",
+      "url": "https://open.spotify.com/track/5QsYwX1DDvuhpsOCaCn4YP"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Compulsion for Cruelty",
+        "url": "https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL"
+      },
+      "artists": [
+        {
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+        }
+      ],
+      "duration_ms": 277996,
+      "name": "Compulsion for Cruelty",
+      "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Nordland I",
         "url": "https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog"
       },
@@ -783,18 +783,34 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Stained In Rot",
-        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
+        "name": "93696",
+        "url": "https://open.spotify.com/album/28gL6vjKVFaO7UG0ImRzkY"
       },
       "artists": [
         {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+          "name": "Liturgy",
+          "url": "https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1"
         }
       ],
-      "duration_ms": 254500,
-      "name": "Stained In Rot",
-      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
+      "duration_ms": 500411,
+      "name": "Djennaration",
+      "url": "https://open.spotify.com/track/2yF0Gpl0t5aUvnlL2cm9Hg"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "At The Heart Of Winter",
+        "url": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 509640,
+      "name": "Withstand The Fall Of Time",
+      "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "At The Heart Of Winter",
-        "url": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 509640,
-      "name": "Withstand The Fall Of Time",
-      "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Lawless Darkness",
         "url": "https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz"
       },
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Stained In Rot",
+        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "Stained In Rot",
+      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Nemesis Divina",
         "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 385413,
       "name": "Mother North",
       "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "93696",
-        "url": "https://open.spotify.com/album/28gL6vjKVFaO7UG0ImRzkY"
-      },
-      "artists": [
-        {
-          "name": "Liturgy",
-          "url": "https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1"
-        }
-      ],
-      "duration_ms": 500411,
-      "name": "Djennaration",
-      "url": "https://open.spotify.com/track/2yF0Gpl0t5aUvnlL2cm9Hg"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Damned In Black",
+        "url": "https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 411400,
+      "name": "Damned In Black",
+      "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Morbid Tales (Expanded Version)",
         "url": "https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 218733,
       "name": "Into the Crypts of Rays",
       "url": "https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP"
-      },
-      "artists": [
-        {
-          "name": "I",
-          "url": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "The Storm I Ride",
-      "url": "https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Damned In Black",
-        "url": "https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau"
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/6mNPBN9o73Hon2zGRVvQC0"
       },
       "artists": [
         {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+          "name": "Saturnus",
+          "url": "https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id"
         }
       ],
-      "duration_ms": 411400,
-      "name": "Damned In Black",
-      "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
+      "duration_ms": 419650,
+      "name": "The Calling",
+      "url": "https://open.spotify.com/track/0FqwZuGCQLvXIMwbob6bo1"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "The Past is Alive (The Early Misschief)",
-        "url": "https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I"
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP"
       },
       "artists": [
         {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+          "name": "I",
+          "url": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
         }
       ],
-      "duration_ms": 208039,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd"
+      "duration_ms": 207360,
+      "name": "The Storm I Ride",
+      "url": "https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1055,6 +1055,22 @@
       "duration_ms": 350053,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "The Past is Alive (The Early Misschief)",
+        "url": "https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 208039,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1091,6 +1107,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Battles in the North",
+        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Blashyrkh - Mighty Ravendark",
+      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Where Fear and Weapons Meet",
         "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
       },
@@ -1103,38 +1135,6 @@
       "duration_ms": 354249,
       "name": "Fn .380 Acp#19074",
       "url": "https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "The Calling",
-        "url": "https://open.spotify.com/album/6mNPBN9o73Hon2zGRVvQC0"
-      },
-      "artists": [
-        {
-          "name": "Saturnus",
-          "url": "https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id"
-        }
-      ],
-      "duration_ms": 419650,
-      "name": "The Calling",
-      "url": "https://open.spotify.com/track/0FqwZuGCQLvXIMwbob6bo1"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Demon Entrails",
-        "url": "https://open.spotify.com/album/0GTNfSLAYvb7Z7b0NDaafF"
-      },
-      "artists": [
-        {
-          "name": "Hellhammer",
-          "url": "https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY"
-        }
-      ],
-      "duration_ms": 258733,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/62Mx4j3cybbW4aXhogbtH4"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Battles in the North",
-        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
+        "name": "Demon Entrails",
+        "url": "https://open.spotify.com/album/0GTNfSLAYvb7Z7b0NDaafF"
       },
       "artists": [
         {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+          "name": "Hellhammer",
+          "url": "https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY"
         }
       ],
-      "duration_ms": 274586,
-      "name": "Blashyrkh - Mighty Ravendark",
-      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
+      "duration_ms": 258733,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/62Mx4j3cybbW4aXhogbtH4"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1199,6 +1199,26 @@
       "duration_ms": 335333,
       "name": "Havenless",
       "url": "https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Intestinal Wrap",
+        "url": "https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8"
+      },
+      "artists": [
+        {
+          "name": "Creeping Death",
+          "url": "https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u"
+        },
+        {
+          "name": "Corpsegrinder",
+          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Intestinal Wrap",
+      "url": "https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1267,22 +1287,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Intestinal Wrap",
-        "url": "https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8"
+        "name": "Dark Medieval Times (Remastered 2021)",
+        "url": "https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl"
       },
       "artists": [
         {
-          "name": "Creeping Death",
-          "url": "https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u"
-        },
-        {
-          "name": "Corpsegrinder",
-          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Intestinal Wrap",
-      "url": "https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy"
+      "duration_ms": 491573,
+      "name": "Dark Medieval Times - Remastered 2021",
+      "url": "https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1299,22 +1315,6 @@
       "duration_ms": 454920,
       "name": "Kagutsuchi",
       "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Dark Medieval Times (Remastered 2021)",
-        "url": "https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 491573,
-      "name": "Dark Medieval Times - Remastered 2021",
-      "url": "https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2"
       },
       "artists": [
         {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+          "name": "1349",
+          "url": "https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT"
         }
       ],
-      "duration_ms": 288173,
-      "name": "Black Dragon",
-      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
+      "duration_ms": 250506,
+      "name": "I Am Abomination",
+      "url": "https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1383,34 +1383,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2"
+        "name": "Zos Kia Cultus",
+        "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
       },
       "artists": [
         {
-          "name": "1349",
-          "url": "https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT"
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
         }
       ],
-      "duration_ms": 250506,
-      "name": "I Am Abomination",
-      "url": "https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Annihilation Phenomena",
-        "url": "https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO"
-      },
-      "artists": [
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        }
-      ],
-      "duration_ms": 231318,
-      "name": "Annihilation Phenomena",
-      "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
+      "duration_ms": 299226,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1431,50 +1415,34 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Zos Kia Cultus",
-        "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
       },
       "artists": [
         {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
         }
       ],
-      "duration_ms": 299226,
-      "name": "As Above So Below",
-      "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
+      "duration_ms": 288173,
+      "name": "Black Dragon",
+      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
     },
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/7yfSOlctpXVOlkG0pMXjxe"
+        "name": "Annihilation Phenomena",
+        "url": "https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO"
       },
       "artists": [
         {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
         }
       ],
-      "duration_ms": 264853,
-      "name": "Axis Mundi",
-      "url": "https://open.spotify.com/track/2AG2lTeueOVfV2vkMyg5j2"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Outstrider",
-        "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
-      },
-      "artists": [
-        {
-          "name": "Abbath",
-          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "Harvest Pyre",
-      "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+      "duration_ms": 231318,
+      "name": "Annihilation Phenomena",
+      "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1495,18 +1463,50 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Before I Knew the Truth",
-        "url": "https://open.spotify.com/album/32xqRBF1Ol66V8Eugvpbnx"
+        "name": "Outstrider",
+        "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
       },
       "artists": [
         {
-          "name": "Liturgy",
-          "url": "https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1"
+          "name": "Abbath",
+          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
         }
       ],
-      "duration_ms": 266972,
-      "name": "Before I Knew the Truth",
-      "url": "https://open.spotify.com/track/5U4YwDPK6pK6cTsGmv9Kr4"
+      "duration_ms": 252066,
+      "name": "Harvest Pyre",
+      "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Dypet",
+        "url": "https://open.spotify.com/album/2dPuve2VirTp81dO4gwHIO"
+      },
+      "artists": [
+        {
+          "name": "Mork",
+          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+        }
+      ],
+      "duration_ms": 320641,
+      "name": "Forf\u00f8rt Av Kulden",
+      "url": "https://open.spotify.com/track/6HS4agidoOvDkRGKiY6Jt3"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/7yfSOlctpXVOlkG0pMXjxe"
+      },
+      "artists": [
+        {
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+        }
+      ],
+      "duration_ms": 264853,
+      "name": "Axis Mundi",
+      "url": "https://open.spotify.com/track/2AG2lTeueOVfV2vkMyg5j2"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Hamartia",
-        "url": "https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS"
-      },
-      "artists": [
-        {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
-        }
-      ],
-      "duration_ms": 363226,
-      "name": "Hamartia",
-      "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Ecclesia",
         "url": "https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 464896,
       "name": "Ecclesia",
       "url": "https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Before I Knew the Truth",
+        "url": "https://open.spotify.com/album/32xqRBF1Ol66V8Eugvpbnx"
+      },
+      "artists": [
+        {
+          "name": "Liturgy",
+          "url": "https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1"
+        }
+      ],
+      "duration_ms": 266972,
+      "name": "Before I Knew the Truth",
+      "url": "https://open.spotify.com/track/5U4YwDPK6pK6cTsGmv9Kr4"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Dypet",
-        "url": "https://open.spotify.com/album/2dPuve2VirTp81dO4gwHIO"
+        "name": "Under the Sign of Hell",
+        "url": "https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY"
       },
       "artists": [
         {
-          "name": "Mork",
-          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+          "name": "Gorgoroth",
+          "url": "https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5"
         }
       ],
-      "duration_ms": 320641,
-      "name": "Forf\u00f8rt Av Kulden",
-      "url": "https://open.spotify.com/track/6HS4agidoOvDkRGKiY6Jt3"
+      "duration_ms": 320333,
+      "name": "Profetens \u00c5penbaring",
+      "url": "https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg"
     },
     {
       "added_at": "2023-03-31 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Willa Owen
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,858 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,935 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 32 | [Shitty People](https://open.spotify.com/track/4nKCAI0VEYEbD3uly7p5hM) | [KTJ & CARLY](https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M) | [Shitty People](https://open.spotify.com/album/2JMbI5mAUSYXRF6EoTd24a) | 3:27 |
 | 33 | [Hounds](https://open.spotify.com/track/3RGdeNYSJTzFlBVDSAualF) | [Maeve](https://open.spotify.com/artist/0tjJosKJDhjhGh2P8NtiK3) | [Hounds](https://open.spotify.com/album/26pLHzuzyZBqwNBZl6Y1wk) | 3:12 |
 | 34 | [not ready](https://open.spotify.com/track/0m7bD8P6Srh8HwuAjdghgN) | [Zach Paradis](https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy) | [not ready](https://open.spotify.com/album/5XjFi3bMzuzcJHfrwTbhLc) | 2:49 |
-| 35 | [No Place To Be](https://open.spotify.com/track/2uytw70wj9Et98jbKflAkp) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [No Place To Be](https://open.spotify.com/album/0vvrFAMwZt4BeBJdcwjf7v) | 4:12 |
+| 35 | [NO PLACE TO BE](https://open.spotify.com/track/2uytw70wj9Et98jbKflAkp) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [NO PLACE TO BE](https://open.spotify.com/album/0vvrFAMwZt4BeBJdcwjf7v) | 4:12 |
 | 36 | [i'm sorry...](https://open.spotify.com/track/7f0iPUsbjLQCNKj9NZidvB) | [Jayde](https://open.spotify.com/artist/6Sk1LStz6zuzg4QKQaLoRL) | [i'm sorry, it's all my fault](https://open.spotify.com/album/331FvmwqjlHD3mTl8ChRCI) | 2:36 |
 | 37 | [OVER IT!](https://open.spotify.com/track/2guSiKWoW54ojEiV2akLoM) | [koby](https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02), [Axel Mansoor](https://open.spotify.com/artist/4zlJUtezdngqfgqhpiULYG) | [OVER IT!](https://open.spotify.com/album/1K2IM9WuVYHs89mWdwC6HY) | 2:39 |
 | 38 | [Expectations](https://open.spotify.com/track/2pEHeXXUttO4R10MSKimsD) | [Tequisha](https://open.spotify.com/artist/6PSpzSjpLVGOrX45Snh3ir) | [Expectations](https://open.spotify.com/album/5GGc67E66CvqoIYfCV8k6D) | 2:37 |

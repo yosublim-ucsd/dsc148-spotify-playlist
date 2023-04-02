@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-389 songs - 1 day 15 hr 48 min
+390 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ahora Todo Va \- Gorgon City Remix](https://open.spotify.com/track/0KkseucFbIhvQQI7SJMwcx) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Ahora Todo Va](https://open.spotify.com/album/5bMPgYIWxZut8L5k9FVslo) | 4:43 | 2021-06-04 | 2022-04-23 |
 | [Aitne \- Monkey Safari Remix](https://open.spotify.com/track/7vzybiTEICEwnewA8KqU57) | [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Aitne](https://open.spotify.com/album/4Or0QJZ9FFfFkyDJOdsk28) | 8:25 | 2021-04-21 | 2022-07-27 |
 | [Alabora \- Foxall Pale Blue Remix](https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:50 | 2021-05-07 |  |
+| [Alive](https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Alive](https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H) | 3:53 | 2023-03-31 |  |
 | [Alkebulan \- David Mayer Remix](https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI) | [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Alkebulan Remix](https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs) | 7:50 | 2021-04-21 | 2023-01-11 |
 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 | 2022-10-14 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-09-30 |  |
@@ -86,7 +87,7 @@
 | [Deneb Algedi \- Radio Edit](https://open.spotify.com/track/3UpiaKvd52jtDP5d9mDjBz) | [Massimo Logli](https://open.spotify.com/artist/3IVLbePHoVd9TYMJuKu1Ei) | [Deneb Algedi \- Elkurud](https://open.spotify.com/album/2wEvoWWqP9nKBWTKwgOobD) | 3:16 | 2021-05-07 | 2022-07-14 |
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-04-21 | 2022-10-15 |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-05-13 | 2022-07-29 |
-| [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 | 2023-03-03 |  |
+| [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 | 2023-03-03 | 2023-04-02 |
 | [Die Dunkle Biene](https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Die Dunkle Biene](https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx) | 7:45 | 2023-02-24 |  |
 | [Disappear](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5) | [Disappear](https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh) | 3:55 | 2022-06-10 |  |
 | [Disappear \- Andrea Oliva Remix](https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Disappear \(Andrea Oliva Remix\)](https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7) | 3:32 | 2023-03-10 |  |

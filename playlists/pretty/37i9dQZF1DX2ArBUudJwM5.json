@@ -1,12 +1,12 @@
 {
   "description": "Subamos el volumen a las mujeres . Co-curada por Maria Becerra.",
-  "num_followers": 28780,
+  "num_followers": 28794,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyNjA0MiwwMDAwMDAwMGJiMzAxNTFkOWIxMjkwZjZkYmM0Y2E4N2JlYmJkOGQy",
+  "snapshot_id": "MTY3ODEyNjA0MiwwMDAwMDAwMDYzMTYxOThhMDAyMDk0ZWE3MmIzYzQ5YjczZjBmMGFh",
   "tracks": [
     {
       "added_at": "2023-03-01 13:21:38",
@@ -479,30 +479,6 @@
     {
       "added_at": "2023-03-01 13:21:38",
       "album": {
-        "name": "eclips3",
-        "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "dayvan",
-          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
-        },
-        {
-          "name": "Evar",
-          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
-        }
-      ],
-      "duration_ms": 162843,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
-    },
-    {
-      "added_at": "2023-03-01 13:21:38",
-      "album": {
         "name": "Revolea",
         "url": "https://open.spotify.com/album/5i2gn7HRchalnvQHW5WCYI"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 233763,
       "name": "Revolea",
       "url": "https://open.spotify.com/track/2I8yKSM7fygPWvu8iWKW9r"
+    },
+    {
+      "added_at": "2023-03-01 13:21:38",
+      "album": {
+        "name": "eclips3",
+        "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "dayvan",
+          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "duration_ms": 162843,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
     },
     {
       "added_at": "2023-03-01 13:21:38",

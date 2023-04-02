@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: LaF
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,869 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,870 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 7 | [J'oublie](https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [J'oublie](https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls) | 2:47 |
 | 8 | [BOSSLAB](https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [BOSSLAB](https://open.spotify.com/album/6OOu5f0k8Fa4bwSPjMm2oQ) | 4:32 |
 | 9 | [Holla](https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Holla](https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F) | 2:52 |
-| 10 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/61fFh2G8tRalJbkvufFR9Y) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 |
+| 10 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 |
 | 11 | [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 |
 | 12 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 |
 | 13 | [Harry Potter](https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Harry Potter](https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7) | 3:55 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 39 | [EV2](https://open.spotify.com/track/2RUJJtbGdliDKtsQpw6zDW) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Mauvais Ange](https://open.spotify.com/album/1dUgspOSlYWQT0WSJBdvYU) | 4:42 |
 | 40 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 | 41 | [3.5](https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:44 |
-| 42 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:23 |
+| 42 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/6ArGOTiUwMzXgAh0tWjZKu) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/2eiZ94kZNFeLdDzUi5cV5X) | 2:23 |
 | 43 | [Magique](https://open.spotify.com/track/0FzN7tnPh3epsX38zFgvV1) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Magique](https://open.spotify.com/album/7Ju4HUvlakPvIsibpoZ4Wu) | 3:05 |
 | 44 | [Dans le futur](https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Dans Le Futur](https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG) | 3:35 |
 | 45 | [Sans II](https://open.spotify.com/track/4loGA6wgIHMxgQyHlqyE5U) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Sans II](https://open.spotify.com/album/3hoKvPaEu9R4wk0VJ3OsWE) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Vertige](https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Vertige](https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN) | 3:45 |
 | 75 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDU5MTNjNDlmNDQ3ZjhjNmY3ZmYwMWY1MTlhNjg3ZGU4`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGQ1MmM1MTdkNWU3ODM3MTc3ZjEwZDk5M2Y2MTViNGVm`

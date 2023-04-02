@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,065 likes - 256 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,127 likes - 256 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 185 | [Window in Time](https://open.spotify.com/track/45M34uxWB4RGb9Nh16luLs) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Window in Time](https://open.spotify.com/album/59rKbmjCHpwkGniq34qANA) | 3:07 |
 | 186 | [Magnolia](https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W) | [Chakra Lounge](https://open.spotify.com/artist/7Biy6OokTAlZOmGAIhx944) | [Magnolia](https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un) | 3:13 |
 | 187 | [One More Chance](https://open.spotify.com/track/74u8Oi33nb7F0rT3QUEOxD) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [One More Chance](https://open.spotify.com/album/30pyUMMvt5woLa1GzSKl5g) | 1:28 |
-| 188 | [Slice of Life](https://open.spotify.com/track/16VY4k5AN5iV50gZYN0qTy) | [FANTM](https://open.spotify.com/artist/1JIIbVZk3JBpWvDoL6DUY0) | [Slice of Life](https://open.spotify.com/album/0tPdYkEnJ8YTVb1h87JU1o) | 2:26 |
+| 188 | [Slice of Life](https://open.spotify.com/track/16VY4k5AN5iV50gZYN0qTy) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Slice of Life](https://open.spotify.com/album/0tPdYkEnJ8YTVb1h87JU1o) | 2:26 |
 | 189 | [Cancelling Plans](https://open.spotify.com/track/54djx2u1kdBBi8agW4FffU) | [My Companion](https://open.spotify.com/artist/4A9LJwmKMwv6PfGKU2CN1E) | [Cancelling Plans](https://open.spotify.com/album/33AWjc88zIczN31UGQh3Pa) | 2:16 |
 | 190 | [12am](https://open.spotify.com/track/0BsZBFtJj64wr7ii2179vX) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [12am](https://open.spotify.com/album/54BSoPYRODCtunqN0TobKB) | 2:51 |
 | 191 | [night time](https://open.spotify.com/track/7jXUvRLubVHid8lX2LGsbT) | [fetch focus](https://open.spotify.com/artist/5Qc2nhM2huphoEWreLB8S8) | [night time](https://open.spotify.com/album/4tmHomzMHhyXBoHeDUBnlP) | 2:45 |

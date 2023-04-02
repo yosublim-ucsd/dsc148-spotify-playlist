@@ -1439,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "El Gran Var\u00f3n",
+        "url": "https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV"
+      },
+      "artists": [
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        },
+        {
+          "name": "La Brega",
+          "url": "https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290068,
+      "name": "El Gran Var\u00f3n",
+      "url": "https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y"
+    },
+    {
+      "album": {
         "name": "La Gran Esfera",
         "url": "https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh"
       },
@@ -2466,7 +2488,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 228986,
       "name": "La Foto X El WhatsApp",
       "url": "https://open.spotify.com/track/0K1Q1BotM1euCfc6AvpvWT"
@@ -2524,6 +2546,28 @@
       "duration_ms": 163902,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn"
+    },
+    {
+      "album": {
+        "name": "La Respuesta",
+        "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168015,
+      "name": "La Respuesta",
+      "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
     },
     {
       "album": {
@@ -3932,7 +3976,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 165491,
       "name": "Pollo Frito",
       "url": "https://open.spotify.com/track/1U1cDL3SgAG4CC6pcX7hSO"

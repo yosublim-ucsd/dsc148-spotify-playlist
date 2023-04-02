@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,014 likes - 167 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,378 likes - 167 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 139 | [Lost](https://open.spotify.com/track/2rsG3qVHOsXAIW1Qj7sdWt) | [lokash](https://open.spotify.com/artist/3TenU6iPLdqp8732iFSVQj) | [Lost](https://open.spotify.com/album/1x0vLnePrBCJOGS42E0FTY) | 3:02 |
 | 140 | [DEAR APRIL](https://open.spotify.com/track/5R2ZqLZeKRzAEH1eehC4LM) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [Cover Art](https://open.spotify.com/album/494oa37Z1PTRpKolGp5JO8) | 2:15 |
 | 141 | [Closer](https://open.spotify.com/track/2up6gzK4iCDRe03q15Ed1U) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Closer](https://open.spotify.com/album/7LqUb7JXODvXG8oL03pgyZ) | 1:30 |
-| 142 | [No Suprises](https://open.spotify.com/track/4TVrdSsBbr4RYWBqyVdATT) | [Granlund](https://open.spotify.com/artist/2dZvcVqJDI3Lbxnwg5hQ8m) | [My Name Is Spruce](https://open.spotify.com/album/6wTSNipQRO7zT58J0uQJGE) | 2:56 |
+| 142 | [No Surprises](https://open.spotify.com/track/4TVrdSsBbr4RYWBqyVdATT) | [Granlund](https://open.spotify.com/artist/2dZvcVqJDI3Lbxnwg5hQ8m) | [My Name Is Spruce](https://open.spotify.com/album/6wTSNipQRO7zT58J0uQJGE) | 2:56 |
 | 143 | [girl on fire](https://open.spotify.com/track/0dTicjkL3qgaMjNXMq5nfD) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [girl on fire](https://open.spotify.com/album/1D6gKpXDsiJpjSFkbDNZF4) | 2:20 |
 | 144 | [It´ll Be Okay](https://open.spotify.com/track/4eWIDMit0TNSjc2bm4PM1T) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [It´ll Be Okay](https://open.spotify.com/album/2mGgf7bFW0I5ACBaUQZ0oI) | 1:56 |
 | 145 | [Cold Heart](https://open.spotify.com/track/370bUlMgf8xc4Sm3XjWgNn) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [Cold Heart](https://open.spotify.com/album/1sqRdwXS1GfRGenRSnQRIe) | 2:21 |

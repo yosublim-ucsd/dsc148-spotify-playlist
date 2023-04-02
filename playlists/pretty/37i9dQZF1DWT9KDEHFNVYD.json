@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 8980,
+  "num_followers": 9001,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwNjQ5OCwwMDAwMDAwMGViNjhkNDVkMjJlZDgxZDM2M2I4OWQzNDg5ODQ1NTVk",
+  "snapshot_id": "MTY3OTYwNjQ5OCwwMDAwMDAwMGE0ZDFhZWNhNTNlMGVhNDM1MzkwZWFjNjI0ZTM5Mzc3",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -429,6 +429,22 @@
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Watch the Tapes",
+      "url": "https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN"
+    },
+    {
       "added_at": "2022-08-09 01:36:21",
       "album": {
         "name": "Pulse Of The Early Brain [Switched On Volume 5]",
@@ -447,22 +463,6 @@
       "duration_ms": 646683,
       "name": "Simple Headphone Mind",
       "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Watch the Tapes",
-      "url": "https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-01-25 02:05:47",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -693,20 +693,20 @@
       "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -755,22 +755,6 @@
       "duration_ms": 253746,
       "name": "Audition",
       "url": "https://open.spotify.com/track/0Qm5uQR8XL6QHlsZu53ZF7"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2022-03-29 02:06:14",
@@ -839,22 +823,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Floating Coffin",
         "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
@@ -867,6 +835,22 @@
       "duration_ms": 266120,
       "name": "No Spell",
       "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -887,18 +871,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Boxed In",
-        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Boxed In",
-          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 310040,
-      "name": "All Your Love is Gone",
-      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -915,6 +899,22 @@
       "duration_ms": 141800,
       "name": "Han-Tyumi, The Confused Cyborg",
       "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Boxed In",
+        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
+      },
+      "artists": [
+        {
+          "name": "Boxed In",
+          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "All Your Love is Gone",
+      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1213,36 +1213,20 @@
       "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
     },
     {
-      "added_at": "2022-01-20 20:59:43",
+      "added_at": "2022-03-18 05:36:55",
       "album": {
-        "name": "Ecdysis!",
-        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
       },
       "artists": [
         {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
         }
       ],
-      "duration_ms": 389869,
-      "name": "Ecdysis!",
-      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1261,20 +1245,36 @@
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
     },
     {
-      "added_at": "2022-03-18 05:36:55",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
       "artists": [
         {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
+      "added_at": "2022-01-20 20:59:43",
+      "album": {
+        "name": "Ecdysis!",
+        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 389869,
+      "name": "Ecdysis!",
+      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Motoring",
+      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
         "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
       },
@@ -1363,18 +1379,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
       "artists": [
         {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
         }
       ],
-      "duration_ms": 273906,
-      "name": "Motoring",
-      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
+      "duration_ms": 391881,
+      "name": "9",
+      "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Creatures of an Hour",
+        "url": "https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Submarine",
+      "url": "https://open.spotify.com/track/46mHT32vVGfPDqvzb38YBR"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1391,22 +1423,6 @@
       "duration_ms": 708813,
       "name": "Krautrock - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
-        }
-      ],
-      "duration_ms": 391881,
-      "name": "9",
-      "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1455,22 +1471,6 @@
       "duration_ms": 391002,
       "name": "Cassettesingle",
       "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Creatures of an Hour",
-        "url": "https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Submarine",
-      "url": "https://open.spotify.com/track/46mHT32vVGfPDqvzb38YBR"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Musik von Harmonia",
-        "url": "https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW"
-      },
-      "artists": [
-        {
-          "name": "Harmonia",
-          "url": "https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Dino",
-      "url": "https://open.spotify.com/track/4msdGxw6WCALEE00oVOf3V"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "The Power Out",
         "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Musik von Harmonia",
+        "url": "https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW"
+      },
+      "artists": [
+        {
+          "name": "Harmonia",
+          "url": "https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Dino",
+      "url": "https://open.spotify.com/track/4msdGxw6WCALEE00oVOf3V"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Proper Music",
         "url": "https://open.spotify.com/album/0Ls3mve0dhnvVFUA4w9muR"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "A World of Masks",
-        "url": "https://open.spotify.com/album/0R1du3OpntlnAoctD8EL1a"
-      },
-      "artists": [
-        {
-          "name": "The Heliocentrics",
-          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
-        }
-      ],
-      "duration_ms": 331453,
-      "name": "The Uncertainty Principle",
-      "url": "https://open.spotify.com/track/1KcoD4YKx4uydopVkBqb0Q"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Interloper",
         "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 247900,
       "name": "I'm Not Living in the Past Anymore",
       "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "A World of Masks",
+        "url": "https://open.spotify.com/album/0R1du3OpntlnAoctD8EL1a"
+      },
+      "artists": [
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "duration_ms": 331453,
+      "name": "The Uncertainty Principle",
+      "url": "https://open.spotify.com/track/1KcoD4YKx4uydopVkBqb0Q"
     },
     {
       "added_at": "2021-07-30 14:56:06",

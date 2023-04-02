@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Immasoul",
-  "num_followers": 748118,
+  "num_followers": 748078,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDA2MjQwMCwwMDAwMDAwMGI3NDFiNTEzNjMxNDE2MWRiMWRmNGYyMWMzYjg4Y2Ji",
+  "snapshot_id": "MTY4MDA2MjQwMCwwMDAwMDAwMDg0ZmE3ODllNjQzNjcxNzEwNzVkNGZhZDdkZGVhNjM5",
   "tracks": [
     {
       "added_at": "2023-03-29 04:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "ESENCIA",
         "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 222346,
       "name": "serotonina",
       "url": "https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Contraluz",
-      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 236129,
       "name": "Madres",
       "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "What Had Happened Was\u2026",
-        "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Can\u2019t Hold You Down",
-      "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Cortes Modernos",
         "url": "https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 223621,
       "name": "Cortes Modernos",
       "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "What Had Happened Was\u2026",
+        "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 159218,
+      "name": "Can\u2019t Hold You Down",
+      "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
+        "name": "Love Letters From Houston",
+        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
-        "name": "Love Letters From Houston",
-        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
+        "name": "Tatuaje",
+        "url": "https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        }
+      ],
+      "duration_ms": 186520,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
         "name": "overflow",
         "url": "https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 214000,
       "name": "\u00bfPara d\u00f3nde vamos?",
       "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
-        "name": "Tatuaje",
-        "url": "https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X"
-      },
-      "artists": [
-        {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
-        }
-      ],
-      "duration_ms": 186520,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W"
     }
   ],
   "unique_name": "Mixto",

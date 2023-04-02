@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM?si=pi0iNXwBQ8arPDZIBu3PIw">Hillsong UNITED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532,955 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533,241 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Flavio Vitor Jr.",
-  "num_followers": 291947,
+  "num_followers": 292053,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDMwMmVmYjk3OWEyZDk5MDRjNjNmZmRhYWZkYTFkOTgw",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDIzODJiZmIxYjIxYmE3MzI3MDJkZmY1YTg2OTcwZjM2",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Decididamente",
-        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
-      },
-      "artists": [
-        {
-          "name": "Cassiano Menke",
-          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
-        },
-        {
-          "name": "Walmir Alencar",
-          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Decididamente",
-      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Yeshua (feat. Eliana Ribeiro)",
         "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 287562,
       "name": "Yeshua (feat. Eliana Ribeiro)",
       "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Decididamente",
+        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Menke",
+          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
+        },
+        {
+          "name": "Walmir Alencar",
+          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Decididamente",
+      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Transgressor",
-        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "Cora\u00e7\u00e3o de Transgressor",
-      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Se Eu Tenho o Hoje",
         "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 327961,
       "name": "Se Eu Tenho o Hoje",
       "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Transgressor",
+        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "duration_ms": 250456,
+      "name": "Cora\u00e7\u00e3o de Transgressor",
+      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -479,22 +479,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vocacional Shalom 2023",
-        "url": "https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ"
+        "name": "Nada Temerei",
+        "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
       },
       "artists": [
         {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         },
         {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
         }
       ],
-      "duration_ms": 238430,
-      "name": "Com Tua M\u00e3o",
-      "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
+      "duration_ms": 286000,
+      "name": "Nada Temerei",
+      "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -531,38 +531,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Nada Temerei",
-        "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
+        "name": "Vocacional Shalom 2023",
+        "url": "https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ"
       },
       "artists": [
         {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
         },
         {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
         }
       ],
-      "duration_ms": 286000,
-      "name": "Nada Temerei",
-      "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Cantai a Deus Com Alegria 2023",
-        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 308875,
-      "name": "Louvor dos Pequenos",
-      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
+      "duration_ms": 238430,
+      "name": "Com Tua M\u00e3o",
+      "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -579,6 +563,22 @@
       "duration_ms": 287303,
       "name": "Se Eu Tocar",
       "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Cantai a Deus Com Alegria 2023",
+        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 308875,
+      "name": "Louvor dos Pequenos",
+      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -603,18 +603,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
       },
       "artists": [
         {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
         }
       ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -655,22 +659,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Inflama-Me",
-        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
       "artists": [
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
         }
       ],
-      "duration_ms": 401500,
-      "name": "Inflama-Me",
-      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -711,22 +711,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+        "name": "Inflama-Me",
+        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
       "artists": [
         {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         },
         {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+      "duration_ms": 401500,
+      "name": "Inflama-Me",
+      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -787,22 +787,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "J\u00e1 Deu Certo",
-        "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
+        "name": "M\u00e3e, Me Defende do Mal",
+        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         },
         {
-          "name": "Canthares",
-          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
         }
       ],
-      "duration_ms": 276885,
-      "name": "J\u00e1 Deu Certo",
-      "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
+      "duration_ms": 300184,
+      "name": "M\u00e3e, Me Defende do Mal",
+      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -847,22 +847,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "M\u00e3e, Me Defende do Mal",
-        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
+        "name": "J\u00e1 Deu Certo",
+        "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
       },
       "artists": [
         {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         },
         {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+          "name": "Canthares",
+          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
         }
       ],
-      "duration_ms": 300184,
-      "name": "M\u00e3e, Me Defende do Mal",
-      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
+      "duration_ms": 276885,
+      "name": "J\u00e1 Deu Certo",
+      "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -931,8 +931,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ato de Amor",
-        "url": "https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT"
+        "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B4NE3b1ck5FJhxWNg2sEf"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
         }
       ],
-      "duration_ms": 202368,
-      "name": "Ato de Amor",
-      "url": "https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4"
+      "duration_ms": 132856,
+      "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2qMgNMASU67tN6Jfa0XLaV"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1067,8 +1067,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B4NE3b1ck5FJhxWNg2sEf"
+        "name": "Ato de Amor",
+        "url": "https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT"
       },
       "artists": [
         {
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
         }
       ],
-      "duration_ms": 132856,
-      "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2qMgNMASU67tN6Jfa0XLaV"
+      "duration_ms": 202368,
+      "name": "Ato de Amor",
+      "url": "https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Lugar da Promessa",
-        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Canthares",
-          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
-        }
-      ],
-      "duration_ms": 283490,
-      "name": "Lugar da Promessa",
-      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Em Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 300000,
       "name": "Em Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Lugar da Promessa",
+        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Canthares",
+          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+        }
+      ],
+      "duration_ms": 283490,
+      "name": "Lugar da Promessa",
+      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "D\u00e1-Me de Beber",
-        "url": "https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx"
-      },
-      "artists": [
-        {
-          "name": "Talita Garcia",
-          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
-        },
-        {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "D\u00e1-Me de Beber",
-      "url": "https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Can\u00e7\u00e3o de amor fraterno",
         "url": "https://open.spotify.com/album/6TI8JrepJxlaxxFIZgQjCu"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 272670,
       "name": "Can\u00e7\u00e3o de amor fraterno",
       "url": "https://open.spotify.com/track/36FpzYhMHTFwdXBwC5CoAj"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "D\u00e1-Me de Beber",
+        "url": "https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx"
+      },
+      "artists": [
+        {
+          "name": "Talita Garcia",
+          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
+        },
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "D\u00e1-Me de Beber",
+      "url": "https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ"
     },
     {
       "added_at": "2023-03-24 03:00:00",

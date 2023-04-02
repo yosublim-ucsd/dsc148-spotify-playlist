@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Loreen
 
-93 songs - 4 hr 27 min
+94 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 | 2023-03-28 |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-20 |  |
 | [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-03-02 |  |
-| [De Nacht](https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn) | 2:30 | 2023-03-27 |  |
+| [De Nacht](https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII) | 2:30 | 2023-03-30 |  |
+| [De Nacht](https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn) | 2:30 | 2023-03-27 | 2023-04-02 |
 | [Der Af \(Oya Lélé\)](https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Der Af \(Oya Lélé\)](https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD) | 2:26 | 2023-02-23 | 2023-03-28 |
 | [Deze Is Down \(feat\. Alessio\)](https://open.spotify.com/track/20cjwvKsa3aHrG6redo3xl) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj) | [Deze Is Down \(feat\. Alessio\)](https://open.spotify.com/album/5utViPOWp7hDineXZiLZxy) | 2:16 | 2023-02-23 | 2023-03-21 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-27 | 2023-03-28 |

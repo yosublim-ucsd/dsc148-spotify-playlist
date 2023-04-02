@@ -3881,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "album": {
         "name": "LAST ALBUM",
         "url": "https://open.spotify.com/album/7v1KuejMMyXdjw1GvPsG6v"
       },
@@ -4241,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "Ima no Futari o Otagai ga Miteru",
+        "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316440,
+      "name": "Tabeta Ai",
+      "url": "https://open.spotify.com/track/3EPScz3jhncxN4vZOiIKTz"
+    },
+    {
+      "album": {
         "name": "Tabeta Ai / Atashi Tachi",
         "url": "https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL"
       },
@@ -4252,7 +4288,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 316458,
       "name": "Tabeta Ai",
       "url": "https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I"
@@ -5116,7 +5152,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 230906,
       "name": "You Never Visit Me - Single Version",
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"

@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 307657,
+  "num_followers": 307743,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk4MjY2OCwwMDAwMDAwMGExMTEwNjczZWIwMjkwYWRhYzlkZWYwYTAxOWYwYTVl",
+  "snapshot_id": "MTY3OTk4MjY2OCwwMDAwMDAwMDgwNWRhMmYxMDU2NzYwNGQ0OTYyNDk2MjA4MGEyYTg0",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Living Room Songs",
-        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 208589,
-      "name": "Near Light",
-      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Shadow Work",
         "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 87341,
       "name": "Being Here",
       "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Living Room Songs",
+        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 208589,
+      "name": "Near Light",
+      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
     },
     {
       "added_at": "2022-03-11 05:43:48",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Gelis",
-        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
-      },
-      "artists": [
-        {
-          "name": "Flako",
-          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Gelis",
-      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Space 1.8",
@@ -455,6 +439,22 @@
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
+    },
+    {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Gelis",
+        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
+      },
+      "artists": [
+        {
+          "name": "Flako",
+          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Gelis",
+      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
     },
     {
       "added_at": "2022-09-30 02:45:34",
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v"
     },
     {
-      "added_at": "2023-04-01 01:17:52",
+      "added_at": "2023-04-02 00:36:39",
       "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/6CuNkx8H00E0nMAauEN4R4"
@@ -559,18 +559,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Waende",
-        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
       "artists": [
         {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
         }
       ],
-      "duration_ms": 232742,
-      "name": "Waende",
-      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+        "name": "Waende",
+        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
       },
       "artists": [
         {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+      "duration_ms": 232742,
+      "name": "Waende",
+      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
     },
     {
+      "added_at": "2022-12-20 19:24:22",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Broken Hearted Kota",
@@ -705,20 +721,20 @@
       "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
     },
     {
-      "added_at": "2022-12-20 19:24:22",
+      "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "Coconut Mango",
+        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Arrangement",
+          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
         }
       ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+      "duration_ms": 325489,
+      "name": "Coconut Mango",
+      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -739,18 +755,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Coconut Mango",
-        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
+        "name": "Pipopapipo",
+        "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
       },
       "artists": [
         {
-          "name": "Arrangement",
-          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
         }
       ],
-      "duration_ms": 325489,
-      "name": "Coconut Mango",
-      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -767,22 +783,6 @@
       "duration_ms": 121856,
       "name": "Mechanical Advantage",
       "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Pipopapipo",
-        "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
-      },
-      "artists": [
-        {
-          "name": "Dewey Martino",
-          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Pipopapipo",
-      "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
     },
     {
       "added_at": "2022-08-03 03:05:22",
@@ -819,18 +819,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Introspection (Edit)",
-        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh"
       },
       "artists": [
         {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
         }
       ],
-      "duration_ms": 155411,
-      "name": "Introspection - Edit",
-      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
+      "duration_ms": 242624,
+      "name": "Hypnagogia",
+      "url": "https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z"
     }
   ],
   "unique_name": "Deep Listening",

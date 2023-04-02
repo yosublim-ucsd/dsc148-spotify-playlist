@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 173522,
+  "num_followers": 173548,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGM2ZTNmNmJiN2VkZDc2MjczMGNiYzlmYTI3YTcyZDll",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDQ4NWRmOGUzNWYyMjNiYTNmZjQ5NmRiZjBkZGVjOTcx",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -611,6 +611,38 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "RTJ4",
+        "url": "https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd"
+      },
+      "artists": [
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
+      "url": "https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -643,38 +675,6 @@
       "duration_ms": 281626,
       "name": "The Doomed",
       "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "RTJ4",
-        "url": "https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd"
-      },
-      "artists": [
-        {
-          "name": "Run The Jewels",
-          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
-      "url": "https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh"
     },
     {
       "added_at": "2022-11-04 04:00:00",

@@ -4,7 +4,7 @@
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-151 songs - 10 hr 40 min
+152 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,9 +105,10 @@
 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Éxitos De Yoskar Sarante](https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0) | 4:00 | 2022-01-01 |  |
 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 | 2022-01-01 |  |
 | [Odio \(feat\. Drake\)](https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:45 | 2022-01-01 |  |
-| [Pena Por Ti](https://open.spotify.com/track/1HX2dU4tr8PfvS648S0Xtz) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Linea Clásica Bachata Pura, Vol\. 1](https://open.spotify.com/album/2P13LqWz1UsLyIO8wL1Yyq) | 2:57 | 2023-02-02 |  |
+| [Pena Por Ti](https://open.spotify.com/track/1HX2dU4tr8PfvS648S0Xtz) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Linea Clásica Bachata Pura, Vol\. 1](https://open.spotify.com/album/2P13LqWz1UsLyIO8wL1Yyq) | 2:57 | 2023-02-02 | 2023-04-02 |
 | [Pena Por Ti](https://open.spotify.com/track/7lNGtKmnHaxotSKonqiSVl) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Linea Clasica Bachata Pura Vol\. 1](https://open.spotify.com/album/5FSAux1ZgvZsGSR9nX1zRO) | 2:57 | 2022-01-01 | 2022-06-15 |
 | [Pena por Ti](https://open.spotify.com/track/1qFnIBb3QdDk4jGSCH1XuU) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Pena por Ti](https://open.spotify.com/album/1tPHPcNsAIv964pIckYABR) | 2:58 | 2022-01-01 | 2022-07-08 |
+| [Pena Por Tí](https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Pena Por Tí](https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl) | 2:58 | 2023-03-17 |  |
 | [Perdido](https://open.spotify.com/track/18tS6OYnEJfHWokX62T322) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 4:05 | 2022-01-01 |  |
 | [Perdido](https://open.spotify.com/track/6Wxa8i0xhEqvbqqoxjSQwW) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Éxitos De Yoskar Sarante](https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0) | 4:06 | 2022-01-01 | 2022-07-20 |
 | [Perdoname](https://open.spotify.com/track/3CWgv82JBVeL9KX48BNLmb) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata A Su Tiempo](https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK) | 4:14 | 2022-01-01 | 2022-02-25 |

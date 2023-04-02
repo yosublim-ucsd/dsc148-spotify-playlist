@@ -1,13 +1,49 @@
 {
   "description": "Top Sharqi hits right now. Cover: Ziad Bourji.",
-  "num_followers": 49022,
+  "num_followers": 49036,
   "original_name": "Top Sharqi Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ5MTg2NywwMDAwMDAwMDNkMGY5MzI5MzA2OTliZDE5MzM5OTE2ZjVlNDc3OWI3",
+  "snapshot_id": "MTY4MDM5ODIxMCwwMDAwMDAwMGE2YzdlZjU4ZGY4ZjE0Y2E5NTM5ODJkZTAxODJiZDQ2",
   "tracks": [
+    {
+      "added_at": "2023-03-22 13:31:07",
+      "album": {
+        "name": "Shou Badi 3ed Bzalat",
+        "url": "https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5"
+      },
+      "artists": [
+        {
+          "name": "Mohanad Zaiter",
+          "url": "https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq"
+        },
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Shou Badi 3ed Bzalat",
+      "url": "https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr"
+    },
+    {
+      "added_at": "2023-03-22 13:31:07",
+      "album": {
+        "name": "Rabeh Marra",
+        "url": "https://open.spotify.com/album/27vkEvWoYEgBJr8h1TU6XG"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Rabeh Marra",
+      "url": "https://open.spotify.com/track/52GPNk23IUBh5AZ8Jo43xm"
+    },
     {
       "added_at": "2023-03-22 13:31:07",
       "album": {
@@ -79,22 +115,6 @@
     {
       "added_at": "2023-03-22 13:31:07",
       "album": {
-        "name": "Rabeh Marra",
-        "url": "https://open.spotify.com/album/27vkEvWoYEgBJr8h1TU6XG"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Rabeh Marra",
-      "url": "https://open.spotify.com/track/52GPNk23IUBh5AZ8Jo43xm"
-    },
-    {
-      "added_at": "2023-03-22 13:31:07",
-      "album": {
         "name": "Golden Album",
         "url": "https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D"
       },
@@ -107,42 +127,6 @@
       "duration_ms": 307500,
       "name": "Sa Assiru Yawman",
       "url": "https://open.spotify.com/track/0iIQDfnA9g58xIQiaDtPg2"
-    },
-    {
-      "added_at": "2023-03-22 13:31:07",
-      "album": {
-        "name": "Golden Album",
-        "url": "https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D"
-      },
-      "artists": [
-        {
-          "name": "Carole Samaha",
-          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
-        }
-      ],
-      "duration_ms": 196764,
-      "name": "Sa Ahlomu",
-      "url": "https://open.spotify.com/track/1HSnooSIVUi7P2x9qWIQm0"
-    },
-    {
-      "added_at": "2023-03-22 13:31:07",
-      "album": {
-        "name": "Shou Badi 3ed Bzalat",
-        "url": "https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5"
-      },
-      "artists": [
-        {
-          "name": "Mohanad Zaiter",
-          "url": "https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq"
-        },
-        {
-          "name": "AL SHAMI",
-          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Shou Badi 3ed Bzalat",
-      "url": "https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr"
     },
     {
       "added_at": "2023-03-22 13:31:07",
@@ -684,7 +668,7 @@
       "added_at": "2023-03-22 13:31:07",
       "album": {
         "name": "Lesatni Janbi",
-        "url": "https://open.spotify.com/album/01MxqvhWMbLvIi3OLtSNYj"
+        "url": "https://open.spotify.com/album/2E0LB1TU3vUSuveGhyrjgH"
       },
       "artists": [
         {
@@ -694,7 +678,7 @@
       ],
       "duration_ms": 258151,
       "name": "Lesatni Janbi",
-      "url": "https://open.spotify.com/track/2bzUNpvOeOKMZqPI6B3sns"
+      "url": "https://open.spotify.com/track/5YXQtuKZuWJbdEqwT7IVbI"
     },
     {
       "added_at": "2023-03-22 13:31:07",

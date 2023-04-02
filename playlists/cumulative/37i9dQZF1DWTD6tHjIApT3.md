@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-1,226 songs - 3 day 8 hr 6 min
+1,227 songs - 3 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [CHRONIC \- English Ver.](https://open.spotify.com/track/4Ez8s65YfHOjwWt3hEQ3ae) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [CHRONIC \(English Ver.\)](https://open.spotify.com/album/02MdWL0yAqB7CiipI4f3m2) | 3:14 | 2023-02-23 | 2023-03-01 |
 | [Cinderella](https://open.spotify.com/track/3X5C1Q3V5dIsIKq2Duj0PK) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/5OSFxPHnLpbNav9WmFU9VK) | 4:35 | 2023-01-12 | 2023-02-15 |
 | [Cinderella](https://open.spotify.com/track/6Q0YiUGPwMRmxsEZ6RX3q1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/1lQXrm4sRmiUupOokQ6Sgh) | 4:35 | 2023-01-12 | 2023-01-14 |
-| [Circle](https://open.spotify.com/track/54cKGQsQZN5SYdK3C4Npxw) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Circle](https://open.spotify.com/album/6uaQc25boGfgpNK38CEZwN) | 4:32 | 2023-02-07 |  |
+| [Circle](https://open.spotify.com/track/54cKGQsQZN5SYdK3C4Npxw) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Circle](https://open.spotify.com/album/6uaQc25boGfgpNK38CEZwN) | 4:32 | 2023-02-07 | 2023-04-02 |
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-23 |
 | [CITY LIFE](https://open.spotify.com/track/1bfky1ySIKHaornviiF6mW) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [CITY LIFE](https://open.spotify.com/album/6ofDypKApQAyvLBPrIIrbc) | 3:55 | 2022-07-26 | 2022-08-03 |
 | [close to you](https://open.spotify.com/track/6vNB1Ifizvcv6d04fZKoiZ) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [close to you](https://open.spotify.com/album/3QLKhb3MrJ4xLrRHMR5ioy) | 3:56 | 2022-05-29 | 2022-07-29 |
@@ -369,7 +369,7 @@
 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 | 2022-06-07 | 2022-08-11 |
 | [Lovin' time](https://open.spotify.com/track/0KQWGzw2zrJXrqqWTftJF1) | [南条采良](https://open.spotify.com/artist/5mTcbbKdzfbWwb45fx9xYG) | [Lovin' time](https://open.spotify.com/album/25cUgpem6lKrCg6G8TwkrJ) | 3:19 | 2022-06-25 | 2022-06-30 |
 | [Lucky feat.VivaOla](https://open.spotify.com/track/7Jdrn1vwz1upvs6dRl5TC9) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Lucky feat.VivaOla](https://open.spotify.com/album/4AG6qN7Qm9sDxLfZQLjKXW) | 3:18 | 2022-06-16 | 2022-07-20 |
-| [lullaby](https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [lullaby](https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ) | 3:32 | 2022-06-16 | 2023-03-29 |
+| [lullaby](https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [lullaby](https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ) | 3:32 | 2022-06-16 |  |
 | [Lunchtime Lover](https://open.spotify.com/track/0voYtFLM5Yr6ME6Wbfi0Eb) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Warui Onna EP](https://open.spotify.com/album/2EShlVYZ57EYvpFGrKQTdj) | 3:39 | 2022-07-28 | 2022-08-03 |
 | [Lycoris](https://open.spotify.com/track/0r8tGHTLV1XdNTNjrOhSg8) | [THE SxPLAY](https://open.spotify.com/artist/3buTqojSELwUcO2apjmpVi) | [Lycoris](https://open.spotify.com/album/6A7nUQ1vGlsz82s7bN1K0M) | 2:48 | 2022-05-29 | 2022-06-24 |
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-11-29 | 2023-02-22 |
@@ -588,7 +588,8 @@
 | [Sweet Escape \- feat\. RAENE](https://open.spotify.com/track/6O4hhUbrwqobHXPNb0xmJK) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [Sweet Escape \(feat\. RAENE\)](https://open.spotify.com/album/3qhwaCo1QY2898oye3nAtj) | 3:25 | 2023-03-16 | 2023-03-22 |
 | [Sweet Impact \- The Greatest Ver.](https://open.spotify.com/track/5h7oS1pmpvvEghGMMB4Kgx) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Sweet Impact \(The Greatest Ver.\)](https://open.spotify.com/album/3p5tbMMENw5CaJYGGF3bwv) | 5:09 | 2022-05-31 | 2022-06-24 |
 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 | 2022-07-28 | 2023-02-14 |
-| [Tabeta Ai](https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Tabeta Ai / Atashi Tachi](https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL) | 5:16 | 2023-03-28 |  |
+| [Tabeta Ai](https://open.spotify.com/track/3EPScz3jhncxN4vZOiIKTz) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 5:16 | 2023-03-30 |  |
+| [Tabeta Ai](https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Tabeta Ai / Atashi Tachi](https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL) | 5:16 | 2023-03-28 | 2023-04-02 |
 | [Take My Chance](https://open.spotify.com/track/2GVX6HsiD6iuODag1DwpDy) | [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [tella](https://open.spotify.com/artist/5M5fYuVOhthE9itACmSFT4), [AOBA](https://open.spotify.com/artist/45fMjdlelpJvuhXpExanRO) | [Their story](https://open.spotify.com/album/3FqK17tq9ABeovAl5LmFw8) | 3:40 | 2022-11-29 | 2022-12-07 |
 | [Talk with God](https://open.spotify.com/track/6tQYNYnX51EC6DaqKDY3Vg) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [Talk with God](https://open.spotify.com/album/1Jw995Si290dMoqzktm9Ex) | 3:30 | 2022-06-02 | 2022-07-06 |
 | [tasty tasks](https://open.spotify.com/track/3HQ7aHzoLMlbjtYW8rUPGN) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [pool mood / tasty tasks / 息を吸う ここで吸う 生きてく](https://open.spotify.com/album/6IL2lsyn0niP1eZyoLV5lz) | 4:07 | 2022-06-02 | 2022-06-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 254675,
+  "num_followers": 254811,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGI1MWE3MWRjOGRmYjY1MDYwMWQyMTM1MjhmNDIyODI4",
+  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMDE0ODU2YTJhOTkxN2Y2YmJkZGJmYWZhZDk1MzM4YTA4",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Ya Kidding",
-        "url": "https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Ya Kidding",
-      "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Panic Room",
         "url": "https://open.spotify.com/album/0I1FZLxw8XWEwQMLMAlTkp"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 214482,
       "name": "Panic Room",
       "url": "https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Ya Kidding",
+        "url": "https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Ya Kidding",
+      "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Coma Cat",
-        "url": "https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 177621,
-      "name": "Coma Cat",
-      "url": "https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Solitary Daze",
         "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 463405,
       "name": "Solitary Daze",
       "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Coma Cat",
+        "url": "https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Coma Cat",
+      "url": "https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f"
     },
     {
       "added_at": "2020-11-06 16:59:04",

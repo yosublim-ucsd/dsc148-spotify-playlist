@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Kasablanca
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,801 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,813 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 54 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
 | 55 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
 | 56 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 |
-| 57 | [Insight](https://open.spotify.com/track/1TmCCPrOJjyByclYIHr5mC) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Nate Stein](https://open.spotify.com/artist/4m5zi18W8tjVpadJrQKKMw) | [Insight](https://open.spotify.com/album/7HMs8tD3rGT2b6GpyGxE1b) | 3:05 |
+| 57 | [Insight](https://open.spotify.com/track/1TmCCPrOJjyByclYIHr5mC) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn) | [Insight](https://open.spotify.com/album/7HMs8tD3rGT2b6GpyGxE1b) | 3:05 |
 | 58 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
 | 59 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 | 60 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 62 | [Lose It](https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Lose It](https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom) | 4:51 |
 | 63 | [Luv Me A Little](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Luv Me A Little](https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId) | 3:44 |
 | 64 | [MADLY](https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:09 |
-| 65 | [Counterfeit Love](https://open.spotify.com/track/3YJnWvCpMM4t1VIrsXirDs) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Counterfeit Love](https://open.spotify.com/album/3JlAEbySAUjwcssIZQRvZY) | 3:27 |
+| 65 | [Counterfeit Love](https://open.spotify.com/track/4tP3Nn5XDbDUlSY2BH87Ky) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Counterfeit Love](https://open.spotify.com/album/69BqqXyTKAe79iYQHgekD0) | 3:27 |
 | 66 | [Weightless](https://open.spotify.com/track/1BX9C8u8C9kKYkPgjKUKwy) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Weightless](https://open.spotify.com/album/0Cooxxp3LNfSRLdpGENkdg) | 2:51 |
 | 67 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 |
 | 68 | [What Girls Do](https://open.spotify.com/track/7CuzpBiRnXYg1GoK8HJjYt) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What Girls Do](https://open.spotify.com/album/2OtdTo1M2HefYrtYZznKjj) | 3:13 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 84 | [Wayside](https://open.spotify.com/track/48IVW1WGlFeJ1USJAa9Y8t) | [Freddie Future](https://open.spotify.com/artist/3TvOtMsG1MPfCem7PyZLXu) | [Loving You](https://open.spotify.com/album/1agmfX6VpIe2ZAxFEBJyBl) | 3:07 |
 | 85 | [Rhythm](https://open.spotify.com/track/1nga9f11uUQS6mSz427Jrz) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Rhythm](https://open.spotify.com/album/0HbPiygzxaLpx6ba5Lb1QW) | 2:32 |
 
-Snapshot ID: `MTY4MDI3MDE4NSwwMDAwMDAwMGMwMWRjMGQ4MTk1Y2I3MzhmOTJiOGJlNGMxNWI4OTZh`
+Snapshot ID: `MTY4MDI3MDE4NSwwMDAwMDAwMDlhZmU2ZTM2ZGYwOTA3M2Q3M2NjYmRkZGU1NWQ5MmYw`

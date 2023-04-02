@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 345147,
+  "num_followers": 345292,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDg4MTYwZjgzZGM2YmJkNDMwNTQ2N2JhMTExZjk2Njhj",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGNmZGM1YTI2ZjZiNzYxZjYzMzRjMmEyNWNlNDcxNWQ0",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 133866,
-      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
+      "duration_ms": 138640,
+      "name": "He'll Have to Go",
+      "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 138640,
-      "name": "He'll Have to Go",
-      "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
+      "duration_ms": 133866,
+      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "RCA Country Legends",
-        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
-      },
-      "artists": [
-        {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
-        }
-      ],
-      "duration_ms": 141466,
-      "name": "Please Help Me, I'm Falling",
-      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Prison",
         "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 186800,
       "name": "Branded Man - Remastered",
       "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "duration_ms": 141466,
+      "name": "Please Help Me, I'm Falling",
+      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "The Bottle Let Me Down",
-      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
         "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
       },
       "artists": [
         {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 134786,
-      "name": "Just Between You and Me",
-      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
+      "duration_ms": 168466,
+      "name": "The Bottle Let Me Down",
+      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 146133,
       "name": "(That's What You Get) For Lovin' Me",
       "url": "https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 134786,
+      "name": "Just Between You and Me",
+      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Columbia Country Classics Volume 3: Americana",
-        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
       "artists": [
         {
-          "name": "Claude King",
-          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 177573,
-      "name": "Wolverton Mountain",
-      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
+      "duration_ms": 148000,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Columbia Country Classics Volume 3: Americana",
+        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
+      },
+      "artists": [
+        {
+          "name": "Claude King",
+          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Wolverton Mountain",
+      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 177333,
       "name": "The Image of Me",
       "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
+      },
+      "artists": [
+        {
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "A Six Pack To Go",
+      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 192946,
       "name": "The Cold Hard Facts of Life",
       "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
-      },
-      "artists": [
-        {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "A Six Pack To Go",
-      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Sings His Best",
-        "url": "https://open.spotify.com/album/5T41fC09ilKmDfREcWeQrW"
+        "name": "Son Of The South",
+        "url": "https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8"
       },
       "artists": [
         {
-          "name": "Jack Greene",
-          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
+          "name": "Del Reeves",
+          "url": "https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e"
         }
       ],
-      "duration_ms": 172760,
-      "name": "Statue Of A Fool",
-      "url": "https://open.spotify.com/track/6mYIZzGhfj9z1TJNL6ZhYh"
+      "duration_ms": 157000,
+      "name": "Girl On The Billboard",
+      "url": "https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4"
     }
   ],
   "unique_name": "60s Country",

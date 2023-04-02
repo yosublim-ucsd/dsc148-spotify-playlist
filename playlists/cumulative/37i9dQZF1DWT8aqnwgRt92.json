@@ -966,7 +966,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 247998,
       "name": "Changemaker",
       "url": "https://open.spotify.com/track/5ijkSGBaj3zkVDKi5Nzs7r"
@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/6qe4u576emFA48psNmvU4e"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181508,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/60P9cFDj9TMUZpiUc0O1Rm"
+    },
+    {
+      "album": {
         "name": "FRIENDS (from \"\u6c38\u4e45\u5c11\u5e74 Eternal Boys\")",
         "url": "https://open.spotify.com/album/2rcdKb5IEzwFT0BpzzflwZ"
       },
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 229720,
       "name": "Here I Stand",
       "url": "https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA"
@@ -2700,6 +2718,24 @@
       "duration_ms": 242097,
       "name": "infinite Resonance",
       "url": "https://open.spotify.com/track/4CBD4tn1O6D7nGEGMBnSmX"
+    },
+    {
+      "album": {
+        "name": "innocent arrogance",
+        "url": "https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211911,
+      "name": "innocent arrogance",
+      "url": "https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg"
     },
     {
       "album": {
@@ -3972,6 +4008,24 @@
       "duration_ms": 290400,
       "name": "NEVER SAY GOODBYE",
       "url": "https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg"
+    },
+    {
+      "album": {
+        "name": "Never say Never",
+        "url": "https://open.spotify.com/album/5Egx4Cohqf80LfIy5GpIk6"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265160,
+      "name": "Never say Never",
+      "url": "https://open.spotify.com/track/308ljVGdTUoIJZTtceMFd0"
     },
     {
       "album": {
@@ -6022,7 +6076,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 214493,
       "name": "\u2103",
       "url": "https://open.spotify.com/track/0Ak4R2wHWIv49cCKBeHZi0"
@@ -6244,6 +6298,28 @@
       "duration_ms": 176915,
       "name": "\u304f\u3089\u3048!\u30c6\u30ec\u30d1\u30b7\u30fc",
       "url": "https://open.spotify.com/track/7Jj6eiasbU7LVPXqZKBaNf"
+    },
+    {
+      "album": {
+        "name": "\u3050\u3089\u3067\u30fc\u3057\u3087\u3093",
+        "url": "https://open.spotify.com/album/1YF3kyuNc1dpRorHlxqRu1"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        },
+        {
+          "name": "\u5317\u6fa4\u3086\u3046\u307b",
+          "url": "https://open.spotify.com/artist/16GairTgKufSywJwInf6O7"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197944,
+      "name": "\u3050\u3089\u3067\u30fc\u3057\u3087\u3093",
+      "url": "https://open.spotify.com/track/7a0XxV7vR9HwvbdhwQ5KSE"
     },
     {
       "album": {
@@ -7628,7 +7704,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 232900,
       "name": "\u30c9\u30e9\u30e0\u5f0f\u63a2\u67fb\u6a5f",
       "url": "https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca"
@@ -8148,6 +8224,24 @@
       "duration_ms": 228133,
       "name": "\u30ea\u30e9\u30a4\u30c8 - from CrosSing",
       "url": "https://open.spotify.com/track/4K02Qepi2R08uz15q50vos"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30f3\u30cd",
+        "url": "https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "\u30ea\u30f3\u30cd",
+      "url": "https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy"
     },
     {
       "album": {
@@ -9710,7 +9804,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 217680,
       "name": "\u71b1\u98a8\u306f\u6d41\u8ee2\u3059\u308b",
       "url": "https://open.spotify.com/track/3B67pEQ2QiBIzh8iK6lCsk"

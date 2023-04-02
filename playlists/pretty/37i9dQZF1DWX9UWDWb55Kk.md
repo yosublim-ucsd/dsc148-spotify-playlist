@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,470 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,529 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,7 +296,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 286 | [Crush on You](https://open.spotify.com/track/5gMbKu3MWoXNR3fXwNG3V8) | [Brigitte Laverne](https://open.spotify.com/artist/7izngL0eNHQmTmeNgwrMSx) | [Wasted](https://open.spotify.com/album/0wLz4xS7pwBTjngM0ReyZI) | 3:48 |
 | 287 | [Now You're a Home \(feat\. Ruuth\)](https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:42 |
 | 288 | [Take My Time](https://open.spotify.com/track/5ooWGAzXs3fU7eKHCrwZyd) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Life & Love](https://open.spotify.com/album/4XUQIBFGgxMSlkMZzjNWpj) | 3:03 |
-| 289 | [Ya Lili](https://open.spotify.com/track/0rl99X2LTXz2Ot7u0qEujP) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Ya Lili](https://open.spotify.com/album/3ZMrAHHAi5kBze92L80mSH) | 3:20 |
+| 289 | [Ya Lili](https://open.spotify.com/track/31LwJUNoX6cmxtbwCtGiND) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Ya Lili](https://open.spotify.com/album/1MuXKQqzUGBvATkE02DyNI) | 3:20 |
 | 290 | [Alright](https://open.spotify.com/track/4twn74u477hG5PlKmwl2hO) | [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Alright](https://open.spotify.com/album/5kS03UfZL4mr602XkFiEBN) | 3:58 |
 | 291 | [Like You Know You're Alive](https://open.spotify.com/track/3PC4DDy7nf2XhQ4lQUdZlx) | [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN), [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx) | [Trust Issues](https://open.spotify.com/album/0huOF8RkzDHWHCCBXiAiRj) | 3:09 |
 | 292 | [This Ain't No Hymn](https://open.spotify.com/track/57UHWDFh9xKx5XyXIBiHj5) | [Saint Saviour](https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy) | [Union](https://open.spotify.com/album/65Rx2LxCXuT3XhRnTc6TQL) | 4:22 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MTY3NjQ4MjgyOCwwMDAwMDAwMDNkZmIzY2QyZDA5ZmZlZDdlMzVmYTk0ZTE0NDUxMjUx`
+Snapshot ID: `MTY3NjQ4MjgyOCwwMDAwMDAwMDdiOGQzYzdhZTRmZGFiZWM1N2Q1MmJhNWUzNzA5YTQ1`

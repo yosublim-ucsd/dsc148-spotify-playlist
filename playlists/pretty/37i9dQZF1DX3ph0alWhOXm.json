@@ -1,28 +1,28 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 145248,
+  "num_followers": 145320,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODk0MywwMDAwMDAwMGM3NWY2NGJlY2U2NDA1YzcwMDFkYTY2OWI4Y2NkNmZi",
+  "snapshot_id": "MTY3NDA3ODk0MywwMDAwMDAwMDAxY2Q0NGU2ZmRiZTJjMzZjMWNhMGU2MGJkZDkxNGZi",
   "tracks": [
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
       "added_at": "2023-01-18 21:55:43",
@@ -47,18 +47,18 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 293293,
-      "name": "Tennessee Whiskey",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2023-01-18 21:55:43",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
+    },
+    {
+      "added_at": "2023-01-18 21:55:43",
+      "album": {
         "name": "34 Number Ones",
         "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 230133,
       "name": "It's Five O'Clock Somewhere (with Jimmy Buffett)",
       "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
-    },
-    {
-      "added_at": "2023-01-18 21:55:43",
-      "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2023-01-18 21:55:43",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "Bottoms Up",
-      "url": "https://open.spotify.com/track/477pWnF7WFWb9Qs6g8rs4J"
-    },
-    {
-      "added_at": "2023-01-18 21:55:43",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 191253,
       "name": "Am I The Only One",
       "url": "https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ"
+    },
+    {
+      "added_at": "2023-01-18 21:55:43",
+      "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "Bottoms Up",
+      "url": "https://open.spotify.com/track/477pWnF7WFWb9Qs6g8rs4J"
     },
     {
       "added_at": "2023-01-18 21:55:43",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "Slow Down Sunrise",
-        "url": "https://open.spotify.com/album/4sU7v920pDs01u7d8f6sSg"
-      },
-      "artists": [
-        {
-          "name": "Ryan Griffin",
-          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Salt, Lime & Tequila",
-      "url": "https://open.spotify.com/track/4BGvTMV2DIwIa4ixT37fnG"
-    },
-    {
-      "added_at": "2023-01-18 21:55:43",
-      "album": {
         "name": "Telling All My Secrets",
         "url": "https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 186600,
       "name": "Alcohol You Later",
       "url": "https://open.spotify.com/track/5SO7pvSFiXwU0e1z7C4X7H"
+    },
+    {
+      "added_at": "2023-01-18 21:55:43",
+      "album": {
+        "name": "Slow Down Sunrise",
+        "url": "https://open.spotify.com/album/4sU7v920pDs01u7d8f6sSg"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "Salt, Lime & Tequila",
+      "url": "https://open.spotify.com/track/4BGvTMV2DIwIa4ixT37fnG"
     },
     {
       "added_at": "2023-01-18 21:55:43",

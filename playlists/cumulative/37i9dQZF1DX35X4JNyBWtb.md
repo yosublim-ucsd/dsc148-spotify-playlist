@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-379 songs - 19 hr 56 min
+380 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-06-17 |  |
 | [Pure Grinding \- iSHi Remix](https://open.spotify.com/track/4NWrFSufg9qZRIcxjM8C7w) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [iSHi](https://open.spotify.com/artist/6Dy7Ex5zlTLgXbsB92rPji) | [Pure Grinding \(iSHi Remix\)](https://open.spotify.com/album/7KohAMQl7ppQIY0le9ygrY) | 3:26 | 2021-12-16 | 2022-06-29 |
 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-03-06 | 2023-04-01 |
+| [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-03-06 |  |
 | [Put Your Hands Up For Detroit \- Radio Edit](https://open.spotify.com/track/4ktcqIPjAi7eIZOayEp2UJ) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/5JfZVqINVo6gAe9ik4D28v) | 2:30 | 2022-03-15 | 2022-04-20 |
 | [Quechua](https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Quechua](https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq) | 2:59 | 2022-01-05 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-12-16 |  |
@@ -333,7 +334,7 @@
 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 | 2022-06-17 |  |
 | [Sweet Nothing \(feat\. Florence Welch\)](https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:32 | 2022-03-15 | 2022-03-30 |
 | [Swish Swish \- Valentino Khan Remix](https://open.spotify.com/track/60jMCb9jnlhICNbD3wqmGR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Swish Swish \(Valentino Khan Remix\)](https://open.spotify.com/album/4nBHxbpFjEtPuxif8qf7pv) | 3:20 | 2021-12-16 | 2022-07-22 |
-| [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx) | 3:26 | 2022-06-17 |  |
+| [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx) | 3:26 | 2022-06-17 | 2023-04-02 |
 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/7L59vVTpoS94JU3KEeolqt) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X) | 3:26 | 2022-03-15 | 2022-04-21 |
 | [Take Me Home \- Tiësto Remix](https://open.spotify.com/track/5aO8NoVDDUOkxWtv4lS5oM) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Take Me Home \(Tiësto Remix\)](https://open.spotify.com/album/5AP7Y4s7UmBqc4E7BGLEq8) | 5:15 | 2021-12-16 | 2022-04-20 |
 | [Take My Breath Away](https://open.spotify.com/track/5iAfLe0T0yRIYbL2v58Mzv) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Take My Breath Away](https://open.spotify.com/album/30EbNBBriMXKYEG54aL8nr) | 3:08 | 2022-03-15 | 2022-04-21 |

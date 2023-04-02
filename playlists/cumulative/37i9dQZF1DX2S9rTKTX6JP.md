@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-283 songs - 18 hr 22 min
+284 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Crazy](https://open.spotify.com/track/0jh3Rey2X3m5DOHiRGGGCM) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Crazy](https://open.spotify.com/album/31VU7DWHqZ3kqutbuZD6ZW) | 4:38 | 2022-03-25 | 2022-11-26 |
 | [Creep](https://open.spotify.com/track/7qhX4rQE1Z7YndaF6SBwPs) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9) | [Episode I](https://open.spotify.com/album/3RrQW08C8THSayARHysvOU) | 3:21 | 2020-12-16 | 2022-04-20 |
 | [Dancing On My Own](https://open.spotify.com/track/23WqyY1EGAKBG8Wms2bFp2) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Dancing On My Own](https://open.spotify.com/album/7gEOv7G4cnqH0FJ0iucRoN) | 3:17 | 2022-03-25 | 2022-04-20 |
+| [Dancing on My Own](https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Dancing on My Own](https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa) | 3:29 | 2023-03-24 |  |
 | [Dancing With Myself](https://open.spotify.com/track/19X7O2SlQNMkiJEjVYN6ts) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Loose Change \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7opMW41JT9bEA2cqXTnjTb) | 2:56 | 2020-12-16 | 2022-07-29 |
 | [DAUGHTER](https://open.spotify.com/track/4Ql0ZO2DCvJjl7oeIjpOFc) | [Nancy Wilson](https://open.spotify.com/artist/5gnpB90GzUR1gXpse5Kl4R) | [YOU AND ME](https://open.spotify.com/album/7FZWS8iI3l3KZnGYLHDgWJ) | 3:39 | 2022-03-25 | 2022-04-19 |
 | [DJ Got Us Fallin in Love](https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To) | [Her Bright Skies](https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI) | [DJ Got Us Fallin in Love](https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL) | 3:35 | 2022-03-25 | 2022-11-26 |
@@ -271,7 +272,7 @@
 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 | 2022-03-25 |  |
 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 | 2020-12-16 |  |
 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 | 2020-12-16 |  |
-| [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 | 2020-12-16 |  |
+| [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 | 2020-12-16 | 2023-04-02 |
 | [What a Wonderful World](https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5) | 2:23 | 2022-06-17 |  |
 | [What a Wonderful World](https://open.spotify.com/track/5UvspVN88FScdaUjfcIfhD) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/3yYqXOqczAfP6mDoMkbiga) | 2:23 | 2020-12-16 | 2022-07-29 |
 | [When Doves Cry](https://open.spotify.com/track/7umzok5rx1Lctwa2pb03OR) | [Everyone Loves A Villain](https://open.spotify.com/artist/4v9rMwiF0d2Fh7bStHloi1), [Brock Lindow](https://open.spotify.com/artist/7xit3T7EhNTFeEZ2RSRJV3) | [When Doves Cry](https://open.spotify.com/album/302wtl4vr5C1SsCTfBFMsJ) | 3:16 | 2020-12-16 | 2022-07-28 |

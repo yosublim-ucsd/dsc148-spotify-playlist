@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Hard Driver
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,079 likes - 104 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,192 likes - 104 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 176825,
+  "num_followers": 176908,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGFlYWQzYTU2Y2IxYTAxM2YzNWQ1ZWI2MmE4ODkyNTM0",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDNiZjgzMWU4MGE0OGRkYzYzZjMwODM5NTgxY2MxMjUy",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -245,22 +245,6 @@
       "url": "https://open.spotify.com/track/07BUBegoXmSQcokCOMAWwt"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
-      },
-      "artists": [
-        {
-          "name": "Billy Cobham",
-          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
-        }
-      ],
-      "duration_ms": 589786,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/1BYVhbLZ6PAsv36Gc8iPuK"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Walk Cycle",
@@ -279,6 +263,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
+      },
+      "artists": [
+        {
+          "name": "Billy Cobham",
+          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
+        }
+      ],
+      "duration_ms": 589786,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/1BYVhbLZ6PAsv36Gc8iPuK"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 349520,
       "name": "Night Cruise",
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Yellowjackets",
-        "url": "https://open.spotify.com/album/654nTxrBmHTUHlR2QaVhrI"
-      },
-      "artists": [
-        {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        }
-      ],
-      "duration_ms": 312373,
-      "name": "Matinee Idol",
-      "url": "https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -343,18 +327,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
+        "name": "Yellowjackets",
+        "url": "https://open.spotify.com/album/654nTxrBmHTUHlR2QaVhrI"
       },
       "artists": [
         {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
         }
       ],
-      "duration_ms": 390640,
-      "name": "Black Market",
-      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
+      "duration_ms": 312373,
+      "name": "Matinee Idol",
+      "url": "https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -371,6 +355,22 @@
       "duration_ms": 313866,
       "name": "Medieval Overture - Instrumental",
       "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
+      },
+      "artists": [
+        {
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+        }
+      ],
+      "duration_ms": 390640,
+      "name": "Black Market",
+      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -577,30 +577,6 @@
       "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Riding Giants (feat. Mike Stern, Dave Weckl)",
-        "url": "https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        },
-        {
-          "name": "Dave Weckl",
-          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
-        }
-      ],
-      "duration_ms": 371617,
-      "name": "Riding Giants",
-      "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
@@ -623,6 +599,30 @@
       "duration_ms": 276293,
       "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Riding Giants (feat. Mike Stern, Dave Weckl)",
+        "url": "https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        },
+        {
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+        }
+      ],
+      "duration_ms": 371617,
+      "name": "Riding Giants",
+      "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb"
+      },
+      "artists": [
+        {
+          "name": "Steps Ahead",
+          "url": "https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5"
+        }
+      ],
+      "duration_ms": 451440,
+      "name": "Trains",
+      "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "The New Heritage",
@@ -811,22 +827,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb"
-      },
-      "artists": [
-        {
-          "name": "Steps Ahead",
-          "url": "https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5"
-        }
-      ],
-      "duration_ms": 451440,
-      "name": "Trains",
-      "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Bent",
         "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
       },
@@ -839,30 +839,6 @@
       "duration_ms": 371920,
       "name": "Armageddon Blues",
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
-    },
-    {
-      "added_at": "2021-05-07 04:01:00",
-      "album": {
-        "name": "One More !!?!??",
-        "url": "https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Fiset",
-          "url": "https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL"
-        },
-        {
-          "name": "Larnell Lewis",
-          "url": "https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U"
-        },
-        {
-          "name": "Jordan Rudess",
-          "url": "https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV"
-        }
-      ],
-      "duration_ms": 248174,
-      "name": "One More !!?!??",
-      "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -903,6 +879,30 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+    },
+    {
+      "added_at": "2021-05-07 04:01:00",
+      "album": {
+        "name": "One More !!?!??",
+        "url": "https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Fiset",
+          "url": "https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL"
+        },
+        {
+          "name": "Larnell Lewis",
+          "url": "https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U"
+        },
+        {
+          "name": "Jordan Rudess",
+          "url": "https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV"
+        }
+      ],
+      "duration_ms": 248174,
+      "name": "One More !!?!??",
+      "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1049,20 +1049,20 @@
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
       },
       "artists": [
         {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
         }
       ],
-      "duration_ms": 288909,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
+      "duration_ms": 297359,
+      "name": "You Gotta Get It While You Can",
+      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2022-02-11 19:11:35",
@@ -1085,20 +1085,20 @@
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
       },
       "artists": [
         {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
         }
       ],
-      "duration_ms": 297359,
-      "name": "You Gotta Get It While You Can",
-      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
+      "duration_ms": 288909,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1165,6 +1165,22 @@
       "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Extension",
@@ -1195,22 +1211,6 @@
       "duration_ms": 579060,
       "name": "1 Year After",
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
-      },
-      "artists": [
-        {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Now You See It ... (Now You Don't)",
@@ -1291,6 +1275,22 @@
       "duration_ms": 326000,
       "name": "Escher Sketch (A Tale Of Two Rhythms)",
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+      },
+      "artists": [
+        {
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1369,26 +1369,6 @@
       "url": "https://open.spotify.com/track/0CUs0BnOHeHz5BZGJRlvVY"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Funkdombe - edit",
-        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
-      },
-      "artists": [
-        {
-          "name": "Hector Bingert",
-          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 230374,
-      "name": "Funkdombe - edit",
-      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Axiom",
@@ -1419,6 +1399,26 @@
       "duration_ms": 325040,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+      },
+      "artists": [
+        {
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
     },
     {
       "added_at": "2021-07-16 04:01:00",
@@ -1465,20 +1465,20 @@
       "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2022-02-11 19:09:35",
       "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
+        "name": "The Description Is Not The Described",
+        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
       },
       "artists": [
         {
-          "name": "The Eleventh House",
-          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
+      "duration_ms": 433160,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     }
   ],
   "unique_name": "Fusion Fest",

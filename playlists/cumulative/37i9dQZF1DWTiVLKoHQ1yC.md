@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-106 songs - 8 hr 8 min
+107 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Some Good Here \- John Monkman Remix](https://open.spotify.com/track/2kH7Ql0mFf5IqyEdS94PfM) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Anaphase](https://open.spotify.com/artist/6JqmJMb21MmVH1UozFIvnv), [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Some Good Here \(John Monkman Remix\)](https://open.spotify.com/album/3qSmczA053XrirG9i0DWvj) | 6:59 | 2022-01-14 | 2022-11-26 |
 | [Spaces](https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Spaces](https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB) | 3:44 | 2022-01-14 |  |
 | [Starz](https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9) | 5:00 | 2022-11-25 | 2023-03-23 |
+| [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 | 2022-11-25 |  |
 | [Still Feel \(Home Edit\)](https://open.spotify.com/track/0mBdNrpS6UkxDusXE4actk) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Home](https://open.spotify.com/album/3PxjuDDfOWcW3oQITgX1Ru) | 3:56 | 2022-01-14 | 2022-11-26 |
 | [Subjection](https://open.spotify.com/track/4AyAH1LveAELiQcNinLjWq) | [Submelody](https://open.spotify.com/artist/2V3yQTh4W2YjBedZfmJHu3) | [Subjection](https://open.spotify.com/album/1faSbiHil2yg9zBzUhL5EP) | 6:38 | 2022-01-14 | 2022-07-28 |
 | [Suitcase](https://open.spotify.com/track/6Y2u5I0oHgnF71oxPsrtqO) | [Gai Barone](https://open.spotify.com/artist/6ITKskiAcS4w9egVKClT7e) | [Suitcase](https://open.spotify.com/album/0q0Tg8vDvfhKzhCZaDlOU7) | 7:02 | 2022-01-14 | 2022-08-10 |
@@ -99,7 +100,7 @@
 | [The Old You](https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [The Old You](https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh) | 3:15 | 2022-01-14 | 2022-11-26 |
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-11-25 |  |
 | [Time \- feat\. Jules Buckley](https://open.spotify.com/track/4d2Gndzn9dnmUC8jIzI9d4) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Time \(feat\. Jules Buckley\)](https://open.spotify.com/album/77wNbVUueAga2P28GqHovW) | 5:10 | 2022-01-14 |  |
-| [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 | 2022-01-14 |  |
+| [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 | 2022-01-14 | 2023-04-02 |
 | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U) | 3:39 | 2022-01-14 | 2022-11-26 |
 | [Unite](https://open.spotify.com/track/0gj0wF76HZQeWIWmzBUh2U) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Unite](https://open.spotify.com/album/5ai7HHTNa0i8i1BoELfs5q) | 3:08 | 2022-01-14 | 2022-07-29 |
 | [Unite](https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Unite](https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd) | 3:08 | 2022-01-14 | 2022-11-26 |

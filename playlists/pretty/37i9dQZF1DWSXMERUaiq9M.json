@@ -1,12 +1,12 @@
 {
   "description": "love peace techno",
-  "num_followers": 8193,
+  "num_followers": 8417,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY1NjAzMywwMDAwMDAwMGJlMjIzZDQ2MGI1NjViZjI3MTZlZGEyNTk0YmY2MWRk",
+  "snapshot_id": "MTY3OTY1NjAzMywwMDAwMDAwMDMzZTI2N2IyN2IxNmZhMzU5NmNlYjUyZjViZDFkOWM5",
   "tracks": [
     {
       "added_at": "2023-03-22 16:36:14",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
     },
     {
-      "added_at": "2023-04-01 00:56:18",
+      "added_at": "2023-04-02 00:58:56",
       "album": {
         "name": "All Of It",
         "url": "https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
     },
     {
-      "added_at": "2023-04-01 00:56:18",
+      "added_at": "2023-04-02 00:58:56",
       "album": {
         "name": "BLOODY ASS SHOES",
         "url": "https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
     },
     {
-      "added_at": "2023-04-01 00:56:18",
+      "added_at": "2023-04-02 00:58:56",
       "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
@@ -235,6 +235,22 @@
       "duration_ms": 204000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2023-03-22 16:36:14",
+      "album": {
+        "name": "Push Up (Original Mix)",
+        "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 240059,
+      "name": "Push Up - Original Mix",
+      "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
     },
     {
       "added_at": "2023-03-22 16:36:14",
@@ -255,6 +271,42 @@
       "duration_ms": 415522,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk"
+    },
+    {
+      "added_at": "2023-04-02 00:58:56",
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
+    },
+    {
+      "added_at": "2023-04-02 00:58:56",
+      "album": {
+        "name": "Do You Love Me?",
+        "url": "https://open.spotify.com/album/61BjICDXiSjQ2Bi8bakMK8"
+      },
+      "artists": [
+        {
+          "name": "Julien Bracht",
+          "url": "https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx"
+        }
+      ],
+      "duration_ms": 291513,
+      "name": "Do You Love Me?",
+      "url": "https://open.spotify.com/track/42Tis1KQQnns2LaAuA0vk5"
     },
     {
       "added_at": "2023-03-22 16:36:14",
@@ -293,58 +345,6 @@
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
     },
     {
-      "added_at": "2023-04-01 00:56:18",
-      "album": {
-        "name": "Do You Love Me?",
-        "url": "https://open.spotify.com/album/61BjICDXiSjQ2Bi8bakMK8"
-      },
-      "artists": [
-        {
-          "name": "Julien Bracht",
-          "url": "https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx"
-        }
-      ],
-      "duration_ms": 291513,
-      "name": "Do You Love Me?",
-      "url": "https://open.spotify.com/track/42Tis1KQQnns2LaAuA0vk5"
-    },
-    {
-      "added_at": "2023-04-01 00:56:18",
-      "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        },
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
-    },
-    {
-      "added_at": "2023-03-22 16:36:14",
-      "album": {
-        "name": "Fluid Meditations",
-        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 364455,
-      "name": "Stream State",
-      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
-    },
-    {
       "added_at": "2023-03-22 16:36:14",
       "album": {
         "name": "Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-03-22 16:36:14",
       "album": {
+        "name": "Fluid Meditations",
+        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 364455,
+      "name": "Stream State",
+      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
+    },
+    {
+      "added_at": "2023-03-22 16:36:14",
+      "album": {
         "name": "tonight belongs to you",
         "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
       },
@@ -385,23 +401,7 @@
       "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
     },
     {
-      "added_at": "2023-03-22 16:36:14",
-      "album": {
-        "name": "You're Toxic",
-        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 371555,
-      "name": "You're Toxic",
-      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
-    },
-    {
-      "added_at": "2023-04-01 00:56:18",
+      "added_at": "2023-04-02 00:58:56",
       "album": {
         "name": "Babylonia",
         "url": "https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va"
@@ -419,6 +419,22 @@
       "duration_ms": 311670,
       "name": "Perzechella",
       "url": "https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev"
+    },
+    {
+      "added_at": "2023-03-22 16:36:14",
+      "album": {
+        "name": "You're Toxic",
+        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 371555,
+      "name": "You're Toxic",
+      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
     },
     {
       "added_at": "2023-03-22 16:36:14",
@@ -475,22 +491,6 @@
       "duration_ms": 203684,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU"
-    },
-    {
-      "added_at": "2023-03-22 16:36:14",
-      "album": {
-        "name": "Push Up (Original Mix)",
-        "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 240059,
-      "name": "Push Up - Original Mix",
-      "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
     },
     {
       "added_at": "2023-03-22 16:36:14",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-03-22 16:36:14",
       "album": {
-        "name": "Wholes",
-        "url": "https://open.spotify.com/album/2pVFV5QWG3WSw3sf3Z8b2Z"
+        "name": "Knife Talk",
+        "url": "https://open.spotify.com/album/0WYWT38s9EtYYatYZLiNvW"
       },
       "artists": [
         {
-          "name": "Abstraxion",
-          "url": "https://open.spotify.com/artist/42Rm3uPICrqZINjvxC2grb"
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
         }
       ],
-      "duration_ms": 301173,
-      "name": "Wholes",
-      "url": "https://open.spotify.com/track/60t2ICAU2uCUrSHii0VSB2"
+      "duration_ms": 172137,
+      "name": "Knife Talk",
+      "url": "https://open.spotify.com/track/5zzf3tCyakWfASFtPs2mBl"
     }
   ],
   "unique_name": "rave",

@@ -294,6 +294,24 @@
     {
       "album": {
         "name": "El Gharam",
+        "url": "https://open.spotify.com/album/1JwJeplulq3fthyojYDqQG"
+      },
+      "artists": [
+        {
+          "name": "Ayman Amin",
+          "url": "https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "El Gharam",
+      "url": "https://open.spotify.com/track/4ftJYQr9ulW9FqvAEwkCLE"
+    },
+    {
+      "album": {
+        "name": "El Gharam",
         "url": "https://open.spotify.com/album/4ClOMPFeRbiVFOhBVCTcoX"
       },
       "artists": [
@@ -308,7 +326,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 239000,
       "name": "El Gharam",
       "url": "https://open.spotify.com/track/0dwZqQiIwv2di8DU4S0DTc"
@@ -636,10 +654,50 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 183948,
       "name": "Kelon Ye3ni Kelon",
       "url": "https://open.spotify.com/track/5Nm6fLUqjlezBbWdiFzXtR"
+    },
+    {
+      "album": {
+        "name": "Kelon Ye3ni Kelon",
+        "url": "https://open.spotify.com/album/2RpfHBfp80wIMjmxvL181W"
+      },
+      "artists": [
+        {
+          "name": "Siba Band",
+          "url": "https://open.spotify.com/artist/2Vw08vHBOkjNobnhfvWOp5"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184032,
+      "name": "Kelon Ye3ni Kelon",
+      "url": "https://open.spotify.com/track/6BLFDob2dN2WxL5tbwnOWJ"
+    },
+    {
+      "album": {
+        "name": "Kena Mbareh",
+        "url": "https://open.spotify.com/album/4tsVvC8lh9l5DIjPDSWKlH"
+      },
+      "artists": [
+        {
+          "name": "Moeen Shreif",
+          "url": "https://open.spotify.com/artist/1EKUd22YubzgCoqFpGKLra"
+        },
+        {
+          "name": "Ayman Reda",
+          "url": "https://open.spotify.com/artist/5NkJNj758E7b5cOe7LDONy"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259659,
+      "name": "Kena Mbareh",
+      "url": "https://open.spotify.com/track/4ZcR782SadOknhu9VkqLcQ"
     },
     {
       "album": {
@@ -658,7 +716,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 259659,
       "name": "Kena Mbareh",
       "url": "https://open.spotify.com/track/6eP94cdmJTegkGwsgJSjEV"
@@ -1146,10 +1204,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 215133,
       "name": "Nehna Sawa",
       "url": "https://open.spotify.com/track/6vtvZ8XWCMpZu5e99Gyk8u"
+    },
+    {
+      "album": {
+        "name": "Nehna Sawa",
+        "url": "https://open.spotify.com/album/41yq2j3UuFKSNdr9PAPQWn"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215133,
+      "name": "Nehna Sawa",
+      "url": "https://open.spotify.com/track/6xlLV6mQYoeTPQfJHrhLVm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,436 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,499 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 49 | [The Cut](https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Cut](https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt) | 3:19 |
 | 50 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 |
 | 51 | [Stretch](https://open.spotify.com/track/5t92uF8qxckfUEAuTlPXSX) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Stretch](https://open.spotify.com/album/4o1zrjGVnT4qhSZgBCDdKr) | 3:34 |
-| 52 | [Tell On U](https://open.spotify.com/track/39xEQ4GBaQFyj8xbNLJdSo) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Tell On U](https://open.spotify.com/album/7EhQ6wX3mvSJrCVqIrq8gZ) | 2:24 |
+| 52 | [Tell On You](https://open.spotify.com/track/39xEQ4GBaQFyj8xbNLJdSo) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Tell On You](https://open.spotify.com/album/7EhQ6wX3mvSJrCVqIrq8gZ) | 2:24 |
 | 53 | [BADDER](https://open.spotify.com/track/5hvxB7vZ8p6YDLlt7iC7o8) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [BADDER](https://open.spotify.com/album/0Zb78r3znw6BMy7IP7fYVk) | 3:14 |
 | 54 | [Right To Be Wrong](https://open.spotify.com/track/7E1gOUWLZfCDn6yEeZuafk) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Right To Be Wrong](https://open.spotify.com/album/47NhbVR5PrcYhGWXBk6Osm) | 2:06 |
 | 55 | [Tell Mama](https://open.spotify.com/track/3Lw3x4fesG6ZNkYLwapWke) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Tell Mama](https://open.spotify.com/album/2pmblmIVSQPbU3qAJ8FtOg) | 2:50 |

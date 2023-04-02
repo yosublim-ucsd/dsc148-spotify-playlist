@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,493 likes - 115 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,511 likes - 115 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 28 | [Party Band \(Feat\. PUNCHNELLO, Thur\)](https://open.spotify.com/track/7cf2Dse4od8ogBvmqXxQKI) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Thur](https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO) | [Summer Go Loco](https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf) | 3:54 |
 | 29 | [Upside Down](https://open.spotify.com/track/61J1dGU5RCNs6rMnPADv4r) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Upside Down](https://open.spotify.com/album/6JZcMszjclxpjaS3VPyOvw) | 3:41 |
 | 30 | [Late Night](https://open.spotify.com/track/5oK2nZo8CTCQJd1SJwBUws) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Late Night](https://open.spotify.com/album/2AoDue0STCUvp7qUDzTvXj) | 3:11 |
-| 31 | [Spring Is Gone by chance](https://open.spotify.com/track/5A0ut5JjeNLgGaScBIRyBU) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell OST Part.2](https://open.spotify.com/album/2DH3LaLcK63kEHYIH6ZK8A) | 3:21 |
+| 31 | [Spring Is Gone by chance](https://open.spotify.com/track/5rZN0PP6xZsf5SWxkpMm7k) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0KLTnRxu16LGkmlWJDAQkE) | 3:21 |
 | 32 | [Star \(Little Prince\)](https://open.spotify.com/track/0YQO5aF9S0d3E74ZEfB9Dl) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2cpRz9LpAMbP4bdCpsFxPl) | 3:02 |
 | 33 | [OPPA](https://open.spotify.com/track/22sCy9toRdPKgl0LRvtwkR) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Summer Go Loco](https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf) | 3:55 |
 | 34 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/0UsIsMukG8WAV0CVorWOTb) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 4:36 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 114 | [Take Care](https://open.spotify.com/track/1Tc6M6Y97fRPO5gLyEehtE) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [박나래](https://open.spotify.com/artist/3oBO24qfRYkz2F0IeFg5k4) | [Take Care](https://open.spotify.com/album/6dpL8cY46BrtfKUfmTmk3w) | 3:42 |
 | 115 | [DAYDREAM \(feat.Loco\)](https://open.spotify.com/track/7e7ESlXkcObCbUTfCJbibE) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 3:12 |
 
-Snapshot ID: `MTY3MjYzODkyMCwwMDAwMDAwMDkyMTlhM2E4NzZjODU0MDkwYjczMmY3MDRmMWI1MmU0`
+Snapshot ID: `MTY3MjYzODkyMCwwMDAwMDAwMGJkNmMwMDdmOWMwM2M1ZDIwZTU4OTg0ZjJiOGNiN2Rk`

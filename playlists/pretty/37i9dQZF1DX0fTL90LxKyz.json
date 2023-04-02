@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 47946,
+  "num_followers": 48013,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1MDMzMSwwMDAwMDAwMGI0ODhkMTMyZjg0Njc5NTBjYjJiNTgyZmEzZjlkMmI4",
+  "snapshot_id": "MTY2NjU1MDMzMSwwMDAwMDAwMGVkOGI5ZTk2MjBjNTM4MzAyMGVkNDNmMjhmMDM1MDE0",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -735,26 +735,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Too Many Lies",
-        "url": "https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71"
-      },
-      "artists": [
-        {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
-        },
-        {
-          "name": "LD",
-          "url": "https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m"
-        }
-      ],
-      "duration_ms": 199757,
-      "name": "Too Many Lies",
-      "url": "https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Bad One",
         "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
       },
@@ -767,6 +747,22 @@
       "duration_ms": 134142,
       "name": "Bad One",
       "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "duration_ms": 179534,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/34YkG2pMNOldalZtevHztN"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -787,18 +783,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "On Deck",
-        "url": "https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd"
+        "name": "Too Many Lies",
+        "url": "https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71"
       },
       "artists": [
         {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "LD",
+          "url": "https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m"
         }
       ],
-      "duration_ms": 179534,
-      "name": "On Deck",
-      "url": "https://open.spotify.com/track/34YkG2pMNOldalZtevHztN"
+      "duration_ms": 199757,
+      "name": "Too Many Lies",
+      "url": "https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -855,6 +855,22 @@
       "duration_ms": 201982,
       "name": "WW2",
       "url": "https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Spin This Coupe",
+        "url": "https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "duration_ms": 161564,
+      "name": "Spin This Coupe",
+      "url": "https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -947,22 +963,6 @@
       "duration_ms": 179154,
       "name": "Circles (feat. OFB, Bandokay & Double Lz)",
       "url": "https://open.spotify.com/track/5TazMTxxEsLZMwnjjdb5t9"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Spin This Coupe",
-        "url": "https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC"
-      },
-      "artists": [
-        {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
-        }
-      ],
-      "duration_ms": 161564,
-      "name": "Spin This Coupe",
-      "url": "https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer"
     },
     {
       "added_at": "2022-10-23 18:38:51",

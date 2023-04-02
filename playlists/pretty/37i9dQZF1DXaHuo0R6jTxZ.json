@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 81819,
+  "num_followers": 81846,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcxOTU4OCwwMDAwMDAwMDk2ZDYyZjI1NWZlYTlkODc0MmRhZmZkYjNkYjMzZWVl",
+  "snapshot_id": "MTY2OTcxOTU4OCwwMDAwMDAwMGRlMjA2NTFjYThjZmQxMDc1YTliYTQ5ZDU3NzgzYTU3",
   "tracks": [
     {
       "added_at": "2022-11-29 10:59:48",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "Ya Magnon",
-        "url": "https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 272575,
-      "name": "Ya Magnon",
-      "url": "https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "\u0641\u0631\u0642\u0629 \u0645\u064a\u0627\u0645\u064a 97",
         "url": "https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 300160,
       "name": "\u0634\u064a\u0644\u0648\u0647\u0627 \u0634\u064a\u0644\u0629",
       "url": "https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Ya Magnon",
+        "url": "https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 272575,
+      "name": "Ya Magnon",
+      "url": "https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M"
     },
     {
       "added_at": "2022-11-29 10:59:48",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "Layalyki",
-        "url": "https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq"
-      },
-      "artists": [
-        {
-          "name": "Moustafa Amar",
-          "url": "https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC"
-        }
-      ],
-      "duration_ms": 228754,
-      "name": "Eskandarany",
-      "url": "https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "Rege'et Wahdi",
         "url": "https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 193375,
       "name": "Al Yadi El Yadi",
       "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Layalyki",
+        "url": "https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq"
+      },
+      "artists": [
+        {
+          "name": "Moustafa Amar",
+          "url": "https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC"
+        }
+      ],
+      "duration_ms": 228754,
+      "name": "Eskandarany",
+      "url": "https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo"
     },
     {
       "added_at": "2022-11-29 10:59:48",

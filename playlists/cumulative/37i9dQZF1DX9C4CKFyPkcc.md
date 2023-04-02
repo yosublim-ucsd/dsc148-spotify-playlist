@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-176 songs - 10 hr 25 min
+177 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Joy to the World](https://open.spotify.com/track/5kiQIqLEHVnhWLJwgqgb3P) | [Celtic Worship](https://open.spotify.com/artist/0h2AQKpVBEEXQQ03KGf7ep), [Blue Rose Code](https://open.spotify.com/artist/3fALQUIY93XYP9h7JyPeeb), [Norrie MacIver](https://open.spotify.com/artist/1Z2xJmAUbB6S5b1dZySWHp) | [Come Behold: Christmas Collaborations](https://open.spotify.com/album/6oaRMjkCHhJql0hanPBhcZ) | 3:57 | 2022-12-11 |  |
 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 | 2022-11-26 |  |
 | [Joy To The World](https://open.spotify.com/track/0r4oEPAhF9s4CymumKpPnj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Joy To The World](https://open.spotify.com/album/1DUIGPji7naIzvcAHZqrbf) | 3:55 | 2021-12-24 |  |
+| [Joy To The World](https://open.spotify.com/track/3sgPVrKXSVvxPKzvLaSh8P) | [LOFI Worship](https://open.spotify.com/artist/7140i1cyhuEArRQcADGja9) | [LOFI Christmas](https://open.spotify.com/album/4cySFdHNpqV62fAOZDC93N) | 2:56 | 2022-12-11 |  |
 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 | 2021-12-24 |  |
 | [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 | 2021-12-24 | 2022-12-13 |
 | [King Of Glory](https://open.spotify.com/track/4i29NqYXWDce8dhnT1PLTB) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [King Of Glory](https://open.spotify.com/album/6EBKn3EDTvm6QJfcUtpmPX) | 3:20 | 2022-11-26 |  |
@@ -175,7 +176,7 @@
 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 | 2021-12-24 |  |
 | [What Child Is This?](https://open.spotify.com/track/1KoCiVRq9zGMdRsjkOCQ8K) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Birth Of A King](https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz) | 3:34 | 2021-12-24 |  |
 | [What Christmas Is All About](https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [What Christmas Is All About](https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY) | 3:15 | 2022-12-11 |  |
-| [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-12-11 |  |
+| [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-12-11 | 2023-04-02 |
 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2021-12-24 |  |
 | [What Christmas Really Means](https://open.spotify.com/track/0ADx1ssYtTWJODfaTAfL8O) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Christmas Really Means](https://open.spotify.com/album/4ZNkaeKVTxeVewNBM9fLLw) | 4:07 | 2022-12-11 | 2023-03-06 |
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-24 |  |

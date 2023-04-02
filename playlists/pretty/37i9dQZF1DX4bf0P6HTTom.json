@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 135948,
+  "num_followers": 136047,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDEyNGI4ZjM1ZDk3ZjFlYjNmMzgwM2MzNjUyY2EwNDIw",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMGQ3YTJmNWEzMDNiNmFiZjMxZTcyOGI4M2Q3ZjQwMzRj",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "Amie",
-      "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 294533,
       "name": "Heart Of The Night",
       "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "Amie",
+      "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "The Desert Rose Band",
+        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
+      },
+      "artists": [
+        {
+          "name": "The Desert Rose Band",
+          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Love Reunited",
+      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 235106,
       "name": "Make A Little Magic - 2001 Remaster",
       "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Desert Rose Band",
-        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
-      },
-      "artists": [
-        {
-          "name": "The Desert Rose Band",
-          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Love Reunited",
-      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Renegade Picker",
-        "url": "https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk"
-      },
-      "artists": [
-        {
-          "name": "Steve Young",
-          "url": "https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "It's Not Supposed to Be That Way",
-      "url": "https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Sittin' In",
         "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 169306,
       "name": "Listen to a Country Song",
       "url": "https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Renegade Picker",
+        "url": "https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk"
+      },
+      "artists": [
+        {
+          "name": "Steve Young",
+          "url": "https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "It's Not Supposed to Be That Way",
+      "url": "https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr"
     }
   ],
   "unique_name": "Country Rock Classics",

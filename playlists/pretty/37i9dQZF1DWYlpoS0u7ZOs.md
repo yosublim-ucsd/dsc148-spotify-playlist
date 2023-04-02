@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Boy Bleach
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,757 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,761 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 11 | [Fed Rock](https://open.spotify.com/track/5N9WqVbPaNU6HqS4Z5as5r) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [Fed Rock](https://open.spotify.com/album/2jMOIQCfCluYqndppMEU4Z) | 2:47 |
 | 12 | [in my ways](https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [in my ways](https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU) | 2:23 |
 | 13 | [Something Good](https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Something Good](https://open.spotify.com/album/5TXmQygkvgmQyWOZbAaZuq) | 3:45 |
-| 14 | [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 |
+| 14 | [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 |
 | 15 | [Treasure](https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Treasure](https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO) | 3:11 |
 | 16 | [Geisha](https://open.spotify.com/track/02wRK11rA8xRXBWAoI42iP) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Geisha](https://open.spotify.com/album/3GunDz6ntvuNGQcFHPtMiW) | 3:17 |
 | 17 | [Fever](https://open.spotify.com/track/2OyBO7x26a0J92gicUgie5) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [Fever](https://open.spotify.com/album/7AIA9j3BcSt4uI3n7uZuQa) | 3:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [HALLELUJAH KID](https://open.spotify.com/track/0YMldYHUAVZgdK1JJCRDnC) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [HALLELUJAH KID](https://open.spotify.com/album/7dh11jHNxLEQKdvlBZhOR0) | 3:18 |
 | 80 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 |
 
-Snapshot ID: `MTY3OTYxNjAwMCwwMDAwMDAwMDQwNWMxYzkxNmVkNzk2YjdiNDRkM2YyNWU2ODI3NjA2`
+Snapshot ID: `MTY3OTYxNjAwMCwwMDAwMDAwMDMxZjEyMmE1M2RkYmZmM2IwY2E5ODI0NDlmMzQ0YzM1`

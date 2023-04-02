@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230960,
+  "num_followers": 230979,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGNhZmJkNDRiOTQ0MGY4YzIyYzZhZTUyMzQ3ZDI4MDE5",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDJjNzY5ZTIzMWU4ODg5NWM5YTM2NzM2MTNmMWU5YWRk",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -487,18 +487,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -519,6 +519,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
         "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 200131,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
-      },
-      "artists": [
-        {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 172027,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+      },
+      "artists": [
+        {
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
-      },
-      "artists": [
-        {
-          "name": "Mac Beez",
-          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Surf The Orange Water",
         "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 189880,
       "name": "Violet Breeze",
       "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
+      },
+      "artists": [
+        {
+          "name": "Mac Beez",
+          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -871,6 +871,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Purple Summer",
+        "url": "https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7"
+      },
+      "artists": [
+        {
+          "name": "Harvio",
+          "url": "https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx"
+        }
+      ],
+      "duration_ms": 232468,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 150014,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Purple Summer",
-        "url": "https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7"
-      },
-      "artists": [
-        {
-          "name": "Harvio",
-          "url": "https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx"
-        }
-      ],
-      "duration_ms": 232468,
-      "name": "Kiwi",
-      "url": "https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
-      },
-      "artists": [
-        {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 218584,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/6Ga7bHYIzazaFPfdbluAO9"
       },
       "artists": [
         {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+          "name": "Blewbird",
+          "url": "https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 451362,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+      "duration_ms": 169514,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP"
     }
   ],
   "unique_name": "Aperitivo Time",

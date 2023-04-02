@@ -9338,7 +9338,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 143095,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/26jKVRgWdbQZRzMWuV6y22"
@@ -15668,6 +15668,32 @@
       "duration_ms": 174000,
       "name": "Drivin' Far Away - Psalm Trees Remix",
       "url": "https://open.spotify.com/track/1m9yynOaJTR0UmheXsRuIu"
+    },
+    {
+      "album": {
+        "name": "Drop By Drop",
+        "url": "https://open.spotify.com/album/6u73tNaUCEZhKPLOCdQYcq"
+      },
+      "artists": [
+        {
+          "name": "Moderator",
+          "url": "https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB"
+        },
+        {
+          "name": "NK Music",
+          "url": "https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi"
+        },
+        {
+          "name": "okwow",
+          "url": "https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125250,
+      "name": "Drop By Drop",
+      "url": "https://open.spotify.com/track/0LIIItEvBkt2hX1joyUhId"
     },
     {
       "album": {
@@ -36834,7 +36860,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 108000,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/1STTXuKld0FA4JR9PWkFh2"
@@ -41790,7 +41816,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 138529,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/3KOdSAFAouynkqzRd5cNtT"
@@ -42984,7 +43010,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 140759,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/7wWMWy83ukML9Wzwjna9Gd"
@@ -45984,6 +46010,24 @@
       "duration_ms": 134157,
       "name": "Possibility",
       "url": "https://open.spotify.com/track/7KcXOmSafFrG2rNcoBGbT0"
+    },
+    {
+      "album": {
+        "name": "Post Truth",
+        "url": "https://open.spotify.com/album/064VOoFuTQLCSlfGccJAjq"
+      },
+      "artists": [
+        {
+          "name": "Beatific Vision",
+          "url": "https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83050,
+      "name": "Post Truth",
+      "url": "https://open.spotify.com/track/71UZNO2eVE8dqoThogxIin"
     },
     {
       "album": {
@@ -56931,6 +56975,24 @@
     },
     {
       "album": {
+        "name": "Sunflower Fields",
+        "url": "https://open.spotify.com/album/0NsxmwGazJCuTta9ln196Z"
+      },
+      "artists": [
+        {
+          "name": "Iassu",
+          "url": "https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98461,
+      "name": "Sunflower Fields",
+      "url": "https://open.spotify.com/track/5x06pW7r0lebJulesKVnSS"
+    },
+    {
+      "album": {
         "name": "Sunflowers",
         "url": "https://open.spotify.com/album/3ByoZJmjiiRpkkAPdssXm3"
       },
@@ -62980,6 +63042,24 @@
       "duration_ms": 113647,
       "name": "Urban Beauty",
       "url": "https://open.spotify.com/track/7cijyFeQ5vGNUEoeRgUXyW"
+    },
+    {
+      "album": {
+        "name": "Urban Jazz",
+        "url": "https://open.spotify.com/album/0FTCbqVJviV8xkGh0Nc9PI"
+      },
+      "artists": [
+        {
+          "name": "KLIM",
+          "url": "https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134306,
+      "name": "Urban Jazz",
+      "url": "https://open.spotify.com/track/2ciL24gMyyIbbuL531rTyB"
     },
     {
       "album": {

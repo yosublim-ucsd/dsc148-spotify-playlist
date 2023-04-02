@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-348 songs - 20 hr 6 min
+349 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Another You](https://open.spotify.com/track/1zmkJElrB0ghx5v5jJ4x3i) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Digital Heart](https://open.spotify.com/album/5WpyVMapI2A3fz6WHq8UEG) | 3:03 | 2022-01-07 |  |
 | [April \(Eyes\)](https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [April \(Eyes\)](https://open.spotify.com/album/7p24hLtyoSdmLHHFnr6Uft) | 2:08 | 2023-02-17 |  |
 | [ARCADE NIGHT](https://open.spotify.com/track/3VUPk0XASJ8a0HDyj4omX5) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [Hikaru Station](https://open.spotify.com/artist/43CwK7mj1NRZuXaC9SO6Zj) | [ARCADE NIGHT](https://open.spotify.com/album/3c8kfHbvA1fbSC52TxEWPI) | 3:59 | 2022-01-07 | 2023-01-13 |
-| [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 |  |
+| [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 | 2023-04-02 |
 | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [NOUMENN](https://open.spotify.com/artist/7bFQpPcrEXYDQDcVPVahyC) | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY) | 3:19 | 2022-01-07 |  |
 | [Artificial Love](https://open.spotify.com/track/5lAbIEjU5D832P9ILBPzAe) | [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [Artificial Love](https://open.spotify.com/album/10AxppKXa2VrVF4G2rxBBF) | 3:12 | 2022-02-11 | 2022-02-23 |
 | [Astatine](https://open.spotify.com/track/666PI2ou8H5MI98weRgnXI) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Astatine](https://open.spotify.com/album/1PTdPcuA4PZOFiqCA4h4iR) | 5:48 | 2022-12-02 |  |
@@ -353,6 +353,7 @@
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/5lWmBdwwqsE1XjgvRFjumN) | 4:29 | 2022-01-07 | 2022-10-15 |
 | [☆](https://open.spotify.com/track/062TR63pH6hFer4xsx0935) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rwP6eKGSsdQ0Zr69phC99) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 2:59 | 2022-01-07 | 2022-10-13 |
 | [☆](https://open.spotify.com/track/6MGnaGtsUmux3guQvPBYnW) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rUBhGA0FoixfR570fAzKt) | [it's the end of the world, but it's ok](https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs) | 2:59 | 2022-10-07 |  |
+| [✨ mum is calling ✨](https://open.spotify.com/track/27fusRmYpex94O3REevU1F) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4rT7zzBMEzrHJ0i7X81Rdv) | 3:18 | 2023-04-02 |  |
 | [にんじゃりばんばん \- Steve Aoki Remix](https://open.spotify.com/track/63zI1T8oiM3bUsXHPvqCrM) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [にんじゃりばんばん \(Steve Aoki Remix\)](https://open.spotify.com/album/4T21ATsOd8A4wYDnCIZ9LR) | 3:36 | 2022-03-11 | 2022-04-21 |
 | [キャンディーレーサー](https://open.spotify.com/track/5cuUSmIc2HBNFKgzlJ2QBX) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [キャンディーレーサー](https://open.spotify.com/album/1OxcfvSkYw5pD8Lv6zq5rf) | 5:06 | 2022-03-11 | 2022-07-06 |
 | [グラニュー](https://open.spotify.com/track/489ulqGuQZjEWV11AbxEcB) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [泳ぐ真似](https://open.spotify.com/album/1yHZMetH0ASfmHgMJi3bLs) | 2:02 | 2022-07-14 | 2022-07-29 |

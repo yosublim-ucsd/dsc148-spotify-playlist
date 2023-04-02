@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 11911,
+  "num_followers": 12035,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDI2NTZlMjU1ZTUwMWE3ZmZiMWJmZGU5YzNkYTU1NWFm",
+  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMGMxZDFjMzkxZDcyMjQ1YTIzMDkwMDUzNDRhYzIwOWI4",
   "tracks": [
     {
       "added_at": "2023-03-23 21:59:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "The Jazz Kid III",
+        "url": "https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI"
+      },
+      "artists": [
+        {
+          "name": "Daano",
+          "url": "https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd"
+        }
+      ],
+      "duration_ms": 447857,
+      "name": "Grootman (Spiritual Love Affair)",
+      "url": "https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "Back To Front EP",
         "url": "https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 494359,
       "name": "Lesedi",
       "url": "https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "The Jazz Kid III",
-        "url": "https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI"
-      },
-      "artists": [
-        {
-          "name": "Daano",
-          "url": "https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd"
-        }
-      ],
-      "duration_ms": 447857,
-      "name": "Grootman (Spiritual Love Affair)",
-      "url": "https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -263,6 +263,30 @@
       "duration_ms": 407142,
       "name": "Woza Moya",
       "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Oh Mdali",
+        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
+      },
+      "artists": [
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        },
+        {
+          "name": "Playmaster & Smallistic",
+          "url": "https://open.spotify.com/artist/5pFXBKRfcyCw3q39HTvpwR"
+        },
+        {
+          "name": "Malungelo",
+          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
+        }
+      ],
+      "duration_ms": 361078,
+      "name": "Oh Mdali",
+      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -371,30 +395,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Oh Mdali",
-        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
-      },
-      "artists": [
-        {
-          "name": "Kaylow",
-          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
-        },
-        {
-          "name": "Playmaster & Smallistic",
-          "url": "https://open.spotify.com/artist/5pFXBKRfcyCw3q39HTvpwR"
-        },
-        {
-          "name": "Malungelo",
-          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
-        }
-      ],
-      "duration_ms": 361078,
-      "name": "Oh Mdali",
-      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -507,6 +491,38 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -547,6 +563,42 @@
       "duration_ms": 402782,
       "name": "Gotsom",
       "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
+      },
+      "artists": [
+        {
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "duration_ms": 395709,
+      "name": "Love I Know",
+      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Ivar the Boneless",
+        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
+      },
+      "artists": [
+        {
+          "name": "Gigg Cosco",
+          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
+        }
+      ],
+      "duration_ms": 404480,
+      "name": "Ivar the Boneless",
+      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -599,42 +651,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Necessary",
-        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
-      },
-      "artists": [
-        {
-          "name": "Dearson",
-          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
-        },
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        }
-      ],
-      "duration_ms": 395709,
-      "name": "Love I Know",
-      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Ivar the Boneless",
-        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
-      },
-      "artists": [
-        {
-          "name": "Gigg Cosco",
-          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
-        }
-      ],
-      "duration_ms": 404480,
-      "name": "Ivar the Boneless",
-      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 387494,
       "name": "To The World",
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "BAUHAUS",
-        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
-      },
-      "artists": [
-        {
-          "name": "TimAdeep",
-          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
-        }
-      ],
-      "duration_ms": 482979,
-      "name": "BAUHAUS",
-      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
-        {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
-        }
-      ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Dafrotone",
         "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 453453,
       "name": "Four Lessons",
       "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "BAUHAUS",
+        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
+      },
+      "artists": [
+        {
+          "name": "TimAdeep",
+          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
+        }
+      ],
+      "duration_ms": 482979,
+      "name": "BAUHAUS",
+      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ"
-      },
-      "artists": [
-        {
-          "name": "Mizo4Real",
-          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
-        }
-      ],
-      "duration_ms": 527020,
-      "name": "Captured by Mizolution",
-      "url": "https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -803,22 +787,34 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Seeking",
-        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ"
       },
       "artists": [
         {
-          "name": "Buder Prince",
-          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
-        },
-        {
-          "name": "Ruthes Ma",
-          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
+          "name": "Mizo4Real",
+          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
         }
       ],
-      "duration_ms": 397355,
-      "name": "Seeking",
-      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+      "duration_ms": 527020,
+      "name": "Captured by Mizolution",
+      "url": "https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "7 Steps (Soulcalmic Mingle)",
+        "url": "https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8"
+      },
+      "artists": [
+        {
+          "name": "Seventhi DJ",
+          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "7 Steps - Soulcalmic Mingle",
+      "url": "https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -879,18 +875,18 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "7 Steps (Soulcalmic Mingle)",
-        "url": "https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8"
+        "name": "Sentimental Affair",
+        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
       },
       "artists": [
         {
-          "name": "Seventhi DJ",
-          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
+          "name": "Supreme Rhythm",
+          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
         }
       ],
-      "duration_ms": 333975,
-      "name": "7 Steps - Soulcalmic Mingle",
-      "url": "https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs"
+      "duration_ms": 431693,
+      "name": "Myself & The Dark",
+      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -911,58 +907,58 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+        "name": "Electronic Deep House King",
+        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
       },
       "artists": [
         {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+          "name": "Seventhi DJ",
+          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
         }
       ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
+      "duration_ms": 336352,
+      "name": "Electronic Deep House King",
+      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
     },
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
+        "name": "Seeking",
+        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
       "artists": [
         {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+          "name": "Buder Prince",
+          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
         },
         {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
+          "name": "Ruthes Ma",
+          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
         }
       ],
-      "duration_ms": 402000,
-      "name": "She's On Fire",
-      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
+      "duration_ms": 397355,
+      "name": "Seeking",
+      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
     },
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "The Inglourious",
-        "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
+        "name": "Lately I Found Myself",
+        "url": "https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP"
       },
       "artists": [
         {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+          "name": "HisKing",
+          "url": "https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj"
         },
         {
-          "name": "Synth-O-Ven",
-          "url": "https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn"
+          "name": "The Poetic Manic",
+          "url": "https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF"
         }
       ],
-      "duration_ms": 399986,
-      "name": "The Inglourious",
-      "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
+      "duration_ms": 448940,
+      "name": "Lately I Found Myself",
+      "url": "https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn"
     }
   ],
   "unique_name": "Deep House Session",

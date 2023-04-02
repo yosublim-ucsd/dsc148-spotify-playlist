@@ -9507,6 +9507,28 @@
     },
     {
       "album": {
+        "name": "Between Heaven & Earth",
+        "url": "https://open.spotify.com/album/3Lllkp5uaQxdF41sPrFp3v"
+      },
+      "artists": [
+        {
+          "name": "Smeeagain",
+          "url": "https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ"
+        },
+        {
+          "name": "seeyouthere",
+          "url": "https://open.spotify.com/artist/3aspJpj1ZByvp1P16mFeRC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113397,
+      "name": "Between Heaven & Earth",
+      "url": "https://open.spotify.com/track/23f5WsFvlIAgs4zlHwzuuU"
+    },
+    {
+      "album": {
         "name": "Between The Lines",
         "url": "https://open.spotify.com/album/6cG45DQCdR1QBumoTWSkDf"
       },
@@ -13300,7 +13322,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 103076,
       "name": "Bubbler",
       "url": "https://open.spotify.com/track/3BZpCq0Y4XnY2J3LPDQWkf"
@@ -16934,7 +16956,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 121500,
       "name": "Chicken Paradox",
       "url": "https://open.spotify.com/track/7guRG7fEfHNr51YohPfk1m"
@@ -28420,7 +28442,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 166426,
       "name": "En mis sue\u00f1os te veo",
       "url": "https://open.spotify.com/track/4bBmv53UzlTGTqBFxWJwkv"
@@ -29454,6 +29476,24 @@
       "duration_ms": 131368,
       "name": "Evening in Paris",
       "url": "https://open.spotify.com/track/1ncOlXm45y8SEk3EsLUML0"
+    },
+    {
+      "album": {
+        "name": "Evening Lights",
+        "url": "https://open.spotify.com/album/6Dxtzh4gdqDVHLOhzl8unA"
+      },
+      "artists": [
+        {
+          "name": "DIRTYTHREE",
+          "url": "https://open.spotify.com/artist/4FBSXEaE4sG5WlTgfzIx51"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Evening Lights",
+      "url": "https://open.spotify.com/track/0O67R58LAQpZOVj45jRjJc"
     },
     {
       "album": {
@@ -31144,7 +31184,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 109218,
       "name": "Fermata Rework",
       "url": "https://open.spotify.com/track/6FwlBgZbAlkxurt0OVqAH9"
@@ -33156,6 +33196,32 @@
       "duration_ms": 140487,
       "name": "Flower",
       "url": "https://open.spotify.com/track/0G52fBvewup6hAtsj3Ki2V"
+    },
+    {
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/1stDjRNAV6aZUsG6ed5pk7"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "Christian Dias",
+          "url": "https://open.spotify.com/artist/0AkBjLiX0pLTumgzGKd1La"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/6p8krD9yIzWwpIE8bMU7yH"
     },
     {
       "album": {
@@ -39592,7 +39658,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 144800,
       "name": "Havana",
       "url": "https://open.spotify.com/track/0Fnd5kcXI1YpamZNdznEPL"
@@ -41270,7 +41336,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 108000,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/4smqcp7wpCfclJHaWJGYP3"
@@ -41782,7 +41848,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 133667,
       "name": "Hot Ice Tea",
       "url": "https://open.spotify.com/track/6TaHz6VKJPonV2rGBbXvz4"
@@ -43732,7 +43798,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 146866,
       "name": "ILY Eeve",
       "url": "https://open.spotify.com/track/3tSkSs0h0zeC6mtvmXz0Uu"
@@ -46788,6 +46854,28 @@
       "duration_ms": 92671,
       "name": "Je Te Met Au D\u00e9fi (feat. Nohidea)",
       "url": "https://open.spotify.com/track/44q3z1tWKbYbVKkHyJOO7p"
+    },
+    {
+      "album": {
+        "name": "Jehzz",
+        "url": "https://open.spotify.com/album/3W3iaK253n1jdghHkeOLLn"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Jehzz",
+      "url": "https://open.spotify.com/track/170ZmbYgGk5kSb0WwFarSS"
     },
     {
       "album": {
@@ -53804,7 +53892,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 89823,
       "name": "Los Canchales",
       "url": "https://open.spotify.com/track/0UBGYPI2xkcB5xrDI5hyBB"
@@ -60862,7 +60950,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 117162,
       "name": "Morning Rays",
       "url": "https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR"
@@ -72800,7 +72888,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 101647,
       "name": "Present",
       "url": "https://open.spotify.com/track/0ICLmKVuRYleOtxyrp2fQ8"
@@ -79768,7 +79856,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 126857,
       "name": "Seed",
       "url": "https://open.spotify.com/track/46rN0dUTqxTeWtF0g1lgKr"
@@ -81798,7 +81886,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 167191,
       "name": "Sixsteps On The Rooftop",
       "url": "https://open.spotify.com/track/069s6ALDvl8NhI6557jzOU"
@@ -82758,7 +82846,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 116000,
       "name": "Slow Drip",
       "url": "https://open.spotify.com/track/7KvWW99v6fnmQGRN8yXjRP"
@@ -86944,7 +87032,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 102684,
       "name": "Steezy Days",
       "url": "https://open.spotify.com/track/4um5DQaOjpt3B5k8XeHP44"
@@ -103010,7 +103098,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 144545,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/56qBcUto6CZXjRJpqHxb3Y"

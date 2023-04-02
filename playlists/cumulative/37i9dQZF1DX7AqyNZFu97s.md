@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Faye Meana
 
-858 songs - 1 day 22 hr 24 min
+859 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [Go Slow \(Radio Edit\)](https://open.spotify.com/track/01NMbasrQZCSb14fVNcyqT) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [Sinead White](https://open.spotify.com/artist/0bow8GsVd622Y1NEGOeEL0) | [Go Slow \(Radio Edit\)](https://open.spotify.com/album/5619uh8sb0C3lqzkDZQIzE) | 2:58 | 2022-01-05 | 2022-03-09 |
 | [go try](https://open.spotify.com/track/12qBV7gzIJ9QVWiAdO5MDY) | [petal boy](https://open.spotify.com/artist/0ZPEyvYITWMAedn4Wtx0mr) | [go try](https://open.spotify.com/album/5aiFK7YdNdJrY2v2qahmBz) | 2:20 | 2022-09-14 | 2022-10-20 |
 | [god damn shame](https://open.spotify.com/track/0E1MhNoaV7boJfi58aNsV0) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [god damn shame](https://open.spotify.com/album/4tslZ022UfQGn98tQIk3WU) | 2:26 | 2022-09-14 | 2022-10-29 |
-| [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 | 2023-03-22 |  |
+| [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 | 2023-03-28 |  |
+| [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 | 2023-03-22 | 2023-04-02 |
 | [Gold](https://open.spotify.com/track/2y53ADfj7m4kUfoj78TPAR) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Maya Law](https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6) | [Gold](https://open.spotify.com/album/7FOa50ihrigexQczrauLb1) | 3:32 | 2022-01-05 | 2023-01-05 |
 | [Gone](https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm) | [Jasmine Oakley](https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL) | [Gone](https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K) | 3:46 | 2022-02-02 | 2023-03-09 |
 | [Gone Away](https://open.spotify.com/track/20TQFjdslMaSvYRJkBYxNA) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Gone Away](https://open.spotify.com/album/7EMYsTL9x51BD6szWpUmP6) | 4:50 | 2022-09-28 | 2022-12-01 |

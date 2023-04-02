@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5?si=zguId75MQUyZns7qx7F1UA">Gocho</a> y <a href="https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd?si=rWizdY1GQwqOSm4ygMKFSQ">Alex Zurdo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,429 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,515 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hablaré](https://open.spotify.com/track/4jXl8STWUbk8xx6l4A5Q5Y) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Hablaré](https://open.spotify.com/album/6dazML53qeNTJgjyQ8EADz) | 3:45 |
 | 2 | [Como Andarán Dos](https://open.spotify.com/track/0RbxXAuZ5OxMbijy1f91eP) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Jesus Boy](https://open.spotify.com/album/5Kl8U6PCBZZtQYF0BIdZkZ) | 3:14 |
-| 3 | [Somos La Luz](https://open.spotify.com/track/2MFboxJDW6YUT9kJICmnBD) | [Nestor Ortega](https://open.spotify.com/artist/6FRpjUASeGXnWNegj3cmfi), [Samuel Lonzoy](https://open.spotify.com/artist/3AExKIYl9cU5JDo3Zb2g6H) | [Somos La Luz](https://open.spotify.com/album/23qUQCW1pyI0RwUtyQ6FFK) | 3:03 |
+| 3 | [Somos La Luz](https://open.spotify.com/track/2MFboxJDW6YUT9kJICmnBD) | [Nestor Ortega](https://open.spotify.com/artist/6FRpjUASeGXnWNegj3cmfi), [Samuel lonzoy](https://open.spotify.com/artist/2p2UqHWUZaWmyClCbL2YAO) | [Somos La Luz](https://open.spotify.com/album/23qUQCW1pyI0RwUtyQ6FFK) | 3:03 |
 | 4 | [Así Así](https://open.spotify.com/track/7fHxZmHVMQj5OsnpWodKZB) | [Elias Morán](https://open.spotify.com/artist/2JLBxo92sJbMwYYXcetxvv), [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X) | [Así Así](https://open.spotify.com/album/1D9smNaOGlIH3yLptMEnqT) | 4:29 |
 | 5 | [Habitación](https://open.spotify.com/track/2ZcCl1DWLz0bUePFC4yPku) | [Frank Morgan](https://open.spotify.com/artist/6Rx73MoVELEE9UrgvxNYqb) | [Habitación](https://open.spotify.com/album/2Erx3r0jNNWxttjUI7Ajou) | 3:14 |
 | 6 | [Santo Espíritu](https://open.spotify.com/track/7pTBwEInekrkhZwsbow2Fa) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Santo Espíritu](https://open.spotify.com/album/1U3WKVZB7o268YPH48OMj7) | 3:49 |

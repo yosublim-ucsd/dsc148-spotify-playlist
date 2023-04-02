@@ -1,6 +1,6 @@
 {
   "description": "All about Korean Jazz hits & new (Cover: U-jin(\uc720\uc9c4))",
-  "num_followers": 9160,
+  "num_followers": 9180,
   "original_name": "Jazzy Korea",
   "owner": {
     "name": "Spotify",
@@ -75,17 +75,21 @@
     {
       "added_at": "2023-03-31 13:31:54",
       "album": {
-        "name": "MURMURANDO",
+        "name": "MURMURANDO (Feat. Sora Kim)",
         "url": "https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No"
       },
       "artists": [
         {
           "name": "Hanna Kim",
-          "url": "https://open.spotify.com/artist/6ZLpbFVyzK7aGGndlO2Afi"
+          "url": "https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln"
+        },
+        {
+          "name": "Sora Kim",
+          "url": "https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An"
         }
       ],
       "duration_ms": 493480,
-      "name": "MURMURANDO",
+      "name": "MURMURANDO (Feat. Sora Kim)",
       "url": "https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV"
     },
     {

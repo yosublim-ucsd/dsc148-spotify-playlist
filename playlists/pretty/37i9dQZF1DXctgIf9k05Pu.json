@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 229823,
+  "num_followers": 229905,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGIyMTFhOWM4Y2VjOTYyNWFlOTZkYTRiYjdhMmE5YTY0",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGYzN2MyMzdkMTFiMjQzNzI5MDIwMmRjNzE4ODQ2M2U2",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Vibes 2",
-        "url": "https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz"
-      },
-      "artists": [
-        {
-          "name": "The Deli",
-          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
-        }
-      ],
-      "duration_ms": 136914,
-      "name": "5:32pm",
-      "url": "https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 117495,
       "name": "Affection",
       "url": "https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Vibes 2",
+        "url": "https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz"
+      },
+      "artists": [
+        {
+          "name": "The Deli",
+          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
+        }
+      ],
+      "duration_ms": 136914,
+      "name": "5:32pm",
+      "url": "https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -435,26 +435,6 @@
       "duration_ms": 99996,
       "name": "Sakura Trees",
       "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Theres Still Us",
-        "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
-      },
-      "artists": [
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        },
-        {
-          "name": "Shiloh",
-          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "I'm sorry",
-      "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -871,6 +851,22 @@
       "duration_ms": 258144,
       "name": "Aesthetic Girl",
       "url": "https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "\u30b9\u30e2\u30fc\u30af",
+        "url": "https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP"
+      },
+      "artists": [
+        {
+          "name": "SwuM",
+          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "\u30b9\u30e2\u30fc\u30af",
+      "url": "https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00"
     }
   ],
   "unique_name": "Aesthetic Lofi",

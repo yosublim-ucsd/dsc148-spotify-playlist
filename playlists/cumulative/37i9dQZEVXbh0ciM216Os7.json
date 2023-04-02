@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 182918,
       "name": "Hungry Heart ft. Hayley Kiyoko",
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 173431,
       "name": "Insane (feat. Ant Clemons)",
       "url": "https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ"
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "PSYCHO (Metal Version)",
+        "url": "https://open.spotify.com/album/0dkjVxhFAmNFY9RDokxMvp"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229448,
+      "name": "PSYCHO (Metal Version)",
+      "url": "https://open.spotify.com/track/3NI6G8TcZce3tqdTbiA9Hi"
+    },
+    {
+      "album": {
         "name": "Rebel Yell (Metal Version)",
         "url": "https://open.spotify.com/album/2j8HEiShI7KoHsKgizPrs8"
       },
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 298561,
       "name": "Rivers - Live At The Afas Live",
       "url": "https://open.spotify.com/track/6PRQE3khfCrdun9EmO1Fqx"
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 262079,
       "name": "We Didn't Start The Fire (Metal Version)",
       "url": "https://open.spotify.com/track/7MbRmAGg8QFbltXzWLqSHp"

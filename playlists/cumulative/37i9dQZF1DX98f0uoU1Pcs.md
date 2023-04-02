@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: The Nude Party
 
-414 songs - 22 hr 14 min
+415 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Escape](https://open.spotify.com/track/14Y2ZV4mlsrvC9JXrirdFk) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Escape](https://open.spotify.com/album/0teXnsPtJc6gQIoMuLGDZa) | 3:15 | 2021-10-07 | 2022-10-01 |
 | [Everything is Better](https://open.spotify.com/track/0hmEoSNZjEezsDwD1LkSnB) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0Mc53SUnWord30l26xo1I6) | 3:05 | 2022-01-07 | 2022-03-12 |
 | [Everywhere is War](https://open.spotify.com/track/6UF5dU8SOiegM5f5u0mh7v) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Everywhere is War \(feat\. Conor Oberst\)](https://open.spotify.com/album/2BNSVrjHOZaPBQQLzQH9s6) | 3:14 | 2023-03-10 |  |
-| [Expendables](https://open.spotify.com/track/6P1uUvOD9m6uoyblKlRK28) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/2k0kblfQyMpcgwYoaPNpOw) | 2:18 | 2023-01-27 |  |
+| [Expendables](https://open.spotify.com/track/018a6ONxjnDfhweFiYNNTr) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/1QgMwxUPs0zNZmbp2hE08U) | 2:18 | 2023-03-17 |  |
+| [Expendables](https://open.spotify.com/track/6P1uUvOD9m6uoyblKlRK28) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/2k0kblfQyMpcgwYoaPNpOw) | 2:18 | 2023-01-27 | 2023-04-02 |
 | [Eyes](https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Mushroom Death Sex Bummer Party](https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9) | 1:30 | 2022-08-16 |  |
 | [Fake Friends](https://open.spotify.com/track/5K8gMQd5drKhBK2nLr9DqZ) | [Tom Lumley & the Brave Liaison](https://open.spotify.com/artist/5t6sNqReVYRyKIL0M1VqzT) | [Fake Friends](https://open.spotify.com/album/5BxxFfPozthI7c79nna6Hx) | 3:22 | 2021-10-07 | 2022-06-18 |
 | [False Equivalent](https://open.spotify.com/track/6FQHJN8PFMzYVysVbzqPMh) | [Tijuana Panthers](https://open.spotify.com/artist/5XGoUe0WjmbOtppHlB7Taf) | [False Equivalent](https://open.spotify.com/album/1siB1xxieg2j0C9sQYlCBN) | 2:51 | 2022-06-17 | 2023-02-25 |

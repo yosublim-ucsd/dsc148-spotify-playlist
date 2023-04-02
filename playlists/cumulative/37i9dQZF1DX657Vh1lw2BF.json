@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Alqut3a Alswda (Ali Jassim)",
+        "url": "https://open.spotify.com/album/7lDUK09npn1mKhKraaVhys"
+      },
+      "artists": [
+        {
+          "name": "Ali Jassim",
+          "url": "https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239722,
+      "name": "Alqut3a Alswda",
+      "url": "https://open.spotify.com/track/3UKqGhPfNGPkLYsngm4bpZ"
+    },
+    {
+      "album": {
         "name": "Alqut3a Alswda",
         "url": "https://open.spotify.com/album/0vIyyR9V6vFBYvnmulhY22"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 239722,
       "name": "Alqut3a Alswda",
       "url": "https://open.spotify.com/track/5fV0f2vcMl8LWi9Y1U5sK4"
@@ -792,6 +810,24 @@
     {
       "album": {
         "name": "Hodhnak Mawtni",
+        "url": "https://open.spotify.com/album/4ubYHggYdezc3cDT8vujWS"
+      },
+      "artists": [
+        {
+          "name": "Dumooa Tahseen",
+          "url": "https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211417,
+      "name": "Hodhnak Mawtni",
+      "url": "https://open.spotify.com/track/5yZ7LcmXne34THq3Zg4IjF"
+    },
+    {
+      "album": {
+        "name": "Hodhnak Mawtni",
         "url": "https://open.spotify.com/album/71oFQ2qJ3Qza57Qh5mLVco"
       },
       "artists": [
@@ -802,7 +838,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 211417,
       "name": "Hodhnak Mawtni",
       "url": "https://open.spotify.com/track/6GFJrwSjvqZsVgwWaMXs9D"
@@ -1428,10 +1464,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 250334,
       "name": "Teba",
       "url": "https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4"
+    },
+    {
+      "album": {
+        "name": "Teba",
+        "url": "https://open.spotify.com/album/5RIAxQXZR22vW84YXlPJNw"
+      },
+      "artists": [
+        {
+          "name": "Saif Amer",
+          "url": "https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250334,
+      "name": "Teba",
+      "url": "https://open.spotify.com/track/1NDfQbuGp6kFmMyzpeixuB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. NAMIDA in cover!
 
-358 songs - 19 hr 50 min
+359 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1789](https://open.spotify.com/track/0gTbFATVuvMa5dDFTItGGf) | [sabd](https://open.spotify.com/artist/5U31znzcujcQqe1noxyODw) | [1789](https://open.spotify.com/album/7B4PPuiKQkGXTAU79uX4Y8) | 2:50 | 2022-08-04 | 2022-08-12 |
 | [20 Anni](https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH) | [As We Are](https://open.spotify.com/artist/6htRUFkFi7HpxnZ4kSQQfQ) | [20 Anni](https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D) | 2:30 | 2023-02-16 |  |
 | [A casa dei miei](https://open.spotify.com/track/5CyM9AldfTQmuvs0Tmy3B8) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [A casa dei miei](https://open.spotify.com/album/4a9Lx3MS7H0LTwrlAiGjNu) | 3:02 | 2022-07-21 | 2022-09-23 |
-| [A New Light](https://open.spotify.com/track/3OU1LHgAN5jN8ACshKZAqE) | [Amarcord](https://open.spotify.com/artist/48wxf1us9rk9qOPqL6Ltcp), [Altutt](https://open.spotify.com/artist/7JHeVFGMb4p2Ayq1jU0g3p) | [A New Light](https://open.spotify.com/album/15Zt9VuEljTvIzCAQo6Ge9) | 3:35 | 2023-02-02 |  |
+| [A New Light](https://open.spotify.com/track/3OU1LHgAN5jN8ACshKZAqE) | [Amarcord](https://open.spotify.com/artist/48wxf1us9rk9qOPqL6Ltcp), [Altutt](https://open.spotify.com/artist/7JHeVFGMb4p2Ayq1jU0g3p) | [A New Light](https://open.spotify.com/album/15Zt9VuEljTvIzCAQo6Ge9) | 3:35 | 2023-02-02 | 2023-04-02 |
 | [Aeroporto di città](https://open.spotify.com/track/5AobQ54GCauJZy45LStLg6) | [Eva\-Q](https://open.spotify.com/artist/3cBfELczRjo7xPOzgoBaS9) | [Aeroporto di città](https://open.spotify.com/album/5uu5BlWrM1msUIhiHlP04J) | 2:50 | 2022-12-15 | 2023-03-10 |
 | [Afterimage](https://open.spotify.com/track/4kS29RC8JZ7rxIFOs30ppc) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Afterimage](https://open.spotify.com/album/12zYtbjFPBR7LVv8yCy0uN) | 2:28 | 2022-08-04 | 2022-08-12 |
 | [Agata](https://open.spotify.com/track/4C2Bpn24iZZHWUSfpQvLiv) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Agata](https://open.spotify.com/album/5OvRahjqujnEOetZFcPesY) | 3:44 | 2022-05-09 | 2022-06-03 |
@@ -245,7 +245,7 @@
 | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/track/406l3Gfz3GUdmbrOBhA5DH) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/album/6kN7YHy1mqESjJ64D8YQFD) | 6:17 | 2022-12-15 | 2023-01-20 |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-19 | 2022-07-01 |
 | [Per fortuna non t'ho visto più](https://open.spotify.com/track/4UUzOglsn0sSd4JvUq5iwr) | [Eleonora Toscani](https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD) | [Per fortuna non t'ho visto più](https://open.spotify.com/album/5ThHUuh06qZ58vOEEi1Z1j) | 2:31 | 2022-11-10 | 2023-02-03 |
-| [Per sempre con me](https://open.spotify.com/track/3R5Zzcdl1TlOOlPvH9ms2p) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp), [Roberta Sammarelli](https://open.spotify.com/artist/4p0xFyZO0ruUklDaQJoSEy) | [Per sempre con me](https://open.spotify.com/album/56dvZSgSM4diF5fA6IY7Jo) | 3:24 | 2023-03-09 |  |
+| [Per sempre con me](https://open.spotify.com/track/3R5Zzcdl1TlOOlPvH9ms2p) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp), [Roberta Sammarelli](https://open.spotify.com/artist/4p0xFyZO0ruUklDaQJoSEy) | [Per sempre con me](https://open.spotify.com/album/56dvZSgSM4diF5fA6IY7Jo) | 3:23 | 2023-03-09 |  |
 | [Pezzettino di fuoco](https://open.spotify.com/track/3dygYBnpoHRyGg1BXbISTC) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Pezzettino di fuoco](https://open.spotify.com/album/3cWOlZYIL3eExOmzb2UCtF) | 2:29 | 2023-03-23 |  |
 | [Piove Dentro](https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Piove Dentro](https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex) | 3:17 | 2023-03-02 |  |
 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 | 2022-05-12 | 2022-08-26 |
@@ -264,6 +264,7 @@
 | [PROVARCI](https://open.spotify.com/track/6A3cyQqgcK7etGZr3ytxWb) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PROVARCI](https://open.spotify.com/album/4gc0RD4I7jZv4JTvfxzlq5) | 2:39 | 2022-05-09 | 2022-09-02 |
 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 | 2022-09-01 | 2023-01-13 |
 | [Quattro Mani](https://open.spotify.com/track/3t7lGtFe1sWmlC9XbmZMtR) | [Bluagata](https://open.spotify.com/artist/7omRRCthvOtMCaRhEHx30S) | [Quattro Mani](https://open.spotify.com/album/31YHeb8EdstnKJ40HKYOAI) | 3:08 | 2022-05-09 | 2022-05-13 |
+| [Quello Che Non C'è \(feat\. Manuel Agnelli\)](https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [MOSTRO](https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt) | 3:55 | 2023-04-02 |  |
 | [Record](https://open.spotify.com/track/7bJJKJtXIDYsz87fpRArOs) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Record](https://open.spotify.com/album/6gMEYik1cWddt2je1HT0n1) | 3:30 | 2022-10-27 | 2022-11-18 |
 | [Requiem for TP](https://open.spotify.com/track/2tKkwGSScN2lXKPt4WnZ8r) | [Marnero](https://open.spotify.com/artist/1x22C5vb3nBm1GAmQxwz8N) | [Requiem for TP](https://open.spotify.com/album/3G2XhOuo98pWcII855p9ub) | 4:11 | 2022-10-10 | 2022-11-25 |
 | [Respiro](https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Respiro](https://open.spotify.com/album/1LykpuCRBeWXB9KnFYcYL8) | 3:33 | 2022-06-02 | 2022-09-30 |

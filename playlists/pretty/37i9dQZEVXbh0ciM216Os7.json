@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMDM5MjAsMDAwMDAwMDA1OGNlNDk2MzA3ZmNjZjg2NjExNGFlMjc3MWFjNjY5NQ==",
+  "snapshot_id": "MjgwMDM5MjAsMDAwMDAwMDAxNjQyNmZjOTcxNTNjNTFiYjRiMDU1MzcxNjQ4NTM1MQ==",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -91,6 +91,22 @@
       "duration_ms": 143006,
       "name": "Free Game",
       "url": "https://open.spotify.com/track/3e4t0zTcXMloTvdQgDUYnB"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "PSYCHO (Metal Version)",
+        "url": "https://open.spotify.com/album/0dkjVxhFAmNFY9RDokxMvp"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 229448,
+      "name": "PSYCHO (Metal Version)",
+      "url": "https://open.spotify.com/track/3NI6G8TcZce3tqdTbiA9Hi"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -259,22 +275,6 @@
       "duration_ms": 190893,
       "name": "Black Sunflower",
       "url": "https://open.spotify.com/track/6OWxTiwhdQXXidxdJSxHbo"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Leo Metal, Vol. 42",
-        "url": "https://open.spotify.com/album/23hn5b2ewBQ2L0FuYhJ5Gt"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "We Didn't Start The Fire (Metal Version)",
-      "url": "https://open.spotify.com/track/7MbRmAGg8QFbltXzWLqSHp"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -603,34 +603,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Insane (feat. Ant Clemons)",
-        "url": "https://open.spotify.com/album/5dBWQQ0cqVGcYZZWRYlaY2"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Ant Clemons",
-          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
-        }
-      ],
-      "duration_ms": 173431,
-      "name": "Insane (feat. Ant Clemons)",
-      "url": "https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Things I Like",
         "url": "https://open.spotify.com/album/77sn93da6cO2WivIKLaahQ"
       },
@@ -671,50 +643,6 @@
       "duration_ms": 217808,
       "name": "Sweet Southern Comfort",
       "url": "https://open.spotify.com/track/7JSaBwtAXtQ91vE4HLVrqL"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Rivers (Live At The Afas Live)",
-        "url": "https://open.spotify.com/album/6aU1IBgcfYGEdJT37piNLN"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        },
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 298561,
-      "name": "Rivers - Live At The Afas Live",
-      "url": "https://open.spotify.com/track/6PRQE3khfCrdun9EmO1Fqx"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Hungry Heart ft. Hayley Kiyoko",
-        "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 182918,
-      "name": "Hungry Heart ft. Hayley Kiyoko",
-      "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

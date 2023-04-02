@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones avec Philippe Brach, Eli Rose, Maude Audet et Super Plage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,189 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,201 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 9 | [Fisheye \(feat\. PLK\)](https://open.spotify.com/track/4sHaH3RTui7BYduD9b9Hrt) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Fisheye](https://open.spotify.com/album/2NhCNkrBaNu6cUiYbSujrd) | 3:10 |
 | 10 | [J'oublie](https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [J'oublie](https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls) | 2:47 |
 | 11 | [CV \(feat\. RK\)](https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Enchanté](https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu) | 2:54 |
-| 12 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/61fFh2G8tRalJbkvufFR9Y) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 |
+| 12 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 |
 | 13 | [Gabriel](https://open.spotify.com/track/4kfbDkVE9R35VQyem72ypS) | [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Jillionaire](https://open.spotify.com/artist/6vW5qwWVSTErBV1HovumXm) | [Gabriel](https://open.spotify.com/album/0VBafPEujxjs7wbBIW47fu) | 2:40 |
 | 14 | [Danser](https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Danser](https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55) | 2:56 |
 | 15 | [Je t'haine](https://open.spotify.com/track/1Rn1zphLtXbGF436KG5Ft9) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Je t'haine](https://open.spotify.com/album/19rudC4R2eIZ1DGdE8yZAa) | 2:20 |

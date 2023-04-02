@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6285,
+  "num_followers": 6288,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMGU0ZWYxMWVmN2FmNmY4YTk5ZjVmYWU2ZjNiZWU0MmY3",
+  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMGRlOTIzZmVlNGFjNjVkNzQ2MjZmY2FkMzI0MTg3ZWM3",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/7ubRAfqNie3ohAPDwc0tW8"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Little by little - instrumental",
-      "url": "https://open.spotify.com/track/7pLjdigQtmG3Jv0tVc4izP"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 234093,
       "name": "You're Cold - Instrumental",
       "url": "https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "duration_ms": 256526,
+      "name": "Love Poem",
+      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
-        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/7ubRAfqNie3ohAPDwc0tW8"
       },
       "artists": [
         {
-          "name": "\uc9f1\uad70 Zzanggoon",
-          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 256526,
-      "name": "Love Poem",
-      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
+      "duration_ms": 266213,
+      "name": "Little by little - instrumental",
+      "url": "https://open.spotify.com/track/7pLjdigQtmG3Jv0tVc4izP"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/5mmVliOxJVjTrV9axuBfnI"
       },
       "artists": [
         {
-          "name": "DMEANOR",
-          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
         }
       ],
-      "duration_ms": 222786,
-      "name": "I'll Take You To Tomorrow - Instrumental",
-      "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
+      "duration_ms": 229600,
+      "name": "I Fall In Love - Instrumental",
+      "url": "https://open.spotify.com/track/42QFImERzyMNzljmaOLYrK"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/5mmVliOxJVjTrV9axuBfnI"
+        "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
       },
       "artists": [
         {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+          "name": "DMEANOR",
+          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
         }
       ],
-      "duration_ms": 229600,
-      "name": "I Fall In Love - Instrumental",
-      "url": "https://open.spotify.com/track/42QFImERzyMNzljmaOLYrK"
+      "duration_ms": 222786,
+      "name": "I'll Take You To Tomorrow - Instrumental",
+      "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Piano Covers, Vol. 7 (Best of 2021)",
-        "url": "https://open.spotify.com/album/35LgiOE6OUXmRidKGVOoSb"
-      },
-      "artists": [
-        {
-          "name": "Piano Peace",
-          "url": "https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/05OogEWyJLjhUaNSdXBK63"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 245367,
       "name": "Bravo, My Life! - Instrumental",
       "url": "https://open.spotify.com/track/7mPhNWuAeE4HNScrXCdPj1"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Piano Covers, Vol. 7 (Best of 2021)",
+        "url": "https://open.spotify.com/album/35LgiOE6OUXmRidKGVOoSb"
+      },
+      "artists": [
+        {
+          "name": "Piano Peace",
+          "url": "https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/05OogEWyJLjhUaNSdXBK63"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1175,18 +1175,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
+        "name": "When the Camellia Blooms (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/2KNWyrKE9ltZRXUzO7x0tw"
       },
       "artists": [
         {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/6IOxN1UboXNeUIxu91ygmZ"
+        },
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4JvkSeufESz68wTmyaLLNU"
         }
       ],
-      "duration_ms": 230768,
-      "name": "Please Forget Me - Instrumental",
-      "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
+      "duration_ms": 238653,
+      "name": "You Are My Vitamin - Instrumental",
+      "url": "https://open.spotify.com/track/1qOtB0eHvyIWZ31Ml4PhKH"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "When the Camellia Blooms (Original Television Soundtrack) Pt.3",
-        "url": "https://open.spotify.com/album/2KNWyrKE9ltZRXUzO7x0tw"
+        "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
       },
       "artists": [
         {
-          "name": "Motte",
-          "url": "https://open.spotify.com/artist/6IOxN1UboXNeUIxu91ygmZ"
-        },
-        {
-          "name": "YONGZOO",
-          "url": "https://open.spotify.com/artist/4JvkSeufESz68wTmyaLLNU"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 238653,
-      "name": "You Are My Vitamin - Instrumental",
-      "url": "https://open.spotify.com/track/1qOtB0eHvyIWZ31Ml4PhKH"
+      "duration_ms": 230768,
+      "name": "Please Forget Me - Instrumental",
+      "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "K-pop Reimaginings",
-        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
-      },
-      "artists": [
-        {
-          "name": "postmoderndisco",
-          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
-        }
-      ],
-      "duration_ms": 274917,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "I Still Need You",
         "url": "https://open.spotify.com/album/26VATjHeBHhjmqe8vhz8Kz"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 226618,
       "name": "I Still Need You - Instrumental",
       "url": "https://open.spotify.com/track/5CPuSwBmu12OIIXdoxwpNU"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "duration_ms": 274917,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
         }
       ],
-      "duration_ms": 294067,
-      "name": "MR - Piano Version",
-      "url": "https://open.spotify.com/track/09j03gGhfEEN1DKmokreoT"
+      "duration_ms": 329355,
+      "name": "REPLAY - Piano Version",
+      "url": "https://open.spotify.com/track/7y2GtIPDukvL7MggApuboS"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Blood Sweat & Tears",
-        "url": "https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o"
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
       },
       "artists": [
         {
@@ -1628,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 241992,
-      "name": "Blood Sweat & Tears",
-      "url": "https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA"
+      "duration_ms": 240335,
+      "name": "Boy With Luv",
+      "url": "https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO"
     },
     {
       "added_at": "2022-11-02 13:40:53",

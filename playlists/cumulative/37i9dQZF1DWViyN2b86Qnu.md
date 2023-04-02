@@ -2,7 +2,7 @@
 
 ### [Transcend](https://open.spotify.com/playlist/37i9dQZF1DWViyN2b86Qnu)
 
-> Celebrating International Transgender Day of Visibility\. Learn more and support <a href="http://spotify.com/transvisibility">here.</a> Cover: Quinn Christopherson
+> <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Quinn Christopherson
 
 227 songs - 12 hr 45 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 
 > Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。© 2023 内藤泰弘・少年画報社／「TRIGUN STAMPEDE」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,379 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,452 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 20 | [Reckless Driving](https://open.spotify.com/track/0qHkR74gcxjpgeXSgBWeIE) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 0:46 |
 | 21 | [Time Left](https://open.spotify.com/track/1cO1b3wOIlAuokY8V2u195) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 5:11 |
 | 22 | [Rollo's Ill](https://open.spotify.com/track/79vealqcx9RRqYl7y8g0Oo) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:28 |
-| 23 | [Energy of The Plant](https://open.spotify.com/track/5takVMwKLR4TQlGSpuaIKJ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 2:16 |
+| 23 | [Energy of The Plant](https://open.spotify.com/track/1uLzROCvBOTRctoKaoTCMU) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:16 |
 | 24 | [Complicity](https://open.spotify.com/track/1L8dAeI3mJUWP4PdYBBvcK) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:23 |
 | 25 | [Dialogue](https://open.spotify.com/track/0GA2FUwZjOw7HTuwjEQ6u7) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 3:10 |
 | 26 | [Luida's Decision](https://open.spotify.com/track/3NDKKYkX1NDDZdLGsRB25T) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 3:00 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 29 | [Duet](https://open.spotify.com/track/0la244keUs78ymNYy0mK13) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 1:26 |
 | 30 | [Last Run](https://open.spotify.com/track/0Vu58tSlwtDdvY6MdAArFR) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 7:47 |
 | 31 | [Drain Gate](https://open.spotify.com/track/17GBap2xZdq1fQhDd5Em4v) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 1:28 |
-| 32 | [Geodome](https://open.spotify.com/track/5yqCmWMtbAx2rov81YwxiA) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 2:47 |
+| 32 | [Geodome](https://open.spotify.com/track/6A6QUDTGxPrVc2UpxVe3Mc) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:47 |
 | 33 | [Blues Harp in The Wasteland\-ii](https://open.spotify.com/track/5Wef4pqNhF8KY0w19xHuAC) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 0:36 |
 | 34 | [Human or Plant?](https://open.spotify.com/track/38xpIxhCnCO8EIsMbz4wil) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 1:08 |
 | 35 | [Erhu in July](https://open.spotify.com/track/66P3vRKqhELHLwtFkJXdp8) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 0:44 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 44 | [Memory Retrieval](https://open.spotify.com/track/6qr0Kb0SgUnnj2pD7vpvRL) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 5:13 |
 | 45 | [Plant of Drain](https://open.spotify.com/track/5Qe1QN9FzGgmJiAZB5U9CJ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 3:09 |
 | 46 | [Conception](https://open.spotify.com/track/72IxizsbYfS3Pg3AberyRf) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 1:30 |
-| 47 | [Memory of Rem](https://open.spotify.com/track/6IPYGQkCFSRpeXh1at4OY4) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 2:49 |
+| 47 | [Memory of Rem](https://open.spotify.com/track/4oLeBzUT7JP7Ym7U30RtzV) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:49 |
 | 48 | [Memory of Geranium](https://open.spotify.com/track/3Z8uCQ81GwWHR0IRqcVwBa) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 1:33 |
 | 49 | [Drain Arm](https://open.spotify.com/track/5VQEDM7TX8ELS6DXbbZn96) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx), [Zinee](https://open.spotify.com/artist/3bEZq7F1YgxVIINr7OrK1K) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 5:37 |
 | 50 | [Epilogue](https://open.spotify.com/track/6EL0KHuGisTN2KRRspiDcP) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 79 | [get even](https://open.spotify.com/track/6f4G8cwwKtbURYV4P6eWEU) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:26 |
 | 80 | [snatch!snatch!snatch!](https://open.spotify.com/track/7KG0iTQojPBMdi0ZgSM2Lx) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:16 |
 
-Snapshot ID: `MTY3OTg1MDQ0NSwwMDAwMDAwMDE0MDA3ZjQ4ODgzODU3MmI0ZjMxMjExMTRhNGFhNTlj`
+Snapshot ID: `MTY3OTg1MDQ0NSwwMDAwMDAwMGVjZmRkMjA0YTllZTBjZTVlYzJmNDUxMjA1ZWUzZGI0`

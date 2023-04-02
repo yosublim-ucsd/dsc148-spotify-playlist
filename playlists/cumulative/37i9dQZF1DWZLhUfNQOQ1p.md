@@ -4,7 +4,7 @@
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-128 songs - 7 hr 55 min
+129 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Feel Me](https://open.spotify.com/track/6nlNdYGf4TnWPKzxdPZW90) | [Dalac](https://open.spotify.com/artist/66b0xoSrR8tM1qjoEwsDlq) | [Feel Me](https://open.spotify.com/album/0yAeK2SHxC7xKBP1N3jbpB) | 4:02 | 2021-08-05 | 2022-07-13 |
 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 | 2021-08-05 |  |
 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 | 2021-08-05 |  |
-| [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 | 2021-08-05 |  |
+| [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 | 2021-08-05 | 2023-04-02 |
 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 | 2021-08-05 |  |
 | [Happiness \- Eternal Moment Mix](https://open.spotify.com/track/23eieUqlZtoCmziKZAKUXF) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Happiness \(Eternal Moment Mix\)](https://open.spotify.com/album/15Ur2tyY5TVmSRyXSRw4GA) | 3:11 | 2021-08-05 | 2022-07-29 |
 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 | 2021-08-05 |  |
@@ -68,6 +68,7 @@
 | [Love Me \(Don't Worry\)](https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Love Me \(Don't Worry\)](https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l) | 2:42 | 2021-08-05 |  |
 | [Love Me \- GAMPER & DADONI Remix](https://open.spotify.com/track/3EbedhPLDbDyRbdI0UoOh6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Love Me \(GAMPER & DADONI Remix\)](https://open.spotify.com/album/5QRNgCoAaI2dlRMXnlKfz6) | 2:44 | 2021-08-05 | 2022-07-17 |
 | [Love You Tonight](https://open.spotify.com/track/5BbMKYskxFCCp7kacFBdRw) | [Martin Zandt](https://open.spotify.com/artist/3HVIhaXyOOKizvzcO9C1Mk) | [Love You Tonight](https://open.spotify.com/album/4oFF7Oh66kN9JT0DyjUW46) | 3:06 | 2021-08-05 | 2022-07-29 |
+| [Make It Work](https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Make It Work](https://open.spotify.com/album/6Ga7bHYIzazaFPfdbluAO9) | 2:49 | 2021-08-05 |  |
 | [Make You Feel Like](https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Make You Feel Like](https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU) | 3:07 | 2021-08-05 |  |
 | [Mama Say \(farfetch'd Remix\)](https://open.spotify.com/track/09jTPmbrPueZItnMez0zTx) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr), [Parula](https://open.spotify.com/artist/1sFfjHfX74mGrZpgt7ErQL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Mama Say \(farfetch'd Remix\)](https://open.spotify.com/album/0XvmvBlX3WkQGeXZmYBUiL) | 2:51 | 2021-08-05 | 2022-07-29 |
 | [Midnight](https://open.spotify.com/track/4cUJTkMh4JVO5hpZqW6Ywx) | [Koero](https://open.spotify.com/artist/6VZEf3IWsYZBUsDJOkU7Qe) | [Midnight](https://open.spotify.com/album/11AjG2WoyYYrH76ZQoRgkx) | 4:08 | 2021-08-05 | 2022-07-29 |

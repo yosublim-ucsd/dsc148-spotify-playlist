@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqa0kq6SUk4.md) - [plain]
 
 > Reigning music queens to crowning princesses of Bollywood\. Cover \- Sunidhi Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,470 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,469 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

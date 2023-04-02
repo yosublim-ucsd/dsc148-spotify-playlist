@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Daryl Hall & John Oates",
-  "num_followers": 223273,
+  "num_followers": 223564,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5MDU5OCwwMDAwMDAwMDdmNGU0M2UwMjgxOWFlNzQ1OTQ2MjViNzY2OGJlNGJm",
+  "snapshot_id": "MTY4MDE5MDU5OCwwMDAwMDAwMDk4OGI1ZjEwNGIwOGZjMmE1NjNkODlkODU1MmZjYzdj",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Air Supply",
-        "url": "https://open.spotify.com/album/5BzC8cPHDqQYgPmc1TAo2t"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Just as I Am",
-      "url": "https://open.spotify.com/track/20WC5ZN72x0552U3EwCalR"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Cool Night",
         "url": "https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 218826,
       "name": "Cool Night",
       "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Air Supply",
+        "url": "https://open.spotify.com/album/5BzC8cPHDqQYgPmc1TAo2t"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/20WC5ZN72x0552U3EwCalR"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Quinella",
+        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Desert Moon",
         "url": "https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 368800,
       "name": "Desert Moon",
       "url": "https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Franke & The Knockouts (Original Recording Remastered)",
-        "url": "https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t"
-      },
-      "artists": [
-        {
-          "name": "Franke & The Knockouts",
-          "url": "https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Sweetheart",
-      "url": "https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Quinella",
-        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
+        "name": "Franke & The Knockouts (Original Recording Remastered)",
+        "url": "https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "Franke & The Knockouts",
+          "url": "https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0"
         }
       ],
-      "duration_ms": 294400,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
+      "duration_ms": 251293,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Dan Hill (1987)",
-        "url": "https://open.spotify.com/album/2iKLby0IRPdVvnAXmq3Ka7"
+        "name": "Fool's Paradise",
+        "url": "https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C"
       },
       "artists": [
         {
-          "name": "Dan Hill",
-          "url": "https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa"
+          "name": "Randy Goodrum",
+          "url": "https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0"
         }
       ],
-      "duration_ms": 226533,
-      "name": "Carmelia",
-      "url": "https://open.spotify.com/track/3jbG3BH5nGIxzj9aBuTMhW"
+      "duration_ms": 238373,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1103,50 +1103,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Fool's Paradise",
-        "url": "https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C"
+        "name": "Dan Hill (1987)",
+        "url": "https://open.spotify.com/album/2iKLby0IRPdVvnAXmq3Ka7"
       },
       "artists": [
         {
-          "name": "Randy Goodrum",
-          "url": "https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0"
+          "name": "Dan Hill",
+          "url": "https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa"
         }
       ],
-      "duration_ms": 238373,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4vBQzW7PH3ZbGPNnmwwzhu"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Never Stop Believing",
-      "url": "https://open.spotify.com/track/5FtsMjfhsP5rz7VdQwJlzX"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Street Corner Heroes",
-        "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Brooklyn Girls - Remastered",
-      "url": "https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27"
+      "duration_ms": 226533,
+      "name": "Carmelia",
+      "url": "https://open.spotify.com/track/3jbG3BH5nGIxzj9aBuTMhW"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1167,6 +1135,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4vBQzW7PH3ZbGPNnmwwzhu"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Never Stop Believing",
+      "url": "https://open.spotify.com/track/5FtsMjfhsP5rz7VdQwJlzX"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 264680,
       "name": "Once In a Lifetime",
       "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Street Corner Heroes",
+        "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
+      },
+      "artists": [
+        {
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Brooklyn Girls - Remastered",
+      "url": "https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27"
     },
     {
       "added_at": "2023-03-30 14:38:10",

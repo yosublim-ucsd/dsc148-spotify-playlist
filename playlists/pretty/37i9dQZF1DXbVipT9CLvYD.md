@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,182 likes - 57 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,308 likes - 57 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 22 | [Verithanam](https://open.spotify.com/track/1wPWGI2rjtTXEhiAylGKtF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 4:05 |
 | 23 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 |
 | 24 | [Aaluma Doluma](https://open.spotify.com/track/1Do2hDE0etMakAEQbyOd4L) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 4:18 |
-| 25 | [Karabuu](https://open.spotify.com/track/7FhQSpPqpPkqcx7bVee0LJ) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Sema Thimiru](https://open.spotify.com/album/6BdORdqfYz9YcPsJnrD2gG) | 3:38 |
+| 25 | [Karabuu](https://open.spotify.com/track/3cmhqa4DetZfW15xkglTeI) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Sema Thimiru](https://open.spotify.com/album/3OWDUlbIdW19QO20oq827h) | 3:38 |
 | 26 | [Karuthavanlaam Galeejaam](https://open.spotify.com/track/22cCckQ9DR4E94QhtUzSW3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:28 |
 | 27 | [Polakattum Para Para](https://open.spotify.com/track/2K058s9yrpoUfANaQt7Zu4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:34 |
 | 28 | [What a Karavaad](https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 4:27 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 56 | [Nanbanukku Koila Kattu](https://open.spotify.com/track/6IFIxZ68PdaKMcvcPytpkm) | [Saravedi Saran](https://open.spotify.com/artist/6n3uVs7rJIdBZQSQ8dJXI5) | [Kanchana 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1UzFQqFbsbQfnIN0B9FFew) | 4:40 |
 | 57 | [Damaalu Dumeelu](https://open.spotify.com/track/1Cf0jWwEUfHFpV7Ox5MQ8c) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bogan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HELb8dimYZvajrbPJGPXV) | 4:19 |
 
-Snapshot ID: `MTY3NzY1MTQ5NSwwMDAwMDAwMGNmYWI2NmM1MDNkYjYzZjAzNWY1MjllYmQ2ZmZhYmJl`
+Snapshot ID: `MTY3NzY1MTQ5NSwwMDAwMDAwMDUzZmRiZDYyNmM1NjI1MWQ3ZWQ2MDllZDEwMmIyYTAz`

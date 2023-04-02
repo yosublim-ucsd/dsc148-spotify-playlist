@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 37 | [Nasty](https://open.spotify.com/track/7wNEVi5lEzMcQepjnRiDco) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Nasty](https://open.spotify.com/album/0PvKepM5NBjgDLstZ3ZT26) | 2:51 |
 | 38 | [I Will Wait](https://open.spotify.com/track/67OcYgRuZyiiNyQsDihSQd) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [I Will Wait \(feat\. Hero Baldwin\)](https://open.spotify.com/album/36m1G2NmTQvGtRtjRTqc1Y) | 2:27 |
 | 39 | [Bang Bang](https://open.spotify.com/track/2WnDMt0gHvxNDGZg1C5ubs) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Menasa](https://open.spotify.com/artist/5jVEmgqUWoV06fNlLj6i5e), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Purple Alien](https://open.spotify.com/album/0o0MOOWupdi4WELWGvjVrn) | 2:49 |
-| 40 | [Over You](https://open.spotify.com/track/5NJR3lo29KoZPxryReYVff) | [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Over You](https://open.spotify.com/album/5cAdDyWJBLVM5fuvFelunR) | 2:51 |
-| 41 | [One Step Ahead](https://open.spotify.com/track/1BS8Q0JJ55uz7F1XVB9Qux) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [One Step Ahead](https://open.spotify.com/album/7Gih5gVnGbNGxsi82QacGU) | 3:02 |
+| 40 | [One Step Ahead](https://open.spotify.com/track/1BS8Q0JJ55uz7F1XVB9Qux) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [One Step Ahead](https://open.spotify.com/album/7Gih5gVnGbNGxsi82QacGU) | 3:02 |
+| 41 | [Over You](https://open.spotify.com/track/5NJR3lo29KoZPxryReYVff) | [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Over You](https://open.spotify.com/album/5cAdDyWJBLVM5fuvFelunR) | 2:51 |
 | 42 | [Anybody Out There](https://open.spotify.com/track/668C5FSQPOIeMsiWD9ChGz) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Anybody Out There](https://open.spotify.com/album/2WU0WngVSULKuckza6tI1J) | 3:16 |
 | 43 | [No More](https://open.spotify.com/track/334HzHK7nLLGRpMNrMUHh0) | [BangLoud](https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [No More](https://open.spotify.com/album/5H2gM1ceIGo1cCwAGmd2LR) | 3:09 |
 | 44 | [Jouw Geluk \(Vivo Por Ti\)](https://open.spotify.com/track/2W6227oegq7pAkYGucvziS) | [Déon Leon](https://open.spotify.com/artist/3oaUkKeOrroHK6zxaMttCj) | [Jouw Geluk \(Vivo Por Ti\)](https://open.spotify.com/album/5DYeSUrMJ1s0VaIFjmeAyy) | 3:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 50 | [Till The Sun Comes Down](https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [The Trixx](https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT), [Emy](https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85) | [Till The Sun Comes Down](https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0) | 3:54 |
 | 51 | [Honest](https://open.spotify.com/track/1zfLmKG6W76HcNwfT8yI3G) | [Matt Florgan](https://open.spotify.com/artist/1hyFVrYjtDUnLJVzjMprlZ), [Davis Mallory](https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV) | [Honest](https://open.spotify.com/album/2d1PTvc0fyrS9wDLGKyF6r) | 2:24 |
 
-Snapshot ID: `MjgwMDUxMjcsMDAwMDAwMDA1MWY5MTYyMzViZTVmNzUwZjU2NDQwMGI0N2JmOWIwMw==`
+Snapshot ID: `MjgwMDY1NjcsMDAwMDAwMDBhYTg5N2YxMjk0NmExZmMxYzM5MGJjYTgyZWYyNDljZg==`

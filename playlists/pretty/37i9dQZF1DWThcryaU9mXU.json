@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 37618,
+  "num_followers": 37688,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMGIxZjEyNDA2NmQ2NWFmYTM3YTA5ODE2NmY3YTg2YThh",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDdmNzJmNThkNmIyOTkyM2ZjMTFlZDMzMjIwYWEwNTg4",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -393,7 +393,7 @@
         }
       ],
       "duration_ms": 208000,
-      "name": "Driftin' Blues - Single Version / Stereo",
+      "name": "Driftin' Blues - Single Version",
       "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
     },
     {
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 255226,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Man of the World: The Anthology 1968-1988",
-        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 339466,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Man of the World: The Anthology 1968-1988",
+        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "The Chicago Way",
+        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "When Will You Tell Him About Me?",
+      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Live At The Regal",
-        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Help The Poor",
-      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The Chicago Way",
-        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
+        "name": "Live At The Regal",
+        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
       },
       "artists": [
         {
-          "name": "Toronzo Cannon",
-          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 269560,
-      "name": "When Will You Tell Him About Me?",
-      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
+      "duration_ms": 158333,
+      "name": "Help The Poor",
+      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Been Gone Too Long",
-        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 319960,
       "name": "No More Lonely Nights",
       "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Memphis Moonlight",
+        "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
+      },
+      "artists": [
+        {
+          "name": "Deb Ryder",
+          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
+        }
+      ],
+      "duration_ms": 288856,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Soul for the Heart",
         "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 275973,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Memphis Moonlight",
-        "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
-      },
-      "artists": [
-        {
-          "name": "Deb Ryder",
-          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
-        }
-      ],
-      "duration_ms": 288856,
-      "name": "Love Is Gone",
-      "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Peepin' And Hidin'",
-        "url": "https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV"
-      },
-      "artists": [
-        {
-          "name": "Wilbert Harrison",
-          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
-        }
-      ],
-      "duration_ms": 223477,
-      "name": "What Am I Living For",
-      "url": "https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "What do You Feel?",
         "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 334000,
       "name": "What do You Feel?",
       "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Peepin' And Hidin'",
+        "url": "https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Harrison",
+          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+        }
+      ],
+      "duration_ms": 223477,
+      "name": "What Am I Living For",
+      "url": "https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd"
     }
   ],
   "unique_name": "Just Me and the Blues",

@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 194746,
       "name": "Amor Incomparable",
       "url": "https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN"
@@ -1450,6 +1450,24 @@
       "duration_ms": 246141,
       "name": "No S\u00e9",
       "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
+    },
+    {
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ"
+      },
+      "artists": [
+        {
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246048,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Jão, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,575 likes - 95 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,541 likes - 95 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 32 | [TIPO EU](https://open.spotify.com/track/5rnZwEM4x70Arx4hbEOPSg) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [TIPO EU](https://open.spotify.com/album/0jQseakS3kI0YEtyzJl76n) | 3:28 |
 | 33 | [1+1 É Pouco](https://open.spotify.com/track/0vB8TwivSx9NBMRXaMLIZw) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [1+1 É Pouco](https://open.spotify.com/album/54dRucOxK6INlDp0AuVAcd) | 2:37 |
 | 34 | [Bandida](https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl) | [Bruna Griphao](https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo) | [Bandida](https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ) | 2:20 |
-| 35 | [MALA MEMO](https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:16 |
+| 35 | [MALA MEMO](https://open.spotify.com/track/2RBgpZ7VODWZUjr0onXIzW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:16 |
 | 36 | [dopado](https://open.spotify.com/track/25xpyg4ACV5XjO7yaX5SMy) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq), [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [dopado](https://open.spotify.com/album/26yqJMmOlMnkhB6gBLMr3H) | 3:02 |
 | 37 | [Zero Coragem](https://open.spotify.com/track/6Swwu1rtpfcFjOSgkrgB9Z) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Zero Coragem](https://open.spotify.com/album/4V0V4L7SjaicbPMHR7qBOM) | 2:28 |
 | 38 | [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 94 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
 | 95 | [VOU EMBORA DO BRASIL](https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOU EMBORA DO BRASIL](https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD) | 2:57 |
 
-Snapshot ID: `MTY4MDIzMTYwMCwwMDAwMDAwMGQ2ZDNkOWQ1NzM0NTQ1MWFlZDgzOWE3NmUxYTM1Nzhj`
+Snapshot ID: `MTY4MDIzMTYwMCwwMDAwMDAwMDUzZGJlMWI3MDYyM2MxOTEwOTZmMTZmNzkxMGI3ODdl`

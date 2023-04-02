@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 117306,
+  "num_followers": 117392,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDk1ZTQwYWRkMDMyODkxNjM2ZDZhNWQ5YjBmNTkyZDU5",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGFjYmM0ZWRiNTIwNmRmZTFkNjAxZDE1NzdjYTNhYTJl",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
-      },
-      "artists": [
-        {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Broke Ass Kid",
         "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 242325,
       "name": "Broke Ass Kid",
       "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
-      },
-      "artists": [
-        {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
-        }
-      ],
-      "duration_ms": 233106,
-      "name": "Shine Out",
-      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Drowning in Dreams, Pt. 2",
         "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 268968,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "Shine Out",
+      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Red Eye EP",
+        "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 319591,
+      "name": "Kill a Man",
+      "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 178236,
       "name": "Outlaw Angel",
       "url": "https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Red Eye EP",
-        "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 319591,
-      "name": "Kill a Man",
-      "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV"
     },
     {
-      "added_at": "2023-04-01 01:30:15",
+      "added_at": "2023-04-02 01:06:22",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "New Tattoos",
-        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
-      },
-      "artists": [
-        {
-          "name": "South Texas Tweek",
-          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
-        }
-      ],
-      "duration_ms": 157660,
-      "name": "New Tattoos",
-      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Bad Reputation",
         "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 219613,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "New Tattoos",
+        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
+      },
+      "artists": [
+        {
+          "name": "South Texas Tweek",
+          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
+        }
+      ],
+      "duration_ms": 157660,
+      "name": "New Tattoos",
+      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex"
     },
     {
-      "added_at": "2023-04-01 01:30:15",
+      "added_at": "2023-04-02 01:06:22",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Loser Mentality",
-        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 193525,
-      "name": "Loser Mentality",
-      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "You Look Good in Neon",
         "url": "https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 240386,
       "name": "You Look Good in Neon",
       "url": "https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Loser Mentality",
+        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 193525,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Burn Down EP",
-        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
-      },
-      "artists": [
-        {
-          "name": "Cade Holliday",
-          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 184644,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Burn Down EP",
+        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+      },
+      "artists": [
+        {
+          "name": "Cade Holliday",
+          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "First Dirt Road",
-        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
-      },
-      "artists": [
-        {
-          "name": "Chris Colston",
-          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "First Dirt Road",
-      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6"
       },
@@ -1583,22 +1567,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Lightning Fast",
-        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Lightning Fast",
-      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Waiting for the Fall",
         "url": "https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid"
       },
@@ -1615,22 +1583,34 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Whiskey Over Wine",
-        "url": "https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs"
+        "name": "First Dirt Road",
+        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
       },
       "artists": [
         {
-          "name": "David McMahon",
-          "url": "https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT"
-        },
-        {
-          "name": "Jake Parshall",
-          "url": "https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U"
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Whiskey Over Wine",
-      "url": "https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa"
+      "duration_ms": 203500,
+      "name": "First Dirt Road",
+      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Lightning Fast",
+        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Lightning Fast",
+      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1647,6 +1627,22 @@
       "duration_ms": 206280,
       "name": "Honky Tonk On",
       "url": "https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Texas Made",
+        "url": "https://open.spotify.com/album/7yBHMD2T0sAI8G569XlqDA"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hobbs",
+          "url": "https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI"
+        }
+      ],
+      "duration_ms": 231808,
+      "name": "Like I Love You",
+      "url": "https://open.spotify.com/track/5DATEqpNaBjXVo2NF0HPoo"
     }
   ],
   "unique_name": "Texas Country Rewind",

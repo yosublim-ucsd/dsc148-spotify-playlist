@@ -4,7 +4,7 @@
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-152 songs - 9 hr 21 min
+153 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Some Beatmaker \(Feat\. Svng, Woo\)](https://open.spotify.com/track/5MOXuTznEETRbOa678M8Sr) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Svng](https://open.spotify.com/artist/1CQSDDqF3X7UBkeOTowhxA), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [HELLO](https://open.spotify.com/album/2v1MjbTD1MQjPH9T6RAYa2) | 3:01 | 2023-01-02 |  |
 | [SOME MORE](https://open.spotify.com/track/646tj2NAztNqfAnsnbZEWr) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [The Call Final Project](https://open.spotify.com/album/7mqiesRwjzK18P35tRSsGl) | 4:09 | 2022-09-20 |  |
 | [Somebody!](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Somebody](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) | 2:57 | 2022-09-20 |  |
-| [Spring Is Gone by chance](https://open.spotify.com/track/5A0ut5JjeNLgGaScBIRyBU) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell OST Part.2](https://open.spotify.com/album/2DH3LaLcK63kEHYIH6ZK8A) | 3:21 | 2022-09-20 |  |
+| [Spring Is Gone by chance](https://open.spotify.com/track/5A0ut5JjeNLgGaScBIRyBU) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell OST Part.2](https://open.spotify.com/album/2DH3LaLcK63kEHYIH6ZK8A) | 3:21 | 2022-09-20 | 2023-04-02 |
+| [Spring Is Gone by chance](https://open.spotify.com/track/5rZN0PP6xZsf5SWxkpMm7k) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0KLTnRxu16LGkmlWJDAQkE) | 3:21 | 2023-01-02 |  |
 | [Star \(Little Prince\)](https://open.spotify.com/track/0YQO5aF9S0d3E74ZEfB9Dl) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2cpRz9LpAMbP4bdCpsFxPl) | 3:02 | 2022-09-20 |  |
 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/0UsIsMukG8WAV0CVorWOTb) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 4:36 | 2023-01-02 |  |
 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/5K209mgnrnMPLNIluT9m77) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 4:36 | 2022-09-20 | 2023-02-09 |

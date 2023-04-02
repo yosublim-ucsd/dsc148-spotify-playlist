@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-301 songs - 13 hr 35 min
+302 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 | 2022-08-01 |  |
 | [Solaris](https://open.spotify.com/track/6cv8No97M6bO6MT1q2FNyn) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Solaris](https://open.spotify.com/album/1WjxXz4gCszSPaxKNFQczu) | 2:30 | 2023-02-14 |  |
 | [Solas](https://open.spotify.com/track/2AwBq3Ecjq5IfpC5f897VY) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [Solas](https://open.spotify.com/album/2Zo6x3rljcjBPH1eXJdQjH) | 3:12 | 2022-12-05 | 2023-03-23 |
-| [Soleil De Printemps](https://open.spotify.com/track/3oCeHeT1LpAKRK7esg4S0R) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/5YgADlrXYIu8D8zVVENFVo) | 2:57 | 2023-03-14 |  |
+| [Soleil De Printemps](https://open.spotify.com/track/2BbNiUr4ghymoRiLJfAB2c) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/7HEBXPgrGgxWrDe4Eq1kPY) | 2:57 | 2023-03-30 |  |
+| [Soleil De Printemps](https://open.spotify.com/track/3oCeHeT1LpAKRK7esg4S0R) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/5YgADlrXYIu8D8zVVENFVo) | 2:57 | 2023-03-14 | 2023-04-02 |
 | [Solitude](https://open.spotify.com/track/1DBcTd8Qkm9hAHOXI1ajDa) | [Light Beyond Life](https://open.spotify.com/artist/6qLYeDUv2dxEGxNCWoL7b5) | [Solitude](https://open.spotify.com/album/21PRAMDAdTD9Q1GTWc89l6) | 2:27 | 2022-08-01 |  |
 | [Solitude](https://open.spotify.com/track/5EaxoaMc2J9fq5zeQd1Nem) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Mirrored](https://open.spotify.com/album/0SsL5gEgRhjvYeX6aB3W0o) | 4:28 | 2022-12-05 |  |
 | [Solitudine](https://open.spotify.com/track/6YAlzxrja9WNcYHBukp1ZM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Solitudine](https://open.spotify.com/album/613rQEf20H9ku0bsP2zFjs) | 2:37 | 2022-08-01 |  |

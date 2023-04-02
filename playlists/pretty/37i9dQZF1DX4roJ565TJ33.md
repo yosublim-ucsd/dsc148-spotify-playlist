@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,870 likes - 117 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,874 likes - 117 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 68 | [Payday](https://open.spotify.com/track/7zhlzuqPO0xbDBk7j36TMZ) | [John Venkiah Trio](https://open.spotify.com/artist/3XFIlyqb9Vx3mszxFHiKEQ), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [On to Something Good](https://open.spotify.com/album/45nFMsq34mgAppXfaP9FJl) | 6:05 |
 | 69 | [Söndan](https://open.spotify.com/track/3qvrvM6m2pjFX80T0p1ROY) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Dan Berglund](https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4) | [Space Sailors](https://open.spotify.com/album/2ogpiZdnA3GtoBhAq8bYyw) | 4:51 |
 | 70 | [President](https://open.spotify.com/track/4XpyOXxSNOM4GMec79nMNz) | [The Calle Stenman Quintet](https://open.spotify.com/artist/33HmwOuCQt9l75KLBR557Y), [Oskar Schönning](https://open.spotify.com/artist/7B8n58KGwvuObuoNCpiFhZ), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [President](https://open.spotify.com/album/4LQoy1UPFaaUV1AFtOqzdm) | 3:21 |
-| 71 | [A Beautiful Smile](https://open.spotify.com/track/6vF4WczlVFGa8pO2dWy8gv) | [Lars Jansson Trio](https://open.spotify.com/artist/0VfeNMnzhhUyyFwvyi3yJk) | [More Human](https://open.spotify.com/album/5F8ZMFGcd3heEYbAzHk2lp) | 4:06 |
+| 71 | [A Beautiful Smile](https://open.spotify.com/track/6vF4WczlVFGa8pO2dWy8gv) | [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [More Human \(Lars Jansson Trio\)](https://open.spotify.com/album/5F8ZMFGcd3heEYbAzHk2lp) | 4:06 |
 | 72 | [Dagen till ära](https://open.spotify.com/track/3Sb7YhLgRrsfYqzcpNxkjJ) | [Julia Strzalek](https://open.spotify.com/artist/1EbW3Q2y5bhyoy0UgzctuB) | [TVÅ](https://open.spotify.com/album/2iEvgN4SWNm6UeR44hPCJe) | 3:51 |
 | 73 | [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 |
 | 74 | [Jag vill nå dig \(Längtans samba\)](https://open.spotify.com/track/3Z15lR065tmY3RMGs60DwH) | [Jazzagenturen](https://open.spotify.com/artist/0PfYT2Yk58IWMc83t0iuiO), [Leo Lindberg Trio](https://open.spotify.com/artist/46jpwHnuLDnmEjcHMggddG) | [Jag vill nå dig \(Längtans samba\)](https://open.spotify.com/album/4UekZD3DLM9OvBryTTBWCE) | 3:44 |

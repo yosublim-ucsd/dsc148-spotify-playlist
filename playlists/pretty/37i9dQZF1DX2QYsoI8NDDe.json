@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Irene del Rosario",
-  "num_followers": 503250,
+  "num_followers": 503263,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NTg2NiwwMDAwMDAwMDEzNWM0NjI2MzVjODI3MzdkMmQyOWVmN2I2M2E2MDI2",
+  "snapshot_id": "MTY4MDI3NTg2NiwwMDAwMDAwMDBlNTg2MjczMzYzOTFkNjVjMTQxN2U1NWNjNTQzMTE2",
   "tracks": [
     {
       "added_at": "2023-03-31 15:17:46",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-31 15:17:46",
       "album": {
-        "name": "Triste Recuerdo",
-        "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
         "name": "La Chacalosa",
         "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 213713,
       "name": "La Chacalosa",
       "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
+    },
+    {
+      "added_at": "2023-03-31 15:17:46",
+      "album": {
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
     },
     {
       "added_at": "2023-03-31 15:17:46",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-03-31 15:17:46",
       "album": {
+        "name": "Besarte As\u00ed",
+        "url": "https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 234864,
+      "name": "Besarte As\u00ed",
+      "url": "https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ"
+    },
+    {
+      "added_at": "2023-03-31 15:17:46",
+      "album": {
         "name": "Un Amor en el Olvido",
         "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-03-31 15:17:46",
       "album": {
-        "name": "Besarte As\u00ed",
-        "url": "https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 234864,
-      "name": "Besarte As\u00ed",
-      "url": "https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
         "name": "JGL (En Vivo)",
         "url": "https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-31 15:17:46",
       "album": {
-        "name": "Te Me Sigues Antojando",
-        "url": "https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6"
-      },
-      "artists": [
-        {
-          "name": "Vicky Terrazas",
-          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Te Me Sigues Antojando",
-      "url": "https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
         "name": "Empoderada",
         "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 164186,
       "name": "Empoderada",
       "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
+      "added_at": "2023-03-31 15:17:46",
+      "album": {
+        "name": "Te Me Sigues Antojando",
+        "url": "https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6"
+      },
+      "artists": [
+        {
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Te Me Sigues Antojando",
+      "url": "https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy"
     },
     {
       "added_at": "2023-03-31 15:17:46",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-31 15:17:46",
       "album": {
-        "name": "Vanessa Guillen",
-        "url": "https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 207642,
-      "name": "Vanessa Guillen",
-      "url": "https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
         "name": "En Peligro De Extinci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 212280,
       "name": "En Peligro De Extinci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2"
+    },
+    {
+      "added_at": "2023-03-31 15:17:46",
+      "album": {
+        "name": "Vanessa Guillen",
+        "url": "https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 207642,
+      "name": "Vanessa Guillen",
+      "url": "https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB"
     },
     {
       "added_at": "2023-03-31 15:17:46",

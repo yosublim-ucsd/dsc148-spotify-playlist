@@ -4,14 +4,14 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-122 songs - 8 hr 27 min
+123 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Que Volviste Mujer](https://open.spotify.com/track/1LffJoyHmYKiz64RuVPjV2) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Alternativo Music Festival](https://open.spotify.com/album/4n076yJJLl2f8fWsrWGOT2) | 3:24 | 2022-02-11 | 2022-06-01 |
 | [Amor a Primera Vista](https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv) | [Amor a Primera Vista](https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN) | 3:35 | 2022-02-11 |  |
 | [Amor Incomparable](https://open.spotify.com/track/2rDl3wOeXZF6upPLD94Ah9) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Grupo Guinda](https://open.spotify.com/album/7vGzZqzcIjxEvJgF6T53K1) | 3:12 | 2022-02-11 | 2022-07-29 |
-| [Amor Incomparable](https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Amor Incomparable](https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88) | 3:14 | 2022-02-11 |  |
+| [Amor Incomparable](https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Amor Incomparable](https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88) | 3:14 | 2022-02-11 | 2023-04-02 |
 | [Amor Prohibido](https://open.spotify.com/track/2SOWAjUzwv0xbSaMx7j522) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Vol\. 11: Amor Prohibido](https://open.spotify.com/album/39Mr4G9fWujU9CIlMoPlPW) | 3:33 | 2022-02-11 | 2022-07-28 |
 | [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 | 2022-08-05 |  |
 | [Antahuara](https://open.spotify.com/track/1d7eRr7zChFXSv13adTGcv) | [Grupo Maravilla](https://open.spotify.com/artist/4DDlcMniR5obaLi3lcy8uI) | [Los Éxitos del Grupo Maravilla](https://open.spotify.com/album/1mu9n0cqtB9vDRg2vOqpyl) | 3:58 | 2022-02-11 | 2023-01-21 |
@@ -86,6 +86,7 @@
 | [No se puede amar a dos](https://open.spotify.com/track/5d0s5Tb6xNDyXSnVuS0Isv) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbias de Oro Vol\. 2](https://open.spotify.com/album/5SPbW2Q9beZM1TzPUE5OdV) | 4:47 | 2022-02-11 | 2022-07-29 |
 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 | 2022-02-11 |  |
 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 | 2022-02-11 |  |
+| [No Te Creas Tan Importante](https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ) | 4:06 | 2023-03-31 |  |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/51dGIhiWCWP6zUz9CS4irJ) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543) | 4:08 | 2022-08-05 | 2023-02-27 |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/7jlbNMjcYOF89FWhi5Jqzb) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/2Kd45irIJVHP2F5zrb8c66) | 4:08 | 2022-02-11 | 2022-09-03 |
 | [Pecadora 2020 \- Versión Cumbia](https://open.spotify.com/track/1Y1FQQETtjQ6mGQPNSn4TS) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Johnny Orosco](https://open.spotify.com/artist/4ghTBFu8toXHUUVNtLILX0), [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Pecadora 2020 \(Versión Cumbia\)](https://open.spotify.com/album/7GIrQUCOrL7BKz2StdGcRc) | 3:39 | 2022-02-11 | 2022-07-29 |

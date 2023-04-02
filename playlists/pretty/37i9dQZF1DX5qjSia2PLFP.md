@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover, Yoza
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,969 likes - 51 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,971 likes - 51 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

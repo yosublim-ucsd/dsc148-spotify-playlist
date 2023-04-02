@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1iGVUchf9EL.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/laurenlondon/">Lauren London</a>\. Inspired by Netflix's You People.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134 likes - 51 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 144 likes - 51 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

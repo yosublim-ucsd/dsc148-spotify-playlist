@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPeEyKqPM0W.md) - [plain]
 
 > スクウェア・エニックスの多彩な楽曲から、お出かけのお供にぴったりなアップテンポチューンをお届け。A variety/selection of up\-tempo tracks from SQUARE ENX to hit the town\. © 2022 SQUARE ENIX CO., LTD\. All Rights Reserved\. Illustration: TOSHIYUKI ITAHANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,100 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,123 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPeEyKqPM0W.md) - [plain]
 | 12 | [Parallel Worlds \- Aggressive Mix](https://open.spotify.com/track/78twuJpTk8PXjfelEIzOO4) | [鈴木光人](https://open.spotify.com/artist/3d72A9fpAQyib60DkaqAIM) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:16 |
 | 13 | [Paradigm Shift](https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:49 |
 | 14 | [End of the Unknown](https://open.spotify.com/track/6qW0K7Po9uIE5phdLd5xRc) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [NieR:Automata Original Soundtrack](https://open.spotify.com/album/6Nws2NAPuxaHzB7MfD1lhg) | 4:31 |
-| 15 | [Otherworld](https://open.spotify.com/track/094ROwNMso3g8wHYg89dAV) | [Bill Xtillidiex Muir](https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:14 |
+| 15 | [Otherworld](https://open.spotify.com/track/6WGtQKmXCKzvPAFtXOGmNv) | [Bill Xtillidiex Muir](https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:15 |
 | 16 | [FFVII REMAKE: ミグルミ ミグルミ \(Due Recompense\)](https://open.spotify.com/track/3ciAqfAdxkw5ctwPyg9OOi) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 5:24 |
 | 17 | [FFVII REMAKE: シンク・オア・スイム \(Sync or Swim\)](https://open.spotify.com/track/4nMfIV0wwInFtocDHlKsst) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:01 |
 | 18 | [eScape](https://open.spotify.com/track/6IG5ZOKnUryCcsvzopK23A) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [SHADOWBRINGERS: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6bm2zfTwTBJ66rObupBJxS) | 4:50 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPeEyKqPM0W.md) - [plain]
 | 27 | [FFVII REMAKE: RUN RUN RUN \- Instrumental Ver.](https://open.spotify.com/track/5S5oKA4IIdQ2oPaIDF2NB1) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack \(Plus\)](https://open.spotify.com/album/4plMGSQK9DMXUecQfxpYrB) | 2:31 |
 | 28 | [FFVII REMAKE: STAND UP](https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:09 |
 
-Snapshot ID: `MTY2MjU2MjgwMCwwMDAwMDAwMGZjNzM2NmM2ZmYyYWZhY2U3NGQ1NzZhODI1ZGI1MWYz`
+Snapshot ID: `MTY2MjU2MjgwMCwwMDAwMDAwMDAwMzg4NWI5MjllNTA0OTM3Y2NmZjkzNWVmZDQ0ZjJj`

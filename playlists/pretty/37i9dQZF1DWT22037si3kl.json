@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: WC no Beat, Young Mafia",
-  "num_followers": 93367,
+  "num_followers": 93477,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MjU2MiwwMDAwMDAwMDExNmM4OTMyZDYyNmM4YjhjNGVjMjcxNjcxZTlmZWYw",
+  "snapshot_id": "MTY4MDI5MjU2MiwwMDAwMDAwMDAzZmZlMzg1NDg4MGE3MmFkNTU0ZTA2ZDg2YzUzNzk0",
   "tracks": [
     {
       "added_at": "2023-03-31 19:56:02",
@@ -387,34 +387,6 @@
     {
       "added_at": "2023-03-31 19:56:02",
       "album": {
-        "name": "Gucci, Prada",
-        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Gucci, Prada",
-      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
-    },
-    {
-      "added_at": "2023-03-31 19:56:02",
-      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -439,6 +411,34 @@
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+    },
+    {
+      "added_at": "2023-03-31 19:56:02",
+      "album": {
+        "name": "Gucci, Prada",
+        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Gucci, Prada",
+      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
     },
     {
       "added_at": "2023-03-31 19:56:02",
@@ -847,30 +847,6 @@
     {
       "added_at": "2023-03-31 19:56:02",
       "album": {
-        "name": "Rel\u00f3gio",
-        "url": "https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 160796,
-      "name": "Rel\u00f3gio",
-      "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
-    },
-    {
-      "added_at": "2023-03-31 19:56:02",
-      "album": {
         "name": "Envolvido",
         "url": "https://open.spotify.com/album/14fMVoFXwNx71Pj4Y5zNtx"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 172000,
       "name": "Envolvido",
       "url": "https://open.spotify.com/track/48h4dsva3ihxdZ5rkB3IVX"
+    },
+    {
+      "added_at": "2023-03-31 19:56:02",
+      "album": {
+        "name": "Rel\u00f3gio",
+        "url": "https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 160796,
+      "name": "Rel\u00f3gio",
+      "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
     },
     {
       "added_at": "2023-03-31 19:56:02",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-03-31 19:56:02",
       "album": {
+        "name": "Animais Traidores",
+        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "VEGA",
+          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Animais Traidores",
+      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
+    },
+    {
+      "added_at": "2023-03-31 19:56:02",
+      "album": {
         "name": "20G",
         "url": "https://open.spotify.com/album/5bkswgL6FGAbnXZ3z9SEKy"
       },
@@ -1003,22 +1023,22 @@
     {
       "added_at": "2023-03-31 19:56:02",
       "album": {
-        "name": "Animais Traidores",
-        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
+        "name": "Vim de L\u00e1",
+        "url": "https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "VEGA",
-          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Animais Traidores",
-      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
+      "duration_ms": 168750,
+      "name": "Vim de L\u00e1",
+      "url": "https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL"
     },
     {
       "added_at": "2023-03-31 19:56:02",
@@ -1043,26 +1063,6 @@
       "duration_ms": 164571,
       "name": "Silenciador",
       "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"
-    },
-    {
-      "added_at": "2023-03-31 19:56:02",
-      "album": {
-        "name": "Vim de L\u00e1",
-        "url": "https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Vim de L\u00e1",
-      "url": "https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL"
     },
     {
       "added_at": "2023-03-31 19:56:02",

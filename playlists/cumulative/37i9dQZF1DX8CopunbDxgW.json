@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 281370,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW"
@@ -12068,6 +12068,24 @@
       "duration_ms": 216045,
       "name": "Star City - Radio Edit",
       "url": "https://open.spotify.com/track/1DxjrGvRHPxmLF8TEmsqwt"
+    },
+    {
+      "album": {
+        "name": "Star Song",
+        "url": "https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD"
+      },
+      "artists": [
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210490,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4"
     },
     {
       "album": {

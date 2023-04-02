@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Samantha Fish
 
-205 songs - 12 hr 5 min
+206 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 | 2022-05-06 |  |
 | [Sweet Hitchhiker](https://open.spotify.com/track/48ElMRo9c1HlS23AuHMRVS) | [Tommy Womack](https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje) | [30 Years Shot To Hell: A Tommy Womack Anthology](https://open.spotify.com/album/62wREHeyhnAmDMkc4oZlgS) | 3:25 | 2022-08-05 |  |
 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 | 2022-03-25 | 2022-06-19 |
-| [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 | 2023-03-31 |  |
+| [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 | 2023-03-31 | 2023-04-02 |
+| [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 | 2023-03-31 |  |
 | [Talk To You](https://open.spotify.com/track/61PCdbwmjg5LwyIBvcuQGe) | [Dennis Johnson](https://open.spotify.com/artist/4q4GIOKuoGbaa9nkroBWjF) | [Talk To You](https://open.spotify.com/album/0koP38sKFmgO6GNRXM87MT) | 3:23 | 2022-05-20 |  |
 | [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 | 2022-04-29 |  |
 | [Ten Toes Down](https://open.spotify.com/track/2oqOVs5FVAyMWQhT5Bpdsa) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Ten Toes Down](https://open.spotify.com/album/3quqmLko0E0EbZR9s3JDzf) | 4:21 | 2021-02-05 | 2022-03-26 |

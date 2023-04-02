@@ -3742,10 +3742,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 136235,
       "name": "MALA MEMO",
       "url": "https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ"
+    },
+    {
+      "album": {
+        "name": "REVERSA",
+        "url": "https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136235,
+      "name": "MALA MEMO",
+      "url": "https://open.spotify.com/track/2RBgpZ7VODWZUjr0onXIzW"
     },
     {
       "album": {

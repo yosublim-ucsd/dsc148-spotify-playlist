@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-148 songs - 7 hr 58 min
+149 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [A Minha Menina](https://open.spotify.com/track/3CCGsOj2efotChiScMmCWg) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0gUoiZk9aWpg3HXaygDNp6) | 4:44 | 2021-10-06 | 2022-07-29 |
 | [A Minha Menina](https://open.spotify.com/track/5j2D28M2wOHJftifEw3GPd) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | [Brasil Anos 60](https://open.spotify.com/album/3j4tQNmcKSK79sMZsPbypY) | 4:44 | 2021-10-06 | 2022-11-13 |
 | [A Whiter Shade Of Pale](https://open.spotify.com/track/3qitymULqEibr7yknRMKU4) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade Of Pale](https://open.spotify.com/album/2WcfgOosdw0bN9g9twoA4K) | 4:08 | 2021-10-06 | 2022-07-29 |
-| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade of Pale](https://open.spotify.com/album/16cvzyvunqoYiyr6j34ICO) | 4:08 | 2021-10-06 |  |
+| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade of Pale](https://open.spotify.com/album/16cvzyvunqoYiyr6j34ICO) | 4:08 | 2021-10-06 | 2023-04-02 |
 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 | 2021-10-06 | 2022-10-22 |
+| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg) | 4:08 | 2021-10-06 |  |
 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2021-10-06 |  |
 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 | 2021-10-06 |  |
 | [All Day and All of the Night](https://open.spotify.com/track/5gmMa8nwzrkcPbHzSW3azN) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/0fT3ySwzj1bPUWINB07MoI) | 2:22 | 2021-10-06 | 2022-07-29 |

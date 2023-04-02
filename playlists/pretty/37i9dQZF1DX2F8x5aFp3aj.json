@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 141484,
+  "num_followers": 141615,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2Mzc1MCwwMDAwMDAwMGVjZTBmOGEzYmRkMzAwMzIxYTFjOTc2MmYyYjdkNmFl",
+  "snapshot_id": "MTY3NDE2Mzc1MCwwMDAwMDAwMGM1OTA1NTllMzJkODdiMWQzNmNmYjcyMDUzNWY3YjM0",
   "tracks": [
     {
       "added_at": "2023-01-19 21:29:10",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 222426,
       "name": "Rock the Casbah - Remastered",
       "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Dancing Barefoot",
+      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 219373,
       "name": "Always Something There to Remind Me - 2018 Remaster",
       "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Dancing Barefoot",
-      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "After Here Through Midland (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5pXGk4hepNTME887MLGXmG"
-      },
-      "artists": [
-        {
-          "name": "Cock Robin",
-          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Just Around the Corner",
-      "url": "https://open.spotify.com/track/0WujVnyLeCEOoPpdV2wOj6"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Voices Carry (Expanded Edition)",
         "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 263573,
       "name": "Voices Carry",
       "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "After Here Through Midland (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5pXGk4hepNTME887MLGXmG"
+      },
+      "artists": [
+        {
+          "name": "Cock Robin",
+          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Just Around the Corner",
+      "url": "https://open.spotify.com/track/0WujVnyLeCEOoPpdV2wOj6"
     },
     {
       "added_at": "2021-09-28 03:14:02",

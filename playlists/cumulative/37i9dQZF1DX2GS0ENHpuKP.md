@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-58 songs - 4 hr 57 min
+59 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Highlife](https://open.spotify.com/track/7jAOs2vHIb2b1Qiwy7q3am) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Ambolley](https://open.spotify.com/album/0FNazA8xq1EuyCUTYAdCu3) | 4:59 | 2022-07-19 |  |
 | [Hlabalaza](https://open.spotify.com/track/3vpdeKbEjRQildGqaUMLut) | [The Bees](https://open.spotify.com/artist/7hNz2UypuRHP6H4gitUILJ) | [She's a Witch \(Tikoloshi\)](https://open.spotify.com/album/2iuHTQQ9Th87ikH1HSuFMJ) | 5:23 | 2022-07-19 |  |
 | [I Like It \(Don't Stop\)](https://open.spotify.com/track/38j5lYjaKyySHumRy428ew) | [Maxwell Udoh](https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9) | [The Hits, Vol\. 1](https://open.spotify.com/album/1C00Xn6aXVgNRwUkXmMUvi) | 6:35 | 2022-07-19 |  |
-| [Il Vecchiaccio](https://open.spotify.com/track/7ozKNLwCWp6dIHR1li1Cbr) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le Mie Canzoni](https://open.spotify.com/album/3GmdCYyuxQpTmIq4kBlfrJ) | 3:45 | 2022-07-19 |  |
+| [Il vecchiaccio](https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le mie canzoni](https://open.spotify.com/album/5JJca3CzOPDWOamyhtH1At) | 3:44 | 2022-07-19 |  |
+| [Il Vecchiaccio](https://open.spotify.com/track/7ozKNLwCWp6dIHR1li1Cbr) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le Mie Canzoni](https://open.spotify.com/album/3GmdCYyuxQpTmIq4kBlfrJ) | 3:45 | 2022-07-19 | 2023-04-02 |
 | [Inner Vision](https://open.spotify.com/track/2VXMByMiRWsSfY53Qn9jj8) | [Chuks Ejelonu](https://open.spotify.com/artist/0wd8r1krS136gn1qP2kt6z) | [Inner Vision \(official re\-issue\)](https://open.spotify.com/album/2Th3bkhlh5ccJh0xfDkLsO) | 5:34 | 2022-07-19 |  |
 | [Jibaro \(Enrolle\)](https://open.spotify.com/track/39qNshURj4X8qghle1JSXq) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Angeles y demonios](https://open.spotify.com/album/2w7OWXr7uD2QPYZM2qYEso) | 7:30 | 2022-07-19 |  |
 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 | 2022-07-19 |  |

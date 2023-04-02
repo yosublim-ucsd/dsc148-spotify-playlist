@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie tracks every Friday\. Cover: Barrie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,286 likes - 180 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,315 likes - 180 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 37 | [Futuro Incierto](https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Futuro Incierto](https://open.spotify.com/album/4pFmMfwJjvoU8QKEJl7cRq) | 4:48 |
 | 38 | [Twin](https://open.spotify.com/track/7eNB1CxbNWiBVZwzXAJqgW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Twin](https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN) | 2:44 |
 | 39 | [Take](https://open.spotify.com/track/1a47TGHdpraBmuMkoVSiTF) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Take](https://open.spotify.com/album/13hfnOETzKRNERgshH3m0G) | 3:39 |
-| 40 | [The Benefits of Lying \(With Your Friend\)](https://open.spotify.com/track/2M2yjfzGlbltqYRd4U2ExT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 3:28 |
+| 40 | [the benefits of lying \(with your friend\)](https://open.spotify.com/track/2M2yjfzGlbltqYRd4U2ExT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 3:28 |
 | 41 | [3D Country](https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4) | 5:13 |
 | 42 | [Polka\-dot](https://open.spotify.com/track/4yHvBNnLubDvzTy5pha08v) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7), [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [Polka\-dot](https://open.spotify.com/album/1pxTFx9BJS6XCRc1FzlFQQ) | 3:42 |
 | 43 | [Tell Me That You Love Me](https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Tell Me That You Love Me](https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG) | 3:12 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 65 | [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 |
 | 66 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 |
 | 67 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 |
-| 68 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 |
+| 68 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
 | 69 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 |
 | 70 | [Borrow Trouble](https://open.spotify.com/track/4lyKe6602fEaFpwMFYGPc2) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 4:05 |
 | 71 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 179 | [Sore Eyes](https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Sore Eyes](https://open.spotify.com/album/1pNb1AYhy42mSECLH04Vac) | 3:13 |
 | 180 | [star](https://open.spotify.com/track/3APRtJ612KjQ0GfU7b8ZqG) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [star](https://open.spotify.com/album/4iAtPukcN2ergkdoZlXSvB) | 1:59 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDhmM2UwYzkzZmM2ZTlhNWMyODJhYjkxOTRlZWYwODkx`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDhhYTk4NjFkYmNhYTM2MjgzYzg4NjMyNDA5N2MzYjkx`

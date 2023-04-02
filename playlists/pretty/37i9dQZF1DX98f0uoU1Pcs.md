@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: The Nude Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,111 likes - 126 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,170 likes - 126 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 48 | [ENTITLED MAN](https://open.spotify.com/track/7Gak6IaDN5PsalA9W5TLez) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [ENTITLED MAN](https://open.spotify.com/album/49Ar7KlbIoX8XasFMYVfdp) | 2:25 |
 | 49 | [Born Yesterday](https://open.spotify.com/track/45TCUDE0fwhbP84CcTuYUh) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Born Yesterday](https://open.spotify.com/album/4YB32RDVOQCFIwF18pkmDy) | 3:22 |
 | 50 | [Soccer Mommy](https://open.spotify.com/track/7Eh51PbeKl19zS1dzWpTsO) | [Shalom](https://open.spotify.com/artist/5CgUSK3nZJAv90N00E6gj5) | [Soccer Mommy](https://open.spotify.com/album/4R3TpyRzegSa4DHpvmDqe5) | 1:53 |
-| 51 | [Expendables](https://open.spotify.com/track/6P1uUvOD9m6uoyblKlRK28) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/2k0kblfQyMpcgwYoaPNpOw) | 2:18 |
+| 51 | [Expendables](https://open.spotify.com/track/018a6ONxjnDfhweFiYNNTr) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/1QgMwxUPs0zNZmbp2hE08U) | 2:18 |
 | 52 | [Clinging to the Ground](https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2), [Rew](https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT) | [Clinging to the Ground](https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO) | 3:59 |
 | 53 | [Downtown Side](https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn) | [Grocer](https://open.spotify.com/artist/3UdgFit4pWnDgoazPUn3sa) | [Downtown Side](https://open.spotify.com/album/6e4SRIycocguic8fluMqNe) | 3:41 |
 | 54 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 125 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 126 | [Lighthouse](https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Lighthouse](https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk) | 3:43 |
 
-Snapshot ID: `MTY3OTQzNDU0NywwMDAwMDAwMDE0ODM3ODUzMWFiMjQ2MTBhYzA0YjVhNWMyZjJmOGQ3`
+Snapshot ID: `MTY3OTQzNDU0NywwMDAwMDAwMDc4ZDhiZmFjNTljMjdjOTIxYjBkMjkyYTdjZTlkMTM2`

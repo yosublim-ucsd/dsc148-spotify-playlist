@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-112 songs - 5 hr 9 min
+113 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,9 +58,10 @@
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-01-13 |  |
 | [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2023-01-12 |  |
 | [Keep Cruising](https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Keep Cruising](https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT) | 3:56 | 2023-01-12 |  |
-| [L'Autofilteur](https://open.spotify.com/track/0eDMWlp5OKqwujmaYU52uW) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [L'Autofilteur](https://open.spotify.com/album/4tWicAtKzwy8kQcbc7C3Ay) | 3:31 | 2023-01-12 |  |
+| [L'Autofilteur](https://open.spotify.com/track/0eDMWlp5OKqwujmaYU52uW) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [L'Autofilteur](https://open.spotify.com/album/4tWicAtKzwy8kQcbc7C3Ay) | 3:31 | 2023-01-12 | 2023-04-02 |
 | [Lavanta](https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [When Every Leaf Is A Flower](https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ) | 2:03 | 2023-01-12 |  |
 | [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2023-01-12 | 2023-03-15 |
+| [Lost Planet](https://open.spotify.com/track/4N6qX4nCHm7CdUaM6ujJNM) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Lost Planet](https://open.spotify.com/album/1ACEbv9PGIudBH35GanjNn) | 2:30 | 2023-03-23 |  |
 | [Luminism](https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk) | [Blossum](https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Luminism](https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy) | 2:20 | 2023-01-12 |  |
 | [Mad Summer](https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Mad Summer](https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9) | 2:47 | 2023-01-12 |  |
 | [Making It Rain](https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Making It Rain / Buckets](https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z) | 2:27 | 2023-01-12 |  |

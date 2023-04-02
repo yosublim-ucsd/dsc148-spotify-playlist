@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 350185,
+  "num_followers": 350479,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDBmODNhOTFlMWYzOTY5OTE2NTFlMTU3ZmJlYWQwOTg3",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDRlMjEzZmZmNmQ3NGUxNjNmMWJmMTg4YTkzNmNlZWIw",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "A Partir De Hoy",
+        "url": "https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "En El Mar De Tu Gracia",
+      "url": "https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Nuevo Comienzo",
         "url": "https://open.spotify.com/album/3juDx944BMH0VvgVb33DU9"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 230360,
       "name": "Cielo (feat. Tercer Cielo)",
       "url": "https://open.spotify.com/track/5RjESspN9YUICZaqtUfFVj"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "A Partir De Hoy",
-        "url": "https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN"
-      },
-      "artists": [
-        {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "En El Mar De Tu Gracia",
-      "url": "https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
       },
       "artists": [
         {
           "name": "Alex Zurdo",
           "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+      "duration_ms": 226306,
+      "name": "No Soy Yo (feat. Redimi2)",
+      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1131,22 +1135,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
       },
@@ -1159,6 +1147,22 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1287,18 +1291,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 210932,
-      "name": "Soy Libre",
-      "url": "https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM"
+      "duration_ms": 249519,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx"
     }
   ],
   "unique_name": "Creo En Ti",

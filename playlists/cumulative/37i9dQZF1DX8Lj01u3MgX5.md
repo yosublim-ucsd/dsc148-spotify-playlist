@@ -4,7 +4,7 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-75 songs - 6 hr 26 min
+76 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Jump](https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:59 | 2020-04-13 |  |
 | [Just a Touch of Love](https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Just A Touch Of Love](https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg) | 6:32 | 2020-04-13 |  |
 | [La Isla Bonita](https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:02 | 2020-04-13 |  |
-| [Let's Dance \- Single Version \[Remastered\]](https://open.spotify.com/track/0F1O42piteiHP3dRvKUz6p) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Legacy](https://open.spotify.com/album/5Pr1sAQ9i2unvVaEHnKIB5) | 4:08 | 2020-04-13 |  |
+| [Let's Dance \- 2002 Remaster](https://open.spotify.com/track/4cVHMHgmWgudD399ZdhQ3L) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance](https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ) | 4:07 | 2020-04-13 |  |
+| [Let's Dance \- Single Version \[Remastered\]](https://open.spotify.com/track/0F1O42piteiHP3dRvKUz6p) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Legacy](https://open.spotify.com/album/5Pr1sAQ9i2unvVaEHnKIB5) | 4:08 | 2020-04-13 | 2023-04-02 |
 | [Looking For A New Love](https://open.spotify.com/track/64M7vSptOdMCuHwYzKuplj) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Louil Silas Jr.](https://open.spotify.com/artist/4aknOZmKFnayYvd03Avoz6) | [Jody Watley](https://open.spotify.com/album/16Ekp385tuuCTdoEakzEv3) | 5:07 | 2020-04-13 |  |
 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 | 2020-04-13 |  |
 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 | 2020-04-13 |  |

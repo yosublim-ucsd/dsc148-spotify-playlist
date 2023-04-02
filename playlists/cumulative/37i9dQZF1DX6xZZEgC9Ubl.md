@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: BONES
 
-788 songs - 1 day 11 hr 47 min
+789 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [All Along](https://open.spotify.com/track/5KeeYJwyjXzCxtfKYqSNNw) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [All Along](https://open.spotify.com/album/274E1HK97HvCPet50eifhe) | 3:10 | 2021-01-31 | 2021-04-24 |
 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 | 2022-06-21 |  |
 | [ALL GIRLS ARE THE SAME](https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [ALL GIRLS ARE THE SAME](https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn) | 2:01 | 2022-10-07 | 2023-03-29 |
+| [ALL GIRLS ARE THE SAME](https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [ALL GIRLS ARE THE SAME](https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI) | 2:01 | 2022-10-07 |  |
 | [ALL GIRLS ARE THE SAME](https://open.spotify.com/track/4xhWfr0tyA7BGL7eXo8KnV) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [ALL GIRLS ARE THE SAME](https://open.spotify.com/album/0j5TwvQkHVoLX2n7iERVOl) | 2:01 | 2020-12-13\* | 2022-12-04 |
 | [all i can see](https://open.spotify.com/track/05gHCcq775XVNxryDxaiqs) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [all i can see](https://open.spotify.com/album/02RgsByrTYcg07x9pXgMEp) | 3:07 | 2021-04-17 | 2022-07-27 |
 | [All Time Low](https://open.spotify.com/track/7f6DB3KvWZfEcm00Sefn8t) | [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [All Time Low](https://open.spotify.com/album/4uP0Gcirq21aqehCupRUSy) | 3:06 | 2022-04-22 | 2022-06-27 |
@@ -550,7 +551,7 @@
 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 | 2022-10-07 |  |
 | [Psycho!](https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:17 | 2020-12-13\* |  |
 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 | 2022-05-23 |  |
-| [Read Your Mind](https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Read Your Mind](https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B) | 3:08 | 2023-01-27 |  |
+| [Read Your Mind](https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Read Your Mind](https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B) | 3:08 | 2023-01-27 | 2023-04-02 |
 | [Real Shit \(with benny blanco\)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit \(with benny blanco\)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 | 2020-12-13\* | 2022-02-15 |
 | [Reasons](https://open.spotify.com/track/35b2aICqZwjqrS7eKAzrjE) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [Reasons](https://open.spotify.com/album/3YxFj4Y17Xv0ixJrMYy7Td) | 2:52 | 2021-01-15 | 2021-04-24 |
 | [Reckless](https://open.spotify.com/track/0v1Xh4IrmF4Rs1Vyir4VTG) | [Lago Link](https://open.spotify.com/artist/3YmUDDr6n2kobxSL8VjatA) | [Reckless](https://open.spotify.com/album/7kNLwaOWfmjx06VdlQGJBK) | 2:24 | 2020-12-13\* | 2021-02-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ in cover Bea Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,942 likes - 93 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,947 likes - 93 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

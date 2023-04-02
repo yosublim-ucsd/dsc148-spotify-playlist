@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Natty Natasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,156 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,211 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [Hate Boys](https://open.spotify.com/track/0jkCIZeZaasze05SoQooOC) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Hate Boys](https://open.spotify.com/album/6sehw4xcjTqmAXO2ZGTs7p) | 2:47 |
 | 61 | [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 |
 | 62 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 |
-| 63 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:38 |
+| 63 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:16 |
 | 64 | [Rayos X](https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Rayos X](https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb) | 3:13 |
 | 65 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
 | 66 | [La Canija](https://open.spotify.com/track/5gB8fsuZuaoxfOJv7FTzcz) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [Los Muchachos](https://open.spotify.com/album/2ZW9ek5ZpRflEPKDUX70AB) | 2:55 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 68 | [Sola](https://open.spotify.com/track/5V9V77AIdanwRlHiBpvmN4) | [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Sola](https://open.spotify.com/album/1DHIYGXP4yfccuqJ5w5A1D) | 2:49 |
 | 69 | [Zarcos](https://open.spotify.com/track/0Cksf1doSAlRUjeNVAl35p) | [wvltz](https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn) | [PER610CIA](https://open.spotify.com/album/2c68npvhZEpzFZw608rsTX) | 3:07 |
 | 70 | [Historia de Amor](https://open.spotify.com/track/1N9MeyioKkEBKNe4iIfAB3) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Historia de Amor](https://open.spotify.com/album/4KvZm9XQDc0pYe94UHOtLT) | 3:05 |
-| 71 | [PIEL](https://open.spotify.com/track/6C91907u9M2nie6b7YIrxm) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [EL ORIGEN DEL CAOS](https://open.spotify.com/album/4MNAeZIZde6MpAaAUIK07q) | 3:45 |
+| 71 | [PIEL](https://open.spotify.com/track/6v8Ka08c1mSPRw9uXdKes2) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [PIEL](https://open.spotify.com/album/05WHDlqkH0sKtRutv7reQb) | 3:45 |
 | 72 | [PERREITO](https://open.spotify.com/track/0jVg5vyY2tZbbFehTz8amy) | [Greyvi](https://open.spotify.com/artist/4ZmxOjYwmOtLF1VhoYiayF) | [PERREITO](https://open.spotify.com/album/2WkjYmurvLbmOOvhGN3gQo) | 3:11 |
 | 73 | [Todo Bien, Nada en Orden](https://open.spotify.com/track/51CPCJ11fGuT00EtrHZlL3) | [Autobus](https://open.spotify.com/artist/6aaS9VlYbesvg4cBoz63sw) | [Todo Bien, Nada en Orden](https://open.spotify.com/album/6zWnnja0l2DfpRmeq7t6se) | 3:26 |
 | 74 | [Prejudicado](https://open.spotify.com/track/3nx9px7NuGBe3mxnJZtnen) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [RAIZ](https://open.spotify.com/album/1lGufkENuPKhs8ELOoFZ5q) | 2:48 |
 | 75 | [Mágica \- Ao Vivo](https://open.spotify.com/track/5v8EhStRWlvoY2qbcZR5R2) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Mágica \(Ao Vivo\)](https://open.spotify.com/album/1e3FBSBxbutzfpC5tAe2w8) | 2:51 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGQzZjJiNmVjMWQzMDA2MDE0ZTUyODliZTgzYzlhOWVi`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGMwYjQ3MWIwYTM2NjAwM2Q1YzhiZTQyNzM3ZjM4YTRj`

@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Jclef\)
 
-292 songs - 16 hr 19 min
+293 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 | 2023-03-30 |
 | [Dim](https://open.spotify.com/track/24e46bAxpNuYepqmeqPp3a) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 2:50 | 2022-06-09 | 2022-07-28 |
 | [DISCONNECT](https://open.spotify.com/track/1MRWxMH4ZuqgZAxJxAGbOo) | [hansen](https://open.spotify.com/artist/3oNWpNbYDxI3cTjfr3iTGF), [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [DISCONNECT](https://open.spotify.com/album/7DXVhaYMZVB1gaIMq1m5vp) | 4:08 | 2022-05-27 | 2022-07-09 |
-| [Donut](https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Image](https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:04 | 2023-02-13 |  |
+| [Donut](https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Image](https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:04 | 2023-02-13 | 2023-04-02 |
 | [Don’t Know Why](https://open.spotify.com/track/4aAOktVosCaWRKB293rSLG) | [jayvito](https://open.spotify.com/artist/2yZNiGKZ1tmcUgWdMKcFzI) | [Country Man Episode \#1](https://open.spotify.com/album/4bktSOHI1Ckp55B53SgZv8) | 3:28 | 2022-05-27 | 2022-07-27 |
 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 | 2022-05-27 |  |
 | [ELEVATOR FLOW](https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 2:40 | 2022-05-27 | 2022-08-30 |
@@ -153,6 +153,7 @@
 | [Lauren](https://open.spotify.com/track/2mAhxwO0fLjISvxim2Seap) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Lauren](https://open.spotify.com/album/47iCW4EIDHE8XeakoStZhf) | 3:03 | 2022-09-21 | 2022-12-20 |
 | [Lifemustgoon](https://open.spotify.com/track/1WMPcQcUGlBpB1fwTVzDfn) | [Os Noma](https://open.spotify.com/artist/2Iq56aPt8aSs2ONhBrDbYt), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Lifemustgoon](https://open.spotify.com/album/2b1RqPGUmDNjC05nWoY0Lv) | 1:59 | 2022-05-27 | 2022-07-05 |
 | [LIKE WATER REMIX \(Feat\. Jambino, XINSAYNE, toigo, J'Kyun\)](https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [SLAY HOUSE REMIX](https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b) | 4:40 | 2023-01-19 |  |
+| [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 | 2023-04-02 |  |
 | [LIMBO \(feat\. Swervy\)](https://open.spotify.com/track/0VaMlRGroQ8RgVrQv3s8Uv) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [BOBO](https://open.spotify.com/album/4WS73BYKxWkfs30vPUhcuj) | 2:15 | 2022-12-19 | 2023-01-26 |
 | [Liquor](https://open.spotify.com/track/4ouWk35JipdUIXfnvqg57U) | [Mesani](https://open.spotify.com/artist/7pua8I58KTTR311ZD8fagJ), [Jaeeun](https://open.spotify.com/artist/1HxM1IZDClrR9OCpaXPMNa), [Laura](https://open.spotify.com/artist/1xwZAAavDMKPqjGiE2tqNu) | [Liquor](https://open.spotify.com/album/0n1DZGOSHvWlTzU6ephAto) | 3:55 | 2022-05-27 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Raw Gems Vol.1](https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC) | 1:56 | 2022-12-19 |  |

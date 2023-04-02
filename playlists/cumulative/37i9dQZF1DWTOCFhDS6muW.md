@@ -4,16 +4,17 @@
 
 > ¡Esto es punta!
 
-75 songs - 5 hr 18 min
+78 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 | 2020-05-26 |  |
 | [Baila Conmigo](https://open.spotify.com/track/7Fz5tD8bvsohPYBRwTFv54) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 3:19 | 2020-05-26 | 2022-07-27 |
 | [Balabaa](https://open.spotify.com/track/6DYHFCm0nVsH5td5hYAXFe) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Balabaa](https://open.spotify.com/album/6X7kzkdTLV3Kqtm3kdnH3l) | 2:38 | 2020-05-26 | 2022-07-29 |
-| [Balabaa](https://open.spotify.com/track/2R5RYvwBKgNubDJf6gQ59S) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 2:40 | 2020-05-26 |  |
+| [Balabaa](https://open.spotify.com/track/2R5RYvwBKgNubDJf6gQ59S) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 2:40 | 2020-05-26 | 2023-04-02 |
 | [Banana](https://open.spotify.com/track/7rScvdOFYinD8HiBZuvr1L) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 6:35 | 2020-05-26 | 2022-07-29 |
 | [Banana](https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 6:41 | 2020-05-26 |  |
+| [Banana](https://open.spotify.com/track/5zRGEPFG9SEv9dGRjjxjwz) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Banana](https://open.spotify.com/album/0QBeVEOHHD8170pvyCfqB3) | 3:16 | 2020-05-26 |  |
 | [Banana](https://open.spotify.com/track/6jceTQXwTqbj4BJGJdlbvg) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:16 | 2020-05-26 | 2023-04-01 |
 | [Banana](https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Banana](https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR) | 3:16 | 2020-05-26 | 2022-07-29 |
 | [Biamaangui](https://open.spotify.com/track/1VzspFOoNXhEEzMqgCNQf9) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 3:52 | 2020-05-26 | 2022-07-28 |
@@ -25,7 +26,8 @@
 | [Cartel Mix](https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM), [Nuru Ellis](https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN) | [Mete Y Saca](https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm) | 6:11 | 2020-05-26 | 2023-02-21 |
 | [Catalina La Coja](https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [La Guerra De Las Puntas](https://open.spotify.com/album/7MRIkW4ZvHEVWVvoGDieW8) | 4:09 | 2020-05-26 | 2022-07-29 |
 | [Dona Amidi](https://open.spotify.com/track/6I9E346OLKTAu8bG2ZA6cs) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 3:42 | 2020-05-26 | 2022-07-29 |
-| [Dona Amidi](https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puntas Garifunas Con Cache](https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l) | 3:42 | 2020-05-26 |  |
+| [Dona Amidi](https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puntas Garifunas Con Cache](https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l) | 3:42 | 2020-05-26 | 2023-04-02 |
+| [El Amor de una Rosa](https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5) | [Grupo Kazzabe](https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW) | 4:28 | 2020-05-26 |  |
 | [El Amor de una Rosa](https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Fiesta de Punta USA](https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s) | 4:28 | 2020-05-26 | 2023-03-31 |
 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 | 2020-05-26 |  |
 | [El Pato y la Gallina](https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C) | 4:59 | 2020-05-26 |  |
@@ -38,6 +40,7 @@
 | [Kazzabe Si Sabe](https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 8](https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX) | 5:25 | 2020-05-26 |  |
 | [La Ametralladora](https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [La Ametralladora](https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv) | 2:34 | 2020-05-26 |  |
 | [La Ametralladora](https://open.spotify.com/track/3Ol5CO3rrv4J1jOqODdUN6) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [La Ametralladora](https://open.spotify.com/album/4hcuHrnnwvlSFFdZMm63V8) | 2:34 | 2020-05-26 | 2022-07-28 |
+| [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/track/19ypqqNqS4pdiZ4PzCEcLQ) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Conexión Garifuna](https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689) | 3:12 | 2020-05-26 |  |
 | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/track/3EJTCYD1PUIpYIz11C028p) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/album/1YAZf04dRwNpRg689EKfgI) | 3:12 | 2020-05-26 | 2022-07-28 |
 | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/track/152nhI6f1tkY0E3ntAWec0) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/album/1lLUVEg8aMkpx69devOYo6) | 3:12 | 2020-05-26 | 2022-11-13 |
 | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/track/3llzQNADFAhTK81sdx2rqR) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:12 | 2020-05-26 | 2023-04-01 |
@@ -81,7 +84,7 @@
 | [Suenos](https://open.spotify.com/track/7C28Z8QbcrEmLRCg1sBW8f) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 3:40 | 2020-05-26 | 2022-07-29 |
 | [Swing Latino](https://open.spotify.com/track/2kVZfr5MW8w7wc7v6ULwWK) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Saben Quien Llego](https://open.spotify.com/album/78w7svKazglFlKTtHOYht7) | 5:02 | 2020-05-26 | 2022-07-29 |
 | [Tickita Tickita](https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 5:25 | 2020-05-26 |  |
-| [Tik Tok Punta](https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg) | [El Profeta Hn](https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU) | [Tik Tok Punta](https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y) | 4:03 | 2020-05-26 |  |
+| [Tik Tok Punta](https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg) | [El Profeta Hn](https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU) | [Tik Tok Punta](https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y) | 4:03 | 2020-05-26 | 2023-04-02 |
 | [Vamos Vamos Todos Con la Seleccion](https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 1:53 | 2020-05-26 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

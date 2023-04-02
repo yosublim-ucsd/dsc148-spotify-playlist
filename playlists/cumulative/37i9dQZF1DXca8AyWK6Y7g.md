@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Olivia Dean
 
-1,579 songs - 3 day 8 hr 25 min
+1,581 songs - 3 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,7 +668,7 @@
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-10-25 | 2022-01-29 |
 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2022-10-07 |  |
 | [Hydra](https://open.spotify.com/track/09o11md5fskmIRdfFA7l4T) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hydra](https://open.spotify.com/album/35Q1l3VWkjiFnxXfxJrxNk) | 2:45 | 2021-03-27 | 2021-11-20 |
-| [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 | 2023-04-01 |
+| [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-11-19 | 2022-09-03 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 |  |
 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 | 2022-11-18 | 2022-12-24 |
@@ -877,6 +877,7 @@
 | [Lovesick](https://open.spotify.com/track/3IFfNzlMMMSzMBiEA1TCs5) | [Little Warrior](https://open.spotify.com/artist/2XvMoKTRonUpyjczi7UQ9Z), [Goldini Bagwell](https://open.spotify.com/artist/2NdjvADLAY6NFfh6tvJEVu) | [Lovesick](https://open.spotify.com/album/6nKXxyvhwqfSoSwxL7xjmK) | 3:49 | 2019-05-26\* | 2020-04-09 |
 | [Loving Is Easy](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2021-01-23 | 2022-01-05 |
 | [Loving Love](https://open.spotify.com/track/2Mblfptq6Hy8iqsKxRZKRM) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Loving Love](https://open.spotify.com/album/08pc1RDrKkeB9fJQNWonqh) | 2:39 | 2019-05-26\* | 2019-08-13 |
+| [Lunch](https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lunch](https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe) | 2:52 | 2023-03-24 |  |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-14 |
 | [M&M's for Breakfast](https://open.spotify.com/track/3Gk5K27zIXTMqnbUEwzBmA) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1) | 3:00 | 2022-10-28 | 2022-12-10 |
 | [M&M's for Breakfast](https://open.spotify.com/track/4ZZXDm5YWOzHYtuH04OMFF) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/0YctuY3tDGIz4u64vNxUxt) | 3:00 | 2022-09-30 | 2022-10-14 |
@@ -1153,7 +1154,7 @@
 | [Routine](https://open.spotify.com/track/7aIhTwqikfUfxAO4oQn69H) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Routine](https://open.spotify.com/album/1Tcs9eaYklWGY4WFdJwyek) | 3:11 | 2020-04-28 | 2020-11-13 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-06-10 | 2022-06-25 |
 | [ruin my life](https://open.spotify.com/track/2e2RJ0nomb2aAHpzbnL1aV) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [ruin my life](https://open.spotify.com/album/23Z5DQSMp0l6MVIKoAAhBr) | 2:46 | 2021-11-08 | 2022-01-29 |
-| [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 |  |
+| [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-04-02 |
 | [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 | 2022-03-18 | 2022-10-20 |
 | [Run & Hide](https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Run & Hide](https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq) | 3:00 | 2022-05-06 | 2022-10-06 |
 | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/album/7zVCh92Cr2xyHnSnheohp7) | 2:48 | 2021-10-08 | 2022-01-08 |
@@ -1173,6 +1174,7 @@
 | [Salir](https://open.spotify.com/track/4BPPnB4QD4eXI251VjifTL) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Salir](https://open.spotify.com/album/3yTS8NyDJBjuyM5WtLX6Nl) | 2:58 | 2021-10-10 | 2021-10-11 |
 | [Saltines & Gingerale](https://open.spotify.com/track/4fywIRWZFKQWBUwSBrQ271) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Saltines & Gingerale](https://open.spotify.com/album/7GGxMJrXmbPMnQ03uuJBa5) | 2:34 | 2021-07-16 | 2022-01-29 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-07 | 2021-11-20 |
+| [Same Friends \(with Lil Tjay\)](https://open.spotify.com/track/3fO79znP8PGK3E9lxv2rlo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Same Friends \(with Lil Tjay\)](https://open.spotify.com/album/1NEFmcySKqVun0sMj1EOZg) | 2:44 | 2023-03-31 |  |
 | [SAN FRANCISCO SIDEWALK](https://open.spotify.com/track/1EgT600glf6aCE9GAQkgm2) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SAN FRANCISCO SIDEWALK](https://open.spotify.com/album/4jEuydNWI0SVS0zkNNVN9r) | 2:25 | 2022-08-12 | 2022-09-24 |
 | [Sandcastle](https://open.spotify.com/track/0aoQatLl8N7NtLr1YPSu91) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [Sandcastle](https://open.spotify.com/album/3zRFYJfZzLlYKICALX1kyS) | 2:50 | 2022-09-16 | 2022-11-13 |
 | [SANTA CRUZ](https://open.spotify.com/track/3EdMGgZSKs1JKoA3aRMa0V) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 2: SANTA CRUZ](https://open.spotify.com/album/2PciqF92PGAxQ2fuodJZFz) | 3:00 | 2021-08-27 | 2022-01-01 |
@@ -1304,7 +1306,7 @@
 | [stimulation](https://open.spotify.com/track/4bEUXJIYBbTsQRfkF5gIfq) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [stimulation](https://open.spotify.com/album/5Dkr7XMmdh8zHGPfcHsbkS) | 2:40 | 2021-04-19 | 2021-08-15 |
 | [Stoned Nights](https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Stoned Nights](https://open.spotify.com/album/63dmsjTvTlAgBRjXlDznF2) | 3:25 | 2021-12-03 | 2022-01-08 |
 | [Story of a Boy](https://open.spotify.com/track/7atzImo7vWrKHrsqkFrMuQ) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/1emFHl6oXIJRrXS3yS4hj4) | 2:36 | 2023-01-27 | 2023-02-04 |
-| [Story of a Boy](https://open.spotify.com/track/7cbmG4OPQ9ghcewYIlNiuS) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/2RUbaX7TWnJIKY3irozBP3) | 2:36 | 2023-02-03 |  |
+| [Story of a Boy](https://open.spotify.com/track/7cbmG4OPQ9ghcewYIlNiuS) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/2RUbaX7TWnJIKY3irozBP3) | 2:36 | 2023-02-03 | 2023-04-02 |
 | [stranger danger!](https://open.spotify.com/track/4yk0t3ZG8vkoligoo7iAQB) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2AaauDVv5L5MJE7Teus6xh) | 3:41 | 2023-01-13 | 2023-02-04 |
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2021-11-05 | 2022-01-29 |
 | [Strangers](https://open.spotify.com/track/2gfTJc2ISxXz7KmsvN8W46) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Strangers](https://open.spotify.com/album/1kYjmWV0qy5tqasdtKjw7V) | 2:46 | 2020-05-29 | 2021-11-10 |
@@ -1451,7 +1453,7 @@
 | [TROJAN HORSE](https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [TROJAN HORSE](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB) | 4:26 | 2021-03-07 | 2021-10-16 |
 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-22 | 2022-10-31 |
 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 | 2022-04-22 | 2022-04-29 |
-| [Trophy](https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:40 | 2022-11-11 |  |
+| [Trophy](https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:40 | 2022-11-11 | 2023-04-02 |
 | [Trust Issues](https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9) | 2:20 | 2022-08-19 | 2022-10-29 |
 | [try to try](https://open.spotify.com/track/3NkEARkGgDV2i8AWiyctQt) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [try to try](https://open.spotify.com/album/43mYpwbwMHnpDMpLQFiDqJ) | 2:16 | 2021-04-17 | 2021-11-20 |
 | [TV](https://open.spotify.com/track/7sZxEtxIahkGmPihwVYmLQ) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [TV](https://open.spotify.com/album/2VZlv2ZzFtr2WN2YPbzCbq) | 3:06 | 2019-05-26\* | 2019-09-14 |

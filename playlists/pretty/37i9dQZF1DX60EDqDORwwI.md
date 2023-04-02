@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60EDqDORwwI.md) - [plain]
 
 > The essential <a href="spotify:artist:23fqKkggKUBHNkbKtXEls4">Norwegian DJ</a>'s tracks and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,909 likes - 63 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,049 likes - 63 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

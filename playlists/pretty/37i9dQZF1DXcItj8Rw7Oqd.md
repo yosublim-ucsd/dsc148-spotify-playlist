@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 
 > Pop x Rock\. Cover: McFly
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,566 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,570 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 | 21 | [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 |
 | 22 | [wait what](https://open.spotify.com/track/39YEqg7dtit80pcOWB6mBw) | [Gia Lily](https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB) | [wait what](https://open.spotify.com/album/0jpYTCHCGg3f2NzN90DRYA) | 2:43 |
 | 23 | [Growing Up \(feat\. Mark Hoppus\)](https://open.spotify.com/track/25cuN4hKRiJHuPtXtKwEdE) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Tonight Is the Night](https://open.spotify.com/album/6iCKnMoS7OmyQ6D3fkvpeG) | 2:48 |
-| 24 | [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 |
+| 24 | [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 |
 | 25 | [Hurt Somebody](https://open.spotify.com/track/58IKtThXa8F87oupRcIMSu) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Hurt Somebody](https://open.spotify.com/album/34o7Qj0EUjXbT9EnCdb6ye) | 2:30 |
 | 26 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
 | 27 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 | 74 | [Call Me Up](https://open.spotify.com/track/362rlBjH5QCosaI0tjoISk) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Call Me Up](https://open.spotify.com/album/01PBDRObq98AepDMLCLYAT) | 2:51 |
 | 75 | [Every Night](https://open.spotify.com/track/342eeP9yZTw5mpqNUDh8I0) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Every Night](https://open.spotify.com/album/1erO19ZiBDTVHMOVj9dFUI) | 3:20 |
 
-Snapshot ID: `MTY4MDI1NjgxNSwwMDAwMDAwMDA5OTc3NzA4ZTkyMWU1NTE1YzkyZmMzZGVjMjg3OWIx`
+Snapshot ID: `MTY4MDI1NjgxNSwwMDAwMDAwMDFhYmNhOGM2ZWQ3MDMxM2VmZWI0YzFlZGQ3OTA4MjIz`

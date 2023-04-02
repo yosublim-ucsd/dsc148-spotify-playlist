@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Paula Koops",
-  "num_followers": 21221,
+  "num_followers": 21230,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxMzY2MCwwMDAwMDAwMDE2NzVlZmNiMmNlODk5ZGQwNGRkZmUxZGNmYzg3MDEy",
+  "snapshot_id": "MTY4MDIxMzY2MCwwMDAwMDAwMDhjMjNmMDdjODM2MTc3ZGUwNTg0NjlmNTAwMTE5OWI0",
   "tracks": [
     {
       "added_at": "2023-03-30 22:01:00",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "De Charco En Charco",
-        "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        }
-      ],
-      "duration_ms": 160589,
-      "name": "De Charco En Charco",
-      "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
         "name": "Reventar la Ciudad",
         "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 209271,
       "name": "Reventar la Ciudad",
       "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
+        "name": "De Charco En Charco",
+        "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "duration_ms": 160589,
+      "name": "De Charco En Charco",
+      "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "Tiro Al Aire",
-        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 200145,
-      "name": "Tiro Al Aire",
-      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
         "name": "T\u00c1NGER Y ZAHARA",
         "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 208372,
       "name": "Agua al dolor",
       "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
+        "name": "Tiro Al Aire",
+        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "Tiro Al Aire",
+      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -363,6 +363,26 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
+        "name": "NO ME PASA NADA",
+        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Nada ha cambiado",
+      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
         "name": "En Otro Lugar",
         "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 127634,
       "name": "favorita",
       "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "NO ME PASA NADA",
-        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Nada ha cambiado",
-      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "No Me Salves",
-        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 232855,
-      "name": "No Me Salves",
-      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
         "name": "Solo me gustas cuando yo te gusto a ti",
         "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 239933,
       "name": "Veo tan Dentro",
       "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
+        "name": "No Me Salves",
+        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 232855,
+      "name": "No Me Salves",
+      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
+        "name": "Prom\u00e9teme",
+        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 159307,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
         "name": "Entre T\u00fa y Yo",
         "url": "https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 199967,
       "name": "Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "Prom\u00e9teme",
-        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 159307,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
         "name": "La Broma De Mis Sue\u00f1os",
         "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 162719,
       "name": "Cuchillos",
       "url": "https://open.spotify.com/track/4vEutziRAYewCT97ziq48J"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
     },
     {
       "added_at": "2023-03-30 22:01:00",

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-206 songs - 18 hr 43 min
+207 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 | 2022-11-23 | 2023-03-11 |
 | [Say Love \- Radio Mix](https://open.spotify.com/track/5Wlpy9LzfhRnZgeUcXkUXh) | [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Say Love](https://open.spotify.com/album/0ZvWPjOwDxNRAqubn8b1u7) | 4:24 | 2022-12-28 | 2023-01-06 |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 |  |
-| [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 |  |
+| [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 | 2023-04-02 |
+| [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-03-24 |  |
 | [Shout](https://open.spotify.com/track/2BB24tcKHCZtp14guuVeaJ) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Shout](https://open.spotify.com/album/00u18CYVfC2LTCaUUoYOfu) | 3:31 | 2022-12-28 | 2023-01-06 |
 | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm) | 3:33 | 2022-12-28 | 2023-01-06 |
 | [Silver Screen](https://open.spotify.com/track/6lBySALfpud2idAf6X6Pqi) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Silver Screen](https://open.spotify.com/album/3SJu0buwmV07qtrRSvHY7U) | 6:42 | 2022-11-28 | 2023-02-04 |

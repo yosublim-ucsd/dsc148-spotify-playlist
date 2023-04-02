@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Corcovado",
+        "url": "https://open.spotify.com/album/5hhug6SmgmQh1NDueAwCgA"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151583,
+      "name": "Corcovado",
+      "url": "https://open.spotify.com/track/5y4OLeQ9cwyhFXQgdOQgSY"
+    },
+    {
+      "album": {
         "name": "Da Maior Import\u00e2ncia - Spotify Singles",
         "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
       },
@@ -686,7 +704,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 154208,
       "name": "Lua de Garrafa",
       "url": "https://open.spotify.com/track/4bqLjdIEdMMBUFLrTFDJVa"

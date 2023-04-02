@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 40209,
+  "num_followers": 40268,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE0OTQ1OCwwMDAwMDAwMGRmNTA4OGM2MmIxMWQ2NjBiZmYxMTQ1NzRmZDJiNmQz",
+  "snapshot_id": "MTY3ODE0OTQ1OCwwMDAwMDAwMDE4YjU0NmI0ZDkzNjYyNTc3ZjEzZjYzNDE3ZWU1NjJj",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
-      },
-      "artists": [
-        {
-          "name": "Alicia Myers",
-          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Want To Thank You",
-      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 274560,
       "name": "It's My House",
       "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
+      },
+      "artists": [
+        {
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Music Speaks Louder Than Words",
         "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 501466,
-      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
-      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Take Me to the Bridge / Jumpin' (Get Hot, Hit the Spot)",
         "url": "https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 423003,
       "name": "Take Me to the Bridge",
       "url": "https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Changing Of The Gard",
-        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
       },
       "artists": [
         {
-          "name": "Stargard",
-          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
         }
       ],
-      "duration_ms": 317933,
-      "name": "Wear It Out",
-      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
+      "duration_ms": 360506,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -875,34 +875,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
+        "name": "The Changing Of The Gard",
+        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
       },
       "artists": [
         {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+          "name": "Stargard",
+          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
         }
       ],
-      "duration_ms": 360506,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
-      },
-      "artists": [
-        {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
-        }
-      ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+      "duration_ms": 317933,
+      "name": "Wear It Out",
+      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -919,6 +903,22 @@
       "duration_ms": 274960,
       "name": "My Forbidden Lover - 2018 Remaster",
       "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        }
+      ],
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2022-12-31 00:39:45",

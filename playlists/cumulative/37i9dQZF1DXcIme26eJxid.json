@@ -56,7 +56,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 483986,
       "name": "Alo Mi Alo (Parts 1 & 2)",
       "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
@@ -1024,6 +1024,24 @@
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "album": {
+        "name": "Weekend Special (USA Remixes)",
+        "url": "https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv"
+      },
+      "artists": [
+        {
+          "name": "Brenda & The Big Dudes",
+          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288109,
+      "name": "Weekend Special (with Brenda Fassie) - USA Remix",
+      "url": "https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 547642,
+  "num_followers": 548056,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkyMjA4NywwMDAwMDAwMGNiN2VlMWYzNmNiYTI2OWE4NjY2ZGIwNGNjNGM3YjFl",
+  "snapshot_id": "MTY3OTkyMjA4NywwMDAwMDAwMDVjMDk2MmVmNjU2ZDQ2ZThhNTdmZTFiODFlOTU2YjQ2",
   "tracks": [
     {
       "added_at": "2023-01-20 05:01:00",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Flowers, a snail & insects",
+        "url": "https://open.spotify.com/album/5sb5ksvhXh2qGwvFQdAYs4"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Flowers, a snail & insects",
+      "url": "https://open.spotify.com/track/7DULILmYwre0P5BvZRU9uy"
+    },
+    {
       "added_at": "2021-02-12 05:01:00",
       "album": {
         "name": "Moves EP",
@@ -407,22 +423,6 @@
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Flowers, a snail & insects",
-        "url": "https://open.spotify.com/album/5sb5ksvhXh2qGwvFQdAYs4"
-      },
-      "artists": [
-        {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Flowers, a snail & insects",
-      "url": "https://open.spotify.com/track/7DULILmYwre0P5BvZRU9uy"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -757,30 +757,6 @@
       "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "The Universe",
-        "url": "https://open.spotify.com/album/32nPQigQIFZJCeDbUjVydx"
-      },
-      "artists": [
-        {
-          "name": "Joel Holmes",
-          "url": "https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j"
-        },
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        },
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/5gozUmtTMvu0lBH00XZ8fT"
-        }
-      ],
-      "duration_ms": 427662,
-      "name": "The Universe",
-      "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
-    },
-    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Phoenix & Panther",
@@ -805,20 +781,28 @@
       "url": "https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
+      "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Deep in the Pocket",
-        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/32nPQigQIFZJCeDbUjVydx"
       },
       "artists": [
         {
-          "name": "Pablo Queu",
-          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
+          "name": "Joel Holmes",
+          "url": "https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j"
+        },
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        },
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/5gozUmtTMvu0lBH00XZ8fT"
         }
       ],
-      "duration_ms": 224971,
-      "name": "Kountdown",
-      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
+      "duration_ms": 427662,
+      "name": "The Universe",
+      "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -835,6 +819,22 @@
       "duration_ms": 207707,
       "name": "Seventh Wonder",
       "url": "https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Deep in the Pocket",
+        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
+      },
+      "artists": [
+        {
+          "name": "Pablo Queu",
+          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
+        }
+      ],
+      "duration_ms": 224971,
+      "name": "Kountdown",
+      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -883,34 +883,6 @@
       "duration_ms": 188000,
       "name": "Panspermia",
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Cloud Bounce",
-        "url": "https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN"
-      },
-      "artists": [
-        {
-          "name": "9ICK",
-          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
-        },
-        {
-          "name": "Calvin Bennett",
-          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
-        },
-        {
-          "name": "Gustav Gustav",
-          "url": "https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8"
-        },
-        {
-          "name": "Bertram Kvist",
-          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Cloud Bounce",
-      "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -969,6 +941,34 @@
       "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
     },
     {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Cloud Bounce",
+        "url": "https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN"
+      },
+      "artists": [
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        },
+        {
+          "name": "Gustav Gustav",
+          "url": "https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Cloud Bounce",
+      "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
+    },
+    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Modern Life",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/5MLyDyUI1yxlzPeoXuj8mn"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 716744,
+      "name": "SAMURAI - 2022 version",
+      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Truly Another Classic",
@@ -1037,38 +1053,6 @@
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 716744,
-      "name": "SAMURAI - 2022 version",
-      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Moonlight Love Affair",
-        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Dirty Mariposa",
-      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Aso EP",
@@ -1093,20 +1077,20 @@
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
+      "added_at": "2022-06-24 04:02:00",
       "album": {
-        "name": "Endless Thoughts",
-        "url": "https://open.spotify.com/album/14rKM6D986UMKoXe62UCNb"
+        "name": "Moonlight Love Affair",
+        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
       },
       "artists": [
         {
-          "name": "Modha",
-          "url": "https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK"
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
         }
       ],
-      "duration_ms": 237077,
-      "name": "Endless Thoughts",
-      "url": "https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd"
+      "duration_ms": 324000,
+      "name": "Dirty Mariposa",
+      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 347368,
       "name": "Carlyle Clyde",
       "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Endless Thoughts",
+        "url": "https://open.spotify.com/album/14rKM6D986UMKoXe62UCNb"
+      },
+      "artists": [
+        {
+          "name": "Modha",
+          "url": "https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK"
+        }
+      ],
+      "duration_ms": 237077,
+      "name": "Endless Thoughts",
+      "url": "https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "lamplighting",
-        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
-      },
-      "artists": [
-        {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
-        }
-      ],
-      "duration_ms": 139419,
-      "name": "lamplighting",
-      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Quantum Blackness",
@@ -1229,6 +1213,22 @@
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "lamplighting",
+        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+      },
+      "artists": [
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "duration_ms": 139419,
+      "name": "lamplighting",
+      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
+    },
+    {
       "added_at": "2021-02-26 00:47:37",
       "album": {
         "name": "Coral Jazz",
@@ -1261,6 +1261,26 @@
       "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
     },
     {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Healthy Habits",
+        "url": "https://open.spotify.com/album/5G2T3mTd4cqmFKGFDUcZsV"
+      },
+      "artists": [
+        {
+          "name": "Noa Erni",
+          "url": "https://open.spotify.com/artist/3UAIcRXORdauo0s55wNdCU"
+        },
+        {
+          "name": "Gr\u00e9goire Pign\u00e8de",
+          "url": "https://open.spotify.com/artist/793NIRIxR2Rm9GnNecEk7y"
+        }
+      ],
+      "duration_ms": 129166,
+      "name": "Om Drip",
+      "url": "https://open.spotify.com/track/2nPFppVy5PUdxtR19dT8uZ"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Tin Tin Deo (NerdStar Remix)",
@@ -1281,22 +1301,6 @@
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
-      "added_at": "2022-02-11 19:25:22",
-      "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
-      },
-      "artists": [
-        {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
-        }
-      ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Between Days",
@@ -1313,24 +1317,20 @@
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
+      "added_at": "2022-02-11 19:25:22",
       "album": {
-        "name": "Childhood Memories (Remix)",
-        "url": "https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W"
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
       },
       "artists": [
         {
-          "name": "Gabriel Gosse",
-          "url": "https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
         }
       ],
-      "duration_ms": 278226,
-      "name": "Childhood Memories - Remix",
-      "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1353,20 +1353,24 @@
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
+      "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "We Don't Need No Roads",
-        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
+        "name": "Childhood Memories (Remix)",
+        "url": "https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W"
       },
       "artists": [
         {
-          "name": "FKAjazz",
-          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+          "name": "Gabriel Gosse",
+          "url": "https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
         }
       ],
-      "duration_ms": 258334,
-      "name": "We Don't Need No Roads",
-      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
+      "duration_ms": 278226,
+      "name": "Childhood Memories - Remix",
+      "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1389,24 +1393,20 @@
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
+      "added_at": "2023-01-20 05:01:00",
       "album": {
-        "name": "Healthy Habits",
-        "url": "https://open.spotify.com/album/5G2T3mTd4cqmFKGFDUcZsV"
+        "name": "We Don't Need No Roads",
+        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
       },
       "artists": [
         {
-          "name": "Noa Erni",
-          "url": "https://open.spotify.com/artist/3UAIcRXORdauo0s55wNdCU"
-        },
-        {
-          "name": "Gr\u00e9goire Pign\u00e8de",
-          "url": "https://open.spotify.com/artist/793NIRIxR2Rm9GnNecEk7y"
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
         }
       ],
-      "duration_ms": 129166,
-      "name": "Om Drip",
-      "url": "https://open.spotify.com/track/2nPFppVy5PUdxtR19dT8uZ"
+      "duration_ms": 258334,
+      "name": "We Don't Need No Roads",
+      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1517,20 +1517,20 @@
       "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2022-04-15 04:01:00",
       "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/7w4DtwePB3gH9wCayLd6sj"
+        "name": "PRNDL.wav",
+        "url": "https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr"
       },
       "artists": [
         {
-          "name": "JK Group",
-          "url": "https://open.spotify.com/artist/14HO6LEbVVKsZQ6EVEhqS4"
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
         }
       ],
-      "duration_ms": 313735,
-      "name": "Rising Part II",
-      "url": "https://open.spotify.com/track/7mWuk9EDfbvoBMqE5QBJij"
+      "duration_ms": 177036,
+      "name": "PRNDL.exe",
+      "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
     }
   ],
   "unique_name": "Jazztronica",

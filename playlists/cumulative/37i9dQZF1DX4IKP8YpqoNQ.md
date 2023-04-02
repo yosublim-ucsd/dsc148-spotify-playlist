@@ -4,7 +4,7 @@
 
 > Experience the best live performances.
 
-185 songs - 15 hr 38 min
+186 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Heart Of The City \(Ain't No Love\) \- Live On MTV Unplugged / 2001](https://open.spotify.com/track/4xyPqgnOnH076SJEW2QUwF) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Jay\-Z Unplugged \(Live On MTV Unplugged / 2001\)](https://open.spotify.com/album/7ctCScnWG0nMedlfUiauOk) | 4:05 | 2022-02-10 | 2023-03-31 |
 | [Hey Laura \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 3:40 | 2022-02-10 |  |
 | [Hold On, I'm Comin' \- Live in London](https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Stax/Volt Revue: Live In London, Vol\. 1](https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66) | 3:55 | 2022-02-10 | 2022-07-26 |
+| [Horsepower For The Streets \- Acoustic String Version](https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets \(Deluxe Version\)](https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP) | 2:25 | 2023-03-30 |  |
 | [How I Miss You Baby \- Live In Hollywood / 1968](https://open.spotify.com/track/1IIkWLcqUJeNVDEfqe0tXr) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Womack Live](https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A) | 4:15 | 2022-02-10 | 2022-07-26 |
 | [I Believe in You \- BBC Radio 1 Live](https://open.spotify.com/track/2X2DJ4Bu4avTNJVrJDVmoa) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [I Believe in You](https://open.spotify.com/album/735hZyhhGkTNPY3hlDiMSF) | 7:07 | 2022-02-10 | 2022-07-24 |
 | [I Can't Write Left\-Handed \- Live at Carnegie Hall, New York, NY \- October 1972](https://open.spotify.com/track/4u5caeri2MC9V32n9OBuZT) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Bill Withers Live At Carnegie Hall](https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx) | 6:43 | 2022-02-10 |  |
@@ -176,7 +177,7 @@
 | [VooDoo \- Live From Wolfgang's Vault](https://open.spotify.com/track/0NdmKzjtCxH3pdDPcCBlOX) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Authorized Bootleg/Warfield Theatre, San Francisco, CA, February 27, 1989](https://open.spotify.com/album/6EieVX7Wx9Bugz2AFBBZc3) | 4:12 | 2022-02-10 | 2022-07-29 |
 | [Walk With Me \- Live from Blackbird Studio](https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/album/2W5NGe87vCMrPS1YHLaARB) | 3:42 | 2022-02-10 |  |
 | [Washington D.C.](https://open.spotify.com/track/013mWYpNJUCQMM2gNP8TxF) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Live!](https://open.spotify.com/album/63jfjHjykzWaVEMPzBHwxA) | 5:22 | 2022-02-10 | 2022-07-29 |
-| [What Is Hip? \- Live Version](https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Live And In Living Color](https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK) | 6:34 | 2022-02-10 |  |
+| [What Is Hip? \- Live Version](https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Live And In Living Color](https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK) | 6:34 | 2022-02-10 | 2023-04-02 |
 | [What Is It About Men \- Live At North Sea Jazz Festival](https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 4:45 | 2022-02-10 |  |
 | [What's Going On \- Live](https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 5:17 | 2022-02-10 |  |
 | [What's Going On \- Live At Oakland Coliseum, CA / 1974](https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 4:49 | 2022-02-10 |  |

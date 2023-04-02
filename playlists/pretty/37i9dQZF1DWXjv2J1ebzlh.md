@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,588 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,650 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1160,7 +1160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1150 | [Ritmo de Tambo](https://open.spotify.com/track/7bN8Z3GQcSe3obv5lYbxWx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3JoaLNavAXOlnbp0FUVF9b) | 2:46 |
 | 1151 | [Adhara](https://open.spotify.com/track/0ST9qkS1FIziDS5nQZqsMs) | [Mop Mop](https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf) | [Lunar Love](https://open.spotify.com/album/4eADucWKuGNQUfdbmcDlYB) | 5:11 |
 | 1152 | [La Coladera](https://open.spotify.com/track/5HswfTgBIUkfAVHEeNHgSB) | [Freh Kodja](https://open.spotify.com/artist/5AQB5zVjgRwrYlFPLrf6UH) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 3:09 |
-| 1153 | [Sabor a Caña](https://open.spotify.com/track/58L6heu03JnUUGifXtQh2d) | [Los Orientales de Paramonga](https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c) | [Sabor a Caña](https://open.spotify.com/album/1fg1O2zLLYnt9Xr1Wmrn5N) | 2:21 |
+| 1153 | [Sabor a Caña](https://open.spotify.com/track/58L6heu03JnUUGifXtQh2d) | [Los Orientales de Paramonga](https://open.spotify.com/artist/2QDSGJavNjOteGdY6NnbPS) | [Sabor a Caña](https://open.spotify.com/album/1fg1O2zLLYnt9Xr1Wmrn5N) | 2:21 |
 | 1154 | [Soledad](https://open.spotify.com/track/7fG0bqv3XzEUW3CfQCoWfK) | [El Combo de los Galleros](https://open.spotify.com/artist/3LLHG54nDGz5Ult2YEbtlm) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3JoaLNavAXOlnbp0FUVF9b) | 2:47 |
 | 1155 | [Tambó Tambó](https://open.spotify.com/track/5XSGWSVECe9FpqXEtPUCBQ) | [Andres Landero](https://open.spotify.com/artist/3RjXjc2b1ndP71qSzdUTlt) | [Yo Amanecí](https://open.spotify.com/album/5Fnv9buNsvcoUmkx1pLTOZ) | 3:27 |
 | 1156 | [Alghoroub / الغروب](https://open.spotify.com/track/2BV6HyzBTeyX9daJzWUw6l) | [Abdou El Omari / عبده العماري](https://open.spotify.com/artist/3qG5aItJclLYXDne7MFj5u) | [Nuits De Printemps / ليالي الربيع](https://open.spotify.com/album/7FquwDh5VwQ3m1tAs1bVps) | 5:09 |

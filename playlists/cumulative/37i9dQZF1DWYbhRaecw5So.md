@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-94 songs - 9 hr 20 min
+95 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Extraction \- Extended Mix](https://open.spotify.com/track/6jIZjEOjaNJ8ZJ6i1kCr6w) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Extraction](https://open.spotify.com/album/2ksO9hVTZcQYJp58lvKkrB) | 6:15 | 2022-07-23 |  |
 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 | 2022-07-23 |  |
 | [Feel For You](https://open.spotify.com/track/0Z2e7pC55tHOYpG7ce2mtX) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Feel For You](https://open.spotify.com/album/2Av2Zvw16LgwA7hnWrxQFv) | 2:54 | 2022-07-23 |  |
-| [Fireblade](https://open.spotify.com/track/4WzBCQDwfaGG1p25ky8xx6) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Henry Saiz](https://open.spotify.com/artist/1f5QPXLfjlzlG77lCkdl0W) | [Fireblade](https://open.spotify.com/album/0vJKpqOnajgVSJKrhfzFph) | 10:11 | 2022-07-23 |  |
+| [Fireblade](https://open.spotify.com/track/4WzBCQDwfaGG1p25ky8xx6) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Henry Saiz](https://open.spotify.com/artist/1f5QPXLfjlzlG77lCkdl0W) | [Fireblade](https://open.spotify.com/album/0vJKpqOnajgVSJKrhfzFph) | 10:11 | 2022-07-23 | 2023-04-02 |
+| [Fireblade](https://open.spotify.com/track/63enJ98vhcKj0HqjiREJCw) | [Henry Saiz](https://open.spotify.com/artist/1f5QPXLfjlzlG77lCkdl0W), [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088) | [Fireblade](https://open.spotify.com/album/2YTNJ3Db6wPReeZ6EEcU51) | 10:11 | 2023-03-27 |  |
 | [First Blush](https://open.spotify.com/track/1hjoYeRwkAbaqY3Akt6wHm) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Oniris](https://open.spotify.com/artist/3wMm8AmRf08qGlo4hp72Sp) | [First Blush](https://open.spotify.com/album/35WHFmjPdARCzcciN58QVv) | 7:50 | 2022-07-23 |  |
 | [Flying High](https://open.spotify.com/track/2Py5mwVwgCHMXXUnPhj0QL) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Flying High](https://open.spotify.com/album/6kh10pfqwMB1FNmFNvOa9n) | 7:00 | 2023-03-27 |  |
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2022-07-23 |  |

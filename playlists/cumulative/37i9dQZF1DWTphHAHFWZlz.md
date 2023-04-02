@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-183 songs - 10 hr 46 min
+184 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Aire](https://open.spotify.com/track/3acDFtOzGJXpXbYNUHxuog) | [Deny](https://open.spotify.com/artist/3qm8i1mP2kcjSrPOrHofDi) | [Aire](https://open.spotify.com/album/7wog1URY1uaVVaiH6AJcVl) | 3:45 | 2022-06-29 | 2022-08-27 |
 | [Al Límite](https://open.spotify.com/track/3iG2svHzJCwv3i75sc83Vv) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Hollywood Bungalows](https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1) | 4:33 | 2022-07-22 | 2022-08-27 |
 | [Al Límite](https://open.spotify.com/track/7DFSVPoXNtiMR8HRDWivGh) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Al Límite](https://open.spotify.com/album/6kH6C472kuT0yfNKLqumCx) | 4:33 | 2022-06-29 | 2022-07-29 |
-| [Amarnos](https://open.spotify.com/track/4GlJZmAfBesKa5xrY0I1rg) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [CRO9UIS](https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U) | 3:25 | 2022-06-29 |  |
+| [Amarnos](https://open.spotify.com/track/4GlJZmAfBesKa5xrY0I1rg) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [CRO9UIS](https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U) | 3:25 | 2022-06-29 | 2023-04-02 |
+| [Amarnos](https://open.spotify.com/track/6JMeRwLmGHjdelPQYF55mN) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Amarnos](https://open.spotify.com/album/5j7KJx5cEJAelHynrW7L0z) | 3:25 | 2022-10-28 |  |
 | [Ando Buscando](https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Ando Buscando](https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE) | 3:13 | 2022-06-29 | 2022-07-20 |
 | [Aquella Tarde](https://open.spotify.com/track/2cKdZVBnUaZn8ljdFvZdpX) | [Gualicho Turbio](https://open.spotify.com/artist/0ZRNpfCY00nx1WDHkVHxt7) | [Aquella Tarde](https://open.spotify.com/album/3i1JAH6tozHGd0QU0sYMgm) | 3:17 | 2022-06-29 | 2022-07-20 |
 | [Armagedón](https://open.spotify.com/track/1YAkwbM8f7yFRyu5OyG2xy) | [Camila López](https://open.spotify.com/artist/6VHcngSiHE3Y9Lzip0Dta2), [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Armagedón](https://open.spotify.com/album/0ubs2oQKjr2uLaSifiIapF) | 3:01 | 2022-07-29 |  |

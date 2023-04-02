@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 66167,
+  "num_followers": 66218,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMGMyMDY3YzE0MDk3MTQwN2U1ZWZiOWRmM2FmMjlhZGM3",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMGJkNDg5Nzc2MDk2NzZmMDRiMWVhOWQ0MTRkZWI2Yzgx",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
     },
     {
-      "added_at": "2022-12-08 13:00:09",
+      "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "sos",
-        "url": "https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK"
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj"
       },
       "artists": [
         {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
         }
       ],
-      "duration_ms": 149627,
-      "name": "sos",
-      "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
+      "duration_ms": 222640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
     }
   ],
   "unique_name": "dear diary",

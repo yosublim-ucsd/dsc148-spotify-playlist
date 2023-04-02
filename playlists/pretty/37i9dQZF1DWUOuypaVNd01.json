@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 27081,
+  "num_followers": 27099,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDMzZTUzMGQ4ZTdhZTk1NzU5OWY1MGM0NGUzNWNlYzNk",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDdmZDRkZWJjYjgxZDgzZDdmMWFiNWQzOWRmZjkxM2U2",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -392,6 +392,14 @@
           "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
           "name": "Major RD",
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
@@ -400,21 +408,13 @@
           "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
         },
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
           "name": "Pedro Apoema",
           "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 192223,
-      "name": "Diz Quem Ta na Pista",
-      "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
+      "duration_ms": 194816,
+      "name": "99 N\u00e3o \u00c9 100",
+      "url": "https://open.spotify.com/track/5lzlMq5i4IlnN9S5PiPssP"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -592,14 +592,6 @@
           "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
           "name": "Major RD",
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
@@ -608,13 +600,21 @@
           "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
         },
         {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
           "name": "Pedro Apoema",
           "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 194816,
-      "name": "99 N\u00e3o \u00c9 100",
-      "url": "https://open.spotify.com/track/5lzlMq5i4IlnN9S5PiPssP"
+      "duration_ms": 192223,
+      "name": "Diz Quem Ta na Pista",
+      "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Dia D",
+        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
+      },
+      "artists": [
+        {
+          "name": "blkmc",
+          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
+        },
+        {
+          "name": "Cenoura Beats",
+          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Dia D",
+      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Tudo Normal",
         "url": "https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 188229,
       "name": "Eu Ainda",
       "url": "https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Dia D",
-        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
-      },
-      "artists": [
-        {
-          "name": "blkmc",
-          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
-        },
-        {
-          "name": "Cenoura Beats",
-          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Dia D",
-      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
     },
     {
       "added_at": "2023-03-24 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 8551,
+  "num_followers": 8566,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGZhZmUzZGY0OTI2OGI3MDU4YWI2YTVmNGIyODAzMTM1",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGUyY2Q0ZjNlYzhiYmRmYjhhN2E2ZTI0NTBlZjU0NWQy",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Wetin",
         "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Ouu Ahh",
-        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 165274,
-      "name": "Ouu Ahh",
-      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Fatal Attraction",
         "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 196933,
       "name": "Fatal Attraction",
       "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Ouu Ahh",
+        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 165274,
+      "name": "Ouu Ahh",
+      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -451,26 +467,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Many Ways (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
       },
@@ -487,22 +483,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 200412,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+      "duration_ms": 227328,
+      "name": "Many Ways (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -559,6 +555,26 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "If Orange Was A Place",
         "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 226377,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Last Name",
-        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 121544,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Last Name",
+        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 121544,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 223005,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "flora + fana (deluxe)",
-        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 217055,
-      "name": "float",
-      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 153443,
       "name": "Run",
       "url": "https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -807,6 +823,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "In The Light (Stripped Version)",
         "url": "https://open.spotify.com/album/4eu6KcMa6TG59Uidtcx2Z6"
       },
@@ -823,22 +855,6 @@
       "duration_ms": 159000,
       "name": "In The Light - Stripped Version",
       "url": "https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 179828,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 156771,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 179828,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -967,6 +983,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 169031,
+      "name": "safe haven",
+      "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
       },
@@ -987,22 +1019,6 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 169031,
-      "name": "safe haven",
-      "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1123,6 +1139,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "troublin - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "duration_ms": 145594,
+      "name": "troublin - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "From Uganda With Love",
         "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
       },
@@ -1139,22 +1171,6 @@
       "duration_ms": 110124,
       "name": "SUPAHAWT",
       "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "troublin - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        }
-      ],
-      "duration_ms": 145594,
-      "name": "troublin - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "FOR MY BABY",
-        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "FOR MY BABY",
-      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "No Doubt",
         "url": "https://open.spotify.com/album/2ucq3VkxPJbUsAJ1rP6QDD"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 129677,
       "name": "No Doubt",
       "url": "https://open.spotify.com/track/5KAxBZ8TY2YYHhiOd0XcVZ"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "FOR MY BABY",
+        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "FOR MY BABY",
+      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1275,6 +1291,22 @@
       "duration_ms": 168128,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/3iSPa1byIatby865yq5GwD"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1375,18 +1407,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc"
+        "name": "Just to Piss You Off",
+        "url": "https://open.spotify.com/album/0XNCCyLb6fd11oeufnTI8Q"
       },
       "artists": [
         {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         }
       ],
-      "duration_ms": 173793,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/3iSPa1byIatby865yq5GwD"
+      "duration_ms": 170232,
+      "name": "Don't Lie (feat. Kuami Eugene)",
+      "url": "https://open.spotify.com/track/1jCZy2BqlnxOrKdEBqmSIK"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1411,26 +1447,6 @@
       "duration_ms": 250488,
       "name": "Stuck (Your Heart)",
       "url": "https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Just to Piss You Off",
-        "url": "https://open.spotify.com/album/0XNCCyLb6fd11oeufnTI8Q"
-      },
-      "artists": [
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "Don't Lie (feat. Kuami Eugene)",
-      "url": "https://open.spotify.com/track/1jCZy2BqlnxOrKdEBqmSIK"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 154968,
       "name": "Firedncr. - Amapiano Remix",
       "url": "https://open.spotify.com/track/2S7qU3PHssWAaZn2rr3brR"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "That's Alright",
-        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
     }
   ],
   "unique_name": "Cocoa Butter ",

@@ -1,12 +1,12 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 305472,
+  "num_followers": 305718,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNTE0NywwMDAwMDAwMGJhNjk1NGNjNzQyYTBlNDlkNWZiMThjZjM0MmU0YmZm",
+  "snapshot_id": "MTY3NDgzNTE0NywwMDAwMDAwMDI1ZGVhYWVlNTI2ZTU5ZTUyNzkwMjU2NDdhNTQzMTMx",
   "tracks": [
     {
       "added_at": "2022-03-24 13:07:25",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Gusttavo Lima e Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0JZWK7QhGa1Ir5IRLENyW6"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Balada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zZnBbRW4Dt4cJKVtUQFwF"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
         "url": "https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK"
       },
@@ -223,18 +239,38 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Gusttavo Lima e Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0JZWK7QhGa1Ir5IRLENyW6"
+        "name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
+        "url": "https://open.spotify.com/album/4xZooRPlL4QKyM0twraCtp"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
         }
       ],
-      "duration_ms": 201840,
-      "name": "Balada - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zZnBbRW4Dt4cJKVtUQFwF"
+      "duration_ms": 166400,
+      "name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
+      "url": "https://open.spotify.com/track/26WpOBpHiIMoBuMEIwtOCH"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 162734,
+      "name": "Te Assumi Pro Brasil - Ao Vivo",
+      "url": "https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -259,22 +295,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 162734,
-      "name": "Te Assumi Pro Brasil - Ao Vivo",
-      "url": "https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Misturadin (Ao Vivo)",
         "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 156921,
       "name": "Cobertor de Orelha - Ao Vivo",
       "url": "https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
-        "url": "https://open.spotify.com/album/4xZooRPlL4QKyM0twraCtp"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
-      "url": "https://open.spotify.com/track/26WpOBpHiIMoBuMEIwtOCH"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -451,8 +451,8 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Hoje Eu Vou Parar Na Gaiola",
-        "url": "https://open.spotify.com/album/1OZEMraAZsiMYQGNZjOw8F"
+        "name": "Fazer Falta",
+        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
       },
       "artists": [
         {
@@ -460,13 +460,13 @@
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
         },
         {
-          "name": "Rennan da Penha",
-          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
-      "duration_ms": 177093,
-      "name": "Hoje Eu Vou Parar Na Gaiola",
-      "url": "https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr"
+      "duration_ms": 210960,
+      "name": "Fazer Falta",
+      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Simone & Simaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 232485,
-      "name": "Regime Fechado - Ao Vivo",
-      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Vai Embrazando",
         "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 166060,
       "name": "Vai Embrazando",
       "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 232485,
+      "name": "Regime Fechado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -579,8 +579,8 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Fazer Falta",
-        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
+        "name": "Hoje Eu Vou Parar Na Gaiola",
+        "url": "https://open.spotify.com/album/1OZEMraAZsiMYQGNZjOw8F"
       },
       "artists": [
         {
@@ -588,13 +588,13 @@
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
         },
         {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
         }
       ],
-      "duration_ms": 210960,
-      "name": "Fazer Falta",
-      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
+      "duration_ms": 177093,
+      "name": "Hoje Eu Vou Parar Na Gaiola",
+      "url": "https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "In Miami Beach (Ao Vivo)",
-        "url": "https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 171084,
-      "name": "Ar Condicionado no 15 - Ao Vivo",
-      "url": "https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
         "url": "https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 213664,
       "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
       "url": "https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "In Miami Beach (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "Ar Condicionado no 15 - Ao Vivo",
+      "url": "https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "N\u00e3o sou obrigada",
-        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 148340,
-      "name": "N\u00e3o sou obrigada",
-      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Ainda Bem Que Eu Segui as Batidas do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2YWDBpZGMXcvkCu05Zb87z"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 179093,
       "name": "Ela Me Faz",
       "url": "https://open.spotify.com/track/2B5AbenHFTVtThonFDvg9x"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "N\u00e3o sou obrigada",
+        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 148340,
+      "name": "N\u00e3o sou obrigada",
+      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "N\u00e3o Fala N\u00e3o pra Mim",
-        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
-      },
-      "artists": [
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "N\u00e3o Fala N\u00e3o pra Mim",
-      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Na Ponta Ela Fica",
         "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
       },
@@ -915,22 +895,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+        "name": "N\u00e3o Fala N\u00e3o pra Mim",
+        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
         },
         {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
         }
       ],
-      "duration_ms": 157494,
-      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
-      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
+      "duration_ms": 196613,
+      "name": "N\u00e3o Fala N\u00e3o pra Mim",
+      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -963,6 +943,26 @@
       "duration_ms": 141473,
       "name": "Fuleragem",
       "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 157494,
+      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
+      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
     },
     {
       "added_at": "2022-03-24 13:07:25",

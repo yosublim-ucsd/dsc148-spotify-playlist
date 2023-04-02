@@ -17483,6 +17483,24 @@
     },
     {
       "album": {
+        "name": "Sunset Milk Tea",
+        "url": "https://open.spotify.com/album/0OYidrC0U9oySFk0zTCaRq"
+      },
+      "artists": [
+        {
+          "name": "PYJ\u00c6N",
+          "url": "https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239526,
+      "name": "Winter Sun",
+      "url": "https://open.spotify.com/track/2CqtIFjoTHvvrULM3RdKtc"
+    },
+    {
+      "album": {
         "name": "Winter Sun",
         "url": "https://open.spotify.com/album/45wJuUPm0dFSoLnSP7ILGv"
       },
@@ -17494,7 +17512,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 239526,
       "name": "Winter Sun",
       "url": "https://open.spotify.com/track/74dCXyyOhSZf3dKuNRSv5J"

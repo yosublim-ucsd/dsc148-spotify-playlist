@@ -4,7 +4,7 @@
 
 > Step Up for this Top Hit Telugu songs
 
-66 songs - 4 hr 11 min
+67 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Jaataro Jaatara \- Telugu](https://open.spotify.com/track/53cwwYu8uQOy5lThjNdBOA) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6) | [Entha Manchivaadavuraa](https://open.spotify.com/album/0e1KnwiX04cvdzCBjoCUoz) | 4:19 | 2021-09-24 | 2022-05-08 |
 | [Jwala Reddy](https://open.spotify.com/track/3sJsBrmu3pVEbxSW5vMQoi) | [Shankar Babu](https://open.spotify.com/artist/0gXtTHD29pO85I6glSfzDD), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Seetimaarr](https://open.spotify.com/album/5QkCmd6LakXYNkzKhDDBsV) | 4:05 | 2021-09-24 |  |
 | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/track/1HobaVS51OdBZqNmqt1TX7) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/album/182Ps1T0Kkl5thJcmCT0aC) | 4:06 | 2021-09-24 |  |
-| [Kanne Adhirindhi](https://open.spotify.com/track/7KXic27xUAWeENDHqtsCQ4) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Roberrt \(Telugu\)](https://open.spotify.com/album/0RD3M8MJ7RtZJefk7uDPxv) | 3:45 | 2021-09-24 |  |
+| [Kanne Adhirindhi](https://open.spotify.com/track/7KXic27xUAWeENDHqtsCQ4) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Roberrt \(Telugu\)](https://open.spotify.com/album/0RD3M8MJ7RtZJefk7uDPxv) | 3:45 | 2021-09-24 | 2023-04-02 |
 | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/track/1Ufd6lvT02tqohgJr8FEtM) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/album/6iMuAQSexPEINcUSTwCK3f) | 4:50 | 2021-09-24 |  |
+| [Kannu Hodiyaka \- From "Roberrt"](https://open.spotify.com/track/5FCsDQF9wAGhDA0BRHStcI) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kannu Hodiyaka \(From "Roberrt"\)](https://open.spotify.com/album/1WsKEnq5BYv10pT23c5zd3) | 3:46 | 2021-09-24 |  |
 | [Love Dhebba](https://open.spotify.com/track/2OqfykMe4IK0IrZPTcCi9b) | [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Nannaku Prematho](https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo) | 3:56 | 2021-09-24 | 2022-07-29 |
 | [Love Dhebba](https://open.spotify.com/track/3voVT9SGPZCT6tYXVbwAao) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Nannaku Prematho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15sBWVMRroxX2xMq3rNQoI) | 3:56 | 2021-09-24 |  |
 | [Ma Ma Mahesha](https://open.spotify.com/track/4o0fdLdeKc0KHTs0ouiUpi) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Sarkaru Vaari Paata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q) | 4:06 | 2022-05-07 | 2022-11-13 |

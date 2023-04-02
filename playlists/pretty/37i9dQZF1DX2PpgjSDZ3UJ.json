@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20029,
+  "num_followers": 20031,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDZmZjBiMzA3MTUwMmNmNTk3ZWQ1NGNlNmQ4OGZkN2Zh",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMGQ1ZThmNjdjNTg4OTI1YmQyMWNiY2U0MTA0ZjQ3OTA3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 185920,
       "name": "El equilibrio",
       "url": "https://open.spotify.com/track/13LiYjx7tgdqjMxAt3pgtG"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "veinte",
-        "url": "https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5"
-      },
-      "artists": [
-        {
-          "name": "dani",
-          "url": "https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y"
-        }
-      ],
-      "duration_ms": 223018,
-      "name": "Si te vas",
-      "url": "https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Tri\u00e1ngulo de Amor Bizarro",
         "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 202216,
       "name": "Vigilantes del Espejo",
       "url": "https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "veinte",
+        "url": "https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5"
+      },
+      "artists": [
+        {
+          "name": "dani",
+          "url": "https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y"
+        }
+      ],
+      "duration_ms": 223018,
+      "name": "Si te vas",
+      "url": "https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Sentir Nada",
         "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 224608,
       "name": "No Sentir Nada",
       "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Petr\u00f3leo",
         "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Serenidad",
-        "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
+        "name": "Lo Que Vales (Para M\u00ed)",
+        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
         }
       ],
-      "duration_ms": 208250,
-      "name": "Serenidad",
-      "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
+      "duration_ms": 211022,
+      "name": "Lo Que Vales (Para M\u00ed)",
+      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -999,22 +1015,6 @@
       "duration_ms": 267964,
       "name": "La \u00daltima 10",
       "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Lo Que Vales (Para M\u00ed)",
-        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
-      },
-      "artists": [
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Lo Que Vales (Para M\u00ed)",
-      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Se Parece A",
         "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 228574,
       "name": "Alguien Detra\u0301s de Mi",
       "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2020-12-01 05:03:00",

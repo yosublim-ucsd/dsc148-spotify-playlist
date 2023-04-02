@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 98466,
+  "num_followers": 98534,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGUwNmJmMzEwNDdlNWU1YzM4YWRlZDljOTY4Njg4YmI0",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGUwYjJlMGVlNjdiMzcxNzViZTk1ODcyNGYxYWU0OWRi",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -555,46 +555,38 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Tropa de Jesus Eletro",
-        "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
+        "name": "Ok!",
+        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
       },
       "artists": [
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        },
-        {
-          "name": "Igor Dj",
-          "url": "https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw"
-        },
-        {
-          "name": "Junior Souto",
-          "url": "https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 165418,
-      "name": "Tropa de Jesus Eletro",
-      "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
+      "duration_ms": 150062,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Loucura (Remix)",
-        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
+        "name": "Joquebede (Remix)",
+        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
       "artists": [
         {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
         },
         {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+          "name": "Israel Santos",
+          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
         }
       ],
-      "duration_ms": 225519,
-      "name": "Loucura - Remix",
-      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+      "duration_ms": 142285,
+      "name": "Joquebede - Remix",
+      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -683,6 +675,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Loucura (Remix)",
+        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        }
+      ],
+      "duration_ms": 225519,
+      "name": "Loucura - Remix",
+      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -707,22 +719,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Joquebede (Remix)",
-        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
+        "name": "Tropa de Jesus Eletro",
+        "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
       },
       "artists": [
         {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         },
         {
-          "name": "Israel Santos",
-          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
+          "name": "Igor Dj",
+          "url": "https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw"
+        },
+        {
+          "name": "Junior Souto",
+          "url": "https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2"
         }
       ],
-      "duration_ms": 142285,
-      "name": "Joquebede - Remix",
-      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
+      "duration_ms": 165418,
+      "name": "Tropa de Jesus Eletro",
+      "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -751,22 +767,6 @@
       "duration_ms": 165967,
       "name": "Encontrei o Meu Lugar - Remix",
       "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Ok!",
-        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 150062,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -879,30 +879,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 161169,
       "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Meu Lugar",
         "url": "https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Caminho Seguro",
         "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
       },
@@ -1335,42 +1335,6 @@
       "duration_ms": 215040,
       "name": "Caminho Seguro",
       "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "DJ Prince Hits (Remix)",
-        "url": "https://open.spotify.com/album/1N3ZpP17GGlFTNd6dPXtT2"
-      },
-      "artists": [
-        {
-          "name": "DJ Prince",
-          "url": "https://open.spotify.com/artist/05bu4oItYBNlRVg0GrZjEJ"
-        }
-      ],
-      "duration_ms": 226798,
-      "name": "O Sonho N\u00e3o Acabou (Remix)",
-      "url": "https://open.spotify.com/track/1ntfplj7r38AbtS5LiSjMS"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1395,6 +1359,42 @@
       "duration_ms": 190800,
       "name": "Me Encontrou (DJ Vitor Capoia Remix)",
       "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "DJ Prince Hits (Remix)",
+        "url": "https://open.spotify.com/album/1N3ZpP17GGlFTNd6dPXtT2"
+      },
+      "artists": [
+        {
+          "name": "DJ Prince",
+          "url": "https://open.spotify.com/artist/05bu4oItYBNlRVg0GrZjEJ"
+        }
+      ],
+      "duration_ms": 226798,
+      "name": "O Sonho N\u00e3o Acabou (Remix)",
+      "url": "https://open.spotify.com/track/1ntfplj7r38AbtS5LiSjMS"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Preso a Ti (Remix)",
-        "url": "https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Ton Molinari",
-          "url": "https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao"
-        }
-      ],
-      "duration_ms": 224062,
-      "name": "Preso a Ti - Remix",
-      "url": "https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "N\u00e3o Sou Merecedor (Remix)",
         "url": "https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 175312,
       "name": "N\u00e3o Sou Merecedor - Remix",
       "url": "https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Preso a Ti (Remix)",
+        "url": "https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Ton Molinari",
+          "url": "https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao"
+        }
+      ],
+      "duration_ms": 224062,
+      "name": "Preso a Ti - Remix",
+      "url": "https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2"
     }
   ],
   "unique_name": "Balada Gospel",

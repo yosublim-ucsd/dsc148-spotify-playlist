@@ -280,7 +280,7 @@
     {
       "album": {
         "name": "ORO, PLATA, MATA",
-        "url": "https://open.spotify.com/album/4DiD3VBlFIJivBlzuLE6yk"
+        "url": "https://open.spotify.com/album/6O8Q2Eqh9EKRUKrkdRZJpv"
       },
       "artists": [
         {
@@ -291,6 +291,24 @@
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201880,
+      "name": "Bran Nue Wurld",
+      "url": "https://open.spotify.com/track/0lGfVYcet164rdaRxzXU45"
+    },
+    {
+      "album": {
+        "name": "ORO, PLATA, MATA",
+        "url": "https://open.spotify.com/album/4DiD3VBlFIJivBlzuLE6yk"
+      },
+      "artists": [
+        {
+          "name": "Mo\u2019Ju",
+          "url": "https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
       "duration_ms": 201880,
       "name": "Bran Nue Wurld",
       "url": "https://open.spotify.com/track/4OOkftDd4EKeNjKDqpegYZ"

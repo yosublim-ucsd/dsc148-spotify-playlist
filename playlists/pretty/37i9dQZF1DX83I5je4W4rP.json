@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1040101,
+  "num_followers": 1040174,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDVmM2U4MzlkMjgwNDFhMmVkMzJmZDUxYzkxM2M1MTgz",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDFhN2IzMDg0MjRjZGY5ZjM2MmY1ZGRmMTgwYjBlMDQy",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Sounds Of Summer (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
       },
       "artists": [
         {
           "name": "The Movement",
           "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 221621,
-      "name": "Sounds of Summer (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
+      "duration_ms": 270314,
+      "name": "Take Me To The Ocean",
+      "url": "https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1099,6 +1095,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Trevor Hall",
+        "url": "https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Where's The Love",
+      "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
       },
@@ -1115,6 +1127,26 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Sounds Of Summer (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 221621,
+      "name": "Sounds of Summer (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "There I Go",
         "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
       },
@@ -1127,38 +1159,6 @@
       "duration_ms": 202172,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 270314,
-      "name": "Take Me To The Ocean",
-      "url": "https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Trevor Hall",
-        "url": "https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Where's The Love",
-      "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Early Prayers",
         "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 263986,
       "name": "Always With Me",
       "url": "https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Way of Life (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
     },
     {
       "added_at": "2023-02-24 05:01:00",

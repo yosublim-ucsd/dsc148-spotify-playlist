@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR?si=\-uklwWiaQ2GaNJ\-TJp\-SyQ">SAKKIE</a> & <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=DouTRLXgTSGA1YhBwm4zhA">Francois van Coke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,541 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,546 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

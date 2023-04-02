@@ -1,12 +1,12 @@
 {
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "num_followers": 510,
   "original_name": "The Sound of Medieval",
   "owner": {
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTY3Nyw4NzcyN2VlMTVlNjU5Mjk4ZGUyMDUwOTAxZWRhODFhNGY5YWVjYTU5",
+  "snapshot_id": "NTY4MSw2MDQ4ZTlkOWY2MzAzZGMzMjdiMDI0YjQ2YWU0NWMyODM1ZWVlNzdk",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1333,30 +1333,6 @@
       "url": "https://open.spotify.com/track/09mWljow5vqkh4iUKnIWGN"
     },
     {
-      "added_at": "2018-05-04 15:13:13",
-      "album": {
-        "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
-        "url": "https://open.spotify.com/album/5DxAUWcZGA4kfqWbqmTeWy"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Ulsamer Collegium",
-          "url": "https://open.spotify.com/artist/7MjZhc7l5zZ6lw7C1BZXMV"
-        },
-        {
-          "name": "Josef Ulsamer",
-          "url": "https://open.spotify.com/artist/6BlEVZB1pj83A7UjfUL7xj"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Lamento di Tristano - La rotta",
-      "url": "https://open.spotify.com/track/4vJmOFoty97iQhScVeK5OP"
-    },
-    {
       "added_at": "2022-10-15 00:04:29",
       "album": {
         "name": "Arnold & Hugo de Lantins: Secular Works",
@@ -1379,6 +1355,30 @@
       "duration_ms": 223586,
       "name": "Ne me vueill\u00e9s belle oblier",
       "url": "https://open.spotify.com/track/0gXnPON96qcv7etJz3q34V"
+    },
+    {
+      "added_at": "2018-05-04 15:13:13",
+      "album": {
+        "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
+        "url": "https://open.spotify.com/album/5DxAUWcZGA4kfqWbqmTeWy"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Ulsamer Collegium",
+          "url": "https://open.spotify.com/artist/7MjZhc7l5zZ6lw7C1BZXMV"
+        },
+        {
+          "name": "Josef Ulsamer",
+          "url": "https://open.spotify.com/artist/6BlEVZB1pj83A7UjfUL7xj"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Lamento di Tristano - La rotta",
+      "url": "https://open.spotify.com/track/4vJmOFoty97iQhScVeK5OP"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1805,6 +1805,26 @@
       "url": "https://open.spotify.com/track/0jTs4jgwoBO3P5eYhmPgHf"
     },
     {
+      "added_at": "2018-02-28 02:40:55",
+      "album": {
+        "name": "Machaut: Messe de Nostre Dame & L'amour courtois",
+        "url": "https://open.spotify.com/album/78k7AI4vSjb33audM3hOTO"
+      },
+      "artists": [
+        {
+          "name": "Guillaume de Machaut",
+          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
+        },
+        {
+          "name": "Ars Antiqua de Paris",
+          "url": "https://open.spotify.com/artist/2VQVek9nrK6orkE73Ip7oB"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Messe de Nostre Dame: Kyrie I, Christe, Kyrie II, Kyrie III",
+      "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
+    },
+    {
       "added_at": "2021-06-11 12:46:55",
       "album": {
         "name": "Nuits occitanes: Troubadours' Songs",
@@ -1831,26 +1851,6 @@
       "duration_ms": 469240,
       "name": "Lo clar temps vei brunezir",
       "url": "https://open.spotify.com/track/36xDYf88zslnCP1vmU9zuK"
-    },
-    {
-      "added_at": "2018-02-28 02:40:55",
-      "album": {
-        "name": "Machaut: Messe de Nostre Dame & L'amour courtois",
-        "url": "https://open.spotify.com/album/78k7AI4vSjb33audM3hOTO"
-      },
-      "artists": [
-        {
-          "name": "Guillaume de Machaut",
-          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
-        },
-        {
-          "name": "Ars Antiqua de Paris",
-          "url": "https://open.spotify.com/artist/2VQVek9nrK6orkE73Ip7oB"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Messe de Nostre Dame: Kyrie I, Christe, Kyrie II, Kyrie III",
-      "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
     },
     {
       "added_at": "2021-09-17 14:08:49",
@@ -2085,7 +2085,7 @@
       "url": "https://open.spotify.com/track/7zQ0vqwB6ueVFCL6H3jHDL"
     },
     {
-      "added_at": "2023-03-29 02:01:26",
+      "added_at": "2023-04-01 19:18:47",
       "album": {
         "name": "Ockeghem: Requiem / Missa Fors seulement",
         "url": "https://open.spotify.com/album/4bfwL1fvAsWJE92V8CAgWe"
@@ -3801,30 +3801,6 @@
       "url": "https://open.spotify.com/track/0F7angnYBTaynfYAWVy1q1"
     },
     {
-      "added_at": "2020-10-05 15:23:53",
-      "album": {
-        "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
-        "url": "https://open.spotify.com/album/5DxAUWcZGA4kfqWbqmTeWy"
-      },
-      "artists": [
-        {
-          "name": "Fabritio Caroso",
-          "url": "https://open.spotify.com/artist/1m0eawBwrNbqyuz5ynuGZZ"
-        },
-        {
-          "name": "Ulsamer Collegium",
-          "url": "https://open.spotify.com/artist/7MjZhc7l5zZ6lw7C1BZXMV"
-        },
-        {
-          "name": "Josef Ulsamer",
-          "url": "https://open.spotify.com/artist/6BlEVZB1pj83A7UjfUL7xj"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Barriera",
-      "url": "https://open.spotify.com/track/5l3JwDd7ZX6nNMjkUIBUNn"
-    },
-    {
       "added_at": "2023-03-31 17:34:50",
       "album": {
         "name": "Arnold & Hugo de Lantins: Secular Works",
@@ -3851,6 +3827,30 @@
       "duration_ms": 323866,
       "name": "Puis que je voy, belle, que ne m'am\u00e9s",
       "url": "https://open.spotify.com/track/312Mgl63iP16HMOAmJrcJG"
+    },
+    {
+      "added_at": "2020-10-05 15:23:53",
+      "album": {
+        "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
+        "url": "https://open.spotify.com/album/5DxAUWcZGA4kfqWbqmTeWy"
+      },
+      "artists": [
+        {
+          "name": "Fabritio Caroso",
+          "url": "https://open.spotify.com/artist/1m0eawBwrNbqyuz5ynuGZZ"
+        },
+        {
+          "name": "Ulsamer Collegium",
+          "url": "https://open.spotify.com/artist/7MjZhc7l5zZ6lw7C1BZXMV"
+        },
+        {
+          "name": "Josef Ulsamer",
+          "url": "https://open.spotify.com/artist/6BlEVZB1pj83A7UjfUL7xj"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Barriera",
+      "url": "https://open.spotify.com/track/5l3JwDd7ZX6nNMjkUIBUNn"
     },
     {
       "added_at": "2023-03-31 17:34:50",

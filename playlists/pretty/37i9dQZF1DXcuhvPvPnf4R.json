@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 4035,
+  "num_followers": 4055,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGYxMWQ1YWZkOTVjMTM1ZDFkMGZjOWE3NjI5ZDcyMjcw",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDc3MjIxMmM5MWU5N2JlYjYxMWYyYzBkZWYzOTRhNmMx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 206465,
-      "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "I Am...",
         "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 284000,
       "name": "Hate Me Now (feat. Diddy)",
       "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 206465,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o"
     },
     {
       "added_at": "2022-10-01 16:43:03",

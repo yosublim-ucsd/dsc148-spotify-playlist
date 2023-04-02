@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Fred again.., Skrillex & Four Tet",
-  "num_followers": 73989,
+  "num_followers": 74082,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIyODAwMCwwMDAwMDAwMDliYmM2ZWUwNzg0OWY3Y2NhYWFkMTU5NGQzYzYwMmUz",
+  "snapshot_id": "MTY4MDIyODAwMCwwMDAwMDAwMGRmMzMxZWQ1NGVjMjFiZWQxZGM0ZDNhNmE0ZWYzNTUy",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/32CMKSnLQtj4G6K7KSjb4v"
     },
     {
-      "added_at": "2023-04-01 00:26:42",
+      "added_at": "2023-04-02 00:23:47",
       "album": {
         "name": "See This Through",
         "url": "https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
     },
     {
-      "added_at": "2023-04-01 00:26:42",
+      "added_at": "2023-04-02 00:23:47",
       "album": {
         "name": "Lipstick (feat. Robbie Rise) [GUZ Remix]",
         "url": "https://open.spotify.com/album/1yWK7MjyNkym9898cW3VsN"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V"
     },
     {
-      "added_at": "2023-04-01 00:26:42",
+      "added_at": "2023-04-02 00:23:47",
       "album": {
         "name": "Blood In The Snow (Tibi Dabo Remix)",
         "url": "https://open.spotify.com/album/73wQ9Xm8wzPKgCmLxysMv0"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN"
     },
     {
-      "added_at": "2023-04-01 00:26:42",
+      "added_at": "2023-04-02 00:23:47",
       "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6Y4l0hrXf9GMcCzkvW1Aol"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/1ZEwAUD9knWugDYjYiyKFM"
     },
     {
-      "added_at": "2023-04-01 00:26:42",
+      "added_at": "2023-04-02 00:23:47",
       "album": {
         "name": "Fist Fight",
         "url": "https://open.spotify.com/album/01Sa5u8UaJNjkvLQMjdiuh"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/49ukfaSyAB4sPWsstKQGBr"
     },
     {
-      "added_at": "2023-04-01 00:26:42",
+      "added_at": "2023-04-02 00:23:47",
       "album": {
         "name": "Sizo",
         "url": "https://open.spotify.com/album/05eqoFV6gWprLVsSZOlVrA"
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Night After Night",
         "url": "https://open.spotify.com/album/5BdSUE84muaBTlQLSYiQMt"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 418528,
       "name": "Night After Night - CamelPhat Remix",
       "url": "https://open.spotify.com/track/2Nq06gpBMrjYnBLpi0cNYy"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Point Of No Return",
-        "url": "https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 283902,
-      "name": "Point Of No Return",
-      "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Surrender (Remixes)",
         "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
       },
@@ -983,18 +999,50 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 412505,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 243125,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1035,54 +1083,6 @@
       "duration_ms": 315418,
       "name": "Morning Comes",
       "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 243125,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 412505,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Vigil",
-        "url": "https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        }
-      ],
-      "duration_ms": 275832,
-      "name": "Vigil",
-      "url": "https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Boom Boom (feat. CHRSTPHR)",
         "url": "https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Circulate (Together)",
-        "url": "https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN"
+        "name": "Vigil",
+        "url": "https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
         }
       ],
-      "duration_ms": 417375,
-      "name": "Circulate (Together)",
-      "url": "https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I"
+      "duration_ms": 275832,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 330188,
       "name": "Environ",
       "url": "https://open.spotify.com/track/4KZbPvwW0OoWvGatXXnLM9"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Circulate (Together)",
+        "url": "https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 417375,
+      "name": "Circulate (Together)",
+      "url": "https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Maya!",
+        "url": "https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou"
+      },
+      "artists": [
+        {
+          "name": "GRAZZE",
+          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
+        },
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "La Ni\u00f1a De La Aldea - widerberg Remix",
+      "url": "https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "So Alive (Bruno Furlan Remix)",
         "url": "https://open.spotify.com/album/2yjDTgXs2M4phP4EvmBHCO"
       },
@@ -1555,6 +1575,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Club Vibes Part 05",
+        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 627840,
+      "name": "Sit Back And Take It Down",
+      "url": "https://open.spotify.com/track/5Tb0TQ1eaLuzour8Ymp6wo"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "See the Sun Rising",
         "url": "https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm"
       },
@@ -1571,22 +1607,6 @@
       "duration_ms": 247873,
       "name": "See the Sun Rising",
       "url": "https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Club Vibes Part 05",
-        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 627840,
-      "name": "Sit Back And Take It Down",
-      "url": "https://open.spotify.com/track/5Tb0TQ1eaLuzour8Ymp6wo"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1667,26 +1687,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Maya!",
-        "url": "https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou"
-      },
-      "artists": [
-        {
-          "name": "GRAZZE",
-          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
-        },
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        }
-      ],
-      "duration_ms": 286829,
-      "name": "La Ni\u00f1a De La Aldea - widerberg Remix",
-      "url": "https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Disappear (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
       },
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "duration_ms": 412068,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw"
-      },
-      "artists": [
-        {
-          "name": "Hidden Empire",
-          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
-        }
-      ],
-      "duration_ms": 412068,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        }
+      ],
+      "duration_ms": 258716,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Still Rushing (Azzecca Remix)",
         "url": "https://open.spotify.com/album/03xYoG36yKDLuewxredYR1"
       },
@@ -1827,6 +1847,22 @@
       "duration_ms": 304042,
       "name": "Still Rushing - Azzecca Remix",
       "url": "https://open.spotify.com/track/1onY0fCdnvfCC7NhqPIQ2z"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Via Infinita",
+        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "duration_ms": 237096,
+      "name": "Via Infinita",
+      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1871,50 +1907,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "FaCet, Vol. 1",
-        "url": "https://open.spotify.com/album/7eeGn6KMLa7NVWM1GdtCqU"
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/0lS5SKk97UhNQHA6c33wIJ"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
         }
       ],
-      "duration_ms": 415960,
-      "name": "Saints & Sinners",
-      "url": "https://open.spotify.com/track/0JHHFmQhjiDO0J7ll4BQmQ"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W"
-      },
-      "artists": [
-        {
-          "name": "Mita Gami",
-          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
-        }
-      ],
-      "duration_ms": 361187,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Four Tet Is My Godmother",
-        "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 300200,
-      "name": "Four Tet Is My Godmother",
-      "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
+      "duration_ms": 377904,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/1I1tcgZx6J1IHeZqWa3611"
     }
   ],
   "unique_name": "Open Air",

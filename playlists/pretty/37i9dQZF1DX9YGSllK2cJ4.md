@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,768 likes - 206 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,906 likes - 206 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 25 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
 | 26 | [När trollmor har lagt sina elva små troll](https://open.spotify.com/track/7KLODMiUhRae6TROVoo9o9) | [Melody Spencer](https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM) | [När trollmor har lagt sina elva små troll](https://open.spotify.com/album/23DnPSEc2t2uvKh2mjLOif) | 1:41 |
 | 27 | [Fornaboda](https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Fornaboda](https://open.spotify.com/album/3LyjyHrROwekL8eomtUcxd) | 2:28 |
-| 28 | [Soleil De Printemps](https://open.spotify.com/track/3oCeHeT1LpAKRK7esg4S0R) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/5YgADlrXYIu8D8zVVENFVo) | 2:57 |
+| 28 | [Soleil De Printemps](https://open.spotify.com/track/2BbNiUr4ghymoRiLJfAB2c) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/7HEBXPgrGgxWrDe4Eq1kPY) | 2:57 |
 | 29 | [Drink the Dew](https://open.spotify.com/track/3uUXUwWgQ0SdkAY6BAJE4d) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Drink the Dew](https://open.spotify.com/album/5U5M1cpNoamvoYevrQQIOK) | 2:18 |
 | 30 | [Lonely Melody](https://open.spotify.com/track/4RTZWfEZ6uSDUDhqOCX7Yy) | [Stephanie Ferrer](https://open.spotify.com/artist/6PKJzUJNJKQjAHcgbzbuCJ) | [Lonely Melody](https://open.spotify.com/album/7gjS3mFddUJGHyF5KgMQeh) | 2:07 |
 | 31 | [Nostalgica](https://open.spotify.com/track/0N0Rxym9LnsVtwAdAVcWrQ) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Nostalgica](https://open.spotify.com/album/3zxaNFApLDuAYT2haPRbXq) | 2:06 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 205 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 |
 | 206 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 |
 
-Snapshot ID: `MTY4MDE2NTUzMSwwMDAwMDAwMDY0YTk3MDJiYzJiNThmYjFlYWQyN2ZlYmU4MzQ3Nzk1`
+Snapshot ID: `MTY4MDE2NTUzMSwwMDAwMDAwMDcwZTJjZTg3MDAzYjAxNTljYWI2ZDZmZTE0YjJmODM1`

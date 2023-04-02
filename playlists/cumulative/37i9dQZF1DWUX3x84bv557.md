@@ -4,7 +4,7 @@
 
 > Zoë Tauran op de cover van dé Nederpop playlist
 
-142 songs - 6 hr 52 min
+143 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Dansen Met Het Licht Uit](https://open.spotify.com/track/7E3Lo5lZo50eddRleg6y6Q) | [Jerry Island](https://open.spotify.com/artist/46tAkwcuqLpuqBMC1V1fp1) | [Dansen Met Het Licht Uit](https://open.spotify.com/album/4XHHeomMEP8WpdkyRbjldH) | 2:57 | 2023-02-23 | 2023-03-10 |
 | [De Helft Van Je Hart](https://open.spotify.com/track/6ci2soUdoTPdn0ytw99LjN) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/2P6oEIpeCgngnghCvzO4T3) | 3:32 | 2023-02-23 |  |
 | [De Laatste Keer](https://open.spotify.com/track/2MLtLy4GkNDWzYE01yKdA8) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [De Laatste Keer](https://open.spotify.com/album/5EFiDReWmoIkvCGLvVLwvZ) | 2:13 | 2023-03-30 |  |
-| [De Nacht](https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn) | 2:30 | 2023-03-23 |  |
+| [De Nacht](https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII) | 2:30 | 2023-03-30 |  |
+| [De Nacht](https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn) | 2:30 | 2023-03-23 | 2023-04-02 |
 | [De Pijp](https://open.spotify.com/track/3vXN6XJlyu2iCxBJr79oyU) | [STEFF](https://open.spotify.com/artist/1ngLK13t5KqbnQh8pN0k9i) | [De Pijp](https://open.spotify.com/album/4dDuG6FwR0vyX2ggIFZH0V) | 2:38 | 2023-02-23 | 2023-03-31 |
 | [De Vergiffenis](https://open.spotify.com/track/112BxBbiiPs82A4B99v18s) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 2:54 | 2023-03-02 |  |
 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 | 2023-02-23 |  |

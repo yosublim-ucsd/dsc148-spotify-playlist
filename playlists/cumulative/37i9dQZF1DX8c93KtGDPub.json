@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 233186,
       "name": "A Child's Christmas in Wales",
       "url": "https://open.spotify.com/track/1cIs8KYUELQisgxr4ge3bj"
@@ -128,6 +128,24 @@
       "duration_ms": 233186,
       "name": "A Child's Christmas in Wales",
       "url": "https://open.spotify.com/track/4KCmvWOJCXFCXyY4TvH7DE"
+    },
+    {
+      "album": {
+        "name": "A Child's Christmas in Wales",
+        "url": "https://open.spotify.com/album/2ixBkmoRp6Mnt6irGcr9B1"
+      },
+      "artists": [
+        {
+          "name": "Al Lewis",
+          "url": "https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233186,
+      "name": "A Child's Christmas in Wales",
+      "url": "https://open.spotify.com/track/4gydEH2RTA91rV5F8NkonM"
     },
     {
       "album": {
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 191586,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 191586,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/3FLo2Axjd3CB22BUbrcJmZ"

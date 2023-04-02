@@ -4,7 +4,7 @@
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-109 songs - 5 hr 2 min
+110 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [White Lie](https://open.spotify.com/track/7B1Lenkjs00lgpFhiaw1fd) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/3AOMfjc6UEQRS29dzlLltv) | 3:33 | 2021-12-01 | 2022-12-01 |
 | [wish i was dead](https://open.spotify.com/track/5Pu42rdkSXGzT528BAQRFO) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 1:38 | 2022-11-30 |  |
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2022-11-30 |  |
-| [You've Created a Monster](https://open.spotify.com/track/6TeKpZbqRo3QEIPKUUzNQj) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/7ftqRI6pFDYwFZYGARS9wP) | 2:38 | 2022-11-30 |  |
+| [You've Created a Monster](https://open.spotify.com/track/5jUOuMBnav0iyM6DINhETm) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/0QHzvyZZtby59Jh2KXjC1f) | 2:38 | 2022-11-30 |  |
+| [You've Created a Monster](https://open.spotify.com/track/6TeKpZbqRo3QEIPKUUzNQj) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/7ftqRI6pFDYwFZYGARS9wP) | 2:38 | 2022-11-30 | 2023-04-02 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

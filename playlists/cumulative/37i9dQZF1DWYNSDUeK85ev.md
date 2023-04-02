@@ -4,7 +4,7 @@
 
 > La música que prende la fiesta!
 
-370 songs - 21 hr 30 min
+371 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Dance monkey](https://open.spotify.com/track/7vGju2O4LYSNwHVlTlxjh8) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Dance monkey](https://open.spotify.com/album/6YbfXZ583tbY3kuQoXhjgg) | 3:45 | 2022-06-17 | 2022-07-28 |
 | [De Ahí](https://open.spotify.com/track/59MN1aOpePepwrpmNdkVlA) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE) | [De Ahí](https://open.spotify.com/album/6BKiolA3MKFhps2rfKecmd) | 2:27 | 2022-05-13 | 2022-07-27 |
 | [De Cora <3](https://open.spotify.com/track/22Sh5dlwbERqJAq1fZk5b2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:10 | 2022-05-13 | 2022-06-05 |
-| [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-02-10 |  |
+| [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-02-10 | 2023-04-02 |
 | [Deja de Llorar \- Remix](https://open.spotify.com/track/06oYXNcaTwKAlDg1uqvnSR) | [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Deja de Llorar](https://open.spotify.com/album/0bSs0ly2sGFwLnokPatqRn) | 1:25 | 2022-05-13 | 2022-07-23 |
 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 | 2022-07-15 | 2022-07-30 |
 | [Desconocidos](https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Desconocidos](https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ) | 3:24 | 2022-05-13 | 2022-07-29 |
@@ -360,6 +360,7 @@
 | [Universo Paralelo \- DJ Alex Remix](https://open.spotify.com/track/2GaBEJHDEo7752Ggvq1Z6j) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Universo Paralelo \(DJ Alex Remix\)](https://open.spotify.com/album/56cmp0jNbl5esgSyOV4Y0l) | 2:16 | 2022-06-17 | 2022-07-28 |
 | [Vaina Loca](https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:56 | 2022-06-17 | 2023-02-11 |
 | [Ven Bailalo](https://open.spotify.com/track/2KtNeULMaw8sFkr8w13WWB) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Strictly Latin Dancing Come And Dance](https://open.spotify.com/album/395yG7il5B0i3V22UN37y2) | 4:12 | 2022-05-13 | 2022-07-05 |
+| [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y) | 4:12 | 2023-03-31 |  |
 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f) | 4:12 | 2022-07-22 | 2023-03-01 |
 | [Verte ir](https://open.spotify.com/track/3we28S9sM8mFX3iOuiqzX3) | [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [Verte ir](https://open.spotify.com/album/4VaRtf4bau0bN8Y0k8JGwy) | 4:04 | 2022-06-09 | 2022-06-13 |
 | [Verte Ir](https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR) | [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Verte Ir](https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3) | 4:27 | 2022-06-17 | 2023-02-11 |

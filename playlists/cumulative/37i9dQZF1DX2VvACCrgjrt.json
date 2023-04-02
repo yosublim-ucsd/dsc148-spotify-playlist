@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 231428,
       "name": "Get My Mind Right",
       "url": "https://open.spotify.com/track/5vDBcy4bP6ZyECZYwziFWJ"
@@ -4154,7 +4154,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 166587,
       "name": "I See You",
       "url": "https://open.spotify.com/track/1RF5zKQfRvuuBlokTqWlfs"
@@ -5378,6 +5378,24 @@
       "duration_ms": 134000,
       "name": "Move Like Dolphin",
       "url": "https://open.spotify.com/track/5npvPgwC0AuJlneOgS5Uks"
+    },
+    {
+      "album": {
+        "name": "Move Like This",
+        "url": "https://open.spotify.com/album/7vEfKbVni78OyGSi6JA941"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Move Like This",
+      "url": "https://open.spotify.com/track/3KFeD856LCWtZanO3OgJFr"
     },
     {
       "album": {
@@ -8922,6 +8940,24 @@
       "duration_ms": 228571,
       "name": "Yup",
       "url": "https://open.spotify.com/track/0QDdJKjpf2vRQjihJeZvU1"
+    },
+    {
+      "album": {
+        "name": "Yup",
+        "url": "https://open.spotify.com/album/1vU1lIYBioS4MTWvECBnSp"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Yup",
+      "url": "https://open.spotify.com/track/53URohpgcBoGfGsmG0iqpv"
     },
     {
       "album": {

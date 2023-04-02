@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Becky G & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,190 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,284 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 14 | [Bélico y Cholo \- Con Virlan Garcia \- En Vivo](https://open.spotify.com/track/1WcS7LMY3OR5kuGq7TPLV0) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Bélico y Cholo \(Con Virlan Garcia\)](https://open.spotify.com/album/7qHYqtAYMO2aqA84KfquwW) | 3:27 |
 | 15 | [Marco Arturo \- En Vivo](https://open.spotify.com/track/3kkkDMvrkBpdm1WVTsZ0T8) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Jorge Santacruz Y Su Grupo Quinto Elemento](https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ) | [Marco Arturo \(En Vivo\)](https://open.spotify.com/album/01z8WwmhqjLB9FedDr6XcE) | 2:25 |
 | 16 | [Señor Miedo \(En Vivo\)](https://open.spotify.com/track/7cs9ZjLAWTn7fch2zyOzNj) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Señor Miedo \(En Vivo\)](https://open.spotify.com/album/3v8oLSHuUOoDc3kHlimPk8) | 2:54 |
-| 17 | [Amor De Los Dos \(En Vivo\)](https://open.spotify.com/track/07b5C2ppQBDIWPKclU31sz) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Amor De Los Dos \(En Vivo\)](https://open.spotify.com/album/2LbAxI8gUsdrW4yPTArhRD) | 2:46 |
+| 17 | [Amor de los Dos \(En Vivo\)](https://open.spotify.com/track/07b5C2ppQBDIWPKclU31sz) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Amor de los Dos \(En Vivo\)](https://open.spotify.com/album/2LbAxI8gUsdrW4yPTArhRD) | 2:46 |
 | 18 | [Oh Carol](https://open.spotify.com/track/0oyTIk8169r7VcZJdcty20) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Banda AT](https://open.spotify.com/artist/3yNkh615RFz50gE4kRlXto) | [Oh Carol](https://open.spotify.com/album/1qXOg0IGKb4tk2dUSuULWB) | 2:37 |
 | 19 | [No Se Enreden](https://open.spotify.com/track/5wQNvvS95LRaPyIq1654NS) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [No Se Enreden](https://open.spotify.com/album/4hklgvHBS4BFajDS2AoPmS) | 3:07 |
 | 20 | [El Grillo](https://open.spotify.com/track/1TnNKfbqeML9LcWdhRpcgL) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [El Grillo](https://open.spotify.com/album/54UR0rpNVfRkIkWIQQotUi) | 3:34 |

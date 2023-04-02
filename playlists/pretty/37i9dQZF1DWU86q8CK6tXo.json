@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists, co-curated by  <a href=\u201chttps://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg\u201d>Janelle Mon\u00e1e</a>  for International Women\u2019s Day.",
-  "num_followers": 38121,
+  "num_followers": 38136,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDk0ZjE1MWJlNmIyZDMzZTFjMGM5MmFlMTZhZDgwYmM0",
+  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMGM3OWQ1M2UzYTYwOWQ4ZTA5M2JmYjllYjY4NDM0NDZk",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "Cambio De Canci\u00f3n",
+        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "Cambio De Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "Cambio De Canci\u00f3n",
-        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 169548,
-      "name": "Cambio De Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF"
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 252981,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t"
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 108794,
       "name": "squirrel song",
       "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 252981,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Anarchist Gospel",
-        "url": "https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ"
+        "name": "Sexo Sin Drama",
+        "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
       },
       "artists": [
         {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Whole",
-      "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"
+      "duration_ms": 142216,
+      "name": "Sexo Sin Drama",
+      "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -855,34 +855,34 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Sexo Sin Drama",
-        "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
+        "name": "Anarchist Gospel",
+        "url": "https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ"
       },
       "artists": [
         {
-          "name": "Digiannia",
-          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
         }
       ],
-      "duration_ms": 142216,
-      "name": "Sexo Sin Drama",
-      "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
+      "duration_ms": 199093,
+      "name": "Whole",
+      "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"
     },
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "God, I Hate This Place",
-        "url": "https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T"
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
       "artists": [
         {
-          "name": "Annie DiRusso",
-          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 210087,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/09tc8sP1yi1AGC8JmtS8pd"
+      "duration_ms": 258415,
+      "name": "Ain't Got Time For Hate",
+      "url": "https://open.spotify.com/track/6JQEfDsrQap0VFFjP9cKYr"
     }
   ],
   "unique_name": "EQUAL US",

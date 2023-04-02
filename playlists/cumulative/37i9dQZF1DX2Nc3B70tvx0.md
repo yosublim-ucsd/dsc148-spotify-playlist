@@ -4,7 +4,7 @@
 
 > Everything that's happening in indie right now\. Cover: Lana Del Rey
 
-1,495 songs - 3 day 17 hr 36 min
+1,496 songs - 3 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [Easy](https://open.spotify.com/track/4i1IFCnXF40pbYZ7X19Fqb) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Easy](https://open.spotify.com/album/2RhatFEmXQxPvrM4Haba7r) | 3:28 | 2019-05-26\* | 2019-06-21 |
 | [Eat, Sleep, Wake \(Nothing But You\) \- Single Version](https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu) | 3:38 | 2019-09-06 | 2020-05-01 |
 | [Echo Party](https://open.spotify.com/track/1uVuiGjIrOxDSlHie1oftn) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [No Rules Sandy](https://open.spotify.com/album/6rl4rzZxECegl9PdYG0hfk) | 4:15 | 2022-08-18 | 2022-08-23 |
-| [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-10 |  |
+| [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-10 | 2023-04-02 |
 | [Edge of the Edge](https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Edge of the Edge](https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc) | 4:48 | 2022-08-17 | 2022-09-17 |
 | [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 | 2022-08-18 | 2022-09-01 |
 | [El Invento](https://open.spotify.com/track/6GMm8JHFtSg65AEOc7Wf98) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/56KsGn0Csgq33guHWklJwk) | 2:33 | 2021-03-10 | 2021-10-16 |
@@ -1477,6 +1477,7 @@
 | [Yards / Gardens](https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Yards / Gardens](https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ) | 2:21 | 2021-11-19 | 2022-04-09 |
 | [Year Of The Spider](https://open.spotify.com/track/5pSTwad8BxVN8nbYggPWmp) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/1wIt68VvP4DjmCztavomtX) | 2:30 | 2021-07-19 | 2022-04-05 |
 | [yellow is the color of her eyes](https://open.spotify.com/track/4D3nttJPU6L0M2epr7sId6) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [yellow is the color of her eyes](https://open.spotify.com/album/47V6znsE4WU8uWXrsXpmhx) | 7:15 | 2019-12-07 | 2020-04-18 |
+| [Yippie Ki Yay](https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Yippie Ki Yay](https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1) | 4:26 | 2023-03-31 |  |
 | [You Ain't The Problem](https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [You Ain't The Problem](https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR) | 4:09 | 2019-09-06 | 2020-07-03 |
 | [You and I](https://open.spotify.com/track/5IBdGT5kl3wNblGeCpVYrH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You and I](https://open.spotify.com/album/7L3MIEJygvjr0ovJXBUvW1) | 4:03 | 2019-12-13 | 2020-07-03 |
 | [You and I](https://open.spotify.com/track/1oQW9ELulouzVKoeqXmkJv) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [You and I](https://open.spotify.com/album/5BVFFgiP5bYZxjtlvPWD4w) | 2:42 | 2019-08-30 | 2019-10-25 |

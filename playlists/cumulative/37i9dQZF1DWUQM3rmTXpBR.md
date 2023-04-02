@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-103 songs - 6 hr 8 min
+104 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 | 2021-12-23 | 2022-02-16 |
 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 | 2022-02-17 |  |
 | [سيلي](https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA) | [Maujoud](https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I), [بحر غازي](https://open.spotify.com/artist/46FaNQ24WNfMzWOVobepxY) | [سيلي](https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs) | 5:45 | 2022-04-18 |  |
-| [عشانك](https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3) | 3:07 | 2022-07-23 |  |
+| [عشانك](https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3) | 3:07 | 2022-07-23 | 2023-04-02 |
+| [عشانك](https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/56AVpqfi0bb5Er9csg3gnk) | 3:07 | 2023-04-01 |  |
 | [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-01-01 | 2022-07-29 |
 | [عيدلي](https://open.spotify.com/track/3BdZArn7DZxrnaczmAne39) | [Good Company](https://open.spotify.com/artist/3ulWaH4088h2Yeop0R1lh5), [Tararu](https://open.spotify.com/artist/52TAwlnhIQrzlSW4Tsc6dK) | [عيدلي](https://open.spotify.com/album/5b5S0FbQ748DB4XiV9AhYl) | 2:49 | 2023-04-01 |  |
 | [غايب](https://open.spotify.com/track/3KntmeYoXY9wFr0vMslHnM) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [غايب](https://open.spotify.com/album/7jmeyI1M0wAXHXC4TQJERP) | 3:58 | 2022-09-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 197724,
+  "num_followers": 197869,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGFkNWU2Y2QyODViNjhkMjZiMzM5MGY1NzFkZTllZjA0",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGQyOTE3NWVkMzkyMzkwNDk5OWQ2ODlkZWYzYjg4N2Q4",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
-      },
-      "artists": [
-        {
-          "name": "Indeep",
-          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
-        }
-      ],
-      "duration_ms": 341426,
-      "name": "Last Night a D.J. Saved My Life",
-      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 331706,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
+      },
+      "artists": [
+        {
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Goody Goody",
-        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
-      },
-      "artists": [
-        {
-          "name": "Goody Goody",
-          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
-        }
-      ],
-      "duration_ms": 383093,
-      "name": "It Looks Like Love",
-      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Modern Heat EP",
         "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 280417,
       "name": "Crushed Ice",
       "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Goody Goody",
+        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
+      },
+      "artists": [
+        {
+          "name": "Goody Goody",
+          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
+        }
+      ],
+      "duration_ms": 383093,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Pure Sounds of Africa",
-        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
-      },
-      "artists": [
-        {
-          "name": "Hugh Masekela",
-          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
-        }
-      ],
-      "duration_ms": 413560,
-      "name": "Don't Go Lose It Baby",
-      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Mangase / Hafi Deo",
         "url": "https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 570275,
       "name": "Hafi Deo",
       "url": "https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "duration_ms": 413560,
+      "name": "Don't Go Lose It Baby",
+      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Funk / Soul / Disco",
-        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
-      },
-      "artists": [
-        {
-          "name": "Jackson Sisters",
-          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "I Believe In Miracles",
-      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Miracles (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 338453,
       "name": "Heaven of My Life - Full Length Album Mix",
       "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Funk / Soul / Disco",
+        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
+      },
+      "artists": [
+        {
+          "name": "Jackson Sisters",
+          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "I Believe In Miracles",
+      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
-        }
-      ],
-      "duration_ms": 181698,
-      "name": "Kiss Me Again - Mix Edit",
-      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love in a Black Dimension",
         "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 338426,
       "name": "For Your Precious Love",
       "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur",
+          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+        }
+      ],
+      "duration_ms": 181698,
+      "name": "Kiss Me Again - Mix Edit",
+      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
-      },
-      "artists": [
-        {
-          "name": "Taana Gardner",
-          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
-        }
-      ],
-      "duration_ms": 587050,
-      "name": "Heartbeat - Club Mix",
-      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 259413,
       "name": "Get It Right - Single Version",
       "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
+      },
+      "artists": [
+        {
+          "name": "Taana Gardner",
+          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+        }
+      ],
+      "duration_ms": 587050,
+      "name": "Heartbeat - Club Mix",
+      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
-      },
-      "artists": [
-        {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
-        }
-      ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Chicago Service",
         "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 328858,
       "name": "Disco Fantasy",
       "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+      },
+      "artists": [
+        {
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+        }
+      ],
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Brooklyn, Bronx & Queens Band",
-        "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
-      },
-      "artists": [
-        {
-          "name": "The B. B. & Q. Band",
-          "url": "https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb"
-        }
-      ],
-      "duration_ms": 357760,
-      "name": "On the Beat - Full Length Mix",
-      "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Illusion",
         "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 404391,
       "name": "Disco Illusion",
       "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Brooklyn, Bronx & Queens Band",
+        "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
+      },
+      "artists": [
+        {
+          "name": "The B. B. & Q. Band",
+          "url": "https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb"
+        }
+      ],
+      "duration_ms": 357760,
+      "name": "On the Beat - Full Length Mix",
+      "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
     },
     {
       "added_at": "2022-09-05 16:54:43",

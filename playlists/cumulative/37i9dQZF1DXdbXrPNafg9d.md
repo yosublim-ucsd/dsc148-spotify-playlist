@@ -4,7 +4,7 @@
 
 > The best new indie tracks every Friday\. Cover: Barrie
 
-5,054 songs - 12 day 8 hr 7 min
+5,055 songs - 12 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4270,7 +4270,7 @@
 | [The Ballad of the Hulk](https://open.spotify.com/track/6q4i9QAtKQLV8vxP5S8kHj) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest – Side 1](https://open.spotify.com/album/4oVCQiTtHe0fQptCkkXSal) | 4:04 | 2019-05-26\* | 2019-06-15 |
 | [The Band \(feat\. Liv.e\)](https://open.spotify.com/track/15REw9T9japDKAWH8yK0fR) | [Black Noi$e](https://open.spotify.com/artist/647PD9VO8BRYqib1oRPDfA), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [The Band \(feat\. Liv.e\)](https://open.spotify.com/album/5n0bD9e8mF4xzT5Lf3IzUM) | 1:43 | 2020-06-19 | 2020-07-03 |
 | [The Beachland Ballroom](https://open.spotify.com/track/2P5ejJgRn6ntNPbxIxZZA5) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The Beachland Ballroom](https://open.spotify.com/album/2kn8AaYqyvMnoNtQPJoOnl) | 4:00 | 2021-10-02 | 2021-11-20 |
-| [The Benefits of Lying \(With Your Friend\)](https://open.spotify.com/track/2M2yjfzGlbltqYRd4U2ExT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 3:28 | 2023-03-24 |  |
+| [the benefits of lying \(with your friend\)](https://open.spotify.com/track/2M2yjfzGlbltqYRd4U2ExT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 3:28 | 2023-03-24 |  |
 | [The Best Part](https://open.spotify.com/track/426Ts4w4vCFNW01udSShf9) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:29 | 2023-03-24 |  |
 | [The Bird Song](https://open.spotify.com/track/5RPMIRDXG1L8E9mIHzGsYZ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [The Bird Song](https://open.spotify.com/album/0bErSbm9A1FEbzpMf1g1ZW) | 4:24 | 2019-05-26\* | 2019-06-15 |
 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 | 2020-02-21 | 2020-03-27 |
@@ -4298,7 +4298,8 @@
 | [The Garden](https://open.spotify.com/track/6r3YZ4Okh8dwINCSn5zLwW) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Garden](https://open.spotify.com/album/0qgl7IOgner4E9XdAxhKQe) | 3:07 | 2019-08-30 | 2019-10-11 |
 | [The Gig](https://open.spotify.com/track/2V71mWNNXX6n27OPSzGcEM) | [Fantastic Cat](https://open.spotify.com/artist/1UuGqBhc9CLkj8qgKCHjw5), [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy), [Don DiLego](https://open.spotify.com/artist/0fPBRuaiHxlXH5tXSeB4qM), [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V), [Hollis Brown](https://open.spotify.com/artist/4Ayh1SXnVpYPCVR4190RXw) | [The Gig](https://open.spotify.com/album/1Wfkp2qhZlSX06dpj3TdJd) | 2:48 | 2022-07-01 | 2022-07-30 |
 | [The Good Ones](https://open.spotify.com/track/3wDbyc59SQyOwwCDuhoA0E) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/36MExe7IoVNS0i8JSfqaZe) | 4:38 | 2020-08-30 | 2020-10-16 |
-| [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-17 |  |
+| [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 | 2023-03-17 |  |
+| [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-17 | 2023-04-02 |
 | [The Great Divide](https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [The Great Divide](https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp) | 4:00 | 2020-09-25 | 2020-11-13 |
 | [The greatest](https://open.spotify.com/track/13F2adrvrpaq2383GHh1Jl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Fuck it I love you / The greatest](https://open.spotify.com/album/0Zv6uLCDXAW4oG8cVvtG6c) | 5:00 | 2019-08-23 | 2019-10-04 |
 | [The Hands \- From the Original Motion Picture “The Inspection”](https://open.spotify.com/track/1VYLPa8PSEeypLXwbncLfx) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [The Hands \(From the Original Motion Picture “The Inspection”\)](https://open.spotify.com/album/71nyj9LZWPJwEHViGRvD02) | 6:16 | 2022-11-25 | 2023-01-21 |

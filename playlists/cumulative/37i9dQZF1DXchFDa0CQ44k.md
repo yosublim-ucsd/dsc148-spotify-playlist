@@ -4,7 +4,7 @@
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-98 songs - 7 hr 3 min
+100 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Haremni](https://open.spotify.com/track/4tPn2M0DSBKe7QpdE17o92) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Haremni](https://open.spotify.com/album/34fsniZx5w1uNUpqya3wbM) | 3:54 | 2022-02-10 |  |
 | [Haremni](https://open.spotify.com/track/5g78UsbsNCCXTdBPcTEtGr) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Haremni](https://open.spotify.com/album/4phggOoR0RaxV9oM3pc9cg) | 3:57 | 2021-08-25 | 2023-04-01 |
 | [Jafra](https://open.spotify.com/track/4hBjR0Tcigz3jxQ4zW3nNg) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 2:09 | 2021-08-25 |  |
+| [Jamala Wlo](https://open.spotify.com/track/1DHs8UmWWdjbCsbM7F4jZC) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Jamala Wlo](https://open.spotify.com/album/5chTe8xi5I3qMnwJCtwYgW) | 5:31 | 2022-02-10 |  |
 | [Jamala Wlo](https://open.spotify.com/track/1xPmf66wVpRcbGSpYqdQUB) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Jamala Wlo](https://open.spotify.com/album/41yRmWG9UsNU5pO25tmUaG) | 5:36 | 2022-02-10 | 2023-04-01 |
 | [Jamala Wloo](https://open.spotify.com/track/3orZIusDMy2lekhdMtpwzF) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Jamala Wloo](https://open.spotify.com/album/38wRtf3fQkVRjRTUgWDXHu) | 5:34 | 2021-08-25 | 2022-07-29 |
 | [Joumhoureyet Alby](https://open.spotify.com/track/0SqYaqatc1f9qewgVYp7d1) | [Mohamad Eskandar](https://open.spotify.com/artist/1Szp0cnLcoq8ombQRztd1i) | [Melody Hits Vol\. 7](https://open.spotify.com/album/4GHKFNuSbVVcdwGtZ6AlCt) | 3:51 | 2021-08-25 |  |
@@ -80,7 +81,7 @@
 | [Weilak](https://open.spotify.com/track/1rnAqjXXzirQV1UxIDFI7K) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:29 | 2022-02-10 |  |
 | [Weilak](https://open.spotify.com/track/2MiIeVY84Wd1VrHoh84wbU) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Summer Dance 2019](https://open.spotify.com/album/0kVCRtWDmyme0CzZsCVay8) | 3:29 | 2022-02-10 | 2022-11-13 |
 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 | 2021-08-25 |  |
-| [Ya Galbi Ya Al Taabane](https://open.spotify.com/track/1dXGlrKCVZLSZbnxSjrTNY) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Ya Galbi Ya Al Taabane](https://open.spotify.com/album/1wHOacQdRqEPq8YOfzoWAY) | 3:39 | 2021-08-25 |  |
+| [Ya Galbi Ya Al Taabane](https://open.spotify.com/track/1dXGlrKCVZLSZbnxSjrTNY) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Ya Galbi Ya Al Taabane](https://open.spotify.com/album/1wHOacQdRqEPq8YOfzoWAY) | 3:39 | 2021-08-25 | 2023-04-02 |
 | [Ya Halali Ya Mali](https://open.spotify.com/track/2mpiB0CNFCc0GVyOn2x1k0) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 2:53 | 2021-08-25 | 2022-02-11 |
 | [Ya Kel El Deni](https://open.spotify.com/track/5UrUxKn9CvUDp3wlenYAzk) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Chou Btaamel Bel Nas](https://open.spotify.com/album/0IiamaJrO8K6nDoX188mLD) | 4:08 | 2022-02-10 |  |
 | [Ya Kel El Deni](https://open.spotify.com/track/4ZN63KZw5JsnZuxiCCzIYk) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Chou Btaemel Bel Nass](https://open.spotify.com/album/7yGahZ4gTd63Y1Tr3I3Y7D) | 4:08 | 2021-08-25 | 2022-07-29 |
@@ -88,7 +89,8 @@
 | [Ya Miyit Hala](https://open.spotify.com/track/5YD6cBZKGHJb7KLZQfkET1) | [Merhi Serhan](https://open.spotify.com/artist/1plKSh9bv4wNad4n5GkoJE) | [Beirut Summer Hits](https://open.spotify.com/album/3BCMgZdWaaWLoZvBGdVaQR) | 3:40 | 2021-08-25 | 2022-07-29 |
 | [Ya Qasi](https://open.spotify.com/track/0omcGCy8cJ8aFku257ctWO) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Qasi](https://open.spotify.com/album/0UWsb464VFOomlrr6NseRu) | 3:23 | 2021-08-25 | 2023-04-01 |
 | [Ya Tarek](https://open.spotify.com/track/1jlzJZAMqbHOVYyOtWN8hQ) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ya Tarek](https://open.spotify.com/album/2x58mqnuGWYA5Cl4NNIwZy) | 3:26 | 2021-08-25 |  |
-| [Ya Wallo](https://open.spotify.com/track/2KRPs1wu9WyrTlh8Zubeh9) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Wallo](https://open.spotify.com/album/4bDCE1VCZ2T9vBHdz7RRG2) | 2:51 | 2021-08-25 |  |
+| [Ya Wallo](https://open.spotify.com/track/2KRPs1wu9WyrTlh8Zubeh9) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Wallo](https://open.spotify.com/album/4bDCE1VCZ2T9vBHdz7RRG2) | 2:51 | 2021-08-25 | 2023-04-02 |
+| [Ya Wallo](https://open.spotify.com/track/3nDciOoTFeDd1wWfSh1hx0) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Wallo](https://open.spotify.com/album/0zgYVQ0iSDSCrknQn65skX) | 2:51 | 2022-02-10 |  |
 | [Ya Zghiri](https://open.spotify.com/track/6LyvwfbjUvD3oKM1vkAId8) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Enti Mshiti](https://open.spotify.com/album/32H47741Ke2C4lq45RLke8) | 5:06 | 2021-08-25 |  |
 | [Yalli Betiheb Elna'na'](https://open.spotify.com/track/09BqNGf6vca4f2q4P0YkLF) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Yalli Betiheb Elna'na'](https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH) | 3:29 | 2021-08-25 |  |
 | [Yekhreb Baytak](https://open.spotify.com/track/0386Pg2s8ft0KITln5gbTQ) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Yekhreb Baytak](https://open.spotify.com/album/5xlO8W7WbuksQGbSIDrVTa) | 3:49 | 2022-02-10 | 2023-03-23 |

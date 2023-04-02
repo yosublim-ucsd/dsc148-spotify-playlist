@@ -4,7 +4,7 @@
 
 > Dance hits in 2023\. Cover: SG Lewis
 
-193 songs - 9 hr 59 min
+194 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Don’t Walk Away](https://open.spotify.com/track/2TNkWEQkEj1ksOydBwurwF) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Don’t Walk Away](https://open.spotify.com/album/3YnMECirAZJqx2e40IiEC2) | 2:33 | 2022-10-24 | 2022-11-22 |
 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 | 2022-12-05 |  |
 | [Dreams](https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Dreams](https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI) | 3:55 | 2023-03-20 |  |
+| [Edge Of The Night](https://open.spotify.com/track/0PdDT8a5cEauXOW3di8GTg) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Edge Of The Night](https://open.spotify.com/album/3agSb6X0ML08XY2NMuNm0Z) | 2:22 | 2023-04-02 |  |
 | [Escape](https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2) | [HEATT](https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL) | [Escape](https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA) | 2:37 | 2023-01-29 | 2023-02-15 |
 | [Every Little Thing \(feat\. Bryn Christopher\)](https://open.spotify.com/track/43vhLN5tXGWXBc7w6y47gd) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Metaphysical](https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM) | 3:13 | 2022-10-31 | 2022-12-13 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-09-12 | 2022-11-06 |
@@ -148,7 +149,7 @@
 | [Save Some Room](https://open.spotify.com/track/7FYEftcDTCjLkQZPAgPe0D) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Save Some Room](https://open.spotify.com/album/1JzucV72GDAQ3gEDGDBN3k) | 3:39 | 2022-09-28 | 2022-12-13 |
 | [Secrets](https://open.spotify.com/track/3E9SlEyTNGUyTZTvTQbOfa) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Secrets](https://open.spotify.com/album/7DaMBlMoRNIbLl9xYnDqhC) | 3:37 | 2022-09-12 | 2022-11-15 |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2021-07-02 | 2022-09-13 |
-| [She's Like The Wind \(Through My Tree\)](https://open.spotify.com/track/1ddRmY5BXZGl8uSv8yNEsU) | [Emdey](https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J), [ADN Lewis](https://open.spotify.com/artist/31nTqmoul7C40KrSmk6WYl) | [She's Like The Wind \(Through My Tree\)](https://open.spotify.com/album/7EFzQfsEuC4a4HU61QZBP8) | 2:41 | 2023-03-06 |  |
+| [She's Like The Wind \(Through My Tree\)](https://open.spotify.com/track/1ddRmY5BXZGl8uSv8yNEsU) | [Emdey](https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J), [ADN Lewis](https://open.spotify.com/artist/31nTqmoul7C40KrSmk6WYl) | [She's Like The Wind \(Through My Tree\)](https://open.spotify.com/album/7EFzQfsEuC4a4HU61QZBP8) | 2:41 | 2023-03-06 | 2023-04-02 |
 | [Shut Up and Listen \- twocolors Remix](https://open.spotify.com/track/5KUzW4VyUlgZJEOiUPJf1I) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Shut Up and Listen \(twocolors Remix\)](https://open.spotify.com/album/1iBqexxnKdhzzNLu84sMoY) | 2:26 | 2023-01-09 | 2023-01-24 |
 | [Single Again](https://open.spotify.com/track/6cuGeROw3pqjLVVJ5a5m76) | [Alexiane](https://open.spotify.com/artist/0LyfTcbBDtHYMnMZuzP57t), [Jeremy Arnold](https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5) | [Single Again](https://open.spotify.com/album/4cQFQaK3X2N9Xlnpvg4VpM) | 3:07 | 2022-11-21 | 2022-12-22 |
 | [So Good \- Jax Jones Remix](https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [So Good \(Jax Jones Remix\)](https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui) | 3:09 | 2022-09-12 | 2022-11-01 |

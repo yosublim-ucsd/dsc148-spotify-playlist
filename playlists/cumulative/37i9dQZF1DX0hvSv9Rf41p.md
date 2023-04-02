@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with WHIPPED CREAM.
 
-457 songs - 1 day 2 hr 30 min
+458 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2022-12-16 |  |
 | [Eden](https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden](https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ) | 2:56 | 2022-06-24 | 2023-02-15 |
 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 | 2023-02-17 |  |
-| [Embrace Chaos](https://open.spotify.com/track/5Zt8IFYVXIR9KkRtZBXL10) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [The Valentine Effect](https://open.spotify.com/album/2emMBLs21dHIsQzGTt85Vk) | 2:35 | 2023-03-31 |  |
+| [Embrace Chaos](https://open.spotify.com/track/5Zt8IFYVXIR9KkRtZBXL10) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [The Valentine Effect](https://open.spotify.com/album/2emMBLs21dHIsQzGTt85Vk) | 2:35 | 2023-03-31 | 2023-04-02 |
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-03-24 |  |
 | [Emptiness](https://open.spotify.com/track/4TPzn1tHoa186Nu2wb68r0) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Emptiness](https://open.spotify.com/album/1v7slg9ssEvd7PFdNjRgmD) | 2:29 | 2021-12-17 | 2022-08-06 |
 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-01-07 | 2022-12-03 |
@@ -187,6 +187,7 @@
 | [Hannya](https://open.spotify.com/track/6B3ofLCXEF92rcrOcSYaaN) | [Cyberself](https://open.spotify.com/artist/3zQcsM5htv6b5bvEJUkmvv) | [Hannya](https://open.spotify.com/album/1YlcBbT6v0aPSihJGPq2K7) | 4:05 | 2022-12-16 | 2023-02-11 |
 | [Happy Where We Are](https://open.spotify.com/track/1pq2CUdMBkl5MX7aDm5Twj) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Happy Where We Are](https://open.spotify.com/album/5o2HQx2gn126dQ0RCYQUsF) | 5:20 | 2021-12-17 | 2022-02-19 |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-01-13 |  |
+| [Heart On Fire](https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Heart On Fire](https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad) | 3:50 | 2023-03-31 |  |
 | [HEAVENS DOOR](https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [HEAVENS DOOR](https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX) | 3:44 | 2023-02-17 |  |
 | [Here For You](https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Here For You](https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL) | 3:41 | 2021-12-17 | 2022-08-27 |
 | [Here With Me](https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Here With Me](https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN) | 3:43 | 2021-12-17 | 2022-02-19 |

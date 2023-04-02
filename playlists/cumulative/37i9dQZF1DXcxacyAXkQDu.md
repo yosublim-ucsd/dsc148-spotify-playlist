@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-851 songs - 2 day 2 hr 30 min
+852 songs - 2 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2022-03-24 | 2022-04-21 |
 | [First World Problems](https://open.spotify.com/track/5pk0D7voN6I6LMxxQN3Gep) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [First World Problems](https://open.spotify.com/album/6EIqTH2TYoIUkJMBYBdtv9) | 4:23 | 2022-03-24 | 2022-07-05 |
 | [Flicker](https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 4:18 | 2023-01-16 | 2023-03-18 |
-| [Float On](https://open.spotify.com/track/6rJUWBi2vx7eIH9xpWLlnw) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Float On](https://open.spotify.com/album/2Eg7IqlvuuG72VUuYhkqB8) | 3:16 | 2021-12-21 |  |
+| [Float On](https://open.spotify.com/track/6rJUWBi2vx7eIH9xpWLlnw) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Float On](https://open.spotify.com/album/2Eg7IqlvuuG72VUuYhkqB8) | 3:16 | 2021-12-21 | 2023-04-02 |
 | [Fly Angel](https://open.spotify.com/track/5WBKRhaotj41GrLwmfyDs7) | [Samuel Scott McCumber](https://open.spotify.com/artist/3kjqCOTD5l4VTHHOzX2W83) | [Fly Angel](https://open.spotify.com/album/6yPR2MXZ9PPWOWHNcvRr1h) | 4:00 | 2022-01-07 | 2022-07-29 |
 | [Fly When I Fall](https://open.spotify.com/track/6lT0DHecA1thspBEZX2X1y) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [Fly When I Fall](https://open.spotify.com/album/17yCOtauWGE5jmzNq3t2bv) | 4:10 | 2021-12-21 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/5ChQHJhW6RHf10bmmmrTsB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:14 | 2021-12-21 | 2022-07-21 |
@@ -398,6 +398,7 @@
 | [Kiss Me](https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:40 | 2021-12-21 | 2022-04-07 |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Songs of Dylan](https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ) | 2:38 | 2021-12-21 | 2022-04-01 |
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2022-03-24 | 2022-12-10 |
+| [Kryptonite](https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Kryptonite](https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0) | 3:03 | 2023-03-31 |  |
 | [LA On A Saturday Night](https://open.spotify.com/track/0dbp9YwlGEzXmxavRMgZ4T) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [LA On A Saturday Night](https://open.spotify.com/album/1f2rFcEFmcze28kd4deeS4) | 3:15 | 2022-10-07 |  |
 | [Landslide](https://open.spotify.com/track/4R33piRpHBFZ92ZLL5lCah) | [Jordan Doww](https://open.spotify.com/artist/3M9P7WlQrG5BKcxkFiXM3Z) | [Landslide](https://open.spotify.com/album/0CzuUvjCQNve6PhOiVwcta) | 2:56 | 2022-04-29 | 2023-03-04 |
 | [last time together](https://open.spotify.com/track/5EYA9zRIqij6wWAOJsy3WD) | [DØSSI](https://open.spotify.com/artist/6pOq4fiJPukim20wFrSMR7) | [last time together / how it ended](https://open.spotify.com/album/2JPeWtEdL5NFZxsaNfKtPw) | 3:22 | 2022-03-24 | 2022-04-18 |

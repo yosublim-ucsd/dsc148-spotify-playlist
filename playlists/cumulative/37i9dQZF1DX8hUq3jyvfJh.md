@@ -4,7 +4,7 @@
 
 > Mulheres inspiradoras para serem ouvidas no volume máximo\. Co\-curada por Pitty para o Dia Internacional da Mulher!
 
-579 songs - 1 day 6 hr 14 min
+581 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,8 @@
 | [Gadinho de Faz Tempo](https://open.spotify.com/track/264ITABDBISQNvXeQuB0D2) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Biel Beats](https://open.spotify.com/artist/3ROfsCFSDz3A1WvStAdFSL) | [Gadinho de Faz Tempo](https://open.spotify.com/album/3wVMk60P1vIA3Vx25MWuUZ) | 2:36 | 2022-03-08 | 2022-04-07 |
 | [GAROTA INFERNAL](https://open.spotify.com/track/1v7claHAuCV40i4Z6BkVdq) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [GAROTA INFERNAL](https://open.spotify.com/album/4Q7onjpfABjrDQMbuGeTTg) | 2:29 | 2022-03-08 | 2023-01-05 |
 | [Girassol](https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Girassol](https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ) | 3:01 | 2023-02-01 | 2023-03-02 |
-| [GLITTER](https://open.spotify.com/track/3yfjvYImiSdypyIeYUknyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:24 | 2023-03-01 |  |
+| [GLITTER](https://open.spotify.com/track/3yfjvYImiSdypyIeYUknyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:24 | 2023-03-01 | 2023-04-02 |
+| [GLITTER](https://open.spotify.com/track/49IWxqawFIOnmDjGigfQ3L) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:24 | 2023-03-06 |  |
 | [gostosa](https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [gostosa](https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK) | 2:34 | 2023-01-04 | 2023-02-02 |
 | [Gostosa Posturada](https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr) | 2:04 | 2022-11-02 | 2022-12-01 |
 | [Guaxinim](https://open.spotify.com/track/5z7bUOFPrvanIKeqcBlAxS) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Guaxinim](https://open.spotify.com/album/6eY5ygTe3WGmig8bzysFoh) | 4:26 | 2022-04-06 | 2022-05-05 |
@@ -293,7 +294,8 @@
 | [Mais Sincero](https://open.spotify.com/track/0oowStlRFjc6bXYbIQi50h) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Menina Mulher](https://open.spotify.com/album/5GWqG8l3S6dMHguP13GTIo) | 3:03 | 2022-03-08 | 2022-04-07 |
 | [Mais Uma Canção Pra Você](https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Mais Uma Canção Pra Você](https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866) | 4:48 | 2022-05-04 | 2022-06-01 |
 | [Mal Nenhum](https://open.spotify.com/track/0pV74QCFg904RrD0u9vkgl) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 3:17 | 2023-01-04 | 2023-02-02 |
-| [MALA MEMO](https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:16 | 2023-02-01 |  |
+| [MALA MEMO](https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:16 | 2023-02-01 | 2023-04-02 |
+| [MALA MEMO](https://open.spotify.com/track/2RBgpZ7VODWZUjr0onXIzW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:16 | 2023-03-06 |  |
 | [Malandro](https://open.spotify.com/track/3F55EUqw7dagj5HuijCPWh) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Malandro](https://open.spotify.com/album/4rklYAr7eEhe972Rk9P2yo) | 2:28 | 2022-06-01 | 2022-12-01 |
 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 | 2022-11-30 | 2023-01-05 |
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2022-03-08 | 2023-01-05 |

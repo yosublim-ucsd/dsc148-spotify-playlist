@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25544,
+  "num_followers": 25554,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMDk0MWY0MDlmNTM5NjY1MmE1MzM1N2Y3MTE2YTQyMjg4",
+  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMGNmNDJiODg5ZGYwMTI5YjIxNTU4NzcyMzdjYzg3NGI0",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
+        "name": "En helt vanlig Svensson",
+        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
       },
       "artists": [
         {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
         }
       ],
-      "duration_ms": 180893,
-      "name": "Manboy",
-      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
+      "duration_ms": 194933,
+      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
+      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -475,18 +475,34 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "En helt vanlig Svensson",
-        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
       },
       "artists": [
         {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
         }
       ],
-      "duration_ms": 194933,
-      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
-      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
+      "duration_ms": 180893,
+      "name": "Manboy",
+      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
-      },
-      "artists": [
-        {
-          "name": "After Dark",
-          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Take Me To Your Heaven",
         "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 182800,
       "name": "Tusen och en natt",
       "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Den l\u00e5ngsamma blomman",
-        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Min k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Busy Doin' Nothin'",
         "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 182626,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Den l\u00e5ngsamma blomman",
+        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Min k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
     }
   ],
   "unique_name": "Schlagerfest",

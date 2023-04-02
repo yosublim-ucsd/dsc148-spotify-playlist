@@ -4,7 +4,7 @@
 
 > Música nueva de toda la región\. Esta semana en portada: Natty Natasha
 
-3,978 songs - 8 day 23 hr 38 min
+3,979 songs - 8 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,7 +1030,7 @@
 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 | 2022-10-21 | 2022-10-29 |
 | [DRAKARYS](https://open.spotify.com/track/3kRqd5ikgb7sL1ZjvJtaIi) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [DRAKARYS](https://open.spotify.com/album/6YAelLXIJe47NJv4uhqAGz) | 3:48 | 2022-11-04 | 2022-11-12 |
 | [Drama & Dinero](https://open.spotify.com/track/57YsOfDLCiMUsW7RZWrSce) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Drama & Dinero](https://open.spotify.com/album/0DTbeQubOGZ6grfy3jgFLZ) | 3:28 | 2022-12-23 | 2023-01-06 |
-| [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:38 | 2023-03-31 |  |
+| [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:16 | 2023-03-31 |  |
 | [Drill Argentino](https://open.spotify.com/track/424OLLBTgsAAVFdMxVI08A) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Drill Argentino](https://open.spotify.com/album/2rAHAmE7ayYV3fJzpyZE6w) | 2:33 | 2022-12-23 | 2023-01-06 |
 | [Dripeando](https://open.spotify.com/track/2x1s3TXM1fvVzCAd1Suf4T) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Dripeando](https://open.spotify.com/album/4tg4Sy7PgIkiMgMzEDEdWq) | 3:06 | 2022-02-04 | 2022-02-12 |
 | [Drippin](https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Drippin](https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA) | 3:38 | 2023-02-17 | 2023-02-25 |
@@ -2784,7 +2784,8 @@
 | [Pichirry](https://open.spotify.com/track/3gmwr3IApaKyKU62QTIrgJ) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pichirry](https://open.spotify.com/album/1in8bBo1IDDACAEEwMh3eg) | 2:37 | 2023-03-31 |  |
 | [Pide \- Remix](https://open.spotify.com/track/6dnDKVx1eLiYwc9tsy40ps) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Pide \(Remix\)](https://open.spotify.com/album/5ZZ61mqxA0JlBKTX9cS7ZK) | 2:11 | 2021-12-31 | 2022-01-15 |
 | [Piel](https://open.spotify.com/track/3YWqRb6gE2zo57kRlGQfQx) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Revelaciones](https://open.spotify.com/album/0I8Yvr2l4M4j71xuLuf23Q) | 4:22 | 2022-10-14 | 2022-10-22 |
-| [PIEL](https://open.spotify.com/track/6C91907u9M2nie6b7YIrxm) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [EL ORIGEN DEL CAOS](https://open.spotify.com/album/4MNAeZIZde6MpAaAUIK07q) | 3:45 | 2023-03-31 |  |
+| [PIEL](https://open.spotify.com/track/6C91907u9M2nie6b7YIrxm) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [EL ORIGEN DEL CAOS](https://open.spotify.com/album/4MNAeZIZde6MpAaAUIK07q) | 3:45 | 2023-03-31 | 2023-04-02 |
+| [PIEL](https://open.spotify.com/track/6v8Ka08c1mSPRw9uXdKes2) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [PIEL](https://open.spotify.com/album/05WHDlqkH0sKtRutv7reQb) | 3:45 | 2023-03-31 |  |
 | [Piensas En Mi](https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Piensas En Mi](https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS) | 3:02 | 2022-08-12 | 2022-08-20 |
 | [Piketaison](https://open.spotify.com/track/1iFY4ay3reuR14tYtuHBAY) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Piketaison](https://open.spotify.com/album/0z9dEzSRp4Cw6OUYvtxfp3) | 3:01 | 2022-04-22 | 2022-04-29 |
 | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K) | 2:38 | 2022-04-08 | 2022-04-16 |

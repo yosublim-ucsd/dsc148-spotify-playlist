@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Stephanie Poetri, Elephante, ZHANG YANQI
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,441 likes - 91 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,455 likes - 91 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 23 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 |
 | 24 | [No Good In Goodbye](https://open.spotify.com/track/38ObpIH92W62oCBYhMW9hu) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [No Good In Goodbye](https://open.spotify.com/album/3nSZ1lJrHkv1ZPbSrAmmYD) | 3:48 |
 | 25 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 |
-| 26 | [It's You](https://open.spotify.com/track/5YAH6Kx2vYOtUPPzZtSXya) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [PB](https://open.spotify.com/artist/6cLvu2ZRftDmhWgnmBzE7k) | [It's You](https://open.spotify.com/album/2deTNDRhGTOXeSmgSBAYhr) | 3:09 |
+| 26 | [It's You](https://open.spotify.com/track/5YAH6Kx2vYOtUPPzZtSXya) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [PB GLAS](https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG) | [It's You](https://open.spotify.com/album/2deTNDRhGTOXeSmgSBAYhr) | 3:09 |
 | 27 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 |
 | 28 | [Cure For Love](https://open.spotify.com/track/3oeewidKD4nsh3MkawPbrH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Cure For Love](https://open.spotify.com/album/2KU9xbHp3q7e3xzv8yYIVE) | 2:57 |
 | 29 | [Tabir Kelam](https://open.spotify.com/track/3gOYeRpzKEp6z97pxkgclW) | [Made Mawut](https://open.spotify.com/artist/4p86bdMabmIFf7G0eKsrCe), [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Tabir Kelam](https://open.spotify.com/album/5JDUtxToI9Sx4qTmVwLW09) | 4:15 |

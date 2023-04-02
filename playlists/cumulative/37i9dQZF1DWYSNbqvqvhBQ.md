@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Guus Meeuwis
 
-132 songs - 7 hr 39 min
+133 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 | 2023-03-30 |  |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-23 |  |
 | [Wiser](https://open.spotify.com/track/7dCCjVk2kAoXI8p9vGSV8S) | [PYRO](https://open.spotify.com/artist/1lgKBSJSuiEvyoiDwpRBFb) | [Wiser](https://open.spotify.com/album/1a7cqum0P2qEedF3Z1kwkL) | 3:35 | 2023-02-23 | 2023-03-10 |
-| [You Are You](https://open.spotify.com/track/5v4NehPFLOhNRdK9T463Ux) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are You](https://open.spotify.com/album/5Fj9XdRrQutK1HfVKFXBPf) | 2:58 | 2023-03-24 |  |
+| [You Are You](https://open.spotify.com/track/5v4NehPFLOhNRdK9T463Ux) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are You](https://open.spotify.com/album/5Fj9XdRrQutK1HfVKFXBPf) | 2:58 | 2023-03-24 | 2023-04-02 |
+| [You Are You](https://open.spotify.com/track/6f7zE48DUi32fhJnND4caO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Beautiful Ride](https://open.spotify.com/album/4cmInBpca99plIAdky3xbW) | 2:58 | 2023-03-30 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-02-23 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

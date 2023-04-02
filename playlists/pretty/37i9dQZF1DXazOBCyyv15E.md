@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Georgia
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,218 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,261 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 31 | [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 |
 | 32 | [Dangling](https://open.spotify.com/track/37dySZZK5SUzZbb2wHQRTb) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Dangling](https://open.spotify.com/album/3CVGCgZ770NSXp52pWvAgi) | 2:48 |
 | 33 | [Past Life](https://open.spotify.com/track/0gnQIXp4YEsk3DgtT616re) | [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Past Life](https://open.spotify.com/album/3lbxwgkhW39lCa1Cq9Q9mI) | 3:37 |
-| 34 | [The Benefits of Lying \(With Your Friend\)](https://open.spotify.com/track/2M2yjfzGlbltqYRd4U2ExT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 3:28 |
+| 34 | [the benefits of lying \(with your friend\)](https://open.spotify.com/track/2M2yjfzGlbltqYRd4U2ExT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid \(deluxe\)](https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw) | 3:28 |
 | 35 | [The Likes Of Us](https://open.spotify.com/track/214S0jyOHYqeykI5VfFxDX) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [The Likes Of Us](https://open.spotify.com/album/4bW1xAnroNCjA9M9SdkDDA) | 4:30 |
 | 36 | [This Is Gonna Hurt](https://open.spotify.com/track/5gDFQs6TYDevsUq7lDN0Fp) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [This Is Gonna Hurt](https://open.spotify.com/album/1Yq4EvMi1stQzlNAOR2oDB) | 3:31 |
 | 37 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 |

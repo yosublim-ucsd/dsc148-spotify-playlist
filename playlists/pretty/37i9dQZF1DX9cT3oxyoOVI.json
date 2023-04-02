@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 66468,
+  "num_followers": 66830,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMDYyMzEzYTMwYTNiNWE0NmVhODI2MDI1ODkzYzA0MWVk",
+  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMDU3OTk2YTI4MWJlOWViNDIwNGVkZGRhMTZhOTNlMTQ1",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Is It True",
+      "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "Hard Times / Bad Trips",
         "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 128000,
       "name": "I hope that you think of me",
       "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Is It True",
-      "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Emily Can't Sing",
-        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "touch tank",
         "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 179133,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Emily Can't Sing",
+        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "Knock Me Off My Feet",
-      "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Have You Ever",
         "url": "https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 232653,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "The Last Thing Left",
-        "url": "https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj"
-      },
-      "artists": [
-        {
-          "name": "Say Sue Me",
-          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Around You",
-      "url": "https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Search + Destroy",
         "url": "https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 245573,
       "name": "One Last Girl",
       "url": "https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "The Last Thing Left",
+        "url": "https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye"
     },
     {
       "added_at": "2023-01-30 15:22:38",

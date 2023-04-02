@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Tiller com Cíntia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,982 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 15 | [CypherFocus \#1](https://open.spotify.com/track/7fTaiCz7Jc2HKENi3niycX) | [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ), [Ciri](https://open.spotify.com/artist/0q6rGrv1f7h8BkZgV4IXY8), [Plutão](https://open.spotify.com/artist/77GVzpOWnSCVGQeGl7kpRO), [Juelson Marcos](https://open.spotify.com/artist/1aQCsqTCVRagFq25FWRsme), [Filipe HPM](https://open.spotify.com/artist/3LEEforMNXzVB0eJ5wrwKV), [Adelson Freitas](https://open.spotify.com/artist/6FQYu2KuSX5uSTPTKtiHg1) | [CypherFocus \#1](https://open.spotify.com/album/7zApBmmiuaQ2LRgDA46HVF) | 4:45 |
 | 16 | [SAVE ME](https://open.spotify.com/track/1tMJTozkCDjpr0GHDQL7B4) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [SAVE ME](https://open.spotify.com/album/1oEqwvcmoxw8dcWjqVucjI) | 3:07 |
 | 17 | [SINA](https://open.spotify.com/track/6yOkvyaxn5BuVnY24EeV8t) | [Silvan](https://open.spotify.com/artist/1urNAZIdak4JZVzZmZKTgy), [DUKE](https://open.spotify.com/artist/1H7smEUB0JScjIeacjgGf6) | [SINA](https://open.spotify.com/album/7huzglHoyTYIs4CcnGGsc1) | 3:30 |
-| 18 | [RICKYBOBBY](https://open.spotify.com/track/41pzVVRjNOb7pwqO2O8yP0) | [ZA](https://open.spotify.com/artist/5TtRsKNQQoP4po62oDREFn) | [RICKYBOBBY](https://open.spotify.com/album/2T4xJYZQU4PuaQGC9GIZ5V) | 1:44 |
+| 18 | [RICKYBOBBY](https://open.spotify.com/track/41pzVVRjNOb7pwqO2O8yP0) | [ZA](https://open.spotify.com/artist/0pckyfQ9aseAC0vklcFmps) | [RICKYBOBBY](https://open.spotify.com/album/2T4xJYZQU4PuaQGC9GIZ5V) | 1:44 |
 | 19 | [MATRIX](https://open.spotify.com/track/3svaprdtWxOv5lqCrEhKFq) | [Room544](https://open.spotify.com/artist/5Auju8lqI189CHGwRhlSb8), [CAIOBy](https://open.spotify.com/artist/0q3cv59ADhcHpscPiM23OG), [Vulgo PP](https://open.spotify.com/artist/2i5kbyuGHdw9BbDRzJmc6c) | [MATRIX](https://open.spotify.com/album/6cQ5oKuWprEU9Hw7rR5Qae) | 2:20 |
 | 20 | [Dona do Gang](https://open.spotify.com/track/2cLNJR02ixyyu6L5eTZYYk) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Dona do Gang](https://open.spotify.com/album/3oRCFj2tJ1r2Cux5gIjM2n) | 3:14 |
 | 21 | [Freelancer](https://open.spotify.com/track/3eTNYdzxrmeoxwtMnpEkkT) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH) | [Freelancer](https://open.spotify.com/album/2xoJ2usu0V8xUvi2vIkMB5) | 2:40 |

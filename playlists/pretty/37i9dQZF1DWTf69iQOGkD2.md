@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:Dois P, Amabbi,  1Kilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,675 likes - 77 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,756 likes - 77 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

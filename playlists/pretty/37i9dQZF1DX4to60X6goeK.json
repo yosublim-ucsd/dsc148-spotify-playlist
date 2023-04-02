@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 40618,
+  "num_followers": 40685,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDAwMGM5NGQ0MmM5YTgwNzY3OGE2Yzg2ZDA1YjU4MWFh",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDZlOGFlOWNhNGFlODlhOTYwNDMyNDY0NjAzOTAzY2Yx",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -415,18 +415,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/3FYytbD70Bedz0Nwmsuqqq"
+        "name": "Polarity (VIP)",
+        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
       "artists": [
         {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
+      "duration_ms": 202971,
+      "name": "Polarity - VIP",
+      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -447,22 +451,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Polarity (VIP)",
-        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/3FYytbD70Bedz0Nwmsuqqq"
       },
       "artists": [
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
         }
       ],
-      "duration_ms": 202971,
-      "name": "Polarity - VIP",
-      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
+      "duration_ms": 226206,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR"
-      },
-      "artists": [
-        {
-          "name": "Murdock",
-          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Shaolin Fist",
         "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 241687,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR"
+      },
+      "artists": [
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
     },
     {
       "added_at": "2022-08-12 16:34:51",

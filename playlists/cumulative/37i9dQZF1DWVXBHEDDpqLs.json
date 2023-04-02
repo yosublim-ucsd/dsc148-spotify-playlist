@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Hector's Revenge",
+        "url": "https://open.spotify.com/album/3vt6iwhqMYXs1gh1sgLpRl"
+      },
+      "artists": [
+        {
+          "name": "GIDE\u00d6N",
+          "url": "https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452475,
+      "name": "Hector's Revenge",
+      "url": "https://open.spotify.com/track/7e9Rxyq7s3JMvGMQ3kWy3c"
+    },
+    {
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
       },
@@ -1794,6 +1812,24 @@
       "duration_ms": 173142,
       "name": "I Am In Love",
       "url": "https://open.spotify.com/track/3fNYguDH58u3AWRvS0cnj3"
+    },
+    {
+      "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151965,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
     },
     {
       "album": {
@@ -2246,7 +2282,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 209076,
       "name": "Let Me Catch My Breath - Baltimega Remix",
       "url": "https://open.spotify.com/track/31szi24yMz41kl2oz87mlW"
@@ -2422,7 +2458,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 187445,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4gMyCZA8aerwcDk6g4kpT0"

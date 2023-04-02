@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: MarSimba
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,538 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,596 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 13 | [3ini](https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [3ini](https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa) | 2:57 |
 | 14 | [Malouf Aloyoon](https://open.spotify.com/track/1iPfE8bCIqQWqkL1Pu6eN7) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Malouf Aloyoon](https://open.spotify.com/album/2Qb6m4mcj9PXwNBf7l0FI2) | 3:09 |
 | 15 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 |
-| 16 | [3arbouch](https://open.spotify.com/track/01CJo2bZ28t0rtcWxmfGfw) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/1xlz69ZMzryJjXvdJnpy0H) | 3:04 |
+| 16 | [3arbouch](https://open.spotify.com/track/6slVvRYiexG2Blm4RU9At4) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/7G3J5z5nemKZoHNnnLmq20) | 3:04 |
 | 17 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 18 | [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 |
 | 19 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 44 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 |
 | 45 | [T.G.B](https://open.spotify.com/track/3Bp2O0LofCjPLQHmFSJvo3) | [Dub Afrika](https://open.spotify.com/artist/3Ygncis5SCdY1uk31LZam6) | [Quarantine Session](https://open.spotify.com/album/4HHkBLxoKHxY956qTb0sOi) | 2:47 |
 | 46 | [Camarade](https://open.spotify.com/track/0CfObNLYtMjLl48C6mas3e) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Camarade](https://open.spotify.com/album/793etT1bYUi0QuQYKaXwjq) | 2:42 |
-| 47 | [A Ya Lil](https://open.spotify.com/track/1nRjVOFLduo55lFamOinIy) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A Ya Lil](https://open.spotify.com/album/6HyMqrphwTj72BhRE91Wmg) | 2:29 |
+| 47 | [A Ya Lil](https://open.spotify.com/track/6DkF2NbvUAPILTPGnxjDiJ) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A Ya Lil](https://open.spotify.com/album/5kf0fQha7lrWQrbYnSmP3t) | 2:29 |
 | 48 | [MaMuhim](https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [MaMuhim](https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1) | 3:43 |
 | 49 | [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 |
 | 50 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY4MDI1NjcwNSwwMDAwMDAwMGE1MjJmYTg3YjgyMTQ2ODAwNjdkZWVhY2Y2NjRmZmNi`
+Snapshot ID: `MTY4MDI1NjcwNSwwMDAwMDAwMDYzMWEyYWUzNmFiMTM3MzQzNzEwYzJmZjg5Mjk3M2Vj`

@@ -4,14 +4,16 @@
 
 > Afro culture mixed with Arab vibes\. Cover: MarSimba
 
-76 songs - 4 hr 8 min
+78 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3arbouch](https://open.spotify.com/track/01CJo2bZ28t0rtcWxmfGfw) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/1xlz69ZMzryJjXvdJnpy0H) | 3:04 | 2022-06-29 |  |
+| [3arbouch](https://open.spotify.com/track/01CJo2bZ28t0rtcWxmfGfw) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/1xlz69ZMzryJjXvdJnpy0H) | 3:04 | 2022-06-29 | 2023-04-02 |
+| [3arbouch](https://open.spotify.com/track/6slVvRYiexG2Blm4RU9At4) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/7G3J5z5nemKZoHNnnLmq20) | 3:04 | 2023-03-31 |  |
 | [3enek](https://open.spotify.com/track/6AaTlM8DYO8iT3DEeciiqh) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [3enek](https://open.spotify.com/album/7GeYslOHKhXrGf9rBwDnbf) | 3:33 | 2023-02-10 |  |
 | [3ini](https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [3ini](https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa) | 2:57 | 2022-06-29 |  |
-| [A Ya Lil](https://open.spotify.com/track/1nRjVOFLduo55lFamOinIy) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A Ya Lil](https://open.spotify.com/album/6HyMqrphwTj72BhRE91Wmg) | 2:29 | 2022-06-29 |  |
+| [A Ya Lil](https://open.spotify.com/track/1nRjVOFLduo55lFamOinIy) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A Ya Lil](https://open.spotify.com/album/6HyMqrphwTj72BhRE91Wmg) | 2:29 | 2022-06-29 | 2023-04-02 |
+| [A Ya Lil](https://open.spotify.com/track/6DkF2NbvUAPILTPGnxjDiJ) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A Ya Lil](https://open.spotify.com/album/5kf0fQha7lrWQrbYnSmP3t) | 2:29 | 2023-03-31 |  |
 | [Africa](https://open.spotify.com/track/2VQoGtt4uLmv5qTpei7BgB) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Africa](https://open.spotify.com/album/1fAwh435ehVSq2uEuNJsZb) | 3:43 | 2022-06-29 |  |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2022-06-29 |  |
 | [Allo Mama](https://open.spotify.com/track/0X3j7PKZYinokK4csqWKdZ) | [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Allo Mama](https://open.spotify.com/album/4eInwPKDlzgMU0c9s90UdV) | 3:05 | 2022-06-29 |  |

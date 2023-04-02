@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Faye Meana
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,552 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,548 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 32 | [Solomon The Rich Kid](https://open.spotify.com/track/59NCKlKK57HFKf639C6UGR) | [OMA](https://open.spotify.com/artist/6tcltBYoeWDm2P6NoawNIT) | [Solomon The Rich Kid](https://open.spotify.com/album/1eplwqrsZKc4rPnkSQtRDR) | 3:12 |
 | 33 | [I Neva Knew Dat](https://open.spotify.com/track/0IhBUYMq8Z7mZeqyavnyc0) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [I Neva Knew Dat](https://open.spotify.com/album/4qD3WZ4R4ZNWpLV3spSnZ5) | 1:55 |
 | 34 | [SE17](https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U), [Danny Chaska](https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP) | [SE17](https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC) | 3:22 |
-| 35 | [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 |
+| 35 | [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 |
 | 36 | [Sleep Forever](https://open.spotify.com/track/4BKHayZJtmyfm0NP8erXiC) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Sleep Forever](https://open.spotify.com/album/0aruNZwXtrYUShnQJtqf1b) | 3:07 |
 | 37 | [I Want You](https://open.spotify.com/track/64CWn4kbgfghtleoVRhnSJ) | [Ria Rua](https://open.spotify.com/artist/5MDQCswurtJyl1bigqfzki) | [I Want You](https://open.spotify.com/album/0TW1BwEEMw421oSTnkES3C) | 3:49 |
 | 38 | [Indigo](https://open.spotify.com/track/745SWQcnr66ty7jdI0p7Io) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Indigo](https://open.spotify.com/album/29xNyq5cem5oPVurNSBYcp) | 4:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Crash](https://open.spotify.com/track/0P67h44au1WSSt2zgDK5TY) | [Cristina Hart](https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn) | [Crash](https://open.spotify.com/album/4kH6ZdOrDpr5nfLrKQKQ5N) | 2:41 |
 | 80 | [Of Course You're Bored](https://open.spotify.com/track/4GcYZoxGrvsaIKeoh3jORW) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Of Course You're Bored](https://open.spotify.com/album/3HJtnL5U4lMzPIH1L4x0rE) | 3:03 |
 
-Snapshot ID: `MTY4MDA0NDQwMCwwMDAwMDAwMDBkMTMzOGNkODcwM2IxNmZmZWFiNmFkNGM1YTQ4ZDJl`
+Snapshot ID: `MTY4MDA0NDQwMCwwMDAwMDAwMDUzNjkyNjdkM2RlN2VlYmNlOTRhMjc0YjFmNDU2NzEy`

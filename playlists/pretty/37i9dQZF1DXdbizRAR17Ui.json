@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 155602,
+  "num_followers": 155648,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2MTYzNCwwMDAwMDAwMGZiM2M5MTJmMGY5NWFjNDA3ZDU5YWQ2YWYyY2YzNmJk",
+  "snapshot_id": "MTY3MzI2MTYzNCwwMDAwMDAwMDk5YTFhOGM2N2NiNWEzMDlhMGNkMjcwNzE2OTVhNzQ5",
   "tracks": [
     {
       "added_at": "2023-01-09 10:53:54",
@@ -855,22 +855,18 @@
     {
       "added_at": "2023-01-09 10:53:54",
       "album": {
-        "name": "Equals",
-        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
+        "name": "Late Nights",
+        "url": "https://open.spotify.com/album/6SOPHFF7NQR6x5FguplrrL"
       },
       "artists": [
         {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 286451,
-      "name": "Equals",
-      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
+      "duration_ms": 178664,
+      "name": "Late Nights",
+      "url": "https://open.spotify.com/track/2NWW0Y8DSLJyXN3NzjSnLh"
     }
   ],
   "unique_name": "4AM Chillout",

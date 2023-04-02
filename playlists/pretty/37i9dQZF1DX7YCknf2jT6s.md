@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: London Brew / Shabaka Hutchings
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,006 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,695 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 55 | [Lawd Why](https://open.spotify.com/track/39VnaoDW2jT2QuWQ3gk9j2) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Butcher Brown Presents Triple Trey](https://open.spotify.com/album/6KPa5VJzFraZ3RUZksMb23) | 3:25 |
 | 56 | [I Am The Walrus](https://open.spotify.com/track/7rs2rtBcpCH1PEUhapS3rE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 4:14 |
 | 57 | [Herbie’s Dance](https://open.spotify.com/track/7hesAzyUW6ObSHGqX2NUbx) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Herbie's Dance](https://open.spotify.com/album/1clnxwZjzbtYExWQXrdBhR) | 4:52 |
-| 58 | [Winter Sun](https://open.spotify.com/track/74dCXyyOhSZf3dKuNRSv5J) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Winter Sun](https://open.spotify.com/album/45wJuUPm0dFSoLnSP7ILGv) | 3:59 |
+| 58 | [Winter Sun](https://open.spotify.com/track/2CqtIFjoTHvvrULM3RdKtc) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Sunset Milk Tea](https://open.spotify.com/album/0OYidrC0U9oySFk0zTCaRq) | 3:59 |
 | 59 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 |
 | 60 | [Bone And Soil \- Shabaka Hutchings Remix](https://open.spotify.com/track/2j1IMbqrawYeu3pIvYaiX0) | [Chelsea Carmichael](https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Bone And Soil \(Shabaka Hutchings Remix\)](https://open.spotify.com/album/19WUrLjFlJdIGrjPTgfh9u) | 5:07 |
 | 61 | [Pash Rash](https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Pash Rash](https://open.spotify.com/album/6LG9QQHDTyZhtrjBaa9cPN) | 6:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Playing With Fire](https://open.spotify.com/track/346gVViqfzwcq7iy5mckIi) | [Jane Bunnett and Maqueque](https://open.spotify.com/artist/2YydgUGvEtKROYUAdcRPY9), [Jane Bunnett](https://open.spotify.com/artist/5e09vxGJza9YFmRVvCiFKB), [Maqueque](https://open.spotify.com/artist/2hHC4RiFmBNewOAWyRAepd) | [Playing With Fire](https://open.spotify.com/album/0gyhPuSxDzaGZ39E4epAqV) | 3:25 |
 | 100 | [Synapse](https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Synapse](https://open.spotify.com/album/0YW1Wqu4Wf7bmkkDuddSoP) | 4:30 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGMwY2MzN2MyNGJhY2I3NDZkYTNhYjUzMTg1N2EzOTM4`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGU2YTY5OWFmOTIzOWM0OTEyMzVjMjBhYWZlZDk5NWQ2`

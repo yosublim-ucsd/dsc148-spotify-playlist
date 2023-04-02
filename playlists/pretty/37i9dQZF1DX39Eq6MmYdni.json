@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera & Luis R Conriquez",
-  "num_followers": 3073,
+  "num_followers": 3161,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0Nzc1MCwwMDAwMDAwMDUwMmFhMDc2MzZhMWJlNTE0ZDMxOGFlYmU4NzMxYTQ1",
+  "snapshot_id": "MTY4MDI0Nzc1MCwwMDAwMDAwMDA0ODYxYmZmOTVjYzcyMTMxNzc3ZWY3YTFmNmFmZDM5",
   "tracks": [
     {
       "added_at": "2023-03-31 07:29:10",
@@ -87,26 +87,6 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
-    },
-    {
-      "added_at": "2023-03-31 07:29:10",
-      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+    },
+    {
+      "added_at": "2023-03-31 07:29:10",
+      "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -895,22 +895,22 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "Me gustas (En Vivo)",
-        "url": "https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1"
+        "name": "Lo Dice El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl"
       },
       "artists": [
         {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
         },
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Me gustas - En vivo",
-      "url": "https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca"
+      "duration_ms": 170600,
+      "name": "Lo Dice El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -931,22 +931,22 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "Lo Dice El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl"
+        "name": "Me gustas (En Vivo)",
+        "url": "https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1"
       },
       "artists": [
         {
-          "name": "La Nueva Estrategia",
-          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
         },
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 170600,
-      "name": "Lo Dice El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
+      "duration_ms": 184666,
+      "name": "Me gustas - En vivo",
+      "url": "https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca"
     }
   ],
   "unique_name": "Rompiendo: Texas",

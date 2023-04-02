@@ -810,6 +810,24 @@
     {
       "album": {
         "name": "Jamala Wlo",
+        "url": "https://open.spotify.com/album/5chTe8xi5I3qMnwJCtwYgW"
+      },
+      "artists": [
+        {
+          "name": "Hazem Al Sadeer",
+          "url": "https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331154,
+      "name": "Jamala Wlo",
+      "url": "https://open.spotify.com/track/1DHs8UmWWdjbCsbM7F4jZC"
+    },
+    {
+      "album": {
+        "name": "Jamala Wlo",
         "url": "https://open.spotify.com/album/41yRmWG9UsNU5pO25tmUaG"
       },
       "artists": [
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 219036,
       "name": "Ya Galbi Ya Al Taabane",
       "url": "https://open.spotify.com/track/1dXGlrKCVZLSZbnxSjrTNY"
@@ -1504,10 +1522,28 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-02",
       "duration_ms": 171240,
       "name": "Ya Wallo",
       "url": "https://open.spotify.com/track/2KRPs1wu9WyrTlh8Zubeh9"
+    },
+    {
+      "album": {
+        "name": "Ya Wallo",
+        "url": "https://open.spotify.com/album/0zgYVQ0iSDSCrknQn65skX"
+      },
+      "artists": [
+        {
+          "name": "Roro Harb",
+          "url": "https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "Ya Wallo",
+      "url": "https://open.spotify.com/track/3nDciOoTFeDd1wWfSh1hx0"
     },
     {
       "album": {

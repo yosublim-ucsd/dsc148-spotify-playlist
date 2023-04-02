@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Carlos Vives.
 
-885 songs - 2 day 4 hr 51 min
+886 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,7 +757,8 @@
 | [Te Tengo Que Colgar](https://open.spotify.com/track/7mlrQGbACpp5PtgQdQLpWu) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Te Tengo Que Colgar](https://open.spotify.com/album/1HsROrvuqMY4ElvJbr0T4y) | 4:08 | 2023-02-17 | 2023-03-04 |
 | [Te Toca](https://open.spotify.com/track/1adw2uT09DJZaEVelWI7fD) | [Combo Ginebra](https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2) | [Te Toca](https://open.spotify.com/album/6IxnBwsjpEQKYRbv318wzi) | 3:50 | 2022-06-03 | 2022-06-11 |
 | [Te Va a Doler](https://open.spotify.com/track/2qUBOipgnuYFQlUsmsnC2v) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Te Va a Doler](https://open.spotify.com/album/5sWk5X93PDwJvCrAEs6w5I) | 3:58 | 2022-09-30 | 2022-10-15 |
-| [Te Vas](https://open.spotify.com/track/6okr1j09w6bGHQNqHMv12l) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Vanina Hussein](https://open.spotify.com/artist/4cfOfh4dEjPIy4bUUTt7hu) | [Te Vas](https://open.spotify.com/album/4QdfBzwhUJg0Hgu6xyzCNK) | 3:46 | 2023-03-31 |  |
+| [Te Vas](https://open.spotify.com/track/6okr1j09w6bGHQNqHMv12l) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Vanina Hussein](https://open.spotify.com/artist/4cfOfh4dEjPIy4bUUTt7hu) | [Te Vas](https://open.spotify.com/album/4QdfBzwhUJg0Hgu6xyzCNK) | 3:46 | 2023-03-31 | 2023-04-02 |
+| [Te vas](https://open.spotify.com/track/1ImYr3aQJzEOF3gCa5xtAd) | [Vanina Hussein](https://open.spotify.com/artist/4cfOfh4dEjPIy4bUUTt7hu), [El Pepo](https://open.spotify.com/artist/50h9pAoTepeTn5TXxldZJW) | [Te vas](https://open.spotify.com/album/1V2sQ1OcfhBTtdzUo4caYW) | 3:46 | 2023-03-31 |  |
 | [Tengo Una Wacha](https://open.spotify.com/track/2qtpkNOrWjnpYXV3K25E8X) | [Rufus](https://open.spotify.com/artist/0o4auvReddtIe2jhGnHj8e), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF) | [Tengo Una Wacha](https://open.spotify.com/album/5XFEpjvZDHlRJJIEZ3Pc3j) | 2:40 | 2022-05-27 | 2022-06-11 |
 | [Tesoro](https://open.spotify.com/track/1Wakq6TJMEZGCJ99xW23lU) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Tesoro](https://open.spotify.com/album/7135vNimUAz5hmePw0CbVp) | 3:33 | 2023-01-13 | 2023-01-21 |
 | [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 | 2023-03-03 | 2023-03-18 |

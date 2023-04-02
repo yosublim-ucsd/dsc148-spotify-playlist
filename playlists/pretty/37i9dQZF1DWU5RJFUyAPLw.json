@@ -1,12 +1,12 @@
 {
   "description": "For all of us searching for that island life aesthetic. Relajados y disfrutando la vida.",
-  "num_followers": 2064,
+  "num_followers": 2114,
   "original_name": "Alma Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3ODg5NywwMDAwMDAwMDFjMTE0MjAyMzE4ZDQwNDQ3NTRjMjI1OWE2MDJmZTdh",
+  "snapshot_id": "MTY4MDI3ODg5NywwMDAwMDAwMGQ1NGEwM2Y3NjAxODQ3NjdmYTQ3ODE1NGQ2NjgzNzIw",
   "tracks": [
     {
       "added_at": "2023-03-31 16:08:16",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-31 16:08:16",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 169141,
-      "name": "Ciclo",
-      "url": "https://open.spotify.com/track/1lq2OOQB6ayaHvsbWZhtqQ"
-    },
-    {
-      "added_at": "2023-03-31 16:08:16",
-      "album": {
         "name": "Perreo Bonito",
         "url": "https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 187561,
       "name": "Perreo Bonito",
       "url": "https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea"
+    },
+    {
+      "added_at": "2023-03-31 16:08:16",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 169141,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/1lq2OOQB6ayaHvsbWZhtqQ"
     },
     {
       "added_at": "2023-03-31 16:08:16",
@@ -527,6 +527,26 @@
     {
       "added_at": "2023-03-31 16:08:16",
       "album": {
+        "name": "La Mirada",
+        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "La Mirada",
+      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
+    },
+    {
+      "added_at": "2023-03-31 16:08:16",
+      "album": {
         "name": "Aparato",
         "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 191915,
       "name": "Volero",
       "url": "https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv"
-    },
-    {
-      "added_at": "2023-03-31 16:08:16",
-      "album": {
-        "name": "La Mirada",
-        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "La Mirada",
-      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
     },
     {
       "added_at": "2023-03-31 16:08:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-31 16:08:16",
       "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 226658,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
-    },
-    {
-      "added_at": "2023-03-31 16:08:16",
-      "album": {
         "name": "S\u00ed",
         "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 158428,
       "name": "S\u00ed",
       "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
+    },
+    {
+      "added_at": "2023-03-31 16:08:16",
+      "album": {
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 226658,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
     },
     {
       "added_at": "2023-03-31 16:08:16",
@@ -787,18 +787,22 @@
     {
       "added_at": "2023-03-31 16:08:16",
       "album": {
-        "name": "estamos bien",
-        "url": "https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G"
+        "name": "tensi\u00f3n",
+        "url": "https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        },
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
         }
       ],
-      "duration_ms": 160866,
-      "name": "estamos bien",
-      "url": "https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C"
+      "duration_ms": 187657,
+      "name": "tensi\u00f3n",
+      "url": "https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T"
     },
     {
       "added_at": "2023-03-31 16:08:16",
@@ -819,22 +823,18 @@
     {
       "added_at": "2023-03-31 16:08:16",
       "album": {
-        "name": "tensi\u00f3n",
-        "url": "https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX"
+        "name": "estamos bien",
+        "url": "https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G"
       },
       "artists": [
         {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        },
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 187657,
-      "name": "tensi\u00f3n",
-      "url": "https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T"
+      "duration_ms": 160866,
+      "name": "estamos bien",
+      "url": "https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C"
     },
     {
       "added_at": "2023-03-31 16:08:16",

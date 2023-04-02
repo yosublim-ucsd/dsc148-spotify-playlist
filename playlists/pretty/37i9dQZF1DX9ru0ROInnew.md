@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,429 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,480 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 87 | [Robinson Cano](https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Robinson Cano](https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL) | 3:02 |
 | 88 | [All Star](https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [All Star](https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh) | 3:30 |
 | 89 | [La Calle](https://open.spotify.com/track/3ee5kkhVt22MCCOOkgvdx3) | [Filarmonick](https://open.spotify.com/artist/1I742yGdZ1y3EO5X6bKo0b), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [La Calle](https://open.spotify.com/album/1GaaDeoQbKR1VHPxiEiPWZ) | 4:01 |
-| 90 | [Shut Up](https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Shut Up](https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC) | 2:59 |
+| 90 | [Apreté el Botón](https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:29 |
 | 91 | [Hot Nigga](https://open.spotify.com/track/0sWJYzJtNgoR2zUShqT8Gy) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Hot Nigga](https://open.spotify.com/album/5ZhJHI0WF5YMB17klO9EAx) | 2:30 |
 | 92 | [Me Mata](https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Me Mata](https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI) | 6:52 |
 | 93 | [25/8](https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:03 |
@@ -123,10 +123,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 113 | [Me Llueven 3.0](https://open.spotify.com/track/7b59ZUw0TkGZuE0HNeiuc4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Me Llueven 3.0](https://open.spotify.com/album/2MnWwUaZTarBd6M11iXJ6Z) | 4:50 |
 | 114 | [Fulete](https://open.spotify.com/track/5fpyo29qRpzaj3jx6bMdCM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Fulete](https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs) | 3:46 |
 | 115 | [Activa](https://open.spotify.com/track/6N3eomntFWFEpEjhksxYvc) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Bendecido](https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV) | 3:41 |
-| 116 | [Apreté el Botón](https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:29 |
+| 116 | [Shut Up](https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Shut Up](https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC) | 2:59 |
 | 117 | [Relax](https://open.spotify.com/track/5dgyCduZdNCVJG8jU3uJvS) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Relax](https://open.spotify.com/album/52BxF5cqsBvNKWXW8NWyf3) | 3:26 |
 | 118 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MTY3MzI0NDg1MywwMDAwMDAwMDVjNDYwMzhlOWVjYjU0OTI3ZDg1ZTJlMzc3YzRhMDM5`
+Snapshot ID: `MTY3MzI0NDg1MywwMDAwMDAwMGEyY2RiYTdmYzYxZGQwOGM4Y2MxOGY3Zjk5MWYxOTE3`

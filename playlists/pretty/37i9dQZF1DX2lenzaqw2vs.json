@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Ptazeta",
-  "num_followers": 126506,
+  "num_followers": 126548,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4NzkxOCwwMDAwMDAwMGYyOWNjYWFkYWE0OTU4NTFhMGNiNDE3YTk1ZTBiZDEy",
+  "snapshot_id": "MTY4MDI4NzkxOCwwMDAwMDAwMDY5YmNmMDdmNGRmMDA1YWI2OTJkNjVhMTg0MzljYTJl",
   "tracks": [
     {
       "added_at": "2023-03-31 18:38:38",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-03-31 18:38:38",
       "album": {
+        "name": "La Respuesta",
+        "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 168015,
+      "name": "La Respuesta",
+      "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
+    },
+    {
+      "added_at": "2023-03-31 18:38:38",
+      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -411,22 +431,6 @@
     {
       "added_at": "2023-03-31 18:38:38",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
-    },
-    {
-      "added_at": "2023-03-31 18:38:38",
-      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
@@ -439,6 +443,22 @@
       "duration_ms": 174923,
       "name": "I Like 2 Be",
       "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
+    },
+    {
+      "added_at": "2023-03-31 18:38:38",
+      "album": {
+        "name": "i love you but this is goodbye",
+        "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6"
     },
     {
       "added_at": "2023-03-31 18:38:38",
@@ -547,8 +567,8 @@
     {
       "added_at": "2023-03-31 18:38:38",
       "album": {
-        "name": "i love you but this is goodbye",
-        "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
       },
       "artists": [
         {
@@ -556,25 +576,9 @@
           "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
         }
       ],
-      "duration_ms": 200000,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6"
-    },
-    {
-      "added_at": "2023-03-31 18:38:38",
-      "album": {
-        "name": "Maricoteca",
-        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 222543,
-      "name": "Maricoteca",
-      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
     },
     {
       "added_at": "2023-03-31 18:38:38",
@@ -639,6 +643,22 @@
       "duration_ms": 193870,
       "name": "A La Playa",
       "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
+    },
+    {
+      "added_at": "2023-03-31 18:38:38",
+      "album": {
+        "name": "Maricoteca",
+        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 222543,
+      "name": "Maricoteca",
+      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
     },
     {
       "added_at": "2023-03-31 18:38:38",
@@ -807,22 +827,6 @@
     {
       "added_at": "2023-03-31 18:38:38",
       "album": {
-        "name": "De Brujas, Peteneras y Chachalacas",
-        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
-      },
-      "artists": [
-        {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
-        }
-      ],
-      "duration_ms": 397520,
-      "name": "T\u00e9 de Malv\u00f3n",
-      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
-    },
-    {
-      "added_at": "2023-03-31 18:38:38",
-      "album": {
         "name": "Soy Un Bomb\u00f3n",
         "url": "https://open.spotify.com/album/1ZrKg7EXPJ787usjfGVzcY"
       },
@@ -839,18 +843,18 @@
     {
       "added_at": "2023-03-31 18:38:38",
       "album": {
-        "name": "Del Cibao",
-        "url": "https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG"
+        "name": "De Brujas, Peteneras y Chachalacas",
+        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
       "artists": [
         {
-          "name": "Willie Gomez",
-          "url": "https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At"
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Mojados",
-      "url": "https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9"
+      "duration_ms": 397520,
+      "name": "T\u00e9 de Malv\u00f3n",
+      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
     },
     {
       "added_at": "2023-03-31 18:38:38",
@@ -867,6 +871,22 @@
       "duration_ms": 189400,
       "name": "La isla de Lesbos",
       "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
+    },
+    {
+      "added_at": "2023-03-31 18:38:38",
+      "album": {
+        "name": "Del Cibao",
+        "url": "https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG"
+      },
+      "artists": [
+        {
+          "name": "Willie Gomez",
+          "url": "https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Mojados",
+      "url": "https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9"
     },
     {
       "added_at": "2023-03-31 18:38:38",
@@ -1023,6 +1043,26 @@
     {
       "added_at": "2023-03-31 18:38:38",
       "album": {
+        "name": "El Gran Var\u00f3n",
+        "url": "https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV"
+      },
+      "artists": [
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        },
+        {
+          "name": "La Brega",
+          "url": "https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp"
+        }
+      ],
+      "duration_ms": 290068,
+      "name": "El Gran Var\u00f3n",
+      "url": "https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y"
+    },
+    {
+      "added_at": "2023-03-31 18:38:38",
+      "album": {
         "name": "Shasei",
         "url": "https://open.spotify.com/album/2XhRtmtUVkOsBsXtPZkNKi"
       },
@@ -1131,42 +1171,6 @@
       "duration_ms": 193340,
       "name": "Buena Suerte Muchacha",
       "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
-    },
-    {
-      "added_at": "2023-03-31 18:38:38",
-      "album": {
-        "name": "La Foto X El WhatsApp",
-        "url": "https://open.spotify.com/album/0czDNz6Jlo6Zu7qUp6fjHI"
-      },
-      "artists": [
-        {
-          "name": "Blue Rojo",
-          "url": "https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "La Foto X El WhatsApp",
-      "url": "https://open.spotify.com/track/0K1Q1BotM1euCfc6AvpvWT"
-    },
-    {
-      "added_at": "2023-03-31 18:38:38",
-      "album": {
-        "name": "Pollo Frito",
-        "url": "https://open.spotify.com/album/5WEXzemUJZ1adpjutb33Q5"
-      },
-      "artists": [
-        {
-          "name": "Diamante Merybrown",
-          "url": "https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9"
-        },
-        {
-          "name": "Choriza May",
-          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
-        }
-      ],
-      "duration_ms": 165491,
-      "name": "Pollo Frito",
-      "url": "https://open.spotify.com/track/1U1cDL3SgAG4CC6pcX7hSO"
     }
   ],
   "unique_name": "BRILLO",

@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5531,
+  "num_followers": 5533,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTU5NywwMDAwMDAwMGQ5MTFkNTZhM2I0YzNjODc4NzgxZjZlYjBmZTE4MzJk",
+  "snapshot_id": "MTY3OTkwNTU5NywwMDAwMDAwMGMyYjE4MGVhZTgxZThhOGI5ZGNjM2EzNjdmY2EzYzQ0",
   "tracks": [
     {
       "added_at": "2023-03-27 08:26:37",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "White Snow",
-        "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "prettyhappy",
-          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "White Snow (feat. prettyhappy)",
-      "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "White Snow",
+        "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "prettyhappy",
+          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "White Snow (feat. prettyhappy)",
+      "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+        "name": "because I'm stupid?",
+        "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
       },
       "artists": [
         {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+          "name": "KIXO",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+      "duration_ms": 151453,
+      "name": "because I'm stupid?",
+      "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -523,6 +523,22 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -579,42 +595,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Bad words with KozyPop",
-        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        },
-        {
-          "name": "Housekeepers",
-          "url": "https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1"
-        }
-      ],
-      "duration_ms": 197687,
-      "name": "Bad words",
-      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
-        "name": "because I'm stupid?",
-        "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
-      },
-      "artists": [
-        {
-          "name": "KIXO",
-          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "because I'm stupid?",
-      "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Used",
         "url": "https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 233117,
       "name": "Used",
       "url": "https://open.spotify.com/track/1ihB9RzGn3IrdnsHZ2e7qv"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "Bad words with KozyPop",
+        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Housekeepers",
+          "url": "https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1"
+        }
+      ],
+      "duration_ms": 197687,
+      "name": "Bad words",
+      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Go Back \uc9d1\uc5d0",
+      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
         "name": "Wouldn't have",
         "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 240000,
       "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
       "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Go Back \uc9d1\uc5d0",
-      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
     },
     {
       "added_at": "2023-03-27 08:26:37",

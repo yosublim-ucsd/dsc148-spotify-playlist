@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-394 songs - 23 hr 18 min
+395 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 |  |
 | [Menteuse](https://open.spotify.com/track/5c48Kqk8la8I8EjugIDdrF) | [Andromède](https://open.spotify.com/artist/5h1tsxylgwuGvYdyPOEHQy) | [Andromède](https://open.spotify.com/album/26P6KIVuLYtFNyQGiMnXZx) | 4:01 | 2021-09-13 | 2021-09-24 |
 | [Merci de rien](https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Merci de rien](https://open.spotify.com/album/0DP8QzBD2f8oQESLiukLVE) | 3:11 | 2021-08-14 | 2022-07-25 |
-| [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 | 2022-07-08 |  |
+| [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 | 2022-07-08 | 2023-04-02 |
 | [Mille et un](https://open.spotify.com/track/4zxigPiHkizg6tHTDkC8GW) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Mille et un \- Single](https://open.spotify.com/album/2IIFewmPDob11DbgFCE7kq) | 3:34 | 2021-01-15 | 2022-07-29 |
 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 | 2021-01-15 | 2022-07-29 |
 | [Mille requiems](https://open.spotify.com/track/5R8pIhrZExMhSN6L1kb4zC) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [2004\-2019 Point Picot](https://open.spotify.com/album/5sNqgXko9G1IC8lIGJ718D) | 3:06 | 2021-01-18 | 2021-11-07 |
@@ -373,6 +373,7 @@
 | [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 | 2021-10-03 |  |
 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 | 2021-12-17 |  |
 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 | 2021-01-03\* |  |
+| [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 |  |
 | [Understand It](https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:40 | 2022-07-08 |  |
 | [Understand It](https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:40 | 2021-10-02 | 2022-07-29 |
 | [une minute](https://open.spotify.com/track/4SKr92Xfu1wUKoU9pC9FcP) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 4:08 | 2021-01-03\* | 2022-01-29 |

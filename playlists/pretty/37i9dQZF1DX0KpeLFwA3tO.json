@@ -1,6 +1,6 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Connie Constance ft. Jason Williamson",
-  "num_followers": 282700,
+  "num_followers": 282793,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
@@ -52,7 +52,7 @@
       },
       "artists": [
         {
-          "name": "be your own PET",
+          "name": "be your own pet",
           "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
         }
       ],
@@ -778,6 +778,10 @@
         {
           "name": "Sleaford Mods",
           "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
         }
       ],
       "duration_ms": 225179,
@@ -1814,6 +1818,10 @@
         {
           "name": "Sleaford Mods",
           "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        },
+        {
+          "name": "Florence Shaw",
+          "url": "https://open.spotify.com/artist/5PGw6aGfWBvSRnOZif7K84"
         }
       ],
       "duration_ms": 204895,

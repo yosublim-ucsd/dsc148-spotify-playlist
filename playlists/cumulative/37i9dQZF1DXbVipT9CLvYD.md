@@ -4,7 +4,7 @@
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-67 songs - 4 hr 34 min
+68 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Kalasala Kalasala](https://open.spotify.com/track/2PcgMmmhIZA83kwIYEjR8f) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [L\. R\. Eswari](https://open.spotify.com/artist/4tGWdSKKqKmaVQogfAFnlx), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Solar Sai](https://open.spotify.com/artist/36IO5ItRvRUxC7RcJAv0Zh) | [Osthe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yfStC7OGYcfFJzGmsyLpy) | 4:11 | 2021-11-15 |  |
 | [Kamala \(From "Sangathamizhan"\)](https://open.spotify.com/track/1kYbzrE1jipOzPwVpPFv4t) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Kamala \(From "Sangathamizhan"\)](https://open.spotify.com/album/4XTm7ZXrJl6Nn51E3V61E1) | 3:59 | 2021-11-15 |  |
 | [Kannitheevu Ponna](https://open.spotify.com/track/7qEHrdtSLnFdNOrRtLmN30) | [K](https://open.spotify.com/artist/2XP6sMIt93QYAb3mrkl2Hy), [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Yuddham Sei \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RgEBwheMHo03p9larEywp) | 4:34 | 2021-11-15 |  |
-| [Karabuu](https://open.spotify.com/track/7FhQSpPqpPkqcx7bVee0LJ) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Sema Thimiru](https://open.spotify.com/album/6BdORdqfYz9YcPsJnrD2gG) | 3:38 | 2021-11-15 |  |
+| [Karabuu](https://open.spotify.com/track/3cmhqa4DetZfW15xkglTeI) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Sema Thimiru](https://open.spotify.com/album/3OWDUlbIdW19QO20oq827h) | 3:38 | 2021-11-15 |  |
+| [Karabuu](https://open.spotify.com/track/7FhQSpPqpPkqcx7bVee0LJ) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Sema Thimiru](https://open.spotify.com/album/6BdORdqfYz9YcPsJnrD2gG) | 3:38 | 2021-11-15 | 2023-04-02 |
 | [Karuthavanlaam Galeejaam](https://open.spotify.com/track/22cCckQ9DR4E94QhtUzSW3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:28 | 2021-11-15 |  |
 | [Kuchi Mittai](https://open.spotify.com/track/57nldabnSPgRfGNFyddITw) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Aranmanai 2 \- EP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4c5FnCEdOWZrCEAvBQGcms) | 4:11 | 2021-11-15 |  |
 | [Lalaa Kadai Saanthi](https://open.spotify.com/track/3n2WA6kTQMaXMSN6uRsSuv) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Saravanan Irukka Bayamaen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15YFyVaiQd5kH9JGgr673R) | 5:01 | 2021-11-15 |  |

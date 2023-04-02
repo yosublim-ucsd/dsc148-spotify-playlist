@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrating International Transgender Day of Visibility\. Learn more and support <a href="http://spotify.com/transvisibility">here.</a> Cover: TAAHLIAH
+> <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: TAAHLIAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,842 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,627 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 51 | [Comin' Down](https://open.spotify.com/track/5lwgXDaffa5wv0eoqnvg4q) | [Jackie Shane](https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx) | [Any Other Way](https://open.spotify.com/album/6sE9dYVDO9KaLcgYmIqT8B) | 2:37 |
 | 52 | [Aquelarre](https://open.spotify.com/track/4MRGITvgIOVUwCddbdH3m6) | [Roma Roldan](https://open.spotify.com/artist/7d38r99lwUTBD0yWufd5BH) | [Todo Lo Que Toca la Luz](https://open.spotify.com/album/6w5X2QVlk4OGN2yE0SPJCW) | 3:30 |
 
-Snapshot ID: `MTY4MDI2NTU3MSwwMDAwMDAwMGE4OTI2NDliMDYwZWZkMWRhZTBkMDBhMmM2ZWUzNDg0`
+Snapshot ID: `MTY4MDM0MTUzNywwMDAwMDAwMGU3NmI1YWRiYzU5NmIxZmY1YTEwNjRiMjAzMjAyYmRj`

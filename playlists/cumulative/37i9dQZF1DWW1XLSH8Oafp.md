@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Nia Archives
 
-569 songs - 1 day 8 hr 45 min
+572 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [BLOOD SUPERNOVA](https://open.spotify.com/track/335asThakDPPTHFVxMEeDn) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [BLOOD SUPERNOVA](https://open.spotify.com/album/4cnfIsqfpYz51KPKZUG07m) | 3:58 | 2022-06-24 | 2022-08-06 |
 | [Bloodrave](https://open.spotify.com/track/7o6xRFPRYBVcoI7NnBGlbn) | [TRANCEMAN2000](https://open.spotify.com/artist/6s9u44nih7GcT9kXBqM2Xr) | [001](https://open.spotify.com/album/41on8glM4XHdCbjvncuBwQ) | 6:33 | 2022-11-03 |  |
 | [Blue Racecar](https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Blue Racecar](https://open.spotify.com/album/3l6rBN7m3rj2qZRim5tk1V) | 3:32 | 2021-10-29 | 2022-04-16 |
+| [bluefairy](https://open.spotify.com/track/4EF0sD3FSWxf6w5VOuoQir) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:51 | 2023-04-01 |  |
 | [Bluff](https://open.spotify.com/track/5P5xuOwnMwaTY38yT8laSl) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Bluff](https://open.spotify.com/album/0n7tJPogMxhFS8YNTFlF5l) | 3:07 | 2022-04-01 | 2022-10-01 |
 | [Bluff \- yeule & Kin Leonn Remix](https://open.spotify.com/track/45rqRN1h6iNDMIAb0idSjQ) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK) | [Bluff \(yeule & Kin Leonn Remix\)](https://open.spotify.com/album/53gadAfcSnos0A24W747L3) | 2:55 | 2022-07-21 | 2022-09-03 |
 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 | 2023-02-03 |  |
@@ -304,6 +305,7 @@
 | [Laylo](https://open.spotify.com/track/6VbC42nxXJIQQoRXu743ie) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Laylo](https://open.spotify.com/album/7Gi6fUYFXvE5VRqxecdl30) | 3:04 | 2021-11-12 | 2022-04-16 |
 | [Let It Ride](https://open.spotify.com/track/3QYeBUd9Dqpip2kTuECDQ3) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Let It Ride](https://open.spotify.com/album/5Bm5JGpEgYEzAAwqVjm2xQ) | 2:14 | 2022-08-26 | 2022-10-29 |
 | [Let Your Body Fly](https://open.spotify.com/track/2c38TS3oYyfLe7jkLFG9A7) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Let Your Body Fly](https://open.spotify.com/album/4wAkaATekumMTY6DcuthG8) | 4:40 | 2022-08-12 |  |
+| [Levitate](https://open.spotify.com/track/6s1QzH32RMY4N7ybU5EPyr) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [BACK TO 123](https://open.spotify.com/album/4jkbFNTQYE2Yd8yxK8G6q8) | 8:12 | 2023-04-01 |  |
 | [Licorice \(Remix\)](https://open.spotify.com/track/3NDO1bobrUKwLlUSbkYlSI) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Licorice \(Remix\)](https://open.spotify.com/album/1OdOLOrBQ0KmX4fBgT2teI) | 3:29 | 2022-01-07 | 2022-02-28 |
 | [Life's Unease](https://open.spotify.com/track/6Rlg5kqnGRVOMaXCdWBN4m) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Life's Unease](https://open.spotify.com/album/515w0KVMxgpzt7APQ7rCFc) | 5:15 | 2022-08-12 | 2022-08-20 |
 | [LiiTE\_13\-37 w/ iglooghost](https://open.spotify.com/track/0uTrVniKqic1122qBJOjkg) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [LiiTE\_13\-37 w/ iglooghost](https://open.spotify.com/album/3WBeZU1u2MIKiK0jrwANcu) | 2:52 | 2022-05-06 | 2022-11-12 |
@@ -472,6 +474,7 @@
 | [Soma](https://open.spotify.com/track/7KQ6WnRzf34MrwcFLpgO6k) | [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg), [Quit Life](https://open.spotify.com/artist/131d0lUjgpK3wqNziktPge) | [365](https://open.spotify.com/album/3UO9TX6RwGywlkQcGIoWq8) | 3:35 | 2022-02-25 | 2022-03-24 |
 | [Something Real](https://open.spotify.com/track/58NhjNniLzv9moIlOzPQGp) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Something Real](https://open.spotify.com/album/0KR14TOAs6EAoe0zjMDyQR) | 2:13 | 2022-08-12 | 2022-08-27 |
 | [souldive](https://open.spotify.com/track/1PJFSfRoIQiHksG7636sEY) | [tenshi](https://open.spotify.com/artist/16WeQsKRT4Og5OwoKhxzew) | [souldive](https://open.spotify.com/album/0iXrrCuFFrWGbmS4M5MRdd) | 2:38 | 2022-08-26 | 2022-12-03 |
+| [SPACE](https://open.spotify.com/track/23xGmh17xCrsZDHi9Ea2xW) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [SPACE](https://open.spotify.com/album/3s1X1WGDClisuZJBSuuKJY) | 3:25 | 2023-04-01 |  |
 | [Spirit\_X](https://open.spotify.com/track/7aHEhFhBG0qOrMUFOlfsXB) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Spirit\_X](https://open.spotify.com/album/4GnSpgidm9p4n0uMYWMM8R) | 3:17 | 2021-07-23 | 2022-01-22 |
 | [Spurv Edit](https://open.spotify.com/track/68qDQcs31pJBfFAf8hc5if) | [AL\-90](https://open.spotify.com/artist/5Um9iF4JwwEyx5K5TW4uE8) | [Murmansk\-60](https://open.spotify.com/album/50VEvhARoZcXhW3FXZvTar) | 2:48 | 2022-02-11 | 2022-03-12 |
 | [star](https://open.spotify.com/track/3APRtJ612KjQ0GfU7b8ZqG) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [star](https://open.spotify.com/album/4iAtPukcN2ergkdoZlXSvB) | 1:59 | 2023-02-27 |  |

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Lebanon.
 
-81 songs - 4 hr 48 min
+85 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bukra Ahla](https://open.spotify.com/track/1XY2yjkH0QlflcX3cp3j5f) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/6g3GiO6nDZm1yQWPyuXUsB) | 2:40 | 2022-04-12 |  |
 | [Bukra Ahla](https://open.spotify.com/track/52XkiamJRqW7uFLoJkCMLk) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/7AtI3mqZDFTInh0Y6YbJA5) | 2:40 | 2021-09-10 | 2022-07-29 |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2021-09-10 |  |
-| [El Gharam](https://open.spotify.com/track/0dwZqQiIwv2di8DU4S0DTc) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf), [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [El Gharam](https://open.spotify.com/album/4ClOMPFeRbiVFOhBVCTcoX) | 3:59 | 2021-09-10 |  |
+| [El Gharam](https://open.spotify.com/track/4ftJYQr9ulW9FqvAEwkCLE) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf) | [El Gharam](https://open.spotify.com/album/1JwJeplulq3fthyojYDqQG) | 3:59 | 2023-03-13 |  |
+| [El Gharam](https://open.spotify.com/track/0dwZqQiIwv2di8DU4S0DTc) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf), [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [El Gharam](https://open.spotify.com/album/4ClOMPFeRbiVFOhBVCTcoX) | 3:59 | 2021-09-10 | 2023-04-02 |
 | [El Hob El Hob](https://open.spotify.com/track/4q1zwkAWuwTvJe10jxWuif) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [El Hob El Hob](https://open.spotify.com/album/1z65J61oSJOskywPbemr1y) | 3:38 | 2021-09-10 |  |
 | [ELO](https://open.spotify.com/track/3ZLzz3CIWOeghYwN9aWCBD) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [ELO](https://open.spotify.com/album/5dngGgMTnQ1vbdW0yOX8iB) | 2:27 | 2022-04-12 |  |
 | [Elo](https://open.spotify.com/track/6IJdUqvldDnOaRVqMCPY9D) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Elo](https://open.spotify.com/album/7nbfI0lzQRq64nZqxrZ7kI) | 2:27 | 2021-09-10 | 2022-07-29 |
@@ -42,8 +43,10 @@
 | [Ishtaktilak Wallah](https://open.spotify.com/track/65l3L3vZD4hDyNAe55dNxq) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Ishtaktilak Wallah](https://open.spotify.com/album/45ZM28kpEYZ7qBX0hN7MaS) | 2:18 | 2022-04-12 |  |
 | [Jayi Twadaani](https://open.spotify.com/track/0s9zNzQwbvVBKOz59waIn8) | [Michel Azzi](https://open.spotify.com/artist/0OGecBiSJW5Bqnx76w3uQC) | [Jayi Twadaani](https://open.spotify.com/album/2qEnwq70xXdHj9dlWXUQ4Z) | 3:43 | 2022-04-12 |  |
 | [Jayi Twadaani](https://open.spotify.com/track/4nXaJZ44cYmrqw3wEcLO0P) | [Michel Azzi](https://open.spotify.com/artist/0OGecBiSJW5Bqnx76w3uQC) | [Jayi Twadaani](https://open.spotify.com/album/7BK4jT9WCvrh6QxVcikKFA) | 3:43 | 2021-09-10 | 2022-07-29 |
-| [Kelon Ye3ni Kelon](https://open.spotify.com/track/5Nm6fLUqjlezBbWdiFzXtR) | [Siba Band](https://open.spotify.com/artist/2Vw08vHBOkjNobnhfvWOp5) | [Kelon Ye3ni Kelon](https://open.spotify.com/album/5TkCFp70S3kdp40H23M0pp) | 3:03 | 2021-09-10 |  |
-| [Kena Mbareh](https://open.spotify.com/track/6eP94cdmJTegkGwsgJSjEV) | [Moeen Shreif](https://open.spotify.com/artist/1EKUd22YubzgCoqFpGKLra), [Ayman Reda](https://open.spotify.com/artist/5NkJNj758E7b5cOe7LDONy) | [Kena Mbareh](https://open.spotify.com/album/4iAUKFGbNeiVqZhSnyq8Fu) | 4:19 | 2022-04-12 |  |
+| [Kelon Ye3ni Kelon](https://open.spotify.com/track/5Nm6fLUqjlezBbWdiFzXtR) | [Siba Band](https://open.spotify.com/artist/2Vw08vHBOkjNobnhfvWOp5) | [Kelon Ye3ni Kelon](https://open.spotify.com/album/5TkCFp70S3kdp40H23M0pp) | 3:03 | 2021-09-10 | 2023-04-02 |
+| [Kelon Ye3ni Kelon](https://open.spotify.com/track/6BLFDob2dN2WxL5tbwnOWJ) | [Siba Band](https://open.spotify.com/artist/2Vw08vHBOkjNobnhfvWOp5) | [Kelon Ye3ni Kelon](https://open.spotify.com/album/2RpfHBfp80wIMjmxvL181W) | 3:04 | 2023-03-13 |  |
+| [Kena Mbareh](https://open.spotify.com/track/4ZcR782SadOknhu9VkqLcQ) | [Moeen Shreif](https://open.spotify.com/artist/1EKUd22YubzgCoqFpGKLra), [Ayman Reda](https://open.spotify.com/artist/5NkJNj758E7b5cOe7LDONy) | [Kena Mbareh](https://open.spotify.com/album/4tsVvC8lh9l5DIjPDSWKlH) | 4:19 | 2023-03-13 |  |
+| [Kena Mbareh](https://open.spotify.com/track/6eP94cdmJTegkGwsgJSjEV) | [Moeen Shreif](https://open.spotify.com/artist/1EKUd22YubzgCoqFpGKLra), [Ayman Reda](https://open.spotify.com/artist/5NkJNj758E7b5cOe7LDONy) | [Kena Mbareh](https://open.spotify.com/album/4iAUKFGbNeiVqZhSnyq8Fu) | 4:19 | 2022-04-12 | 2023-04-02 |
 | [Kholis el Haki](https://open.spotify.com/track/5gORNisMgTz7z2Sxqng6JJ) | [Nicolas Chalhoub](https://open.spotify.com/artist/0rBsrmamReDOZGGUgCmpm9) | [Kholis el Haki](https://open.spotify.com/album/5qi7vhQulc5UlhcLQj3K7l) | 4:15 | 2022-04-12 |  |
 | [Kholis El Haki](https://open.spotify.com/track/3nCwArP9i2vxO0mjp72RDO) | [Nicolas Chalhoub](https://open.spotify.com/artist/0rBsrmamReDOZGGUgCmpm9) | [Kholis El Haki](https://open.spotify.com/album/5H6pL8myl7hA3JmOF1exQv) | 4:15 | 2021-09-10 | 2022-07-29 |
 | [Khserna Baad](https://open.spotify.com/track/2UOopL3Y405ruJyMzJcdWD) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Khserna Baad](https://open.spotify.com/album/5NMUAheYIMftIgJtAlPIcE) | 3:07 | 2022-04-12 |  |
@@ -69,7 +72,8 @@
 | [Nater](https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Nater](https://open.spotify.com/album/09UgMkfwxSfc2Ua3t1MhOf) | 3:24 | 2021-09-10 | 2022-07-29 |
 | [Nater](https://open.spotify.com/track/3xGfWGr12b6j86gUmhwesD) | [Aziz](https://open.spotify.com/artist/4juIELxFGt6YwXdpzGB69c), [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Nater](https://open.spotify.com/album/4zaWHh2zDRzOvC5ZhqOiDq) | 3:24 | 2022-04-12 |  |
 | [Nazele Big Champagne](https://open.spotify.com/track/3y6b0RXNW5edjwLxdvojMB) | [Blu Fiefer](https://open.spotify.com/artist/2JLEPctdP7utmaEBfRhK6H) | [Nazele Big Champagne](https://open.spotify.com/album/4d2GiRstJ8mVIMjtSwTRYb) | 2:30 | 2023-02-24 |  |
-| [Nehna Sawa](https://open.spotify.com/track/6vtvZ8XWCMpZu5e99Gyk8u) | [Adam](https://open.spotify.com/artist/4erzgk1ORABnHn0lhMf9Oo) | [Nehna Sawa](https://open.spotify.com/album/3toWTCcHZV03p4PG2aXzxr) | 3:35 | 2021-09-10 |  |
+| [Nehna Sawa](https://open.spotify.com/track/6vtvZ8XWCMpZu5e99Gyk8u) | [Adam](https://open.spotify.com/artist/4erzgk1ORABnHn0lhMf9Oo) | [Nehna Sawa](https://open.spotify.com/album/3toWTCcHZV03p4PG2aXzxr) | 3:35 | 2021-09-10 | 2023-04-02 |
+| [Nehna Sawa](https://open.spotify.com/track/6xlLV6mQYoeTPQfJHrhLVm) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Nehna Sawa](https://open.spotify.com/album/41yq2j3UuFKSNdr9PAPQWn) | 3:35 | 2023-03-13 |  |
 | [Sa Ahlomu](https://open.spotify.com/track/1HSnooSIVUi7P2x9qWIQm0) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Golden Album](https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D) | 3:16 | 2023-03-13 |  |
 | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/track/6FNqHsMLo0M9xh5zAygqRo) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/album/3C5WDsRahXqn1rCMj7Rm5e) | 1:31 | 2021-09-10 |  |
 | [Sakat El Warak](https://open.spotify.com/track/6WVXAAOsu7Jg37jBTp1gJl) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Sakat El Warak](https://open.spotify.com/album/3pm7fVcs0XheAw7HqOik6O) | 3:59 | 2021-09-10 |  |

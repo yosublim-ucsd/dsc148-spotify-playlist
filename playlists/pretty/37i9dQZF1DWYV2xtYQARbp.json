@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 10839,
+  "num_followers": 10857,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMGRhOWRkNGNhMTQ0MTIxODQ5YjUxYjIzNzY2ZWRiMGY5",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMGZkY2VjOGJhY2Y5OTM3NjU2OWM4YzVlMDBmMTQ3ZjVi",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Moanin'",
-        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
       "artists": [
         {
-          "name": "Mr. Airplane Man",
-          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
         }
       ],
-      "duration_ms": 210233,
-      "name": "Commit a Crime",
-      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
+      "duration_ms": 177546,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+        "name": "Moanin'",
+        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
       },
       "artists": [
         {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+          "name": "Mr. Airplane Man",
+          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
         }
       ],
-      "duration_ms": 177546,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
+      "duration_ms": 210233,
+      "name": "Commit a Crime",
+      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "14 Frenzied Shakers",
-        "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
-      },
-      "artists": [
-        {
-          "name": "Les Sexareenos",
-          "url": "https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "(Oh Mom) Teach Me How to Uncle Willy",
-      "url": "https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "On Fyre",
         "url": "https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 265973,
       "name": "Trying Just to Please You",
       "url": "https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "14 Frenzied Shakers",
+        "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
+      },
+      "artists": [
+        {
+          "name": "Les Sexareenos",
+          "url": "https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4"
+        }
+      ],
+      "duration_ms": 154386,
+      "name": "(Oh Mom) Teach Me How to Uncle Willy",
+      "url": "https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj"
     },
     {
       "added_at": "2022-03-28 20:14:58",

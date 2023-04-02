@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 259378,
+  "num_followers": 259427,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDJkMGMyNDU2YWE4ZjFmZmRjNTllMTNjYjAxYzNhNjJm",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDNiN2Y0NDFkNTNkMzJjZTNmNjc0NDQxNDYyNjNmZjA0",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Coincidir",
-        "url": "https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH"
-      },
-      "artists": [
-        {
-          "name": "Mexicanto",
-          "url": "https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/1NgiBYC45f7FnOCoAFV19o"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 147720,
       "name": "Una Palabra",
       "url": "https://open.spotify.com/track/4SzeAxQemtMGRIiQc7gNYq"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Coincidir",
+        "url": "https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH"
+      },
+      "artists": [
+        {
+          "name": "Mexicanto",
+          "url": "https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -419,18 +419,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "El Cartero",
-        "url": "https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW"
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
       "artists": [
         {
-          "name": "Carlos Mac\u00edas",
-          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
         }
       ],
-      "duration_ms": 263440,
-      "name": "Divina T\u00fa",
-      "url": "https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC"
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
     },
     {
       "added_at": "2022-01-11 03:05:13",
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Silvio Rodriguez y Pablo Milanes",
-        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+        "name": "El Cartero",
+        "url": "https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW"
       },
       "artists": [
         {
-          "name": "Silvio Rodriguez and Pablo Milanes",
-          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+          "name": "Carlos Mac\u00edas",
+          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Te Doy Una Cancion",
-      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
+      "duration_ms": 263440,
+      "name": "Divina T\u00fa",
+      "url": "https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -555,8 +555,8 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Discograf\u00eda en Castellano",
-        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
+        "name": "Serrat En Directo",
+        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 205226,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
+      "duration_ms": 196200,
+      "name": "Cantares - En Directo",
+      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -655,8 +655,8 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Serrat En Directo",
-        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+        "name": "Discograf\u00eda en Castellano",
+        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Cantares - En Directo",
-      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
+      "duration_ms": 205226,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Quiero Cantar",
+        "url": "https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+        },
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Tan Distintos (feat. Edgar Oceransky)",
+      "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Escucha a Gerardo Pablo",
         "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
       },
@@ -1059,6 +1079,22 @@
       "duration_ms": 170813,
       "name": "Los Grillos",
       "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Alfonsina Y El Mar",
+        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1079,22 +1115,6 @@
       "duration_ms": 272042,
       "name": "Hoy Como Ayer",
       "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Alfonsina Y El Mar",
-        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1139,22 +1159,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santiago",
-          "url": "https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Obsceno",
-      "url": "https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw"
       },
@@ -1167,6 +1171,22 @@
       "duration_ms": 201743,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/2PptHH46AdfiLRh4964cch"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santiago",
+          "url": "https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Obsceno",
+      "url": "https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1187,38 +1207,6 @@
       "duration_ms": 239717,
       "name": "A mi lado (feat. Francisco Cespedes)",
       "url": "https://open.spotify.com/track/5eubGbNorchqAX1NOFgglU"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Coincidir",
-        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
-      },
-      "artists": [
-        {
-          "name": "Alberto Escobar",
-          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Tres De Copas",
-        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
-      },
-      "artists": [
-        {
-          "name": "Tres de Copas",
-          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Hasta Donde tu vayas",
-      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1251,6 +1239,38 @@
       "duration_ms": 194680,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Coincidir",
+        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
+      },
+      "artists": [
+        {
+          "name": "Alberto Escobar",
+          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Tres De Copas",
+        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
+      },
+      "artists": [
+        {
+          "name": "Tres de Copas",
+          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Hasta Donde tu vayas",
+      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1359,6 +1379,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Noche Sin Fin y Mar",
+        "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 184968,
+      "name": "Noche Sin Fin y Mar",
+      "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1379,22 +1415,6 @@
       "duration_ms": 259066,
       "name": "Espectro",
       "url": "https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Noche Sin Fin y Mar",
-        "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 184968,
-      "name": "Noche Sin Fin y Mar",
-      "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1655,26 +1675,6 @@
       "duration_ms": 231897,
       "name": "Viene la Cosa",
       "url": "https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 1 (En Directo)",
-        "url": "https://open.spotify.com/album/5G2BgAImOmJ6lSc2UtpSlm"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Tan Distintos - En Directo",
-      "url": "https://open.spotify.com/track/7gzVEILbAdE3NwJt2XdFJf"
     },
     {
       "added_at": "2022-01-11 03:05:13",
