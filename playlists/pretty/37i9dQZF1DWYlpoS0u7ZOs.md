@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Boy Bleach
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,761 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,759 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 27 | [Bigger Than Anything Ever](https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Bigger Than Anything Ever](https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm) | 3:00 |
 | 28 | [good boys remember well](https://open.spotify.com/track/4syzVAkmE49hs9WjY7j0o7) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [good boys remember well](https://open.spotify.com/album/1m7ZzHsSp6EqucLAt57O3S) | 3:08 |
 | 29 | [A Sudden Loss of Vision](https://open.spotify.com/track/02vlqHSIMCznQmjoC84p41) | [Building Giants](https://open.spotify.com/artist/4geUnENr5Fi084oCQrhukM) | [Life Is Long and Everything Is Terrible](https://open.spotify.com/album/1L9Op4qXyO9bTJ5WL8KTp7) | 4:52 |
-| 30 | [Are You Diagnosed?](https://open.spotify.com/track/3BXTJdDGc6DnAUFrqHQCC1) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Are You Diagnosed?](https://open.spotify.com/album/2stzbaDdGD3NjWOxtyl2QT) | 3:34 |
+| 30 | [Are You Diagnosed?](https://open.spotify.com/track/1ZLRZUQQ3yGnSQAg9V3NTm) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Hookey](https://open.spotify.com/album/7KknC9RikxSrgFy83Kv6Dj) | 3:34 |
 | 31 | [The Weight of It All](https://open.spotify.com/track/6E7trHVQxQsH6Ve3spYZyv) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [The Weight of It All](https://open.spotify.com/album/3eRxuVGr0PVyugK1L7MXa5) | 3:40 |
 | 32 | [Fast Cars \(and Movie Stars\)](https://open.spotify.com/track/6euhZEz9DZVQMMGvVd7BL0) | [Tina Sandwich](https://open.spotify.com/artist/02OtGA9A0NKICOB9QZ4zc9) | [Fast Cars \(and Movie Stars\)](https://open.spotify.com/album/6CcN98WZ9dueLWi694Nw7K) | 3:18 |
 | 33 | [National Anthem](https://open.spotify.com/track/2UAGD9GfTHpJn3JqM8Aa4h) | [CLARENCE & THE MODERN LIFE](https://open.spotify.com/artist/0MiuRwwqb3aTIrhUolEMVP) | [National Anthem](https://open.spotify.com/album/7v8P6o5HvlT9nTGPvn7hsz) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [HALLELUJAH KID](https://open.spotify.com/track/0YMldYHUAVZgdK1JJCRDnC) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [HALLELUJAH KID](https://open.spotify.com/album/7dh11jHNxLEQKdvlBZhOR0) | 3:18 |
 | 80 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 |
 
-Snapshot ID: `MTY3OTYxNjAwMCwwMDAwMDAwMDMxZjEyMmE1M2RkYmZmM2IwY2E5ODI0NDlmMzQ0YzM1`
+Snapshot ID: `MTY3OTYxNjAwMCwwMDAwMDAwMDg5NjVmYmVjNDBlNmZiMGNmMmMyNjNlNjg0ZDEzOGRm`

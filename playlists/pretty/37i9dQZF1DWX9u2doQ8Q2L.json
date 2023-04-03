@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 362161,
+  "num_followers": 362208,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDQ1MTE0Y2U1ZDA2NGJkZTIwNjdjNGUzMTQ2YThlYzE1",
+  "snapshot_id": "MTY4MDAxNTYwMCwwMDAwMDAwMDQzYjc1ZGQ5NzU2NWVlYTBiZDU0M2NkYWYzYzdjMjc0",
   "tracks": [
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "\u751f\u304d\u308b\u8005",
-        "url": "https://open.spotify.com/album/26gXUOA2UGD1g0Bq3scVqi"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 281179,
-      "name": "\u751f\u304d\u308b\u8005",
-      "url": "https://open.spotify.com/track/6PI1TwnN9RmZvVFxxY8zIE"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u751f\u304d\u308b\u8005",
+        "url": "https://open.spotify.com/album/26gXUOA2UGD1g0Bq3scVqi"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 281179,
+      "name": "\u751f\u304d\u308b\u8005",
+      "url": "https://open.spotify.com/track/6PI1TwnN9RmZvVFxxY8zIE"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
         "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 268119,
       "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
-        "name": "How You Feel",
-        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "How You Feel",
-      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "non zero sum game",
-        "url": "https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 208099,
-      "name": "non zero sum game",
-      "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 149002,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "non zero sum game",
+        "url": "https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 208099,
+      "name": "non zero sum game",
+      "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "brownie",
-        "url": "https://open.spotify.com/album/0468hr7iadSW5ClfV2VrH4"
+        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
+        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
       "artists": [
         {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
         }
       ],
-      "duration_ms": 152957,
-      "name": "brownie",
-      "url": "https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ"
+      "duration_ms": 268500,
+      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
-        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
+        "name": "brownie",
+        "url": "https://open.spotify.com/album/0468hr7iadSW5ClfV2VrH4"
       },
       "artists": [
         {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
         }
       ],
-      "duration_ms": 268500,
-      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
+      "duration_ms": 152957,
+      "name": "brownie",
+      "url": "https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "LOVEBIRDS",
-        "url": "https://open.spotify.com/album/62btGm0Kjc8bIvyT71euDJ"
-      },
-      "artists": [
-        {
-          "name": "Mizuki Ohira",
-          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "LOVEBIRDS",
-      "url": "https://open.spotify.com/track/5NYZlE8wMHWSL4snS7snIj"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "Sweet Sticky Thing(feat. mabanua, \u3055\u3089\u3055)",
         "url": "https://open.spotify.com/album/30Yo1lmnPPt7egHTk6kIqR"
       },
@@ -1635,22 +1619,18 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "\u9aa8\u307e\u3067\u611b\u3057\u3066",
-        "url": "https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0"
+        "name": "LOVEBIRDS",
+        "url": "https://open.spotify.com/album/62btGm0Kjc8bIvyT71euDJ"
       },
       "artists": [
         {
-          "name": "Matt Cab",
-          "url": "https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31"
-        },
-        {
-          "name": "Grace Aimi",
-          "url": "https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX"
+          "name": "Mizuki Ohira",
+          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
         }
       ],
-      "duration_ms": 206949,
-      "name": "\u9aa8\u307e\u3067\u611b\u3057\u3066",
-      "url": "https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ"
+      "duration_ms": 215156,
+      "name": "LOVEBIRDS",
+      "url": "https://open.spotify.com/track/5NYZlE8wMHWSL4snS7snIj"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1667,6 +1647,26 @@
       "duration_ms": 215928,
       "name": "Roll",
       "url": "https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u9aa8\u307e\u3067\u611b\u3057\u3066",
+        "url": "https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0"
+      },
+      "artists": [
+        {
+          "name": "Matt Cab",
+          "url": "https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31"
+        },
+        {
+          "name": "Grace Aimi",
+          "url": "https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX"
+        }
+      ],
+      "duration_ms": 206949,
+      "name": "\u9aa8\u307e\u3067\u611b\u3057\u3066",
+      "url": "https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "\u30e9\u30d6\u3058\u3083\u3093",
-        "url": "https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "\u30e9\u30d6\u3058\u3083\u3093",
-      "url": "https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/5OSFxPHnLpbNav9WmFU9VK"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 165692,
       "name": "Moon Prison",
       "url": "https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u30e9\u30d6\u3058\u3083\u3093",
+        "url": "https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "\u30e9\u30d6\u3058\u3083\u3093",
+      "url": "https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY"
     }
   ],
   "unique_name": "Tokyo Rising",

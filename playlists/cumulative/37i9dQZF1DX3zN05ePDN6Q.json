@@ -2276,10 +2276,40 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 183709,
       "name": "Forte",
       "url": "https://open.spotify.com/track/25WxHeVrvnZlqw77YCUBw4"
+    },
+    {
+      "album": {
+        "name": "Forte",
+        "url": "https://open.spotify.com/album/6iWJpsVhxmHkNpjJRgFwoI"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Renan Samam",
+          "url": "https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve"
+        },
+        {
+          "name": "DJ Erick Jay",
+          "url": "https://open.spotify.com/artist/3Jwzin3ekPemfhs79RrsOf"
+        },
+        {
+          "name": "Beatmonk",
+          "url": "https://open.spotify.com/artist/50OGScQr1zEwOnwxJqbXBh"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183709,
+      "name": "Forte",
+      "url": "https://open.spotify.com/track/022xGfOjOH2Hm9zP6WoPPO"
     },
     {
       "album": {

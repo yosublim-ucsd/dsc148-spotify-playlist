@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-473 songs - 1 day 12 hr 54 min
+474 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-11-12 |  |
 | [Platinum Goose](https://open.spotify.com/track/3eoLFO9XPg6vnONeRen5hf) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Platinum Goose](https://open.spotify.com/album/2yugNDUqoylzXH3T5FBggD) | 3:02 | 2023-02-09 |  |
 | [Plaza Real](https://open.spotify.com/track/5NNyy2Fn4qsZ79lEzKFrM9) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Trio](https://open.spotify.com/album/5jXillw4nWUrF7Gy56dVu6) | 5:51 | 2022-02-10 |  |
-| [Polaris](https://open.spotify.com/track/6jcwViyJ0VxiyUe95nv4Dj) | [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W) | [The Vagabond](https://open.spotify.com/album/2yeXOGHdLYgyazlRHFzTTM) | 6:08 | 2022-02-10 |  |
+| [Polaris](https://open.spotify.com/track/6jcwViyJ0VxiyUe95nv4Dj) | [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W) | [The Vagabond](https://open.spotify.com/album/2yeXOGHdLYgyazlRHFzTTM) | 6:08 | 2022-02-10 | 2023-04-03 |
 | [Polkadots And Moonbeams](https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Polkadots And Moonbeams](https://open.spotify.com/album/6M3uviUycHWyhTrPeA8aZA) | 3:42 | 2022-11-12 |  |
 | [Pray](https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4) | [Marc van Roon Trio](https://open.spotify.com/artist/0LVkl4BXWGA8QcjS6dIkaf) | [Quantum Stories](https://open.spotify.com/album/6erjfrUNgfkIZ41rEoI7Z5) | 4:01 | 2022-02-10 | 2023-03-20 |
 | [Prelude to a Kiss](https://open.spotify.com/track/5utG7gaVcIMMDJbJQ09q1L) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Prelude to a Kiss](https://open.spotify.com/album/7EzWxXhnVRz8iTm2y0keaQ) | 5:20 | 2022-02-18 | 2022-07-29 |
@@ -320,6 +320,7 @@
 | [Railroads](https://open.spotify.com/track/5psq4yZ6YgYMIWoBRbHyAJ) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Railroads](https://open.spotify.com/album/1jjA7Gk47CSNweHOZDK65v) | 3:30 | 2022-11-12 |  |
 | [Rain](https://open.spotify.com/track/0U070HY5rBmCyh4SIWHrgN) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/7Blwoot1kZX3VuiIfHI0jT) | 7:33 | 2022-07-07 |  |
 | [Rain](https://open.spotify.com/track/61Wh9vJtPH9gqRTEsgi6cU) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/4Bd8Cuk3T1UhXQKZ3YBboH) | 7:33 | 2022-02-10 | 2022-07-29 |
+| [Rainy Downtown](https://open.spotify.com/track/3pj3WSNa25nWHl7MXj8RCF) | [Matt Lee Trio](https://open.spotify.com/artist/3Hz54RB1g07RaoLDk67G0g) | [Rainy Downtown](https://open.spotify.com/album/1N3KFLweE6SV5hZ0x1Cvl7) | 2:21 | 2023-03-23 |  |
 | [Rainy Night House](https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 6:30 | 2022-02-10 |  |
 | [Red Milk](https://open.spotify.com/track/2S7VcpELtk2PK61IjHq0zO) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/4SFScQIEdCjOpeg5PcqrMk) | 7:42 | 2022-10-13 |  |
 | [Red Milk](https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/1l2CFdenQByfIw6F6Lmxtg) | 7:42 | 2022-02-18 | 2022-10-18 |

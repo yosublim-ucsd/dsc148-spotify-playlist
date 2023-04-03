@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Murilo Huff com Matheus & Kauan, Wesley Safadão com Ana Castela, Fernando & Sorocaba, Turma do Pagode e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,856,851 likes - 103 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,857,334 likes - 103 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

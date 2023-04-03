@@ -4,7 +4,7 @@
 
 > The best new indie tracks every Friday\. Cover: Barrie
 
-5,055 songs - 12 day 8 hr 12 min
+5,056 songs - 12 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3925,7 +3925,8 @@
 | [Sober Up](https://open.spotify.com/track/3UnMcZ7ewqsJgCcuT7hQhu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca \(Deluxe\)](https://open.spotify.com/album/7K1rLdxIp1SappJzswQAbU) | 3:38 | 2021-06-12 | 2021-08-07 |
 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 | 2020-11-27 | 2021-01-23 |
 | [Social Man](https://open.spotify.com/track/1yyJD40ALBKOca5GWXjXhS) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Natural Affair](https://open.spotify.com/album/3T6hM5LbfFxp9AUjnJP6fN) | 3:28 | 2019-10-25 | 2020-01-10 |
-| [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-03 |  |
+| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-03 |  |
+| [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-03 | 2023-04-03 |
 | [Sofia](https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sofia](https://open.spotify.com/album/7JX98HsEi7hCH0vmfT7s2K) | 3:08 | 2019-07-26 | 2019-09-06 |
 | [Soft Spot](https://open.spotify.com/track/6kyxHSJZBPSihkK3YwbVXg) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Soft Spot](https://open.spotify.com/album/7mf5SwQGjqFoxg02oHryFh) | 3:08 | 2020-12-04 | 2021-02-12 |
 | [Soft Spot](https://open.spotify.com/track/3xx9Deawo27BcPQaCihRYb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Soft Spot](https://open.spotify.com/album/5uP5hrESrp3NhDQHVHG0Ox) | 3:08 | 2020-08-21 | 2020-10-02 |

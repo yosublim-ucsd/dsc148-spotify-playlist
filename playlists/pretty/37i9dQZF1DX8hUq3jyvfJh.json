@@ -1,12 +1,12 @@
 {
   "description": "Mulheres inspiradoras para serem ouvidas no volume m\u00e1ximo. Co-curada por Pitty para o Dia Internacional da Mulher! ",
-  "num_followers": 137490,
+  "num_followers": 137476,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzNDQ2MSwwMDAwMDAwMGY0MTljNjFhZjNjNWZmMDFjZjcxOTk2ZTU1YTE4Njcz",
+  "snapshot_id": "MTY3ODEzNDQ2MSwwMDAwMDAwMDhiMzdlYjdkNjJkMjlhOGI5ZTVkNTQ1NDBkZDM3YmI3",
   "tracks": [
     {
       "added_at": "2023-03-06 20:27:41",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-03-06 20:27:41",
       "album": {
+        "name": "REVERSA",
+        "url": "https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 144961,
+      "name": "GLITTER",
+      "url": "https://open.spotify.com/track/49IWxqawFIOnmDjGigfQ3L"
+    },
+    {
+      "added_at": "2023-03-06 20:27:41",
+      "album": {
         "name": "Sagrada e Profana",
         "url": "https://open.spotify.com/album/6L6ZkI7Rd5iiHCvTvDkRTv"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 136235,
       "name": "MALA MEMO",
       "url": "https://open.spotify.com/track/2RBgpZ7VODWZUjr0onXIzW"
-    },
-    {
-      "added_at": "2023-03-06 20:27:41",
-      "album": {
-        "name": "REVERSA",
-        "url": "https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 144961,
-      "name": "GLITTER",
-      "url": "https://open.spotify.com/track/49IWxqawFIOnmDjGigfQ3L"
     }
   ],
   "unique_name": "EQUAL Brasil",

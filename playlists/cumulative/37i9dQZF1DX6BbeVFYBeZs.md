@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-240 songs - 10 hr 49 min
+242 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Brisa de Verano](https://open.spotify.com/track/6OJwqTLXy8B4p3sjRUgEwj) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Paisaje Silvestre](https://open.spotify.com/album/7CB6gTf1KwlVWWyKpN8haR) | 2:20 | 2023-01-20 |  |
 | [Bungalows](https://open.spotify.com/track/1mBPJN2NO56flat9UoRAnq) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Bungalows](https://open.spotify.com/album/5JvGMHNP9ZoxrL25nhcG4O) | 3:04 | 2022-08-12 |  |
 | [Bye bye](https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Bye bye](https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV) | 2:41 | 2022-07-29 | 2022-10-14 |
-| [Bye bye](https://open.spotify.com/track/4YLHzgKQHzES6XLBDYJK18) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Bye bye](https://open.spotify.com/album/1bSdmu2BNpN3V0lJEyMl69) | 2:41 | 2022-10-14 |  |
+| [Bye bye](https://open.spotify.com/track/0P2q30EKFRweeEDPS96E70) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [The Art Of Flying](https://open.spotify.com/album/6snQbaPd9XYIhqzk1D3NRp) | 2:41 | 2023-03-31 |  |
+| [Bye bye](https://open.spotify.com/track/4YLHzgKQHzES6XLBDYJK18) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Bye bye](https://open.spotify.com/album/1bSdmu2BNpN3V0lJEyMl69) | 2:41 | 2022-10-14 | 2023-04-03 |
 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 | 2022-06-17 | 2023-03-10 |
 | [Calisto](https://open.spotify.com/track/6J35jqkTjXsJz2SQhu3BVt) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Calisto](https://open.spotify.com/album/6v3xFIkiGK5BtXb6IyILMI) | 2:26 | 2022-09-23 |  |
 | [Cambio de Corazòn](https://open.spotify.com/track/3wRiBKnaGISsvRwHKeossu) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Cambio de Corazòn](https://open.spotify.com/album/0VVUv5a4PJngb9Hb8qe648) | 1:44 | 2022-06-17 |  |
@@ -105,7 +106,8 @@
 | [I Know My Luck](https://open.spotify.com/track/2qZTw4KQo2mKHhCdHNCF0p) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [I Know My Luck](https://open.spotify.com/album/0gWN0Xay0UHApfRTzqSoHU) | 2:50 | 2022-06-17 |  |
 | [I Never Really Lost You](https://open.spotify.com/track/5ktW8oGQimLO9EE7mPdkrc) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [I Never Really Lost You](https://open.spotify.com/album/5NB6PAUks28HbiKhYl09DI) | 3:37 | 2022-06-17 |  |
 | [I will be back](https://open.spotify.com/track/5UuYbBrZRwP5vlkTztARVN) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [I will be back](https://open.spotify.com/album/6WFcDbSDSNawB0MoVLXBsL) | 1:14 | 2022-06-17 | 2022-10-15 |
-| [I will be back](https://open.spotify.com/track/6XXoKr31cHpEcZkGZsxXYQ) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [I will be back](https://open.spotify.com/album/6CvhepfhkTKXJGD6SiPaCo) | 1:14 | 2022-10-14 |  |
+| [I will be back](https://open.spotify.com/track/13CKpla9XlMsJGlax1LtYf) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [The Art Of Flying](https://open.spotify.com/album/6snQbaPd9XYIhqzk1D3NRp) | 1:14 | 2023-03-31 |  |
+| [I will be back](https://open.spotify.com/track/6XXoKr31cHpEcZkGZsxXYQ) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [I will be back](https://open.spotify.com/album/6CvhepfhkTKXJGD6SiPaCo) | 1:14 | 2022-10-14 | 2023-04-03 |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2022-06-17 |  |
 | [Inamorata](https://open.spotify.com/track/6o3KXEq44ThRSknUDcIXAT) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Inamorata](https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa) | 2:29 | 2023-03-31 |  |
 | [Indian Glass](https://open.spotify.com/track/6MIIniY6BMAFscSLC8KPQp) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Indian Glass](https://open.spotify.com/album/69QJ0fQcw6T6kRNKpLYxM9) | 3:27 | 2022-06-17 | 2022-11-18 |

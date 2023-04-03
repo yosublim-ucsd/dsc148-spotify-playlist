@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDBkOGFhMWY0YTY2NmRlYTI5YjUyN2RiNzdiMWI4OTFj",
+  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDI1Zjk4ZjgzYzE5YWYwMjgyYTkzOGMyYTE1OGMyYWM1",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Por Amor a Morelia Michoac\u00e1n (En Vivo)",
         "url": "https://open.spotify.com/album/0lcKOe1eGODSaaxZVtDOOj"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 256969,
       "name": "Navidad Sin Ti - en Vivo",
       "url": "https://open.spotify.com/track/0oIgtBMz4hFHBROA619JdS"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
-        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 216208,
-      "name": "C\u00f3mo Poder Olvidar - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "El Burrito de Bel\u00e9n",
         "url": "https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 194429,
       "name": "El Burrito de Belen",
       "url": "https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
+        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 216208,
+      "name": "C\u00f3mo Poder Olvidar - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Los Ultimos Exitos De Rigo Tovar",
         "url": "https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Amante De Lo Bueno",
-        "url": "https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo"
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 184573,
-      "name": "Ritmo Navide\u00f1o",
-      "url": "https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E"
+      "duration_ms": 182226,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -739,6 +723,22 @@
       "duration_ms": 217196,
       "name": "Regalo Equivocado",
       "url": "https://open.spotify.com/track/5ZvxPq0T3oAJ379BwLAh3g"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Amante De Lo Bueno",
+        "url": "https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 184573,
+      "name": "Ritmo Navide\u00f1o",
+      "url": "https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Alrededor del \u00c1rbol de Navidad",
-        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "Alrededor del A\u0301rbol de Navidad",
-      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Mi Burrito Sabanero",
         "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 178440,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Alrededor del \u00c1rbol de Navidad",
+        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "Alrededor del A\u0301rbol de Navidad",
+      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1143,18 +1143,26 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2"
+        "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+        "url": "https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa"
       },
       "artists": [
         {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Kenia R\u00edos",
+          "url": "https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr"
+        },
+        {
+          "name": "Anahi R\u00edos",
+          "url": "https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l"
         }
       ],
-      "duration_ms": 199879,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm"
+      "duration_ms": 120405,
+      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+      "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1231,26 +1239,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-        "url": "https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa"
+        "name": "Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Kenia R\u00edos",
-          "url": "https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr"
-        },
-        {
-          "name": "Anahi R\u00edos",
-          "url": "https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l"
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
         }
       ],
-      "duration_ms": 120405,
-      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-      "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
+      "duration_ms": 199879,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1267,6 +1267,22 @@
       "duration_ms": 203720,
       "name": "Ven a Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Una Noche Especial",
+        "url": "https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc"
+      },
+      "artists": [
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Una Noche Especial",
+      "url": "https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1299,22 +1315,6 @@
       "duration_ms": 240906,
       "name": "En Esta Navidad",
       "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Una Noche Especial",
-        "url": "https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc"
-      },
-      "artists": [
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Una Noche Especial",
-      "url": "https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad, Feel The Magic",
-        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "Navidad, Feel The Magic",
-      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 218000,
       "name": "Dame Un Beso En Noche Buena",
       "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad, Feel The Magic",
+        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Navidad, Feel The Magic",
+      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
     }
   ],
   "unique_name": "La Posada",

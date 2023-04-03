@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-1,006 songs - 1 day 21 hr 31 min
+1,007 songs - 1 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Falling Off \(feat\. Rico Nasty\)](https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Falling Off](https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og) | 4:24 | 2022-02-11 | 2022-02-26 |
 | [Famine \(with Xlovclo\)](https://open.spotify.com/track/2faMLchYuEAQtxX8e6XCsZ) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Xlovclo](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si) | [Famine](https://open.spotify.com/album/08qqsyFfs3mW5duJalfbwD) | 2:12 | 2022-06-03 | 2022-06-18 |
 | [Fantasy \(feat\. Offset\)](https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Offset](https://open.spotify.com/artist/3xWSt0mL474uQlh5Zm6NsW) | [Big Grim Reaper: The Return](https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut) | 3:22 | 2022-02-25 | 2022-06-11 |
-| [Fat Racks Pt\. 2](https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr) | 3:43 | 2023-03-10 |  |
+| [Fat Racks Pt\. 2](https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr) | 3:43 | 2023-03-10 | 2023-04-03 |
+| [Fat Racks Pt\. 2](https://open.spotify.com/track/0gYr2tuq05c8z55b9cDnYm) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [My Vision](https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X) | 3:43 | 2023-03-10 |  |
 | [Fat Racks Pt\. 2](https://open.spotify.com/track/7LWj7OYNxpBEnsc3kzezEj) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR) | 3:43 | 2023-03-10 | 2023-03-25 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-02-24 |  |
 | [fear no man](https://open.spotify.com/track/73vvKT9c9LdGNIEcAdaBzW) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [fear no man](https://open.spotify.com/album/4WXsXSaN2hp2AHoVwLG65C) | 1:56 | 2022-12-09 | 2023-03-18 |

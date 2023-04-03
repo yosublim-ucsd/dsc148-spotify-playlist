@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 162306,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
@@ -1856,6 +1856,24 @@
       "duration_ms": 222973,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19"
+    },
+    {
+      "album": {
+        "name": "Return to Carnegie Hall (Live at Carnegie Hall, May 14, 2022)",
+        "url": "https://open.spotify.com/album/4JUjiAuy48zaVjUhmwsaB9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297304,
+      "name": "Romeo & Juliet - Live at Carnegie Hall, May 14, 2022",
+      "url": "https://open.spotify.com/track/0PnC3S5ayY5MoT0fqIi227"
     },
     {
       "album": {

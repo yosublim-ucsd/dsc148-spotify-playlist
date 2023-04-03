@@ -8945,6 +8945,24 @@
     },
     {
       "album": {
+        "name": "Can Do",
+        "url": "https://open.spotify.com/album/0pUwnqkCbHQoVdc7TrlsCt"
+      },
+      "artists": [
+        {
+          "name": "Malia L\u00f8u",
+          "url": "https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Can Do",
+      "url": "https://open.spotify.com/track/17cUrQgR2mErga1fo4fxP7"
+    },
+    {
+      "album": {
         "name": "can't sleep",
         "url": "https://open.spotify.com/album/0UzU5o70AJ8OYZJNeQKagE"
       },
@@ -19536,6 +19554,32 @@
       "duration_ms": 228811,
       "name": "flow on",
       "url": "https://open.spotify.com/track/2S9iC8UBhqq1of7PFHEvTr"
+    },
+    {
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/1stDjRNAV6aZUsG6ed5pk7"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "Christian Dias",
+          "url": "https://open.spotify.com/artist/0AkBjLiX0pLTumgzGKd1La"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/6p8krD9yIzWwpIE8bMU7yH"
     },
     {
       "album": {
@@ -44374,7 +44418,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 160961,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/4Tr3RgG7XrLgbfXKUMJQP5"
@@ -54276,7 +54320,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 111750,
       "name": "Spheres",
       "url": "https://open.spotify.com/track/2ThtkgGReOtvMsOuoWZoub"

@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 7014,
+  "num_followers": 7047,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3ODEyNSwwMDAwMDAwMDQ1N2RjNzk0ZWMwNjZiYzM2MDEzNTFiMWQxN2VkMWRj",
+  "snapshot_id": "MTY4MDI3ODEyNSwwMDAwMDAwMGViOWEzMmNmYzI3N2JkNDQyYjFlNDBjY2FiMzcwOTll",
   "tracks": [
     {
       "added_at": "2023-03-31 15:55:25",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
+    },
+    {
+      "added_at": "2023-03-31 15:55:25",
+      "album": {
         "name": "Zoo Lion",
         "url": "https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 199334,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0"
-    },
-    {
-      "added_at": "2023-03-31 15:55:25",
-      "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     }
   ],
   "unique_name": "feels like latin funk",

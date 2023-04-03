@@ -1,12 +1,12 @@
 {
   "description": "uh-oh?",
-  "num_followers": 63212,
+  "num_followers": 63292,
   "original_name": "pov: te enamoras de tu bestie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxODAyNSwwMDAwMDAwMGVhNjZmM2VmMjEyOTdkYWQ0NmE3OGFjOGZkMzljZmMx",
+  "snapshot_id": "MTY4MDIxODAyNSwwMDAwMDAwMGU1MjdiMzZhNDc5MTA0NjgwNTVhM2VmMzJmNTgzYTQ2",
   "tracks": [
     {
       "added_at": "2023-03-21 21:05:23",
@@ -981,20 +981,24 @@
       "url": "https://open.spotify.com/track/61MLNB6eqBrn1QmbmQgspC"
     },
     {
-      "added_at": "2023-03-21 21:05:23",
+      "added_at": "2023-04-03 01:00:55",
       "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
       },
       "artists": [
         {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
+      "duration_ms": 222666,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
     },
     {
       "added_at": "2023-03-21 21:05:23",
@@ -1015,18 +1019,18 @@
     {
       "added_at": "2023-03-21 21:05:23",
       "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
       },
       "artists": [
         {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
         }
       ],
-      "duration_ms": 228999,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U"
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
     }
   ],
   "unique_name": "pov: te enamoras de tu bestie",

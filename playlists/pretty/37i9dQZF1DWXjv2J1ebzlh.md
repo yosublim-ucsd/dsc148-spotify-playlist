@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,650 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,729 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -724,7 +724,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 714 | [Chase The Devil](https://open.spotify.com/track/6KGggJ08SRmMuJojRYM4Lv) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon \(Expanded Edition\)](https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6) | 3:26 |
 | 715 | [Free Blow \- Dub Version](https://open.spotify.com/track/2cRqHTpr7R5DGQDGd3Piip) | [Tony Benn Feghaly](https://open.spotify.com/artist/3NLXh9hJU9g6FchaERWQUE) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/0PkKIo93pKAnqpo0mi5yb1) | 5:11 |
 | 716 | [Arbé de Cadjau](https://open.spotify.com/track/5tjJJB4s0gcalH5XhWgJFQ) | [Nhú de Ped'Bia](https://open.spotify.com/artist/1Trb4AaE9cDc52GxvJVeVU) | [Nós Criola](https://open.spotify.com/album/1mhEu5YimxJhwwKHvrmKbn) | 5:07 |
-| 717 | [Rakıya Su Katamam](https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Rakiya Su Katamam b/w Leylim Ley](https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2) | 3:40 |
+| 717 | [Rakıya Su Katamam](https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:40 |
 | 718 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 719 | [Eastern Conga](https://open.spotify.com/track/2bjaHXusoq8crFM0tP6Ox2) | [Rupert Clemendore](https://open.spotify.com/artist/7fujTKgGepxssQqntiMLte) | [Le Jazz Trinidad](https://open.spotify.com/album/0NjVE8MBxEsi7ap5JHGFOT) | 3:30 |
 | 720 | [Glorioso Santo Antonio](https://open.spotify.com/track/0A4d6hN1JTKvdl30bUFGUS) | [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [Antonio Carlos & Jocafi](https://open.spotify.com/album/0XLM8s3mgV2KahkWE4Utn2) | 3:43 |
@@ -1016,7 +1016,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1006 | [Tamanco No Samba](https://open.spotify.com/track/6VxFiOtjHLDiXpLMZD7vc6) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [Orlandivo](https://open.spotify.com/album/44dMqEMPnQsjirLsPHaNeq) | 3:36 |
 | 1007 | [Cumbia De Sal](https://open.spotify.com/track/0ite6lUisltJPhlEMDxlNM) | [Los Falcons](https://open.spotify.com/artist/2UODcsr0CoKJoDK8yNJm5V) | [Colombia Tropical](https://open.spotify.com/album/7dYIeMiI7fzSt3TaCB9NAC) | 3:18 |
 | 1008 | [Scorpio Man Theme](https://open.spotify.com/track/2reRESF3aTvOn50f96F5Pq) | [Ernie Hawks](https://open.spotify.com/artist/1lr6B4Xz14xooHsWrAmfDa), [The Soul Investigators](https://open.spotify.com/artist/5CwHjbHcbe0EEOd7aISldo) | [Scorpio Man Theme](https://open.spotify.com/album/3FJv0fryDNDBF4jBO3Os48) | 4:00 |
-| 1009 | [BadI Sabah Olmadan](https://open.spotify.com/track/11BnijIFDmJFbj9pMH5Npu) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [BadI Sabah Olmadan b/w Cips Kola Kilit](https://open.spotify.com/album/41Aejivoy7KpjBTK3K9hIe) | 4:38 |
+| 1009 | [Badi Sabah Olmadan](https://open.spotify.com/track/69HsibWosA5K8UhyhPZ92t) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:43 |
 | 1010 | [Canto de Ossanha](https://open.spotify.com/track/1ZHfMFfKdpFmAIAXIWK9LH) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Os Afro\-Sambas](https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk) | 4:15 |
 | 1011 | [Tunan](https://open.spotify.com/track/1s0O1tVHd0a45Dh3HUcKt5) | [Mamman Sani](https://open.spotify.com/artist/3AWprtbEToKCq6Xzz0tTX4) | [La Musique Électronique Du Niger](https://open.spotify.com/album/7lX4X9w9jFebOFC9gawdCD) | 3:21 |
 | 1012 | [Divizion \- Voilaaa Remix](https://open.spotify.com/track/7lqokOhEThOZilo2YRDAxs) | [Fédia Laguerre](https://open.spotify.com/artist/708IL56mjMc2k3ORhcpxtS), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Divizion](https://open.spotify.com/album/7Hz8KjRyXqpIbRwdiNuSTh) | 5:21 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMGU4NzE3ZjIwNGQ0ZGQwZTliMGJiYTE2MGFjN2UyZmFh`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMGViNjk5NGZkMDJkNTZlZDhhZjVkM2FlOGJjZTgwODhm`

@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 37817,
+  "num_followers": 37861,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMGMwNTg5ZDhkMDlkYjNjYWMwNDYxNzMxN2Y0MzU1MDQ2",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDNlY2VjNjA5NTk5NWVhZTExMDUyNjVkNGJhODA2MDc5",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -295,22 +295,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
-        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
+        "name": "Mr. Brooks...A Better Tomorrow",
+        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
         }
       ],
-      "duration_ms": 233717,
-      "name": "My Woman, My Everything (feat. Wandecoal)",
-      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
+      "duration_ms": 178840,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -331,18 +327,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Mr. Brooks...A Better Tomorrow",
-        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
+        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
+        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
       },
       "artists": [
         {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 178840,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
+      "duration_ms": 233717,
+      "name": "My Woman, My Everything (feat. Wandecoal)",
+      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
     },
     {
       "added_at": "2020-10-19 09:02:25",

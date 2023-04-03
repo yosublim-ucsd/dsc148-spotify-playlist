@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: Boy Bleach
 
-145 songs - 7 hr 39 min
+146 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [AMERICA'S NEXT TOP MODEL](https://open.spotify.com/track/2bZeCw3SEcY0uMq2bdhFGc) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [AMERICA'S NEXT TOP MODEL](https://open.spotify.com/album/5ikznb8ESMJCEskirCSFGl) | 2:55 | 2023-03-03 |  |
 | [Amor](https://open.spotify.com/track/6ykD5g5JQ4n5iQKstly8M2) | [Passionflower](https://open.spotify.com/artist/2JDENMXTGFUFtq5sE3Pohr) | [Amor](https://open.spotify.com/album/5xAMwGNFraXPC04VF3PtRX) | 4:02 | 2023-02-10 |  |
 | [Anne\-Marie](https://open.spotify.com/track/11YJcHoDWyNQHifnp4DPXs) | [Unstuck](https://open.spotify.com/artist/7MX0YZHCtTNZ72F5z2tbnP) | [Anne\-Marie](https://open.spotify.com/album/3uq658Scb5P1dZnWWbM500) | 1:57 | 2023-01-13 | 2023-03-03 |
-| [Are You Diagnosed?](https://open.spotify.com/track/3BXTJdDGc6DnAUFrqHQCC1) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Are You Diagnosed?](https://open.spotify.com/album/2stzbaDdGD3NjWOxtyl2QT) | 3:34 | 2023-02-17 |  |
+| [Are You Diagnosed?](https://open.spotify.com/track/1ZLRZUQQ3yGnSQAg9V3NTm) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Hookey](https://open.spotify.com/album/7KknC9RikxSrgFy83Kv6Dj) | 3:34 | 2023-03-24 |  |
+| [Are You Diagnosed?](https://open.spotify.com/track/3BXTJdDGc6DnAUFrqHQCC1) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Are You Diagnosed?](https://open.spotify.com/album/2stzbaDdGD3NjWOxtyl2QT) | 3:34 | 2023-02-17 | 2023-04-03 |
 | [Back and Forth](https://open.spotify.com/track/5dn10JRAyRJQ4CwChvH36u) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Back and Forth](https://open.spotify.com/album/2JZWI0ofeqQi0JNaLIGaW5) | 3:01 | 2023-01-13 | 2023-03-03 |
 | [Bigger Than Anything Ever](https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Bigger Than Anything Ever](https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm) | 3:00 | 2023-03-24 |  |
 | [Bite](https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Bite](https://open.spotify.com/album/4CTR4308FLv0J234RjREIl) | 3:10 | 2023-02-17 |  |

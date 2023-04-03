@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Stephanie Poetri, Elephante, ZHANG YANQI
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,455 likes - 91 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,458 likes - 91 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 9 | [bagai bintang bulan](https://open.spotify.com/track/6pk0iPvgjY4zLlVVcAh153) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [2016](https://open.spotify.com/album/3nrEhteC4SHPiLCSHvod71) | 4:42 |
 | 10 | [Kidung Kelana](https://open.spotify.com/track/1wgJCkmGnAkzhClICQ8TxJ) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Ronie Udara](https://open.spotify.com/artist/4DtOpD3b6VrkUwa1HZecJx) | [Kidung Kelana](https://open.spotify.com/album/3LFrnRQzCPNEveaXhTxrH5) | 3:57 |
 | 11 | [Tak Berbentuk Lagi](https://open.spotify.com/track/10QipRDzrgUkg91QROOxFK) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Tak Berbentuk Lagi](https://open.spotify.com/album/5Gc4wt4weh85RjQiILVd4T) | 4:51 |
-| 12 | [Bahasa Cinta](https://open.spotify.com/track/4W2EDGzyj5ewe9tRitWRfL) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9), [Rio](https://open.spotify.com/artist/5521NezFH11BqC62R1WCWW) | [Bahasa Cinta](https://open.spotify.com/album/60OBisxQ3cPInMhBn9CGW6) | 4:18 |
+| 12 | [Bahasa Cinta](https://open.spotify.com/track/4W2EDGzyj5ewe9tRitWRfL) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Bahasa Cinta](https://open.spotify.com/album/60OBisxQ3cPInMhBn9CGW6) | 4:18 |
 | 13 | [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 |
 | 14 | [GGBB](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 3:05 |
 | 15 | [Feelings](https://open.spotify.com/track/2lxwvwNTCT6T2k9agnujeO) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Superblue](https://open.spotify.com/album/2IKwJMDlZQxvocJgWLTDLT) | 4:09 |

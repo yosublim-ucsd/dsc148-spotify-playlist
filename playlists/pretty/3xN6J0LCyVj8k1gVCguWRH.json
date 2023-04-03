@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDM5OSw2ZTA5YjBhYWYyZmZkODAxYjkyZmQ5M2YxMzM3ZTNiMmVkNDk3ZWM1",
+  "snapshot_id": "NDQwOCw5NTcxMzY1YjhhNzhmY2M5ZDlkNTVlNmM0ZDAzNmQxZmQ2NzE5ZDJm",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/4ozdSH2MuFoABtDWa4S1mJ"
     },
     {
+      "added_at": "2023-04-03 00:25:56",
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/4uc50ROh0H3eNkS2sPDqoK"
+      },
+      "artists": [
+        {
+          "name": "Compass",
+          "url": "https://open.spotify.com/artist/0IeDag6Mjm397glEJwhKeA"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/5HiTnO0TxjIR5wWFoiQlT5"
+    },
+    {
       "added_at": "2021-07-11 05:05:24",
       "album": {
         "name": "So Hard",
@@ -2025,122 +2041,6 @@
       "url": "https://open.spotify.com/track/0EpP85hoxbDzSJ15dDgTsE"
     },
     {
-      "added_at": "2023-03-10 02:56:14",
-      "album": {
-        "name": "Cross My Heart I Hope U Die",
-        "url": "https://open.spotify.com/album/5Jrt9LhQqar39j3C0ORmSA"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 168874,
-      "name": "Cross My Heart I Hope U Die",
-      "url": "https://open.spotify.com/track/2Zrmp1DHBdzm2zNk9rrQtQ"
-    },
-    {
-      "added_at": "2023-03-15 00:11:07",
-      "album": {
-        "name": "Driftin away",
-        "url": "https://open.spotify.com/album/3p7NOOgCc0zxKt6oLfLkkB"
-      },
-      "artists": [
-        {
-          "name": "Donty",
-          "url": "https://open.spotify.com/artist/0ZxTq85uqZbmwj6NxcTapu"
-        }
-      ],
-      "duration_ms": 181687,
-      "name": "Driftin away",
-      "url": "https://open.spotify.com/track/4aclkqp2dw6jFrgK8D0TJg"
-    },
-    {
-      "added_at": "2023-03-10 02:55:49",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/12zKlJMUgJIXYD0b4yIH1Z"
-      },
-      "artists": [
-        {
-          "name": "Drea",
-          "url": "https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "candid",
-      "url": "https://open.spotify.com/track/6oPXVymb5rwtgJ7DcyimkP"
-    },
-    {
-      "added_at": "2023-03-10 02:56:45",
-      "album": {
-        "name": "Breaking My Heart",
-        "url": "https://open.spotify.com/album/12k8bwBwRgfr1OjF2iVUZJ"
-      },
-      "artists": [
-        {
-          "name": "QUEEVA",
-          "url": "https://open.spotify.com/artist/7BDSrECxsc6RyFL2qFkomJ"
-        }
-      ],
-      "duration_ms": 217412,
-      "name": "Breaking My Heart",
-      "url": "https://open.spotify.com/track/5vHNr6c97TVKBtTNufeiLN"
-    },
-    {
-      "added_at": "2023-03-12 00:13:46",
-      "album": {
-        "name": "A Million Miles",
-        "url": "https://open.spotify.com/album/05bOUVS0lx8zwrlu7QTUrc"
-      },
-      "artists": [
-        {
-          "name": "McCallum Brown",
-          "url": "https://open.spotify.com/artist/47ASGAPWHzniH6D2k2YkbF"
-        },
-        {
-          "name": "Kam Register",
-          "url": "https://open.spotify.com/artist/4TKGU1Ibg8aF9NueI7CCF5"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "A Million Miles",
-      "url": "https://open.spotify.com/track/2sUHY3pUaz5AeHk7oh6Ike"
-    },
-    {
-      "added_at": "2023-03-12 00:13:01",
-      "album": {
-        "name": "Si T\u00fa Supieras",
-        "url": "https://open.spotify.com/album/1pAlLczYYyVTTXiE3LUFIY"
-      },
-      "artists": [
-        {
-          "name": "Raquel Maradey",
-          "url": "https://open.spotify.com/artist/5ZJsXAvMdY9V2xwQJCEOMI"
-        }
-      ],
-      "duration_ms": 225854,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/1hw9AueHCN9FwA6sii9Nu1"
-    },
-    {
-      "added_at": "2023-03-10 02:57:06",
-      "album": {
-        "name": "if your world Is gone",
-        "url": "https://open.spotify.com/album/6MPkHIwXCwpWdV2MXXiPzH"
-      },
-      "artists": [
-        {
-          "name": "Danielle Apicella",
-          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
-        }
-      ],
-      "duration_ms": 233250,
-      "name": "if your world Is gone",
-      "url": "https://open.spotify.com/track/17SVwFgW10HnP2zsP29DCf"
-    },
-    {
       "added_at": "2023-03-20 00:10:53",
       "album": {
         "name": "Cooking Great Music",
@@ -2155,22 +2055,6 @@
       "duration_ms": 182543,
       "name": "All About You",
       "url": "https://open.spotify.com/track/5gbhslzsaWjeociHQXuom4"
-    },
-    {
-      "added_at": "2023-03-12 17:23:09",
-      "album": {
-        "name": "Palm Trees & Pools",
-        "url": "https://open.spotify.com/album/2QcUa2lBaiVFKDdp2bqekQ"
-      },
-      "artists": [
-        {
-          "name": "Redondo Red",
-          "url": "https://open.spotify.com/artist/7lbEzkNxEp17LsaEGO0sHu"
-        }
-      ],
-      "duration_ms": 152842,
-      "name": "Palm Trees & Pools",
-      "url": "https://open.spotify.com/track/2X59hamIvMHahqdAuXAbky"
     },
     {
       "added_at": "2023-03-18 00:12:04",
@@ -2205,42 +2089,6 @@
       "url": "https://open.spotify.com/track/5CaZSQt5nHU0RltIERKiOc"
     },
     {
-      "added_at": "2023-03-15 01:15:14",
-      "album": {
-        "name": "Everything We Know",
-        "url": "https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh"
-      },
-      "artists": [
-        {
-          "name": "Eliyanah",
-          "url": "https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC"
-        }
-      ],
-      "duration_ms": 204212,
-      "name": "Everything We Know",
-      "url": "https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS"
-    },
-    {
-      "added_at": "2023-03-11 00:10:57",
-      "album": {
-        "name": "Al son de las balas",
-        "url": "https://open.spotify.com/album/1IIjTWBOpUPY06sMQSjQ5r"
-      },
-      "artists": [
-        {
-          "name": "Anna Ferrer",
-          "url": "https://open.spotify.com/artist/3It8AsQKxFW3Fx0FrrpF1z"
-        },
-        {
-          "name": "Dani L\u00f3pez",
-          "url": "https://open.spotify.com/artist/12bYlNcUnyMzMUAEldwuRD"
-        }
-      ],
-      "duration_ms": 242260,
-      "name": "Al son de las balas",
-      "url": "https://open.spotify.com/track/6oqnhrAWlGEvcFj8mLj8ut"
-    },
-    {
       "added_at": "2023-03-16 18:03:35",
       "album": {
         "name": "lately",
@@ -2255,38 +2103,6 @@
       "duration_ms": 267504,
       "name": "lately",
       "url": "https://open.spotify.com/track/0n1Y7dDi1AGv2SMAAltUSn"
-    },
-    {
-      "added_at": "2023-03-13 17:47:28",
-      "album": {
-        "name": "I Won't Wait For Springtime",
-        "url": "https://open.spotify.com/album/5FAMpLCrW1QFQkmOQBjC4V"
-      },
-      "artists": [
-        {
-          "name": "ellee ven",
-          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
-        }
-      ],
-      "duration_ms": 155777,
-      "name": "I Won't Wait For Springtime",
-      "url": "https://open.spotify.com/track/27tOWim3LqOf00bbG6ZYzB"
-    },
-    {
-      "added_at": "2023-03-10 17:53:08",
-      "album": {
-        "name": "Laundry List",
-        "url": "https://open.spotify.com/album/6vgRxXTws20fPGe059hmkR"
-      },
-      "artists": [
-        {
-          "name": "Scott Goldbaum",
-          "url": "https://open.spotify.com/artist/1y3khOcJKFFr62eMqZyQy7"
-        }
-      ],
-      "duration_ms": 227359,
-      "name": "Laundry List",
-      "url": "https://open.spotify.com/track/4nj0yUKpDNzF1UdfFXJmUP"
     },
     {
       "added_at": "2023-03-31 00:08:58",
@@ -2305,22 +2121,6 @@
       "url": "https://open.spotify.com/track/11hc1HDx0Lvi6fvMVBHmid"
     },
     {
-      "added_at": "2023-03-10 17:52:09",
-      "album": {
-        "name": "Lying in LA",
-        "url": "https://open.spotify.com/album/1yeqhDrt1cYPozPCDad8IE"
-      },
-      "artists": [
-        {
-          "name": "Britta",
-          "url": "https://open.spotify.com/artist/3t9YsSNIpCBQ6jrdaa8zA2"
-        }
-      ],
-      "duration_ms": 184477,
-      "name": "Lying in LA",
-      "url": "https://open.spotify.com/track/17Nv4GnG2JZJJK0aOXbW2w"
-    },
-    {
       "added_at": "2023-03-17 00:30:35",
       "album": {
         "name": "Not a Problem",
@@ -2335,22 +2135,6 @@
       "duration_ms": 190985,
       "name": "Not A Problem",
       "url": "https://open.spotify.com/track/4PulwkFGTFU7NA7CBQ4MbP"
-    },
-    {
-      "added_at": "2023-03-10 02:57:33",
-      "album": {
-        "name": "Jus' Brown (Remastered)",
-        "url": "https://open.spotify.com/album/7mCe1hnVqz8ftqlf0oU8yE"
-      },
-      "artists": [
-        {
-          "name": "Justin Nathanielson",
-          "url": "https://open.spotify.com/artist/62KQpTUOiT9nHHmgDXYzQF"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "Blue Sea (Remastered)",
-      "url": "https://open.spotify.com/track/3IArEiFaXvk8LttR2sinYG"
     }
   ],
   "unique_name": "Barack Obama\u2019s Summer Playlist 2023",

@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-317 songs - 1 day 2 hr 15 min
+318 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/3T6R0ppqCnUW6iJhtUYhO3) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/5UAy7rBQad6mSxklbtqUa8) | 4:11 | 2021-10-15 | 2022-07-29 |
 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 | 2022-07-20 |  |
 | [The Long Honeymoon](https://open.spotify.com/track/3ZoBbUvptSM9id6PC6BUXR) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/6Iyeo7CPHen8QEW4x31TpI) | 4:15 | 2021-10-15 | 2022-07-29 |
-| [The Long Honeymoon](https://open.spotify.com/track/5uVVWLLaICapDuVizaIzST) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 4:15 | 2023-01-19 |  |
+| [The Long Honeymoon](https://open.spotify.com/track/5uVVWLLaICapDuVizaIzST) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 4:15 | 2023-01-19 | 2023-04-03 |
 | [The Longships](https://open.spotify.com/track/1KYwpvwfrQQNnw2C0x8iGb) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Watermark](https://open.spotify.com/album/2FZ2y8Z5sTRSnnSa8DIPHz) | 3:39 | 2022-07-20 |  |
 | [The Longships \- 2009 Remaster](https://open.spotify.com/track/1rAPOKdbcenPjBnDjqZu9Z) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Watermark](https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN) | 3:38 | 2021-10-15 | 2022-07-27 |
 | [The Rip](https://open.spotify.com/track/5KX2DSPC6aCA0pdDidTmBC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo) | 4:30 | 2022-09-02 |  |
@@ -324,6 +324,7 @@
 | [You](https://open.spotify.com/track/1tZbYHImeBPPvEN8aRzMva) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Lucky Shiner](https://open.spotify.com/album/2wSMFAWmbsbXCitByPWPLk) | 3:36 | 2023-01-19 |  |
 | [You Keep Me Hangin' On](https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes Sing Holland, Dozier, Holland](https://open.spotify.com/album/5BrLn546krr08d9UvOj73k) | 2:43 | 2022-07-20 |  |
 | [You Keep Me Hangin' On \- Stereo Version](https://open.spotify.com/track/5RZ2l6TkDgWdSbo5fZDKn4) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes: Box Set](https://open.spotify.com/album/1BxwIQaoTGRmXSmfgtSoMJ) | 2:43 | 2021-10-15 | 2022-07-27 |
+| [двa TWO](https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [для FOR](https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ) | 1:36 | 2023-03-13 |  |
 | [孤独の発明](https://open.spotify.com/track/2RJuCZXtZYubzTW78kmaBx) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [the book about my idle plot on a vague anxiety](https://open.spotify.com/album/7x84X6ve0wa2UYckfCm1uV) | 3:23 | 2022-07-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

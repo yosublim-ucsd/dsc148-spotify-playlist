@@ -1,29 +1,13 @@
 {
   "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Nie; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 17184,
+  "num_followers": 17198,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMDIzOSwwMDAwMDAwMDU1ZmZjNWRhZDQ1OTQyYzhjZDMwMmRlZGM5YzIzNTJm",
+  "snapshot_id": "MTY4MDQyNzU3NSwwMDAwMDAwMDEyYTM4MDAwMmY4M2RjNGE4NjhlMTFiMDMzYTZlOTBj",
   "tracks": [
-    {
-      "added_at": "2023-03-31 02:37:19",
-      "album": {
-        "name": "fine",
-        "url": "https://open.spotify.com/album/5p17n3Oer9Yd3h4lPjW6QK"
-      },
-      "artists": [
-        {
-          "name": "giabao",
-          "url": "https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus"
-        }
-      ],
-      "duration_ms": 166059,
-      "name": "fine",
-      "url": "https://open.spotify.com/track/7uLIDtZ2yhAMRVyln7at1O"
-    },
     {
       "added_at": "2023-03-31 02:37:19",
       "album": {
@@ -79,6 +63,22 @@
     {
       "added_at": "2023-03-31 02:37:19",
       "album": {
+        "name": "fine",
+        "url": "https://open.spotify.com/album/5p17n3Oer9Yd3h4lPjW6QK"
+      },
+      "artists": [
+        {
+          "name": "giabao",
+          "url": "https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus"
+        }
+      ],
+      "duration_ms": 166059,
+      "name": "fine",
+      "url": "https://open.spotify.com/track/7uLIDtZ2yhAMRVyln7at1O"
+    },
+    {
+      "added_at": "2023-03-31 02:37:19",
+      "album": {
         "name": "C\u00f3 Hay T\u1eeb Bao Gi\u1edd 2",
         "url": "https://open.spotify.com/album/0a7LctHPjjYbyCYx3nuBe5"
       },
@@ -95,6 +95,22 @@
       "duration_ms": 291984,
       "name": "C\u00f3 Hay T\u1eeb Bao Gi\u1edd 2",
       "url": "https://open.spotify.com/track/1Tcr9My0VNNjh9ejfz44s6"
+    },
+    {
+      "added_at": "2023-04-02 04:52:56",
+      "album": {
+        "name": "Lan Man",
+        "url": "https://open.spotify.com/album/2PjMmcp2KpR1dwcs0oExSx"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 216220,
+      "name": "Lan Man",
+      "url": "https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c"
     },
     {
       "added_at": "2023-03-31 02:37:19",
@@ -257,6 +273,46 @@
       "url": "https://open.spotify.com/track/3mjH9XG0d5NhlPD47SPeiE"
     },
     {
+      "added_at": "2023-04-02 09:26:15",
+      "album": {
+        "name": "Paylist",
+        "url": "https://open.spotify.com/album/5Dk9wcrQb7PWiyQFuMYMA3"
+      },
+      "artists": [
+        {
+          "name": "Pay",
+          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
+        },
+        {
+          "name": "Lazii",
+          "url": "https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "\u0111\u00e3 t\u1eebng",
+      "url": "https://open.spotify.com/track/4HFtL01dqao5pZ3ka6Ys3f"
+    },
+    {
+      "added_at": "2023-04-02 04:52:56",
+      "album": {
+        "name": "Dawgs F",
+        "url": "https://open.spotify.com/album/5re5lBeA9kUQ6TQlemV9D6"
+      },
+      "artists": [
+        {
+          "name": "Y.Tazle",
+          "url": "https://open.spotify.com/artist/7yCkE3MnGPDxkcQ4vTWtrQ"
+        },
+        {
+          "name": "WAVXR",
+          "url": "https://open.spotify.com/artist/0tMexwN6wUDQqHjOkjNhla"
+        }
+      ],
+      "duration_ms": 199822,
+      "name": "Dawgs F",
+      "url": "https://open.spotify.com/track/79vUKMILbShvnQG32hf1xp"
+    },
+    {
       "added_at": "2023-03-31 02:37:19",
       "album": {
         "name": "Bohemian",
@@ -391,26 +447,6 @@
       "duration_ms": 179120,
       "name": "Anh \u0110\u00e3 T\u1eebng",
       "url": "https://open.spotify.com/track/4nAobe9FOH8IrTWxVD7wZV"
-    },
-    {
-      "added_at": "2023-03-31 02:37:19",
-      "album": {
-        "name": "SALANGHAE (feat. Quantran)",
-        "url": "https://open.spotify.com/album/0j0jpJ4lbH03Ff8fnQbdvV"
-      },
-      "artists": [
-        {
-          "name": "stizky",
-          "url": "https://open.spotify.com/artist/79og3sTJllYOuSgQPdtpHM"
-        },
-        {
-          "name": "Quan Tran",
-          "url": "https://open.spotify.com/artist/6f7ELSXEzVJ0GmeOYmELRw"
-        }
-      ],
-      "duration_ms": 144663,
-      "name": "SALANGHAE (feat. Quantran)",
-      "url": "https://open.spotify.com/track/4aMHZJi8oqGFXPK5NmflJv"
     },
     {
       "added_at": "2023-03-31 02:37:19",
@@ -755,6 +791,26 @@
     {
       "added_at": "2023-03-31 02:37:19",
       "album": {
+        "name": "SALANGHAE (feat. Quantran)",
+        "url": "https://open.spotify.com/album/0j0jpJ4lbH03Ff8fnQbdvV"
+      },
+      "artists": [
+        {
+          "name": "stizky",
+          "url": "https://open.spotify.com/artist/79og3sTJllYOuSgQPdtpHM"
+        },
+        {
+          "name": "Quan Tran",
+          "url": "https://open.spotify.com/artist/6f7ELSXEzVJ0GmeOYmELRw"
+        }
+      ],
+      "duration_ms": 144663,
+      "name": "SALANGHAE (feat. Quantran)",
+      "url": "https://open.spotify.com/track/4aMHZJi8oqGFXPK5NmflJv"
+    },
+    {
+      "added_at": "2023-03-31 02:37:19",
+      "album": {
         "name": "Anh \u0110\u1eebng Lo",
         "url": "https://open.spotify.com/album/4Ha89HyjrK0ue1KEPgC6wb"
       },
@@ -1055,22 +1111,6 @@
     {
       "added_at": "2023-03-31 02:37:19",
       "album": {
-        "name": "H\u1ed3i \u1ee8c Ta \u0110\u00e3 Y\u00eau",
-        "url": "https://open.spotify.com/album/3fTELP4UNHO3tDWfoj42aE"
-      },
-      "artists": [
-        {
-          "name": "Linh H\u01b0\u01a1ng Luz",
-          "url": "https://open.spotify.com/artist/2FCxeoDrmuTZmyn8iXlQVB"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "H\u1ed3i \u1ee8c Ta \u0110\u00e3 Y\u00eau",
-      "url": "https://open.spotify.com/track/3oG2pS2BGxdkTAaIzwIFtR"
-    },
-    {
-      "added_at": "2023-03-31 02:37:19",
-      "album": {
         "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
         "url": "https://open.spotify.com/album/0d5d4qUuA0Glw25a65V9jj"
       },
@@ -1247,26 +1287,6 @@
       "duration_ms": 159149,
       "name": "th\u00f4i t\u00ecm nhau",
       "url": "https://open.spotify.com/track/4tgP2bUe0JYewd5ZkURAVU"
-    },
-    {
-      "added_at": "2023-03-31 02:37:19",
-      "album": {
-        "name": "Ph\u01b0\u1ee3ng Th\u1eafm L\u00e2u Phai",
-        "url": "https://open.spotify.com/album/5C2WzSEWBw5MmyWiFhIN6B"
-      },
-      "artists": [
-        {
-          "name": "C\u1eadu Ph\u00e1t",
-          "url": "https://open.spotify.com/artist/6sB72O2Urftmd5xbC6AwjO"
-        },
-        {
-          "name": "Minh V\u0169",
-          "url": "https://open.spotify.com/artist/42070xcFbkPmMRLZLIE8VM"
-        }
-      ],
-      "duration_ms": 206614,
-      "name": "Ph\u01b0\u1ee3ng Th\u1eafm L\u00e2u Phai",
-      "url": "https://open.spotify.com/track/6h8EA3IzNNCoZbtUc1ViMC"
     },
     {
       "added_at": "2023-03-31 02:37:19",

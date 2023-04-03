@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-206 songs - 13 hr 12 min
+207 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [I've Never Been In Love Before](https://open.spotify.com/track/4spNUk1Fj62kbBQibFAHpu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:42 | 2022-08-29 | 2022-09-01 |
 | [I've Never Been In Love Before](https://open.spotify.com/track/5Hmwj4ggGHuHm0prNevBBA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:42 | 2022-08-29 | 2022-10-13 |
 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 | 2022-09-08 |  |
+| [If It Was](https://open.spotify.com/track/0WzwQNa3Nn5VxNiFL46XMx) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 3:41 | 2023-03-23 |  |
 | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ) | 3:41 | 2022-04-14 | 2023-02-18 |
 | [It Could Happen To You](https://open.spotify.com/track/2zRdwxJioA8ID32oJAEngl) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [From This Moment On \(International eAlbum\)](https://open.spotify.com/album/27IGIkOxncgWgJzzoboDcM) | 3:26 | 2021-12-21 | 2022-07-08 |
 | [It Could Happen To You](https://open.spotify.com/track/2pNIQGq9PBvaRUnk4AsUtM) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [From This Moment On](https://open.spotify.com/album/5KeVVIp7Fffz1S9gkpTyFj) | 3:28 | 2022-09-08 | 2022-10-08 |
@@ -167,7 +168,7 @@
 | [Sunset In The Blue](https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D) | 4:32 | 2021-12-21 | 2023-02-12 |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-22 |  |
 | [Sway](https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Peter Cincotti](https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT) | 4:11 | 2022-09-08 |  |
-| [Take on Me](https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Take on Me](https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD) | 4:30 | 2022-03-24 |  |
+| [Take on Me](https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Take on Me](https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD) | 4:30 | 2022-03-24 | 2023-04-03 |
 | [Talking to Myself](https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Jacob Fischer](https://open.spotify.com/artist/0OknVSe0ayiLhKnbdV0uUF), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Chris Minh Doky](https://open.spotify.com/artist/5WebagAP4zctj6dWhmRsLL), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Remembering You](https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw) | 4:00 | 2022-09-08 |  |
 | [Taxes](https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM) | [Disco Loveless](https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL) | [Taxes](https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv) | 3:21 | 2022-04-07 | 2022-12-25 |
 | [Temptation](https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:27 | 2021-12-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 415041,
+  "num_followers": 415172,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDgzMTVhMGRhN2Y0OTMyNzAzZmQ2MWY2N2VjNTc0YjM3",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGE2NWY2NzYxMGEzNTZhN2QxMDZmODlkMWVmYmUzMzMw",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Growing Up, Vol. 1",
+        "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
+      },
+      "artists": [
+        {
+          "name": "A L E X",
+          "url": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ"
+        }
+      ],
+      "duration_ms": 96026,
+      "name": "The Burn Marks on My Epiano Wont Go Away",
+      "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Growing Up, Vol. 1",
-        "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
-      },
-      "artists": [
-        {
-          "name": "A L E X",
-          "url": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ"
-        }
-      ],
-      "duration_ms": 96026,
-      "name": "The Burn Marks on My Epiano Wont Go Away",
-      "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Majestic Casual - Chapter 3",
+        "url": "https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        },
+        {
+          "name": "shiloh",
+          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "i\u2019m sorry",
+      "url": "https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "in.the.forest.we.are.wizards",
         "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
       },
@@ -735,6 +755,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Prelude to the Dawn",
+        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
+      },
+      "artists": [
+        {
+          "name": "Behind Clouds",
+          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "But of All We Did Together, Was It Worth It?",
+      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "leaving us",
         "url": "https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC"
       },
@@ -751,22 +787,6 @@
       "duration_ms": 169941,
       "name": "can't tell",
       "url": "https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Prelude to the Dawn",
-        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
-      },
-      "artists": [
-        {
-          "name": "Behind Clouds",
-          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "But of All We Did Together, Was It Worth It?",
-      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -807,22 +827,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY"
-      },
-      "artists": [
-        {
-          "name": "Shrimpnose",
-          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "Wretched",
-      "url": "https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Majestic Casual - Chapter 3",
-        "url": "https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6"
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY"
       },
       "artists": [
         {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        },
-        {
-          "name": "shiloh",
-          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
         }
       ],
-      "duration_ms": 157333,
-      "name": "i\u2019m sorry",
-      "url": "https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU"
+      "duration_ms": 130169,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu"
     },
     {
       "added_at": "2023-02-16 22:50:07",

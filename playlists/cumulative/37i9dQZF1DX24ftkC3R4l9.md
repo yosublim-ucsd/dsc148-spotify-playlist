@@ -4,7 +4,7 @@
 
 > Max Richter's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-22 songs - 1 hr 43 min
+23 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Omni Vignette](https://open.spotify.com/track/6QFj2DMznntolgajylaJeT) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:18 | 2023-01-10 | 2023-02-02 |
 | [Plan & Elevation: IV\. The Orangery](https://open.spotify.com/track/2dMkqOH8CjJGwDcyLcNuZI) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Caroline Shaw: Orange](https://open.spotify.com/album/5d0tz2baP5WGhMzZvONcgU) | 1:57 | 2023-01-10 |  |
 | [Psychogeography](https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 6:53 | 2023-01-10 |  |
-| [Reminiscence](https://open.spotify.com/track/77mcZL6Qj3hEjvqe2CJWZm) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Reminiscence](https://open.spotify.com/album/7kCmF1EA4lIDRjPnDfkUje) | 9:28 | 2023-01-10 |  |
+| [Reminiscence](https://open.spotify.com/track/2pNkNx94XEbvpjUBd9DR8o) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Reminiscence](https://open.spotify.com/album/44gt02albfXsycbp4xmOpK) | 9:28 | 2023-01-10 |  |
+| [Reminiscence](https://open.spotify.com/track/77mcZL6Qj3hEjvqe2CJWZm) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Reminiscence](https://open.spotify.com/album/7kCmF1EA4lIDRjPnDfkUje) | 9:28 | 2023-01-10 | 2023-04-03 |
 | [Sunlight \- Orchestra Version](https://open.spotify.com/track/4vPGXkZYKmyFjnwRFF4RJq) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Baltic Sea Philharmonic](https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt), [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7) | [Sunlight](https://open.spotify.com/album/0ANoKVoUntfUImCzarlu8A) | 3:58 | 2023-01-10 |  |
 | [Three Worlds: Music from Woolf Works / Orlando: Entropy](https://open.spotify.com/track/4RwJIEJfoIVnFpi4hfhnFL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Three Worlds: Music From Woolf Works](https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D) | 1:32 | 2023-01-10 |  |
 | [Violin Sonata No\. 2 in A Minor, BWV 1003: IV\. Allegro](https://open.spotify.com/track/2djkDNY0TN5C34OZvZmxHx) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Christiane Edinger](https://open.spotify.com/artist/2qn7oYvrCrKti56IQXOyLt) | [Bach: Sonatas and Partitas for Solo Violin, Vol\. 1](https://open.spotify.com/album/4Jj0A2cAFVSdYkAdhZ4Oju) | 5:08 | 2023-01-10 |  |

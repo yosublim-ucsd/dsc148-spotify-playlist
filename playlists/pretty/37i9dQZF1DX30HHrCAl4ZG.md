@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Royel Otis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,378 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,415 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 41 | [Disappointment](https://open.spotify.com/track/3q08Ty0Y32SXBDumtlFT8v) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Disappointment](https://open.spotify.com/album/3vdEPdCmjkdxlprWNkgRsZ) | 3:48 |
 | 42 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 |
 | 43 | [Love in the Afternoon](https://open.spotify.com/track/7GdhqmcbfFfTLXVfhysn1Y) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Love in the Afternoon](https://open.spotify.com/album/6N43rFu2J4IktSSQgZyhLL) | 3:30 |
-| 44 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 |
+| 44 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 | 45 | [Hotel Window](https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Hotel Window](https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm) | 2:03 |
 | 46 | [Red Hot](https://open.spotify.com/track/5Cklo32fSNbvHRbXLs3dc5) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Red Hot](https://open.spotify.com/album/2p1CTtfcaZTL6isuwjUTf2) | 2:38 |
 | 47 | [King of Nothing](https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 |
 | 100 | [Buzzed](https://open.spotify.com/track/2TNfI1TGo40RpRfvIuI2zO) | [Caroline Culver](https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0) | [Buzzed](https://open.spotify.com/album/68bbtsnWT7V3jOx4iGlxYq) | 2:57 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDk4OTQ5MDE1NTRiZDNjN2Q2ZTYxZDM1MjM0YTExZTI5`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDcyZDU3YmJiYjQ3ZmQ0MjViMWY4OGRjNDYwODJkZmE1`

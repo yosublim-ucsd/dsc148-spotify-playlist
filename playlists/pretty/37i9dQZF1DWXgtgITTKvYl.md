@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,165 likes - 76 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,205 likes - 76 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 45 | [Future Memories](https://open.spotify.com/track/7hPKHjWDp2vmPEg6TCtjuP) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [The Quest](https://open.spotify.com/album/5mJQGS0NqD41OGyM77vIX9) | 5:07 |
 | 46 | [Somber Aeons](https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [Unknown Heights](https://open.spotify.com/album/5S4nQWwcdVnWQwjjLUBbzX) | 6:12 |
 | 47 | [Punchin'](https://open.spotify.com/track/1VhH0ZimszA3aPx0JiBAvb) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Punchin'](https://open.spotify.com/album/1Mcvljl7BijHztqsa9xFHL) | 3:04 |
-| 48 | [Right Way Back](https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I \(Live Expanded\)](https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO) | 3:51 |
+| 48 | [Right Way Back](https://open.spotify.com/track/25OW2oQUUF6YU3ndJArtSB) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Fearless](https://open.spotify.com/album/7pksbj88zVcexbacR0GfrP) | 3:51 |
 | 49 | [Follow The Fool](https://open.spotify.com/track/1M7oaMe4qLxXtuY8wlbcso) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Follow The Fool](https://open.spotify.com/album/1RdlpTc1kCOCr0mHfTdXu1) | 3:45 |
 | 50 | [Eyes](https://open.spotify.com/track/4aiHWfoe3Z3dwIvR7uNAGo) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS) | 4:52 |
 | 51 | [Portrait](https://open.spotify.com/track/61OLiZOlb72LJCfl5zVMcG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Portrait](https://open.spotify.com/album/28dDtNxyObSHx2v0fP3SnO) | 4:03 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 75 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 |
 | 76 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 |
 
-Snapshot ID: `MTY2ODcwMTczOSwwMDAwMDAwMDJiNDZkZjRkMjZlZTA5NmEyZTI5YWY0MTIwNzcyNGJj`
+Snapshot ID: `MTY2ODcwMTczOSwwMDAwMDAwMGIyMWEzOGNkOGJmZTcyMjg3YTIyMmEyNTNhNzRhOThj`

@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 2324,
+  "num_followers": 2353,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMGVjYWY3MGRiZGU1NTBhMmIxZTJiYjQ0NGUzMWFkYmEz",
+  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMGIxNzQ5Mzc4N2JhMGQxY2Y1YWVmNDZhYWM2NGJlNjU1",
   "tracks": [
     {
       "added_at": "2023-03-01 15:55:04",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/6bYHF7Tt9cS59RbcezAbSa"
     },
     {
+      "added_at": "2023-04-03 00:28:50",
+      "album": {
+        "name": "Highway Birds",
+        "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
+      },
+      "artists": [
+        {
+          "name": "Betweetle",
+          "url": "https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl"
+        }
+      ],
+      "duration_ms": 107839,
+      "name": "Highway Birds",
+      "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
+    },
+    {
       "added_at": "2023-03-01 15:55:04",
       "album": {
         "name": "Rain Forest Bird Sounds",
@@ -199,22 +215,6 @@
       "duration_ms": 78019,
       "name": "Joyful Birds",
       "url": "https://open.spotify.com/track/7nyQjweH9QQl0b8f4RgNbc"
-    },
-    {
-      "added_at": "2023-04-02 01:06:11",
-      "album": {
-        "name": "Highway Birds",
-        "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
-      },
-      "artists": [
-        {
-          "name": "Betweetle",
-          "url": "https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl"
-        }
-      ],
-      "duration_ms": 107839,
-      "name": "Highway Birds",
-      "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv"
     },
     {
-      "added_at": "2023-04-02 01:06:11",
+      "added_at": "2023-04-03 00:28:50",
       "album": {
         "name": "Warmer Seasons",
         "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt"
     },
     {
-      "added_at": "2023-04-02 01:06:11",
+      "added_at": "2023-04-03 00:28:50",
       "album": {
         "name": "In the Midst of Nature",
         "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
-        "name": "The Cuckoo by the Lagoon",
-        "url": "https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5"
-      },
-      "artists": [
-        {
-          "name": "Actors of Nature",
-          "url": "https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "Bird-watching",
-      "url": "https://open.spotify.com/track/3q1utXbOrLhfUO3S1daLdE"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
         "name": "Wonderful Morning",
         "url": "https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 166500,
       "name": "Blackbird Singing",
       "url": "https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
+        "name": "The Cuckoo by the Lagoon",
+        "url": "https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5"
+      },
+      "artists": [
+        {
+          "name": "Actors of Nature",
+          "url": "https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Bird-watching",
+      "url": "https://open.spotify.com/track/3q1utXbOrLhfUO3S1daLdE"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
-        "name": "Wonderful Morning",
-        "url": "https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT"
-      },
-      "artists": [
-        {
-          "name": "Sounds on Earth",
-          "url": "https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn"
-        }
-      ],
-      "duration_ms": 174300,
-      "name": "Wonderful Morning",
-      "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
         "name": "Orchid Stories",
         "url": "https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 141954,
       "name": "Early Bird Sound",
       "url": "https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
+        "name": "Wonderful Morning",
+        "url": "https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT"
+      },
+      "artists": [
+        {
+          "name": "Sounds on Earth",
+          "url": "https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "Wonderful Morning",
+      "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
     },
     {
       "added_at": "2023-03-01 15:55:04",

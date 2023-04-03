@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 173548,
+  "num_followers": 173598,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDQ4NWRmOGUzNWYyMjNiYTNmZjQ5NmRiZjBkZGVjOTcx",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGU1MzU4NDY1YzU5YTk1Njk1MjljMWI3NzJlNGJiMzcx",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Eat The Elephant",
+        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 281626,
+      "name": "The Doomed",
+      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 218571,
       "name": "DOA [Feat. Joyner Lucas]",
       "url": "https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Eat The Elephant",
-        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 281626,
-      "name": "The Doomed",
-      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
     },
     {
       "added_at": "2022-11-04 04:00:00",

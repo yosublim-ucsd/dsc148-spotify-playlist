@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21390,
+  "num_followers": 21399,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMDYzMzI2NTc5NjQyMjMxYjU5OWE5YmFkMGJjNTM3NDIx",
+  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMDYxNmJkZmZiY2I2MWFjMzJiMGZkNDU4OTkyZjhhOGZh",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "Gangsta",
-        "url": "https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27"
-      },
-      "artists": [
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "Blue Rag",
         "url": "https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 117251,
       "name": "Blue Rag",
       "url": "https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27"
+      },
+      "artists": [
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
         "url": "https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 175280,
       "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
       "url": "https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-03-10 22:02:53",

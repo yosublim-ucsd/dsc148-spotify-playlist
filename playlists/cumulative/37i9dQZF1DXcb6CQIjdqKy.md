@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM?si=pi0iNXwBQ8arPDZIBu3PIw">Hillsong UNITED</a>
 
-493 songs - 1 day 10 hr 23 min
+494 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Satisfy \- Live](https://open.spotify.com/track/1WErEColHROo7tplKICaCZ) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Brandin Reed and Friends \(Live\)](https://open.spotify.com/album/3kt0WFzUz7gJRPUrxkrLgR) | 5:59 | 2022-01-21 | 2022-07-02 |
 | [Save Me \- Bonus Track](https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:23 | 2021-12-17 | 2022-04-02 |
 | [Scars in Heaven](https://open.spotify.com/track/2qg7U5mbHDFTXNKvPNF0IZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Scars in Heaven](https://open.spotify.com/album/6pdwWxEt670pc5jYxzbmYf) | 4:28 | 2021-12-17 | 2022-02-19 |
-| [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 | 2023-02-24 |  |
+| [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 | 2023-02-24 | 2023-04-03 |
 | [See Me Through It](https://open.spotify.com/track/05eikM2NTIUSEHrrSik0lT) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [See Me Through It](https://open.spotify.com/album/5x0WmBftv4F84TuqYwtT3U) | 2:28 | 2022-01-14 | 2022-04-23 |
 | [See Me Through It](https://open.spotify.com/track/6ymBqDImXK5whaMxqynqX8) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 2:29 | 2022-06-17 | 2023-02-25 |
 | [Show Up Choose Love \(feat\. Jon Reddick\)](https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Show Up Choose Love](https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC) | 3:32 | 2022-08-05 | 2022-08-20 |
@@ -478,6 +478,7 @@
 | [Who Else \(Single Mix\)](https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Who Else](https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO) | 3:28 | 2021-12-17 | 2022-03-05 |
 | [Who I Am](https://open.spotify.com/track/7p1QBR2jcSDDrknfkuxkYE) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/71PBwQLNUhuc6keb5RDwoh) | 3:28 | 2022-08-19 | 2022-09-24 |
 | [Wholehearted](https://open.spotify.com/track/0hyP1FixDFPwp2BAmMntZd) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Wholehearted](https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J) | 3:02 | 2021-12-17 | 2023-02-25 |
+| [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 | 2023-04-02 |  |
 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 | 2022-04-29 | 2022-08-20 |
 | [Wide Awake](https://open.spotify.com/track/0y6TqV4FeDaaui7G4olxzJ) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB), [KB](https://open.spotify.com/artist/1pd14y0VMTckHthjGWy4gX) | [Glory Fills This Room](https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW) | 3:48 | 2022-02-25 | 2022-07-09 |
 | [Wildfire](https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Wildfire](https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z) | 3:11 | 2021-12-17 | 2022-01-22 |

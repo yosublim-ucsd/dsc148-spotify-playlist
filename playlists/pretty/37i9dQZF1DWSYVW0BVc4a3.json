@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Fred again.., Skrillex & Four Tet",
-  "num_followers": 74082,
+  "num_followers": 74172,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIyODAwMCwwMDAwMDAwMGRmMzMxZWQ1NGVjMjFiZWQxZGM0ZDNhNmE0ZWYzNTUy",
+  "snapshot_id": "MTY4MDIyODAwMCwwMDAwMDAwMDJjODE3ZDRlNmJjYjkxMjM4NWNkZjJlYWYyZWE5NjBl",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/32CMKSnLQtj4G6K7KSjb4v"
     },
     {
-      "added_at": "2023-04-02 00:23:47",
+      "added_at": "2023-04-03 00:22:16",
       "album": {
         "name": "See This Through",
         "url": "https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
     },
     {
-      "added_at": "2023-04-02 00:23:47",
+      "added_at": "2023-04-03 00:22:16",
       "album": {
         "name": "Lipstick (feat. Robbie Rise) [GUZ Remix]",
         "url": "https://open.spotify.com/album/1yWK7MjyNkym9898cW3VsN"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V"
     },
     {
-      "added_at": "2023-04-02 00:23:47",
+      "added_at": "2023-04-03 00:22:16",
       "album": {
         "name": "Blood In The Snow (Tibi Dabo Remix)",
         "url": "https://open.spotify.com/album/73wQ9Xm8wzPKgCmLxysMv0"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN"
     },
     {
-      "added_at": "2023-04-02 00:23:47",
+      "added_at": "2023-04-03 00:22:16",
       "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6Y4l0hrXf9GMcCzkvW1Aol"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/1ZEwAUD9knWugDYjYiyKFM"
     },
     {
-      "added_at": "2023-04-02 00:23:47",
+      "added_at": "2023-04-03 00:22:16",
       "album": {
         "name": "Fist Fight",
         "url": "https://open.spotify.com/album/01Sa5u8UaJNjkvLQMjdiuh"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/49ukfaSyAB4sPWsstKQGBr"
     },
     {
-      "added_at": "2023-04-02 00:23:47",
+      "added_at": "2023-04-03 00:22:16",
       "album": {
         "name": "Sizo",
         "url": "https://open.spotify.com/album/05eqoFV6gWprLVsSZOlVrA"
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "(still) WON'T4GETU",
         "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Surrender (Remixes)",
         "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Dreamcast",
-        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 325744,
-      "name": "Dreamcast",
-      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Magalenha",
         "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 174375,
       "name": "Magalenha",
       "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Dreamcast",
+        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 325744,
+      "name": "Dreamcast",
+      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -919,6 +919,22 @@
       "duration_ms": 478080,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 412505,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 236078,
       "name": "This Feeling - Yotto Remix",
       "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 412505,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Oxygen Levels Low EP",
-        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
-      },
-      "artists": [
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        }
-      ],
-      "duration_ms": 446280,
-      "name": "Oxygen Levels Low",
-      "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Oxygen Levels Low EP",
+        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "duration_ms": 446280,
+      "name": "Oxygen Levels Low",
+      "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 271642,
-      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "City Boy",
         "url": "https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222992,
       "name": "City Boy",
       "url": "https://open.spotify.com/track/44bA4pNIp4Qbewb4u4GcCO"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "KEEP ME IN YOUR MIND (Einmusik Remix)",
-        "url": "https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 389575,
-      "name": "KEEP ME IN YOUR MIND - Einmusik Remix",
-      "url": "https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Sinnerman (Henrik Schwarz Remixes)",
         "url": "https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 215541,
       "name": "Sinnerman (Henrik Schwarz Remix)",
       "url": "https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "KEEP ME IN YOUR MIND (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 389575,
+      "name": "KEEP ME IN YOUR MIND - Einmusik Remix",
+      "url": "https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Maya!",
+        "url": "https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou"
+      },
+      "artists": [
+        {
+          "name": "GRAZZE",
+          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
+        },
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "La Ni\u00f1a De La Aldea - widerberg Remix",
+      "url": "https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm"
       },
@@ -1515,22 +1535,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Maya!",
-        "url": "https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou"
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
       "artists": [
         {
-          "name": "GRAZZE",
-          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
-        },
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
         }
       ],
-      "duration_ms": 286829,
-      "name": "La Ni\u00f1a De La Aldea - widerberg Remix",
-      "url": "https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil"
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 214687,
       "name": "So Alive - Bruno Furlan Remix",
       "url": "https://open.spotify.com/track/7jOVna1TiWHTohHFk7DQyb"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        }
+      ],
+      "duration_ms": 258716,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -1811,22 +1831,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr"
+        "name": "Via Infinita",
+        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "AWEN",
-          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
         }
       ],
-      "duration_ms": 258716,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM"
+      "duration_ms": 237096,
+      "name": "Via Infinita",
+      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1847,22 +1863,6 @@
       "duration_ms": 304042,
       "name": "Still Rushing - Azzecca Remix",
       "url": "https://open.spotify.com/track/1onY0fCdnvfCC7NhqPIQ2z"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Via Infinita",
-        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Via Infinita",
-      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
     },
     {
       "added_at": "2023-03-23 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 62830,
+  "num_followers": 62866,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGIxZTRhZWVjYTI0YWJlZTkxOGEyMzdkMzk1OTA0MTM2",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDlmYWI2YWU1ZWI3NTVkZGRiYjg4OThkYTQwMzVhNzNh",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "\u00c9xitos Alci Acosta",
+        "url": "https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "duration_ms": 175418,
+      "name": "La C\u00e1rcel de Sing Sing",
+      "url": "https://open.spotify.com/track/5zOEaIEjObo2QM2sHg468m"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 222453,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "\u00c9xitos Alci Acosta",
-        "url": "https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 175418,
-      "name": "La C\u00e1rcel de Sing Sing",
-      "url": "https://open.spotify.com/track/5zOEaIEjObo2QM2sHg468m"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -407,22 +407,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
-        "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
+        "name": "\u00c9xitos Alci Acosta",
+        "url": "https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Vicentico Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
         }
       ],
-      "duration_ms": 145426,
-      "name": "Los Aretes De La Luna",
-      "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
+      "duration_ms": 152531,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/6VUzRBWXZwsH6ODa68KNdX"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -443,6 +439,26 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
+        "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Vicentico Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Los Aretes De La Luna",
+      "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Antolog\u00eda 1960 - 1990 (Remastered)",
         "url": "https://open.spotify.com/album/2xAG4UwtVF0U4rG6xLawfx"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "\u00c9xitos Alci Acosta",
-        "url": "https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa"
+        "name": "Musica...Recuerdo Inolvidable",
+        "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
       },
       "artists": [
         {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+          "name": "El Super Trio",
+          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
         }
       ],
-      "duration_ms": 152531,
-      "name": "El Contragolpe",
-      "url": "https://open.spotify.com/track/6VUzRBWXZwsH6ODa68KNdX"
+      "duration_ms": 159240,
+      "name": "Se Rompio la Cadena",
+      "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -487,22 +503,6 @@
       "duration_ms": 294000,
       "name": "Mil A\u00f1os",
       "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Musica...Recuerdo Inolvidable",
-        "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
-      },
-      "artists": [
-        {
-          "name": "El Super Trio",
-          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
-        }
-      ],
-      "duration_ms": 159240,
-      "name": "Se Rompio la Cadena",
-      "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "La Voz Elegante del Bolero",
+        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Farf\u00e1n",
+          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "Se\u00f1or Abogado",
+      "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "La Voz Elegante del Bolero",
-        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
+        "name": "Toda una Vida",
+        "url": "https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY"
       },
       "artists": [
         {
-          "name": "Johnny Farf\u00e1n",
-          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
+          "name": "Carmen Delia Dipini",
+          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
         }
       ],
-      "duration_ms": 163400,
-      "name": "Se\u00f1or Abogado",
-      "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
+      "duration_ms": 178733,
+      "name": "Dimelo",
+      "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -635,22 +651,6 @@
       "duration_ms": 113653,
       "name": "Se\u00f1or Abogado",
       "url": "https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Toda una Vida",
-        "url": "https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY"
-      },
-      "artists": [
-        {
-          "name": "Carmen Delia Dipini",
-          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Dimelo",
-      "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "50 A\u00f1os Live",
-        "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Y Despu\u00e9s Del Amor",
-      "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 173373,
       "name": "Ese Bolero Es M\u00edo",
       "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "50 A\u00f1os Live",
+        "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Y Despu\u00e9s Del Amor",
+      "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
-      },
-      "artists": [
-        {
-          "name": "Tito Cortes",
-          "url": "https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa"
-        }
-      ],
-      "duration_ms": 168829,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Un Bolero un Vals",
         "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 384253,
       "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
       "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
+      },
+      "artists": [
+        {
+          "name": "Tito Cortes",
+          "url": "https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa"
+        }
+      ],
+      "duration_ms": 168829,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
     },
     {
       "added_at": "2021-12-17 05:01:00",

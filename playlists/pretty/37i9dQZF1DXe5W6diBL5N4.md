@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: JISOO\(지수\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,576 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,791 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 |
 | 2 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 3 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 |
-| 4 | [pick up](https://open.spotify.com/track/5oDnl57QoYdMsTMvRH02N9) | [H4RDY](https://open.spotify.com/artist/66mBCXkanukiTajjNp9A7N), [Rhythm Power](https://open.spotify.com/artist/5gak9sIzatz00aPsLdHVUW) | [pick up](https://open.spotify.com/album/6EzBYX8kxItoy1D9llVIrW) | 3:14 |
+| 4 | [pick up](https://open.spotify.com/track/5oDnl57QoYdMsTMvRH02N9) | [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z), [Rhythm Power](https://open.spotify.com/artist/5gak9sIzatz00aPsLdHVUW) | [pick up](https://open.spotify.com/album/6EzBYX8kxItoy1D9llVIrW) | 3:14 |
 | 5 | [I Can Hear You](https://open.spotify.com/track/0u0v79ZcKYls9rVGoON2I5) | [You Me](https://open.spotify.com/artist/4DiKhjPn8jdjFuA763CGZl) | [Taxidriver2 OST Part.7](https://open.spotify.com/album/01FnOgodtLpAzyQeKbjldp) | 3:40 |
 | 6 | [Anomaly](https://open.spotify.com/track/5DvxeABzpKJ5wrQ9PNYzAN) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Anomaly](https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0) | 3:01 |
 | 7 | [Dreamer](https://open.spotify.com/track/0TSHgdcpZdMFicNd3gsbTS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Dreamer](https://open.spotify.com/album/07A0rd1XgK6o9pCDpMbXNa) | 3:35 |

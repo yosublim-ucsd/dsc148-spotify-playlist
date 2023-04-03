@@ -1,6 +1,6 @@
 {
   "description": "Novedades poderosas, perronas y llegadoras de la M\u00fasica Mexicana. Luis R Conriquez y Grupo Laberinto en portada.",
-  "num_followers": 272868,
+  "num_followers": 273270,
   "original_name": "Novedades M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -404,12 +404,12 @@
       },
       "artists": [
         {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        },
-        {
           "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
           "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        },
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
         }
       ],
       "duration_ms": 240065,

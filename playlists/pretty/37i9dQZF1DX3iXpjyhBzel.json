@@ -1,15 +1,15 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Aline Barros",
-  "num_followers": 913556,
+  "num_followers": 913847,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI2Njg3NSwwMDAwMDAwMDk3ZDU1ZjMwMGEzYTJiYjIwYjFmMjMwY2M3Njc3YzEy",
+  "snapshot_id": "MTY4MDI2Njg3NSwwMDAwMDAwMDI5MmZmNjc5NjZkOTQ5NWUyNzE1ODdhNjY0YTNjY2Zm",
   "tracks": [
     {
-      "added_at": "2023-04-02 00:29:52",
+      "added_at": "2023-04-03 01:01:58",
       "album": {
         "name": "30 Anos (Vol. I)",
         "url": "https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l"
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "N\u00e3o Acabou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 315556,
-      "name": "N\u00e3o Acabou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 303346,
       "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
       "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 315556,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 248811,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/0EMf4CzvPd1z50iqRbmLfl"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Foi Deus",
         "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 398188,
       "name": "\u00c1guas Purificadoras/Oceanos - Ao Vivo",
       "url": "https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 248811,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/0EMf4CzvPd1z50iqRbmLfl"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Seu Amor / Diante da Cruz",
-        "url": "https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 497600,
-      "name": "Seu Amor / Diante da Cruz",
-      "url": "https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Rei da Gl\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbdZIKpJM32CHylgpB851"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 312219,
       "name": "Santo Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Seu Amor / Diante da Cruz",
+        "url": "https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 497600,
+      "name": "Seu Amor / Diante da Cruz",
+      "url": "https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Eu Amo a Tua Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        }
-      ],
-      "duration_ms": 538613,
-      "name": "Eu Amo a Tua Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Romanos 8:26 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
       },
@@ -1083,22 +1063,6 @@
       "duration_ms": 269739,
       "name": "Romanos 8:26 (Ao Vivo)",
       "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1119,6 +1083,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Quebro Meu Vaso",
         "url": "https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2"
       },
@@ -1135,18 +1115,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Anseio Ardente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3POR0uxg3pcTRugYmPVGGi"
+        "name": "Eu Amo a Tua Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca"
       },
       "artists": [
         {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
         }
       ],
-      "duration_ms": 404383,
-      "name": "Anseio Ardente - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AcVl7SE6owh7okU2oQBUQ"
+      "duration_ms": 538613,
+      "name": "Eu Amo a Tua Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 356214,
       "name": "Santo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/240EAtaZRleOj2CVcW6cpA"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Anseio Ardente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3POR0uxg3pcTRugYmPVGGi"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 404383,
+      "name": "Anseio Ardente - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AcVl7SE6owh7okU2oQBUQ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Sol da Justi\u00e7a",
+        "url": "https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 341962,
+      "name": "Sol da Justi\u00e7a",
+      "url": "https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Eis-me Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Sol da Justi\u00e7a",
-        "url": "https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 341962,
-      "name": "Sol da Justi\u00e7a",
-      "url": "https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI"
       },
@@ -1487,26 +1487,6 @@
       "duration_ms": 268661,
       "name": "Deus Cuida De Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Ess\u00eancia da Adora\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51pKYm2vz5dbK0Tn0xoCkU"
-      },
-      "artists": [
-        {
-          "name": "Lu Alone",
-          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ess\u00eancia da Adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/2NVOSlLVgrsgD2Vugz4J03"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1531,6 +1511,26 @@
       "duration_ms": 330200,
       "name": "Na Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/1dgxAD9MgYOm5lLrmskGLP"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Ess\u00eancia da Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51pKYm2vz5dbK0Tn0xoCkU"
+      },
+      "artists": [
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ess\u00eancia da Adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NVOSlLVgrsgD2Vugz4J03"
     },
     {
       "added_at": "2023-03-24 03:00:00",

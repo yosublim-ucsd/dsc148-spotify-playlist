@@ -20788,7 +20788,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 168000,
       "name": "Cosmic Surf",
       "url": "https://open.spotify.com/track/6BdEZwzy7KmrTKWvyPsBrP"
@@ -28442,7 +28442,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 166426,
       "name": "En mis sue\u00f1os te veo",
       "url": "https://open.spotify.com/track/4bBmv53UzlTGTqBFxWJwkv"
@@ -31610,7 +31610,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 147640,
       "name": "Finders Keepers",
       "url": "https://open.spotify.com/track/0H6V6TCZ2X0hVz7WLE5nCX"
@@ -43798,7 +43798,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 146866,
       "name": "ILY Eeve",
       "url": "https://open.spotify.com/track/3tSkSs0h0zeC6mtvmXz0Uu"
@@ -47196,6 +47196,36 @@
       "duration_ms": 178760,
       "name": "Jordans",
       "url": "https://open.spotify.com/track/6vJ4Z2Hc5Bmm0sdqf9CtTR"
+    },
+    {
+      "album": {
+        "name": "Regarding Miles Davis",
+        "url": "https://open.spotify.com/album/62xEZuZiQHjw45RHhnDw7t"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "Matthijs Geerts",
+          "url": "https://open.spotify.com/artist/5drWMmikuA0FAJmNCxz3fE"
+        },
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        },
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145616,
+      "name": "Joshua",
+      "url": "https://open.spotify.com/track/24lcLxbhmS2YwQr7eCKbbp"
     },
     {
       "album": {
@@ -79856,7 +79886,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 126857,
       "name": "Seed",
       "url": "https://open.spotify.com/track/46rN0dUTqxTeWtF0g1lgKr"

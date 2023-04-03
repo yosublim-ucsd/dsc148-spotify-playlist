@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Jota Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,698 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,709 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 2 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 |
 | 3 | [Você Está Com Febre?](https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Você Está Com Febre?](https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL) | 2:45 |
 | 4 | [Pierrot e Colombina](https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Pierrot e Colombina](https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC) | 3:59 |
-| 5 | [Forte](https://open.spotify.com/track/25WxHeVrvnZlqw77YCUBw4) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [DJ Erick Jay](https://open.spotify.com/artist/3Jwzin3ekPemfhs79RrsOf) | [Forte](https://open.spotify.com/album/0OMWmUYryA0lJzXhR5vGEj) | 3:03 |
+| 5 | [Forte](https://open.spotify.com/track/022xGfOjOH2Hm9zP6WoPPO) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [DJ Erick Jay](https://open.spotify.com/artist/3Jwzin3ekPemfhs79RrsOf), [Beatmonk](https://open.spotify.com/artist/50OGScQr1zEwOnwxJqbXBh) | [Forte](https://open.spotify.com/album/6iWJpsVhxmHkNpjJRgFwoI) | 3:03 |
 | 6 | [São Bento Vive!](https://open.spotify.com/track/6eWvgP1RVaRMbuqnSHhXQ1) | [Sobrenome De Mello](https://open.spotify.com/artist/0wsWuJbPs4nflTLs6fIGbs), [Dö Mc](https://open.spotify.com/artist/3ZUnv9j8nKS09bTDzTuYVB), [Lou Piensa](https://open.spotify.com/artist/3Epr49EwL2ztSjaYTgKzBc), [Nuno Mendes](https://open.spotify.com/artist/20XcqrSCaLh6Elb3m4RUCt) | [São Bento Vive!](https://open.spotify.com/album/3HjqfQOXGhHJD1hA0fRR1t) | 5:10 |
 | 7 | [Louco Tá O Mundo Não Eu](https://open.spotify.com/track/1WIDnIkQ2Ymb2pAlzVC2ms) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [MESTRE XIM](https://open.spotify.com/artist/6RDLj3RVJyyNWd4aTNNebd) | [Louco Tá O Mundo Não Eu](https://open.spotify.com/album/2rHy0XC2fakSxtObWwTJEa) | 2:59 |
 | 8 | [5AM](https://open.spotify.com/track/49PonczSLhra0DxsSdSxq8) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Buenos Aires](https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Joe Sujera](https://open.spotify.com/artist/1l1aoY37uXAYtAZ7WESb5E), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Buenos Aires](https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k) | 3:03 |
 | 75 | [Vida De Cinema](https://open.spotify.com/track/6pV19HgJpUnkI4cV5uqgw5) | [Gabriel Terra](https://open.spotify.com/artist/1ziLod0n75PZojB7DAJIt0), [Coliseu](https://open.spotify.com/artist/5Ydr3k96ckQsVzAWEdHf6F), [Vítor Rêgo](https://open.spotify.com/artist/3GfexUs7NHwpx7eP0VAXlS), [Paulo Arthur](https://open.spotify.com/artist/1mM60Kn9oT7soffYbS1blg) | [Vida De Cinema](https://open.spotify.com/album/5Njc5TCgFIJYOGJfjjZwul) | 3:14 |
 
-Snapshot ID: `MTY4MDIzMTY2MCwwMDAwMDAwMGRhOWJjMTFlZDAwODY3NTAzMTA0MTRhOWQyNDY2Mzkw`
+Snapshot ID: `MTY4MDIzMTY2MCwwMDAwMDAwMDRhZDdmODY3YjZjOThjY2VlMDViZjdlOTY2YTNkMGU3`

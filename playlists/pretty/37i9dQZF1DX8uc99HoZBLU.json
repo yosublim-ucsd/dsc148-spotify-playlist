@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 728452,
+  "num_followers": 728753,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDQ3MDZkMDU0MDBkOWRhMjU2NGIzZWRlYzY0MWU2NWE0",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGQxMmJmNTJmNTI4NTEwNDYzOGMxZWE5MzlkYjIzZjBl",
   "tracks": [
     {
       "added_at": "2023-02-15 18:40:28",
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
     },
     {
-      "added_at": "2023-04-02 00:38:05",
+      "added_at": "2023-04-03 01:28:49",
       "album": {
         "name": "Lavender Haze (Acoustic Version)",
         "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
-      "added_at": "2023-04-02 00:38:05",
+      "added_at": "2023-04-03 01:28:49",
       "album": {
         "name": "Joker & Rainbow",
         "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
-      "added_at": "2023-04-02 00:38:05",
+      "added_at": "2023-04-03 01:28:49",
       "album": {
         "name": "Looking At Me",
         "url": "https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue"
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2023-02-15 18:40:28",
       "album": {
-        "name": "SALES LP",
-        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Ark Patrol",
+          "url": "https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9"
+        },
+        {
+          "name": "Veronika Redd",
+          "url": "https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Pope Is a Rockstar",
-      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+      "duration_ms": 248056,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI"
     }
   ],
   "unique_name": "aesthetic",

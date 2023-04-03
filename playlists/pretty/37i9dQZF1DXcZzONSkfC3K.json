@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 135398,
+  "num_followers": 135448,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDI0MywwMDAwMDAwMDZiYWE4MmQ5YzU5N2U4YzJmYjE1OTgwODZjNWIxZmJj",
+  "snapshot_id": "MTY3OTAxNDI0MywwMDAwMDAwMDlkNzgyZTY3NWY0NDhiNjE1NzVhZDlkODcwMmEzZTk2",
   "tracks": [
     {
       "added_at": "2023-03-17 00:50:43",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "Serie Sensacional: Marvin Santiago",
-        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "Fuego A La Jicotea",
-      "url": "https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 185252,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
+        "name": "Serie Sensacional: Marvin Santiago",
+        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
+      },
+      "artists": [
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "Fuego A La Jicotea",
+      "url": "https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "Arroz Con Habichuela",
-        "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 356640,
-      "name": "Arroz Con Habichuela",
-      "url": "https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 219049,
       "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
+        "name": "Arroz Con Habichuela",
+        "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 356640,
+      "name": "Arroz Con Habichuela",
+      "url": "https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS"
     },
     {
       "added_at": "2023-03-17 00:50:43",

@@ -100,7 +100,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 237009,
       "name": "10 Missed Calls (feat. Pharrell Williams & Jozzy)",
       "url": "https://open.spotify.com/track/5o1JjtIuYRXBoea4WBZGDc"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 165004,
       "name": "Addict",
       "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 165580,
       "name": "Against The Rest",
       "url": "https://open.spotify.com/track/6IPkf3kASYGkgeHuvxRMXO"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
@@ -3168,7 +3168,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 166742,
       "name": "Black Hole - Goodboys Remix",
       "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 209761,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2kOH6869hEfccaUuR4jFMu"
@@ -8938,7 +8938,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 216480,
       "name": "Feel About You - Edit",
       "url": "https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul"
@@ -9366,7 +9366,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 235562,
       "name": "Finally Ready (feat. Billy Porter) - David Penn Remix",
       "url": "https://open.spotify.com/track/1iorKFVLmIetGK49hoOoK3"
@@ -9388,7 +9388,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 175164,
       "name": "Find Your Way - Alle Farben Radio Edit",
       "url": "https://open.spotify.com/track/0nUnsdDbN127jU3P5KtAeA"
@@ -15708,7 +15708,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 177679,
       "name": "Leo Ni Leo",
       "url": "https://open.spotify.com/track/1zDUCwFtOGZOW2u8JgMtCZ"
@@ -16570,7 +16570,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 149805,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/5f0McQYkf82REdO4mMlgE9"
@@ -19108,7 +19108,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2020-07-20",
+      "date_removed": null,
       "duration_ms": 170476,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/1SG6r7daFfpzPcU15luVqB"
@@ -22078,7 +22078,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 164745,
       "name": "Pull Me Closer",
       "url": "https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN"
@@ -22488,6 +22488,28 @@
       "duration_ms": 146212,
       "name": "Raw",
       "url": "https://open.spotify.com/track/5FCuqnJp5w4A1LAoX5ZCtZ"
+    },
+    {
+      "album": {
+        "name": "Ready For You (feat. Celeste)",
+        "url": "https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268886,
+      "name": "Ready For You (feat. Celeste)",
+      "url": "https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9"
     },
     {
       "album": {
@@ -23094,7 +23116,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 150000,
       "name": "Roll 'n Rock",
       "url": "https://open.spotify.com/track/7p2a3eDdVHD7xlwSFstAsF"
@@ -23376,7 +23398,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 133220,
       "name": "Run Free (with HUTS)",
       "url": "https://open.spotify.com/track/1ytGToyD4sNifrEV4ZDw2p"
@@ -23758,7 +23780,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-03-17",
+      "date_removed": null,
       "duration_ms": 173538,
       "name": "Saturation",
       "url": "https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq"
@@ -23858,7 +23880,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "Say My Name - Sidney Samson Remix",
       "url": "https://open.spotify.com/track/0aVgtoMX4a2Av4l4WL56ll"
@@ -24766,7 +24788,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 184285,
       "name": "Sing It",
       "url": "https://open.spotify.com/track/3g5uTRDCdcUgylKH4wmkTW"
@@ -25466,7 +25488,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 232211,
       "name": "Soul Sacrifice",
       "url": "https://open.spotify.com/track/01fVbxyW9y2oKdXvg56uE5"
@@ -25900,7 +25922,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 187500,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4SrW1FDKAAvBHRv1y072HB"
@@ -28842,7 +28864,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 220560,
       "name": "Turn On the Bass",
       "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
@@ -29076,7 +29098,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 157000,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/3legoyCWyIjQ0vEKqy7IyW"
@@ -29678,7 +29700,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 179516,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/7pPImgMQnOFgO9lnl0NUBz"
@@ -31992,7 +32014,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 304333,
       "name": "You Know You Like It - Tchami Remix",
       "url": "https://open.spotify.com/track/6aQNsGH7p7VCFJ4zgO0MeY"
@@ -32054,7 +32076,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 236190,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4DMoP99RLqEpkrscJGO0kL"

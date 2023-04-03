@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Kabhi Kabhie
 
-133 songs - 9 hr 59 min
+134 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aaja Piya Tohe Pyar Doon \(From "Baharon Ke Sapne"\)](https://open.spotify.com/track/7HCQpQGrg2FJT9mdBs75rm) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 4:11 | 2021-09-29 |  |
 | [Aaja Sanam Madhur Chandni Men](https://open.spotify.com/track/4mvkokOAbfjx2J2TVgwVtf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Chori Chori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW) | 4:25 | 2021-09-29 |  |
 | [Aao Huzoor Tumko](https://open.spotify.com/track/2thv7dQ0No98nF5YFX4tOJ) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Kismet](https://open.spotify.com/album/3leIDawLjTre4AqvUiQLK6) | 5:52 | 2021-09-29 | 2022-07-29 |
+| [Aao Huzoor Tumko \(From "Kismat"\)](https://open.spotify.com/track/6RdkcMzJveBskbo2v4Mbxk) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Singing Icon \- Asha Bhosle](https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3) | 5:52 | 2023-03-27 |  |
 | [Aao Na Gale Lag Jao Na](https://open.spotify.com/track/0CYPWCzses6SznboW6cxbM) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Mere Jeevan Saathi](https://open.spotify.com/album/0LgDRtuJbng7HyGRHhdJGX) | 4:56 | 2021-09-29 | 2022-07-18 |
 | [Aap Ki Ankhon Mein Kuch](https://open.spotify.com/track/2hWUcbgPqVsvsgHMWEvSUe) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Ghar](https://open.spotify.com/album/5fICh4j205nDQ9tAR5omRP) | 4:09 | 2021-09-29 | 2022-07-25 |
 | [Aap Ki Ankhon Mein Kuch \(From "Ghar"\)](https://open.spotify.com/track/0DIGEuLzTRIF9jtmKQlPW4) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:09 | 2022-01-05 |  |
@@ -63,7 +64,7 @@
 | [Hum Tum Se Mohabbat Karke \- Hanste Bhi Rahe](https://open.spotify.com/track/3dWaN2oB9WvL4P3TLWZZGN) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Awaara](https://open.spotify.com/album/4FBRxpP3WLREdA32HyScFm) | 3:39 | 2021-09-29 | 2022-07-29 |
 | [Ichak Dana Beechak Dana](https://open.spotify.com/track/59EXBfMRlHQLT3zE46twiE) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420](https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE) | 4:33 | 2022-01-05 | 2022-03-02 |
 | [Isharon Isharon Men Dil Lenewale](https://open.spotify.com/track/1xNN6c8eW8Mm9uz9nVqln9) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Kashmir Ki Kali](https://open.spotify.com/album/7JwALFWCFaIIU6oeYBkVp4) | 4:50 | 2021-09-29 | 2022-07-29 |
-| [Isharon Isharon Men Dil Lenewale](https://open.spotify.com/track/6gxSvQV8ApYIrL23DSxN5x) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Kashmir Ki Kali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22RYnBASluvhRFur4HVKNa) | 4:50 | 2023-02-21 |  |
+| [Isharon Isharon Men Dil Lenewale](https://open.spotify.com/track/6gxSvQV8ApYIrL23DSxN5x) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Kashmir Ki Kali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22RYnBASluvhRFur4HVKNa) | 4:50 | 2023-02-21 | 2023-04-03 |
 | [Ja Ja Ja Bewafa](https://open.spotify.com/track/2YOrtoBfiRi3dCOzMtYtnW) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO) | [Aar Paar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0f846jv2LgmzT2ZvqWcLYe) | 3:22 | 2021-09-29 | 2022-07-21 |
 | [Jaata Kahanhai Diwane](https://open.spotify.com/track/5nWMAyvfVkvu7TOtVhGLqM) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO) | [C.I.D\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gOsGGhRWVBJytSiuDTYa6) | 3:20 | 2021-09-29 | 2022-07-09 |
 | [Jadugar Saiyan Chhod Mori Baiyan](https://open.spotify.com/track/0rTwRCSgDMMk1FuvpWosv6) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Nagin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Tawm1VKjcxrx7DYXTFbl4) | 2:53 | 2022-01-05 | 2022-01-06 |

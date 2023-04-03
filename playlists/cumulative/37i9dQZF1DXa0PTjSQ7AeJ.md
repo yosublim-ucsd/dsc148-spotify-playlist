@@ -4,7 +4,7 @@
 
 > This is Miley Cyrus\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 37 min
+77 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Can't Be Tamed](https://open.spotify.com/track/2r6DdaSbkbwoPzuK6NjLPn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Can't Be Tamed](https://open.spotify.com/album/69Pf9ExxwjhVFyosKsKWQu) | 2:48 | 2023-01-13 |  |
 | [Cattitude \(feat\. RuPaul\)](https://open.spotify.com/track/6lVoJs7mU51EcUJ3WW7JHx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [SHE IS COMING](https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9) | 3:09 | 2023-01-13 |  |
 | [D.R.E.A.M\. \(feat\. Ghostface Killah\)](https://open.spotify.com/track/3bdAnc53Dewox5VdCBmF10) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [SHE IS COMING](https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9) | 2:48 | 2023-01-13 |  |
-| [Decisions \(feat\. Miley Cyrus\)](https://open.spotify.com/track/0rch4LXVKv8auzUU8TQh4x) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [\#NEWGOREORDER](https://open.spotify.com/album/0RqroVfwQenrkm0aG3Xggu) | 3:18 | 2023-01-13 |  |
+| [Decisions](https://open.spotify.com/track/4lGl4a2CGxNn9lbZD85isl) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Decisions](https://open.spotify.com/album/3wgupOGbs48maZcESK2DYg) | 3:14 | 2023-03-10 |  |
+| [Decisions \(feat\. Miley Cyrus\)](https://open.spotify.com/track/0rch4LXVKv8auzUU8TQh4x) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [\#NEWGOREORDER](https://open.spotify.com/album/0RqroVfwQenrkm0aG3Xggu) | 3:18 | 2023-01-13 | 2023-04-03 |
 | [Do My Thang](https://open.spotify.com/track/6n2GPvMJtFZ4ckoc9EWHMx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:45 | 2023-01-13 |  |
 | [Don't Let The Sun Go Down On Me](https://open.spotify.com/track/03f2Q9Z8eaF8lPfNL6x3x7) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 5:35 | 2023-01-13 |  |
 | [Don't Walk Away](https://open.spotify.com/track/0WzFAQkNDZqNyNjglVucWu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 2:47 | 2023-01-13 |  |

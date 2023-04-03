@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Luis R Conriquez y Grupo Laberinto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,868 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,270 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 19 | [El Grillo](https://open.spotify.com/track/1TnNKfbqeML9LcWdhRpcgL) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [El Grillo](https://open.spotify.com/album/54UR0rpNVfRkIkWIQQotUi) | 3:34 |
 | 20 | [Amor de los Dos \(En Vivo\)](https://open.spotify.com/track/07b5C2ppQBDIWPKclU31sz) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Amor de los Dos \(En Vivo\)](https://open.spotify.com/album/2LbAxI8gUsdrW4yPTArhRD) | 2:46 |
 | 21 | [A Ver Cómo Le Haces](https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [A Ver Cómo Le Haces](https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9) | 3:59 |
-| 22 | [Tu Lunarcito](https://open.spotify.com/track/0vUdAbGM61fvJiX9Nuvcie) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Lunarcito](https://open.spotify.com/album/7nG7RKoZ9vgepYpd6OiLa0) | 4:00 |
+| 22 | [Tu Lunarcito](https://open.spotify.com/track/0vUdAbGM61fvJiX9Nuvcie) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr), [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lunarcito](https://open.spotify.com/album/7nG7RKoZ9vgepYpd6OiLa0) | 4:00 |
 | 23 | [Yo No Fumo](https://open.spotify.com/track/79U0Bz4XoHMyjmwK2AlX2B) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo No Fumo](https://open.spotify.com/album/6iElKHUTsv8TQck59XGWsW) | 2:59 |
 | 24 | [A QUEMARROPA](https://open.spotify.com/track/0xPANoulLUgza7HSYksbg1) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [A QUEMARROPA](https://open.spotify.com/album/4C21Isln4g37mSB5LgSCMV) | 3:07 |
 | 25 | [El PIlar De La Familia](https://open.spotify.com/track/5AvlmXwaFVQa7vooAe0ZhO) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [El PIlar De La Familia](https://open.spotify.com/album/3iel9UaPB5FwdC9aAv3Muu) | 2:59 |

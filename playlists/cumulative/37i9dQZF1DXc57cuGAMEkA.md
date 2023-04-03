@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Charlie Puth, Khalid, なとり,  Tyler, The Creator and more! Cover: Charlie Puth
 
-835 songs - 1 day 23 hr 13 min
+836 songs - 1 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 | 2023-02-16 | 2023-02-24 |
 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 | 2023-03-17 | 2023-03-25 |
 | [I Wrote A Song](https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu) | 2:45 | 2023-03-09 | 2023-03-18 |
+| [I'M FROM JAPAN](https://open.spotify.com/track/1P21qG3YKfxNxHoRdTwMZC) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [I'M FROM JAPAN](https://open.spotify.com/album/1Jr4Cy1eCqayq1e4AmHYg8) | 2:35 | 2023-04-02 |  |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-29 | 2023-02-03 |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-03-24 | 2023-03-31 |
 | [Ice Cream Man.](https://open.spotify.com/track/4p5xgTJofLgL4A3trgk7EQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Ice Cream Man.](https://open.spotify.com/album/0aU6C7aErcXKwpQAdTmmrY) | 4:08 | 2023-02-02 | 2023-02-04 |
@@ -825,7 +826,7 @@
 | [人間](https://open.spotify.com/track/0HIGfyXbm3w3PlgopX5gos) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [人間](https://open.spotify.com/album/2Hy4tGS5YSGLp3Hyo3qzy9) | 3:53 | 2023-03-17 | 2023-03-25 |
 | [僕らだ](https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [僕らだ](https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV) | 3:18 | 2023-02-23 | 2023-03-03 |
 | [凛と](https://open.spotify.com/track/3IB0WE4bAoYWdSuZnTVtRC) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [凛と](https://open.spotify.com/album/2YAul7X7i7JkcSOkNBtFUm) | 3:34 | 2023-03-24 | 2023-03-31 |
-| [吸って](https://open.spotify.com/track/0frkFYeXB5XgejnrlQbq46) | [mari](https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Pent House](https://open.spotify.com/album/6xvHKXLB89II7MPZrxzYj9) | 3:00 | 2023-03-31 |  |
+| [吸って](https://open.spotify.com/track/0frkFYeXB5XgejnrlQbq46) | [mari](https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Pent House](https://open.spotify.com/album/6xvHKXLB89II7MPZrxzYj9) | 3:00 | 2023-03-31 | 2023-04-03 |
 | [土星とユニコーン](https://open.spotify.com/track/7mwC1MjoqPFPiFwUBoy4Nr) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [土星とユニコーン](https://open.spotify.com/album/22jKKpIgO83SVo2sF8kCMb) | 4:25 | 2023-02-23 | 2023-03-03 |
 | [愛の二段階右折](https://open.spotify.com/track/5SJZu4LpEywFR6ijjGeCg5) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [愛の二段階右折](https://open.spotify.com/album/3AYlpm999fttRquPhhg18W) | 4:03 | 2023-03-24 | 2023-03-31 |
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 | 2023-03-10 |

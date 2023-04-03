@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1323207,
+  "num_followers": 1323723,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ5MzYwMCwwMDAwMDAwMGIyYzFmMTY2YmFjNmY0YjlmYmUxMTQzOWQ4ZTUzZjY4",
+  "snapshot_id": "MTY3OTQ5MzYwMCwwMDAwMDAwMGM3N2E2MzAyZjBhZjcwN2M4MGU5ODUwZDg0ZTllZTVh",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Ready For The Weekend",
         "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 227880,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
         "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 401360,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/62h4GYm6aTqS0dsfJtKYIX"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Guetta Blaster",
         "url": "https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/62h4GYm6aTqS0dsfJtKYIX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 211533,
       "name": "Together - Radio Edit",
       "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
+        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
+      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "It's Too Late",
-        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
+        "name": "Missing (Remixes)",
+        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
       },
       "artists": [
         {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
         },
         {
-          "name": "Evermore",
-          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 181230,
-      "name": "It's Too Late - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
+      "duration_ms": 233160,
+      "name": "Missing - Todd Terry Remix Radio Edit",
+      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Missing (Remixes)",
-        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
+        "name": "It's Too Late",
+        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
       },
       "artists": [
         {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
         },
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Evermore",
+          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Missing - Todd Terry Remix Radio Edit",
-      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
+      "duration_ms": 181230,
+      "name": "It's Too Late - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Army Of Two",
-        "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
-      },
-      "artists": [
-        {
-          "name": "UMEK",
-          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
-        },
-        {
-          "name": "Beltek",
-          "url": "https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Army Of Two - Radio Version",
-      "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/2ox4UcntoWsFQL5RDPKFUF"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 220640,
       "name": "Everytime We Touch (with Steve Angello & Sebastian Ingrosso)",
       "url": "https://open.spotify.com/track/7nuPjNAEL3qcEUcZre7rJF"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Army Of Two",
+        "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        },
+        {
+          "name": "Beltek",
+          "url": "https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Army Of Two - Radio Version",
+      "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV"
+      },
+      "artists": [
+        {
+          "name": "Dave Armstrong",
+          "url": "https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Make Your Move - Radio Edit",
+      "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 438013,
       "name": "Body Language - Original Mix",
       "url": "https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV"
-      },
-      "artists": [
-        {
-          "name": "Dave Armstrong",
-          "url": "https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Make Your Move - Radio Edit",
-      "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "51 Big Room Fist Pumpers (feat. Mque)",
+        "url": "https://open.spotify.com/album/3jG0arQuB7uiEWsKGK3fNF"
+      },
+      "artists": [
+        {
+          "name": "Mischa Daniels Project",
+          "url": "https://open.spotify.com/artist/4mJadLzJpnWVKcunV0td5L"
+        }
+      ],
+      "duration_ms": 264374,
+      "name": "Disconnected (Radio Edit Dub Mix)",
+      "url": "https://open.spotify.com/track/7sOtNnr0Qv0WN0oWMj64yF"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Awaken (Part 2)",
         "url": "https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 224986,
       "name": "Awaken - Ron Reeser & Dan Saenz Radio Edit",
       "url": "https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "51 Big Room Fist Pumpers (feat. Mque)",
-        "url": "https://open.spotify.com/album/3jG0arQuB7uiEWsKGK3fNF"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels Project",
-          "url": "https://open.spotify.com/artist/4mJadLzJpnWVKcunV0td5L"
-        }
-      ],
-      "duration_ms": 264374,
-      "name": "Disconnected (Radio Edit Dub Mix)",
-      "url": "https://open.spotify.com/track/7sOtNnr0Qv0WN0oWMj64yF"
     }
   ],
   "unique_name": "Dance Classics",

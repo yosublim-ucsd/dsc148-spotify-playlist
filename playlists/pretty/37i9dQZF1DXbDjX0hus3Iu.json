@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 470636,
+  "num_followers": 470704,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMDY0YjE2ZTMzNTcyMTFlOWRmZmMwMmQ3ZjE5ZWRmNjdk",
+  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMDhhNTlkNDI1NGZmOTQ3NmZkNTYwMjMwNmMxOGM5OWM0",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Georgia Satellites",
-        "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
-      },
-      "artists": [
-        {
-          "name": "The Georgia Satellites",
-          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "Battleship Chains",
-      "url": "https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "The Whippoorwill",
         "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 298786,
       "name": "Ain't Much Left of Me",
       "url": "https://open.spotify.com/track/4jKBjyOdVKfmyauxwW8QUs"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Georgia Satellites",
+        "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Satellites",
+          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Battleship Chains",
+      "url": "https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "The Whippoorwill",
-        "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Pretty Little Lie",
-      "url": "https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt"
+      "duration_ms": 209373,
+      "name": "Oh, Atlanta",
+      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "The Whippoorwill",
+        "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Pretty Little Lie",
+      "url": "https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 376666,
       "name": "Gator Country",
       "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Oh, Atlanta",
-      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Platinum & Gold Collection",
-        "url": "https://open.spotify.com/album/6Lx6Uk2ToDnKo5T3BhIT9v"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz"
       },
       "artists": [
         {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
         }
       ],
-      "duration_ms": 346933,
-      "name": "(Ghost) Riders In The Sky",
-      "url": "https://open.spotify.com/track/5Y8gFnBzwcMEWa2vmmUABR"
+      "duration_ms": 318800,
+      "name": "Uneasy Rider",
+      "url": "https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz"
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/6Lx6Uk2ToDnKo5T3BhIT9v"
       },
       "artists": [
         {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
         }
       ],
-      "duration_ms": 318800,
-      "name": "Uneasy Rider",
-      "url": "https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp"
+      "duration_ms": 346933,
+      "name": "(Ghost) Riders In The Sky",
+      "url": "https://open.spotify.com/track/5Y8gFnBzwcMEWa2vmmUABR"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Southern Delight/Barefoot Jerry",
-        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
-      },
-      "artists": [
-        {
-          "name": "Barefoot Jerry",
-          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Castle Rock",
-      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "You Are Here",
         "url": "https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 233142,
       "name": "Rise of the Rebel",
       "url": "https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Southern Delight/Barefoot Jerry",
+        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
+      },
+      "artists": [
+        {
+          "name": "Barefoot Jerry",
+          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Castle Rock",
+      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+        "name": "Ghost Train from Georgia",
+        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
       },
       "artists": [
         {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
         }
       ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
+      "duration_ms": 355226,
+      "name": "Miss Understanding",
+      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Ghost Train from Georgia",
-        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
       },
       "artists": [
         {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
         }
       ],
-      "duration_ms": 355226,
-      "name": "Miss Understanding",
-      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Live At The Moody Theater",
-        "url": "https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        }
-      ],
-      "duration_ms": 426200,
-      "name": "Fire In The Kitchen",
-      "url": "https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Back to Rock",
         "url": "https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 247200,
       "name": "Don't Know Where I'm Bound",
       "url": "https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Live At The Moody Theater",
+        "url": "https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 426200,
+      "name": "Fire In The Kitchen",
+      "url": "https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 341933,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     }
   ],
   "unique_name": "Southern Rock",

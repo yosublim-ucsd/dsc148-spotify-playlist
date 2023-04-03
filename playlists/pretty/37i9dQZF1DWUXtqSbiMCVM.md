@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXtqSbiMCVM.md) - [plain]
 
 > Emerging producer & DJ, <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego</a> releases a Latin & Afro House infused mix that whisks you away to paradise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 861 likes - 13 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 868 likes - 13 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

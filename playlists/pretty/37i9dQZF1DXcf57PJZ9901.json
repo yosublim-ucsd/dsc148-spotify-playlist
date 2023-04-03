@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s. Cover: Keane",
-  "num_followers": 80784,
+  "num_followers": 80858,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMGQ1MTYwNWM4NjU4NTkwODA5MzcxMzFjOGVhOGI4Yzc3",
+  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMDg5NTYyOWEwNGFhMGRmNWUzMDNiZDU3NjllZTQ1MmM3",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -611,8 +611,8 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Hands All Over (Deluxe)",
-        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/6KBYk8OFtod7brGuZ3Y67q"
+      "duration_ms": 215229,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Wretched and Divine: The Story Of The Wild Ones",
         "url": "https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 319946,
       "name": "Lost It All",
       "url": "https://open.spotify.com/track/1wfZKFKzBDRl1wTK7TvYQe"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 198573,
       "name": "Stay With Me - Acoustic Version",
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER"
     },
     {
       "added_at": "2023-01-11 18:02:14",

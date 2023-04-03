@@ -4,14 +4,14 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-169 songs - 10 hr 6 min
+170 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alibi](https://open.spotify.com/track/4TU5I4gmEwDjcOuEAMCBQB) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Alibi](https://open.spotify.com/album/5N10k1tVLDpLhYE9Ojz7dY) | 3:01 | 2021-12-31 | 2022-07-28 |
 | [Alibi](https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:01 | 2021-12-31 |  |
 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 | 2021-12-31 |  |
-| [All I Want](https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2021](https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ) | 3:28 | 2021-12-31 |  |
+| [All I Want](https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2021](https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ) | 3:28 | 2021-12-31 | 2023-04-03 |
 | [All In \(CB Remix\)](https://open.spotify.com/track/43S4LXQySI1N2Zmnkdzh6j) | [Heather Schnoor](https://open.spotify.com/artist/0J1IF9b4Rs9rbjSye9APm0) | [All In](https://open.spotify.com/album/569y4fe4V9EiryjqIMjVXZ) | 3:07 | 2021-12-31 | 2022-07-22 |
 | [All of Me](https://open.spotify.com/track/5WOAErKdSpXwj0wKlezVl8) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [All of Me](https://open.spotify.com/album/564kK0NdFOU5ma5XwHyEGw) | 3:11 | 2021-12-31 | 2022-07-15 |
 | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Melodie Wagner](https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd) | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2021-12-31 |  |
@@ -25,6 +25,7 @@
 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 | 2021-12-31 |  |
 | [Caught Air \(Live\)](https://open.spotify.com/track/3lH9mraA6X1kzlKGB5pKKl) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Be Okay \(Live\)](https://open.spotify.com/album/5y4p49C9UDBgLsQBsaOn3O) | 3:46 | 2021-12-31 | 2022-07-23 |
 | [Changed \- OHKI Roller Rink Remix](https://open.spotify.com/track/7h8sVS1zlPsMIQZDyFmFSK) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Changed \(OHKI Roller Rink Remix\)](https://open.spotify.com/album/2KRTW1LTZzYHzGZbpGoJ98) | 3:02 | 2021-12-31 | 2022-07-24 |
+| [Changed \- OHKI Roller Rink Remix](https://open.spotify.com/track/4fmIuMxX51eASane0ri7h1) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [OHKI](https://open.spotify.com/artist/7rbSaznCAHxWrxMZl1Pw7N), [OHKI Roller Rink](https://open.spotify.com/artist/3rd86ElAskGURkO7Z5egCw) | [Changed \(OHKI Roller Rink Remix\)](https://open.spotify.com/album/4FtWjqvPIP9z14HySePRU2) | 3:02 | 2023-02-18 |  |
 | [Chasing You](https://open.spotify.com/track/5vqHYRtng6GFvuLa2gnUUC) | [Harbourside Worship](https://open.spotify.com/artist/6ETre4091YtKqRtqElsUpl) | [Chasing You](https://open.spotify.com/album/4fTCKtczYVEirhpOFaVnl7) | 3:59 | 2021-12-31 | 2022-07-25 |
 | [Choose To Praise \- Reinvented](https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Choose to Praise \(Reinvented\)](https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL) | 2:30 | 2021-12-31 |  |
 | [Dance Like It's Done \- Live](https://open.spotify.com/track/0tsl7mJ2LP74j4kE9rLyug) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Just the Cross](https://open.spotify.com/album/65KqQX0qvfrNL0kDQ9FkpQ) | 4:35 | 2021-12-31 | 2022-07-21 |

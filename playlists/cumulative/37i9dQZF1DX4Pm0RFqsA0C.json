@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 217786,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/7A4eu80BnbdWEAEBO7pTyC"
@@ -2218,10 +2218,28 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 260611,
       "name": "\uc120\uc0dd\ub2d8 \uc0ac\ub791\ud574\uc694",
       "url": "https://open.spotify.com/track/0kTEQdRwvSxQGtEc5iLzlY"
+    },
+    {
+      "album": {
+        "name": "Hans Band",
+        "url": "https://open.spotify.com/album/1aTJo0RdxGfocIdO3L64CP"
+      },
+      "artists": [
+        {
+          "name": "Han's Band",
+          "url": "https://open.spotify.com/artist/7arDY3htVPSQIgwIFSBEgA"
+        }
+      ],
+      "date_added": "2021-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262293,
+      "name": "\uc120\uc0dd\ub2d8 \uc0ac\ub791\ud574\uc694",
+      "url": "https://open.spotify.com/track/6EVwyBvdg5qGsgNzP957wu"
     },
     {
       "album": {
@@ -2658,7 +2676,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 236666,
       "name": "\ucc9c\uc77c\uc720\ud63c",
       "url": "https://open.spotify.com/track/6djg7RleuahglP2MqOsmQX"

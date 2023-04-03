@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-110 songs - 9 hr 51 min
+111 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,10 +75,11 @@
 | [Raining Hard in Heaven](https://open.spotify.com/track/5uNzKTuYIIumgD63UyHbkV) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Prehensile Tales](https://open.spotify.com/album/77hPi3aKn8PRfcyh7GUjqY) | 8:31 | 2022-05-20 |  |
 | [Raining Hard in Heaven](https://open.spotify.com/track/6b6Ap6kxz1l9JtfTHBt3s9) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Raining Hard in Heaven](https://open.spotify.com/album/3zemM1zBtUSnspTVJvRevt) | 8:31 | 2022-05-20 | 2022-07-29 |
 | [Revel in Time](https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel in Time](https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk) | 4:37 | 2022-05-20 |  |
-| [Right Way Back](https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I \(Live Expanded\)](https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO) | 3:51 | 2022-05-20 |  |
+| [Right Way Back](https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I \(Live Expanded\)](https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO) | 3:51 | 2022-05-20 | 2023-04-03 |
 | [Right Way Back](https://open.spotify.com/track/3ErQbRuLdafRrhIf8Ceefa) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Discover Crown Lands](https://open.spotify.com/album/2H8QnNAriPg1S0X5R45Itq) | 3:51 | 2022-05-20 | 2023-02-23 |
 | [Right Way Back](https://open.spotify.com/track/46qQdaM52TFsJRqNG5Rbh7) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I](https://open.spotify.com/album/5Hv75h9ATVdHeQgKvrXFTI) | 3:51 | 2022-05-20 | 2022-07-29 |
 | [Right Way Back](https://open.spotify.com/track/6zbBYMUZHrURYziUfFVgJw) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Love Me & Love Me](https://open.spotify.com/album/7ELqN2yBpbH9ToLbmFVeXA) | 3:51 | 2022-05-20 | 2022-11-13 |
+| [Right Way Back](https://open.spotify.com/track/25OW2oQUUF6YU3ndJArtSB) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Fearless](https://open.spotify.com/album/7pksbj88zVcexbacR0GfrP) | 3:51 | 2022-11-17 |  |
 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p) | 5:19 | 2022-05-20 | 2022-11-17 |
 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 | 2022-05-20 |  |
 | [Roulette Dares \(The Haunt Of\) \- Unfinished Original Recordings Of De\-Loused In The Comatorium](https://open.spotify.com/track/72n2oDjYMs6kK9jKIIkY5k) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Landscape Tantrums \(Unfinished Original Recordings Of De\-Loused In The Comatorium\)](https://open.spotify.com/album/3X3xy01oWmdpRSJIttm4NT) | 6:37 | 2022-05-20 |  |

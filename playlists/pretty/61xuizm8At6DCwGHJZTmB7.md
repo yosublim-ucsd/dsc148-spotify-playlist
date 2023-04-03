@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Chris Tomlin
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 115,409 likes - 101 songs - 10 hr 4 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 115,406 likes - 101 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

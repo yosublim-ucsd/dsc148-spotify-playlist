@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Singing Icon - Asha Bhosle",
+        "url": "https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352920,
+      "name": "Aao Huzoor Tumko (From \"Kismat\")",
+      "url": "https://open.spotify.com/track/6RdkcMzJveBskbo2v4Mbxk"
+    },
+    {
+      "album": {
         "name": "Mere Jeevan Saathi",
         "url": "https://open.spotify.com/album/0LgDRtuJbng7HyGRHhdJGX"
       },
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 290400,
       "name": "Isharon Isharon Men Dil Lenewale",
       "url": "https://open.spotify.com/track/6gxSvQV8ApYIrL23DSxN5x"

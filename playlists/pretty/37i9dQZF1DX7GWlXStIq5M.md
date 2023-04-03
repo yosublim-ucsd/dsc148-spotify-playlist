@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Jão, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,541 likes - 95 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,581 likes - 95 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Rock Legends from Ireland. Cover: Phil Lynott",
-  "num_followers": 14222,
+  "num_followers": 14262,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU0NjM4NywwMDAwMDAwMGVkYjVhYzEzYjQzNDk5OWQzM2RiZTRjZGQ4YzNjN2E5",
+  "snapshot_id": "MTY0NzU0NjM4NywwMDAwMDAwMDRlY2ZiNTc5ZDQ5MmQ4OGE3NTU2MGNkNzA1Y2E0ZmQz",
   "tracks": [
     {
       "added_at": "2022-03-17 10:54:32",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
+        "name": "The Best of The Waterboys (1981-1990)",
+        "url": "https://open.spotify.com/album/1VW4gj6w544njTLCYHN7cu"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "duration_ms": 445840,
+      "name": "And a Bang on the Ear",
+      "url": "https://open.spotify.com/track/4tzpjYQOwqSrfiIVcyEwzm"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
         "name": "Blue Lights on the Runway",
         "url": "https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 138973,
       "name": "Don't Believe A Word",
       "url": "https://open.spotify.com/track/4OSDItus4110bQdykTdpy7"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
-        "name": "The Best of The Waterboys (1981-1990)",
-        "url": "https://open.spotify.com/album/1VW4gj6w544njTLCYHN7cu"
-      },
-      "artists": [
-        {
-          "name": "The Waterboys",
-          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
-        }
-      ],
-      "duration_ms": 445840,
-      "name": "And a Bang on the Ear",
-      "url": "https://open.spotify.com/track/4tzpjYQOwqSrfiIVcyEwzm"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Vagabonds Of The Western World",
-        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
         }
       ],
-      "duration_ms": 315306,
-      "name": "The Rocker",
-      "url": "https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA"
+      "duration_ms": 250760,
+      "name": "Rocky Took A Lover",
+      "url": "https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF"
     }
   ],
   "unique_name": "Irish Rock Classics",

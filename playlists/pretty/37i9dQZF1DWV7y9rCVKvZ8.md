@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Playlist to accompany your work
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,452 likes - 78 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,521 likes - 78 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

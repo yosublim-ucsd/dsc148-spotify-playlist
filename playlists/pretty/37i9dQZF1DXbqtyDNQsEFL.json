@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 32119,
+  "num_followers": 32235,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDdlOTE5Njc3NjQ4MDFhMTE2ZjAwYWFhOWEzYmFmYmJk",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGI5OTY2YTBjYmI2N2NhMmRjNzRiNWU3MGE0ZGI5M2Zh",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        }
-      ],
-      "duration_ms": 355250,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Way\u03b5 Me Yie",
         "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "duration_ms": 355250,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Taking care (Live at Bliss Experience)",
-        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 310278,
-      "name": "Taking care - Live at Bliss Experience",
-      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "NEVER FORGET",
         "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Taking care (Live at Bliss Experience)",
+        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 310278,
+      "name": "Taking care - Live at Bliss Experience",
+      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Olowo Orimi (The One Who Paid For Me)",
         "url": "https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 489493,
       "name": "Olowo Orimi (The One Who Paid For Me)",
       "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 296751,
+      "name": "Strong Tower",
+      "url": "https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 340000,
       "name": "King of Glory",
       "url": "https://open.spotify.com/track/27E4LObyzj6OiszOv221pI"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 296751,
-      "name": "Strong Tower",
-      "url": "https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Eze Ebube II",
-        "url": "https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 432288,
-      "name": "Eze Ebube II",
-      "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Always Win (Solo Version)",
         "url": "https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 300562,
       "name": "Always Win (Solo Version)",
       "url": "https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Eze Ebube II",
+        "url": "https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 432288,
+      "name": "Eze Ebube II",
+      "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY"
-      },
-      "artists": [
-        {
-          "name": "Dr Tumi",
-          "url": "https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ"
-        }
-      ],
-      "duration_ms": 571040,
-      "name": "I Love You Jesus",
-      "url": "https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Black History Project (Live from London)",
         "url": "https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 424672,
       "name": "Mighty God - Live At Kairos Night",
       "url": "https://open.spotify.com/track/5ZkJihnxkWNFJA6l7NCpQt"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY"
+      },
+      "artists": [
+        {
+          "name": "Dr Tumi",
+          "url": "https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ"
+        }
+      ],
+      "duration_ms": 571040,
+      "name": "I Love You Jesus",
+      "url": "https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd"
     },
     {
       "added_at": "2023-03-30 23:00:00",

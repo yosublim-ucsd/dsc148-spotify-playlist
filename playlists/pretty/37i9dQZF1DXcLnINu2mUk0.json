@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 28717,
+  "num_followers": 28802,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDY0M2VmNmFmMGMxNmMyZjgxYzA5ZDk3NDk1NWM2Yjli",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGYyYTE2OGE4MzFiYmFkOTZiNmQxM2I0NzdkMWI3YmU4",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Forever Na Street",
+        "url": "https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk"
+      },
+      "artists": [
+        {
+          "name": "Landim",
+          "url": "https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh"
+        }
+      ],
+      "duration_ms": 153778,
+      "name": "Forever Na Street",
+      "url": "https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Sei Que Te Amo",
         "url": "https://open.spotify.com/album/6CBP6oIIWSv7s11FGY7nTd"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 202608,
       "name": "Valoriza",
       "url": "https://open.spotify.com/track/7sJGaxA4xkurJ1uFK4YxMC"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Forever Na Street",
-        "url": "https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk"
-      },
-      "artists": [
-        {
-          "name": "Landim",
-          "url": "https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh"
-        }
-      ],
-      "duration_ms": 153778,
-      "name": "Forever Na Street",
-      "url": "https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH"
     },
     {
       "added_at": "2023-03-30 23:00:00",

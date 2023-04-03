@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "CBW MIXTAPE",
+        "url": "https://open.spotify.com/album/7gVDE85IWeZkMKtnwreP5E"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128641,
+      "name": "333km/h",
+      "url": "https://open.spotify.com/track/7vC6jG6JvFapetD9ZHUy6F"
+    },
+    {
+      "album": {
         "name": "3KIPA",
         "url": "https://open.spotify.com/album/6PTz8cfAhKWI4wJknwYdH0"
       },
@@ -692,6 +710,40 @@
       "duration_ms": 253986,
       "name": "A nie pami\u0119tasz jak?",
       "url": "https://open.spotify.com/track/2fuA2bAFbVidQUdCiLjuG7"
+    },
+    {
+      "album": {
+        "name": "CBW MIXTAPE",
+        "url": "https://open.spotify.com/album/7gVDE85IWeZkMKtnwreP5E"
+      },
+      "artists": [
+        {
+          "name": "GOMBAO 33",
+          "url": "https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD"
+        },
+        {
+          "name": "Tadeo",
+          "url": "https://open.spotify.com/artist/6EFSZTPDOBeFxoznzL0aTb"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Szczepan",
+          "url": "https://open.spotify.com/artist/5beSF8YlCK4dml6zRZOHN7"
+        },
+        {
+          "name": "Wygu\u015b",
+          "url": "https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171731,
+      "name": "a r I z o n a (2013-2016)",
+      "url": "https://open.spotify.com/track/2s1Qsm1XdgvCwoUaGdw6FA"
     },
     {
       "album": {
@@ -7190,7 +7242,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 160500,
       "name": "Fred Astaire",
       "url": "https://open.spotify.com/track/2PgAdqAWOPU4CCJIAIdgZx"
@@ -13660,7 +13712,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 219060,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/0GVe9gwx3mvBCH4mGMCcXk"
@@ -14974,7 +15026,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 157500,
       "name": "No we\u017a",
       "url": "https://open.spotify.com/track/6nKqdZTgE8RyTqwGx6Ow6f"
@@ -15788,7 +15840,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 225767,
       "name": "ostatnia nadzieja",
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
@@ -16082,7 +16134,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 153448,
       "name": "pami\u0119tam siebie",
       "url": "https://open.spotify.com/track/6jrhM7a1WutMCrxstNERAS"
@@ -19997,6 +20049,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154710,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV"
+    },
+    {
+      "album": {
         "name": "PRODUKT47",
         "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
       },
@@ -20398,7 +20468,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 131666,
       "name": "Supersize",
       "url": "https://open.spotify.com/track/6adjevJebpqACZUsCLWgrT"
@@ -24528,6 +24598,28 @@
       "duration_ms": 207000,
       "name": "ztb",
       "url": "https://open.spotify.com/track/3NI7tfqky48mPo9KUxK4RI"
+    },
+    {
+      "album": {
+        "name": "ztb",
+        "url": "https://open.spotify.com/album/6ifoBxKuNgaSlyMHI1cWMS"
+      },
+      "artists": [
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "ztb",
+      "url": "https://open.spotify.com/track/7vXWyqGHBqZi8oec17wYIl"
     },
     {
       "album": {

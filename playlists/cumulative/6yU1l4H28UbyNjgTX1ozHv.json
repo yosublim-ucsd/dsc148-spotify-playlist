@@ -2795,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Wouldn't It Be Nice (Acoustic)",
+        "url": "https://open.spotify.com/album/085kDnx6X3C0TI7uocKr1C"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169277,
+      "name": "Wouldn't It Be Nice - Acoustic",
+      "url": "https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ"
+    },
+    {
+      "album": {
         "name": "Wrecking Ball (Acoustic)",
         "url": "https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN"
       },

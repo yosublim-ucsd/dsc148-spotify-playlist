@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 249967,
+  "num_followers": 250041,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDliM2M4MWFhZDlkYjVlYThjZjNlNjY1ZjQ5MThiOTUy",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGYxMGE2NzZiNDdkMjRkYzFkMGQwMWQ1YTkwZjBkNmY3",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -63,22 +63,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Every High",
-        "url": "https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl"
-      },
-      "artists": [
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Every High",
-      "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Gallows",
         "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 211472,
       "name": "Billy",
       "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Every High",
+        "url": "https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl"
+      },
+      "artists": [
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Every High",
+      "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -399,6 +399,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Majestic Casual - Chapter 3",
+        "url": "https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        },
+        {
+          "name": "shiloh",
+          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "i\u2019m sorry",
+      "url": "https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "When U Go",
         "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
       },
@@ -507,22 +527,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
-        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
-      },
-      "artists": [
-        {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Green Twins",
         "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
       },
@@ -539,22 +543,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Majestic Casual - Chapter 3",
-        "url": "https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6"
+        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
+        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
       },
       "artists": [
         {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        },
-        {
-          "name": "shiloh",
-          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
         }
       ],
-      "duration_ms": 157333,
-      "name": "i\u2019m sorry",
-      "url": "https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU"
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
-      "added_at": "2019-03-18 20:29:35",
-      "album": {
-        "name": "Never Meant to Call",
-        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Never Meant To Call",
-      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Homegrown (Remixes)",
@@ -643,6 +627,22 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
+    },
+    {
+      "added_at": "2019-03-18 20:29:35",
+      "album": {
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -683,6 +683,30 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "I would",
+        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        },
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 205564,
+      "name": "I would",
+      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "After the Tone with Lossapardo",
         "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
       },
@@ -715,30 +739,6 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "I would",
-        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        },
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 205564,
-      "name": "I would",
-      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
     },
     {
       "added_at": "2019-06-07 08:01:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Antasma",
-        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
-      },
-      "artists": [
-        {
-          "name": "Sal Dulu",
-          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Antasma",
-      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "With You",
@@ -843,18 +827,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Small Clan",
-        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
       },
       "artists": [
         {
-          "name": "Miink",
-          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
         }
       ],
-      "duration_ms": 232312,
-      "name": "Yellow Dust",
-      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -871,6 +855,22 @@
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Small Clan",
+        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
+      },
+      "artists": [
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        }
+      ],
+      "duration_ms": 232312,
+      "name": "Yellow Dust",
+      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "EP 2",
-        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
+        "name": "VALIS",
+        "url": "https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA"
       },
       "artists": [
         {
-          "name": "Only Emily",
-          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
+          "name": "Reptaliens",
+          "url": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
         }
       ],
-      "duration_ms": 170404,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
+      "duration_ms": 198958,
+      "name": "Echo Park",
+      "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
     }
   ],
   "unique_name": "Mellow Mood",

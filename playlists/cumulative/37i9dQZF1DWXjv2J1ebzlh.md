@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,912 songs - 5 day 8 hr 38 min
+1,914 songs - 5 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,8 +208,9 @@
 | [Bad Breath](https://open.spotify.com/track/1LPNcxZN3p73tDVu4bd6mT) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Bad Breath](https://open.spotify.com/album/5kg2hIw7HYpWEdvFHFoKZ0) | 2:47 | 2022-07-12 |  |
 | [Badala Zamana](https://open.spotify.com/track/0C2eSToZdCu2bNSh1UXP5R) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 3:10 | 2022-07-12 | 2022-11-20 |
 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB) | 3:10 | 2022-10-31 | 2022-12-17 |
-| [BadI Sabah Olmadan](https://open.spotify.com/track/11BnijIFDmJFbj9pMH5Npu) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [BadI Sabah Olmadan b/w Cips Kola Kilit](https://open.spotify.com/album/41Aejivoy7KpjBTK3K9hIe) | 4:38 | 2022-07-27 |  |
+| [BadI Sabah Olmadan](https://open.spotify.com/track/11BnijIFDmJFbj9pMH5Npu) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [BadI Sabah Olmadan b/w Cips Kola Kilit](https://open.spotify.com/album/41Aejivoy7KpjBTK3K9hIe) | 4:38 | 2022-07-27 | 2023-04-03 |
 | [Badi Sabah Olmadan](https://open.spotify.com/track/76IH2fdRf9yXCRYEzcXZeP) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Badi Sabah Olmadan](https://open.spotify.com/album/5s36EDwAdS8lLhjcMYjktk) | 4:38 | 2022-06-09 | 2022-07-29 |
+| [Badi Sabah Olmadan](https://open.spotify.com/track/69HsibWosA5K8UhyhPZ92t) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:43 | 2023-03-17 |  |
 | [Bahebek La](https://open.spotify.com/track/3eMFvRNo8XAX6RpNmeaVR4) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 2:50 | 2022-07-12 | 2022-11-20 |
 | [Bahebek La](https://open.spotify.com/track/45Ul6lnj6sYGxJStcnXzIN) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 2:50 | 2022-10-31 |  |
 | [Baiana \- Wolf Mueller's Drum Drop](https://open.spotify.com/track/4h6c7Q9EC30R6S726vBPUe) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD), [Wolf Mueller](https://open.spotify.com/artist/49T7EfZ7lAP3FdCWGejiul) | [Baianá \(Brasingles Vol\. 2\)](https://open.spotify.com/album/3wVdWeIZoQaqHhmyEwIdqI) | 4:58 | 2022-06-09 | 2022-07-29 |
@@ -1470,7 +1471,8 @@
 | [Quimey Neuquen](https://open.spotify.com/track/3oRaLG3ZDqXNN4BXhBClrY) | [Jose Larralde](https://open.spotify.com/artist/7va6FT607YxAj4HtoXVEIh) | [Herencia: Canta Jose Larralde](https://open.spotify.com/album/4xMYMRC4GNp6pWsRjeoAyD) | 2:53 | 2022-07-12 |  |
 | [Quizumba de Rei](https://open.spotify.com/track/6nPN6YqkgRU3bL7FFH0ZXS) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 2:54 | 2022-06-09 |  |
 | [Rag waa Nacab iyo Nasteexo \(Men are Cruel and Kind\)](https://open.spotify.com/track/2FFb42uC8Pp6QAxR9jSMVW) | [Aamina Camaari](https://open.spotify.com/artist/2WTl7iHP8zVzOGCtcjuVP8) | [Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa](https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN) | 6:00 | 2022-06-09 |  |
-| [Rakıya Su Katamam](https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Rakiya Su Katamam b/w Leylim Ley](https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2) | 3:40 | 2023-01-11 |  |
+| [Rakıya Su Katamam](https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:40 | 2023-03-17 |  |
+| [Rakıya Su Katamam](https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Rakiya Su Katamam b/w Leylim Ley](https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2) | 3:40 | 2023-01-11 | 2023-04-03 |
 | [Raspberry Jam](https://open.spotify.com/track/2CGfUFjgJCsDIfaBe73NsT) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/46Zpt8JaprjXhAfcnLvR0Y) | 3:48 | 2022-06-09 | 2022-07-29 |
 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 | 2022-07-27 |  |
 | [Raspberry Jam](https://open.spotify.com/track/73wHgYAe6ASiFrX4Qc8edX) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Self Discovery for Social Survival](https://open.spotify.com/album/7FfRted2sZrQGqBU0Bpw0m) | 3:48 | 2022-10-31 | 2022-11-13 |

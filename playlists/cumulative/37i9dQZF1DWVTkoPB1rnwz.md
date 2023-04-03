@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-302 songs - 17 hr 12 min
+303 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Islas Canarias](https://open.spotify.com/track/68s6d9iCLRhviPqL6NWA5U) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 3:10 | 2021-10-16 | 2022-07-29 |
 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. 1](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-03-03 |  |
 | [Jiyu](https://open.spotify.com/track/07Sx03dUY4jRXXtrM7zSs3) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Jiyu](https://open.spotify.com/album/6BU9l5h76Oei7yb2lmZIDf) | 2:18 | 2021-10-16 | 2022-11-13 |
+| [Jiyu](https://open.spotify.com/track/4Z2TgZtzkL79bUJgIYSmTj) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Jiyu](https://open.spotify.com/album/5YOj8VjpJggf6nGRVnVpp3) | 2:18 | 2021-10-16 |  |
 | [June 15th](https://open.spotify.com/track/0KIRuP1CDEdn53hs0f0ich) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The First Minute of a New Day](https://open.spotify.com/album/0tC2JC67HViIMswO9iChcT) | 7:57 | 2021-10-16 | 2022-07-29 |
 | [June 21](https://open.spotify.com/track/2UTuWSjmIMSQDnvmV2et4U) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [June 21](https://open.spotify.com/album/4Hh8CxbhWH3nry86W2PHvX) | 2:09 | 2021-10-16 | 2022-07-29 |
 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-16 |  |
@@ -255,7 +256,7 @@
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-16 |  |
 | [Sunset Sugarlife](https://open.spotify.com/track/2zr5I7zEDaVLhyWKqHJR5g) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Vacations](https://open.spotify.com/album/032Q8Io07qKivVogFfEr9B) | 1:22 | 2021-10-16 | 2022-07-24 |
 | [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 | 2022-10-25 |
-| [Swampland](https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Hausensession](https://open.spotify.com/album/4NqUkhnhb2iEtkWkCYDbdn) | 1:15 | 2022-08-03 |  |
+| [Swampland](https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Hausensession](https://open.spotify.com/album/4NqUkhnhb2iEtkWkCYDbdn) | 1:15 | 2022-08-03 | 2023-04-03 |
 | [Sweet Everything](https://open.spotify.com/track/7u9rHpnezNKnNhEf84IehW) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Sleep Tones](https://open.spotify.com/album/7kZiqKwpxTF81kZFmdX9dn) | 3:09 | 2021-10-16 | 2022-06-21 |
 | [Tadpoles](https://open.spotify.com/track/1Y4BfksWNxJkJX5bHL8Amo) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Blooming Spring](https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3) | 5:11 | 2021-10-16 | 2022-12-29 |
 | [Tasogare](https://open.spotify.com/track/3STdDTldUC9w03uaCF3JlX) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Tasogare](https://open.spotify.com/album/1s5yMR7D4xVnz63lGuBptm) | 3:04 | 2021-10-16 |  |

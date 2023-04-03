@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 382788,
+  "num_followers": 383198,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4Nzc3NywwMDAwMDAwMGM2ODcxNjgyMzg3M2FhNzA2NDZhN2Q3NzRiZjA0MzEz",
+  "snapshot_id": "MTY3ODQ4Nzc3NywwMDAwMDAwMGY2OWY3ZTVhOWZjYjlkZDQwM2U3ZjAzMzg1NjJiOWNm",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
-      },
-      "artists": [
-        {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Symsonic",
         "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 175106,
       "name": "Awakening - Radio Edit",
       "url": "https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
+      },
+      "artists": [
+        {
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -923,18 +923,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
+        "name": "25 Years, Vol. 3",
+        "url": "https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV"
       },
       "artists": [
         {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+          "name": "Lustral",
+          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
+        },
+        {
+          "name": "Nalin & Kane",
+          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
         }
       ],
-      "duration_ms": 268600,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
+      "duration_ms": 249022,
+      "name": "Everytime - Nalin & Kane Mix",
+      "url": "https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU"
     }
   ],
   "unique_name": "Trance Classics",

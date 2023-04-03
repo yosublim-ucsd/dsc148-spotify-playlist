@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-852 songs - 2 day 2 hr 33 min
+853 songs - 2 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Blowin' In the Wind](https://open.spotify.com/track/0k9RKhN4MFzaon1u5jmZnh) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Songs of Dylan](https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ) | 3:49 | 2021-12-21 | 2022-07-29 |
 | [Blue Sky](https://open.spotify.com/track/1dmnbbKJIzyomxJqxgqj04) | [Harvest Son](https://open.spotify.com/artist/21B4jICzw4HvMZGTs0WgK4), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Blue Sky](https://open.spotify.com/album/2wfjKAOwNplB4lr8WFbwGw) | 2:06 | 2022-05-13 |  |
 | [Boardwalks \- Remastered 2015/ Bonus Track](https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:19 | 2022-03-24 |  |
+| [Bored](https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Bored](https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3) | 2:46 | 2023-03-31 |  |
 | [Born To Be Yours \- Chill Out Version](https://open.spotify.com/track/5n5DrY0ZIYiQ37sYnqbKPF) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm) | 4:24 | 2021-12-21 | 2022-07-29 |
 | [Branches](https://open.spotify.com/track/10xHiBHqsjVHK6AkAEb6SH) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Wilting Rooting Blooming](https://open.spotify.com/album/2hlcsys3vCrpxkrALsl4Lk) | 3:27 | 2021-12-21 | 2022-07-28 |
 | [BRAVE](https://open.spotify.com/track/1LiEAia09qw722mpzqfROY) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [BRAVE](https://open.spotify.com/album/05LkMk4sbSJ1GewU2FHI1t) | 4:37 | 2022-05-13 |  |
@@ -619,7 +620,7 @@
 | [Shouldn't Matter but It Does](https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:56 | 2021-12-21 |  |
 | [Sign of the Times](https://open.spotify.com/track/2rFfIKpcNVG9pRHVe2CR04) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Sign of the Times](https://open.spotify.com/album/4EgAQOC5jSCHnW2uv077UI) | 4:35 | 2022-01-27 | 2022-07-24 |
 | [Silhouette](https://open.spotify.com/track/0ygOBx60exSPPvnI4sS28r) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 3:50 | 2022-03-24 |  |
-| [Silver Moon \- EP Version](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land Of The Living EP](https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8) | 4:51 | 2022-03-24 |  |
+| [Silver Moon \- EP Version](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land Of The Living EP](https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8) | 4:51 | 2022-03-24 | 2023-04-03 |
 | [Silvia Amberlie](https://open.spotify.com/track/7f88xAMmsAnn5SFchXzmQY) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [Silvia Amberlie](https://open.spotify.com/album/298dOQO1vpn4j3jkiikC5G) | 2:41 | 2021-12-21 | 2022-07-29 |
 | [Sink In](https://open.spotify.com/track/6gQGeiEAMch2cIUPKzJQqM) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Sink In](https://open.spotify.com/album/6HZYZSyNok8gox8NBG7sst) | 3:20 | 2022-03-24 | 2022-04-20 |
 | [Skinny Love](https://open.spotify.com/track/1NyFRrFiJAJIaR6icj1goI) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/2JLDMOX168DhnueBb946kw) | 3:58 | 2022-03-24 | 2022-03-30 |

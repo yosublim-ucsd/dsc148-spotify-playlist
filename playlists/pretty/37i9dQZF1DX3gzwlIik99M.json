@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 211139,
+  "num_followers": 211161,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGViZTcxZWI5OTY5N2ZmMzU1MmZmMGM2MmE0YmQ0NDU3",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGFhMDNiMGYzYjMyZmUzNzJmMmMzY2Y3N2JlOGFhYmU4",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Muerte Verdadera Muerte",
-        "url": "https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE"
-      },
-      "artists": [
-        {
-          "name": "Masacre",
-          "url": "https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "\u00c9xodo",
-      "url": "https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Satanico-Dramatico",
         "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Muerte Verdadera Muerte",
+        "url": "https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE"
+      },
+      "artists": [
+        {
+          "name": "Masacre",
+          "url": "https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "\u00c9xodo",
+      "url": "https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+        "name": "Discord",
+        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
       },
       "artists": [
         {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+          "name": "Black Overdrive",
+          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
         }
       ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
+      "duration_ms": 192070,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
     }
   ],
   "unique_name": "Metal del Nuestro",

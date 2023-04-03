@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 42961,
+  "num_followers": 42989,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGM4OWRhYmYzNTQ1ZWJhMGRhZjY4NTEyOTYxMmVlMTQy",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDczM2QwYjQ0MTg2ZjRjNmRjOWJkODRhOTQwZTcxMjY5",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Shamstep",
-        "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Don't Care Where You From",
-      "url": "https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "\u062f\u0628\u0631\u0647\u0627",
         "url": "https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 289320,
       "name": "\u062f\u0628\u0631\u0647\u0627",
       "url": "https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Shamstep",
+        "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Don't Care Where You From",
+      "url": "https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Bitar",
-          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
-        }
-      ],
-      "duration_ms": 136759,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Maskhara",
         "url": "https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 186411,
       "name": "Maskhara",
       "url": "https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        }
+      ],
+      "duration_ms": 136759,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
-        "url": "https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa"
-      },
-      "artists": [
-        {
-          "name": "Amr Mostafa",
-          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
-        }
-      ],
-      "duration_ms": 169970,
-      "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
-      "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "The Come Up",
         "url": "https://open.spotify.com/album/4h5ZJZkVZX5u8D2aNwj4Kr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 181968,
       "name": "Touchdown Palestine",
       "url": "https://open.spotify.com/track/1r9z2zRrmqjPMuPGRTINlN"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa"
+      },
+      "artists": [
+        {
+          "name": "Amr Mostafa",
+          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+        }
+      ],
+      "duration_ms": 169970,
+      "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+      "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Le meilleur, vol.1",
-        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
+        "name": "\u0639\u0646\u062f\u064a \u0634\u0648 \u0645\u0627 \u0628\u062f\u064a",
+        "url": "https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z"
       },
       "artists": [
         {
-          "name": "Nass El Ghiwane",
-          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
         }
       ],
-      "duration_ms": 383333,
-      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
-      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
+      "duration_ms": 226716,
+      "name": "\u0639\u0643\u0627 \u0639\u0644\u0649 \u0631\u0627\u0633\u064a",
+      "url": "https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "\u0639\u0646\u062f\u064a \u0634\u0648 \u0645\u0627 \u0628\u062f\u064a",
-        "url": "https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z"
+        "name": "Le meilleur, vol.1",
+        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
       },
       "artists": [
         {
-          "name": "Walla'at",
-          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+          "name": "Nass El Ghiwane",
+          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
         }
       ],
-      "duration_ms": 226716,
-      "name": "\u0639\u0643\u0627 \u0639\u0644\u0649 \u0631\u0627\u0633\u064a",
-      "url": "https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3"
+      "duration_ms": 383333,
+      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
+      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "Ya Samti",
+        "url": "https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f"
+      },
+      "artists": [
+        {
+          "name": "Zuhair Francis",
+          "url": "https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp"
+        }
+      ],
+      "duration_ms": 232166,
+      "name": "Ya Samti",
+      "url": "https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "Sobo El Gahwa",
         "url": "https://open.spotify.com/album/5vK57QEuynqaQYHuiGuNoM"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 260555,
       "name": "Sobo El Gahwa",
       "url": "https://open.spotify.com/track/2uegTlle9p16rqdeYroYET"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "Ya Samti",
-        "url": "https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f"
-      },
-      "artists": [
-        {
-          "name": "Zuhair Francis",
-          "url": "https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp"
-        }
-      ],
-      "duration_ms": 232166,
-      "name": "Ya Samti",
-      "url": "https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH"
     },
     {
       "added_at": "2022-12-17 09:00:30",

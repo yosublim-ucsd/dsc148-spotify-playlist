@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,006 likes - 183 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,164 likes - 183 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 155 | [Paso Melancólico](https://open.spotify.com/track/4fg0qmqEpbseJX7l3xcehf) | [Stevi Win](https://open.spotify.com/artist/46VkR1SQMbx73wa2qR0zfO), [Synthy Lights](https://open.spotify.com/artist/3vgQlaHcCTwK9jj4XP38lA) | [Paso Melancólico](https://open.spotify.com/album/79k0KjfMGvEaobyEjqW5xw) | 2:25 |
 | 156 | [Closer](https://open.spotify.com/track/4qUIaxxEtetvqZ9CdnUDwj) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Closer](https://open.spotify.com/album/4qrSM02InSMtRouW2fHfVP) | 1:59 |
 | 157 | [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 |
-| 158 | [I will be back](https://open.spotify.com/track/6XXoKr31cHpEcZkGZsxXYQ) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [I will be back](https://open.spotify.com/album/6CvhepfhkTKXJGD6SiPaCo) | 1:14 |
+| 158 | [I will be back](https://open.spotify.com/track/13CKpla9XlMsJGlax1LtYf) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [The Art Of Flying](https://open.spotify.com/album/6snQbaPd9XYIhqzk1D3NRp) | 1:14 |
 | 159 | [Uma Valsa e dois Amores](https://open.spotify.com/track/4DMdVTsX30OCuKZMWSNnO0) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Uma Valsa e dois Amores](https://open.spotify.com/album/7uCzTmgWQgau9Y3OSCnZet) | 3:33 |
 | 160 | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/track/2rARKDKGUhZshI910DTnZJ) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/album/2q5ZGA1ohBaWg4kNVbMAvt) | 3:58 |
 | 161 | [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 |
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 163 | [Terrassa](https://open.spotify.com/track/4uR1yeK0D3mRIno6VFWtWU) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Terrassa](https://open.spotify.com/album/1U7j93AXBB4QEyNxLYLTyp) | 2:21 |
 | 164 | [Trafalgar](https://open.spotify.com/track/6Klz0YteuP0CQmHvqHNFkd) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Trafalgar](https://open.spotify.com/album/1bFDU1We8vz1qZTETrhGYk) | 3:23 |
 | 165 | [Antoni](https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Antoni](https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO) | 2:46 |
-| 166 | [Bye bye](https://open.spotify.com/track/4YLHzgKQHzES6XLBDYJK18) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Bye bye](https://open.spotify.com/album/1bSdmu2BNpN3V0lJEyMl69) | 2:41 |
+| 166 | [Bye bye](https://open.spotify.com/track/0P2q30EKFRweeEDPS96E70) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [The Art Of Flying](https://open.spotify.com/album/6snQbaPd9XYIhqzk1D3NRp) | 2:41 |
 | 167 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 |
 | 168 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 |
 | 169 | [Poesia](https://open.spotify.com/track/0NynGB7s6MfjI3hPo5dG8Z) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Poesia](https://open.spotify.com/album/0NbGMkj7EFzNAPkvfzMPQ0) | 2:05 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 182 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 |
 | 183 | [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 |
 
-Snapshot ID: `MTY4MDIyNDQwMCwwMDAwMDAwMDEwMDU1ZGI2YjljMWUxMmI0MDQxYjM2OTQ2ZDI3MDMz`
+Snapshot ID: `MTY4MDIyNDQwMCwwMDAwMDAwMDc2Y2VkNmVmYmJhYjU5YmQ0YmMxZDM2ZmQ1OTJhZGFl`

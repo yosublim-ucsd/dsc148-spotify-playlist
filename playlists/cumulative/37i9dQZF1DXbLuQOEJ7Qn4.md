@@ -4,7 +4,7 @@
 
 > when bass music was life
 
-57 songs - 4 hr 21 min
+58 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Cockney Thug](https://open.spotify.com/track/5hHSZZuCCuBlY5eZoNubHq) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Babylon, Vol\. 1](https://open.spotify.com/album/2CNQ67P0mbL0ZECsESspO3) | 4:06 | 2022-08-31 |  |
 | [Could This Be Real \(Extended Mix\)](https://open.spotify.com/track/5klQNwm8fCDGGBJwESWFT5) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Could This Be Real](https://open.spotify.com/album/6Qj13zWjyAa7AvKEpWMf6S) | 4:26 | 2022-08-31 |  |
 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 | 2022-08-31 |  |
-| [Decisions \(feat\. Miley Cyrus\)](https://open.spotify.com/track/0rch4LXVKv8auzUU8TQh4x) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [\#NEWGOREORDER](https://open.spotify.com/album/0RqroVfwQenrkm0aG3Xggu) | 3:18 | 2022-08-31 |  |
+| [Decisions](https://open.spotify.com/track/4lGl4a2CGxNn9lbZD85isl) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Decisions](https://open.spotify.com/album/3wgupOGbs48maZcESK2DYg) | 3:14 | 2022-08-31 |  |
+| [Decisions \(feat\. Miley Cyrus\)](https://open.spotify.com/track/0rch4LXVKv8auzUU8TQh4x) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [\#NEWGOREORDER](https://open.spotify.com/album/0RqroVfwQenrkm0aG3Xggu) | 3:18 | 2022-08-31 | 2023-04-03 |
 | [Eastern Jam](https://open.spotify.com/track/4WygV70LzaCA8FgOcpN1w4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 3:56 | 2022-08-31 |  |
 | [Fire \(feat\. Ms Dynamite\)](https://open.spotify.com/track/0ECBHbZZgrzTt1SRCQixN4) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:39 | 2022-08-31 |  |
 | [Frisky \(feat\. Labrinth\) \- TC Remix](https://open.spotify.com/track/5XVrGQyE6pYEZmVyPqiDHO) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Frisky](https://open.spotify.com/album/22d8wD00z2me9Ike0YmJYs) | 4:01 | 2022-08-31 |  |

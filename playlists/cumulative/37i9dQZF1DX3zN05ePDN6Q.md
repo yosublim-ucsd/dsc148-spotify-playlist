@@ -4,7 +4,7 @@
 
 > Tem rap nacional tem boom bap na área\. Foto: Jota Ghetto
 
-265 songs - 14 hr 49 min
+266 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Fogo](https://open.spotify.com/track/4gJyFa0TVQAJSl5unvL50x) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Fogo](https://open.spotify.com/album/1JypFrtNwLcMEl2Tq1jZ9H) | 3:43 | 2022-07-08 | 2022-08-06 |
 | [Foi Mal Aí](https://open.spotify.com/track/5OoHKyFa8khX9XCeI8aGkt) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Não Me Leve a Mal](https://open.spotify.com/album/2YUDMOSRfyydUqGykgTeF1) | 2:54 | 2022-03-18 | 2022-04-09 |
 | [Forja](https://open.spotify.com/track/2mzctyCwTS7CKXC3RP4QXf) | [LetoDie](https://open.spotify.com/artist/2JFpfD9p2vTjRCH8XLeO0l) | [Forja](https://open.spotify.com/album/0sI4CDAdcaGF1lSvyTQwyd) | 2:58 | 2022-05-27 | 2022-10-15 |
-| [Forte](https://open.spotify.com/track/25WxHeVrvnZlqw77YCUBw4) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [DJ Erick Jay](https://open.spotify.com/artist/3Jwzin3ekPemfhs79RrsOf) | [Forte](https://open.spotify.com/album/0OMWmUYryA0lJzXhR5vGEj) | 3:03 | 2023-03-24 |  |
+| [Forte](https://open.spotify.com/track/25WxHeVrvnZlqw77YCUBw4) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [DJ Erick Jay](https://open.spotify.com/artist/3Jwzin3ekPemfhs79RrsOf) | [Forte](https://open.spotify.com/album/0OMWmUYryA0lJzXhR5vGEj) | 3:03 | 2023-03-24 | 2023-04-03 |
+| [Forte](https://open.spotify.com/track/022xGfOjOH2Hm9zP6WoPPO) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [DJ Erick Jay](https://open.spotify.com/artist/3Jwzin3ekPemfhs79RrsOf), [Beatmonk](https://open.spotify.com/artist/50OGScQr1zEwOnwxJqbXBh) | [Forte](https://open.spotify.com/album/6iWJpsVhxmHkNpjJRgFwoI) | 3:03 | 2023-03-31 |  |
 | [Fé Absoluta](https://open.spotify.com/track/4jGhKkUCIdaFol6T1lNyKQ) | [SXN!](https://open.spotify.com/artist/1iezxPg7OHTfSrQFhqm09M), [Dlucca](https://open.spotify.com/artist/6bJji9rCX7JLhomeGUCYDP) | [Fé Absoluta](https://open.spotify.com/album/5SEBrbtCm3469FdScP7g2O) | 3:43 | 2022-04-01 | 2022-06-04 |
 | [Fé No Processo](https://open.spotify.com/track/3wx7XAAC8SjXpOMv8YDVhe) | [Epílogo](https://open.spotify.com/artist/0xp4hAT0F4oiBiZSAFo3By), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Fé No Processo](https://open.spotify.com/album/5K4vMTbZjJzzwSSY8TEZ0m) | 3:16 | 2022-06-03 | 2023-01-28 |
 | [Ganhe Dinheiro ou Morra](https://open.spotify.com/track/7p7uutjlVuDp20pQgceNsg) | [Jacksom](https://open.spotify.com/artist/1QC4KvSV6LKlbjECxCRqdn), [Dj Novset](https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD) | [Ganhe Dinheiro ou Morra](https://open.spotify.com/album/644XUD6PlDAVHPmUWPtXZd) | 3:00 | 2022-06-03 | 2022-11-12 |

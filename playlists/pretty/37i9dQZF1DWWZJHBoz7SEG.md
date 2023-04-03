@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Peso Pluma y Becky G, Jowell y Randy con Maluma, NATTI NATASHA, JISOO y más para recibir Abril!
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,549 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,691 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

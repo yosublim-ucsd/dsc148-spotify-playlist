@@ -4,7 +4,7 @@
 
 > Royel Otis are our new RADAR artist to watch!
 
-218 songs - 11 hr 17 min
+219 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Smashmouth](https://open.spotify.com/track/0hqiP6ZADTynI136orAUpb) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/46WIzWMx67YUpASEdMTgVc) | 3:12 | 2021-10-15 | 2022-08-16 |
 | [Smashmouth](https://open.spotify.com/track/4cHSvShogdjsAdT50ysxds) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/5r27LuZamggikuwdMeKpuQ) | 3:12 | 2021-10-15 | 2022-07-29 |
 | [smb2l](https://open.spotify.com/track/44dlDthpDSiplvoFGwD2AA) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [shapeless](https://open.spotify.com/album/2yJtn1NTEXnj5tM3B2NGyf) | 2:46 | 2023-03-02 |  |
-| [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-02 |  |
+| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-12 |  |
+| [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-02 | 2023-04-03 |
 | [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2023-03-02 | 2023-03-03 |
 | [Soft Rock](https://open.spotify.com/track/7kNJ8lNMJ2cnNwSloYt3Ph) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Soft Rock](https://open.spotify.com/album/11oyqQEM0Cg679CH7XH15C) | 2:31 | 2021-10-15 | 2022-08-16 |
 | [Some Other Time \(feat\. Arz\)](https://open.spotify.com/track/2RP9qWN4MpSLHAlskIlV1t) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Some Other Time \(feat\. Arz\)](https://open.spotify.com/album/1ARzgmtTR8Zpq8LctI8sZh) | 3:19 | 2022-08-15 | 2022-11-11 |

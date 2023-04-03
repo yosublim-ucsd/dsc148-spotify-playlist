@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie tracks every Friday\. Cover: Barrie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,315 likes - 180 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,359 likes - 180 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 158 | [HEAVYWEIGHT](https://open.spotify.com/track/3OvpKSZWkECmmKj3vhB6hj) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HEAVYWEIGHT](https://open.spotify.com/album/4rtNom8YObGPLdXJ2LuB43) | 3:15 |
 | 159 | [Ghost](https://open.spotify.com/track/2WSbMaSstjDFlY30mRaRz5) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Ghost](https://open.spotify.com/album/0EkJjzIlZsOtkOablHVy9P) | 2:51 |
 | 160 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [worth it](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 |
-| 161 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 |
+| 161 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 | 162 | [Would It Kill Ya](https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Would It Kill Ya](https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f) | 2:45 |
 | 163 | [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 |
 | 164 | [He Loves Me \(He Loves Me Not\)](https://open.spotify.com/track/4n9zRMC8orbZ8P53Hosi1A) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [He Loves Me \(He Loves Me Not\)](https://open.spotify.com/album/2sacTpbnFo7I9qUu91F1fc) | 3:51 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 179 | [Sore Eyes](https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Sore Eyes](https://open.spotify.com/album/1pNb1AYhy42mSECLH04Vac) | 3:13 |
 | 180 | [star](https://open.spotify.com/track/3APRtJ612KjQ0GfU7b8ZqG) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [star](https://open.spotify.com/album/4iAtPukcN2ergkdoZlXSvB) | 1:59 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDhhYTk4NjFkYmNhYTM2MjgzYzg4NjMyNDA5N2MzYjkx`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDBhYTNjMDhjY2Y1NzA5ODRhZDIyNjQzODZjZDVkYjkx`

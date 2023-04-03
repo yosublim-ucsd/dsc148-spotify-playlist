@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER CINDERELLA GIRLS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30f3\u30c7\u30ec\u30e9\u30ac\u30fc\u30eb\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 17042,
+  "num_followers": 17081,
   "original_name": "THE IDOLM@STER CINDERELLA GIRLS\u3000\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30f3\u30c7\u30ec\u30e9\u30ac\u30fc\u30eb\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQxMDgwMCwwMDAwMDAwMGM2OGQ2YWM5MDkxZGUzNDhhNGNlMWFhZmQxYWQzNmRh",
+  "snapshot_id": "MTY3OTQxMDgwMCwwMDAwMDAwMDQxYzcyNDFmNmM2OGQ3NGIwNjU1YzhiMDk3MjQ1ODEx",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER CINDERELLA MASTER 051\u301c060 GAME VERSION",
+        "url": "https://open.spotify.com/album/4saezRuC7h6LzQhP43aY30"
+      },
+      "artists": [
+        {
+          "name": "\u4e45\u5ddd\u51ea (CV: \u7acb\u82b1\u65e5\u83dc)",
+          "url": "https://open.spotify.com/artist/5bRDdpgHNnVRyU35y6pCbc"
+        }
+      ],
+      "duration_ms": 127246,
+      "name": "14\u5e73\u7c73\u306b\u30b9\u30fc\u30d9\u30cb\u30a2 - GAME VERSION",
+      "url": "https://open.spotify.com/track/27FT7XoVbwI1me2Ob8UOhF"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21\u301c30 GAME VERSION",
         "url": "https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 134348,
       "name": "\u30af\u30ec\u30a4\u30b8\u30fc\u30af\u30ec\u30a4\u30b8\u30fc - GAME VERSION",
       "url": "https://open.spotify.com/track/0c5VTytk1vXwQ08sZlo3xa"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER CINDERELLA MASTER 051\u301c060 GAME VERSION",
-        "url": "https://open.spotify.com/album/4saezRuC7h6LzQhP43aY30"
-      },
-      "artists": [
-        {
-          "name": "\u5922\u898b\u308a\u3042\u3080 (CV: \u661f\u5e0c\u6210\u594f)",
-          "url": "https://open.spotify.com/artist/5ttibiLVXZsUju8g0uTS1N"
-        }
-      ],
-      "duration_ms": 130811,
-      "name": "OTAHEN \u30a2\u30f3\u30bb\u30e0 - GAME VERSION",
-      "url": "https://open.spotify.com/track/7zOw88IrgDDw63IIcQuiw0"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -424,13 +424,13 @@
       },
       "artists": [
         {
-          "name": "\u4e45\u5ddd\u51ea (CV: \u7acb\u82b1\u65e5\u83dc)",
-          "url": "https://open.spotify.com/artist/5bRDdpgHNnVRyU35y6pCbc"
+          "name": "\u5922\u898b\u308a\u3042\u3080 (CV: \u661f\u5e0c\u6210\u594f)",
+          "url": "https://open.spotify.com/artist/5ttibiLVXZsUju8g0uTS1N"
         }
       ],
-      "duration_ms": 127246,
-      "name": "14\u5e73\u7c73\u306b\u30b9\u30fc\u30d9\u30cb\u30a2 - GAME VERSION",
-      "url": "https://open.spotify.com/track/27FT7XoVbwI1me2Ob8UOhF"
+      "duration_ms": 130811,
+      "name": "OTAHEN \u30a2\u30f3\u30bb\u30e0 - GAME VERSION",
+      "url": "https://open.spotify.com/track/7zOw88IrgDDw63IIcQuiw0"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Isosceles (GAME VERSION)",
-        "url": "https://open.spotify.com/album/0sv2U0GnCGU4RDGLMciE6q"
+        "name": "THE IDOLM@STER CINDERELLA MASTER 021\u301c030 GAME VERSION",
+        "url": "https://open.spotify.com/album/76dSSs80SvnPMlavxm7k44"
       },
       "artists": [
         {
-          "name": "\u5c0f\u65e5\u5411\u7f8e\u7a42 (CV: \u6d25\u7530\u7f8e\u6ce2)",
-          "url": "https://open.spotify.com/artist/4dalrZzIs50pqdS89Bgj6H"
-        },
-        {
-          "name": "\u85e4\u539f\u8087 (CV: \u9234\u6728\u307f\u306e\u308a)",
-          "url": "https://open.spotify.com/artist/2I5aWrmvCjj0CxMc0PTXKS"
+          "name": "\u795e\u8c37\u5948\u7dd2 (CV: \u677e\u4e95\u6075\u7406\u5b50)",
+          "url": "https://open.spotify.com/artist/3eC78QG6Si2VnKkuACqiDC"
         }
       ],
-      "duration_ms": 135282,
-      "name": "Isosceles - GAME VERSION",
-      "url": "https://open.spotify.com/track/22QOZQN3Ged0qoQdJ8YaXS"
+      "duration_ms": 118483,
+      "name": "2nd SIDE - GAME VERSION",
+      "url": "https://open.spotify.com/track/704SO2asM3hYJ8FjT839g1"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER CINDERELLA MASTER 021\u301c030 GAME VERSION",
-        "url": "https://open.spotify.com/album/76dSSs80SvnPMlavxm7k44"
+        "name": "Isosceles (GAME VERSION)",
+        "url": "https://open.spotify.com/album/0sv2U0GnCGU4RDGLMciE6q"
       },
       "artists": [
         {
-          "name": "\u795e\u8c37\u5948\u7dd2 (CV: \u677e\u4e95\u6075\u7406\u5b50)",
-          "url": "https://open.spotify.com/artist/3eC78QG6Si2VnKkuACqiDC"
+          "name": "\u5c0f\u65e5\u5411\u7f8e\u7a42 (CV: \u6d25\u7530\u7f8e\u6ce2)",
+          "url": "https://open.spotify.com/artist/4dalrZzIs50pqdS89Bgj6H"
+        },
+        {
+          "name": "\u85e4\u539f\u8087 (CV: \u9234\u6728\u307f\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/2I5aWrmvCjj0CxMc0PTXKS"
         }
       ],
-      "duration_ms": 118483,
-      "name": "2nd SIDE - GAME VERSION",
-      "url": "https://open.spotify.com/track/704SO2asM3hYJ8FjT839g1"
+      "duration_ms": 135282,
+      "name": "Isosceles - GAME VERSION",
+      "url": "https://open.spotify.com/track/22QOZQN3Ged0qoQdJ8YaXS"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -1387,38 +1387,6 @@
       "duration_ms": 132359,
       "name": "\u30b5\u30de\u30fc\u30b5\u30a4\u30c0\u30fc - GAME VERSION",
       "url": "https://open.spotify.com/track/0wq2TBjuFVoi5g6MBjlgkM"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 01\u301c10 GAME VERSION",
-        "url": "https://open.spotify.com/album/0Z5APTMWfS7OKiFCSkerqd"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u3005\u6728\u5343\u679d (CV: \u4eca\u4e95\u9ebb\u590f)",
-          "url": "https://open.spotify.com/artist/4sxbcrYetW17tTxwfvb8lv"
-        },
-        {
-          "name": "\u6afb\u4e95\u6843\u83ef (CV: \u7167\u4e95\u6625\u4f73)",
-          "url": "https://open.spotify.com/artist/3NXHWTetjQ1Jxfpg49XCCN"
-        },
-        {
-          "name": "\u5e02\u539f\u4ec1\u5948 (CV: \u4e45\u91ce\u7f8e\u54b2)",
-          "url": "https://open.spotify.com/artist/4blcVIu31rcZpMMiS5Znpy"
-        },
-        {
-          "name": "\u9f8d\u5d0e\u85ab (CV: \u6625\u702c\u306a\u3064\u307f)",
-          "url": "https://open.spotify.com/artist/6eKGUluVuhVZVz5KMHoQPx"
-        },
-        {
-          "name": "\u8d64\u57ce\u307f\u308a\u3042 (CV: \u9ed2\u6ca2\u3068\u3082\u3088)",
-          "url": "https://open.spotify.com/artist/3qkXtE3XETewbseP4v4n6g"
-        }
-      ],
-      "duration_ms": 127526,
-      "name": "\u30cf\u30a4\u30d5\u30a1\u30a4\u2606\u30c7\u30a4\u30ba - GAME VERSION",
-      "url": "https://open.spotify.com/track/5L1gFNDOtr9ng76f4XJngo"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -1451,6 +1419,38 @@
       "duration_ms": 119337,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8?\u30ec\u30e2\u30cd\u30fc\u30c9?\u3069\u3063\u3061?? - GAME VERSION",
       "url": "https://open.spotify.com/track/1Gl8Tsb0YffZ086Yt8z2a5"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 01\u301c10 GAME VERSION",
+        "url": "https://open.spotify.com/album/0Z5APTMWfS7OKiFCSkerqd"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u3005\u6728\u5343\u679d (CV: \u4eca\u4e95\u9ebb\u590f)",
+          "url": "https://open.spotify.com/artist/4sxbcrYetW17tTxwfvb8lv"
+        },
+        {
+          "name": "\u6afb\u4e95\u6843\u83ef (CV: \u7167\u4e95\u6625\u4f73)",
+          "url": "https://open.spotify.com/artist/3NXHWTetjQ1Jxfpg49XCCN"
+        },
+        {
+          "name": "\u5e02\u539f\u4ec1\u5948 (CV: \u4e45\u91ce\u7f8e\u54b2)",
+          "url": "https://open.spotify.com/artist/4blcVIu31rcZpMMiS5Znpy"
+        },
+        {
+          "name": "\u9f8d\u5d0e\u85ab (CV: \u6625\u702c\u306a\u3064\u307f)",
+          "url": "https://open.spotify.com/artist/6eKGUluVuhVZVz5KMHoQPx"
+        },
+        {
+          "name": "\u8d64\u57ce\u307f\u308a\u3042 (CV: \u9ed2\u6ca2\u3068\u3082\u3088)",
+          "url": "https://open.spotify.com/artist/3qkXtE3XETewbseP4v4n6g"
+        }
+      ],
+      "duration_ms": 127526,
+      "name": "\u30cf\u30a4\u30d5\u30a1\u30a4\u2606\u30c7\u30a4\u30ba - GAME VERSION",
+      "url": "https://open.spotify.com/track/5L1gFNDOtr9ng76f4XJngo"
     },
     {
       "added_at": "2023-03-21 15:00:00",

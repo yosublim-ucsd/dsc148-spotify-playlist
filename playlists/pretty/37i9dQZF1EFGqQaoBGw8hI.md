@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031 likes - 477 songs - 1 day 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,032 likes - 477 songs - 1 day 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 66 | [Made In England](https://open.spotify.com/track/6VmxhbNRCURgu8d5pEPRb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:08 |
 | 67 | [Island Girl](https://open.spotify.com/track/2u3UJ9KyduTnbi9yUVGYfW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 3:42 |
 | 68 | [Believe](https://open.spotify.com/track/0mh3kdiViRyeH8JzVL61Hw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 4:55 |
-| 69 | [Wonderful Crazy Night](https://open.spotify.com/track/4SKakzuaSX2PMXIHGUDNyo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:13 |
-| 70 | [Hello Hello](https://open.spotify.com/track/5uHJ4XmAc4OPIxaPq6IBfz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:44 |
+| 69 | [Hello Hello](https://open.spotify.com/track/5uHJ4XmAc4OPIxaPq6IBfz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:44 |
+| 70 | [Wonderful Crazy Night](https://open.spotify.com/track/4SKakzuaSX2PMXIHGUDNyo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:13 |
 | 71 | [In The Name Of You](https://open.spotify.com/track/7Fxo33DpdxrWBvlP7qW28m) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:33 |
 | 72 | [Please Me](https://open.spotify.com/track/5BUt321m1NQToAo1qqeWa7) | [K\-Young](https://open.spotify.com/artist/17BUBnfODzDxbXw1tim7JW), [Young Berg](https://open.spotify.com/artist/22KGEF39ckFsYZCv1EBGnD), [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc) | [Keep Talkin About Love \- Deluxe Edition](https://open.spotify.com/album/01sdcJKBDgZFauoFCNO4Xq) | 4:18 |
 | 73 | [Amoreena](https://open.spotify.com/track/7qilLNLdlGyALqKVecG3Lt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 5:02 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Gnomeo and Juliet](https://open.spotify.com/track/7GpjK6c4S7ihN8fGX3y9lK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:22 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `MjgwMDY1ODAsMDAwMDAwMDA4OWY4Yjg0YmFhMDM4Yzk1NWVkOWVmOTFmZTVjOWM1ZA==`
+Snapshot ID: `MjgwMDgwMjAsMDAwMDAwMDA0ZmJjZjIxYjliY2M1ZmI5MmJjOTc5M2IzNTZmYTEyYw==`

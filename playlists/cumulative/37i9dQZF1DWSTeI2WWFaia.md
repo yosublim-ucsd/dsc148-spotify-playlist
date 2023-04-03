@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Hit\-Boy
 
-399 songs - 21 hr 22 min
+400 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Gold Rings \(feat\. Pusha T\)](https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:42 | 2022-09-30 | 2023-04-02 |
 | [Golden Eye](https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Golden Eye](https://open.spotify.com/album/2WjzdNogZj7xnPhweKEHzD) | 2:47 | 2021-09-03 | 2022-07-27 |
 | [Good Morning \(feat\. Pusha T, Swizz Beatz & Killer Mike\)](https://open.spotify.com/track/7evTceKtCaBbxoLIqICIVh) | [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Good Morning](https://open.spotify.com/album/4j4HCie37pZHJ0YtqKSHti) | 3:10 | 2021-09-03 | 2022-05-29 |
-| [Good Wine](https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Good Wine](https://open.spotify.com/album/6898YVDudEoCou54LQrbrd) | 2:06 | 2022-10-21 |  |
+| [Good Wine](https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Good Wine](https://open.spotify.com/album/6898YVDudEoCou54LQrbrd) | 2:06 | 2022-10-21 | 2023-04-03 |
 | [GOTW](https://open.spotify.com/track/4OvA3f027ZoTm3RIlBzrYB) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [GOTW](https://open.spotify.com/album/2IehfJGatxIXsCVhftg4LW) | 3:22 | 2022-04-29 | 2022-07-28 |
 | [Grey Poupon](https://open.spotify.com/track/5YiEYhr37soYqg6uImNfcK) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Steven Young](https://open.spotify.com/artist/1F7MvVKA8aIz7spul2xdl1) | [The Hustler's Catalog 2](https://open.spotify.com/album/4HPx2F56RMxYqmPjWePLVT) | 3:13 | 2021-09-03 | 2022-07-13 |
 | [Gutter! \(feat\. WARA\)](https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [WARA](https://open.spotify.com/artist/2Ht07O62G5N6LTqguC92qG) | [Gutter! \(feat\. WARA\)](https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve) | 2:56 | 2021-09-03 | 2022-05-23 |
@@ -206,6 +206,7 @@
 | [Le Chop](https://open.spotify.com/track/1N6lBW01dWgpsnfIYzeA7S) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Pain Provided Profit](https://open.spotify.com/album/6CN9tFUX2EQIMakX86sN3R) | 3:09 | 2023-03-10 | 2023-03-18 |
 | [Legacy](https://open.spotify.com/track/6CigsKxaU5iDoQnWUFXw6K) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Legacy](https://open.spotify.com/album/4U2FeSvWV0WGMvl4Q5E5D7) | 4:06 | 2022-03-18 | 2022-07-20 |
 | [Legend \(feat\. Garren\)](https://open.spotify.com/track/7rRNn6kTtJPkjK4R5QGN97) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [Garren](https://open.spotify.com/artist/0963LEoOeEvJqPRYH9eG7X) | [Legend \(feat\. Garren\)](https://open.spotify.com/album/5KiERhQsUJSKBqoWu56IO1) | 2:53 | 2022-04-08 | 2022-07-29 |
+| [Legendary](https://open.spotify.com/track/2VXhwq2VuhVcLBsJa6A2wY) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 1:38 | 2023-03-31 |  |
 | [Lemon \(feat\. Method Man\)](https://open.spotify.com/track/6NYfMOaLFdYDv5dfAdrpsZ) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Lemon \(feat\. Method Man\)](https://open.spotify.com/album/4KW9znwnQEU5i04Zg5SkoH) | 3:16 | 2021-09-03 | 2022-02-26 |
 | [Lessons From My Mistakes...but I Lost Your Number](https://open.spotify.com/track/12KvLRJSp2loNOoOGDnv7L) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Bout These Pipedreams / Lessons From My Mistakes..\. but I Lost Your Number](https://open.spotify.com/album/5gnw5oytcuTBWvaie6Yd52) | 2:40 | 2022-03-25 | 2022-04-20 |
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-09-03 | 2022-10-22 |

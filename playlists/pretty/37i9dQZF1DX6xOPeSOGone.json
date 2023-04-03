@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3580239,
+  "num_followers": 3580420,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDJhZjhiNGIwNzVlMmE0OTk1YjgxNjdhYzg0NWNmM2Y0",
+  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDdmYmMwZTdkYmU4MGZlMDk4Y2RlN2YxNTNhNjI1ZjRj",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
-      },
-      "artists": [
-        {
-          "name": "Player",
-          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
-        }
-      ],
-      "duration_ms": 265221,
-      "name": "This Time I'm In It For Love",
-      "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 282040,
       "name": "Get It Right Next Time",
       "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
+      },
+      "artists": [
+        {
+          "name": "Player",
+          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
+        }
+      ],
+      "duration_ms": 265221,
+      "name": "This Time I'm In It For Love",
+      "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Underdog",
-        "url": "https://open.spotify.com/album/4kCaBxoVlLShsmGny6xwOT"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/6ZJqKg4MuBzg5M5g9yeeuV"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/7ghZpirxJtjGt4QzPtnkqT"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Takin' It Easy",
-        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
+        "name": "Underdog",
+        "url": "https://open.spotify.com/album/4kCaBxoVlLShsmGny6xwOT"
       },
       "artists": [
         {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
         }
       ],
-      "duration_ms": 200026,
-      "name": "You're the Love",
-      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
+      "duration_ms": 299066,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/6ZJqKg4MuBzg5M5g9yeeuV"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1003,6 +987,22 @@
       "duration_ms": 164826,
       "name": "(Remember the Days of The) Old Schoolyard",
       "url": "https://open.spotify.com/track/1a2fmmAAlGGxiUTDLM3ghL"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Takin' It Easy",
+        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "You're the Love",
+      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Change Of Heart",
-        "url": "https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Baby I Need Your Lovin'",
-      "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 270333,
       "name": "Fountain Of Sorrow",
       "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Change Of Heart",
+        "url": "https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Baby I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Larsen/Feiten Band",
-        "url": "https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB"
-      },
-      "artists": [
-        {
-          "name": "Larsen/Feiten Band",
-          "url": "https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Who'll Be the Fool Tonight",
-      "url": "https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Whatever Happened to Benny Santini",
         "url": "https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 259226,
       "name": "Whatever Happened to Benny Santini?",
       "url": "https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Larsen/Feiten Band",
+        "url": "https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB"
+      },
+      "artists": [
+        {
+          "name": "Larsen/Feiten Band",
+          "url": "https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Who'll Be the Fool Tonight",
+      "url": "https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1"
     },
     {
       "added_at": "2023-03-20 17:07:41",

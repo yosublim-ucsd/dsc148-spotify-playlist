@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "The Art Of Flying",
+        "url": "https://open.spotify.com/album/6snQbaPd9XYIhqzk1D3NRp"
+      },
+      "artists": [
+        {
+          "name": "Jose el Petate",
+          "url": "https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161247,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/0P2q30EKFRweeEDPS96E70"
+    },
+    {
+      "album": {
         "name": "Bye bye",
         "url": "https://open.spotify.com/album/1bSdmu2BNpN3V0lJEyMl69"
       },
@@ -532,7 +554,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 161247,
       "name": "Bye bye",
       "url": "https://open.spotify.com/track/4YLHzgKQHzES6XLBDYJK18"
@@ -1783,6 +1805,28 @@
     },
     {
       "album": {
+        "name": "The Art Of Flying",
+        "url": "https://open.spotify.com/album/6snQbaPd9XYIhqzk1D3NRp"
+      },
+      "artists": [
+        {
+          "name": "Jose el Petate",
+          "url": "https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74581,
+      "name": "I will be back",
+      "url": "https://open.spotify.com/track/13CKpla9XlMsJGlax1LtYf"
+    },
+    {
+      "album": {
         "name": "I will be back",
         "url": "https://open.spotify.com/album/6CvhepfhkTKXJGD6SiPaCo"
       },
@@ -1798,7 +1842,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 74581,
       "name": "I will be back",
       "url": "https://open.spotify.com/track/6XXoKr31cHpEcZkGZsxXYQ"

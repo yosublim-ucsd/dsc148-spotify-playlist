@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 155294,
       "name": "DAGLIG DOSIS",
       "url": "https://open.spotify.com/track/1ESgWcgtrW1ihRZumDnhop"
@@ -4620,6 +4620,24 @@
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "album": {
+        "name": "Dronning Af M\u00e5nen",
+        "url": "https://open.spotify.com/album/3sCn7y5eBXjNOOhmLqSJMX"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "Dronning Af M\u00e5nen",
+      "url": "https://open.spotify.com/track/2d0qsULaWlQMZ13jlPRA1d"
     },
     {
       "album": {
@@ -6668,7 +6686,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 207288,
       "name": "f\u00f8ler mig selv 100",
       "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
@@ -9985,6 +10003,24 @@
     },
     {
       "album": {
+        "name": "JEG ER ALMINDELIG",
+        "url": "https://open.spotify.com/album/0omE59KGMGoZb3dPVxxBay"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c8L",
+          "url": "https://open.spotify.com/artist/68qzFAN4togCedlRiLWshZ"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "JEG ER ALMINDELIG",
+      "url": "https://open.spotify.com/track/6ZBBA4FoCfyZX6CS3NGqxM"
+    },
+    {
+      "album": {
         "name": "KNUSTE HJERTER HELER ALDRIG",
         "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
       },
@@ -10102,7 +10138,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 144197,
       "name": "Jet Li (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/4Kwem7PKNogrUOYlAHIbFY"
@@ -10196,7 +10232,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 160417,
       "name": "Juice",
       "url": "https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ"
@@ -13448,7 +13484,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 182857,
       "name": "Mr. Lummer (feat. Stewart Stardust)",
       "url": "https://open.spotify.com/track/43gebe9VUqbC0hEu92HpzZ"
@@ -14782,7 +14818,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Ozonlag A Energi (feat. Niels Brandt)",
       "url": "https://open.spotify.com/track/3fe2pEkW24bNn4WCOt1b0s"

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: 12th Planet
 
-331 songs - 18 hr 53 min
+332 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Addicted 2 U](https://open.spotify.com/track/75A3usA2hRJmaqnABohyAG) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Addicted 2 U](https://open.spotify.com/album/0nEy6XV1GHyRZJd1yTgcX6) | 4:56 | 2022-03-11 | 2023-04-01 |
 | [Affliction](https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Affliction](https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs) | 3:19 | 2022-06-17 | 2023-03-11 |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-21 | 2023-02-12 |
+| [Afterlife \(I'll Dream Of You\)](https://open.spotify.com/track/5d9LTgvG1fJ4jZQQforKki) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz) | [Afterlife \(I'll Dream Of You\)](https://open.spotify.com/album/0xRSb3O3410T4MZzrmzoSn) | 3:27 | 2023-03-31 |  |
 | [Alive](https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Alive](https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u) | 3:40 | 2022-06-10 | 2022-10-08 |
 | [Alive \- 12th Planet Remix](https://open.spotify.com/track/70GVGpU0PCNX5op7l3qYTp) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Alive \(Remixes\)](https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo) | 2:40 | 2021-12-17 | 2023-04-01 |
 | [All I Need](https://open.spotify.com/track/0B2NXI85NABXRoUcNNtceE) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [AFK](https://open.spotify.com/artist/3eIM4tCQTGJXb0RDPfF2wL) | [REBIRTH](https://open.spotify.com/album/2LSsxrKHCA8lO39BtBI98X) | 3:06 | 2023-03-31 |  |
@@ -110,7 +111,7 @@
 | [Everyday](https://open.spotify.com/track/7GgDbcLEkhNhCX2UIq3vWo) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [RAVVA](https://open.spotify.com/artist/2ZppcH5NCmZmzoHzAepLcD) | [Everyday](https://open.spotify.com/album/3UB9STjiD6hbR0ZUQJloPW) | 2:59 | 2022-03-25 | 2022-08-16 |
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 | 2023-01-16 |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-24 |  |
-| [Fantasy](https://open.spotify.com/track/1SIQqSE0P63y5z97Y7BNFm) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [Fantasy](https://open.spotify.com/album/0jdqEWHHbDgli25Ap6gHbx) | 4:12 | 2023-03-31 |  |
+| [Fantasy](https://open.spotify.com/track/1SIQqSE0P63y5z97Y7BNFm) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [Fantasy](https://open.spotify.com/album/0jdqEWHHbDgli25Ap6gHbx) | 4:12 | 2023-03-31 | 2023-04-03 |
 | [Fight Milk](https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Fight Milk](https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS) | 3:12 | 2021-12-17 | 2023-04-01 |
 | [FINAL BOSS](https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [FINAL BOSS](https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl) | 2:52 | 2023-02-17 |  |
 | [Final Boss \- Modestep Remix](https://open.spotify.com/track/2qBfIoBC5QJj6CvMwct8OG) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Hige Driver](https://open.spotify.com/artist/2OxrEwDhVZodk9XEVBkA6E), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Final Boss \(Modestep Remix\)](https://open.spotify.com/album/0Ps5wnPvYARsndfhvTK37G) | 3:14 | 2022-08-12 |  |

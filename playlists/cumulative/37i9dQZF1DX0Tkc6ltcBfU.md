@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Nardo Wick
 
-649 songs - 1 day 7 hr 7 min
+650 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Faith](https://open.spotify.com/track/122br9dGnrQQgo5j19qeif) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 3:39 | 2021-12-10 | 2021-12-24 |
 | [Falling Off \(feat\. Rico Nasty\)](https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Falling Off](https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og) | 4:24 | 2022-02-11 | 2022-02-26 |
 | [Fantasy \(feat\. Offset\)](https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Offset](https://open.spotify.com/artist/3xWSt0mL474uQlh5Zm6NsW) | [Big Grim Reaper: The Return](https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut) | 3:22 | 2022-02-25 | 2022-05-28 |
-| [Fat Racks Pt\. 2](https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr) | 3:43 | 2023-03-10 |  |
+| [Fat Racks Pt\. 2](https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr) | 3:43 | 2023-03-10 | 2023-04-03 |
+| [Fat Racks Pt\. 2](https://open.spotify.com/track/0gYr2tuq05c8z55b9cDnYm) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [My Vision](https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X) | 3:43 | 2023-03-10 |  |
 | [Fat Racks Pt\. 2](https://open.spotify.com/track/7LWj7OYNxpBEnsc3kzezEj) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR) | 3:43 | 2023-03-10 | 2023-03-25 |
 | [Feelin Like Rylo](https://open.spotify.com/track/5bHXahWwP3DHKcXAcgIS2d) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Feelin Like Rylo](https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl) | 2:25 | 2022-05-27 | 2022-06-11 |
 | [Feeling Down \(feat\. NoCap\)](https://open.spotify.com/track/4BKN3EPTN0HVte4s59dj68) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Life of a Savage 2](https://open.spotify.com/album/6r3kyA8HungIaSRs7CVtqW) | 3:14 | 2021-12-17 | 2022-01-22 |

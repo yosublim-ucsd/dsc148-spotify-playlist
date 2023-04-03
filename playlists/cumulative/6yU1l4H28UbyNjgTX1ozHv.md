@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-162 songs - 8 hr 39 min
+163 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B) | 3:30 | 2019-10-13 |  |
 | [Wings \- Acoustic](https://open.spotify.com/track/6RABQoaafYVilegWAT8iQK) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Wings \(Acoustic\)](https://open.spotify.com/album/0zKFZC6ieoYGW8IRvRWmoh) | 3:42 | 2019-10-13 |  |
 | [Wonderwall \- Acoustic](https://open.spotify.com/track/19YPudY9wVuadI8IaFOmIZ) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Wonderwall \(Acoustic\)](https://open.spotify.com/album/2bWC9zgX6UiPqThc6TtYsF) | 3:16 | 2021-08-06 | 2022-10-15 |
+| [Wouldn't It Be Nice \- Acoustic](https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wouldn't It Be Nice \(Acoustic\)](https://open.spotify.com/album/085kDnx6X3C0TI7uocKr1C) | 2:49 | 2023-04-01 |  |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2019-10-13 |  |
 | [Yellow \- Acoustic](https://open.spotify.com/track/4cNXu88dudLEAhsIbikLvU) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Yellow \(Acoustic\)](https://open.spotify.com/album/1hcpmhJzMlYjKjyuGOEmMh) | 3:25 | 2020-10-16 | 2023-01-14 |
 | [You & Me Song \- Acoustic](https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You & Me Song \(Acoustic\)](https://open.spotify.com/album/7dKiRJqvMpIOMkbMafTc8k) | 2:52 | 2023-01-18 |  |

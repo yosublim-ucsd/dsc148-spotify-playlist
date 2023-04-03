@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 99068,
+  "num_followers": 99181,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGJlYmU3ZWIzYmEyMmY0NDAwYzU4Y2NmOTA2NzgyYzA5",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGQyNzliZjY1ZWVkOGU3NWQ3YWFlMDA0M2E2YjE0M2I5",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Gracias por Esperar",
+        "url": "https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "Vienes o Voy",
+      "url": "https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 228026,
       "name": "Contigo en la Distancia (with Carlos Cuevas)",
       "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Gracias por Esperar",
-        "url": "https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "Vienes o Voy",
-      "url": "https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf"
     },
     {
       "added_at": "2021-12-29 23:33:57",

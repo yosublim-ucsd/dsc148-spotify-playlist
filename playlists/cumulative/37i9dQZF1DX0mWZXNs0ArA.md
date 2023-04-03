@@ -4,7 +4,7 @@
 
 > 150%
 
-186 songs - 8 hr 5 min
+187 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Love Grows \(Sped up\)](https://open.spotify.com/track/2KXnyrYPOqyWWMkE9zUDwT) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Sped up\)](https://open.spotify.com/album/5Dr5spXA9DBuXeCPZtQkfI) | 2:14 | 2022-12-30 | 2023-02-25 |
 | [Love Me Back \(Fayahh Beat\) \- Sped Up](https://open.spotify.com/track/2cchY5dEYErRDF56JlMb7Q) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Love Me Back \(Fayahh Beat\) \[Sped Up\]](https://open.spotify.com/album/3SRRHvOqivEDKuwOdFGOdq) | 2:40 | 2022-07-08 |  |
 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 | 2022-06-09 |  |
-| [Memories \- Sped Up](https://open.spotify.com/track/2aroCVYHlgz2RZk1cArLac) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Memories \- Sped Up](https://open.spotify.com/album/2JaXzx2OEmDUjapGuuwL5S) | 3:35 | 2023-01-27 |  |
+| [Memories \- Sped Up](https://open.spotify.com/track/1FNfj2MH5VTEGDjsihXlLM) | [DJ Tec](https://open.spotify.com/artist/6Ydp8ZG2TzDyUnJctruKiC), [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Memories \(Sped Up\)](https://open.spotify.com/album/0XQhTQbNHXxRSMvprB6ixJ) | 3:35 | 2023-01-27 |  |
+| [Memories \- Sped Up](https://open.spotify.com/track/2aroCVYHlgz2RZk1cArLac) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Memories \- Sped Up](https://open.spotify.com/album/2JaXzx2OEmDUjapGuuwL5S) | 3:35 | 2023-01-27 | 2023-04-03 |
 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 | 2022-12-12 |  |
 | [Miracles3](https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles \(alt\)](https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA) | 3:30 | 2022-12-16 | 2023-01-28 |
 | [Miss You \- Sped Up Version](https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ) | 2:50 | 2022-10-13 | 2022-12-24 |

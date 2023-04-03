@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > when bass music was life
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,456 likes - 57 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,490 likes - 57 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 47 | [Fire \(feat\. Ms Dynamite\)](https://open.spotify.com/track/0ECBHbZZgrzTt1SRCQixN4) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:39 |
 | 48 | [Jungle](https://open.spotify.com/track/2TYdbwIwRArr13oxJ7Uc47) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Jungle](https://open.spotify.com/album/2b3M4j7XZCH9HjhzyAmr7L) | 4:17 |
 | 49 | [Sunlight](https://open.spotify.com/track/0Ix7doBgImhoWJfDnwezP1) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Evolution Theory](https://open.spotify.com/album/5WahIyl6daGLtfLn8AIJjR) | 3:46 |
-| 50 | [Decisions \(feat\. Miley Cyrus\)](https://open.spotify.com/track/0rch4LXVKv8auzUU8TQh4x) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [\#NEWGOREORDER](https://open.spotify.com/album/0RqroVfwQenrkm0aG3Xggu) | 3:18 |
+| 50 | [Decisions](https://open.spotify.com/track/4lGl4a2CGxNn9lbZD85isl) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Decisions](https://open.spotify.com/album/3wgupOGbs48maZcESK2DYg) | 3:14 |
 | 51 | [26 Basslines](https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:01 |
 | 52 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
 | 53 | [Bricks Don't Roll](https://open.spotify.com/track/1SBs5cEBLhTugiSHko2qx4) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [Bricks Don't Roll EP](https://open.spotify.com/album/0SbH0tpWimrsP1q4mJLEIS) | 4:13 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 56 | [Source 16](https://open.spotify.com/track/73qzJNohM4C0h02kWMe21B) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Source 16](https://open.spotify.com/album/5rvNcDCoS3esebzx8crgZ6) | 3:20 |
 | 57 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/7C9Em0Ta3Fw470hEF0LVrI) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 |
 
-Snapshot ID: `MTY2MTk2MjcwMSwwMDAwMDAwMGE4YjI3N2Q5Yjg4MzMzNzljYjhhZGQzZGUzN2VkOTA5`
+Snapshot ID: `MTY2MTk2MjcwMSwwMDAwMDAwMDI4OWVhZmQ5Mzk4NDg3YWU0NWExMjEwNmE5YjhlN2Jl`

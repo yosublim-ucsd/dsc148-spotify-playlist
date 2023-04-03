@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Sans Soucis in cover, e <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">nella playlist global</a> \u2728 ",
-  "num_followers": 5317,
+  "num_followers": 5321,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3ODI4NiwwMDAwMDAwMGUzYjExN2MyZGY5ODdlM2MzNmI1MWM0NzhiNzUxOWRi",
+  "snapshot_id": "MTY3OTY3ODI4NiwwMDAwMDAwMGI1YzA3Y2RiZjg2OWVmZjI4OTM3ODdiMmEzM2FhODVj",
   "tracks": [
     {
       "added_at": "2023-03-17 08:35:32",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5"
     },
     {
-      "added_at": "2023-04-02 01:42:01",
+      "added_at": "2023-04-03 00:58:04",
       "album": {
         "name": "She's so different\u0259",
         "url": "https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps"
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
+        "name": "Disco Bambina",
+        "url": "https://open.spotify.com/album/7hQWrNaDBlO6LxgoXycwL7"
+      },
+      "artists": [
+        {
+          "name": "Heather Parisi",
+          "url": "https://open.spotify.com/artist/1HgVjrg402nAvOjDlXXA2n"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Cicale",
+      "url": "https://open.spotify.com/track/4c2ypSbxlEtTNcyJ6uZcdn"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
         "name": "Magica Musica",
         "url": "https://open.spotify.com/album/4Pd36LZx3udvliJX2ukwAB"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 233584,
       "name": "Ogni pensiero vola",
       "url": "https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "Disco Bambina",
-        "url": "https://open.spotify.com/album/7hQWrNaDBlO6LxgoXycwL7"
-      },
-      "artists": [
-        {
-          "name": "Heather Parisi",
-          "url": "https://open.spotify.com/artist/1HgVjrg402nAvOjDlXXA2n"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Cicale",
-      "url": "https://open.spotify.com/track/4c2ypSbxlEtTNcyJ6uZcdn"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
+        "name": "Freak & Chic",
+        "url": "https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Casto",
+          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
+        }
+      ],
+      "duration_ms": 260472,
+      "name": "Tropicanal",
+      "url": "https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 155400,
       "name": "XTC (feat. LA NI\u00d1A & BigMama)",
       "url": "https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "Freak & Chic",
-        "url": "https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7"
-      },
-      "artists": [
-        {
-          "name": "Immanuel Casto",
-          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
-        }
-      ],
-      "duration_ms": 260472,
-      "name": "Tropicanal",
-      "url": "https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
         "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
         "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
         "name": "I\u2019m Calling You From My Dreams",
         "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
       },
@@ -1043,30 +1043,6 @@
       "duration_ms": 245000,
       "name": "Tell Me What You See",
       "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Kiddy Smile",
-          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
-        },
-        {
-          "name": "David Blank",
-          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
-      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1123,6 +1099,30 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Kiddy Smile",
+          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
+      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
         "name": "Notte divina",
         "url": "https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 257975,
       "name": "A Che Ora l'Amore",
       "url": "https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "Credo che tra un po'",
-        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
-      },
-      "artists": [
-        {
-          "name": "Whitemary",
-          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "Credo che tra un po'",
-      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1223,6 +1207,22 @@
       "duration_ms": 169753,
       "name": "Magari Vivi",
       "url": "https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "Credo che tra un po'",
+        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
+      },
+      "artists": [
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "Credo che tra un po'",
+      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "QUARANTENA",
-        "url": "https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS"
-      },
-      "artists": [
-        {
-          "name": "Les Flames",
-          "url": "https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP"
-        }
-      ],
-      "duration_ms": 124168,
-      "name": "QUARANTENA",
-      "url": "https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
         "name": "FOREVER SPEEDING THROUGH DARKNESS",
         "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 231774,
       "name": "LANCIA DELTA INTEGRALE",
       "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "QUARANTENA",
+        "url": "https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS"
+      },
+      "artists": [
+        {
+          "name": "Les Flames",
+          "url": "https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP"
+        }
+      ],
+      "duration_ms": 124168,
+      "name": "QUARANTENA",
+      "url": "https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE"
     },
     {
       "added_at": "2023-03-17 08:35:32",

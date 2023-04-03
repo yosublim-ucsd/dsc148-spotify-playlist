@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 246047,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw"
@@ -1860,6 +1860,24 @@
       "duration_ms": 266520,
       "name": "Que Me Puedas Amar",
       "url": "https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn"
+    },
+    {
+      "album": {
+        "name": "Maxima Expresion",
+        "url": "https://open.spotify.com/album/4wU1X1kncKz4XPDvvG5xPR"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283376,
+      "name": "Que No Me Faltes Tu",
+      "url": "https://open.spotify.com/track/03gTQmd2iDkbeZXxcjn9jZ"
     },
     {
       "album": {

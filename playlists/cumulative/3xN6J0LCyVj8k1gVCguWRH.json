@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 200690,
       "name": "A Million Miles",
       "url": "https://open.spotify.com/track/2sUHY3pUaz5AeHk7oh6Ike"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 242260,
       "name": "Al son de las balas",
       "url": "https://open.spotify.com/track/6oqnhrAWlGEvcFj8mLj8ut"
@@ -4594,7 +4594,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 296400,
       "name": "Blue Sea (Remastered)",
       "url": "https://open.spotify.com/track/3IArEiFaXvk8LttR2sinYG"
@@ -5144,7 +5144,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 217412,
       "name": "Breaking My Heart",
       "url": "https://open.spotify.com/track/5vHNr6c97TVKBtTNufeiLN"
@@ -6194,7 +6194,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 234285,
       "name": "candid",
       "url": "https://open.spotify.com/track/6oPXVymb5rwtgJ7DcyimkP"
@@ -8096,7 +8096,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 168874,
       "name": "Cross My Heart I Hope U Die",
       "url": "https://open.spotify.com/track/2Zrmp1DHBdzm2zNk9rrQtQ"
@@ -10252,7 +10252,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 181687,
       "name": "Driftin away",
       "url": "https://open.spotify.com/track/4aclkqp2dw6jFrgK8D0TJg"
@@ -11100,7 +11100,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 204212,
       "name": "Everything We Know",
       "url": "https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS"
@@ -16417,6 +16417,24 @@
     },
     {
       "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/4uc50ROh0H3eNkS2sPDqoK"
+      },
+      "artists": [
+        {
+          "name": "Compass",
+          "url": "https://open.spotify.com/artist/0IeDag6Mjm397glEJwhKeA"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188586,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/5HiTnO0TxjIR5wWFoiQlT5"
+    },
+    {
+      "album": {
         "name": "May Day",
         "url": "https://open.spotify.com/album/4K9YGGkSGYpCEgfQgqiXEE"
       },
@@ -17196,7 +17214,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 155777,
       "name": "I Won't Wait For Springtime",
       "url": "https://open.spotify.com/track/27tOWim3LqOf00bbG6ZYzB"
@@ -17594,7 +17612,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 233250,
       "name": "if your world Is gone",
       "url": "https://open.spotify.com/track/17SVwFgW10HnP2zsP29DCf"
@@ -19820,7 +19838,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 227359,
       "name": "Laundry List",
       "url": "https://open.spotify.com/track/4nj0yUKpDNzF1UdfFXJmUP"
@@ -21992,7 +22010,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 184477,
       "name": "Lying in LA",
       "url": "https://open.spotify.com/track/17Nv4GnG2JZJJK0aOXbW2w"
@@ -26902,7 +26920,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 152842,
       "name": "Palm Trees & Pools",
       "url": "https://open.spotify.com/track/2X59hamIvMHahqdAuXAbky"
@@ -31072,7 +31090,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 225854,
       "name": "Si T\u00fa Supieras",
       "url": "https://open.spotify.com/track/1hw9AueHCN9FwA6sii9Nu1"

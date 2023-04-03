@@ -1,6 +1,6 @@
 {
   "description": "Long live the king. Listen to music from and inspired by Agent Elvis, now streaming on Netflix. ",
-  "num_followers": 4515,
+  "num_followers": 4666,
   "original_name": "Agent Elvis Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -34,6 +34,10 @@
         {
           "name": "Robert Goulet",
           "url": "https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR"
+        },
+        {
+          "name": "Original Broadway Cast of Camelot",
+          "url": "https://open.spotify.com/artist/0pSo061DnbCpvQxDjzI8Q5"
         }
       ],
       "duration_ms": 189600,

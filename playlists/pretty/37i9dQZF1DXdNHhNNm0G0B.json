@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 69962,
+  "num_followers": 69970,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIyMDg2MCwwMDAwMDAwMDdlYThkZTQ5Mjg5NjEzYzcxNTE5ZDZkODdiMzY3YWVl",
+  "snapshot_id": "MTY4MDIyMDg2MCwwMDAwMDAwMGQyODBlNDc5M2YwZjUzNjRiNzI4OTFkNWI5MGRjNTI1",
   "tracks": [
     {
       "added_at": "2023-03-31 00:01:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
-      },
-      "artists": [
-        {
-          "name": "DBH",
-          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
-        }
-      ],
-      "duration_ms": 154924,
-      "name": "New Anthem",
-      "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
+      },
+      "artists": [
+        {
+          "name": "DBH",
+          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+        }
+      ],
+      "duration_ms": 154924,
+      "name": "New Anthem",
+      "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Will Stratton",
-          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Hemet Pine Singer",
-      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
         "name": "Blowin' The Fuses",
         "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 177120,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Will Stratton",
+          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Hemet Pine Singer",
+      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
-        }
-      ],
-      "duration_ms": 288626,
-      "name": "There Is a Place in This Old Town",
-      "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 186591,
       "name": "The Man From Nowhere",
       "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "There Is a Place in This Old Town",
+      "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 379453,
+      "name": "A Real State of Independence",
+      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
         "name": "The Country Blues Of John Lee Hooker",
         "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
       },
       "artists": [
         {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
         }
       ],
-      "duration_ms": 379453,
-      "name": "A Real State of Independence",
-      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -1235,6 +1251,22 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Long River (Allegheny)",
+      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
         "name": "St. James Infirmary Blues / Wayfaring Stranger (Radio Edit)",
         "url": "https://open.spotify.com/album/0iZaqrALa2jaXEvXNlqhuL"
       },
@@ -1267,22 +1299,6 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
-      },
-      "artists": [
-        {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Long River (Allegheny)",
-      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
         "name": "Southern Prison Blues",
         "url": "https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 207640,
       "name": "Lonesome Blues",
       "url": "https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
-        "name": "The Cause of It All",
-        "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Shawn Amos",
-          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
-        }
-      ],
-      "duration_ms": 137186,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

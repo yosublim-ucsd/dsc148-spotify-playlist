@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 39772,
+  "num_followers": 39797,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGNlYzBjMDMyZWQ2NzBjNTljYWNlMjEwYWU1YTgyZDZi",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDU3ZmZlOTI5OTA5NmFkNWZmMzg2ZWViZGM4ZmMzMmE2",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Otis",
-          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
-        }
-      ],
-      "duration_ms": 112866,
-      "name": "Good Golly",
-      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Ruth Brown",
         "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 153293,
       "name": "Wild Wild Young Men",
       "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "duration_ms": 112866,
+      "name": "Good Golly",
+      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Mardi Gras Blues",
-        "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
-      },
-      "artists": [
-        {
-          "name": "Roy Montrell",
-          "url": "https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "(Every Time I Hear) That Mellow Saxophone",
-      "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Ruth Brown",
         "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 156320,
       "name": "Hello Little Boy",
       "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Mardi Gras Blues",
+        "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
+      },
+      "artists": [
+        {
+          "name": "Roy Montrell",
+          "url": "https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq"
+        }
+      ],
+      "duration_ms": 147053,
+      "name": "(Every Time I Hear) That Mellow Saxophone",
+      "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Dootone Rock 'N' Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
+      },
+      "artists": [
+        {
+          "name": "Helen Humes",
+          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
+        }
+      ],
+      "duration_ms": 136255,
+      "name": "Real Fine Daddy",
+      "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 190706,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Dootone Rock 'N' Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
-      },
-      "artists": [
-        {
-          "name": "Helen Humes",
-          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
-        }
-      ],
-      "duration_ms": 136255,
-      "name": "Real Fine Daddy",
-      "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -619,6 +619,30 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie",
+        "url": "https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan (alto saxophone",
+          "url": "https://open.spotify.com/artist/2yzFeVTv2CXilkOmEKADJA"
+        },
+        {
+          "name": "bandleader)",
+          "url": "https://open.spotify.com/artist/6bQhYQBFV5IicgcoPMzPFY"
+        },
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Ain't Nobody Here but Us Chickens",
+      "url": "https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
         "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
@@ -655,30 +679,6 @@
       "duration_ms": 286893,
       "name": "Rhythm In The Barnyard",
       "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie",
-        "url": "https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan (alto saxophone",
-          "url": "https://open.spotify.com/artist/2yzFeVTv2CXilkOmEKADJA"
-        },
-        {
-          "name": "bandleader)",
-          "url": "https://open.spotify.com/artist/6bQhYQBFV5IicgcoPMzPFY"
-        },
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Ain't Nobody Here but Us Chickens",
-      "url": "https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Travelin' Blues",
-        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 117040,
-      "name": "Let the Four Winds Blow",
-      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Walk That Mess!",
         "url": "https://open.spotify.com/album/1f6YAwaB3PeBuUZtB9V0v3"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 164160,
       "name": "I'm Going To Have Myself A Ball",
       "url": "https://open.spotify.com/track/1tqLXlzrpnMHOQH2kkt1y3"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Travelin' Blues",
+        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
+      },
+      "artists": [
+        {
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
+        }
+      ],
+      "duration_ms": 117040,
+      "name": "Let the Four Winds Blow",
+      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
     },
     {
       "added_at": "2022-03-28 19:44:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: NF
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,592 likes - 94 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,634 likes - 94 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

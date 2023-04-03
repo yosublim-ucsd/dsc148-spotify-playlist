@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SIRUP + Skaai + uin \*👉 <a href="https://spice.eplus.jp/articles/316521?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,588 likes - 69 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,597 likes - 69 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

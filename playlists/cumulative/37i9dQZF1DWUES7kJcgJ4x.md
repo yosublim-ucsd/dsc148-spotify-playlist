@@ -4,7 +4,7 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-77 songs - 3 hr 12 min
+78 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Fallin'](https://open.spotify.com/track/3ZDcQjE8kM4Sj4a2Svgktp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/55tp3YLqWTfSbXe4CPgJQR) | 2:13 | 2021-01-18 | 2022-07-29 |
 | [Je Me Sens Bien Auprès De Toi](https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:24 | 2021-01-18 |  |
 | [Johnny \- Remastered](https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ) | 2:12 | 2021-01-18 |  |
-| [La Chica Ye\-Ye \- Remastered](https://open.spotify.com/track/6JYjToh74GiDsaD1XvtNyN) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Pop Español de los 60's, Vol\. 1 \- Cuéntame, Flamenco, La Chica Ye\-Ye..\. \(Remastered\)](https://open.spotify.com/album/6LPWTxR403TgJcPYI0VgWl) | 2:22 | 2021-01-18 |  |
+| [La Chica Ye\-Ye](https://open.spotify.com/track/5GnMI0vrXfEHHT83SyJ57D) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Las Canciones de Conchita Velasco](https://open.spotify.com/album/0YBnnneqK6X3BCp7akibIq) | 2:22 | 2021-01-18 |  |
+| [La Chica Ye\-Ye \- Remastered](https://open.spotify.com/track/6JYjToh74GiDsaD1XvtNyN) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Pop Español de los 60's, Vol\. 1 \- Cuéntame, Flamenco, La Chica Ye\-Ye..\. \(Remastered\)](https://open.spotify.com/album/6LPWTxR403TgJcPYI0VgWl) | 2:22 | 2021-01-18 | 2023-04-03 |
 | [La Chica Ye\-Ye \- Versión Alternativa](https://open.spotify.com/track/73ciS6g8B7ivsXzYjOmJof) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Las Canciones de Conchita Velasco](https://open.spotify.com/album/4q8K70PR1SCgPghekt1zRa) | 2:22 | 2021-01-18 | 2023-03-26 |
 | [La Favorita del Profesor \(Teacher's Pet\)](https://open.spotify.com/track/1kazUHPjrHaLk4gohVwdVQ) | [Julissa](https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT) | [La Gran Epoca Del Rock En Español](https://open.spotify.com/album/2Y6wv1hbC7B1vBg4GOdlOT) | 2:24 | 2021-01-18 |  |
 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 | 2021-01-18 |  |

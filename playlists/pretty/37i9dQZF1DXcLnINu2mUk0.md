@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,717 likes - 68 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,802 likes - 68 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 56 | [Eclipse](https://open.spotify.com/track/0tlyCwXSCXP5fsGM4OrHzl) | [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [Ellanor](https://open.spotify.com/artist/5Wd28v3076RfH5BQilhVE6), [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Eclipse](https://open.spotify.com/album/5EZ4pHbodGf7j12OqeMQBi) | 3:11 |
 | 57 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
 | 58 | [MARIPOSA](https://open.spotify.com/track/2MWPhFv5k2Xjqt6Qea94nG) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Cósmico](https://open.spotify.com/artist/6DsNivzEk4uMuk0f4QjdSS), [Hyzer](https://open.spotify.com/artist/48Uqot4YbHpPRt6ABUYiqP) | [MARIPOSA](https://open.spotify.com/album/1hwRmaHQ79ZOqSUHk9tTVf) | 3:54 |
-| 59 | [Sei Que Te Amo](https://open.spotify.com/track/4wRHER6nXzSDArytUocrV3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Jess 5K](https://open.spotify.com/artist/2NeUWpEKR9x4SohRs4h2bT) | [Sei Que Te Amo](https://open.spotify.com/album/6CBP6oIIWSv7s11FGY7nTd) | 3:32 |
-| 60 | [Valoriza](https://open.spotify.com/track/7sJGaxA4xkurJ1uFK4YxMC) | [Azagua](https://open.spotify.com/artist/7n48RVxHELTz5F1jjEOuYQ), [Dieg](https://open.spotify.com/artist/7iRhHtpr8kqCsbCAOfkFzN), [Fattú Djakité](https://open.spotify.com/artist/3Ji5HpAvMIP5wpkWnffUWR) | [Valoriza](https://open.spotify.com/album/6YoXJBAptuHgpDzV1GOrGe) | 3:22 |
-| 61 | [Forever Na Street](https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Forever Na Street](https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk) | 2:33 |
+| 59 | [Forever Na Street](https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Forever Na Street](https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk) | 2:33 |
+| 60 | [Sei Que Te Amo](https://open.spotify.com/track/4wRHER6nXzSDArytUocrV3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Jess 5K](https://open.spotify.com/artist/2NeUWpEKR9x4SohRs4h2bT) | [Sei Que Te Amo](https://open.spotify.com/album/6CBP6oIIWSv7s11FGY7nTd) | 3:32 |
+| 61 | [Valoriza](https://open.spotify.com/track/7sJGaxA4xkurJ1uFK4YxMC) | [Azagua](https://open.spotify.com/artist/7n48RVxHELTz5F1jjEOuYQ), [Dieg](https://open.spotify.com/artist/7iRhHtpr8kqCsbCAOfkFzN), [Fattú Djakité](https://open.spotify.com/artist/3Ji5HpAvMIP5wpkWnffUWR) | [Valoriza](https://open.spotify.com/album/6YoXJBAptuHgpDzV1GOrGe) | 3:22 |
 | 62 | [BAD](https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [BAD](https://open.spotify.com/album/1rm8wxsO4JFwV3Qt4hVgtH) | 2:39 |
 | 63 | [Loco](https://open.spotify.com/track/7qUthqT3Y7dU14sBVhcMz3) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD) | [Loco](https://open.spotify.com/album/0n765dBDjHREmRlNIzQ2uu) | 3:07 |
 | 64 | [Mereces](https://open.spotify.com/track/3GMiqQto55B9vjUhFUFYGK) | [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Mereces](https://open.spotify.com/album/0jUehlIRWSQkj3XjQY1hSw) | 3:18 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 67 | [Dona Do Meu Coração](https://open.spotify.com/track/46GDVz4wTsWVZonA1LkupU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF), [Mozzy Jr](https://open.spotify.com/artist/46FPvK1KPnpVOKHISFJhpB) | [Dona Do Meu Coração](https://open.spotify.com/album/766f2mw4eB8TdjXhvelZTL) | 3:57 |
 | 68 | [AHORA](https://open.spotify.com/track/5o7ZLRlTl9LuUzQvzDFJLU) | [La Dianna](https://open.spotify.com/artist/3Kh3D2QUAQUreGlBnyF7UD), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [AHORA](https://open.spotify.com/album/3rslRwi4PXo3aamFuHgaa2) | 3:08 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDY0M2VmNmFmMGMxNmMyZjgxYzA5ZDk3NDk1NWM2Yjli`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMGYyYTE2OGE4MzFiYmFkOTZiNmQxM2I0NzdkMWI3YmU4`

@@ -884,7 +884,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-03",
       "duration_ms": 339760,
       "name": "Glasgow",
       "url": "https://open.spotify.com/track/08cYUpYSBnqr7fkXMqY2iw"
@@ -1518,6 +1518,24 @@
       "duration_ms": 260026,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
+    },
+    {
+      "album": {
+        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
+        "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70383,
+      "name": "Nobody, Not Even the Rain",
+      "url": "https://open.spotify.com/track/7lLgr9yoa1vToPYyEfZ8Dp"
     },
     {
       "album": {

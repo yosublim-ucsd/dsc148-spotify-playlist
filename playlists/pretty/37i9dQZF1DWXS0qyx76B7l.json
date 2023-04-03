@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 113161,
+  "num_followers": 113175,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzgxNCwwMDAwMDAwMDQ4OWFkMzczOGVmYzAxNDViZjkyOTY1NTFmMTNlYWRm",
+  "snapshot_id": "MTY3Mjc3MzgxNCwwMDAwMDAwMGYyN2VlNjY5NzJiZWFjODE1MjY0ODc4MjdkNTEzNmJj",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Harlem River Blues",
-        "url": "https://open.spotify.com/album/0hihWmULfM5FNgrS7NOXjN"
+        "name": "The Best Of Bobby Womack - The Soul Years",
+        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
       },
       "artists": [
         {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 184320,
-      "name": "One More Night In Brooklyn",
-      "url": "https://open.spotify.com/track/4xv3P9DiKTKMfFaClyZtgn"
+      "duration_ms": 224546,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n"
     }
   ],
   "unique_name": "I Love NYC",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 28959,
+  "num_followers": 28992,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDJjYTdlNWU1ZWFlMmIzNDEzZWUyMzFiZDJhMWYzNGY5",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDcxNzE4MDg5MzEzZmU2ZDcyZTYyYThmZWI4N2Q4N2Q5",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Los Errantes",
-        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
-      },
-      "artists": [
-        {
-          "name": "Los Errantes",
-          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Llanto por Llanto",
-      "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 281653,
       "name": "Ay Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Los Errantes",
+        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
+      },
+      "artists": [
+        {
+          "name": "Los Errantes",
+          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Llanto por Llanto",
+      "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huaylash Macho",
-        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
-      },
-      "artists": [
-        {
-          "name": "Eusebio \"Chato\" Grados",
-          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Huaylash Macho",
-      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Pastorita Huaracina",
         "url": "https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 188786,
       "name": "A los Filos de un Cuchillo",
       "url": "https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huaylash Macho",
+        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Huaylash Macho",
+      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -687,8 +687,8 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+        "name": "Huayno, Vol. 1",
+        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
         }
       ],
-      "duration_ms": 173066,
-      "name": "Serenata Condemayta",
-      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+      "duration_ms": 159520,
+      "name": "Chall Huaschallay",
+      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -755,38 +755,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Huayno, Vol. 1",
-        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "Chall Huaschallay",
-      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 171866,
       "name": "Profesorita",
       "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Serenata Condemayta",
+      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 2",
-        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
+        "name": "Ayacucho En El Corazon De Todos Vol.2",
+        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
       },
       "artists": [
         {
-          "name": "Los Puquiales",
-          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
+          "name": "Kiko Revatta",
+          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
         }
       ],
-      "duration_ms": 167466,
-      "name": "Sihuarsito",
-      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
+      "duration_ms": 197080,
+      "name": "Donde Estar\u00e1s Palomita",
+      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Ayacucho En El Corazon De Todos Vol.2",
-        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
+        "name": "Huayno, Vol. 2",
+        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
       },
       "artists": [
         {
-          "name": "Kiko Revatta",
-          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
+          "name": "Los Puquiales",
+          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
         }
       ],
-      "duration_ms": 197080,
-      "name": "Donde Estar\u00e1s Palomita",
-      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
+      "duration_ms": 167466,
+      "name": "Sihuarsito",
+      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+        "name": "Los Pacharacos",
+        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
       },
       "artists": [
         {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+          "name": "Los Pacharacos",
+          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Sirwana",
-      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
+      "duration_ms": 169706,
+      "name": "Chinita Ingrata",
+      "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

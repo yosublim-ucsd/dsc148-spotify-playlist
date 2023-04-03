@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,744 likes - 84 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,089 likes - 84 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 27 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 |
 | 28 | [勇敢な君に](https://open.spotify.com/track/1F4Hv0bnA7Nq5ixKUOoMmE) | [長瀞さん\(CV.上坂すみれ\)](https://open.spotify.com/artist/5ZdJyfAOmOzp8GTVx3krLl) | [勇敢な君に/君のためなら](https://open.spotify.com/album/19x44ioB8AIAvlMta296Ni) | 3:51 |
 | 29 | [逆夢](https://open.spotify.com/track/5igeBrUIrt8hEguPkIfcEW) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 5:12 |
-| 30 | [Fly Away](https://open.spotify.com/track/60P9cFDj9TMUZpiUc0O1Rm) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/6qe4u576emFA48psNmvU4e) | 3:01 |
+| 30 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 |
 | 31 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 |
 | 32 | [close to moon](https://open.spotify.com/track/3rlHUMwbAzrkQlNS3qZaM5) | [Cryz Syndrome](https://open.spotify.com/artist/7mksIM9ZzvRazOJsZqIzgQ) | [close to moon](https://open.spotify.com/album/08mBD6daiwvRjSPMiWRlZo) | 4:06 |
 | 33 | [AMBER](https://open.spotify.com/track/0Gq4an04Rw1eXUyKrUonve) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Hanabi](https://open.spotify.com/album/09dmy5adX95reP5MhtV4f9) | 3:54 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 83 | [Aino Uta](https://open.spotify.com/track/24gmMth9MSSf7718wryKKz) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Aino Uta / Chantoshitahito Futekigousha / Nanimo Wasureru Wakejanai](https://open.spotify.com/album/2uNHuaMGc9IYA3MlzNIgDy) | 4:21 |
 | 84 | [Decided \- TV Ver.](https://open.spotify.com/track/5rynUgMeny61eYuypw44eG) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Decided \(TV Ver.\)](https://open.spotify.com/album/2bpsGGYNMrK0Iw2dDN2eyQ) | 1:31 |
 
-Snapshot ID: `MTY4MDM2MTIwMCwwMDAwMDAwMGU1N2Q5ZDM0ZTZhZjMwZjhkMDY5YzQ1YTE1N2E2N2Iz`
+Snapshot ID: `MTY4MDM2MTIwMCwwMDAwMDAwMGQxZTM1NWI3MTZjYTk1M2MxMmE0MjUyMGM1YWEwNDYw`

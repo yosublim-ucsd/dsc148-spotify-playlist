@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Becky G & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,284 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,351 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 19 | [No Se Enreden](https://open.spotify.com/track/5wQNvvS95LRaPyIq1654NS) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [No Se Enreden](https://open.spotify.com/album/4hklgvHBS4BFajDS2AoPmS) | 3:07 |
 | 20 | [El Grillo](https://open.spotify.com/track/1TnNKfbqeML9LcWdhRpcgL) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [El Grillo](https://open.spotify.com/album/54UR0rpNVfRkIkWIQQotUi) | 3:34 |
 | 21 | [Los Ninis](https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:26 |
-| 22 | [Tu Lunarcito](https://open.spotify.com/track/0vUdAbGM61fvJiX9Nuvcie) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Lunarcito](https://open.spotify.com/album/7nG7RKoZ9vgepYpd6OiLa0) | 4:00 |
+| 22 | [Tu Lunarcito](https://open.spotify.com/track/0vUdAbGM61fvJiX9Nuvcie) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr), [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lunarcito](https://open.spotify.com/album/7nG7RKoZ9vgepYpd6OiLa0) | 4:00 |
 | 23 | [Alfonso Limon](https://open.spotify.com/track/35zLMm6atT9htqmnUKqaHw) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Alfonso Limon](https://open.spotify.com/album/0PzTqeeiqFin6ooFzo9ajw) | 3:14 |
 | 24 | [A QUEMARROPA](https://open.spotify.com/track/0xPANoulLUgza7HSYksbg1) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [A QUEMARROPA](https://open.spotify.com/album/4C21Isln4g37mSB5LgSCMV) | 3:07 |
 | 25 | [Estilo Militar](https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Los De La Villa](https://open.spotify.com/artist/3VZ2z6fa2Ui0cHa2jUoF0V) | [Estilo Militar](https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ) | 2:55 |

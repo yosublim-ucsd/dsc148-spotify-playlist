@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-390 songs - 1 day 15 hr 51 min
+391 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Life Is...](https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Life Is...](https://open.spotify.com/album/2kVQXgXsVuu41T86tXb4vo) | 4:13 | 2022-10-24 | 2022-11-18 |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |
 | [Little Darling](https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA) | 3:40 | 2021-05-26 |  |
+| [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 |  |
 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-11-18 | 2023-03-31 |
 | [Looking In The Sky \- Radio Edit](https://open.spotify.com/track/4o7tMl7CwHMKKCUDgbZCC9) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Looking In The Sky](https://open.spotify.com/album/2On5ucuoSWhuQwU5qZcM2Z) | 4:31 | 2022-12-02 | 2023-01-26 |
 | [Los Dos](https://open.spotify.com/track/4jbCJmt7MblzdjqafFKMIz) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Kreative Nativez](https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G), [XAS](https://open.spotify.com/artist/469qIiJtQqL9aRUZtuBBmx) | [Los Dos](https://open.spotify.com/album/1Ldq4SBeOmEGt9UxcR4Sij) | 4:52 | 2022-07-01 | 2022-07-23 |
@@ -326,7 +327,7 @@
 | [Starz](https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9) | 5:00 | 2022-11-11 | 2023-03-23 |
 | [State Of Mind](https://open.spotify.com/track/56cy6VeMITQwVSB59W60sg) | [MIICHII](https://open.spotify.com/artist/6BbFRF1B3d5gTvDj2Q8gUw) | [State Of Mind](https://open.spotify.com/album/4maF20FgW8psnhV4JpmF9d) | 8:05 | 2021-05-07 | 2022-06-17 |
 | [Storyteller](https://open.spotify.com/track/0WSqJpY7RsFv2EszoXDANr) | [Shai T](https://open.spotify.com/artist/3peEllG3urQKzvyoZf4UgN) | [Miracles](https://open.spotify.com/album/2y4op7MZHA2kuzZhsN6Mlv) | 7:30 | 2021-04-21 | 2022-07-09 |
-| [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-01-06 |  |
+| [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-01-06 | 2023-04-03 |
 | [Supervivencia \- Original Mix](https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n) | [Julian Iannone](https://open.spotify.com/artist/01mHkY7IVrdNlF1KJm1hkQ), [Ramon Bedoya](https://open.spotify.com/artist/7bca0jrEcYw3lqIHQp3wl2) | [Supervivencia](https://open.spotify.com/album/0wAqQzMRN0RIsjYdb27Xs5) | 7:21 | 2021-04-21 | 2022-05-02 |
 | [Surrender](https://open.spotify.com/track/71MpAo1R3xHEZkk50j5JU8) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Surrender](https://open.spotify.com/album/5AKjyc73t13n0crY5Uy57T) | 3:34 | 2022-04-22 | 2022-07-27 |
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |
