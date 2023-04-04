@@ -4,10 +4,11 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-165 songs - 10 hr 7 min
+166 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [75\-71](https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [75\-71](https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj) | 3:44 | 2023-04-04 |  |
 | [Agnes Water Blues](https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni) | [Maynard Heap](https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9) | [Agnes Water Blues](https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd) | 3:56 | 2023-01-20 | 2023-02-19 |
 | [Ai Du](https://open.spotify.com/track/7vzhCpNntdmzI3yop3UckE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu](https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF) | 7:09 | 2022-05-25 | 2022-07-29 |
 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 | 2022-07-08 |  |
@@ -77,7 +78,7 @@
 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 | 2022-07-08 |  |
 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 | 2022-07-08 |  |
 | [Help Me](https://open.spotify.com/track/0reXR4LnjbkmgJu5gNcF6t) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [His Best](https://open.spotify.com/album/3zDQRzZI2ZbCTGU7pYABj5) | 3:11 | 2022-05-25 | 2022-07-15 |
-| [High Fever Blues](https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH) | [The Jujubes](https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN) | [Raging Moon](https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy) | 5:39 | 2023-01-20 |  |
+| [High Fever Blues](https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH) | [The Jujubes](https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN) | [Raging Moon](https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy) | 5:39 | 2023-01-20 | 2023-04-04 |
 | [Homecookin' Mama](https://open.spotify.com/track/5UYCzsjfLS29GfWlccU0yQ) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Homecookin' Mama](https://open.spotify.com/album/6kw3VuKvowP7pjnfBSwWkD) | 3:00 | 2023-01-20 |  |
 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 | 2022-09-12 |  |
 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 | 2022-07-08 |  |

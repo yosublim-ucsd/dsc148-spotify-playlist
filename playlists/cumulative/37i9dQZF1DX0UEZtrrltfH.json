@@ -1392,10 +1392,32 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 200000,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/6YcHYJZq0fyqU41rlpIoh9"
+    },
+    {
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/6pRRFvLRqDQUYH8CDjGZ9E"
+      },
+      "artists": [
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+        },
+        {
+          "name": "Liodr\u00e9",
+          "url": "https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200006,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/5U0bTkHatvWGP1B5SGC96X"
     },
     {
       "album": {

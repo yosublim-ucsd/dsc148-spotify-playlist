@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Billianne
 
-381 songs - 22 hr 58 min
+382 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [For the Sake of Comedy](https://open.spotify.com/track/7m34UcmXaQzdpOUl71WUsR) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [For the Sake of Comedy](https://open.spotify.com/album/3N3HmTL9LTCRHzB7T2rUKu) | 3:36 | 2023-03-10 | 2023-04-01 |
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 | 2022-10-15 |
 | [From This Moment On](https://open.spotify.com/track/0AHnNbTIvus8ySn5X0gCVn) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From This Moment On](https://open.spotify.com/album/2h8NIimdYYSdZBs0jLSXtI) | 4:06 | 2022-09-02 | 2022-10-01 |
-| [Fucked It Up](https://open.spotify.com/track/6YQYqDVVu774K0eFLiuKAo) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Fucked It Up](https://open.spotify.com/album/37dC8LHmBmziZzWvGV6QPi) | 3:58 | 2023-02-24 |  |
+| [Fucked It Up](https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:58 | 2023-03-31 |  |
+| [Fucked It Up](https://open.spotify.com/track/6YQYqDVVu774K0eFLiuKAo) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Fucked It Up](https://open.spotify.com/album/37dC8LHmBmziZzWvGV6QPi) | 3:58 | 2023-02-24 | 2023-04-04 |
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 |  |
 | [Get Well](https://open.spotify.com/track/3TLoHaTjiHZa8smASRwzXk) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Get Well / Body Knows](https://open.spotify.com/album/16aw3U3CBhtms6esqGw6xM) | 4:04 | 2022-07-29 | 2023-03-11 |
 | [Glossover](https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Glossover](https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe) | 3:49 | 2023-02-11 |  |

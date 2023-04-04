@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 248 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 248 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 3 | [Bad Man \(feat\. Robin Thicke, Joe Perry & Travis Barker\)](https://open.spotify.com/track/4eRrRWQ06cnqhXUwJOOnKJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Joe Perry](https://open.spotify.com/artist/1SDxIHIJ3wvYiG22xckLKL), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 3:35 |
 | 4 | [Come On Back](https://open.spotify.com/track/2kGnZtVQMOqxDIxzLe0ZSE) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:16 |
 | 5 | [Know U Anymore \(feat\. Sarah Hyland\)](https://open.spotify.com/track/6Ufv48wYcNp822At8Q4k7w) | [BoTalks](https://open.spotify.com/artist/3wjluyWXDHiiMKxkhaW1em), [Sarah Hyland](https://open.spotify.com/artist/7icfzHg2AhHxy65PU58rCP) | [Know U Anymore](https://open.spotify.com/album/73JMf3o63Tvh9CKx5yrr7N) | 3:11 |
-| 6 | [Jenny and Jill](https://open.spotify.com/track/5wFvkfoQY7JPcbfFKYbkWB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's.../Here's Looking at You Kid](https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA) | 4:45 |
+| 6 | [Jenny and Jill](https://open.spotify.com/track/2ggARYhrxOuoVCzlbgFJHm) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's..\. / Here's Looking at You Kid](https://open.spotify.com/album/3MDMAKt7Gci7YLKVJF9rGy) | 4:45 |
 | 7 | [Fuck Was I](https://open.spotify.com/track/7kmZKcImkVCFma5xZoD8A8) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 3:30 |
 | 8 | [Here is a Heart](https://open.spotify.com/track/0pMuYi969CAQ2gwJjR0Fgn) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:23 |
-| 9 | [Let's...](https://open.spotify.com/track/6EaDOr30nUHFk4sKpyrEyi) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's.../Here's Looking at You Kid](https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA) | 3:49 |
+| 9 | [Let's...](https://open.spotify.com/track/5TSgOYkwlIRXUUY4SOL4uq) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's..\. / Here's Looking at You Kid](https://open.spotify.com/album/3MDMAKt7Gci7YLKVJF9rGy) | 3:49 |
 | 10 | [KILLA KILLA](https://open.spotify.com/track/3PcpDQwqxPcm3AvZJGg4Lt) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [KILLA KILLA](https://open.spotify.com/album/5bLFyyKx0j9E5W7n35ZNiv) | 2:32 |
 | 11 | [Save My Mind \(feat\. Benemy Slope\)](https://open.spotify.com/track/2A7EJohkfEjjCtnl44hvcJ) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Benemy Slope](https://open.spotify.com/artist/1pPWQ9SMJm8sdvrDhmsJrA) | [Save My Mind \(feat\. Benemy Slope\)](https://open.spotify.com/album/7Idh4DMcmjH1I6Q2axzfhO) | 3:38 |
 | 12 | [Like We Used to Be](https://open.spotify.com/track/0xJGjBXbXnvek8nzdF3Sgg) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Like We Used to Be](https://open.spotify.com/album/2xo8G0pjuExjhWMKY3Omt7) | 4:23 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 36 | [First Person](https://open.spotify.com/track/4WhL9Xll9tCEnxVpCROCTk) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 0:40 |
 | 37 | [Dungeons and Dragons \- Generationals Remix](https://open.spotify.com/track/5Ji8BG6DxqoxigvwSBsat5) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 3:44 |
 | 38 | [Maybe Next Year](https://open.spotify.com/track/3xORAJaTECHOIW9Xquv5Ac) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Maybe Next Year](https://open.spotify.com/album/6hBLWo0O6GtMQAai5rggP1) | 3:08 |
-| 39 | [Home Away from Home](https://open.spotify.com/track/6wm32QUgErztbOXTQFP0EO) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's.../Here's Looking at You Kid](https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA) | 4:28 |
+| 39 | [Home Away from Home](https://open.spotify.com/track/5XqIfjcbknlhO2PFzV4DcA) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's..\. / Here's Looking at You Kid](https://open.spotify.com/album/3MDMAKt7Gci7YLKVJF9rGy) | 4:28 |
 | 40 | [Home Sweet Home](https://open.spotify.com/track/17Ra6UvA4jGN3L0l7Az3Tr) | [Obvious Choice](https://open.spotify.com/artist/4HqDCO1kaGIPOi0KnkSgGt) | [An Obvious Christmas](https://open.spotify.com/album/154K6f4mYHXynxjQHDzWTu) | 2:37 |
 | 41 | [Cinnamon \(feat\. Genevieve Stokes\)](https://open.spotify.com/track/6aQXVBCsGYRSpUp9cRkz3f) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 2:54 |
 | 42 | [Clean Break](https://open.spotify.com/track/6tTnQ36V82X5xdTABjCBl5) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:02 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 247 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 248 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `MjgwMDgwMDcsMDAwMDAwMDA0NGQyNDQwZDc1MzMyNWYxMGMxMTUyMjY5MDY3MWFhNw==`
+Snapshot ID: `MjgwMDk0NDcsMDAwMDAwMDA3YmM5MzQ2NGUwMzNiZWQyNGQ0YzA0MmI5YzlmNzYwYQ==`

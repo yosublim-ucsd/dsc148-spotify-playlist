@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 38922,
+  "num_followers": 39028,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGE1NjIzM2FmMDg3YzkyZmI3NTk4NTBkMzNjM2M1ZTkz",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGE4YTg0N2ViZTMwNDYyZjA3MTliYzNhY2ViZGIyOTdl",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -299,6 +299,26 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "The Next Level",
+        "url": "https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "The Next Level",
+      "url": "https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "You Can't Stop Me",
         "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
       },
@@ -311,22 +331,6 @@
       "duration_ms": 199200,
       "name": "You Can't Stop Me",
       "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Hard Knock Life",
-        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215684,
-      "name": "Hard Knock Life",
-      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -347,6 +351,22 @@
       "duration_ms": 239500,
       "name": "Premortality",
       "url": "https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Hard Knock Life",
+        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215684,
+      "name": "Hard Knock Life",
+      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -387,26 +407,6 @@
       "duration_ms": 223215,
       "name": "Cryexgenic",
       "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "The Next Level",
-        "url": "https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut"
-      },
-      "artists": [
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "The Next Level",
-      "url": "https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -695,6 +695,46 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Fat Beat",
+        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Fat Beat",
+      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "So Druff (D-Fence Remix)",
+        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
+      },
+      "artists": [
+        {
+          "name": "KNTRLVRLST",
+          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
+        },
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "So Druff - D-Fence Remix",
+      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Hardcore By Nature",
         "url": "https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ"
       },
@@ -723,22 +763,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "So Druff (D-Fence Remix)",
-        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
+        "name": "Order & Chaos",
+        "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
       },
       "artists": [
         {
-          "name": "KNTRLVRLST",
-          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
-        },
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
         }
       ],
-      "duration_ms": 166950,
-      "name": "So Druff - D-Fence Remix",
-      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
+      "duration_ms": 292356,
+      "name": "Kick Creator",
+      "url": "https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -755,26 +791,6 @@
       "duration_ms": 205664,
       "name": "I'm A Raver",
       "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Fat Beat",
-        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Killshot",
-          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Fat Beat",
-      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Order & Chaos",
-        "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 292356,
-      "name": "Kick Creator",
-      "url": "https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Mr. Hyde",
-          "url": "https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0"
-        }
-      ],
-      "duration_ms": 279157,
-      "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
-      "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -1019,18 +999,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Crazy, Like Me!",
-        "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
+        "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
       "artists": [
         {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Mr. Hyde",
+          "url": "https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0"
         }
       ],
-      "duration_ms": 174857,
-      "name": "Crazy, Like Me!",
-      "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
+      "duration_ms": 279157,
+      "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
+      "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1071,6 +1055,42 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Game Breaker",
+        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "duration_ms": 198987,
+      "name": "Game Breaker",
+      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Crazy, Like Me!",
+        "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Crazy, Like Me!",
+      "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
       },
@@ -1095,6 +1115,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Medication Time",
+        "url": "https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 257713,
+      "name": "Medication Time",
+      "url": "https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "HIT THA CLUB",
         "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
       },
@@ -1107,6 +1143,22 @@
       "duration_ms": 166615,
       "name": "HIT THA CLUB",
       "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "The Ultimate Sound",
+        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "The Ultimate Sound",
+      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1135,54 +1187,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Game Breaker",
-        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
       },
       "artists": [
         {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "E-Force",
-          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
         }
       ],
-      "duration_ms": 198987,
-      "name": "Game Breaker",
-      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Medication Time",
-        "url": "https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 257713,
-      "name": "Medication Time",
-      "url": "https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "The Ultimate Sound",
-        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 161419,
-      "name": "The Ultimate Sound",
-      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Downtempo EP II",
-        "url": "https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Energy 1996",
-      "url": "https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Runes of Retribution",
         "url": "https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 252158,
       "name": "Warriors (2022 Refix)",
       "url": "https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Downtempo EP II",
+        "url": "https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        }
+      ],
+      "duration_ms": 258079,
+      "name": "Energy 1996",
+      "url": "https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
       },
       "artists": [
         {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
         }
       ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 183750,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2023-03-30 23:00:00",

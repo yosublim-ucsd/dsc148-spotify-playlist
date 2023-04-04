@@ -151,6 +151,32 @@
     },
     {
       "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/3jETEllJJFutGg7BvWdq0c"
+      },
+      "artists": [
+        {
+          "name": "Loud 'N Bright",
+          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
+        },
+        {
+          "name": "Melissa Pools",
+          "url": "https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153070,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/1br2N1gwtHw5ruPDw0Bau0"
+    },
+    {
+      "album": {
         "name": "Aturdido",
         "url": "https://open.spotify.com/album/62BBpy5McvVoYGndLEuT7V"
       },
@@ -1634,6 +1660,50 @@
       "duration_ms": 142084,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/7K0bmMQyro8sd5NEpEqq6n"
+    },
+    {
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/3ec1ZqVWs2lAFoGqHFIlIR"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Kastelo",
+          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
+        },
+        {
+          "name": "Aaron Pfeiffer",
+          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141093,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/4N4xtDgLIqGhPG5ikMqP3k"
+    },
+    {
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190312,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2ClTrd8Yob4FclId0VyjiV"
     },
     {
       "album": {

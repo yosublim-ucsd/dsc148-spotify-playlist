@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=4t\_J5jMpTr2yNzZbx\_vgyA">Lloyiso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,707 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,709 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 64 | [Come In](https://open.spotify.com/track/34miboJFpjvXcByUVTWGpC) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Come In](https://open.spotify.com/album/4JuDeN418NcqvHFPPE1PtZ) | 4:07 |
 | 65 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 66 | [Talk Around](https://open.spotify.com/track/2ftX9egMnZAATxMxq1bn9p) | [EIGHT THOUSAND BIRDS](https://open.spotify.com/artist/65UYJ9S1OelF0qUcLX0HYC) | [Turn Again and Come Back](https://open.spotify.com/album/0oQnpD7O66NM4sYZTQGUxl) | 5:39 |
-| 67 | [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 |
+| 67 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 | 68 | [Let Me Go](https://open.spotify.com/track/4YJZnj5OIzKiMi8MFVyXRv) | [Thara](https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU) | [Let Me Go](https://open.spotify.com/album/5JIimhIsmOUlP9nAXqmnk9) | 3:09 |
 | 69 | [Cyanide](https://open.spotify.com/track/6bQSb2CjixL7Hh5Kp2zku3) | [Kileza](https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg) | [Cyanide](https://open.spotify.com/album/0Acp8igfR8GcoL2slV5gxi) | 5:27 |
 | 70 | [Above Water](https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Above Water](https://open.spotify.com/album/11XACNsDwFVgxVQkiKhvdT) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 74 | [Bloom](https://open.spotify.com/track/3gv47i3eI5YN7vVX1Rax9m) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Bloom](https://open.spotify.com/album/67ECqw3BYzNRrSbRQ02eZ1) | 5:03 |
 | 75 | [Triomf](https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Triomf](https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5) | 4:49 |
 
-Snapshot ID: `MTY4MDIxMzU0MCwwMDAwMDAwMDcwYjI2NDk5N2EwM2RmZDNjMzU5OTcwYjZiOWNjOTQw`
+Snapshot ID: `MTY4MDIxMzU0MCwwMDAwMDAwMGE2MTUzNjE2ZDBkNGM1OWM4YmFlZDQ2ZDEyNzkzMjJi`

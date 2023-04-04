@@ -4,7 +4,7 @@
 
 > Om jag ramlar omkull så är det bara för att jag är fuuuull!!
 
-572 songs - 1 day 1 hr 5 min
+573 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Kom och rulla i mitt rullande hus](https://open.spotify.com/track/2Wf26qAnW8SeB2GsXRMITN) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Kom och rulla i mitt rullande hus](https://open.spotify.com/album/6gh9xUtJViqf6FpM0J2DgF) | 2:49 | 2023-02-16 |  |
 | [KOMMER DU IHÅG?](https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [KOMMER DU IHÅG?](https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct) | 2:38 | 2023-02-23 |  |
 | [Kommer Inte In \(T&B Remix\)](https://open.spotify.com/track/3Rsc9NvYg3I5hiOpD7O6o7) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk), [Thomassen & Berg](https://open.spotify.com/artist/2h3XAFvVOB0uIWDcucNzv2) | [Kommer Inte In \(T&B Remix\)](https://open.spotify.com/album/1QtsCN2IUM9dJ8hAuMYhv5) | 2:06 | 2023-03-02 | 2023-03-10 |
+| [KONG I BYN](https://open.spotify.com/track/44knrs1wVZb3dszWxH1kX4) | [Lidl](https://open.spotify.com/artist/5df1MDaEizfGIh9fYEOTIJ) | [KONG I BYN](https://open.spotify.com/album/5QtHOW9Qpi0aFeq0KBZPYt) | 2:01 | 2023-04-03 |  |
 | [KONSEKVENSER](https://open.spotify.com/track/1yetXqjXAkCJhledKsx2mw) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8) | [KONSEKVENSER](https://open.spotify.com/album/7efRAMIPMYiA0nDkxT862U) | 2:26 | 2023-01-26 |  |
 | [Kraken](https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Popcorn!](https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ) | [Kraken](https://open.spotify.com/album/1JhYcDwdTDMr7jDfeRFkKT) | 2:24 | 2021-12-16 | 2022-04-22 |
 | [Kung för en dag](https://open.spotify.com/track/0f43lwagoPt0TipfJwKd34) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Kung för en dag](https://open.spotify.com/album/2NhkfxLf3huyCjiz1gyA8h) | 3:17 | 2022-09-15 | 2023-04-01 |

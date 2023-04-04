@@ -3039,6 +3039,28 @@
     },
     {
       "album": {
+        "name": "Habitat Cielo",
+        "url": "https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "Lei \u00c8...",
+      "url": "https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ"
+    },
+    {
+      "album": {
         "name": "Lo-fi For U",
         "url": "https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb"
       },
@@ -4928,7 +4950,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 130212,
       "name": "Se ti amo",
       "url": "https://open.spotify.com/track/0DuEBifTJH7UUCCZXxffXh"

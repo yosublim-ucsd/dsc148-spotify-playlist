@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "/05",
+        "url": "https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309066,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF"
+    },
+    {
+      "album": {
         "name": "Avenues",
         "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
@@ -320,7 +338,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 289280,
       "name": "Beyond This Moment",
       "url": "https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa"

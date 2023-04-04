@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,032 likes - 477 songs - 1 day 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035 likes - 477 songs - 1 day 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -275,8 +275,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 265 | [I Never Knew Her Name](https://open.spotify.com/track/5t9gKY2Y0y3M0bs8J9V2e3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:28 |
 | 266 | [Vero Amore](https://open.spotify.com/track/6L9L1Dnqn97mwVmHOm2iv3) | [Jonathan & Charlotte](https://open.spotify.com/artist/2haot4oxbeveqxow85SbTa) | [Together](https://open.spotify.com/album/1FGOPK6ULN88ECEPrTbiNM) | 3:18 |
 | 267 | [England And America](https://open.spotify.com/track/3OK6xt63jBRG8M0M4fojF2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:51 |
-| 268 | [Lady Samantha](https://open.spotify.com/track/7xDvlkYaXpq8c8WjG83YQS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:02 |
-| 269 | [Whipping Boy](https://open.spotify.com/track/0DEMdhqWg1drmkprEHVsYU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:44 |
+| 268 | [Whipping Boy](https://open.spotify.com/track/0DEMdhqWg1drmkprEHVsYU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:44 |
+| 269 | [Lady Samantha](https://open.spotify.com/track/7xDvlkYaXpq8c8WjG83YQS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:02 |
 | 270 | [One More Arrow](https://open.spotify.com/track/06TZGqGlFbXRapJ60wfswv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:47 |
 | 271 | [The King Must Die](https://open.spotify.com/track/5aZWzadLEprtlv0ylYyruD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 5:07 |
 | 272 | [Who Wears These Shoes?](https://open.spotify.com/track/6mGOqiCzOhzG08qtFdoYHw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:03 |
@@ -341,8 +341,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 331 | [Solar Prestige A Gammon](https://open.spotify.com/track/3UJk8PdILcCkBPFvN0Ox15) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 2:52 |
 | 332 | [Blues Never Fade Away](https://open.spotify.com/track/4gdH8mfTgmEgFyts0eq2a6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:45 |
 | 333 | [One Horse Town](https://open.spotify.com/track/4LYF3uIlrEYF2aIYIa2iBO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:56 |
-| 334 | [Telegraph To The Afterlife](https://open.spotify.com/track/17DjW89xie0skL6XR23OaU) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 4:45 |
-| 335 | [Pain](https://open.spotify.com/track/2n3k300vERaQqhZfeX4SFn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 3:49 |
+| 334 | [Pain](https://open.spotify.com/track/2n3k300vERaQqhZfeX4SFn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 3:49 |
+| 335 | [Telegraph To The Afterlife](https://open.spotify.com/track/17DjW89xie0skL6XR23OaU) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 4:45 |
 | 336 | [Return To Paradise](https://open.spotify.com/track/4BTqc5vVoB3Cu3F6qtFXiz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:15 |
 | 337 | [All Quiet On The Western Front \- Remastered 2003](https://open.spotify.com/track/3Hsyqlz2VCeMi39JYkFX3k) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 6:07 |
 | 338 | [Georgia](https://open.spotify.com/track/5xUQD7REvYCR2hwMS0uH9o) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:50 |
@@ -412,8 +412,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 402 | [Hoop Of Fire](https://open.spotify.com/track/5E77V6ErhqNdoEsDumSFeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:15 |
 | 403 | [Dear John \- Remastered 2003](https://open.spotify.com/track/2KkATTWT3nJalkA5588fQ9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:33 |
 | 404 | [Big Dipper](https://open.spotify.com/track/6OVzjUYXPUzhC2CHEo1UAk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:04 |
-| 405 | [Sixty](https://open.spotify.com/track/7LdYewqyXq76VabqPahqoE) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:51 |
-| 406 | [If There's A God In Heaven \(What's He Waiting For?\)](https://open.spotify.com/track/0jfP8jD5xZBWXUJ0H36UKz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 4:25 |
+| 405 | [If There's A God In Heaven \(What's He Waiting For?\)](https://open.spotify.com/track/0jfP8jD5xZBWXUJ0H36UKz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 4:25 |
+| 406 | [Sixty](https://open.spotify.com/track/7LdYewqyXq76VabqPahqoE) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:51 |
 | 407 | [I Stop And I Breathe](https://open.spotify.com/track/099IIR76QDTEIkuRISFFzE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 3:39 |
 | 408 | [Karmatron](https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 2:41 |
 | 409 | [Shoulder Holster](https://open.spotify.com/track/3zW27M7GKnolAlgTrwNIds) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:10 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Gnomeo and Juliet](https://open.spotify.com/track/7GpjK6c4S7ihN8fGX3y9lK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:22 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `MjgwMDgwMjAsMDAwMDAwMDA0ZmJjZjIxYjliY2M1ZmI5MmJjOTc5M2IzNTZmYTEyYw==`
+Snapshot ID: `MjgwMDk0NjAsMDAwMDAwMDA3NTY2YzJkNjcxYTZkMDk2ODhlODU4MzNlNzc4YzA1MA==`

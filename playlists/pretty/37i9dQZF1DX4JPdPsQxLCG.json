@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49740,
+  "num_followers": 49738,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGJkZWVhNzBhOTAxZTgxMzAxM2JjY2U5ZTNkNGMxZjUw",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGQwZjc3OWQ0NDFhMTg3ZjQ5NDk5OGVkNTZmN2MwNzUz",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Long Road",
-        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+        "name": "The Long Road",
+        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+      "duration_ms": 207466,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -395,22 +379,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "American Woman",
-        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 307493,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "American Woman",
+        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 307493,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "A Farewell To Kings",
-        "url": "https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Closer To The Heart",
-      "url": "https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Loverboy",
         "url": "https://open.spotify.com/album/3dDzAVWr5gjvJIOTEuS309"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 337933,
       "name": "Turn Me Loose",
       "url": "https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "A Farewell To Kings",
+        "url": "https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Closer To The Heart",
+      "url": "https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The State",
-        "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Leader of Men",
-      "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "A Tribe Called Red",
         "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 219853,
       "name": "Electric Pow Wow Drum",
       "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The State",
+        "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Leader of Men",
+      "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Thin Red Line (Deluxe)",
-        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
-      },
-      "artists": [
-        {
-          "name": "Glass Tiger",
-          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Absolutely Right - The Best Of Five Man Electrical Band",
         "url": "https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 241693,
       "name": "Signs",
       "url": "https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The Thin Red Line (Deluxe)",
+        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
+      },
+      "artists": [
+        {
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Boy In The Box",
-        "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
-      },
-      "artists": [
-        {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
-        }
-      ],
-      "duration_ms": 295000,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Naveed",
         "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 244040,
       "name": "Starseed",
       "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Boy In The Box",
+        "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "How Far Shallow Takes You",
-        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
-      },
-      "artists": [
-        {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Thick As Thieves",
         "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 222426,
       "name": "Raise A Little Hell",
       "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "How Far Shallow Takes You",
+        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
+      },
+      "artists": [
+        {
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Bring Me Your Love",
-        "url": "https://open.spotify.com/album/2GQBFqddL3YTmdNmt8Su0r"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Sleeping Sickness",
-      "url": "https://open.spotify.com/track/5y2H3YMH4BcIVMYaqr7NPB"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Share The Land",
         "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 235600,
       "name": "Share the Land",
       "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "House of Ill Fame (Bonus Live Cut Edition)",
+        "url": "https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd"
+      },
+      "artists": [
+        {
+          "name": "The Trews",
+          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Not Ready to Go",
+      "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
     }
   ],
   "unique_name": "Canadian Weekend",

@@ -652,7 +652,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 241222,
       "name": "Noite de Paz",
       "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
@@ -916,6 +916,24 @@
       "duration_ms": 275880,
       "name": "Reden\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG"
+    },
+    {
+      "album": {
+        "name": "Seu Nome",
+        "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191735,
+      "name": "Seu Nome",
+      "url": "https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr"
     },
     {
       "album": {

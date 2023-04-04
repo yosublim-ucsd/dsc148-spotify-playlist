@@ -4,13 +4,14 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-656 songs - 1 day 4 hr 19 min
+660 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1944](https://open.spotify.com/track/6MXhtfWjnKHwWB9PqVs8Po) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [1944](https://open.spotify.com/album/0HrjY80TfLk68dxuqBpBJp) | 2:16 | 2022-09-12 |  |
 | [22](https://open.spotify.com/track/6mz8JRgQtisMv1x65BIrQg) | [Barabás Lőrinc](https://open.spotify.com/artist/0v55iDyhmDRG129So8PjZ2) | [22](https://open.spotify.com/album/7EHxGA5N2Mnm0crgbST5qU) | 3:27 | 2022-12-21 | 2023-02-01 |
 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 | 2021-12-13 | 2023-01-21 |
+| [A Part Of Us](https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [A Part Of Us](https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI) | 1:57 | 2023-04-03 |  |
 | [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2021-12-13 | 2022-04-07 |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2021-12-13 | 2022-11-12 |
 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 | 2021-12-13 |  |
@@ -18,6 +19,7 @@
 | [A Silent Wish](https://open.spotify.com/track/711P4SBPCX7zO6TarXBCJ4) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [A Silent Wish](https://open.spotify.com/album/54jnSi7iJTFQizuqW2xDxZ) | 2:29 | 2021-12-13 | 2022-11-12 |
 | [A Song](https://open.spotify.com/track/3AliQT2GgiDBN16poZPdG2) | [Rui Massena](https://open.spotify.com/artist/1HEmRu6376oTlFuWxq0CPp) | [A SONG](https://open.spotify.com/album/0o1ViMvah6YyVPO86dGoiH) | 2:20 | 2021-12-13 | 2023-01-10 |
 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 | 2022-11-11 |  |
+| [a wild place](https://open.spotify.com/track/2UJttBzaAe8bCjuNSIi35b) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [a wild place](https://open.spotify.com/album/7jtVVSZJFsOQ016fmO7Dbr) | 2:06 | 2023-04-03 |  |
 | [Abode](https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Abode](https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr) | 2:29 | 2022-09-23 |  |
 | [Ache](https://open.spotify.com/track/4dd7mReOYiKAYjAEkNUTLD) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Ache](https://open.spotify.com/album/32HmaNE93uxhghyiJFIZmP) | 2:24 | 2021-12-13 | 2022-10-14 |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-01-20 |  |
@@ -565,7 +567,8 @@
 | [The Chapel](https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [The Chapel](https://open.spotify.com/album/6D6v2edEjUDk5OMVcvzbGO) | 3:30 | 2021-12-13 | 2023-01-21 |
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2021-12-13 | 2023-01-10 |
 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 | 2021-12-13 | 2022-10-25 |
-| [The Great Walls Of Time](https://open.spotify.com/track/36YnXU7SvvZtNI2j0vvsGS) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [The Great Walls Of Time](https://open.spotify.com/album/6P2rrRGi74wWvXjgcC2AvC) | 1:58 | 2022-10-04 |  |
+| [The Goodbyes We Never Said](https://open.spotify.com/track/1EFoFLPtWaKdBeDTdce8nQ) | [Yichu Ann Chen](https://open.spotify.com/artist/6ZKZfb4BMulwGKbB6XBcds) | [The Goodbyes We Never Said](https://open.spotify.com/album/1gYCw9fHnyIRBpP9vkVy97) | 1:54 | 2023-04-03 |  |
+| [The Great Walls Of Time](https://open.spotify.com/track/36YnXU7SvvZtNI2j0vvsGS) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [The Great Walls Of Time](https://open.spotify.com/album/6P2rrRGi74wWvXjgcC2AvC) | 1:58 | 2022-10-04 | 2023-04-04 |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-13 | 2022-01-05 |
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2021-12-13 | 2022-12-22 |
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
@@ -618,6 +621,7 @@
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-12-13 | 2022-05-27 |
 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 | 2022-08-29 |  |
 | [Velez\-Malaga](https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Velez\-Malaga](https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl) | 3:14 | 2021-12-13 | 2022-03-18 |
+| [Vem är inte rädd ibland](https://open.spotify.com/track/3ay0zjicGYoJLyXl1y4c4M) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Piano Lullabies](https://open.spotify.com/album/1sCz625SM5NbNx00OUHGFw) | 1:37 | 2023-04-03 |  |
 | [Verba Aymara](https://open.spotify.com/track/2P9eiPf0MsHHCkf3FKNqEs) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Verba Aymara](https://open.spotify.com/album/6RtdvqF0ZrVCtw2GRC9YB9) | 3:07 | 2021-12-13 | 2022-08-30 |
 | [Views Of Nature](https://open.spotify.com/track/6QjDVuX5ufvEQZfo5gmBKi) | [Tiphaine Calvet](https://open.spotify.com/artist/1242qzkR8hc2Hv5AdHpiIU) | [Views Of Nature](https://open.spotify.com/album/5Xb5hY2GNbjDB6RGVD64kl) | 2:18 | 2021-12-13 | 2022-10-14 |
 | [Visa från Källdal](https://open.spotify.com/track/5HFmI7ZaL4yBHsvzJP9IdF) | [Lars Meyer](https://open.spotify.com/artist/0zv0evXR10PUhTenDprOZO) | [Visa från Källdal](https://open.spotify.com/album/1Hg1X65cdWqDH6rSh8KY9i) | 2:54 | 2023-01-20 |  |

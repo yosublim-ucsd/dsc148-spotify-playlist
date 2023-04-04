@@ -2,7 +2,7 @@
 
 ### [This Is Jimin](https://open.spotify.com/playlist/37i9dQZF1DX7H4XpyC9TgJ)
 
-> Are you ready to FACE Jimin? 💜
+> Jimin FACEd Billboard HOT 100 No.1\. Congrat 💜
 
 21 songs - 54 min 20 sec
 

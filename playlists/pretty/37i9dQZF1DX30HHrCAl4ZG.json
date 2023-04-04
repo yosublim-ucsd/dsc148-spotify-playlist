@@ -1,12 +1,12 @@
 {
   "description": "All new indie rock. Featuring new music from Royel Otis.",
-  "num_followers": 844415,
+  "num_followers": 844431,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDcyZDU3YmJiYjQ3ZmQ0MjViMWY4OGRjNDYwODJkZmE1",
+  "snapshot_id": "MTY4MDUyNjQxMywwMDAwMDAwMGIxZjE2ZjY3YmY0OGNhNjQ3YThhOTQ3MDkwNGYxZWE4",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Until I Know",
+        "url": "https://open.spotify.com/album/7p2g9K0YMavsJjbypdUod1"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 203368,
+      "name": "Until I Know",
+      "url": "https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "5K",
         "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
@@ -119,18 +135,50 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Until I Know",
-        "url": "https://open.spotify.com/album/7p2g9K0YMavsJjbypdUod1"
+        "name": "Woman on Fire",
+        "url": "https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV"
       },
       "artists": [
         {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
         }
       ],
-      "duration_ms": 203368,
-      "name": "Until I Know",
-      "url": "https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ"
+      "duration_ms": 178571,
+      "name": "Woman on Fire",
+      "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Salivate",
+        "url": "https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 147171,
+      "name": "Salivate",
+      "url": "https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -211,22 +259,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Woman on Fire",
-        "url": "https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV"
-      },
-      "artists": [
-        {
-          "name": "BEL",
-          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
-        }
-      ],
-      "duration_ms": 178571,
-      "name": "Woman on Fire",
-      "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F"
       },
@@ -271,22 +303,6 @@
       "duration_ms": 183312,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Salivate",
-        "url": "https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 147171,
-      "name": "Salivate",
-      "url": "https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -339,22 +355,6 @@
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
-      },
-      "artists": [
-        {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
-        }
-      ],
-      "duration_ms": 189280,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1080,7 +1080,7 @@
       "added_at": "2023-02-15 16:30:53",
       "album": {
         "name": "the record",
-        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
       "artists": [
         {
@@ -1102,7 +1102,7 @@
       ],
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
-      "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
+      "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
     },
     {
       "added_at": "2023-02-22 15:48:06",

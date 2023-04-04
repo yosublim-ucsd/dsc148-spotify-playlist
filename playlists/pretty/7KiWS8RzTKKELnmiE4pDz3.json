@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "Njk3MiwwMmMxN2MzZjAzNGNhYmFlZTNmOWRhMTI5ZWJkNzIxYTVhNTQ4ODZk",
+  "snapshot_id": "Njk3OSxkODI0ODdmYWVmZTg5MDlmM2QxM2ZmZjQ2OTg1NmZmYjZmMjE5ODdl",
   "tracks": [
     {
       "added_at": "2022-10-24 17:24:21",
@@ -6899,6 +6899,130 @@
       "duration_ms": 146953,
       "name": "World Champ",
       "url": "https://open.spotify.com/track/4VIznE5GISZrFlTxFNE7Pc"
+    },
+    {
+      "added_at": "2023-04-03 03:31:31",
+      "album": {
+        "name": "Honeyberry 2",
+        "url": "https://open.spotify.com/album/60ijJ6s8jhv1cHtrUId9mq"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "duration_ms": 170868,
+      "name": "Honeyberry 2",
+      "url": "https://open.spotify.com/track/7DST9azASHMawTfFksNnoT"
+    },
+    {
+      "added_at": "2023-04-03 03:42:39",
+      "album": {
+        "name": "Golden Child, Chapter 3",
+        "url": "https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "duration_ms": 167323,
+      "name": "Tootheache & Gaslighting!",
+      "url": "https://open.spotify.com/track/3x0ObDVWg0iQiZ19v9aaXX"
+    },
+    {
+      "added_at": "2023-04-03 15:57:12",
+      "album": {
+        "name": "Mazel Tron",
+        "url": "https://open.spotify.com/album/1F841omtmck75byakwMGnx"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Mazel Tron",
+      "url": "https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre"
+    },
+    {
+      "added_at": "2023-04-03 16:06:30",
+      "album": {
+        "name": "Bombaclot",
+        "url": "https://open.spotify.com/album/74eVXHFF8J4ra7RQobQoyh"
+      },
+      "artists": [
+        {
+          "name": "Beatsbycali",
+          "url": "https://open.spotify.com/artist/2EUvd5VqbA8wS5F70z2Jlg"
+        },
+        {
+          "name": "RTB MB",
+          "url": "https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o"
+        },
+        {
+          "name": "RTB Chi",
+          "url": "https://open.spotify.com/artist/1vujQ4R9pnn0sOeQZDJvfs"
+        }
+      ],
+      "duration_ms": 155219,
+      "name": "Bombaclot",
+      "url": "https://open.spotify.com/track/5v0GLC6yRDRyxeZSEGdf8y"
+    },
+    {
+      "added_at": "2023-04-03 16:11:37",
+      "album": {
+        "name": "Big Trippen",
+        "url": "https://open.spotify.com/album/02SLNBw7hl1MQwX3m0jScL"
+      },
+      "artists": [
+        {
+          "name": "Mg Sleepy",
+          "url": "https://open.spotify.com/artist/4Lf9xLId6Ho8TdXSmhllxW"
+        }
+      ],
+      "duration_ms": 103968,
+      "name": "11 Days",
+      "url": "https://open.spotify.com/track/5tiO3HYnS6Fx2z3pwOCMXG"
+    },
+    {
+      "added_at": "2023-04-03 16:12:22",
+      "album": {
+        "name": "Big Trippen",
+        "url": "https://open.spotify.com/album/02SLNBw7hl1MQwX3m0jScL"
+      },
+      "artists": [
+        {
+          "name": "Mg Sleepy",
+          "url": "https://open.spotify.com/artist/4Lf9xLId6Ho8TdXSmhllxW"
+        }
+      ],
+      "duration_ms": 81288,
+      "name": "Benihana",
+      "url": "https://open.spotify.com/track/1FCE40wdTgeg9pH2E4MPDQ"
+    },
+    {
+      "added_at": "2023-04-03 19:33:50",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 230554,
+      "name": "HEAVEN TO ME",
+      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
     }
   ],
   "unique_name": "main ",

@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-605 songs - 1 day 0 hr 52 min
+606 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-06-10 | 2022-12-03 |
 | [Beverly Hills](https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Beverly Hills](https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp) | 2:18 | 2021-12-09 | 2022-05-07 |
 | [Bichon Frise](https://open.spotify.com/track/4seT5TBwqFw6eA9PtEbObs) | [Father](https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw) | [Bichon Frise](https://open.spotify.com/album/1SClVE9ao4rpzH9FHuYTbq) | 2:14 | 2021-10-08 | 2022-02-15 |
+| [BIG SEXC](https://open.spotify.com/track/17YNrc0Dkus7bdDiWpjefB) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [CHPT\. 2: PLAYTiME](https://open.spotify.com/album/4OzlyMvspWaltQtB9XUZGJ) | 2:13 | 2023-04-03 |  |
 | [Bikini Bottom](https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq) | 1:46 | 2022-10-28 | 2023-01-14 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-06-17 | 2022-12-03 |
 | [BILLIE EILISH.](https://open.spotify.com/track/5eMsJ357tcd0mrGsgBnfSI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Release Round Up Vol.4](https://open.spotify.com/album/5Ke5G7lbi2BCgDc5VLn8Xh) | 1:39 | 2022-06-17 | 2022-11-13 |

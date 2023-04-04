@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ?si=h\-LCG\-gATG\-o8TbncoWfcQ">Kyle Watson</a>
 
-776 songs - 3 day 0 hr 2 min
+777 songs - 3 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Forever](https://open.spotify.com/track/0PNKOWPZVXkJEmUcTrTmHv) | [Holt](https://open.spotify.com/artist/6zmAm2Twm3JSboDXQgX5cY), [Simba Tagz](https://open.spotify.com/artist/4NdyzyWZREwfd991qOTTUf) | [Forever](https://open.spotify.com/album/7GnV6XzzdRAK1knnoQjuq2) | 2:49 | 2022-01-06 | 2022-01-28 |
 | [Forget You \(feat\. Gabry Ponte\) \[LUM!X VIP MIX\]](https://open.spotify.com/track/0HTTYoAKHZOOybFJH24lbv) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Forget You \(feat\. Gabry Ponte\) \[LUM!X VIP MIX\]](https://open.spotify.com/album/6TPq02HEuoWtmchqv4Ox77) | 2:49 | 2023-03-16 | 2023-03-25 |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-07 | 2022-09-10 |
+| [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-04-03 |  |
 | [Fuego](https://open.spotify.com/track/0owC4Hk9VAppMPUAdth3zw) | [Kat La Kat](https://open.spotify.com/artist/1DWuVtQ4buYRxLB7vGcIjE) | [Burns All Day](https://open.spotify.com/album/28TybV0SB09glNt18y1DRi) | 7:09 | 2022-01-06 | 2022-03-25 |
 | [Fuse You](https://open.spotify.com/track/59m17ar0F2CB9TEtiPrSiY) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Fuse](https://open.spotify.com/album/0Od3zQmHstSYRriMfvvwVM) | 5:04 | 2022-01-06 | 2022-02-11 |
 | [Galaxies](https://open.spotify.com/track/5XA8A9whiWj4OQ21cidh7C) | [Hartley](https://open.spotify.com/artist/6EO4hcmWj2ZAAZ4Vb9eHlc) | [Galaxies](https://open.spotify.com/album/123swmlJGHmhkWUvJgZ9hb) | 5:23 | 2022-03-10 | 2022-03-25 |

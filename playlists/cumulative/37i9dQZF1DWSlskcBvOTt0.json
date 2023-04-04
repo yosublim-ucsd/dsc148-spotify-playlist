@@ -6345,6 +6345,40 @@
     },
     {
       "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/4bFPeFcSmUhL5CRDEge20O"
+      },
+      "artists": [
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
+        },
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Jewels",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "yuma.",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315483,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/3kBQXkTGrMgwk1sxGd5rAH"
+    },
+    {
+      "album": {
         "name": "Solid Session (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/4vDUZvONNMGYrXINpGaJWy"
       },
@@ -7896,7 +7930,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 354359,
       "name": "Woe Misik",
       "url": "https://open.spotify.com/track/0kK4Up84ffNYBrmjjMFS3D"

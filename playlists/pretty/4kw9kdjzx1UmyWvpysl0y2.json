@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127084,
+  "num_followers": 127081,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDA5NyxjYjU5YWJhNTU1MzVhN2QxNzU5ODkwYjgxOGExMDNmZmE1MWRiZjBl",
+  "snapshot_id": "NDA5OSwwMzIxMmJmODMxZDU5ZTc0NzViMTc2ZGE4MWI0NGIwYzgwYzA2NzIz",
   "tracks": [
+    {
+      "added_at": "2023-04-03 17:47:10",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN"
+    },
     {
       "added_at": "2023-03-31 16:28:38",
       "album": {

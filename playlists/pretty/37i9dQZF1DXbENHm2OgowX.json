@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 32174,
+  "num_followers": 32241,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMDU3Y2I1OWZlOTY2ZGE2ODZmZGNhMjRmNDBkZjE1YTkx",
+  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMGRiOWU0NGJjM2Y3NzVhY2NjMjMwZmM0OTY3YTlhYjk3",
   "tracks": [
     {
       "added_at": "2023-01-20 15:04:59",
@@ -431,38 +431,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "F\u266f A\u266f \u221e",
-        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 987960,
-      "name": "The Dead Flag Blues",
-      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Warmth of You",
-      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "Giles Corey",
         "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
@@ -479,6 +447,22 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
+        "name": "F\u266f A\u266f \u221e",
+        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 987960,
+      "name": "The Dead Flag Blues",
+      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
         "name": "I Could Live In Hope",
         "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 348800,
       "name": "Words",
       "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Warmth of You",
+      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -841,23 +841,7 @@
       "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
-    },
-    {
-      "added_at": "2023-04-03 01:33:55",
+      "added_at": "2023-04-04 01:19:23",
       "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
@@ -875,6 +859,22 @@
       "duration_ms": 153984,
       "name": "haunted (florence slowed version)",
       "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Permanently Midnight",
-        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
-      },
-      "artists": [
-        {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
-        }
-      ],
-      "duration_ms": 315284,
-      "name": "As I Came Through the Desert Thus It Was",
-      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 417142,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Permanently Midnight",
+        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
+      },
+      "artists": [
+        {
+          "name": "The Gentleman Losers",
+          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
+        }
+      ],
+      "duration_ms": 315284,
+      "name": "As I Came Through the Desert Thus It Was",
+      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
     },
     {
       "added_at": "2023-01-20 15:04:59",

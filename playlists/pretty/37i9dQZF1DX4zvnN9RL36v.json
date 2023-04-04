@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4785,
+  "num_followers": 4796,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMDM5ODQ5MzkxMjA4MWU2ODhmNGRiZjA1MDY5Zjg2ZDcx",
+  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMGUwYjNiZTYwMjE3ZjczMWUzNTdlY2I4N2I1ZmMwZDUw",
   "tracks": [
     {
       "added_at": "2023-03-27 08:25:32",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Greeting",
-      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "\uc911\ub3c5",
         "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 262562,
       "name": "\ub098\uc600\uc73c\uba74",
       "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Greeting",
+      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -327,22 +327,6 @@
       "duration_ms": 269832,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 246151,
-      "name": "(Bonus Track) Voice Mail (Korean Version)",
-      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -391,6 +375,22 @@
       "duration_ms": 228400,
       "name": "Maybe I am",
       "url": "https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 246151,
+      "name": "(Bonus Track) Voice Mail (Korean Version)",
+      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "Da Capo",
-        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
-      },
-      "artists": [
-        {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
-        },
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "She Said (With Kwon Jin Ah)",
-      "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "Mr. Sunshine (Original Television Soundtrack), Pt. 14",
         "url": "https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT"
       },
@@ -551,22 +531,6 @@
       "duration_ms": 264223,
       "name": "If You Were Me",
       "url": "https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 232729,
-      "name": "One-Sided Love",
-      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -603,6 +567,42 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "She Said (With Kwon Jin Ah)",
+      "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 239674,
       "name": "\uc9dd\uc0ac\ub791 Crush",
       "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "RE:PLAYLIST Vol.3",
+        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264921,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -695,22 +711,6 @@
       "duration_ms": 223258,
       "name": "Loving You is Loving Me",
       "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
-        "name": "RE:PLAYLIST Vol.3",
-        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 264921,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
     },
     {
       "added_at": "2023-03-27 08:25:32",

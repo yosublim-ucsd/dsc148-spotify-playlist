@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,075 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,087 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 34 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 |
 | 35 | [Ponte Bajo El Sol](https://open.spotify.com/track/0kgPPgFb0CVixXeBfpT2TG) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia Y Elizabeth](https://open.spotify.com/album/45nLucXUnWdmEMbACW2FH0) | 2:05 |
 | 36 | [Tengo 17 Años](https://open.spotify.com/track/7wjCpCNNu2VHt82SVeymVt) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocío Dúrcal \- Sus éxitos de los 60 Vol\. 3](https://open.spotify.com/album/6KxZoS6tQ3l0Kjs8Mfdkp3) | 3:00 |
-| 37 | [Datemi un martello](https://open.spotify.com/track/3Zw6Chlu7EVxz55eQ6OX4G) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [raRità!](https://open.spotify.com/album/2hBiHrGYrmQIsxwvBOwwFf) | 2:49 |
+| 37 | [Datemi un martello](https://open.spotify.com/track/1AeiBuY3BSUiF3qm5g5NaN) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Come lei non c'e' nessuno](https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q) | 2:49 |
 | 38 | [The Born Loser's Theme](https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 1:47 |
 | 39 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
 | 40 | [The "In" Crowd \- Live At Bohemian Caverns/1965](https://open.spotify.com/track/3W0TTX4l6LwUXhFEZX1Jc3) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu), [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [The In Crowd Anthology](https://open.spotify.com/album/30O2KS4YkHeJOWJZdQZsny) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 49 | [Boogaloo Smith](https://open.spotify.com/track/69d3Gm32wJVEIjzR554yvM) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Progressive Pop](https://open.spotify.com/album/7GVgvor1nx7BAu9XA1mvie) | 1:38 |
 | 50 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 |
 
-Snapshot ID: `MTYxMDk5NjI5MSwwMDAwMDAwMDU5OTZkMTA2MzEzODQzZTg2Nzc2YjM1NzQ1YzBjOWY1`
+Snapshot ID: `MTYxMDk5NjI5MSwwMDAwMDAwMDIyMTUyY2MzMTlhOGI0YWQ5MjY0YzExOTVmZmU5Y2E2`

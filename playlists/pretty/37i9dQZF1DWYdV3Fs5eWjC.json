@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Honey Dijon",
-  "num_followers": 73797,
+  "num_followers": 73803,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU3OTAwNiwwMDAwMDAwMDcyNzRkNGIwMjc5NzAxYWUzOTRlZTRhOTQ4ZTM2ZGJm",
+  "snapshot_id": "MTY3NDU3OTAwNiwwMDAwMDAwMDBlMThhNjI5MTFmZDk3MmVhZWExNTYyZTBjN2QxNmY0",
   "tracks": [
     {
       "added_at": "2022-05-31 20:14:29",
@@ -437,6 +437,26 @@
       "url": "https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ"
     },
     {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c"
+    },
+    {
       "added_at": "2022-05-31 20:14:29",
       "album": {
         "name": "SULA (Paperback)",
@@ -491,26 +511,6 @@
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
-    },
-    {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Teedra Moses",
-          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Culture",
-      "url": "https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c"
     },
     {
       "added_at": "2022-05-31 20:14:29",
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/3zkb4iEBArtWivbkhw4Jnd"
     },
     {
-      "added_at": "2022-05-31 20:14:29",
+      "added_at": "2020-06-01 21:07:43",
       "album": {
-        "name": "Language",
-        "url": "https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR"
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
       },
       "artists": [
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 208251,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y"
+      "duration_ms": 185786,
+      "name": "Got Her Own",
+      "url": "https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS"
     }
   ],
   "unique_name": "Black, Queer, & Proud",

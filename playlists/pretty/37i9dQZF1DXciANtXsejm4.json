@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 170705,
+  "num_followers": 170774,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NDYxNiwwMDAwMDAwMDA5YjczMDhkMWVhZTBjMmE3NzkzN2NiZDM3YjIxYjhj",
+  "snapshot_id": "MTY3Nzg0NDYxNiwwMDAwMDAwMDNhZDI2MGE1NThmMzc3ZDk4ZmQ2ODYwNDI3NzRiMTVh",
   "tracks": [
     {
       "added_at": "2023-03-03 11:56:56",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
+        "name": "Vol\u00f3 la Paloma",
+        "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
       },
@@ -211,18 +227,18 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Vol\u00f3 la Paloma",
-        "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 290120,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Con la Misma Moneda",
-      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -271,22 +271,6 @@
       "duration_ms": 197616,
       "name": "Entre el Cielo Vos y Yo",
       "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/1ImMS3S0iBaIUaywigSdP0"
-      },
-      "artists": [
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 373524,
-      "name": "Tu Historia Entre Mis Dedos",
-      "url": "https://open.spotify.com/track/7brrxU81kUxofswjjUjO1B"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -307,18 +291,18 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Tiempo De Bailar",
-        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/1ImMS3S0iBaIUaywigSdP0"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 169250,
-      "name": "La Cola",
-      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
+      "duration_ms": 373524,
+      "name": "Tu Historia Entre Mis Dedos",
+      "url": "https://open.spotify.com/track/7brrxU81kUxofswjjUjO1B"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -339,22 +323,6 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA"
-      },
-      "artists": [
-        {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
-        }
-      ],
-      "duration_ms": 186435,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
         "name": "Lo Mejor del Le\u00f3n",
         "url": "https://open.spotify.com/album/2whwckDILym1HJqJAH971i"
       },
@@ -367,6 +335,54 @@
       "duration_ms": 80880,
       "name": "Qu\u00e9date Tranquila",
       "url": "https://open.spotify.com/track/0fbhMix3hzu5L4XoOHU8rM"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
+        "name": "Tiempo De Bailar",
+        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 169250,
+      "name": "La Cola",
+      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA"
+      },
+      "artists": [
+        {
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -399,22 +415,6 @@
       "duration_ms": 185091,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/2ca7BrKnsQd0iSSkEI9CFY"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Soy Sabalero",
-        "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
+        "name": "Tiempo de Cambio",
+        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 179583,
-      "name": "Soy Sabalero",
-      "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
+      "duration_ms": 202946,
+      "name": "Fuera",
+      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Tiempo de Cambio",
-        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
+        "name": "Soy Sabalero",
+        "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 202946,
-      "name": "Fuera",
-      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
+      "duration_ms": 179583,
+      "name": "Soy Sabalero",
+      "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Mujer Que Mal Me Pagas",
-        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 218720,
-      "name": "Mujer Que Mal Me Pagas",
-      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
+      "duration_ms": 97466,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
+        "name": "Mujer Que Mal Me Pagas",
+        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "Mujer Que Mal Me Pagas",
+      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
         "name": "Otra Como Tu",
         "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 220618,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 97466,
-      "name": "Conmigo Te Gust\u00f3",
-      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 275720,
       "name": "Amor De Chat",
       "url": "https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
         "name": "La Gorda Me Quiere",
         "url": "https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 192106,
       "name": "Ojal\u00e1 Que No Puedas",
       "url": "https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "Simplemente Nag\u00fcel",
-        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
-      },
-      "artists": [
-        {
-          "name": "Simplemente Naguel",
-          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Te So\u00f1\u00e9 una Vez",
-      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
         "name": "Una Eterna Pasi\u00f3n",
         "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
+        "name": "Simplemente Nag\u00fcel",
+        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+      },
+      "artists": [
+        {
+          "name": "Simplemente Naguel",
+          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Te So\u00f1\u00e9 una Vez",
+      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
         "name": "Respetando un Estilo",
         "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 241705,
       "name": "Esta Noche Quiero Brandy",
       "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
-    },
-    {
-      "added_at": "2023-03-03 11:56:56",
-      "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-03-03 11:56:56",
       "album": {
-        "name": "A Matar o Morir",
-        "url": "https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL"
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
       },
       "artists": [
         {
-          "name": "Chanchi y Los Autenticos",
-          "url": "https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc"
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
         }
       ],
-      "duration_ms": 229280,
-      "name": "Como Tu Enemigo",
-      "url": "https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS"
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2023-03-03 11:56:56",
@@ -1307,6 +1291,22 @@
       "duration_ms": 215174,
       "name": "Hasta el Sol de Hoy",
       "url": "https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C"
+    },
+    {
+      "added_at": "2023-03-03 11:56:56",
+      "album": {
+        "name": "A Matar o Morir",
+        "url": "https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL"
+      },
+      "artists": [
+        {
+          "name": "Chanchi y Los Autenticos",
+          "url": "https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc"
+        }
+      ],
+      "duration_ms": 229280,
+      "name": "Como Tu Enemigo",
+      "url": "https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS"
     },
     {
       "added_at": "2023-03-03 11:56:56",

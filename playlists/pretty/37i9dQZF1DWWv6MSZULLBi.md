@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Billianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,955 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,952 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 |
 | 2 | [Make No Mistakes](https://open.spotify.com/track/0YT0OGtTkkYOlqVXfMOqE5) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Make No Mistakes](https://open.spotify.com/album/3WMpLhAIpkQrimjZlk4XRJ) | 3:11 |
 | 3 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
-| 4 | [Fucked It Up](https://open.spotify.com/track/6YQYqDVVu774K0eFLiuKAo) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Fucked It Up](https://open.spotify.com/album/37dC8LHmBmziZzWvGV6QPi) | 3:58 |
+| 4 | [Fucked It Up](https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:58 |
 | 5 | [I Left the Light on](https://open.spotify.com/track/2NHlgfB2HhNFBylwwMeRow) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Like Flowers on a Molten Lawn](https://open.spotify.com/album/6jk0trcsuFn2QoBJxyVIg7) | 4:52 |
 | 6 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 7 | [When Did I Grow Up?](https://open.spotify.com/track/5OQc60sLFAKinNJpZ2QDr4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [When Did I Grow Up?](https://open.spotify.com/album/2HNtL0Gt037SCCMV1r5DcF) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Take Care of You](https://open.spotify.com/track/2qBCc8sGAcYZJOb2sfxYMy) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [Imposter Syndrome](https://open.spotify.com/album/1cpwcFs4tQW37SOSxC2Zv3) | 3:35 |
 | 100 | [Turpentine](https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc) | [Kaeley Jade](https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t) | [Turpentine](https://open.spotify.com/album/16uVEqnUKB1BJNHvmWYaF0) | 3:13 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDc4MWJkNzVhMWViNzRlNzJkZjkzMTdjYTY3MDY4MzU4`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDk5YjZlYzdiYmJmZjM2MzI5NzdlOTZkNmI4YTJlYjRh`

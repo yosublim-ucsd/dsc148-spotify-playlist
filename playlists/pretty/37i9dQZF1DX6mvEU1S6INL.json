@@ -1,15 +1,15 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1125766,
+  "num_followers": 1125776,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwMjMyMiwwMDAwMDAwMDBjMTA2YzE1YzVhN2MwY2EyN2EzN2VjNzU5NWQwMzM0",
+  "snapshot_id": "MTY3NjMwMjMyMiwwMDAwMDAwMDM1OTFkZDVmZTU3MjZjMDk5ZDkwZGNjZTMyMzViMWZm",
   "tracks": [
     {
-      "added_at": "2023-04-03 00:40:04",
+      "added_at": "2023-04-04 01:10:49",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
-      "added_at": "2023-04-03 00:40:04",
+      "added_at": "2023-04-04 01:10:49",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
+      "added_at": "2023-04-04 01:10:49",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 261868,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
+    },
+    {
       "added_at": "2023-01-05 16:51:45",
       "album": {
         "name": "five seconds flat",
@@ -317,22 +333,6 @@
       "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
     },
     {
-      "added_at": "2023-04-03 00:40:04",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 261868,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
-    },
-    {
       "added_at": "2023-01-05 16:51:45",
       "album": {
         "name": "Bon Iver (10th Anniversary Edition)",
@@ -349,7 +349,23 @@
       "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
     },
     {
-      "added_at": "2023-04-03 00:40:04",
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
+    },
+    {
+      "added_at": "2023-04-04 01:10:49",
       "album": {
         "name": "Emergency Contact",
         "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
@@ -379,22 +395,6 @@
       "duration_ms": 217408,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Wait for Me",
-      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "For the Light",
         "url": "https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 180213,
       "name": "Free Animal",
       "url": "https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2"
     },
     {
-      "added_at": "2023-04-03 00:40:04",
+      "added_at": "2023-04-04 01:10:49",
       "album": {
         "name": "Visions Of A Life",
         "url": "https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz"
@@ -699,6 +699,22 @@
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Black Bear",
+        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 241119,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Black Bear",
-        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 241119,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 235266,
       "name": "Youuu",
       "url": "https://open.spotify.com/track/1JsVSz41mZAl02GXUApmGp"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "If I Get High",
-      "url": "https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -815,22 +799,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Call Me Lover",
-      "url": "https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Beneath The Skin",
         "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 260413,
       "name": "Empire",
       "url": "https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "If I Get High",
+      "url": "https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Call Me Lover",
+      "url": "https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Lover, Please Stay",
-      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 217000,
       "name": "Dreaming My Dreams",
       "url": "https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Lover, Please Stay",
+      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Love and Other Lies",
-        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Want You Like That",
-      "url": "https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "17 HERO",
         "url": "https://open.spotify.com/album/0eWj8AsCZxdAdOAW7WuzV3"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 231813,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1DjjssAfCcElLoXDVRLq0Q"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Want You Like That",
+      "url": "https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Broods",
-        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Taking You There",
-      "url": "https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Morning Report",
         "url": "https://open.spotify.com/album/2WJ3wW5Uy58NOWkIzzK4a4"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 253853,
       "name": "My Heart's Always Yours",
       "url": "https://open.spotify.com/track/5Thu5cuRc1VtDeTu7p8Pni"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Broods",
+        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Taking You There",
+      "url": "https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1455,6 +1455,22 @@
       "duration_ms": 190728,
       "name": "Can't Get You Out of My Head",
       "url": "https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Birthday Boy",
+        "url": "https://open.spotify.com/album/0cyNgrx98dRKCnNLKTl9u1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/71v8qnPTtFJKKFcyLV2Sjz"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1503,22 +1519,6 @@
       "duration_ms": 235174,
       "name": "Be There",
       "url": "https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Birthday Boy",
-        "url": "https://open.spotify.com/album/0cyNgrx98dRKCnNLKTl9u1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taos",
-          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/71v8qnPTtFJKKFcyLV2Sjz"
     },
     {
       "added_at": "2023-01-05 16:51:45",

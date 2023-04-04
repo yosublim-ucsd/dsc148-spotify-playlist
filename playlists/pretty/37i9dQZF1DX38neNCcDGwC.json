@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 40445,
+  "num_followers": 40463,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMGYxYjEyYzM0MTY0ZDM0YTI1YmZmYmZjN2E4YjFlZDk2",
+  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMDBmMzQ5YzFmNTgxZTI2MzFmMjU2NjA0NjVkNDk4ZDU1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:49:40",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Legend (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 280600,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/71zvW0WZ0bap9gphp7Jhgp"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 228506,
       "name": "Love Is My Religion",
       "url": "https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 280600,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/71zvW0WZ0bap9gphp7Jhgp"
     },
     {
       "added_at": "2022-03-03 13:49:40",

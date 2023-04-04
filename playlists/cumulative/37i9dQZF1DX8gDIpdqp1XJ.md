@@ -4,11 +4,11 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-744 songs - 2 day 1 hr 2 min
+745 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 |  |
+| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 | 2023-04-04 |
 | [4\-U](https://open.spotify.com/track/3rOzx4VaqWIUmeod4k6Nc9) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Talk to Me When I'm Sober](https://open.spotify.com/album/4yKXpjNgwKMszBOUXYEFiv) | 3:45 | 2021-04-02 | 2022-04-21 |
 | [49 Years](https://open.spotify.com/track/0D0qXcu6qTrrVls156VipG) | [Club Kuru](https://open.spotify.com/artist/1AdQnmF6taa106PwtUBK6O) | [49 Years](https://open.spotify.com/album/2iuyzz6hPfbEBJEgikgoi6) | 3:56 | 2021-04-02 | 2022-04-21 |
 | [A Heavy Drug](https://open.spotify.com/track/0ZrT7h8W04PDhxTSBgsdrU) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Whatever & Ever](https://open.spotify.com/album/4EX14bfjBceEPyq5a3LAKI) | 5:26 | 2021-06-04 | 2022-04-18 |
@@ -151,6 +151,7 @@
 | [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 | 2023-02-09 |  |
 | [DIMANCHE SOIR](https://open.spotify.com/track/1N5cZSquzPasjz81RYRvkh) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [DIMANCHE SOIR](https://open.spotify.com/album/28V0hqyCllvpY2IsksYUhB) | 3:09 | 2021-09-17 | 2022-07-29 |
 | [Dionysian State](https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Going Going Gone](https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl) | 3:04 | 2021-09-10 | 2023-03-07 |
+| [Dirt Diamond](https://open.spotify.com/track/4QHuAJCpHYDXGL4CZ8F0nI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Dirt Diamond](https://open.spotify.com/album/4CuwDymNkMtdA3UqVHnQ3t) | 3:38 | 2023-04-03 |  |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-17 | 2022-11-11 |
 | [Disco](https://open.spotify.com/track/4b8CVawtKXsHizyqEZfs8C) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:47 | 2022-04-21 | 2022-07-29 |
 | [Disco Cosmos](https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Disco Cosmos](https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN) | 3:42 | 2022-10-24 | 2023-03-07 |

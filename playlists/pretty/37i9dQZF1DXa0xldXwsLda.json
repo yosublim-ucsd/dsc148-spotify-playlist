@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 226759,
+  "num_followers": 226773,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg5NjE2NCwwMDAwMDAwMDY2YWM4NDUwZDI1ZjNiOTFlZWQyZmY3YWRlOTE3MTlm",
+  "snapshot_id": "MTY3Mzg5NjE2NCwwMDAwMDAwMDkxNjFmZDBiMWNhNGNiYmZjZDhlMDMwNGE0M2MzOTkx",
   "tracks": [
     {
       "added_at": "2023-01-16 19:09:24",
@@ -183,18 +183,18 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 130222,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
         "name": "Sonre\u00edr (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/2VCywjBXVt95NBSE2QsT80"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 208729,
       "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6bK1Dzmy41YKrGVitOejNu"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 130222,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Epitafio",
-        "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Epitafio",
-      "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 183894,
       "name": "Un Cari\u00f1ito",
       "url": "https://open.spotify.com/track/64opElgLEfcSoh4YotloB4"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
+        "name": "Epitafio",
+        "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Epitafio",
+      "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Juego de Amor",
-        "url": "https://open.spotify.com/album/34i7W2TuiUVTJoIsroG0Q9"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238094,
-      "name": "Juego de Amor",
-      "url": "https://open.spotify.com/track/6xZ8P2C0gYWEy3EgkXVGuL"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
         "name": "Nada Me Falta (Welcome To Tijuana)",
         "url": "https://open.spotify.com/album/1p4nM45VgvTK3XUc4u6YOO"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 172266,
       "name": "Si Ella Se Va",
       "url": "https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
+        "name": "Es Por Ti",
+        "url": "https://open.spotify.com/album/4OiWC358icDw3f18lxFYjT"
+      },
+      "artists": [
+        {
+          "name": "Serena Mendes",
+          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/1fPBBcBon7d2EuOcye2rsT"
     }
   ],
   "unique_name": "Hora de la Comida",

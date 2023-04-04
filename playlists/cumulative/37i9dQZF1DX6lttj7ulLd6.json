@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 304653,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX"
@@ -1222,6 +1222,24 @@
       "duration_ms": 325093,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv"
+    },
+    {
+      "album": {
+        "name": "Le Marais",
+        "url": "https://open.spotify.com/album/22sl7yPsMf22tDnbRwijjT"
+      },
+      "artists": [
+        {
+          "name": "Rollin Hand",
+          "url": "https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207416,
+      "name": "Le Marais",
+      "url": "https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ"
     },
     {
       "album": {
@@ -1903,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Porch Java",
+        "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
+      },
+      "artists": [
+        {
+          "name": "Delorme & Co",
+          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215435,
+      "name": "Porch Java",
+      "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
+    },
+    {
+      "album": {
         "name": "Island Life",
         "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
       },
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 305306,
       "name": "Together At Last",
       "url": "https://open.spotify.com/track/2aEyRqY48LbMzHiNAvwoQK"

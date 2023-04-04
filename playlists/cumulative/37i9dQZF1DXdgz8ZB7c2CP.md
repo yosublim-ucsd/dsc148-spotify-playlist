@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring OBLVYN
 
-375 songs - 21 hr 1 min
+376 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Fluorescent](https://open.spotify.com/track/4bQiPmKSrDHD048lUKr7Fu) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [CLLLAPS](https://open.spotify.com/artist/0jD8XI9pbjScAPdPF7F29Z) | [Fluorescent](https://open.spotify.com/album/4KiRQ2xo0RtzKy6ZOFQ6gz) | 3:35 | 2021-08-06 | 2022-07-28 |
 | [Forever](https://open.spotify.com/track/0wzFugjnb3aytMSNZdwdyK) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Forever](https://open.spotify.com/album/3i8qdcmSXTcZDmZYaoq7qN) | 3:04 | 2022-02-18 | 2022-07-01 |
 | [Forever \- Pauline Herr Rework](https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Loner \(Remixes\)](https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ) | 2:50 | 2023-03-16 |  |
-| [Forte](https://open.spotify.com/track/2CSneRO5qx2XF7st3k9x0D) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Forte](https://open.spotify.com/album/3DbbEUCzn198WFMjdbIVrz) | 3:50 | 2022-12-21 |  |
+| [Forte](https://open.spotify.com/track/2CSneRO5qx2XF7st3k9x0D) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Forte](https://open.spotify.com/album/3DbbEUCzn198WFMjdbIVrz) | 3:50 | 2022-12-21 | 2023-04-04 |
 | [Free Passes \(with Pauline Herr\)](https://open.spotify.com/track/60EstL2lXH7K3J1zR8VxPN) | [Yung Sum](https://open.spotify.com/artist/2kMfOad7vI5MUraDWi8gUS), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Free Passes \(with Pauline Herr\)](https://open.spotify.com/album/5l3TtoiyTaxU2abQBAcvrM) | 3:15 | 2021-09-27 | 2022-07-25 |
 | [Free Range](https://open.spotify.com/track/7sabwbH0YzXOW7kex1yUb3) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [UNITY](https://open.spotify.com/album/6AwmDIMLIAmxwQdYokoGMJ) | 4:33 | 2023-02-19 |  |
 | [From the Start](https://open.spotify.com/track/1KumJF2emyC3nHFAFPtiAS) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [From the Start](https://open.spotify.com/album/3dkTtMkCWRhYSTHJr0nnug) | 3:19 | 2022-03-11 | 2022-07-29 |
@@ -147,6 +147,7 @@
 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-03-16 |  |
 | [Half Way Home](https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Half Way Home](https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh) | 2:57 | 2021-08-06 |  |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-02-10 |  |
+| [Heart On Fire](https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Heart On Fire](https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad) | 3:50 | 2023-03-31 |  |
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2021-08-06 |  |
 | [Her](https://open.spotify.com/track/3hUZ0j3ED7sZ3PwyxrrmZH) | [VALENTINE](https://open.spotify.com/artist/1oSgUcr4PGbytOf7G7Y4DZ) | [Her](https://open.spotify.com/album/0YftsFeJDR0IykBqmUVHlp) | 4:53 | 2021-08-06 | 2022-04-20 |
 | [High Like This \(feat\. Reo Cragun\)](https://open.spotify.com/track/1HF9IpKHAqYgU4Kl1HseaS) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [High Like This \(feat\. Reo Cragun\)](https://open.spotify.com/album/3CgdnhlwCIsvZ5JZeFOS10) | 2:33 | 2021-08-06 | 2022-07-26 |

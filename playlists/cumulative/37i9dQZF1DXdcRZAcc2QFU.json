@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0XkFUP2OTUkAY8QLFngSNu"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/76sqHmy3XbdyiR45aA5bib"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 313160,
       "name": "Aankh Mare",
       "url": "https://open.spotify.com/track/0mKnPbLPH6mIq15Mro4WEl"
@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Anjaam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5T4tGh2d4lCLa57fzYgTQe"
+      },
+      "artists": [
+        {
+          "name": "Poornima",
+          "url": "https://open.spotify.com/artist/6lpXKoHUzxZc5PwyS6cu4C"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358946,
+      "name": "Channe Ke Khet Mein",
+      "url": "https://open.spotify.com/track/1wbUMMWBRQAxrSrFUhMnVR"
+    },
+    {
+      "album": {
         "name": "Suron Ki Mallika - Asha Bhosle",
         "url": "https://open.spotify.com/album/2WUQrdLpwQLDeMYZvpMGlN"
       },
@@ -394,6 +412,28 @@
       "duration_ms": 516318,
       "name": "Choli Ke Peeche (From \"Khal Nayak\")",
       "url": "https://open.spotify.com/track/70sjgqqoz3wQ6haG7PmDck"
+    },
+    {
+      "album": {
+        "name": "Biwi No. 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06XvUvHNpDxjuQVutLkxAS"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Anuradha Sriram",
+          "url": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335000,
+      "name": "Chunnari Chunnari",
+      "url": "https://open.spotify.com/track/18AId3X5GULxDCCjyRTCIQ"
     },
     {
       "album": {
@@ -474,7 +514,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 320386,
       "name": "Dhak Dhak Karne Laga",
       "url": "https://open.spotify.com/track/1397xY0RVupbWpMaFhyLf8"
@@ -718,7 +758,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 338000,
       "name": "Hai Hai Mirchi",
       "url": "https://open.spotify.com/track/7M0qQFllc178NCv2ezCWtq"
@@ -1803,6 +1843,32 @@
     },
     {
       "album": {
+        "name": "Major Saab",
+        "url": "https://open.spotify.com/album/5VA9SHJv2i1Z2NISECSJtz"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Sudesh Bhosle",
+          "url": "https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu"
+        },
+        {
+          "name": "Jaspinder Narula",
+          "url": "https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408786,
+      "name": "Sona Sona",
+      "url": "https://open.spotify.com/track/3DzWXtOawHbCs9O75mtC9e"
+    },
+    {
+      "album": {
         "name": "Rakshak",
         "url": "https://open.spotify.com/album/1WR6LNez0oAfwd0oPowVcq"
       },
@@ -1818,7 +1884,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 294360,
       "name": "Sundara Sundara",
       "url": "https://open.spotify.com/track/0bWmjgT1xlNMcfq5nlc7cb"
@@ -2096,7 +2162,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 196115,
       "name": "Urvashi Urvashi",
       "url": "https://open.spotify.com/track/6jhIHvt64qw5O8ViJSYzug"

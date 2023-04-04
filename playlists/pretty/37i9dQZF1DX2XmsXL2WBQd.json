@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 341011,
+  "num_followers": 341109,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUwMDgxMiwwMDAwMDAwMGE0NDM5YjM4ZWRlNTlhN2MzNDM1YjhmMzUxYzQyNGYw",
+  "snapshot_id": "MTY3NzUwMDgxMiwwMDAwMDAwMDhhN2VmNWMwNDhlYjYwYzUzYmQ3N2FiNTE4NGNjMGMz",
   "tracks": [
     {
       "added_at": "2023-02-27 12:26:52",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "As Nasty As They Wanna Be",
         "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 240493,
       "name": "Rock The Bells",
       "url": "https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -623,38 +623,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Rapper's Delight",
-      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
-        "name": "Follow The Leader (Expanded Edition)",
-        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "Microphone Fiend",
-      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -675,18 +643,18 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
         }
       ],
-      "duration_ms": 167880,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+      "duration_ms": 234453,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -723,6 +691,38 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
+        "name": "Follow The Leader (Expanded Edition)",
+        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "Microphone Fiend",
+      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
         "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 226040,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -803,22 +787,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 321986,
-      "name": "I Need Love",
-      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -839,6 +807,22 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 321986,
+      "name": "I Need Love",
+      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
         "name": "How Ya Like Me Now (Expanded Edition)",
         "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 280840,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Duck Rock",
-        "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
-      },
-      "artists": [
-        {
-          "name": "Malcolm McLaren",
-          "url": "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
-        }
-      ],
-      "duration_ms": 259426,
-      "name": "Buffalo Gals",
-      "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "By All Means Necessary (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
       },
@@ -935,22 +919,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1"
-      },
-      "artists": [
-        {
-          "name": "ICE-T",
-          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Colors - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "All World",
         "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
@@ -963,6 +931,38 @@
       "duration_ms": 279960,
       "name": "I'm Bad",
       "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Duck Rock",
+        "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
+      },
+      "artists": [
+        {
+          "name": "Malcolm McLaren",
+          "url": "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
+        }
+      ],
+      "duration_ms": 259426,
+      "name": "Buffalo Gals",
+      "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1"
+      },
+      "artists": [
+        {
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Colors - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
     },
     {
       "added_at": "2023-02-27 12:26:52",

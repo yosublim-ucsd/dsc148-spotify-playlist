@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by a number of our ambassadors for International Women\u2019s Day. Cover: Jamala.",
-  "num_followers": 875903,
+  "num_followers": 875850,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMDk2NWQxMjA3ZTA3ODI2NjU1MmFlMzBhNmIzOTdhY2Zl",
+  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMDQ0YjkzYzY2ZWVhNDNkMjljMTNjMDY1ZDkzOGJkYzIz",
   "tracks": [
     {
       "added_at": "2023-03-05 05:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Baian\u00e1",
-        "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 152558,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Admir\u00e1vel Chip Novo",
         "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 232240,
       "name": "Equalize",
       "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 152558,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "All We Wanna Do",
+        "url": "https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso"
+      },
+      "artists": [
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "duration_ms": 186669,
+      "name": "All We Wanna Do",
+      "url": "https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "Gazoza",
         "url": "https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h"
       },
@@ -523,38 +539,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Mr. Daydream",
-        "url": "https://open.spotify.com/album/0FpWw1iUM4JHq4eovT85z1"
-      },
-      "artists": [
-        {
-          "name": "Mai Davika",
-          "url": "https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC"
-        }
-      ],
-      "duration_ms": 197472,
-      "name": "Mr. Daydream",
-      "url": "https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "All We Wanna Do",
-        "url": "https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso"
-      },
-      "artists": [
-        {
-          "name": "Valeria Stoica",
-          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
-        }
-      ],
-      "duration_ms": 186669,
-      "name": "All We Wanna Do",
-      "url": "https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "The Kick Inside (2018 Remaster)",
         "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 268933,
       "name": "Wuthering Heights - 2018 Remaster",
       "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Mr. Daydream",
+        "url": "https://open.spotify.com/album/0FpWw1iUM4JHq4eovT85z1"
+      },
+      "artists": [
+        {
+          "name": "Mai Davika",
+          "url": "https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC"
+        }
+      ],
+      "duration_ms": 197472,
+      "name": "Mr. Daydream",
+      "url": "https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "KOLIR",
+        "url": "https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle"
+      },
+      "artists": [
+        {
+          "name": "ONUKA",
+          "url": "https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6"
+        }
+      ],
+      "duration_ms": 272108,
+      "name": "ZENIT",
+      "url": "https://open.spotify.com/track/4Zx0sAKSVmX9Sr5bX0W6hv"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/2yV6eZVN6U78Rq6cwRyQiG"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 131199,
       "name": "Malas Lenguas",
       "url": "https://open.spotify.com/track/1bLyqRntlR5BTcFvhcQOuO"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "KOLIR",
-        "url": "https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle"
-      },
-      "artists": [
-        {
-          "name": "ONUKA",
-          "url": "https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6"
-        }
-      ],
-      "duration_ms": 272108,
-      "name": "ZENIT",
-      "url": "https://open.spotify.com/track/4Zx0sAKSVmX9Sr5bX0W6hv"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Mooier Als Je Lacht",
-        "url": "https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 218499,
-      "name": "Mooier Als Je Lacht",
-      "url": "https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "All Hail the Queen",
         "url": "https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 238693,
       "name": "Ladies First",
       "url": "https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Mooier Als Je Lacht",
+        "url": "https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Mooier Als Je Lacht",
+      "url": "https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Halluzinationen",
-        "url": "https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hunger",
-          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Everything Is Good",
-      "url": "https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Tangise Sarangan",
         "url": "https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB"
       },
@@ -1103,22 +1087,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Paracas Cavernas",
-        "url": "https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk"
+        "name": "Halluzinationen",
+        "url": "https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i"
       },
       "artists": [
         {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+          "name": "Sophie Hunger",
+          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
         }
       ],
-      "duration_ms": 268011,
-      "name": "Paracas Cavernas",
-      "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
+      "duration_ms": 180253,
+      "name": "Everything Is Good",
+      "url": "https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1143,22 +1123,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "O quarto (fado Pagem)",
-        "url": "https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ"
-      },
-      "artists": [
-        {
-          "name": "Carminho",
-          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "O quarto (fado Pagem)",
-      "url": "https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "World Wide Pop",
         "url": "https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu"
       },
@@ -1179,6 +1143,42 @@
       "duration_ms": 179249,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/2bmq7wwgtGVPPJ0vYpjcXq"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Paracas Cavernas",
+        "url": "https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "duration_ms": 268011,
+      "name": "Paracas Cavernas",
+      "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "O quarto (fado Pagem)",
+        "url": "https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ"
+      },
+      "artists": [
+        {
+          "name": "Carminho",
+          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "O quarto (fado Pagem)",
+      "url": "https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn"
     },
     {
       "added_at": "2023-03-05 05:00:00",

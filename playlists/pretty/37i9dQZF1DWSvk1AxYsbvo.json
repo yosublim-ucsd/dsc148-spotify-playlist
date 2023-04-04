@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 8132,
+  "num_followers": 8147,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDQ1NywwMDAwMDAwMGRiZjUyMTI5MWMyNjc4YTc1ZDVlYTMyZTEwYTMwNTQ0",
+  "snapshot_id": "MTY3OTkwNDQ1NywwMDAwMDAwMDczOGNhNDJjZDJiN2ZkMzU1YmMxYWIyMGI1N2JlMjUy",
   "tracks": [
     {
       "added_at": "2023-03-03 04:10:08",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
         "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 236750,
       "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
       "url": "https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "What Should I do",
-        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "sleepless nights (My Sweden Laundry #1)",
         "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 220413,
       "name": "sleepless nights (My Sweden Laundry #1)",
       "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "CAKE",
         "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "Lean On Me (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
-      },
-      "artists": [
-        {
-          "name": "Hoyeon Kim",
-          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It will be all fine",
-      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "Seoul Check-in OST Part 8",
         "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178758,
       "name": "Don't Ever Leave Me",
       "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "Lean On Me (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
+      },
+      "artists": [
+        {
+          "name": "Hoyeon Kim",
+          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It will be all fine",
+      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/2Lv4ICVjaLlBkSV63oktFV"
     },
     {
+      "added_at": "2023-04-04 00:55:43",
+      "album": {
+        "name": "Candy For You",
+        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "Candy For You",
+      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
+    },
+    {
       "added_at": "2023-03-03 04:10:08",
       "album": {
         "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
@@ -829,36 +845,20 @@
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
     },
     {
-      "added_at": "2023-04-03 00:55:23",
-      "album": {
-        "name": "Candy For You",
-        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
-      },
-      "artists": [
-        {
-          "name": "blah",
-          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Candy For You",
-      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
-    },
-    {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
       },
       "artists": [
         {
-          "name": "\uc870\uc740\uc138",
-          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
         }
       ],
-      "duration_ms": 207998,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+      "duration_ms": 178373,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Niespokojny (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4MWUQ0cpLZVXybri82B8LG"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fleszar",
+          "url": "https://open.spotify.com/artist/5AFlo6pfKzVMGF61vgssw4"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217124,
+      "name": "Kropl\u0105 Deszczu - Remastered 2023",
+      "url": "https://open.spotify.com/track/1puMLEjNWmMg8e3xn1znGX"
+    },
+    {
+      "album": {
         "name": "Lady Pank",
         "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 241314,
       "name": "Piosenka ksi\u0119\u017cycowa (Acoustic Version)",
       "url": "https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 181243,
       "name": "P\u00f3\u017ane godziny",
       "url": "https://open.spotify.com/track/3LT2xvnrLzjj442HEBBy1w"
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 205400,
       "name": "W Glowie",
       "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"

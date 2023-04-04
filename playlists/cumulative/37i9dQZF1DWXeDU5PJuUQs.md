@@ -2,7 +2,7 @@
 
 ### [Vivo de Cumbia](https://open.spotify.com/playlist/37i9dQZF1DWXeDU5PJuUQs)
 
-> Unas buenas cumbias con el calor de la gente! <br/>Foto: Onda Sabanera & Ke Personajes.
+> Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
 127 songs - 8 hr 26 min
 
@@ -39,7 +39,7 @@
 | [El vago fumanchu \- En Vivo](https://open.spotify.com/track/19UnqDxb33wJ9tPowoVRLh) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 2:19 | 2022-03-25 | 2022-04-21 |
 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 | 2021-12-10 |  |
 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 | 2021-12-10 |  |
-| [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 | 2021-12-10 | 2023-03-30 |
+| [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 | 2021-12-10 |  |
 | [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 | 2022-06-03 |  |
 | [Falso Malo \- En Vivo](https://open.spotify.com/track/5xNDCYF5PFIsb5MIBaEd1h) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [En Vivo en Pasión 2018](https://open.spotify.com/album/1jqDkm5aXq9Z9DPljvNhjE) | 3:04 | 2021-12-10 | 2022-07-28 |
 | [Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame \- En Vivo](https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en el Gran Rex](https://open.spotify.com/album/7gAMypAPwm97SxVNLVBooy) | 4:57 | 2021-12-10 | 2022-07-28 |
@@ -119,7 +119,7 @@
 | [Su Mujer y La Cita \- En Vivo](https://open.spotify.com/track/0AOj4m3RMoqpQAXpbUtOb6) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Su Mujer y La Cita \(En Vivo\)](https://open.spotify.com/album/0tWuHnt43HKYwa4QXkrmtx) | 6:24 | 2022-03-04 | 2022-07-24 |
 | [Sólo con un Beso](https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sólo con un Beso](https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ) | 2:35 | 2021-12-10 |  |
 | [Te Amaré Hasta Que Me Olvides \- Live Session](https://open.spotify.com/track/6FA9D5Ne8D8qFxZAuL03wk) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [Te Amaré Hasta Que Me Olvides \(Live Session\)](https://open.spotify.com/album/4kNgjHhyAVhyhWPNhPGyNE) | 2:58 | 2022-03-04 | 2022-07-24 |
-| [Te Hubieras Ido Antes \- En Vivo](https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Te Hubieras Ido Antes \(En Vivo\)](https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh) | 3:33 | 2021-12-10 |  |
+| [Te Hubieras Ido Antes \- En Vivo](https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Te Hubieras Ido Antes \(En Vivo\)](https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh) | 3:33 | 2021-12-10 | 2023-04-04 |
 | [Te Soñé una Vez Mas \- En Vivo](https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:38 | 2021-12-10 |  |
 | [Te Voy a Perder](https://open.spotify.com/track/1zpZws099ymKYMQsQNZJ8n) | [Maxi y La Champions Liga](https://open.spotify.com/artist/6eFCmeWnt7lHM1NYbXCZoC) | [Te Voy a Perder](https://open.spotify.com/album/3jksMdYdw8skT3mwaTHYTs) | 3:04 | 2021-12-10 | 2022-07-25 |
 | [Tomaré para Olvidar \- En Vivo](https://open.spotify.com/track/7aygU6AcA7qItFRSQRQfsQ) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [En Vivo en la Mágica](https://open.spotify.com/album/6qWCARpGNxbI0hqAi4XTPm) | 3:40 | 2022-01-03 | 2022-07-28 |

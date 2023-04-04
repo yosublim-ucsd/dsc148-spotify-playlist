@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Yazzus
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,109 likes - 90 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,122 likes - 90 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

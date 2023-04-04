@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 107881,
+  "num_followers": 107969,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDRhN2JkYWRlODBjZDg2NjZlNzE3ZTBjZDIyMDA4NmM3",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGUyYzNkYTI3Y2MzODViMTc2MjcxYjk4MzY2ODkzMmIy",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 207966,
-      "name": "El Que Reina",
-      "url": "https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -135,22 +119,6 @@
       "duration_ms": 264826,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Yo Tierra, T\u00fa Semilla",
-        "url": "https://open.spotify.com/album/2oGG8gg5AjSdAIqeWGWJMl"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 224817,
-      "name": "Yo Tierra, T\u00fa Semilla",
-      "url": "https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -191,6 +159,38 @@
       "duration_ms": 380571,
       "name": "No Fallar\u00e1 (Remix)",
       "url": "https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 207966,
+      "name": "El Que Reina",
+      "url": "https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Yo Tierra, T\u00fa Semilla",
+        "url": "https://open.spotify.com/album/2oGG8gg5AjSdAIqeWGWJMl"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 224817,
+      "name": "Yo Tierra, T\u00fa Semilla",
+      "url": "https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Jhoni",
-        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
       },
       "artists": [
         {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Haremos",
-      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Acceso Total Tour Edition",
         "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 249920,
       "name": "Mi Maestro",
       "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Jhoni",
+        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Haremos",
+      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -323,6 +323,22 @@
       "duration_ms": 219692,
       "name": "Tu Eres (feat. Andrea Dominguez)",
       "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos Tropicales",
+        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Col\u00f3n",
+          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "Largo Viaje",
+      "url": "https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -403,22 +419,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos Tropicales",
-        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Col\u00f3n",
-          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
-        }
-      ],
-      "duration_ms": 209476,
-      "name": "Largo Viaje",
-      "url": "https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Contigo Todo Es Posible",
         "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Digan Lo Que Diga",
-      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 268613,
       "name": "Sinceridad",
       "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Digan Lo Que Diga",
+      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Traigo Alabanza",
-        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "Estoy Contento",
-      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Solo Bachata",
         "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 301320,
       "name": "Cuando Se Acaba El Amor",
       "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Traigo Alabanza",
+        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 251453,
+      "name": "Estoy Contento",
+      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Fragments Of Heaven",
-        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 242244,
-      "name": "Forever Endless Love",
-      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Vivo Enamorado",
         "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Fragments Of Heaven",
+        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 242244,
+      "name": "Forever Endless Love",
+      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "No Hay Nada Imposible",
         "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 295360,
       "name": "Espiritu De Dios",
       "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "En Accion",
-        "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
-      },
-      "artists": [
-        {
-          "name": "Alex D' Castro",
-          "url": "https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm"
-        }
-      ],
-      "duration_ms": 282760,
-      "name": "En Tu Presencia",
-      "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -791,6 +775,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "En Accion",
+        "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
+      },
+      "artists": [
+        {
+          "name": "Alex D' Castro",
+          "url": "https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm"
+        }
+      ],
+      "duration_ms": 282760,
+      "name": "En Tu Presencia",
+      "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Favor y Gracia",
         "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 221544,
       "name": "El Barrio Lo Sabe",
       "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
-        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
-      },
-      "artists": [
-        {
-          "name": "Nicold Frias",
-          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Un adorador",
-      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -855,6 +839,22 @@
       "duration_ms": 210964,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
+        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Un adorador",
+      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
     },
     {
       "added_at": "2020-09-18 05:02:00",

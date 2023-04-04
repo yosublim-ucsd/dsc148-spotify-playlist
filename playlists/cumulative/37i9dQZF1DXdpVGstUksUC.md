@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-277 songs - 1 day 1 hr 40 min
+278 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Big Sky Theory](https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp) | 8:28 | 2021-11-30 | 2022-07-29 |
 | [Black](https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu) | 6:47 | 2022-04-28 | 2023-03-23 |
 | [Black](https://open.spotify.com/track/5iaVpwfa6T8ygaZXNhva8P) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/10aQPFy03P8QGK2oRQaC2g) | 6:47 | 2021-11-30 | 2022-07-29 |
-| [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 | 2021-11-30 |  |
+| [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 | 2021-11-30 | 2023-04-04 |
 | [Black Smoke](https://open.spotify.com/track/0vZrU143kLdTS0wmOpif5u) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Black Smoke](https://open.spotify.com/album/7Ml0kvmqPLNyoKVPRH00pr) | 4:38 | 2021-11-30 | 2022-07-19 |
 | [Blood Leaves a Trail](https://open.spotify.com/track/6u6cQr5HcIrU00h4xlrmCb) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sea](https://open.spotify.com/album/5ZO5pXlgYkn7U5z403VSg1) | 6:19 | 2021-11-30 | 2022-07-07 |
 | [Blue Snow](https://open.spotify.com/track/4L6txSW8V2KqNVY1LZHMes) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Time Travelling Blues](https://open.spotify.com/album/4EflZcGXhZGptft8fzxwI3) | 4:25 | 2021-11-30 | 2022-02-13 |
@@ -213,6 +213,7 @@
 | [Sixty Watt Shaman](https://open.spotify.com/track/4Tmj44iRTXTDK5jo9elMCv) | [Whiskey Neck](https://open.spotify.com/artist/76B55uevwwGTkO8LfGpb5T) | [In The Groove](https://open.spotify.com/album/5cZ1SppOuMg4sS0WqDkAls) | 5:41 | 2021-11-30 | 2021-12-23 |
 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 | 2023-03-23 |  |
 | [Sleep Of The Black Lotus](https://open.spotify.com/track/1gwWcQf0CmJxQPc4AlOoEh) | [Wo Fat](https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0) | [The Black Code](https://open.spotify.com/album/0fWU9SHoSy50Kpi775WrLb) | 10:14 | 2021-11-30 | 2022-07-08 |
+| [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 | 2023-04-04 |  |
 | [Smokyhead](https://open.spotify.com/track/3AkDOeS0MrVCNZQXQnOGuG) | [Electric Octopus](https://open.spotify.com/artist/4dcZVsGQzFSiXuAHyhw3qT) | [Smokyhead](https://open.spotify.com/album/7M4tIblTBvkcC9JdAUThqf) | 8:45 | 2021-11-30 | 2022-01-31 |
 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 | 2021-11-30 |  |
 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 | 2021-11-30 |  |

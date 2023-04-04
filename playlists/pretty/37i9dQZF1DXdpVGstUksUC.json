@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 494082,
+  "num_followers": 494300,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUwMTg1OCwwMDAwMDAwMDE4MTZjNWIzZDE0NWEzNmMwN2Y3MWQxYjI2YzE4YmVl",
+  "snapshot_id": "MTY3OTUwMTg1OCwwMDAwMDAwMGU1OWYwYWY5YjQ1MDA5MDE0NWYyMGU3MmNiZGJkZGNk",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "The Big Black",
         "url": "https://open.spotify.com/album/4zfCuQTmfsBNxYL0GUhSg0"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6jhYtTdUeFGX2X629AMd4r"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "From Beale Street to Oblivion",
         "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
+      "added_at": "2023-04-04 01:00:51",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Legend",
@@ -295,22 +311,6 @@
       "duration_ms": 317600,
       "name": "An Alternative to Freedom",
       "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
-    },
-    {
-      "added_at": "2023-04-03 01:03:26",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
@@ -375,6 +375,22 @@
       "duration_ms": 424000,
       "name": "Bury Me in Smoke",
       "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Mars Red Sky",
+        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+      },
+      "artists": [
+        {
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+        }
+      ],
+      "duration_ms": 329626,
+      "name": "Strong Reflection",
+      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -409,23 +425,7 @@
       "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Mars Red Sky",
-        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
-      },
-      "artists": [
-        {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
-        }
-      ],
-      "duration_ms": 329626,
-      "name": "Strong Reflection",
-      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
-    },
-    {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "Gravity X",
         "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "Stoner Witch",
         "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Godzilla's / Eatin' Dust",
-        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Eatin' Dust",
-      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Agents Of Ahriman",
         "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 185440,
       "name": "Stray Bullit Woman",
       "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Godzilla's / Eatin' Dust",
+        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Eatin' Dust",
+      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Dead Roots Stirring",
         "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
       },
@@ -727,6 +711,38 @@
       "duration_ms": 580237,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Our Mother Electricity",
+        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 352073,
+      "name": "Elk.Blood.Heart",
+      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Our Mother Electricity",
-        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 352073,
-      "name": "Elk.Blood.Heart",
-      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Old Growth",
         "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
       },
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
     },
     {
-      "added_at": "2023-04-03 01:03:26",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "The Devil and the Almighty Blues",
-        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
-      },
-      "artists": [
-        {
-          "name": "The Devil and the Almighty Blues",
-          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
-        }
-      ],
-      "duration_ms": 387668,
-      "name": "Tired Old Dog",
-      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 384866,
       "name": "Electric Machine",
       "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "The Devil and the Almighty Blues",
+        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
+      },
+      "artists": [
+        {
+          "name": "The Devil and the Almighty Blues",
+          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
+        }
+      ],
+      "duration_ms": 387668,
+      "name": "Tired Old Dog",
+      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sun",
+          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Desert God",
+      "url": "https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Tales of the Wicked West",
         "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 222169,
       "name": "Jim's Whiskers",
       "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Sun",
-          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Desert God",
-      "url": "https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "SXSPLXN",
-        "url": "https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM"
-      },
-      "artists": [
-        {
-          "name": "Nicola Wincenc",
-          "url": "https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI"
-        }
-      ],
-      "duration_ms": 187199,
-      "name": "SXSPLXN",
-      "url": "https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 237424,
       "name": "There is Nothing New Under the Sun",
       "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "SXSPLXN",
+        "url": "https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM"
+      },
+      "artists": [
+        {
+          "name": "Nicola Wincenc",
+          "url": "https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI"
+        }
+      ],
+      "duration_ms": 187199,
+      "name": "SXSPLXN",
+      "url": "https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1593,20 +1593,20 @@
       "url": "https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-04-04 01:00:51",
       "album": {
-        "name": "In Her Garden",
-        "url": "https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G"
+        "name": "Dos E.P.'s",
+        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
       },
       "artists": [
         {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
         }
       ],
-      "duration_ms": 408373,
-      "name": "Black Lilly",
-      "url": "https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G"
+      "duration_ms": 328960,
+      "name": "Smokin' Woman",
+      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
     }
   ],
   "unique_name": "Stoner Rock",

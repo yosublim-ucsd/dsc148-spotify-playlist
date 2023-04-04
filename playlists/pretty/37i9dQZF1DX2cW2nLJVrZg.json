@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 270100,
+  "num_followers": 270077,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY3NjM2MSwwMDAwMDAwMDk2YWNlZTg4ZmEwMTYxODlkZmFjYWEyNWVlODMzMjdl",
+  "snapshot_id": "MTY3ODY3NjM2MSwwMDAwMDAwMDUyZGZkYzRiNDMwOTE3NjgxYTMwYzIxZTEyMDZjNmZl",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Songs and Story: Pocahontas",
-        "url": "https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj"
-      },
-      "artists": [
-        {
-          "name": "Judy Kuhn",
-          "url": "https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Colors of the Wind - From \"Pocahontas\"",
-      "url": "https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 228000,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Songs and Story: Pocahontas",
+        "url": "https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj"
+      },
+      "artists": [
+        {
+          "name": "Judy Kuhn",
+          "url": "https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Colors of the Wind - From \"Pocahontas\"",
+      "url": "https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "The Lion King",
         "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 225266,
       "name": "Under the Stars - From \"The Lion King\"/Score",
       "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
       "added_at": "2023-03-13 02:59:21",

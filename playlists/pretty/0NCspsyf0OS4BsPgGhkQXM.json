@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2041753,
+  "num_followers": 2041892,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTMyMzgsNTE2MDEyNjM3ZDM0YzAzYjI0NTllYTA0NzE1MTMzMjRlZDliMDFkMQ==",
+  "snapshot_id": "MTMyNDIsNTNkZjY0YzY0MDU5M2Y2MWM5NDMwODQwNzQ2N2FjNTExZGQ1YzgzZQ==",
   "tracks": [
     {
       "added_at": "2023-03-31 18:18:03",
@@ -335,46 +335,6 @@
     {
       "added_at": "2023-03-31 18:18:03",
       "album": {
-        "name": "Stay The Night",
-        "url": "https://open.spotify.com/album/1eMdAJDIE94nXFxI56HkFZ"
-      },
-      "artists": [
-        {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "Dyson",
-          "url": "https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Stay The Night",
-      "url": "https://open.spotify.com/track/45ZGq5V2xy1CV8uVkvxt8t"
-    },
-    {
-      "added_at": "2023-03-31 18:18:03",
-      "album": {
-        "name": "I'll Be Your Home",
-        "url": "https://open.spotify.com/album/3YJ6J8dmeDXXSMKpNl59JL"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "I'll Be Your Home",
-      "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
-    },
-    {
-      "added_at": "2023-03-31 18:18:03",
-      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A"
       },
@@ -563,6 +523,46 @@
       "duration_ms": 195706,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
+    },
+    {
+      "added_at": "2023-03-31 18:18:03",
+      "album": {
+        "name": "Stay The Night",
+        "url": "https://open.spotify.com/album/1eMdAJDIE94nXFxI56HkFZ"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Dyson",
+          "url": "https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Stay The Night",
+      "url": "https://open.spotify.com/track/45ZGq5V2xy1CV8uVkvxt8t"
+    },
+    {
+      "added_at": "2023-03-31 18:18:03",
+      "album": {
+        "name": "I'll Be Your Home",
+        "url": "https://open.spotify.com/album/3YJ6J8dmeDXXSMKpNl59JL"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "I'll Be Your Home",
+      "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
     },
     {
       "added_at": "2023-03-31 18:18:03",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-03-31 18:18:03",
       "album": {
+        "name": "Tolls",
+        "url": "https://open.spotify.com/album/4t1DUWa5cMmf8JW0VsXxRZ"
+      },
+      "artists": [
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Tolls",
+      "url": "https://open.spotify.com/track/52SufmRBQp2jQtNIh9Eqze"
+    },
+    {
+      "added_at": "2023-03-31 18:18:03",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/443j0dvN3p665BQD9OOQnR"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 155200,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/40n6KTKKkqbQcJg51YfnGj"
-    },
-    {
-      "added_at": "2023-03-31 18:18:03",
-      "album": {
-        "name": "Tolls",
-        "url": "https://open.spotify.com/album/4t1DUWa5cMmf8JW0VsXxRZ"
-      },
-      "artists": [
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Tolls",
-      "url": "https://open.spotify.com/track/52SufmRBQp2jQtNIh9Eqze"
     },
     {
       "added_at": "2023-03-31 18:18:03",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2023-03-31 18:18:03",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5hXuLtstJptYmLodghFa8V"
-    },
-    {
-      "added_at": "2023-03-31 18:18:03",
-      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 177441,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B"
+    },
+    {
+      "added_at": "2023-03-31 18:18:03",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5hXuLtstJptYmLodghFa8V"
     },
     {
       "added_at": "2023-03-31 18:18:03",

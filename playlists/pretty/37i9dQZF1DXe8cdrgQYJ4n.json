@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11944,
+  "num_followers": 11966,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAwNjY2NiwwMDAwMDAwMDJkZjAwZjJjMGZmOTZlZWNlYzI4NmE2ZDAxNzY0MGE4",
+  "snapshot_id": "MTY4MDAwNjY2NiwwMDAwMDAwMDRjMDIyOWEwYzJlNjdlNWVlMjE4YjI4NzYxY2M3NTA2",
   "tracks": [
     {
       "added_at": "2023-03-28 12:31:06",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2023-03-28 12:31:06",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 203351,
+      "name": "Burning Up (Fire)",
+      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "The Most Beautiful Moment in Life: Young Forever",
-        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 203351,
-      "name": "Burning Up (Fire)",
-      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Pretty Savage",
-      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
         "name": "A Class",
         "url": "https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X"
       },
@@ -351,54 +335,6 @@
       "duration_ms": 217560,
       "name": "Bad Girl Good Girl",
       "url": "https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 185796,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
-        "name": "What Type of X",
-        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "What Type of X",
-      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
-        "name": "The Most Beautiful Moment in Life Pt.1",
-        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Dope",
-      "url": "https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq"
     },
     {
       "added_at": "2023-03-28 12:31:06",
@@ -419,18 +355,34 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+        "name": "What Type of X",
+        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
       },
       "artists": [
         {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
         }
       ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+      "duration_ms": 198173,
+      "name": "What Type of X",
+      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Pretty Savage",
+      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
     },
     {
       "added_at": "2023-03-28 12:31:06",
@@ -471,6 +423,54 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
+        "name": "The Most Beautiful Moment in Life Pt.1",
+        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Dope",
+      "url": "https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 185796,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
         "name": "Queendom - The 6th Mini Album",
         "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 235779,
-      "name": "Go Go",
-      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
         "name": "To Anyone",
         "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 206240,
       "name": "WANNA BE MYSELF",
       "url": "https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 235779,
+      "name": "Go Go",
+      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
     },
     {
       "added_at": "2023-03-28 12:31:06",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
         "name": "MONOCHROME",
         "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 207466,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2023-03-28 12:31:06",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Drink it, Girls!",
-      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
+        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
       },
       "artists": [
         {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Cheers!",
-      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
+      "duration_ms": 176000,
+      "name": "Drink it, Girls!",
+      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
     },
     {
       "added_at": "2023-03-28 12:31:06",
@@ -783,6 +767,22 @@
       "duration_ms": 199040,
       "name": "SOLO DAY",
       "url": "https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Cheers!",
+      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
     },
     {
       "added_at": "2023-03-28 12:31:06",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "Do Not Want To Do It",
-        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 232318,
-      "name": "Do Not Want To Do It",
-      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184853,
       "name": "Break",
       "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "Do Not Want To Do It",
+        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 232318,
+      "name": "Do Not Want To Do It",
+      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
     },
     {
       "added_at": "2023-03-28 12:31:06",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-03-28 12:31:06",
       "album": {
-        "name": "Fashion Hoarder",
-        "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "ZENE THE ZILLA",
-          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
-        }
-      ],
-      "duration_ms": 187061,
-      "name": "Fashion Hoarder",
-      "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
-    },
-    {
-      "added_at": "2023-03-28 12:31:06",
-      "album": {
         "name": "lazygirl",
         "url": "https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 193200,
       "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
       "url": "https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI"
+    },
+    {
+      "added_at": "2023-03-28 12:31:06",
+      "album": {
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "Selfish (Feat. Woo)",
+      "url": "https://open.spotify.com/track/6De1dLF23zuUzf5jbh2vI1"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Slum Village",
-  "num_followers": 369603,
+  "num_followers": 369974,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDRjODY3ZGFmNDgwZGVkNGMyYzE1ZGVlOTZlNmJkMjJh",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDkyZWI0ODQ2YzlhNDVjNmE5OTAzMTA2MDU0MTI3Yzk0",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -135,22 +135,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "DJ Cucumber Slice",
-          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
         }
       ],
-      "duration_ms": 258613,
-      "name": "Rhymes Like Dimes",
-      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
+      "duration_ms": 177666,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -191,6 +187,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "DJ Cucumber Slice",
+          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+        }
+      ],
+      "duration_ms": 258613,
+      "name": "Rhymes Like Dimes",
+      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Kollage",
         "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -503,6 +503,54 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Rock City",
+        "url": "https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT"
+      },
+      "artists": [
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Boom - Explicit Album Version",
+      "url": "https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Workinonit",
+      "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "The Torture Papers",
         "url": "https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs"
       },
@@ -559,22 +607,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Workinonit",
-      "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
         "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
@@ -587,38 +619,6 @@
       "duration_ms": 346666,
       "name": "Brown Skin Lady",
       "url": "https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Rock City",
-        "url": "https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT"
-      },
-      "artists": [
-        {
-          "name": "Royce Da 5'9\"",
-          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Boom - Explicit Album Version",
-      "url": "https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
-      },
-      "artists": [
-        {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Whenimondamic",
-      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Hi-Teknology",
         "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 274826,
       "name": "The Sun God",
       "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Disposable Arts",
-        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Apocalypse",
-          "url": "https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot"
-        }
-      ],
-      "duration_ms": 307133,
-      "name": "Take a Walk",
-      "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -835,22 +815,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Jean Grae: The Evil Jeanius",
-        "url": "https://open.spotify.com/album/0BqCQwGFcPXkdNqajk18yS"
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
       "artists": [
         {
-          "name": "Jean Grae",
-          "url": "https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
-          "name": "Chen Lo",
-          "url": "https://open.spotify.com/artist/2J4NQiYiPyeo4sTDTeORP8"
+          "name": "Apocalypse",
+          "url": "https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot"
         }
       ],
-      "duration_ms": 246293,
-      "name": "Threats",
-      "url": "https://open.spotify.com/track/5R8J6WCnV1E2lDJgVoaA4P"
+      "duration_ms": 307133,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -867,6 +847,26 @@
       "duration_ms": 322960,
       "name": "Never Fallin'",
       "url": "https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Jean Grae: The Evil Jeanius",
+        "url": "https://open.spotify.com/album/0BqCQwGFcPXkdNqajk18yS"
+      },
+      "artists": [
+        {
+          "name": "Jean Grae",
+          "url": "https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6"
+        },
+        {
+          "name": "Chen Lo",
+          "url": "https://open.spotify.com/artist/2J4NQiYiPyeo4sTDTeORP8"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Threats",
+      "url": "https://open.spotify.com/track/5R8J6WCnV1E2lDJgVoaA4P"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Re:Release",
-        "url": "https://open.spotify.com/album/250mnkB8GWZaBKVTC1yLP0"
-      },
-      "artists": [
-        {
-          "name": "Juggaknots",
-          "url": "https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Clear Blue Skies",
-      "url": "https://open.spotify.com/track/7f8dNc5pNiwCZIX6A7uYKB"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 146279,
       "name": "Players",
       "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Re:Release",
+        "url": "https://open.spotify.com/album/250mnkB8GWZaBKVTC1yLP0"
+      },
+      "artists": [
+        {
+          "name": "Juggaknots",
+          "url": "https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Clear Blue Skies",
+      "url": "https://open.spotify.com/track/7f8dNc5pNiwCZIX6A7uYKB"
     },
     {
       "added_at": "2023-03-31 04:00:00",

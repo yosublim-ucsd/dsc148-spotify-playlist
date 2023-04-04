@@ -1,37 +1,13 @@
 {
   "description": "Up and down I-95. Cover: A Boogie Wit Da Hoodie",
-  "num_followers": 440415,
+  "num_followers": 440482,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDc3NTIzODNhMmMxOGU4NjJlMjJhZTNiMDY3ZTY2ZGYw",
+  "snapshot_id": "MTY4MDU0ODU2OCwwMDAwMDAwMDIwNmQxMjIwNTJkM2FkMWZhNDIyOThjODFkNjFmZTI1",
   "tracks": [
-    {
-      "added_at": "2023-02-18 02:09:58",
-      "album": {
-        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
-        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "ARIZONATEARS",
-          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
-        }
-      ],
-      "duration_ms": 163139,
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
@@ -71,6 +47,50 @@
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "added_at": "2023-03-18 03:02:07",
+      "album": {
+        "name": "PMR (feat. A Boogie wit da Hoodie)",
+        "url": "https://open.spotify.com/album/64QGA3ueY3dG8RZvmolsgI"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 136176,
+      "name": "PMR (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
+    },
+    {
+      "added_at": "2023-02-18 02:09:58",
+      "album": {
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
+        }
+      ],
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -113,6 +133,26 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Upnow (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 162386,
+      "name": "Upnow (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Secrets (feat. Mariah the Scientist)",
@@ -153,26 +193,6 @@
       "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
     },
     {
-      "added_at": "2023-03-18 03:02:07",
-      "album": {
-        "name": "PMR (feat. A Boogie wit da Hoodie)",
-        "url": "https://open.spotify.com/album/64QGA3ueY3dG8RZvmolsgI"
-      },
-      "artists": [
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 136176,
-      "name": "PMR (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "I'M THAT BITCH",
@@ -191,6 +211,22 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "added_at": "2023-01-06 18:35:32",
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -213,22 +249,6 @@
       "url": "https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l"
     },
     {
-      "added_at": "2023-01-06 18:35:32",
-      "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Adventure Time",
@@ -247,22 +267,6 @@
       "duration_ms": 169695,
       "name": "Adventure Time",
       "url": "https://open.spotify.com/track/4QHXOP6YFZ4934kO1ATaEk"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Nu Nu",
-        "url": "https://open.spotify.com/album/4u45cvxz1r2X5uDbEm6aVJ"
-      },
-      "artists": [
-        {
-          "name": "Cuban Doll",
-          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
-        }
-      ],
-      "duration_ms": 151343,
-      "name": "Nu Nu",
-      "url": "https://open.spotify.com/track/6UIAPd2u3Pn81z0U5SebIO"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -381,26 +385,6 @@
       "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Upnow (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 162386,
-      "name": "Upnow (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Devil's Work 2",
@@ -415,6 +399,22 @@
       "duration_ms": 301445,
       "name": "Devil's Work 2",
       "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Nu Nu",
+        "url": "https://open.spotify.com/album/4u45cvxz1r2X5uDbEm6aVJ"
+      },
+      "artists": [
+        {
+          "name": "Cuban Doll",
+          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+        }
+      ],
+      "duration_ms": 151343,
+      "name": "Nu Nu",
+      "url": "https://open.spotify.com/track/6UIAPd2u3Pn81z0U5SebIO"
     },
     {
       "added_at": "2023-03-10 05:00:00",

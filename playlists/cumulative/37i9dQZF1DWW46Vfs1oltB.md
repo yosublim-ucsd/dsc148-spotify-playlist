@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Keith Ape, PEEJAY\)\)
 
-854 songs - 1 day 23 hr 26 min
+856 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Mona Lisa](https://open.spotify.com/track/0uzeM8HkrcG9FngqI2JGjk) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 2:32 | 2023-02-23 | 2023-03-28 |
 | [MONEY](https://open.spotify.com/track/7ifLrhXBoQ5MDFTRpIYkfA) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 2:48 | 2021-12-18 | 2022-07-07 |
 | [MONEY GAME](https://open.spotify.com/track/3I0U0qLpokurgArQly7sk3) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [MONEY GAME](https://open.spotify.com/album/0SLApxKJwQWBvXdrtkBS4p) | 3:50 | 2021-12-21 | 2022-06-04 |
+| [Money Only Shows Hustle \(M.O.S.H\) \(Feat\. The Quiett, GongGongGoo009\)](https://open.spotify.com/track/1wnKbX1GeF7bZREbxYfuQc) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY) | [TO GO](https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm) | 2:47 | 2023-04-03 |  |
 | [Money Warfare \(Feat\. Royal 44\)](https://open.spotify.com/track/4bF12yPC7eLWokTFYmhehx) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Gangnam EP](https://open.spotify.com/album/37UlgFjxwn0Q67WCJOqnvF) | 2:46 | 2022-08-15 | 2022-11-02 |
 | [Monster \(feat.노윤하\)](https://open.spotify.com/track/0MsOPluJ1VgCND8FgQEFBx) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [BLACK STREET](https://open.spotify.com/album/14Rb4SqwyoqIIDagxB8Iqm) | 2:36 | 2023-01-11 | 2023-03-07 |
 | [MORAESIGYE](https://open.spotify.com/track/63dt1BEeb05e452S14uTRB) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:48 | 2021-12-18 | 2022-07-08 |
@@ -761,6 +762,7 @@
 | [Time Will Tell](https://open.spotify.com/track/3kCpImnMl45TgFHAsi5e5a) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0) | [Time Will Tell](https://open.spotify.com/album/7xAFMrJ5IA2Ay5dH0zT0qa) | 3:53 | 2021-12-21 | 2022-07-05 |
 | [Timing \(Feat\. Yumdda, BIG Naughty\) \(Prod\. TOIL\)](https://open.spotify.com/track/1qHYc2IqPbfu3tjm2qYpcq) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 10 Final](https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio) | 4:30 | 2021-12-21 | 2022-06-16 |
 | [TIPSY](https://open.spotify.com/track/6DB2B0oxQTHdV6Q5j7uxRV) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:20 | 2022-09-16 | 2023-01-04 |
+| [TO GO \(Feat\. Jay Park, DJ Soulscape\)](https://open.spotify.com/track/2SsroOwWC3CYSpEKOsQzvh) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Soulscape](https://open.spotify.com/artist/2FuS8zARv5xaE6h046OxHN) | [TO GO](https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm) | 3:00 | 2023-04-03 |  |
 | [To J](https://open.spotify.com/track/3Fz1F0oKNHq1FCFuqDG3sT) | [Skinny Chase](https://open.spotify.com/artist/2Znqw7iH4StHRSCtU1uAKi) | [To J](https://open.spotify.com/album/3yTN3tpiBz1S0XXG4HGMEa) | 3:19 | 2022-03-29 | 2022-06-08 |
 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 | 2022-01-03 | 2022-07-08 |
 | [To the Moon \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/6MVhgdbH0AKZlEef2dgJ92) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [To the Moon \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/album/6hjS0olvdEdxAGTemnblls) | 3:16 | 2021-12-21 | 2022-06-28 |

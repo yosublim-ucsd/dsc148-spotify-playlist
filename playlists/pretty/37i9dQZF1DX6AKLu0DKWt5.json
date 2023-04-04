@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDAzNjQ3YWNmNWQ2Njk2NTRmYjZlZjYzZTgxZWMwMWM1",
+  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDJkMjcwNmE4MDE3ZTliNTVjN2Q3NjAzZjI4MTQyNjE0",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "Only Murders in the Building: Season 2 (Original Score)",
+        "url": "https://open.spotify.com/album/4mSME5Jj4ANMDdgZ6ZJWYH"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Khosla",
+          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
+        }
+      ],
+      "duration_ms": 76244,
+      "name": "We're Back (Persons of Interest)",
+      "url": "https://open.spotify.com/track/7rhF7tvuOdveyQ74ophxml"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "Blonde (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 225893,
       "name": "Bright Horses (Instrumental)",
       "url": "https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Only Murders in the Building: Season 2 (Original Score)",
-        "url": "https://open.spotify.com/album/4mSME5Jj4ANMDdgZ6ZJWYH"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha Khosla",
-          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
-        }
-      ],
-      "duration_ms": 76244,
-      "name": "We're Back (Persons of Interest)",
-      "url": "https://open.spotify.com/track/7rhF7tvuOdveyQ74ophxml"
     },
     {
       "added_at": "2022-12-21 17:45:34",

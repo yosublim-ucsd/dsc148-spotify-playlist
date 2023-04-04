@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 309329,
       "name": "A Thousand Hallelujahs - Live",
       "url": "https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl"
@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Before The Breakthrough",
+        "url": "https://open.spotify.com/album/3Tg4oCrveWBzTLwrj9Bbxv"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274709,
+      "name": "Before The Breakthrough",
+      "url": "https://open.spotify.com/track/7o8zy970EfByTCYnG4zkR5"
+    },
+    {
+      "album": {
         "name": "Before The Breakthrough (Instrumental)",
         "url": "https://open.spotify.com/album/0sMKziIZ1qV1anQ8sMUTuw"
       },
@@ -476,7 +498,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 274903,
       "name": "Before The Breakthrough - Instrumental",
       "url": "https://open.spotify.com/track/60W5WYskuz6NKyu3rromYN"
@@ -1268,6 +1290,28 @@
       "duration_ms": 304000,
       "name": "For My Good - Live",
       "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
+    },
+    {
+      "album": {
+        "name": "God Is Good! (Live)",
+        "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590208,
+      "name": "Forever & Amen (with Kari Jobe) - Live",
+      "url": "https://open.spotify.com/track/7oLo0igjbbCuuZhoj8agMs"
     },
     {
       "album": {
@@ -2828,7 +2872,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 424777,
       "name": "Lay It All Down",
       "url": "https://open.spotify.com/track/0d5Qst55vayJAUCs6Sx02i"

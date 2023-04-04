@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 7047,
+  "num_followers": 7084,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3ODEyNSwwMDAwMDAwMGViOWEzMmNmYzI3N2JkNDQyYjFlNDBjY2FiMzcwOTll",
+  "snapshot_id": "MTY4MDI3ODEyNSwwMDAwMDAwMDc5Y2YxNWUyM2U4NWRjZDljNWZhNzYwMDM5OTgzNWZi",
   "tracks": [
     {
       "added_at": "2023-03-31 15:55:25",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
-        "name": "Hush (Still Woozy Remix)",
-        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Hush - Still Woozy Remix",
-      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
-    },
-    {
-      "added_at": "2023-03-31 15:55:25",
-      "album": {
         "name": "Rumbo",
         "url": "https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D"
       },
@@ -135,6 +115,22 @@
       "duration_ms": 176129,
       "name": "Nuestros Horarios",
       "url": "https://open.spotify.com/track/69G2Aj5COfbjvfiMHt2Yfv"
+    },
+    {
+      "added_at": "2023-03-31 15:55:25",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "Te Miro Para Ver Si Me Ves Mirarte",
+      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -159,18 +155,22 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
+        "name": "Hush (Still Woozy Remix)",
+        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
       "artists": [
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 275520,
-      "name": "Te Miro Para Ver Si Me Ves Mirarte",
-      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
+      "duration_ms": 182346,
+      "name": "Hush - Still Woozy Remix",
+      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
+        "name": "\u00d3yeme Bien",
+        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "\u00d3yeme Bien",
+      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
+    },
+    {
+      "added_at": "2023-03-31 15:55:25",
+      "album": {
         "name": "Chango",
         "url": "https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 249250,
       "name": "Parar el Tiempo",
       "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
-    },
-    {
-      "added_at": "2023-03-31 15:55:25",
-      "album": {
-        "name": "\u00d3yeme Bien",
-        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "\u00d3yeme Bien",
-      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
-        "name": "CAMALOVE",
-        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
       "artists": [
         {
-          "name": "Cocofunka",
-          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 254492,
-      "name": "Asturi\u00f3n",
-      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
+      "duration_ms": 211281,
+      "name": "Gobi\u00e9rname",
+      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+        "name": "CAMALOVE",
+        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Cocofunka",
+          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
         }
       ],
-      "duration_ms": 211281,
-      "name": "Gobi\u00e9rname",
-      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
+      "duration_ms": 254492,
+      "name": "Asturi\u00f3n",
+      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
-        "name": "Big Night",
-        "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
       },
       "artists": [
         {
-          "name": "Siddha-Funk",
-          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Big Night",
-      "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
-    },
-    {
-      "added_at": "2023-03-31 15:55:25",
-      "album": {
         "name": "Youth Attraction",
         "url": "https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC"
       },
@@ -787,6 +771,38 @@
       "duration_ms": 333500,
       "name": "Midnight Caller",
       "url": "https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4"
+    },
+    {
+      "added_at": "2023-03-31 15:55:25",
+      "album": {
+        "name": "Big Night",
+        "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
+      },
+      "artists": [
+        {
+          "name": "Siddha-Funk",
+          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Big Night",
+      "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
+    },
+    {
+      "added_at": "2023-03-31 15:55:25",
+      "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -827,18 +843,18 @@
     {
       "added_at": "2023-03-31 15:55:25",
       "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
       },
       "artists": [
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 225714,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     },
     {
       "added_at": "2023-03-31 15:55:25",
@@ -855,38 +871,6 @@
       "duration_ms": 266447,
       "name": "Zoo Lion",
       "url": "https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO"
-    },
-    {
-      "added_at": "2023-03-31 15:55:25",
-      "album": {
-        "name": "La Pel\u00edcula",
-        "url": "https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00edculas Geniales",
-          "url": "https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f"
-        },
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        },
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        },
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 199334,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0"
     }
   ],
   "unique_name": "feels like latin funk",

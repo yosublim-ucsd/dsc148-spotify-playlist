@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-310 songs - 18 hr 40 min
+311 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anyone Around](https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Anyone Around](https://open.spotify.com/album/7wTbPwcxA5j3wFgu05JFGQ) | 2:49 | 2021-12-07 | 2022-07-29 |
 | [Apocalypse](https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:01 | 2022-06-20 |  |
 | [Apocalypse](https://open.spotify.com/track/66y1fdK0PkqdhD8yOleDBD) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/47WMGg3UQBQAGn8cVnPdiW) | 1:01 | 2021-12-07 | 2022-10-13 |
+| [Aquaself](https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:16 | 2022-06-20 |  |
 | [Aquaself](https://open.spotify.com/track/48ZxMdmUA9CK7i31wn7bbx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Stars](https://open.spotify.com/album/6tZqo8dAjOS8Nb0XWSqMDJ) | 6:16 | 2021-12-07 | 2022-07-24 |
 | [argentin](https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [argentin](https://open.spotify.com/album/6K99lHPJIPlR62rMl0RvLN) | 2:53 | 2021-12-07 | 2022-05-07 |
 | [Ashamed](https://open.spotify.com/track/043daTv9IaP4mfzgSCHCet) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [Ashamed](https://open.spotify.com/album/6HjR2KF3GytEzr72yzUXyk) | 3:31 | 2022-04-11 | 2022-07-02 |
@@ -91,7 +92,7 @@
 | [Early Bird](https://open.spotify.com/track/1pVyw5IJn7Mli2YEYZme7c) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT), [Florieme](https://open.spotify.com/artist/2bz21RBGWayWtmRi5Pm0rE) | [Early Bird](https://open.spotify.com/album/3TnWQAeSdO4EmhAEw004qd) | 3:32 | 2022-04-11 | 2022-04-17 |
 | [Earth & Rain \- Radio Edit](https://open.spotify.com/track/2do2MZUahp36k3O4dcJ4KM) | [Saul](https://open.spotify.com/artist/2MNs5thhanEPaL3qUHJP0V), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Earth & Rain \(Radio Edit\)](https://open.spotify.com/album/6vX5RgPpNzJUQBDA20cdLu) | 4:00 | 2021-12-07 | 2022-05-27 |
 | [EKG \- Club Mix](https://open.spotify.com/track/3R6FntVNKj4DNywzoXb8uv) | [fleet.dreams](https://open.spotify.com/artist/10Yk6Qr3BjC5A3tPXuRyrL), [àj magic](https://open.spotify.com/artist/5uV384H0jprjQ4aBAD8nmI) | [EKG \(Club Mix\)](https://open.spotify.com/album/0kx0Sjf9B8Elswa89JcsuD) | 5:06 | 2021-12-07 | 2022-07-29 |
-| [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2022-06-20 |  |
+| [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2022-06-20 | 2023-04-04 |
 | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/track/0dK65MHzlEfrImScmaNNvl) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/album/2n1a8R8GbWeUixEU1DuKR1) | 4:10 | 2022-04-11 | 2022-04-20 |
 | [Everything Is Everything](https://open.spotify.com/track/7ijDV8QPQEIDPmjxZ3xtDV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Everything Is Everything](https://open.spotify.com/album/2Q4XtuUFgl9chQvddYqVxv) | 3:20 | 2022-05-06 |  |
 | [Eye Mo K](https://open.spotify.com/track/4LBrt8RUMpGhPXkLqvsh4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:42 | 2021-12-07 | 2022-07-29 |

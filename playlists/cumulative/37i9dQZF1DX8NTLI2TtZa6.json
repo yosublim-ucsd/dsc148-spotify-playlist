@@ -2555,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/7jrGdtwYraqkb7Psf3h4Jo"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259374,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3hWbgzfP4jE9rd6Tathuig"
+    },
+    {
+      "album": {
         "name": "irreplaceable (solo piano)",
         "url": "https://open.spotify.com/album/5kndQiB3SZc5NuT32Ampg4"
       },
@@ -2912,6 +2930,24 @@
       "duration_ms": 158432,
       "name": "Lenore",
       "url": "https://open.spotify.com/track/2DXTpqaCHn4PmcyLyWTSXY"
+    },
+    {
+      "album": {
+        "name": "Les mots",
+        "url": "https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117549,
+      "name": "Les mots",
+      "url": "https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv"
     },
     {
       "album": {
@@ -4166,7 +4202,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 150000,
       "name": "Ouroboros",
       "url": "https://open.spotify.com/track/4qNuc1K8MD4s0GLSHAu03s"
@@ -4242,6 +4278,24 @@
       "duration_ms": 112428,
       "name": "Partenza",
       "url": "https://open.spotify.com/track/2QnEeS0SxgJR9RrMGB2dnm"
+    },
+    {
+      "album": {
+        "name": "Patricia",
+        "url": "https://open.spotify.com/album/5KFhOJ8UUxHrF5eVtGZaLN"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Poncelet",
+          "url": "https://open.spotify.com/artist/1tchnux34dr1K8VevCDxPn"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176945,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/1lDjAQOvZqzZhGND13qcev"
     },
     {
       "album": {
@@ -4602,6 +4656,24 @@
       "duration_ms": 116000,
       "name": "Rannoch Moor",
       "url": "https://open.spotify.com/track/5M9WoeUS6hg8b1YRWMFx0M"
+    },
+    {
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT"
+      },
+      "artists": [
+        {
+          "name": "Wataru Sato",
+          "url": "https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174742,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR"
     },
     {
       "album": {
@@ -6278,6 +6350,24 @@
       "duration_ms": 188624,
       "name": "Wheels in Motion",
       "url": "https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO"
+    },
+    {
+      "album": {
+        "name": "When It Rains",
+        "url": "https://open.spotify.com/album/4uWWYNXiMcwiHIhUakiZT8"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139261,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/6nXvoksCAZqI8nEBTSvpfx"
     },
     {
       "album": {

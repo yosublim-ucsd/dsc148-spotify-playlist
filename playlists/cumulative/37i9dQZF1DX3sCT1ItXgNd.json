@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Al menos ahora",
+        "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183342,
+      "name": "Al menos ahora",
+      "url": "https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D"
+    },
+    {
+      "album": {
         "name": "alto ah\u00ed",
         "url": "https://open.spotify.com/album/4aWWKkZEUd2zqGYHX6lYYE"
       },
@@ -100,7 +118,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 166388,
       "name": "alto ah\u00ed",
       "url": "https://open.spotify.com/track/1kAwAe6ubWffQwjucRnqy0"
@@ -162,7 +180,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
@@ -286,10 +304,58 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 121968,
       "name": "CABI",
       "url": "https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK"
+    },
+    {
+      "album": {
+        "name": "Caricias en tu espalda (feat. MARLENA)",
+        "url": "https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184867,
+      "name": "Caricias en tu espalda (feat. MARLENA)",
+      "url": "https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh"
+    },
+    {
+      "album": {
+        "name": "Chica Pretty",
+        "url": "https://open.spotify.com/album/5TZgUYZIUDYi6mGFipICr0"
+      },
+      "artists": [
+        {
+          "name": "Elena Torres",
+          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
+        },
+        {
+          "name": "MPV",
+          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182275,
+      "name": "Chica Pretty",
+      "url": "https://open.spotify.com/track/7Gz1murbRFFspT9zauscvz"
     },
     {
       "album": {
@@ -669,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Entre Un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/1XcZTqDAGNwle5lfpIaiqg"
+      },
+      "artists": [
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199490,
+      "name": "Entre Un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/2FtObgxe46yRTU44PopBAc"
+    },
+    {
+      "album": {
         "name": "Espinita Clav\u00e1",
         "url": "https://open.spotify.com/album/6TNvmYm1VvIgk7VkKiyiUw"
       },
@@ -1018,7 +1102,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 179259,
       "name": "ll\u00e1mame dentro de 5 a\u00f1os",
       "url": "https://open.spotify.com/track/4iqKBpvChifJ6FeUF6OzQM"
@@ -1323,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Pared Y Espada",
+        "url": "https://open.spotify.com/album/1KSXm02g4woDdBbUbqFM8G"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177048,
+      "name": "Pared Y Espada",
+      "url": "https://open.spotify.com/track/5PbtLcDMOl5kTIc6LtMk9H"
+    },
+    {
+      "album": {
         "name": "PAS",
         "url": "https://open.spotify.com/album/5uQp7mNaf5hiVAfphFjjoc"
       },
@@ -1411,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
@@ -1470,6 +1590,24 @@
       "duration_ms": 163768,
       "name": "Qu\u00e9 bonita",
       "url": "https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU"
+    },
+    {
+      "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/5aEHyG7fZiR6u4BAjWISDx"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/2VhVJCuGErlw7JYpybITZR"
     },
     {
       "album": {
@@ -1608,7 +1746,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
@@ -1764,7 +1902,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 221776,
       "name": "Triste",
       "url": "https://open.spotify.com/track/6JpUHnddHwv9cJ6sFD0nzM"
@@ -1848,7 +1986,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 211534,
       "name": "Un Beso a Mi Crush",
       "url": "https://open.spotify.com/track/2VdPyembKc89MgImIVcQyl"

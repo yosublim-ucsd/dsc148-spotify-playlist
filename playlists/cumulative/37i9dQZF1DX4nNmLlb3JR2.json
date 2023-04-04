@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Antihero",
+        "url": "https://open.spotify.com/album/3bz82Jb3mGlYeHuTs87b2R"
+      },
+      "artists": [
+        {
+          "name": "Chalk Gang",
+          "url": "https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175986,
+      "name": "Antihero",
+      "url": "https://open.spotify.com/track/6foxdC9JnsAR2qCAYTVQij"
+    },
+    {
+      "album": {
         "name": "apologize",
         "url": "https://open.spotify.com/album/00vaTeWGH1I7WaDUy049Po"
       },
@@ -689,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Creepin",
+        "url": "https://open.spotify.com/album/0jZdGZMQud5jzPD3bxLlbj"
+      },
+      "artists": [
+        {
+          "name": "Bat Bilger",
+          "url": "https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190335,
+      "name": "Creepin",
+      "url": "https://open.spotify.com/track/33nYtG8rlanRyq3v9bcb6w"
+    },
+    {
+      "album": {
         "name": "LoFi Covers of 2020 by Golden Era - An Epic LoFi Edit Collection",
         "url": "https://open.spotify.com/album/6fmm45uHKdFF6wgeAyXa4d"
       },
@@ -744,6 +780,24 @@
       "duration_ms": 135724,
       "name": "DEAR APRIL",
       "url": "https://open.spotify.com/track/5R2ZqLZeKRzAEH1eehC4LM"
+    },
+    {
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/4a7N9UUXtAjasSIMiIMpwW"
+      },
+      "artists": [
+        {
+          "name": "Ingelwood Syndicate",
+          "url": "https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/1nLi6OAjTRfFRNYTrvpmPj"
     },
     {
       "album": {

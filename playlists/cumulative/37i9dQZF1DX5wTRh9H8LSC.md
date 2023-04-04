@@ -4,7 +4,7 @@
 
 > Listen Heroine's music 24 Hours.
 
-40 songs - 2 hr 6 min
+41 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-30 |  |
 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 | 2022-03-11 |  |
 | [LALALAY](https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [LALALAY](https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5) | 2:54 | 2022-03-11 |  |
+| [Lights Out](https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [\[BILLION MUSIC PROJECT VOL.1\]](https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii) | 3:21 | 2023-04-03 |  |
 | [Narcissism](https://open.spotify.com/track/4VVbHgWyMvvuvSo4h36xS9) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:52 | 2022-03-11 |  |
 | [Noir](https://open.spotify.com/track/1KCXYoPIpvafzaAGtiRjci) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Noir](https://open.spotify.com/album/1EBhkTQyICi50mKuybqDp9) | 3:29 | 2022-03-11 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-11 |  |

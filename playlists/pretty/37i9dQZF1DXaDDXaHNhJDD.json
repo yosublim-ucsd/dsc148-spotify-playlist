@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: Romancham",
-  "num_followers": 48874,
+  "num_followers": 49025,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDA5MTIyOSwwMDAwMDAwMGMwZTFjNjA4YTA1ZmM2N2E4YTIxZmZjYjZjYTM0YWQ3",
+  "snapshot_id": "MTY4MDQ5ODg2MywwMDAwMDAwMDI2MmVkMGUzOGNiZDRjMzVlODc4NDk0ZmY5Njc2YTk0",
   "tracks": [
     {
       "added_at": "2023-02-13 04:25:09",
@@ -163,6 +163,30 @@
       "duration_ms": 226000,
       "name": "Darshana - From \"Hridayam\"",
       "url": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2"
+    },
+    {
+      "added_at": "2023-04-03 05:09:57",
+      "album": {
+        "name": "Parudeesa (From \"Bheeshma Parvam\")",
+        "url": "https://open.spotify.com/album/3GyGzZ9smF8HkYLNtb2U0w"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        },
+        {
+          "name": "Sreenath Bhasi",
+          "url": "https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Parudeesa - From \"Bheeshma Parvam\"",
+      "url": "https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq"
     },
     {
       "added_at": "2023-02-02 06:22:04",
@@ -327,6 +351,22 @@
       "duration_ms": 232912,
       "name": "Kannilu Kannilu (From \"Ayisha\")",
       "url": "https://open.spotify.com/track/23mxqvgypgECg4KxnVqtNr"
+    },
+    {
+      "added_at": "2023-04-03 05:09:57",
+      "album": {
+        "name": "Ajagajantharam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q"
+      },
+      "artists": [
+        {
+          "name": "Praseetha Chalakudy",
+          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
+        }
+      ],
+      "duration_ms": 202863,
+      "name": "Ollulleru",
+      "url": "https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU"
     },
     {
       "added_at": "2022-07-13 06:43:44",
@@ -583,6 +623,22 @@
       "duration_ms": 157609,
       "name": "Kudukku",
       "url": "https://open.spotify.com/track/3QRSs8nzHXXvcQjdnx0CsJ"
+    },
+    {
+      "added_at": "2023-04-03 05:14:23",
+      "album": {
+        "name": "Kudukku 2025 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/296643D1NMPcpKaHE0ZhlQ"
+      },
+      "artists": [
+        {
+          "name": "Manikandan Ayyappa",
+          "url": "https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Theythaka",
+      "url": "https://open.spotify.com/track/1tqboHIxMtvjkX1wWkmeKE"
     },
     {
       "added_at": "2022-07-31 12:58:32",
@@ -871,6 +927,22 @@
       "duration_ms": 263082,
       "name": "Theerame",
       "url": "https://open.spotify.com/track/3UHB6erVvDNX0OaqX3ncO3"
+    },
+    {
+      "added_at": "2023-04-03 05:14:23",
+      "album": {
+        "name": "Kudukku 2025 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/296643D1NMPcpKaHE0ZhlQ"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 311586,
+      "name": "Maaran",
+      "url": "https://open.spotify.com/track/7Hh5AAL8M3CPhR8mBcpN2P"
     },
     {
       "added_at": "2022-05-17 06:14:03",

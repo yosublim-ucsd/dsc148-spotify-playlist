@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 113847,
+  "num_followers": 114012,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNDIxMCwwMDAwMDAwMGQxM2RiODY0NWNlNDZkMWNhNDk3MTRjYTcwZmM2NTM3",
+  "snapshot_id": "MTY3NjYzNDIxMCwwMDAwMDAwMGIzYjI2NzJkYjdmZWU4YjFkOWFmNGZhYmI5OTY2Y2Uy",
   "tracks": [
     {
       "added_at": "2023-02-17 11:43:30",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The End Is Where We Begin",
-        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
-      },
-      "artists": [
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        }
-      ],
-      "duration_ms": 222435,
-      "name": "Be Somebody",
-      "url": "https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Deathgrip",
         "url": "https://open.spotify.com/album/1MK5aZeXCgg0zXvwdRdcDW"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 254998,
       "name": "Deathgrip",
       "url": "https://open.spotify.com/track/3Ucq1gQdwgIuhytmI1CEyj"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO"
+      },
+      "artists": [
+        {
+          "name": "LEDGER",
+          "url": "https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO"
+        "name": "The End Is Where We Begin",
+        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
       },
       "artists": [
         {
-          "name": "LEDGER",
-          "url": "https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3"
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
         }
       ],
-      "duration_ms": 216013,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
+      "duration_ms": 222435,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -315,22 +315,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Finish Line (feat. Adam Gontier)",
-        "url": "https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0"
+        "name": "The Executioner",
+        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
         }
       ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
+      "duration_ms": 247124,
+      "name": "The Executioner",
+      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -347,22 +343,6 @@
       "duration_ms": 164815,
       "name": "On Becoming Willing",
       "url": "https://open.spotify.com/track/5buK9fmCLWolU2FGOuFfJv"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "The Executioner",
-        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "The Executioner",
-      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -415,18 +395,22 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Before There Was",
-        "url": "https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX"
+        "name": "Finish Line (feat. Adam Gontier)",
+        "url": "https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0"
       },
       "artists": [
         {
-          "name": "Bellarive",
-          "url": "https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -443,6 +427,22 @@
       "duration_ms": 293538,
       "name": "Promise to Live",
       "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Before There Was",
+        "url": "https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX"
+      },
+      "artists": [
+        {
+          "name": "Bellarive",
+          "url": "https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX"
+        }
+      ],
+      "duration_ms": 304813,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Dark Cold Night",
-        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 281117,
-      "name": "Dark Cold Night",
-      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 159780,
       "name": "Have A Little Faith",
       "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Dark Cold Night",
+        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 281117,
+      "name": "Dark Cold Night",
+      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
+        "name": "Peace That Starts the War",
+        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 168391,
+      "name": "Peace That Starts the War",
+      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
         "name": "By Faith",
         "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 186849,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Peace That Starts the War",
-        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
         }
       ],
-      "duration_ms": 168391,
-      "name": "Peace That Starts the War",
-      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+      "duration_ms": 168000,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
-      },
-      "artists": [
-        {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
-        }
-      ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Transgressor",
-        "url": "https://open.spotify.com/album/2EZ73ukSfYcB9vURLEB4Vl"
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
       "artists": [
         {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
         }
       ],
-      "duration_ms": 265164,
-      "name": "Transgressor",
-      "url": "https://open.spotify.com/track/7wcLpVs8r53wwNyHsoGIpH"
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -923,6 +907,22 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
+        "name": "Transgressor",
+        "url": "https://open.spotify.com/album/2EZ73ukSfYcB9vURLEB4Vl"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 265164,
+      "name": "Transgressor",
+      "url": "https://open.spotify.com/track/7wcLpVs8r53wwNyHsoGIpH"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
         "name": "Acoustic - EP",
         "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 239552,
       "name": "Burn Back the Sun",
       "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "What I've Become",
-        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "What I've Become",
-      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -971,6 +955,22 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "What I've Become",
+        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
-      },
-      "artists": [
-        {
-          "name": "House of Heroes",
-          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Broken Pieces (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 233869,
       "name": "Broken Pieces (Matthew Parker Remix)",
       "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
+      },
+      "artists": [
+        {
+          "name": "House of Heroes",
+          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
+        }
+      ],
+      "duration_ms": 200176,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
-      },
-      "artists": [
-        {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "GODLESS",
         "url": "https://open.spotify.com/album/04lvWoFp95y8I89lNt3anU"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 294786,
       "name": "GODLESS",
       "url": "https://open.spotify.com/track/5hQYAOxNmbCtiA8Gt5hJAm"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Deadweight",
-        "url": "https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 228332,
-      "name": "Deadweight",
-      "url": "https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Strong Enough to Live",
         "url": "https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Deadweight",
+        "url": "https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 228332,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Sleight of Hand",
-        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 234831,
-      "name": "Sleight of Hand",
-      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Melancholy Machines",
         "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 255980,
       "name": "Pls Snd Hlp",
       "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Sleight of Hand",
+        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
+      },
+      "artists": [
+        {
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+        }
+      ],
+      "duration_ms": 234831,
+      "name": "Sleight of Hand",
+      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
     },
     {
       "added_at": "2023-02-17 11:43:30",

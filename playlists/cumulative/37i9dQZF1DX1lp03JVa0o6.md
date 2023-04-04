@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Dimitri Vegas, Steve Aoki, Chapter & Verse
 
-183 songs - 9 hr 37 min
+184 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Hypersexual](https://open.spotify.com/track/1E4xwLdAIpyfiwvu4GKgTc) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Hypersexual](https://open.spotify.com/album/4Tvc60Tmm2H1gqVJFgkK92) | 2:18 | 2022-12-08 | 2023-02-03 |
 | [I Can’t Wait \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [I Can’t Wait \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX) | 2:52 | 2022-12-08 | 2023-02-17 |
 | [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 | 2023-02-23 |  |
+| [I Want You \(feat\. Darren Hayes\)](https://open.spotify.com/track/7xHM9Mz5f5ORsDsVP0BZyS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo) | [I Want You \(feat\. Darren Hayes\)](https://open.spotify.com/album/70iyV4Q8e55CzUhTsKKOE8) | 2:52 | 2023-04-03 |  |
 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 | 2022-12-08 | 2022-12-24 |
 | [I'll Be Around](https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [I'll Be Around](https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5) | 3:48 | 2023-01-19 | 2023-03-18 |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2022-12-08 | 2023-03-18 |

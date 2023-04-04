@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 292002,
       "name": "AYE KUWA (feat. CK THE DJ)",
       "url": "https://open.spotify.com/track/2nws7wwvjHpP512xuDAn10"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 402890,
       "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",
       "url": "https://open.spotify.com/track/4lOujgdHEUyFThYND4EmlQ"
@@ -13721,6 +13721,24 @@
     },
     {
       "album": {
+        "name": "LEMENEMENE",
+        "url": "https://open.spotify.com/album/499oCreFAawyBK9OrXszm5"
+      },
+      "artists": [
+        {
+          "name": "King Monada",
+          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306551,
+      "name": "LEMENEMENE",
+      "url": "https://open.spotify.com/track/6MqItn0BCv0z0jYJymAmKN"
+    },
+    {
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -15230,7 +15248,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 450304,
       "name": "Mama",
       "url": "https://open.spotify.com/track/7DQMBUK4oX9gV1qIzpoRz6"
@@ -24591,6 +24609,24 @@
     },
     {
       "album": {
+        "name": "Songs of Limitless Optimism - S.O.L.O",
+        "url": "https://open.spotify.com/album/0EPVjYVG94frrWfZuYwYzg"
+      },
+      "artists": [
+        {
+          "name": "Duncan Daniels",
+          "url": "https://open.spotify.com/artist/4Hbx82x5pU9EiWxl91BXmL"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/4JRXbRu5dLuwX9t3VOvsxI"
+    },
+    {
+      "album": {
         "name": "Today's Tragedy, Tomorrow's Memory: the mixtape",
         "url": "https://open.spotify.com/album/4vhWSUXx9WQD5q4dZ5fq2F"
       },
@@ -24774,7 +24810,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 382350,
       "name": "Thokoza",
       "url": "https://open.spotify.com/track/45O5O0Ppp8cpbPFymxS9L8"
@@ -27792,7 +27828,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

@@ -2,9 +2,9 @@
 
 ### [//divided.](https://open.spotify.com/playlist/6kt7PJuGWvWallWrWbN9xZ)
 
-> 
+> these equations aren&\#x27;t adding up.
 
-191 songs - 11 hr 22 min
+192 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Remember me](https://open.spotify.com/track/7vcKbYEM5MMohOttO2N0rf) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [Delta Ultimate Collection Presents](https://open.spotify.com/album/1SnbaNRfiQrd8fN2dQa6lX) | 5:25 | 2022-10-07 |  |
 | [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 | 2022-09-17 |  |
 | [Right Now](https://open.spotify.com/track/1rH1CqV2gJw5gAvSpt1qyz) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Beyond Appearances](https://open.spotify.com/album/5VsPopKKdkECx6B69QJRfb) | 6:01 | 2023-01-09 |  |
+| [Run \(Ballad Mix\)](https://open.spotify.com/track/62DeqSXWw36b1jzGWozXFq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 4:17 | 2023-04-03 |  |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2022-08-26 |  |
 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 | 2022-08-26 |  |
 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 | 2022-08-26 |  |

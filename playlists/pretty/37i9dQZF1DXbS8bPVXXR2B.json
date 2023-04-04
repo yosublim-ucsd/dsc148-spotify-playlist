@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 198034,
+  "num_followers": 198155,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDRkN2FhYTg0NjVkZWYxYjlhMzJjNDg1M2VhZjE3YTk3",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDA1ZWI0MDlmYzMwOTUxMTEwNTViYzNhZDA0NzFkYmY5",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Pull Up To The Bumper - Edit",
-      "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Pull Up To The Bumper - Edit",
+      "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
-      },
-      "artists": [
-        {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
-        }
-      ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Island",
         "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 272533,
       "name": "Whistle Bump",
       "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        }
+      ],
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Baby",
-        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
-      },
-      "artists": [
-        {
-          "name": "Y. Gershovsky",
-          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
-        }
-      ],
-      "duration_ms": 229734,
-      "name": "Disco Baby - Floating Points & Red Greg Edit",
-      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Raw Silk Vol. 1",
         "url": "https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
+      },
+      "artists": [
+        {
+          "name": "Y. Gershovsky",
+          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
+        }
+      ],
+      "duration_ms": 229734,
+      "name": "Disco Baby - Floating Points & Red Greg Edit",
+      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
     },
     {
       "added_at": "2022-09-05 16:54:43",

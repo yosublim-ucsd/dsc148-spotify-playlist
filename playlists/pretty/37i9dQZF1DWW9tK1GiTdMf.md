@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ in cover Bea Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,963 likes - 93 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,969 likes - 93 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 18 | [KARAOKE](https://open.spotify.com/track/1OVCrsUtBgtSZWazY8wTSY) | [Comeilmiele](https://open.spotify.com/artist/4OcuLUpqOjSYlrZN8W87Qn) | [KARAOKE](https://open.spotify.com/album/1OKGKYexqZoQbfWpEbQj8p) | 3:02 |
 | 19 | [FCCM](https://open.spotify.com/track/4bMFlGc7K3FiUblr9UPxi4) | [Millefiori](https://open.spotify.com/artist/55kBWp4unj7SX6URMMyakp) | [FCCM](https://open.spotify.com/album/7tbU04PZre3LmQEeCvG1R1) | 3:14 |
 | 20 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 |
-| 21 | [Guardami! \- MANGO](https://open.spotify.com/track/3VrzmIFzrd1njUrdx3h7nV) | [Vipra](https://open.spotify.com/artist/6RubjTZ123VH3iDaGbi7hM) | [Guardami! \- MANGO](https://open.spotify.com/album/5uxvdjkbYWIYCZjfH8ESRe) | 2:30 |
-| 22 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 |
-| 23 | [BUGIARDO](https://open.spotify.com/track/6laV1EFz9b6fbs0NJ4nc92) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 3:04 |
-| 24 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 |
+| 21 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 |
+| 22 | [Guardami! \- MANGO](https://open.spotify.com/track/3VrzmIFzrd1njUrdx3h7nV) | [Vipra](https://open.spotify.com/artist/6RubjTZ123VH3iDaGbi7hM) | [Guardami! \- MANGO](https://open.spotify.com/album/5uxvdjkbYWIYCZjfH8ESRe) | 2:30 |
+| 23 | [energie zero](https://open.spotify.com/track/0gG5GgOi9UXJP3Hv7KbYIS) | [zorah](https://open.spotify.com/artist/0bQwlyGwzbEUqB0p3m2YM6) | [energie zero](https://open.spotify.com/album/2xdRFL3OHaeSeqTbBOPhOO) | 2:26 |
+| 24 | [BUGIARDO](https://open.spotify.com/track/6laV1EFz9b6fbs0NJ4nc92) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 3:04 |
 | 25 | [Tipa Spagnola](https://open.spotify.com/track/3W9d6lLsF8bmCacrVoGG9Z) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Tipa Spagnola](https://open.spotify.com/album/3EyAnNJOrwOAAr0FtiDguF) | 2:48 |
 | 26 | [F.B.F.M.](https://open.spotify.com/track/2qYrm20YLABT5JJfAhr1SG) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [F.B.F.M.](https://open.spotify.com/album/1EUcFHuEtHGbzDv43L5WK0) | 3:08 |
-| 27 | [L'amore più crudele](https://open.spotify.com/track/5xLoGxkyto5hUxlJyN6q25) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [L'amore più crudele](https://open.spotify.com/album/74O3BnnglC3ZLbkOz1KhDR) | 2:44 |
-| 28 | [colpa mia](https://open.spotify.com/track/06fTZpfZLECGtAPld8RgFf) | [MANCHA](https://open.spotify.com/artist/4ylxTIWDO6kdtfxgOVmPCk), [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [colpa mia](https://open.spotify.com/album/3oB0Enil19JURfZAcxxTuO) | 2:32 |
-| 29 | [energie zero](https://open.spotify.com/track/0gG5GgOi9UXJP3Hv7KbYIS) | [zorah](https://open.spotify.com/artist/0bQwlyGwzbEUqB0p3m2YM6) | [energie zero](https://open.spotify.com/album/2xdRFL3OHaeSeqTbBOPhOO) | 2:26 |
-| 30 | [6SLP](https://open.spotify.com/track/1eepdyZFtM8b64yyJ6oIcv) | [Cieli](https://open.spotify.com/artist/32xdzL3g4ww59VRXexFxl9), [Luca Leo](https://open.spotify.com/artist/7jikyheHC2XFgajv0IiAgd) | [6SLP](https://open.spotify.com/album/0xRIFUrji9Dkm6sFmzVfHR) | 3:08 |
+| 27 | [6SLP](https://open.spotify.com/track/1eepdyZFtM8b64yyJ6oIcv) | [Cieli](https://open.spotify.com/artist/32xdzL3g4ww59VRXexFxl9), [Luca Leo](https://open.spotify.com/artist/7jikyheHC2XFgajv0IiAgd) | [6SLP](https://open.spotify.com/album/0xRIFUrji9Dkm6sFmzVfHR) | 3:08 |
+| 28 | [L'amore più crudele](https://open.spotify.com/track/5xLoGxkyto5hUxlJyN6q25) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [L'amore più crudele](https://open.spotify.com/album/74O3BnnglC3ZLbkOz1KhDR) | 2:44 |
+| 29 | [colpa mia](https://open.spotify.com/track/06fTZpfZLECGtAPld8RgFf) | [MANCHA](https://open.spotify.com/artist/4ylxTIWDO6kdtfxgOVmPCk), [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [colpa mia](https://open.spotify.com/album/3oB0Enil19JURfZAcxxTuO) | 2:32 |
+| 30 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 |
 | 31 | [Uccidere Uccidere Uccidere](https://open.spotify.com/track/6T1D8AUcXBxkX9hkNvMvly) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f) | [Uccidere Uccidere Uccidere](https://open.spotify.com/album/4lv3tHyPqdMVVSiOEmnp6k) | 2:28 |
 | 32 | [Miyazaki](https://open.spotify.com/track/6dhTRz5aUxVNmHnh3r65qx) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI 2](https://open.spotify.com/album/4OCF3ssNCqCPaA7MyhZ0qu) | 3:02 |
 | 33 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 92 | [Fottuta Metà](https://open.spotify.com/track/2DEKLuq7DbIF74ZfHauwhI) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb), [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [Punk Rock Boy](https://open.spotify.com/album/2ZOFYmi9h3R7T0tupX4iKh) | 3:02 |
 | 93 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 |
 
-Snapshot ID: `MTY4MDIxMzY2MCwwMDAwMDAwMGU5NWFiYzk5NTE5ZDI2NDA2MjYwYThhYzY0ZThhM2Nj`
+Snapshot ID: `MTY4MDUwOTc3OSwwMDAwMDAwMDQ4NGI3Mjg3NGNiNTI1OWQ2YWM5OTMwY2FiYmZjZjJh`

@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Bichota (Post-Punk)",
+        "url": "https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181058,
+      "name": "Bichota (Post-Punk)",
+      "url": "https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y"
+    },
+    {
+      "album": {
         "name": "Skryvaj",
         "url": "https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk"
       },
@@ -886,7 +904,7 @@
           "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226594,
@@ -1313,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Me Porto Bonito (Post-Punk)",
+        "url": "https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180326,
+      "name": "Me Porto Bonito - (Post-Punk)",
+      "url": "https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn"
+    },
+    {
+      "album": {
         "name": "Memorabilia",
         "url": "https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY"
       },
@@ -1540,7 +1576,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 257816,
       "name": "Odyssey Point",
       "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
@@ -1954,7 +1990,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 250211,
       "name": "Strange Harvest",
       "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"

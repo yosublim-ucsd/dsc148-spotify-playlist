@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 330982,
+  "num_followers": 331111,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDMyZjIxMzI0MjA0YjJlMGQ0ZjQzZDAwMmE5MzM4N2Zm",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDE2NDY5MTBjYmE4MzMyN2RmNmEzYjBiOGY2YzFkN2Jh",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -127,26 +127,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Tailwinds",
-        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
-      },
-      "artists": [
-        {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        }
-      ],
-      "duration_ms": 137288,
-      "name": "Nate Smith Is the Ace of Aces",
-      "url": "https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Dallas",
         "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
       },
@@ -227,6 +207,26 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Tailwinds",
+        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        }
+      ],
+      "duration_ms": 137288,
+      "name": "Nate Smith Is the Ace of Aces",
+      "url": "https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Wired",
         "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
       },
@@ -257,26 +257,6 @@
       "url": "https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Tailwinds",
-        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
-      },
-      "artists": [
-        {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/6VO9i1n879SKNqjZkzaPvB"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Jimmy's Groove",
@@ -291,26 +271,6 @@
       "duration_ms": 377171,
       "name": "Jimmy's Groove",
       "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Joy of Music, The Job of Real Estate",
-        "url": "https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "Test Drive (Instrumental)",
-      "url": "https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -343,6 +303,26 @@
       "duration_ms": 251533,
       "name": "The Vice Yard",
       "url": "https://open.spotify.com/track/3H47SylMu2eMbc5WLZThPm"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Joy of Music, The Job of Real Estate",
+        "url": "https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        }
+      ],
+      "duration_ms": 177968,
+      "name": "Test Drive (Instrumental)",
+      "url": "https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -380,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
-      "duration_ms": 249295,
-      "name": "Kenni and the Jets",
-      "url": "https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9"
+      "duration_ms": 193573,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/6VO9i1n879SKNqjZkzaPvB"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -455,6 +435,26 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Tailwinds",
+        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        }
+      ],
+      "duration_ms": 249295,
+      "name": "Kenni and the Jets",
+      "url": "https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "3 (Remastered)",
         "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
       },
@@ -487,22 +487,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Tailwinds",
-        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
+        "name": "Bacano",
+        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
       },
       "artists": [
         {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 152344,
-      "name": "Colonel Panic",
-      "url": "https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx"
+      "duration_ms": 309092,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -523,22 +519,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Bacano",
-        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 309092,
-      "name": "Open Season",
-      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Hang",
         "url": "https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6"
       },
@@ -551,6 +531,62 @@
       "duration_ms": 232140,
       "name": "Monster Funk",
       "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 223672,
+      "name": "Junkyard Dunebuggy",
+      "url": "https://open.spotify.com/track/7hePUwn6gsIUe6KC4ACdXB"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Tailwinds",
+        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        }
+      ],
+      "duration_ms": 152344,
+      "name": "Colonel Panic",
+      "url": "https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Smooth Move",
+        "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 316107,
+      "name": "Smooth Move",
+      "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -593,42 +629,6 @@
       "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 223672,
-      "name": "Junkyard Dunebuggy",
-      "url": "https://open.spotify.com/track/7hePUwn6gsIUe6KC4ACdXB"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Smooth Move",
-        "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 316107,
-      "name": "Smooth Move",
-      "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Long in the Tooth",
@@ -659,6 +659,22 @@
       "duration_ms": 274853,
       "name": "Hole In One",
       "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "Basilisk",
+        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Basilisk",
+      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -693,22 +709,6 @@
       "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Basilisk",
-        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "Basilisk",
-      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Resonate",
@@ -723,6 +723,22 @@
       "duration_ms": 310561,
       "name": "NDUGU",
       "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
+    },
+    {
+      "added_at": "2021-12-10 05:01:00",
+      "album": {
+        "name": "Smokeshow",
+        "url": "https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 242424,
+      "name": "Smokeshow",
+      "url": "https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -743,22 +759,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Jazz In The Present Tense",
-        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
-      },
-      "artists": [
-        {
-          "name": "Solsonics",
-          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Montuno Funk",
-      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Long in the Tooth",
         "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
       },
@@ -773,20 +773,36 @@
       "url": "https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3"
     },
     {
-      "added_at": "2021-12-10 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Smokeshow",
-        "url": "https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3"
+        "name": "Jazz In The Present Tense",
+        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
       },
       "artists": [
         {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+          "name": "Solsonics",
+          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
         }
       ],
-      "duration_ms": 242424,
-      "name": "Smokeshow",
-      "url": "https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV"
+      "duration_ms": 249933,
+      "name": "Montuno Funk",
+      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Don't Worry 'Bout What I Do",
+      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -815,22 +831,6 @@
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
-    },
-    {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Don't Worry 'Bout What I Do",
-      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
       "added_at": "2021-04-16 04:00:00",
       "album": {
         "name": "Moonshadows",
@@ -895,6 +879,22 @@
       "duration_ms": 186746,
       "name": "Get With It",
       "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
     },
     {
       "added_at": "2021-11-26 05:01:00",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Fox",
+        "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
+      },
+      "artists": [
+        {
+          "name": "The Filthy Six",
+          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Down Frenchmen St",
+      "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Psychic Powers",
@@ -971,22 +987,6 @@
       "duration_ms": 158620,
       "name": "Psychic Powers",
       "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Fox",
-        "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
-      },
-      "artists": [
-        {
-          "name": "The Filthy Six",
-          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
-        }
-      ],
-      "duration_ms": 357480,
-      "name": "Down Frenchmen St",
-      "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
     },
     {
       "added_at": "2021-12-24 05:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
-      },
-      "artists": [
-        {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
-        }
-      ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "False Prophets",
         "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 352374,
       "name": "False Prophets",
       "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
+      },
+      "artists": [
+        {
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+        }
+      ],
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1353,24 +1353,20 @@
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
-      "added_at": "2021-05-28 04:00:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Getaway Car",
-        "url": "https://open.spotify.com/album/5WpaETJzHurpaWKwOkNs1J"
+        "name": "Soul Jazz Express",
+        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+          "name": "Soul Jazz Express",
+          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
         }
       ],
-      "duration_ms": 208384,
-      "name": "Getaway Car",
-      "url": "https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf"
+      "duration_ms": 317000,
+      "name": "Couple A Brownies",
+      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
     },
     {
       "added_at": "2021-10-22 04:02:00",

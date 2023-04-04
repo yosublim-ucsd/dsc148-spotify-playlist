@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,588 likes - 79 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,797 likes - 79 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 20 | [Passe Livre](https://open.spotify.com/track/3UBt3hcQDzqi3MB4V5AzGH) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [Passe Livre](https://open.spotify.com/album/1euBiLYutDJjF7H5N7zHwd) | 2:53 |
 | 21 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 |
 | 22 | [Sonho](https://open.spotify.com/track/6DuJzDbnQxVLbOv1Y1Ix9N) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Label 67 \(Ao Vivo\)](https://open.spotify.com/album/3EipZjFInVdWgrda8PgoZf) | 4:16 |
-| 23 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 |
+| 23 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
 | 24 | [Vou Te Assumir](https://open.spotify.com/track/4F4iKidqJGb5xNBGAcZVek) | [Lipe Lucena](https://open.spotify.com/artist/2hr2Pae57x29iMVqjKnHnf) | [Sentimento E Ousadia](https://open.spotify.com/album/2yv3WXLmIShYryzpxAwJ5w) | 2:35 |
 | 25 | [Viciada em Pirú \- Remix](https://open.spotify.com/track/6FxB8V7XmHpTentYZMjxD7) | [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb) | [Viciada em Pirú \(Remix\)](https://open.spotify.com/album/7BptPmgnPLaTaUp5KsVBPv) | 2:12 |
 | 26 | [Puta Mexicana](https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Pelé](https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12) | [Som das Regiões](https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF) | 2:42 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 78 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 79 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MTY4MDIxMjQ0OCwwMDAwMDAwMDZjZmYzYTQ4MTZjNDVhYzE3NjIwMDExMTQ3MTc0MmYy`
+Snapshot ID: `MTY4MDIxMjQ0OCwwMDAwMDAwMGIwNzk1YmI4MTMzODc2NmI4OTFlM2FjNTFlODI3NDg0`

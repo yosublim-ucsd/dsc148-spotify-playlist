@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 86471,
+  "num_followers": 86569,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDY4ZDlmODEyZWNkZGEwYjM2OGFmZjA2Mzg0MmZjYzhh",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDNiMGQzN2FjY2EzN2E5ODg5YjFiZDE2ZjY0MDk4NjYy",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "stuff i used to do",
-        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 141304,
-      "name": "Charlie can't dance",
-      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Defiant Order",
         "url": "https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 221946,
       "name": "DEFIANT ORDER",
       "url": "https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "stuff i used to do",
+        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 141304,
+      "name": "Charlie can't dance",
+      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Phuture and Other Classics from DJ Pierre",
-        "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 709466,
-      "name": "Acid Trax",
-      "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Box Energy",
         "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 370306,
       "name": "Box Energy",
       "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Phuture and Other Classics from DJ Pierre",
+        "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 709466,
+      "name": "Acid Trax",
+      "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Trax Classix",
-        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
+        "name": "The Feast Of The Broken Heart",
+        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
       },
       "artists": [
         {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Land Of Confusion",
-      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
+      "duration_ms": 281815,
+      "name": "Do You Feel The Same?",
+      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
     }
   ],
   "unique_name": "303 Classics",

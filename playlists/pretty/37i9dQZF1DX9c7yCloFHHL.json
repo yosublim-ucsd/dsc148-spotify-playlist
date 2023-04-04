@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. A Winged Victory For The Sullen on cover.",
-  "num_followers": 145601,
+  "num_followers": 145804,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMGMxOWQ0YmJjMmI3MTNkN2QwYjg5OTZlMzQ1OTU2ZGIy",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDkxODdhYzAyYjU2MTA5MGJhMmQxZWM0ODI2MjkxNDYy",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -651,18 +651,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7pBF8GrCJah3ZXbVeTm5e1"
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
       "artists": [
         {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
         }
       ],
-      "duration_ms": 124615,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/768xi4B8fL5dG028KbCjLl"
+      "duration_ms": 80427,
+      "name": "Brush",
+      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -683,26 +687,6 @@
       "duration_ms": 136363,
       "name": "rescue",
       "url": "https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 80427,
-      "name": "Brush",
-      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -803,6 +787,38 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7pBF8GrCJah3ZXbVeTm5e1"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/768xi4B8fL5dG028KbCjLl"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
         "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 200466,
       "name": "Abraham's Theme",
       "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Antarctican Dream Machine",
-        "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 113933,
-      "name": "Preface",
-      "url": "https://open.spotify.com/track/3hu8vy5RPfIMdboW1vfcty"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "wistful",
-        "url": "https://open.spotify.com/album/0CIzRlVNXg18ThmbWglFtu"
+        "name": "Antarctican Dream Machine",
+        "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
       },
       "artists": [
         {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 157183,
-      "name": "wistful",
-      "url": "https://open.spotify.com/track/3MRsE4kOIhk4FNTTwu3X6w"
+      "duration_ms": 113933,
+      "name": "Preface",
+      "url": "https://open.spotify.com/track/3hu8vy5RPfIMdboW1vfcty"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -891,6 +887,26 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "wistful",
+        "url": "https://open.spotify.com/album/0CIzRlVNXg18ThmbWglFtu"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+        }
+      ],
+      "duration_ms": 157183,
+      "name": "wistful",
+      "url": "https://open.spotify.com/track/3MRsE4kOIhk4FNTTwu3X6w"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Vapors",
         "url": "https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo"
       },
@@ -911,6 +927,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Ten Impressions for Piano and Strings",
+        "url": "https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK"
+      },
+      "artists": [
+        {
+          "name": "Sean McCann",
+          "url": "https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2"
+        }
+      ],
+      "duration_ms": 156422,
+      "name": "Sylvan Smoke",
+      "url": "https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "EARS",
         "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
       },
@@ -927,18 +959,30 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Ten Impressions for Piano and Strings",
-        "url": "https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK"
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
       },
       "artists": [
         {
-          "name": "Sean McCann",
-          "url": "https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
         }
       ],
-      "duration_ms": 156422,
-      "name": "Sylvan Smoke",
-      "url": "https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS"
+      "duration_ms": 413241,
+      "name": "Psychogeography",
+      "url": "https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -971,50 +1015,6 @@
       "duration_ms": 208800,
       "name": "taiyla",
       "url": "https://open.spotify.com/track/3BKtY6FpYjvYnhodYohZ0y"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 190482,
-      "name": "20220302 - sarabande",
-      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Voices 2",
-        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Mari Samuelsen",
-          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
-        },
-        {
-          "name": "Ian Burdge",
-          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
-        }
-      ],
-      "duration_ms": 413241,
-      "name": "Psychogeography",
-      "url": "https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Velocity (Music from the Film)",
+        "url": "https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR"
+      },
+      "artists": [
+        {
+          "name": "Geller",
+          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
+        }
+      ],
+      "duration_ms": 111023,
+      "name": "Best of Luck",
+      "url": "https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Fond (Rework)",
         "url": "https://open.spotify.com/album/4JcX4CjnRbPzSgT2wADcIE"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 224000,
       "name": "Fond - Rework",
       "url": "https://open.spotify.com/track/1NR4lmznMMB07hzvy4PN74"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Velocity (Music from the Film)",
-        "url": "https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR"
-      },
-      "artists": [
-        {
-          "name": "Geller",
-          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
-        }
-      ],
-      "duration_ms": 111023,
-      "name": "Best of Luck",
-      "url": "https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Wintergreen",
-        "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 224145,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 197142,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Wintergreen",
+        "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 224145,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Origami Rework",
-        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Origami Rework",
-      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Collected Pieces: 2015-2020",
         "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Origami Rework",
+        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Origami Rework",
+      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "angel",
-        "url": "https://open.spotify.com/album/6fXHpLaNWwAg6AZEqHP6Ej"
-      },
-      "artists": [
-        {
-          "name": "h\u00e9lix",
-          "url": "https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj"
-        }
-      ],
-      "duration_ms": 110488,
-      "name": "angel",
-      "url": "https://open.spotify.com/track/2VoPJtFM9gGLqUryqZfqsW"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "VIM",
         "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 207756,
       "name": "VIM",
       "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "angel",
+        "url": "https://open.spotify.com/album/6fXHpLaNWwAg6AZEqHP6Ej"
+      },
+      "artists": [
+        {
+          "name": "h\u00e9lix",
+          "url": "https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj"
+        }
+      ],
+      "duration_ms": 110488,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/2VoPJtFM9gGLqUryqZfqsW"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1711,8 +1711,8 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
       },
       "artists": [
         {
@@ -1720,9 +1720,9 @@
           "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
+      "duration_ms": 249081,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
     },
     {
       "added_at": "2023-03-24 00:01:00",

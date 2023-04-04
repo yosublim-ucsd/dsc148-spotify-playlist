@@ -8,8 +8,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [We Could Be Dancing \(feat\. Molly Hammar\)](https://open.spotify.com/track/367BbT7Cg2xZLv5redErC9) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [We Could Be Dancing \(feat\. Molly Hammar\)](https://open.spotify.com/album/6DdE4wnc55MRvUJakqPECB) | 2:44 |
-| 2 | [Antibodies \- LP Giobbi Remix](https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Antibodies](https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS) | 5:12 |
+| 1 | [Antibodies \- LP Giobbi Remix](https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Antibodies](https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS) | 5:12 |
+| 2 | [We Could Be Dancing \(feat\. Molly Hammar\)](https://open.spotify.com/track/367BbT7Cg2xZLv5redErC9) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [We Could Be Dancing \(feat\. Molly Hammar\)](https://open.spotify.com/album/6DdE4wnc55MRvUJakqPECB) | 2:44 |
 | 3 | [De Helft Van Wat Je Doet](https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:23 |
 | 4 | [Wounded](https://open.spotify.com/track/3NQ2JBHK5OAzblu8z5KUVj) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Wounded](https://open.spotify.com/album/7xZ0s3f04T77DRVHJFtfjP) | 3:11 |
 | 5 | [I'm On My Way](https://open.spotify.com/track/3iXgSRk7u8qcnM5xOsxyVw) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [I'm On My Way](https://open.spotify.com/album/1fuchE5QF91ApbeNXMkt1O) | 2:50 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 51 | [FLY AWAY](https://open.spotify.com/track/6xcC3CXu7MI0HFzSF5Zkh5) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [FLY AWAY](https://open.spotify.com/album/60qE1C65gbxL7oStfjNGYE) | 3:09 |
 | 52 | [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 |
 
-Snapshot ID: `MjgwMDgwMTYsMDAwMDAwMDA4Mjk4OGU3MGIzMmY5MDY5MjkzYjRkYTBlZDQwZGQyZA==`
+Snapshot ID: `MjgwMDk0NTYsMDAwMDAwMDBmNDU1MzIzZDFmMTQ2ZjA0NGM0Nzk5ZGNkOThmMTRlYw==`

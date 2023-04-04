@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 12163,
+  "num_followers": 12275,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDk2YjdjYmU0ZjQ1OGQ2NGExN2YxOTFhZDhkNjRhYTVl",
+  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDZkZWEzNjYwMTM3MGQ0YzhmNjI1ZjUyM2E3MmFhOGE0",
   "tracks": [
     {
       "added_at": "2023-03-23 21:59:00",
@@ -163,6 +163,30 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Woza Moya",
+        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "duration_ms": 407142,
+      "name": "Woza Moya",
+      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "Back To Front EP",
         "url": "https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0"
       },
@@ -243,30 +267,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Woza Moya",
-        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        },
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
-        }
-      ],
-      "duration_ms": 407142,
-      "name": "Woza Moya",
-      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Oh Mdali",
         "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 361078,
       "name": "Oh Mdali",
       "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -395,6 +379,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
       },
@@ -407,30 +407,6 @@
       "duration_ms": 453711,
       "name": "Octave",
       "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -495,22 +471,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
       },
@@ -527,6 +487,46 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+        }
+      ],
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "I Am Jazz",
         "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 402782,
       "name": "Gotsom",
       "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
+      },
+      "artists": [
+        {
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "duration_ms": 395709,
+      "name": "Love I Know",
+      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -563,26 +583,6 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Necessary",
-        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
-      },
-      "artists": [
-        {
-          "name": "Dearson",
-          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
-        },
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        }
-      ],
-      "duration_ms": 395709,
-      "name": "Love I Know",
-      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -647,30 +647,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Joyful Music, Vol. 1 (Compiled)",
-        "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
-      },
-      "artists": [
-        {
-          "name": "Craving Souls",
-          "url": "https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe"
-        },
-        {
-          "name": "Da Tee SA",
-          "url": "https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2"
-        },
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
-        }
-      ],
-      "duration_ms": 413910,
-      "name": "Nelisiwe",
-      "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "My Heartbeat For You",
         "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 412264,
       "name": "Sunday Showers",
       "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Joyful Music, Vol. 1 (Compiled)",
+        "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
+      },
+      "artists": [
+        {
+          "name": "Craving Souls",
+          "url": "https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe"
+        },
+        {
+          "name": "Da Tee SA",
+          "url": "https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        }
+      ],
+      "duration_ms": 413910,
+      "name": "Nelisiwe",
+      "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Dusty Streets",
-        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
-      },
-      "artists": [
-        {
-          "name": "Eddvin",
-          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
-        }
-      ],
-      "duration_ms": 386525,
-      "name": "Dusty Streets",
-      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ"
       },
@@ -787,50 +771,18 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+        "name": "Dusty Streets",
+        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
       },
       "artists": [
         {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+          "name": "Eddvin",
+          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
         }
       ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "New Beginning EP",
-        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 402788,
-      "name": "Eternal Existence - Original Mix",
-      "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
+      "duration_ms": 386525,
+      "name": "Dusty Streets",
+      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -847,6 +799,22 @@
       "duration_ms": 333975,
       "name": "7 Steps - Soulcalmic Mingle",
       "url": "https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -871,6 +839,22 @@
       "duration_ms": 367124,
       "name": "Dark Snow - Bones Remix",
       "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -903,6 +887,22 @@
       "duration_ms": 476630,
       "name": "Push It",
       "url": "https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "New Beginning EP",
+        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 402788,
+      "name": "Eternal Existence - Original Mix",
+      "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
     },
     {
       "added_at": "2023-03-23 21:59:00",

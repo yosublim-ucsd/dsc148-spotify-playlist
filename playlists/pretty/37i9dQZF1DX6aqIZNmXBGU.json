@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17296,
+  "num_followers": 17291,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDIzYjI0MzBiZDQ4MjdkZWMxMjYwOWY2MzRkZDQ5MDM5",
+  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDcyYjcyOWRmZDQ3NTYzZmJjZTBkODZhMTE2MGY5Njk0",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Cochise",
-      "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Cochise",
+      "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
@@ -377,22 +393,6 @@
       "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
-      "added_at": "2022-03-23 15:48:35",
-      "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
-    },
-    {
       "added_at": "2021-04-09 06:19:31",
       "album": {
         "name": "Ten",
@@ -409,20 +409,20 @@
       "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
     },
     {
-      "added_at": "2021-04-09 06:19:31",
+      "added_at": "2022-03-23 15:48:35",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 211440,
-      "name": "Stay Away",
-      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
+      "duration_ms": 225653,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -471,6 +471,22 @@
       "duration_ms": 271720,
       "name": "Lucidity",
       "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "In Utero - 20th Anniversary Remaster",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 95386,
+      "name": "Tourette's",
+      "url": "https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -555,38 +571,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "Creep in a T-Shirt",
-      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "In Utero - 20th Anniversary Remaster",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 95386,
-      "name": "Tourette's",
-      "url": "https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Sundown Syndrome / Remember Me",
         "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 261040,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Creep in a T-Shirt",
+      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Badillac",
-        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
-      },
-      "artists": [
-        {
-          "name": "Together Pangea",
-          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "Badillac",
-      "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "King of the Beach",
         "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 158106,
       "name": "King of the Beach",
       "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Badillac",
+        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
+      },
+      "artists": [
+        {
+          "name": "Together Pangea",
+          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Badillac",
+      "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Onion",
-        "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
-      },
-      "artists": [
-        {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Abysmal Thoughts",
         "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 228146,
       "name": "Blood Under My Belt",
       "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Onion",
+        "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -927,6 +927,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Manipulator",
+        "url": "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Tall Man Skinny Lady",
+      "url": "https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Glazin'",
         "url": "https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 124146,
       "name": "Modern Art",
       "url": "https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "Lick the Bag",
-      "url": "https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp"
     }
   ],
   "unique_name": "Sun & Surf",

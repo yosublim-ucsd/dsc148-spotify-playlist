@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Ronald Borjas & Tito Nieves
 
-238 songs - 14 hr 20 min
+239 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 | 2023-01-20 |  |
 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 | 2023-03-03 |  |
 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 | 2022-07-19 | 2023-02-13 |
-| [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 | 2022-06-29 |  |
+| [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 | 2022-06-29 | 2023-04-04 |
 | [Cuando Te Vuelva a Ver \- Bachata Version](https://open.spotify.com/track/3BwdoA2FFCEpxrTf062ze5) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Bachata Union](https://open.spotify.com/album/35uUrVpaYFHrFTSYZ4F0Sf) | 3:42 | 2022-01-01 | 2022-03-26 |
 | [Cuento Breve](https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:48 | 2022-01-01 | 2022-06-30 |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2022-01-01 | 2022-03-26 |
@@ -168,6 +168,7 @@
 | [Perdoname](https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:35 | 2022-01-01 | 2022-01-29 |
 | [Perdoname \- Live](https://open.spotify.com/track/3o69kyAKS2FWwlq8bBnqgS) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Perdoname \(Live\)](https://open.spotify.com/album/6O1BhOfAtiQpcitvmifOZN) | 3:44 | 2022-01-01 | 2022-06-30 |
 | [Pero No Puedo](https://open.spotify.com/track/0vH2J3pBrsOMr3f8eIV3iW) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Contigo](https://open.spotify.com/album/0PtXz1PsCaiCaIgQgPTcf9) | 3:21 | 2022-01-01 | 2022-03-26 |
+| [Perro Arrepentido](https://open.spotify.com/track/0krBST4JusyJApb2M30PZr) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Perro Arrepentido](https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts) | 4:00 | 2023-03-31 |  |
 | [Por Amor](https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Por Amor](https://open.spotify.com/album/3YVhQkKRXxcI9cTuBRWKqT) | 3:40 | 2022-02-11 | 2022-06-30 |
 | [Por Qué](https://open.spotify.com/track/3R6p7D39Qy0GJs5Pg72ecn) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:22 | 2022-01-01 | 2022-06-30 |
 | [Porque Tengo Ganas](https://open.spotify.com/track/2woWimVTuaXR2lZL82tyaD) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm) | [Porque Tengo Ganas](https://open.spotify.com/album/1XBrplAnJwGv5hA9wuztjk) | 3:44 | 2022-06-29 | 2023-01-14 |

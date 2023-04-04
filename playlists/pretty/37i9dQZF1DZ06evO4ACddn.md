@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 865 likes - 29 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 866 likes - 29 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 28 | [What If You Fall In](https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 5:14 |
 | 29 | [Bottled Time](https://open.spotify.com/track/5AOTvul1pG5guRXeWvq1Za) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Dust & Bones](https://open.spotify.com/album/3GHMDiFyBUSZWhLBiBiHK4) | 3:07 |
 
-Snapshot ID: `MjgwMDczMDIsMDAwMDAwMDBjYzBkZTg2Yjc5NDZiMTQxNGM5MWQ0MzcyNmVkMDBjMg==`
+Snapshot ID: `MjgwMDg3NjEsMDAwMDAwMDBmN2FmNmU1ZjUxNGYwNGRkZTUwZmI1YThlYTg2MDNjMw==`

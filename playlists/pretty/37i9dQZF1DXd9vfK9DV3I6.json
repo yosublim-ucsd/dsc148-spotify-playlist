@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 239723,
+  "num_followers": 239985,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5MjAxOCwwMDAwMDAwMGRjZGFmNDJhOTBmYWI3OTBmN2Q2Y2JmY2E0OTczZmJj",
+  "snapshot_id": "MTY4MDE5MjAxOCwwMDAwMDAwMGEwZGJjYmUzZWRhNmFmYWFhYzhiMWM0MTljYTJlZmU0",
   "tracks": [
     {
       "added_at": "2023-03-24 20:00:40",
@@ -171,26 +171,6 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
-        "name": "Give a Little",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 200950,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+        }
+      ],
+      "duration_ms": 234838,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
-        "name": "Arabic Soul",
-        "url": "https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        },
-        {
-          "name": "Anas Otman",
-          "url": "https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9"
-        }
-      ],
-      "duration_ms": 273031,
-      "name": "Arabic Soul",
-      "url": "https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 225226,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
+        "name": "Arabic Soul",
+        "url": "https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        },
+        {
+          "name": "Anas Otman",
+          "url": "https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9"
+        }
+      ],
+      "duration_ms": 273031,
+      "name": "Arabic Soul",
+      "url": "https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
-        "name": "Painter",
-        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Ocean",
-          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
-        }
-      ],
-      "duration_ms": 203428,
-      "name": "Painter",
-      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
+        "name": "Painter",
+        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Ocean",
+          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
+        }
+      ],
+      "duration_ms": 203428,
+      "name": "Painter",
+      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
-      },
-      "artists": [
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        },
-        {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
+        "name": "O.M.M.A",
+        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
+      },
+      "artists": [
+        {
+          "name": "Camil Kanouni",
+          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Oud Love",
+      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5NdBszLrgcaFiq5sjr3vgJ"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 219508,
       "name": "3 to 1",
       "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
-        "name": "O.M.M.A",
-        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
-      },
-      "artists": [
-        {
-          "name": "Camil Kanouni",
-          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Oud Love",
-      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Mra ou Mermora",
-      "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
         "name": "Arab Money",
         "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
       },
@@ -1635,6 +1615,46 @@
       "duration_ms": 136800,
       "name": "Arab Money",
       "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Mra ou Mermora",
+      "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -1675,22 +1695,22 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
         },
         {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+          "name": "Dj Pantelis",
+          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
         }
       ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+      "duration_ms": 334889,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -1719,26 +1739,6 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Dj Pantelis",
-          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
-        }
-      ],
-      "duration_ms": 334889,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
         "name": "Mawjou3 Galbi",
         "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
       },
@@ -1755,6 +1755,26 @@
       "duration_ms": 198200,
       "name": "Mawjou3 Galbi",
       "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -1791,26 +1811,6 @@
       "duration_ms": 260000,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2023-03-24 20:00:40",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2023-03-24 20:00:40",
       "album": {
-        "name": "Isla Bonita",
-        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        },
-        {
-          "name": "MD DJ",
-          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Isla Bonita - Radio Edit",
-      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
-    },
-    {
-      "added_at": "2023-03-24 20:00:40",
-      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 244800,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
+    },
+    {
+      "added_at": "2023-03-24 20:00:40",
+      "album": {
+        "name": "Isla Bonita",
+        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        },
+        {
+          "name": "MD DJ",
+          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Isla Bonita - Radio Edit",
+      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
     }
   ],
   "unique_name": "mosaic",

@@ -4,7 +4,7 @@
 
 > 50 of each week's best new rock and metal tracks\. New updates every Friday!  🔊 🤘🏿🤘🤘🏽
 
-693 songs - 1 day 22 hr 24 min
+694 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 | 2023-02-10 | 2023-02-18 |
 | [NVLLA REGVLA SINE EXCEPTIONE](https://open.spotify.com/track/497I72fVzjP2b9sFXcbGDO) | [TRIAGONE](https://open.spotify.com/artist/5STrUja1CRVS3wNpZGcCq8) | [NVLLA REGVLA SINE EXCEPTIONE](https://open.spotify.com/album/6IYU4gHGY3iyJ1dRTck6Qn) | 5:11 | 2023-01-27 | 2023-02-04 |
 | [Néma vermek](https://open.spotify.com/track/4jgoALOvmaSLuzEyiwzzRd) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Néma vermek](https://open.spotify.com/album/3iTLWkxALAQ2tFNDCzy5xy) | 4:12 | 2023-03-24 | 2023-04-01 |
+| [Ocean Of Worldly Suffering](https://open.spotify.com/track/1OrH3dDFXicnnaCKpvvNH8) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Ocean Of Worldly Suffering](https://open.spotify.com/album/0sFTteYB2M0Is6iWHMcIkb) | 5:07 | 2023-04-03 |  |
 | [Off With Your Head](https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Off With Your Head](https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5) | 2:12 | 2023-02-03 | 2023-02-11 |
 | [Off\-Limits](https://open.spotify.com/track/6Sq1HmzAr1ScOwXTHrULvw) | [Defiled](https://open.spotify.com/artist/6KDc0SB4ero6zAgrafjVrt) | [Off\-Limits](https://open.spotify.com/album/0rYLBZ5nDPnROkUn6eteV6) | 2:45 | 2023-02-17 | 2023-02-25 |
 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 | 2023-02-17 | 2023-02-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 50 | [Till The Sun Comes Down](https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [The Trixx](https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT), [Emy](https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85) | [Till The Sun Comes Down](https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0) | 3:54 |
 | 51 | [Honest](https://open.spotify.com/track/1zfLmKG6W76HcNwfT8yI3G) | [Matt Florgan](https://open.spotify.com/artist/1hyFVrYjtDUnLJVzjMprlZ), [Davis Mallory](https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV) | [Honest](https://open.spotify.com/album/2d1PTvc0fyrS9wDLGKyF6r) | 2:24 |
 
-Snapshot ID: `MjgwMDgwMDcsMDAwMDAwMDBmZjgwZjQ2Y2I4MTYxMDI2ODA3OGE4ZGYzZDdkNGM5ZA==`
+Snapshot ID: `MjgwMDk0NDcsMDAwMDAwMDBhY2EzNjVkNzhjYmY2YzQ3ZmEzNWEzMTc2YTg4YmI4Mw==`

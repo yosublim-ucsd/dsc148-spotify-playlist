@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 81877,
+  "num_followers": 81907,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcxOTU4OCwwMDAwMDAwMGRlMjA2NTFjYThjZmQxMDc1YTliYTQ5ZDU3NzgzYTU3",
+  "snapshot_id": "MTY2OTcxOTU4OCwwMDAwMDAwMDJmMDFmODZlZjQyYzcwMjA0YzRkY2Q2NGU1MjJiODgx",
   "tracks": [
     {
       "added_at": "2022-11-29 10:59:48",
@@ -367,6 +367,46 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
+        "name": "1, 2, 3 Soleils",
+        "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        },
+        {
+          "name": "Faudel",
+          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
+        }
+      ],
+      "duration_ms": 368933,
+      "name": "Didi",
+      "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Sahrany",
+      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
         "name": "Efred",
         "url": "https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI"
       },
@@ -399,26 +439,34 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "1, 2, 3 Soleils",
-        "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
+        "name": "The Very Best Of Wadi Al-Safi",
+        "url": "https://open.spotify.com/album/2LEdgefrrQ0KRSUpT6Cnh9"
       },
       "artists": [
         {
-          "name": "Khaled",
-          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
-        },
-        {
-          "name": "Rachid Taha",
-          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
-        },
-        {
-          "name": "Faudel",
-          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
+          "name": "Wadih El Safi",
+          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
         }
       ],
-      "duration_ms": 368933,
-      "name": "Didi",
-      "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
+      "duration_ms": 184946,
+      "name": "Tallou Hbabna",
+      "url": "https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "Rouhi",
+        "url": "https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "duration_ms": 253786,
+      "name": "Ah Bahibbak",
+      "url": "https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc"
     },
     {
       "added_at": "2022-11-29 10:59:48",
@@ -439,38 +487,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "Sahrany",
-        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Sahrany",
-      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
-        "name": "The Very Best Of Wadi Al-Safi",
-        "url": "https://open.spotify.com/album/2LEdgefrrQ0KRSUpT6Cnh9"
-      },
-      "artists": [
-        {
-          "name": "Wadih El Safi",
-          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Tallou Hbabna",
-      "url": "https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "Ya Leila",
         "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 291383,
       "name": "Layali El Shouq",
       "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
-        "name": "Rouhi",
-        "url": "https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr"
-      },
-      "artists": [
-        {
-          "name": "Samira Said",
-          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
-        }
-      ],
-      "duration_ms": 253786,
-      "name": "Ah Bahibbak",
-      "url": "https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc"
     },
     {
       "added_at": "2022-11-29 10:59:48",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
+        "name": "Marasil",
+        "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 309942,
+      "name": "Marasil",
+      "url": "https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
         "name": "Nubian Legends",
         "url": "https://open.spotify.com/album/2tkQvpsJdhTkF11z83PPuf"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 325120,
       "name": "Ah Yalali",
       "url": "https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
-        "name": "Marasil",
-        "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 309942,
-      "name": "Marasil",
-      "url": "https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l"
     },
     {
       "added_at": "2022-11-29 10:59:48",

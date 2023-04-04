@@ -1685,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "I Want You (feat. Darren Hayes)",
+        "url": "https://open.spotify.com/album/70iyV4Q8e55CzUhTsKKOE8"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Darren Hayes",
+          "url": "https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172657,
+      "name": "I Want You (feat. Darren Hayes)",
+      "url": "https://open.spotify.com/track/7xHM9Mz5f5ORsDsVP0BZyS"
+    },
+    {
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },

@@ -4,7 +4,7 @@
 
 > Live performances by Pink Floyd.
 
-53 songs - 5 hr 18 min
+56 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [High Hopes \- Live](https://open.spotify.com/track/1cy4FxrVbTfYRMlAF0n6LX) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pulse \(Live\)](https://open.spotify.com/album/1uSpngQgBBgwRFYS5sOdqI) | 7:54 | 2021-09-27 |  |
 | [If \- Live BBC Radio Session, 16 July 1970](https://open.spotify.com/track/5e53jf07twaXqP0etN6uyW) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [1970 Devi/ation](https://open.spotify.com/album/3phZQKLS56N1n6ESUQMh9e) | 5:46 | 2021-09-27 |  |
 | [Learning to Fly \- Delicate Sound Of Thunder Remix, 2020 Edit \[Live\]](https://open.spotify.com/track/45cQPuGSbVAdLFD0Qaf3ns) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [On the Turning Away \(Delicate Sound Of Thunder 2019 Remix \[Live\]\)](https://open.spotify.com/album/0bd8yr7k20zQP9iPLTKxtS) | 4:47 | 2021-09-27 |  |
-| [Money \- 2019 remix \[Live\]](https://open.spotify.com/track/03LGbyKGpTElZFVfpeRnyD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years](https://open.spotify.com/album/619Oth6zcoYKqotDbRPRpn) | 8:17 | 2021-09-27 |  |
+| [Money \- 2019 remix \[Live\]](https://open.spotify.com/track/03LGbyKGpTElZFVfpeRnyD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years](https://open.spotify.com/album/619Oth6zcoYKqotDbRPRpn) | 8:17 | 2021-09-27 | 2023-04-04 |
+| [Money \- 2019 remix \[Live\]](https://open.spotify.com/track/67GtwK7e47H6Ha78pG762W) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(2019 Remix\) \[Live\]](https://open.spotify.com/album/2lK80Nb29iqCzaRiERvNDS) | 8:17 | 2021-09-27 |  |
 | [On the Run \- 2019 remix \[Live\]](https://open.spotify.com/track/5DHeTuZM4PEQPLzMgqEvtj) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(2019 Remix\) \[Live\]](https://open.spotify.com/album/2lK80Nb29iqCzaRiERvNDS) | 2:48 | 2021-09-27 |  |
 | [On the Run \- 2019 remix \[Live\]](https://open.spotify.com/track/75rTS9ah1yctiZjIwsU7OX) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years](https://open.spotify.com/album/619Oth6zcoYKqotDbRPRpn) | 2:48 | 2021-09-27 | 2023-04-03 |
 | [On the Turning Away \- 2019 remix \[Live\]](https://open.spotify.com/track/182JlyenNRJnLoZ1VM2lQF) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(2019 Remix\) \[Live\]](https://open.spotify.com/album/2lK80Nb29iqCzaRiERvNDS) | 9:13 | 2021-09-27 |  |
@@ -52,7 +53,8 @@
 | [The Dogs of War \- 2019 remix \[Live\]](https://open.spotify.com/track/3IlIr0PQABSH2JiZaLLQf8) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(2019 Remix\) \[Live\]](https://open.spotify.com/album/2lK80Nb29iqCzaRiERvNDS) | 8:02 | 2021-09-27 |  |
 | [The Dogs of War \- 2019 remix \[Live\]](https://open.spotify.com/track/75WXfSu3uWvQl3x6vrpcSy) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years](https://open.spotify.com/album/619Oth6zcoYKqotDbRPRpn) | 8:02 | 2021-09-27 | 2023-04-03 |
 | [The Great Gig In the Sky \- Delicate Sound Of Thunder Remix, 2020 Edit \[Live\]](https://open.spotify.com/track/6jhN2lIh4N1piP0hSUVsTA) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [On the Turning Away \(Delicate Sound Of Thunder 2019 Remix \[Live\]\)](https://open.spotify.com/album/0bd8yr7k20zQP9iPLTKxtS) | 4:40 | 2021-09-27 |  |
-| [Time \- 2019 remix \[Live\]](https://open.spotify.com/track/4pXxIVE4YTBE8b5HQdjqOC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years](https://open.spotify.com/album/619Oth6zcoYKqotDbRPRpn) | 5:18 | 2021-09-27 |  |
+| [Time \- 2019 remix \[Live\]](https://open.spotify.com/track/4pXxIVE4YTBE8b5HQdjqOC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years](https://open.spotify.com/album/619Oth6zcoYKqotDbRPRpn) | 5:18 | 2021-09-27 | 2023-04-04 |
+| [Time \- 2019 remix \[Live\]](https://open.spotify.com/track/4uVbiOA29f8V8RRCI7M9FR) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(2019 Remix\) \[Live\]](https://open.spotify.com/album/2lK80Nb29iqCzaRiERvNDS) | 5:18 | 2021-09-27 |  |
 | [Us and Them \- 2019 remix \[Live\]](https://open.spotify.com/track/4qORDBIzGvLYzxPk3J2e4K) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(2019 Remix\) \[Live\]](https://open.spotify.com/album/2lK80Nb29iqCzaRiERvNDS) | 7:37 | 2021-09-27 |  |
 | [Us and Them \- 2019 remix \[Live\]](https://open.spotify.com/track/4y7fXAK8R5CiAibNAl7Iua) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years 1987\-2019](https://open.spotify.com/album/5S6piLR8OYNymGIApEC6k4) | 7:39 | 2021-09-27 | 2023-04-03 |
 | [Welcome to the Machine \- 2019 remix \[Live\]](https://open.spotify.com/track/6VjlVLcTFCMWdfBhCfSbur) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(2019 Remix\) \[Live\]](https://open.spotify.com/album/2lK80Nb29iqCzaRiERvNDS) | 7:45 | 2021-09-27 |  |
@@ -60,6 +62,7 @@
 | [What Do You Want from Me \- Live](https://open.spotify.com/track/1eqMju4FY20AWLw8qOY7Er) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pulse \(Live\)](https://open.spotify.com/album/1uSpngQgBBgwRFYS5sOdqI) | 4:10 | 2021-09-27 |  |
 | [Wish You Were Here \- Live at Knebworth 1990](https://open.spotify.com/track/57Nc8KTrSOGqgjxfGzqRP1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years 1987\-2019](https://open.spotify.com/album/5S6piLR8OYNymGIApEC6k4) | 4:43 | 2021-09-27 | 2023-04-03 |
 | [Wish You Were Here \- Live at Knebworth 1990](https://open.spotify.com/track/1KoiTCGdDGvpvjxjsRVu2S) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Live at Knebworth 1990](https://open.spotify.com/album/5JZxCVMYJqplJhJgfytng2) | 4:47 | 2021-09-27 |  |
-| [Yet Another Movie \- 2019 remix \[Live\]](https://open.spotify.com/track/5dlL1PVoVscf1hbcPRDg70) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years](https://open.spotify.com/album/619Oth6zcoYKqotDbRPRpn) | 6:16 | 2021-09-27 |  |
+| [Yet Another Movie \- 2019 remix \[Live\]](https://open.spotify.com/track/3frLTqpdHGkW7wUm8KNMz8) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(2019 Remix\) \[Live\]](https://open.spotify.com/album/2lK80Nb29iqCzaRiERvNDS) | 6:16 | 2021-09-27 |  |
+| [Yet Another Movie \- 2019 remix \[Live\]](https://open.spotify.com/track/5dlL1PVoVscf1hbcPRDg70) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Later Years](https://open.spotify.com/album/619Oth6zcoYKqotDbRPRpn) | 6:16 | 2021-09-27 | 2023-04-04 |
 
 \*This playlist was first scraped on 2023-03-23. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-350 songs - 23 hr 37 min
+351 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Fractal](https://open.spotify.com/track/4E5jKJGrswkfkjQ4e0VsgH) | [Ruben Gerards](https://open.spotify.com/artist/2AGeMh4qqkuiyiD5tiO449) | [Fractal](https://open.spotify.com/album/5QhFnYTMLJMTRParRoX8nf) | 2:56 | 2023-02-23 | 2023-03-01 |
 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 | 2022-10-20 |  |
 | [Furui Chizu \(Old Map\)](https://open.spotify.com/track/0cNzX9fSafdJQQuxNeUOFM) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [Kazuma Fujimoto](https://open.spotify.com/artist/20qDjhYBrYKWNCKmGgJIFH) | [Yoru no Niwa \(Night Garden\)](https://open.spotify.com/album/596yPS71AnU4gBjgzK4eKR) | 3:42 | 2022-11-10 | 2022-11-16 |
+| [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 | 2023-03-30 |  |
 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 | 2022-11-25 |  |
 | [Gluck: 妖精の踊り](https://open.spotify.com/track/3KCH3uAbvDwaEKdswsspgX) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR) | [鳥の歌](https://open.spotify.com/album/2WrUZcTKVmFZdbatMmx9oB) | 2:37 | 2022-10-20 | 2022-12-02 |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 | 2022-10-20 |  |
@@ -286,7 +287,7 @@
 | [Violin Sonata No\. 1 in D Minor, Op\. 75, R\. 123: II\. Adagio](https://open.spotify.com/track/76zq5F4boCeUXEhxFGPUY9) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [尾池亜美](https://open.spotify.com/artist/3cS5HS2INEMFnSOXCqcZrq), [Takaya Sano](https://open.spotify.com/artist/2RemI5LukbaAX28U1HQzFg) | [French Romanticism](https://open.spotify.com/album/7LlIFbfuWFbB9HliLNU6xj) | 5:48 | 2022-10-20 | 2022-10-28 |
 | [Voyage](https://open.spotify.com/track/5T9jY8XY5uAkewdYMjDdYi) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Voyage](https://open.spotify.com/album/1zyRsUPkb552Z6f4w0dvM4) | 2:39 | 2022-12-01 | 2023-03-01 |
 | [Voyage](https://open.spotify.com/track/6ayNdgQ7ISIGQW6TBelkKl) | [Ichiro Takamoto](https://open.spotify.com/artist/0e6KRrsS9hkrOFoj5fFvFa) | [シャコンヌ・オリエンターレ2](https://open.spotify.com/album/4nuVKjPj8d7HqX8VhOgJsh) | 5:14 | 2022-10-20 | 2022-12-02 |
-| [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 | 2022-12-13 |  |
+| [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 | 2022-12-13 | 2023-04-04 |
 | [Waltz in Bb Minor](https://open.spotify.com/track/5d7h5dhyoncJuJmg0jV5gU) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Waltz in Bb Minor](https://open.spotify.com/album/4gUcfKjoa7FJeeGIcvHCMz) | 2:06 | 2022-12-01 | 2023-02-15 |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-10-20 | 2023-02-08 |
 | [When You Can't Sleep At Night](https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:32 | 2022-11-23 | 2023-02-08 |

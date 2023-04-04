@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDI1Zjk4ZjgzYzE5YWYwMjgyYTkzOGMyYTE1OGMyYWM1",
+  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDU3YzZkZmUxOGEwNjdmZmFhZTVjMzlmOThlODA3MWYz",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Para Tucancillos y Tucancillas",
+        "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 267250,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Para Tucancillos y Tucancillas",
-        "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Con La Regida",
-        "url": "https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "24 de Diciembre",
-      "url": "https://open.spotify.com/track/19iucT8nAxsGInO2Y1somA"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 196352,
       "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
       "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad Con La Regida",
+        "url": "https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "24 de Diciembre",
+      "url": "https://open.spotify.com/track/19iucT8nAxsGInO2Y1somA"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "50 Mentadas",
         "url": "https://open.spotify.com/album/7xFuSIZCtlLXW5YWlLHlF9"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 217196,
       "name": "Regalo Equivocado",
       "url": "https://open.spotify.com/track/5ZvxPq0T3oAJ379BwLAh3g"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 182226,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Voy A Pedirle A Santa Claus",
+        "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 157042,
+      "name": "Voy A Pedirle A Santa Claus",
+      "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "La Diva en Vivo",
         "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 253746,
       "name": "Navidad Sin Ti - Live",
       "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 250015,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Voy A Pedirle A Santa Claus",
-        "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 157042,
-      "name": "Voy A Pedirle A Santa Claus",
-      "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
+      "duration_ms": 250015,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Navidad Con Angela (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 196524,
       "name": "El Ni\u00f1o del Tambor - Edici\u00f3n Especial",
       "url": "https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "A\u00f1o Con A\u00f1o",
+        "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 233864,
+      "name": "A\u00f1o Con A\u00f1o",
+      "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Ya Viene Nochebuena",
         "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "A\u00f1o Con A\u00f1o",
-        "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
       },
       "artists": [
         {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 233864,
-      "name": "A\u00f1o Con A\u00f1o",
-      "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
+      "duration_ms": 253000,
+      "name": "Oye Santa Claus",
+      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1163,22 +1179,6 @@
       "duration_ms": 120405,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Oye Santa Claus",
-      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Una Noche Especial",
-        "url": "https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc"
-      },
-      "artists": [
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Una Noche Especial",
-      "url": "https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Amor Navide\u00f1o",
         "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 225125,
       "name": "Santa Quiero",
       "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Una Noche Especial",
+        "url": "https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc"
+      },
+      "artists": [
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Una Noche Especial",
+      "url": "https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg"
     },
     {
       "added_at": "2022-12-22 18:42:12",

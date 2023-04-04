@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 250041,
+  "num_followers": 250095,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGYxMGE2NzZiNDdkMjRkYzFkMGQwMWQ1YTkwZjBkNmY3",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGRlYjNlZTJlYWI3OWQ5MmJjZDY2MDkwOWJhNGM5MDM0",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -367,6 +367,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Majestic Casual - Chapter 3",
+        "url": "https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        },
+        {
+          "name": "shiloh",
+          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "i\u2019m sorry",
+      "url": "https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Green Twins",
         "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 508601,
       "name": "Ayahuasca",
       "url": "https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Majestic Casual - Chapter 3",
-        "url": "https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6"
-      },
-      "artists": [
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        },
-        {
-          "name": "shiloh",
-          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "i\u2019m sorry",
-      "url": "https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -527,22 +527,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
         "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 218311,
       "name": "White Gemini",
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        },
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        }
+      ],
+      "duration_ms": 130271,
+      "name": "(Interlude)",
+      "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Homegrown (Remixes)",
         "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
       },
@@ -647,42 +667,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        },
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        }
-      ],
-      "duration_ms": 130271,
-      "name": "(Interlude)",
-      "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "I would",
         "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
       },
@@ -707,22 +691,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "After the Tone with Lossapardo",
-        "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
-        },
-        {
-          "name": "Lossapardo",
-          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
         }
       ],
-      "duration_ms": 153700,
-      "name": "After the Tone with Lossapardo",
-      "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -739,6 +719,26 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "After the Tone with Lossapardo",
+        "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
+        {
+          "name": "Lossapardo",
+          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+        }
+      ],
+      "duration_ms": 153700,
+      "name": "After the Tone with Lossapardo",
+      "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
     },
     {
       "added_at": "2019-06-07 08:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "frozenthere",
-        "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
-      },
-      "artists": [
-        {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Frozen Away",
-      "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "frozenthere",
+        "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "Frozen Away",
+      "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
       "added_at": "2018-12-11 21:12:31",

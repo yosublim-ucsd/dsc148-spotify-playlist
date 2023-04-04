@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 672667,
+  "num_followers": 672840,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcyMDkzNSwwMDAwMDAwMDRjYzhlNjFlNDFhZWZiY2Q0NDRlMWUxZDNhMjYzMzZh",
+  "snapshot_id": "MTY2OTcyMDkzNSwwMDAwMDAwMDQwZGZlMThlMGI0NDdiMzI2NzcyNzQ1YmFmMTBhYTk0",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "People Get Ready",
-        "url": "https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "People Get Ready",
-      "url": "https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
         "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 157266,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "People Get Ready",
+        "url": "https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Green Onions / Behave Yourself",
-        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+        "name": "Green Onions / Behave Yourself",
+        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
       },
       "artists": [
         {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
         }
       ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+      "duration_ms": 167384,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -491,6 +475,22 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "I Was Made To Love Her",
         "url": "https://open.spotify.com/album/6thSjE17RxW8tJFtLyXA3B"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Hang On In There Baby",
-        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 201066,
       "name": "Didn't I (Blow Your Mind This Time)",
       "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Hang On In There Baby",
+        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -571,6 +571,26 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Your Precious Love",
+      "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "Everything Is Everything",
         "url": "https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh"
       },
@@ -603,6 +623,22 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "Brook Benton Today",
+        "url": "https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx"
+      },
+      "artists": [
+        {
+          "name": "Brook Benton",
+          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "Rainy Night in Georgia",
+      "url": "https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "Tell It Like It Is",
         "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
       },
@@ -615,26 +651,6 @@
       "duration_ms": 249226,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Your Precious Love",
-      "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -655,18 +671,18 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Brook Benton Today",
-        "url": "https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx"
+        "name": "Funkify Your Life: The Meters Anthology",
+        "url": "https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz"
       },
       "artists": [
         {
-          "name": "Brook Benton",
-          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
         }
       ],
-      "duration_ms": 233573,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7"
+      "duration_ms": 185226,
+      "name": "Cissy Strut",
+      "url": "https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -683,22 +699,6 @@
       "duration_ms": 174933,
       "name": "I Can't Get Next To You",
       "url": "https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
-        "name": "Funkify Your Life: The Meters Anthology",
-        "url": "https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Cissy Strut",
-      "url": "https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR"
     },
     {
       "added_at": "2021-04-29 10:16:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,907 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,949 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 44 | [City Lights \- Previously Unreleased](https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [City Lights \(Previously Unreleased\)](https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF) | 4:50 |
 | 45 | [We Are Going to Be Friends \- Live](https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 2:24 |
 | 46 | [Ashtray Heart](https://open.spotify.com/track/3jUXDyGRhU0y4IUdtjUVMU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:45 |
-| 47 | [Rated X \- Live at Hotel Yorba](https://open.spotify.com/track/7j7M5QszpIxwh6u9dvjT8x) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Hotel Yorba \(Live at Hotel Yorba\)](https://open.spotify.com/album/2upyV5uITU3hDbdDPPKUGA) | 2:52 |
-| 48 | [Red Bowling Ball Ruth](https://open.spotify.com/track/30siUDNDehoZno3ovCjRlm) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The Big Three Killed My Baby](https://open.spotify.com/album/4dnpMWVcgNv2IDv7bDjmxP) | 2:07 |
-| 49 | [Cool Drink Of Water Blues \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:12 |
+| 47 | [Cool Drink Of Water Blues \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:12 |
+| 48 | [Rated X \- Live at Hotel Yorba](https://open.spotify.com/track/7j7M5QszpIxwh6u9dvjT8x) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Hotel Yorba \(Live at Hotel Yorba\)](https://open.spotify.com/album/2upyV5uITU3hDbdDPPKUGA) | 2:52 |
+| 49 | [Red Bowling Ball Ruth](https://open.spotify.com/track/30siUDNDehoZno3ovCjRlm) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The Big Three Killed My Baby](https://open.spotify.com/album/4dnpMWVcgNv2IDv7bDjmxP) | 2:07 |
 | 50 | [Stones In My Passway \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:40 |
 
-Snapshot ID: `MjgwMDczMDIsMDAwMDAwMDBmNmMzMDMwMDkxMGM2ZDM2ZGFmMWNmNzg5NDMxMWRiOQ==`
+Snapshot ID: `MjgwMDg3NjAsMDAwMDAwMDBhZGE3NjBmNTcwZDk2ZTZkZWJkZGI2NDMyOTIwZDc2YQ==`

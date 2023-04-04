@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Polimá Westcoast en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,677 likes - 86 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,701 likes - 86 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

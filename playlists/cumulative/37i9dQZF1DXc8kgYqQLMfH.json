@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "After The Light",
+        "url": "https://open.spotify.com/album/1AixtQYOoF0vgoTd3hjFtv"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "After The Light",
+      "url": "https://open.spotify.com/track/4PGIQeUOETbabp6YJK6X6F"
+    },
+    {
+      "album": {
         "name": "Afternoon Nap",
         "url": "https://open.spotify.com/album/0A70M4g7sArOi0Jv3ju8Mf"
       },
@@ -1834,6 +1852,24 @@
       "duration_ms": 144426,
       "name": "boombox",
       "url": "https://open.spotify.com/track/5DU237MfhlKWzzdH1WzjFg"
+    },
+    {
+      "album": {
+        "name": "Born On A Full Moon",
+        "url": "https://open.spotify.com/album/0PFO5GugGPuXvDY9KNsZO0"
+      },
+      "artists": [
+        {
+          "name": "Summer Clarke",
+          "url": "https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "Born On A Full Moon",
+      "url": "https://open.spotify.com/track/5QWaOjqzuhPKT90hzWz7yC"
     },
     {
       "album": {
@@ -3384,6 +3420,24 @@
       "duration_ms": 133714,
       "name": "Damped Clocks",
       "url": "https://open.spotify.com/track/4AOj72u1p1cJeVEq8HqnCK"
+    },
+    {
+      "album": {
+        "name": "dandelion",
+        "url": "https://open.spotify.com/album/29awjnX2dm9AYbMSCQTvQe"
+      },
+      "artists": [
+        {
+          "name": "soulful beats",
+          "url": "https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "dandelion",
+      "url": "https://open.spotify.com/track/5qBExpe9npzMiDNTm9WtGQ"
     },
     {
       "album": {
@@ -5311,6 +5365,24 @@
     },
     {
       "album": {
+        "name": "Flawed",
+        "url": "https://open.spotify.com/album/6MMPE4FvxMatM3IdkI0E5Q"
+      },
+      "artists": [
+        {
+          "name": "Nomadic Focus",
+          "url": "https://open.spotify.com/artist/6tZYiudQKCGp6IUbo9vAer"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219281,
+      "name": "Flawed",
+      "url": "https://open.spotify.com/track/6d6mHXbP1XnN104ONxI1jU"
+    },
+    {
+      "album": {
         "name": "Familiar Faces Vol. 1",
         "url": "https://open.spotify.com/album/19mL5qH4MCuPoALZQKMFQs"
       },
@@ -5576,6 +5648,28 @@
       "duration_ms": 102471,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0hBg3ymrkGMAghPlk2L7ii"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7E1e6LoisUa8eGajBw1Ewd"
+      },
+      "artists": [
+        {
+          "name": "Second Harbor",
+          "url": "https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM"
+        },
+        {
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0bB5Z3RMKb4XdCwdD6VNSI"
     },
     {
       "album": {
@@ -7697,6 +7791,46 @@
     },
     {
       "album": {
+        "name": "Jacky Chunk",
+        "url": "https://open.spotify.com/album/0Bqc5ekalcgwl92oBarbvG"
+      },
+      "artists": [
+        {
+          "name": "BluntOne",
+          "url": "https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc"
+        },
+        {
+          "name": "Baen Mow",
+          "url": "https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94032,
+      "name": "Jacky Chunk",
+      "url": "https://open.spotify.com/track/06xkTVqEPW6UA19LH3Iuxf"
+    },
+    {
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/5480KLWzSq4N0vGnyZcBhH"
+      },
+      "artists": [
+        {
+          "name": "PRODA",
+          "url": "https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/5EFQsOcqVBcnqUIqYaToob"
+    },
+    {
+      "album": {
         "name": "Jazz Notes",
         "url": "https://open.spotify.com/album/1Afni32J8Jk4PgeEX0GrJ7"
       },
@@ -8925,6 +9059,28 @@
     },
     {
       "album": {
+        "name": "lost and found",
+        "url": "https://open.spotify.com/album/6Ww8jIErMp9GGzp3VrGE9K"
+      },
+      "artists": [
+        {
+          "name": "sample mode",
+          "url": "https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132604,
+      "name": "lost and found",
+      "url": "https://open.spotify.com/track/1va1PT3H3KAZrcDi26KYFU"
+    },
+    {
+      "album": {
         "name": "Lost Around You",
         "url": "https://open.spotify.com/album/1sXrwOONuN3hbSxipNsuw7"
       },
@@ -9550,6 +9706,28 @@
       "duration_ms": 144000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/2OEiGdcYERflPWGTau38WC"
+    },
+    {
+      "album": {
+        "name": "Massiv",
+        "url": "https://open.spotify.com/album/1zYbe3XZCBebHnDtZ5FPEt"
+      },
+      "artists": [
+        {
+          "name": "Jokujekku",
+          "url": "https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n"
+        },
+        {
+          "name": "Knowh3r3",
+          "url": "https://open.spotify.com/artist/0NlaY8zuh9hjpOPSRL3yOG"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Massiv",
+      "url": "https://open.spotify.com/track/4v7qUBLz0u5AnSRRcRyNyD"
     },
     {
       "album": {
@@ -17488,6 +17666,24 @@
       "duration_ms": 140000,
       "name": "Winter Again",
       "url": "https://open.spotify.com/track/2uHsdwWYevLk5zsRKgeAOs"
+    },
+    {
+      "album": {
+        "name": "winter balloon",
+        "url": "https://open.spotify.com/album/69793ppyxJHCz149lVQHIt"
+      },
+      "artists": [
+        {
+          "name": "Ponzi Skeemz",
+          "url": "https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131750,
+      "name": "winter balloon",
+      "url": "https://open.spotify.com/track/6qKhsRKyfUbeqeIEArP2d8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-369 songs - 22 hr 31 min
+370 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 | 2021-03-05 |  |
 | [Heart Like a Wheel](https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n) | [Kate & Anna McGarrigle](https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF) | [Kate & Anna McGarrigle](https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J) | 3:12 | 2021-03-05 | 2023-01-01 |
 | [Heart of Gold](https://open.spotify.com/track/3wmFTQydANMpzhxFLWVCxz) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Vari\-Colored Songs](https://open.spotify.com/album/7E9c0RrB37yHsMmrWsP3lw) | 2:59 | 2021-03-05 | 2022-03-09 |
-| [Heart to Ride](https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:09 | 2021-03-05 |  |
+| [Heart to Ride](https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:09 | 2021-03-05 | 2023-04-04 |
 | [Heart to Ride](https://open.spotify.com/track/3ksOjny1fxhYeRAMunOLcv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:09 | 2021-03-05 | 2022-07-29 |
 | [Heaven's Gate](https://open.spotify.com/track/3gyaObPdirrFeFTz070Wti) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Desert Songs](https://open.spotify.com/album/1nluziMwAJxVD7ZBmTW6IT) | 3:09 | 2021-03-05 | 2022-07-20 |
 | [Heaven's Gate](https://open.spotify.com/track/62EuvgIqhc9o5DPqKse952) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Desert Songs](https://open.spotify.com/album/7qKtluvfzF0kPPT9IOLQNe) | 3:09 | 2021-03-05 | 2023-03-09 |
@@ -244,6 +244,7 @@
 | [People Look Around](https://open.spotify.com/track/6PK0gsO96dIrkf8p0gdms4) | [Catie Curtis](https://open.spotify.com/artist/4WB32sqN839h5BEYYXTeNE) | [Long Night Moon](https://open.spotify.com/album/6Xmc5mToTJbUCbrNB0Ks1P) | 3:58 | 2021-03-05 | 2022-07-27 |
 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 | 2022-10-14 |  |
 | [Pharmakon](https://open.spotify.com/track/2J2oWsC3KGoqdUMIwcMRMU) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Pharmakon](https://open.spotify.com/album/2aLrFMwpy2iZzAUHqh49Th) | 2:35 | 2021-03-05 | 2023-04-02 |
+| [Pharmakon](https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Pharmakon](https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI) | 2:35 | 2023-03-08 |  |
 | [Phoenix](https://open.spotify.com/track/02kai5Mz2pi4Guw9Wg6Vpv) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:30 | 2022-03-08 |  |
 | [Plain Letters \- Reimagined](https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Plain Letters \(Reimagined\)](https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O) | 4:33 | 2022-03-08 |  |
 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae and the Meanwhiles](https://open.spotify.com/artist/1F6SXx16NcfbanBYeBfWdQ), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 | 2021-03-05 | 2022-07-10 |

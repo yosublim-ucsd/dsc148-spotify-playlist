@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=4t\_J5jMpTr2yNzZbx\_vgyA">Lloyiso</a>
 
-234 songs - 13 hr 33 min
+235 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [No Platonic Male Friends](https://open.spotify.com/track/0HtIsMcal2Ma8JOgL1b7yB) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [No Platonic Male Friends](https://open.spotify.com/album/0bqG2FO5rOEfGxdrZJkaeN) | 2:40 | 2022-12-15 | 2023-01-13 |
 | [noba bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [noba bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 | 2023-01-27 |  |
 | [Norton Howard](https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD) | [Hiding Bigfoot](https://open.spotify.com/artist/1e0Tfbil1OBGrWWc0bapxF) | [Norton Howard](https://open.spotify.com/album/2JuZ9oLEWps7Vn74Qy9sRi) | 2:49 | 2022-11-10 | 2023-02-03 |
-| [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 | 2023-03-02 |  |
+| [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-03-02 |  |
+| [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 | 2023-03-02 | 2023-04-04 |
 | [numb myself\~](https://open.spotify.com/track/2fOpK9RvF6VIv4eSzpjyzB) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [numb myself\~](https://open.spotify.com/album/3VAgzyX2TMgS7TaofPtVKE) | 2:07 | 2023-03-02 |  |
 | [Numbers](https://open.spotify.com/track/5mbPhsvvQTMSXD5pTaBA4B) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Numbers](https://open.spotify.com/album/6OtEOteOr6YdKEm61e3elN) | 3:07 | 2022-10-31 | 2023-01-20 |
 | [Old Man](https://open.spotify.com/track/77krcHfId85O4se7W5HpTY) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54) | [Meet me in the middle](https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq) | 3:06 | 2023-03-16 |  |

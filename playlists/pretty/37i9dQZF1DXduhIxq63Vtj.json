@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Achis achis los mariachis! ",
-  "num_followers": 16592,
+  "num_followers": 16612,
   "original_name": "Mariachi Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYwMjgwMSwwMDAwMDAwMGJjMzYyOTM5NTQ1NDY1NDIyMjZkZTE1YTM4MDBlZjBh",
+  "snapshot_id": "MTY3NDYwMjgwMSwwMDAwMDAwMGJjYTZlNDk3OWQxOWNkMzNjNjQ5Y2MzMWU3MmFhNmNl",
   "tracks": [
     {
       "added_at": "2023-01-24 23:26:41",
@@ -107,34 +107,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Sabes Una Cosa",
-      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
+      "duration_ms": 157493,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -155,38 +139,6 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Yo No Fui",
-        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "Yo No Fui",
-      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
         "name": "Cien a\u00f1os... pensando en ti",
         "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
       },
@@ -199,6 +151,38 @@
       "duration_ms": 190133,
       "name": "Carta a Eufemia",
       "url": "https://open.spotify.com/track/0Y2OF1xhhOkC7PlI1M00wq"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Sabes Una Cosa",
+      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -219,22 +203,6 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 175920,
-      "name": "Serenata huasteca",
-      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
@@ -251,18 +219,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "Yo No Fui",
+        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 209184,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh"
+      "duration_ms": 292400,
+      "name": "Yo No Fui",
+      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -299,18 +267,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 170613,
-      "name": "Ya Vas Carnal",
-      "url": "https://open.spotify.com/track/3gJO6TqU3wqgrKTy49kVk8"
+      "duration_ms": 209184,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -331,22 +299,6 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Lo Mejor De La M\u00fasica Mexicana",
-        "url": "https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC"
-      },
-      "artists": [
-        {
-          "name": "Darvelio Arredondo",
-          "url": "https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r"
-        }
-      ],
-      "duration_ms": 221780,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
         "name": "Rancheras de Relajo",
         "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
       },
@@ -363,6 +315,22 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+        }
+      ],
+      "duration_ms": 170613,
+      "name": "Ya Vas Carnal",
+      "url": "https://open.spotify.com/track/3gJO6TqU3wqgrKTy49kVk8"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
         "name": "\u00a1M\u00c9XICO Por Siempre!",
         "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
@@ -372,25 +340,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 164413,
-      "name": "La fiesta del mariachi",
-      "url": "https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "Rancheras Vol. 2",
-        "url": "https://open.spotify.com/album/7LYxHUJ2DHQg9Wd7sxfbA2"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "El copet\u00edn",
-      "url": "https://open.spotify.com/track/2ZliolI7CuxldpgXgMOuYR"
+      "duration_ms": 175920,
+      "name": "Serenata huasteca",
+      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -407,6 +359,38 @@
       "duration_ms": 179000,
       "name": "El son de la negra",
       "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Lo Mejor De La M\u00fasica Mexicana",
+        "url": "https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC"
+      },
+      "artists": [
+        {
+          "name": "Darvelio Arredondo",
+          "url": "https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r"
+        }
+      ],
+      "duration_ms": 221780,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Rancheras Vol. 2",
+        "url": "https://open.spotify.com/album/7LYxHUJ2DHQg9Wd7sxfbA2"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "El copet\u00edn",
+      "url": "https://open.spotify.com/track/2ZliolI7CuxldpgXgMOuYR"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -439,6 +423,70 @@
       "duration_ms": 207956,
       "name": "Chaparrita",
       "url": "https://open.spotify.com/track/4mcQaRnIRyOqBocOjivSZz"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 164413,
+      "name": "La fiesta del mariachi",
+      "url": "https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Las Canciones Mexicanas Que El Mundo Canta",
+        "url": "https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "El Ni\u00f1o Perdido",
+      "url": "https://open.spotify.com/track/5Frkx683FObfMc5dAJJmb3"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 173940,
+      "name": "Alta Y Delgadita",
+      "url": "https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Cien a\u00f1os... pensando en ti",
+        "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 158026,
+      "name": "Osito carpintero",
+      "url": "https://open.spotify.com/track/7nx4DJCKRjAGzAjBL7tKYC"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -491,22 +539,6 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Antonio Aguilar",
-        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 173940,
-      "name": "Alta Y Delgadita",
-      "url": "https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
         "name": "El Pescuezo del Pollo",
         "url": "https://open.spotify.com/album/6YRvAFY1eDocapKDlJc633"
       },
@@ -519,22 +551,6 @@
       "duration_ms": 266800,
       "name": "El Pescuezo del Pollo",
       "url": "https://open.spotify.com/track/4frs1wdJNCBLiCPjfnROlz"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "Cien a\u00f1os... pensando en ti",
-        "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 158026,
-      "name": "Osito carpintero",
-      "url": "https://open.spotify.com/track/7nx4DJCKRjAGzAjBL7tKYC"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -555,18 +571,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Las Canciones Mexicanas Que El Mundo Canta",
-        "url": "https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM"
+        "name": "Dulce Da\u00f1o",
+        "url": "https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
         }
       ],
-      "duration_ms": 194733,
-      "name": "El Ni\u00f1o Perdido",
-      "url": "https://open.spotify.com/track/5Frkx683FObfMc5dAJJmb3"
+      "duration_ms": 296066,
+      "name": "Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui",
+      "url": "https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -587,18 +603,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Dulce Da\u00f1o",
-        "url": "https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
       "artists": [
         {
-          "name": "Mariachi Divas de Cindy Shea",
-          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 296066,
-      "name": "Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui",
-      "url": "https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx"
+      "duration_ms": 214439,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -631,22 +647,6 @@
       "duration_ms": 141375,
       "name": "El Mecate",
       "url": "https://open.spotify.com/track/4GeAHN6TGFh32Yan6KgyAs"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 214439,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9"
     },
     {
       "added_at": "2023-01-24 23:26:41",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-391 songs - 1 day 15 hr 55 min
+392 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Snake Ritual](https://open.spotify.com/track/415zjCOKwFCZcQlvyHQkuj) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Snake Ritual](https://open.spotify.com/album/3gv7Ynk3r2HSlg94P6lvvY) | 7:36 | 2022-11-11 | 2022-12-13 |
 | [So It Goes](https://open.spotify.com/track/5ClxAzprojFOLUBxLWRXn4) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy) | [Hoom Side of the Sun, Vol\. 03](https://open.spotify.com/album/5fygnw3bpNm9VC7G1X9ABe) | 7:05 | 2021-06-25 | 2022-07-24 |
 | [Sol](https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 6:24 | 2021-05-07 |  |
+| [Solaris](https://open.spotify.com/track/3kBQXkTGrMgwk1sxGd5rAH) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Solaris](https://open.spotify.com/album/4bFPeFcSmUhL5CRDEge20O) | 5:15 | 2023-03-31 |  |
 | [Solid Session \- Joris Voorn Remix](https://open.spotify.com/track/1SfYPB5V9LNTkCJn73u0Ua) | [Format](https://open.spotify.com/artist/7vpTOtQikXEZZNqBBwjClU), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Solid Session \(Joris Voorn Remix\)](https://open.spotify.com/album/4vDUZvONNMGYrXINpGaJWy) | 4:48 | 2022-04-22 | 2022-08-30 |
 | [Somebody \- Edit](https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Somebody](https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44) | 3:43 | 2022-05-24 |  |
 | [Sonder](https://open.spotify.com/track/2YxnaInOpa7nQ7zoJjyTYB) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Sonder](https://open.spotify.com/album/55821Gkol2dnYOQIxtQpve) | 8:00 | 2021-04-21 | 2022-07-29 |
@@ -392,7 +393,7 @@
 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-03-10 |  |
 | [Where We Should Be](https://open.spotify.com/track/1epNzxapV6ZZ6XkSAU0LMW) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Where We Should Be](https://open.spotify.com/album/0TAPk95TmI780w2yqJzmGt) | 4:31 | 2023-01-27 | 2023-03-02 |
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2021-04-21 |  |
-| [Woe Misik](https://open.spotify.com/track/0kK4Up84ffNYBrmjjMFS3D) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Woe Misik](https://open.spotify.com/album/4L2QwRnQvj6m79glDv4OST) | 5:54 | 2023-03-31 |  |
+| [Woe Misik](https://open.spotify.com/track/0kK4Up84ffNYBrmjjMFS3D) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Woe Misik](https://open.spotify.com/album/4L2QwRnQvj6m79glDv4OST) | 5:54 | 2023-03-31 | 2023-04-04 |
 | [Yira Yirar](https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Marco Tegui / Raw Main](https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA) | 6:39 | 2021-04-21 | 2022-12-28 |
 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-11 | 2022-12-24 |
 | [Your Inner Workings](https://open.spotify.com/track/3nEHRDu0SiBcMYg5WuHsN0) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Your Inner Workings](https://open.spotify.com/album/4ABZUaxjI2R19wvLzXgNHC) | 5:33 | 2022-05-24 | 2022-10-15 |

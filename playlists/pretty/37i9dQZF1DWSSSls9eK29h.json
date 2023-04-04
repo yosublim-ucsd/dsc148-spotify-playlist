@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 102262,
+  "num_followers": 102412,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDA3NDZhMDVlMzc5OGFiYmM3YmE0OWNlMGU1ZDgwNDRk",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGU2YTg2Y2YwM2RmNWMwZTRiNTVjMDFlYWE4Y2NiMGI0",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Just Between Us",
-        "url": "https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Chill Factor",
         "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 307360,
       "name": "Walking In Rhythm",
       "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Just Between Us",
+        "url": "https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 308906,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT"
-      },
-      "artists": [
-        {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
-        }
-      ],
-      "duration_ms": 314333,
-      "name": "Do You Feel What I'm Feeling?",
-      "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 220773,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT"
+      },
+      "artists": [
+        {
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+        }
+      ],
+      "duration_ms": 314333,
+      "name": "Do You Feel What I'm Feeling?",
+      "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -491,6 +491,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Pieces Of A Dream",
         "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 344773,
       "name": "Touchdown",
       "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "The Power Of Touch",
-        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
-      },
-      "artists": [
-        {
-          "name": "Bobby Lyle",
-          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Aruban Nights",
-      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -571,18 +571,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
+        "name": "The Power Of Touch",
+        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Bobby Lyle",
+          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
         }
       ],
-      "duration_ms": 289866,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+      "duration_ms": 310893,
+      "name": "Aruban Nights",
+      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -935,22 +935,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Saxtress",
         "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
       },
@@ -967,18 +951,34 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Dancing In The Sun",
-        "url": "https://open.spotify.com/album/4riUrx6dAarcgrSLXRfKG9"
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/0ZnVjuFuNGngUDzQrP2JH9"
       },
       "artists": [
         {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
         }
       ],
-      "duration_ms": 359600,
-      "name": "Love Will Find A Way",
-      "url": "https://open.spotify.com/track/3ylLhJHuvVBbpcW1bcKpB5"
+      "duration_ms": 300973,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/4Or4bwHCtVrBFH4eLLG66j"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
     }
   ],
   "unique_name": "Smooth Jazz Classics",

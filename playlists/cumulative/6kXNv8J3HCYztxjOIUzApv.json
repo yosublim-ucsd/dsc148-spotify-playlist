@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/0sQ5k3aJQi5W24yKVhUFjz"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249650,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/4ka9ZXISzjnajUbwMvzJVw"
+    },
+    {
+      "album": {
         "name": "All Out Life",
         "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
       },
@@ -265,6 +283,28 @@
     },
     {
       "album": {
+        "name": "BEST TIMES (feat. Lacey Sturm)",
+        "url": "https://open.spotify.com/album/2mdLMyyP9Qia1BPS7HaafD"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223977,
+      "name": "BEST TIMES (feat. Lacey Sturm)",
+      "url": "https://open.spotify.com/track/1jZosfYphLClzldEiQdRde"
+    },
+    {
+      "album": {
         "name": "Poison The Parish (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2CbMgWfTfT4n80PjrDkbbt"
       },
@@ -316,6 +356,36 @@
       "duration_ms": 255000,
       "name": "Black Thunder",
       "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
+    },
+    {
+      "album": {
+        "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daniel Laskiewicz",
+          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268744,
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
     },
     {
       "album": {
@@ -1584,6 +1654,24 @@
       "duration_ms": 191434,
       "name": "HEADSPACE FT. POORSTACY",
       "url": "https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu"
+    },
+    {
+      "album": {
+        "name": "Hate Me Too",
+        "url": "https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/2QlGEnoXCxMSuz7JM7xNeX"
     },
     {
       "album": {
@@ -3048,6 +3136,28 @@
       "duration_ms": 192502,
       "name": "Thousand Lifetimes",
       "url": "https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX"
+    },
+    {
+      "album": {
+        "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
+        "url": "https://open.spotify.com/album/2lYajN3YIVlefdcwxG4jV3"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        },
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190443,
+      "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
+      "url": "https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH"
     },
     {
       "album": {

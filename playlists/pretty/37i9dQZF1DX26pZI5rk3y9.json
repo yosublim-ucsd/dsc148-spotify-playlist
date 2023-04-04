@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4133,
+  "num_followers": 4139,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDMzMDZkZjI5Y2FlNGM3MTE2NGY2ZGVjYzE2YTdlZWQx",
+  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDRlNzFjMGYwNDZmMzgwNDBjZmVmMWVjZWFlMzkzMjhl",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "The Excello Singles Anthology",
         "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Mississippi Blues",
         "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
       },
@@ -183,26 +183,6 @@
       "duration_ms": 231333,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -267,6 +247,26 @@
       "duration_ms": 185693,
       "name": "Potato Chips",
       "url": "https://open.spotify.com/track/1p0txitWUzsbb9scGmL2wl"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
         "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 210866,
       "name": "Back Water Blues",
       "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
-        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Crawfish Fiesta - Remastered",
-      "url": "https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 258933,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
+        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Crawfish Fiesta - Remastered",
+      "url": "https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
     },
     {
-      "added_at": "2023-04-03 01:00:01",
+      "added_at": "2023-04-04 01:16:28",
       "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Guitar Women, Vol.4",
-        "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "The Fish",
-      "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Farmer's Market Barbecue",
         "url": "https://open.spotify.com/album/3Y2knKkX83CKkc4LtyOH9B"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 627893,
       "name": "Blues For The Barbecue",
       "url": "https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Guitar Women, Vol.4",
+        "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "The Fish",
+      "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -779,22 +779,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Sax Star: Maxwell's Best, Vol. 1",
-        "url": "https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB"
+        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
+        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
       },
       "artists": [
         {
-          "name": "Joe Swift",
-          "url": "https://open.spotify.com/artist/2O5OHlHQnNgg8rsv8kA1KX"
-        },
-        {
-          "name": "Maxwell Davis",
-          "url": "https://open.spotify.com/artist/1fhYtOLzN01tp4kUfdNLGF"
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 176226,
-      "name": "Alligator Meat",
-      "url": "https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn"
+      "duration_ms": 210560,
+      "name": "Gimme a Pigfoot and a Bottle of Beer",
+      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -815,18 +811,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
-        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+        "name": "Sax Star: Maxwell's Best, Vol. 1",
+        "url": "https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB"
       },
       "artists": [
         {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+          "name": "Joe Swift",
+          "url": "https://open.spotify.com/artist/2O5OHlHQnNgg8rsv8kA1KX"
+        },
+        {
+          "name": "Maxwell Davis",
+          "url": "https://open.spotify.com/artist/1fhYtOLzN01tp4kUfdNLGF"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Gimme a Pigfoot and a Bottle of Beer",
-      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
+      "duration_ms": 176226,
+      "name": "Alligator Meat",
+      "url": "https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Eisenhower Blues - Single Version",
-      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "No Border Blues",
         "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Atomic Cocktail - Legendary Slim Gaillard",
-        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
       },
       "artists": [
         {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
         }
       ],
-      "duration_ms": 167600,
-      "name": "Scotchin' with Soda",
-      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
+      "duration_ms": 171533,
+      "name": "Eisenhower Blues - Single Version",
+      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -991,22 +975,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Road Is Rough and Rocky",
-        "url": "https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U"
-      },
-      "artists": [
-        {
-          "name": "Nugrape Twins",
-          "url": "https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "I Got Your Ice Cold Nugrape",
-      "url": "https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Presenting Smiley Lewis",
         "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
       },
@@ -1023,18 +991,34 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Blues For Everybody",
-        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
+        "name": "Atomic Cocktail - Legendary Slim Gaillard",
+        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
         }
       ],
-      "duration_ms": 156746,
-      "name": "She Cooks Me Cabbage",
-      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
+      "duration_ms": 167600,
+      "name": "Scotchin' with Soda",
+      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Road Is Rough and Rocky",
+        "url": "https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U"
+      },
+      "artists": [
+        {
+          "name": "Nugrape Twins",
+          "url": "https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "I Got Your Ice Cold Nugrape",
+      "url": "https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Blues For Everybody",
+        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "She Cooks Me Cabbage",
+      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Steady Gettin' It: The Complete Recordings 1964-67",
         "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 172866,
       "name": "Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Bacon Fat / Pass the Biscuits Please",
+        "url": "https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "duration_ms": 198149,
+      "name": "Pass the Biscuits Please - Remastered",
+      "url": "https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1119,22 +1135,6 @@
       "duration_ms": 163760,
       "name": "Atomic Cocktail",
       "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Bacon Fat / Pass the Biscuits Please",
-        "url": "https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE"
-      },
-      "artists": [
-        {
-          "name": "Andre Williams",
-          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
-        }
-      ],
-      "duration_ms": 198149,
-      "name": "Pass the Biscuits Please - Remastered",
-      "url": "https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd"
     },
     {
       "added_at": "2022-12-02 14:28:08",

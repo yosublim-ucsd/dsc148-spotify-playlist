@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 57718,
+  "num_followers": 57720,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTkxNSxlMDY4YjhhYjEzNjY3MjI4ZjRmZTMyNTMyNDlmZWFlNDkwZjFmMGFi",
+  "snapshot_id": "MTkyOCwzMjM4NzU2NGM1NGYzZjg4ZjJiNDRjOTBjODM1MWVmNzMyODA5NmQ0",
   "tracks": [
     {
       "added_at": "2023-02-22 10:19:42",
@@ -81,20 +81,52 @@
       "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
     },
     {
-      "added_at": "2023-01-27 16:07:55",
+      "added_at": "2023-04-03 10:41:16",
       "album": {
-        "name": "We Will Rock You",
-        "url": "https://open.spotify.com/album/5jPBB8d3UAb8TFwqgVgeGW"
+        "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d"
       },
       "artists": [
         {
-          "name": "TEMPT",
-          "url": "https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk"
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daniel Laskiewicz",
+          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
         }
       ],
-      "duration_ms": 156283,
-      "name": "We Will Rock You",
-      "url": "https://open.spotify.com/track/0dXqdq1aF0SgZamXvUAp57"
+      "duration_ms": 268744,
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
+    },
+    {
+      "added_at": "2023-04-03 12:07:44",
+      "album": {
+        "name": "BEST TIMES (feat. Lacey Sturm)",
+        "url": "https://open.spotify.com/album/2mdLMyyP9Qia1BPS7HaafD"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        }
+      ],
+      "duration_ms": 223977,
+      "name": "BEST TIMES (feat. Lacey Sturm)",
+      "url": "https://open.spotify.com/track/1jZosfYphLClzldEiQdRde"
     },
     {
       "added_at": "2022-09-21 14:25:50",
@@ -111,6 +143,22 @@
       "duration_ms": 209828,
       "name": "The Ending",
       "url": "https://open.spotify.com/track/691AmE5DD4ZZGtZBDZE654"
+    },
+    {
+      "added_at": "2023-02-03 15:59:04",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
     },
     {
       "added_at": "2023-01-04 15:34:16",
@@ -133,6 +181,22 @@
       "url": "https://open.spotify.com/track/5xAF7Mi6dew7boYkaElcTy"
     },
     {
+      "added_at": "2023-04-03 11:18:40",
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/0sQ5k3aJQi5W24yKVhUFjz"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "duration_ms": 249650,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/4ka9ZXISzjnajUbwMvzJVw"
+    },
+    {
       "added_at": "2023-01-03 15:30:49",
       "album": {
         "name": "Worst Behavior",
@@ -147,6 +211,22 @@
       "duration_ms": 185389,
       "name": "Worst Behavior",
       "url": "https://open.spotify.com/track/6ytfPO94m3vVsdaLapzn3W"
+    },
+    {
+      "added_at": "2023-04-03 11:21:07",
+      "album": {
+        "name": "Hate Me Too",
+        "url": "https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/2QlGEnoXCxMSuz7JM7xNeX"
     },
     {
       "added_at": "2022-09-21 14:25:50",
@@ -237,6 +317,22 @@
       "url": "https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX"
     },
     {
+      "added_at": "2023-01-27 16:07:55",
+      "album": {
+        "name": "We Will Rock You",
+        "url": "https://open.spotify.com/album/5jPBB8d3UAb8TFwqgVgeGW"
+      },
+      "artists": [
+        {
+          "name": "TEMPT",
+          "url": "https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk"
+        }
+      ],
+      "duration_ms": 156283,
+      "name": "We Will Rock You",
+      "url": "https://open.spotify.com/track/0dXqdq1aF0SgZamXvUAp57"
+    },
+    {
       "added_at": "2023-01-03 15:31:34",
       "album": {
         "name": "Voodoo Doll",
@@ -287,6 +383,26 @@
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
+    },
+    {
+      "added_at": "2023-04-03 11:15:09",
+      "album": {
+        "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
+        "url": "https://open.spotify.com/album/2lYajN3YIVlefdcwxG4jV3"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        },
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
+      "url": "https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH"
     },
     {
       "added_at": "2022-09-02 09:25:51",
@@ -2035,22 +2151,6 @@
       "duration_ms": 189928,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
-    },
-    {
-      "added_at": "2023-02-03 15:59:04",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 187835,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
     }
   ],
   "unique_name": "Hard Rock Workout",

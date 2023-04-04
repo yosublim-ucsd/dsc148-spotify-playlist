@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 278775,
+  "num_followers": 278842,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDI2M2ZjNDI3MDdiNGM1OTE2YTExNjQ4NzQ3NDZhNGE0",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDQzYzA1NGQ4ODU4YjMyZTJhZmQyMzJlZGYxODNhZmMx",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 241097,
-      "name": "Tenderness",
-      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Selene",
         "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 294640,
       "name": "Selene",
       "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 241097,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Notice Me",
+        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Notice Me",
-        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
-      },
-      "artists": [
-        {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Notice Me",
-      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Gloomy Girl",
+        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Gloomy Girl",
+      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 217939,
       "name": "Driving in My Car",
       "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Gloomy Girl",
-        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Gloomy Girl",
-      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Jay II",
+        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
+      },
+      "artists": [
+        {
+          "name": "Jay Arner",
+          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Earth to Jay",
+      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Jay II",
-        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
-      },
-      "artists": [
-        {
-          "name": "Jay Arner",
-          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Earth to Jay",
-      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "dad",
-        "url": "https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "dad",
-      "url": "https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "If I Come Home",
         "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 216145,
       "name": "If I Come Home",
       "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "dad",
+        "url": "https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "dad",
+      "url": "https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Damn I'm Tired",
-        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
+        "name": "Polymorphe",
+        "url": "https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI"
       },
       "artists": [
         {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
         }
       ],
-      "duration_ms": 225732,
-      "name": "Damn I'm Tired",
-      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP"
     }
   ],
   "unique_name": "Dreampop",

@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 203454,
       "name": "Cherry Blue Intention",
       "url": "https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx"
@@ -662,6 +662,24 @@
       "duration_ms": 178388,
       "name": "GOOD GRIEF",
       "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
+    },
+    {
+      "album": {
+        "name": "Hand Grenade",
+        "url": "https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG"
+      },
+      "artists": [
+        {
+          "name": "be your own pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177168,
+      "name": "Hand Grenade",
+      "url": "https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0"
     },
     {
       "album": {

@@ -6,491 +6,531 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDVhZGIxMGE1ODkyNmU1ZTgzNjE1MzAxNGRhM2Y2ZTE3",
+  "snapshot_id": "MCwwMDAwMDAwMDYxMjI0ODIzNjQwNTgzOTU0MTQzNjAwYjFmYjY0MzYw",
   "tracks": [
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+        "name": "You Can't Do That On Stage Anymore, Vol. 4",
+        "url": "https://open.spotify.com/album/6rZHxpyXVEH3tox9E1aHck"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
         }
       ],
-      "duration_ms": 128266,
-      "name": "Brand New Cadillac - Remastered",
-      "url": "https://open.spotify.com/track/7FYkZkF9fog6WS818wJnhl"
+      "duration_ms": 199933,
+      "name": "My Guitar Wants To Kill Your Mama",
+      "url": "https://open.spotify.com/track/4E5OHolL9QT2wiksoTpsoV"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/2kAaF7jQFJBIFkw29Kk4a0"
+        "name": "Vision Thing",
+        "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
       },
       "artists": [
         {
-          "name": "Kingston Wall",
-          "url": "https://open.spotify.com/artist/2xiriLbuY0O9BA4dJEG70s"
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
         }
       ],
-      "duration_ms": 399626,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/5nqa0APIvNZEkThoZV9Kri"
+      "duration_ms": 275490,
+      "name": "Vision Thing",
+      "url": "https://open.spotify.com/track/4eSk77A3ACvKUc8VkpQ6r3"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "Strawberries (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4c5bfktL4iyMH7Ute5azfw"
+        "name": "Heavenly Bodies",
+        "url": "https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn"
       },
       "artists": [
         {
-          "name": "The Damned",
-          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+          "name": "Gene Loves Jezebel",
+          "url": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
         }
       ],
-      "duration_ms": 292941,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/2kiORDtLlKxfYB1ZgnJEqw"
+      "duration_ms": 339293,
+      "name": "Josephina - Alternate",
+      "url": "https://open.spotify.com/track/2DxOp3pPXi3YzJY8fBgBS4"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "Dawn Of The Dickies",
-        "url": "https://open.spotify.com/album/6C237cCLVvMNffmOlvnv8v"
+        "name": "Peasants, Pigs & Astronauts",
+        "url": "https://open.spotify.com/album/5eMFMcqwtoyt4hafvPtkzB"
       },
       "artists": [
         {
-          "name": "The Dickies",
-          "url": "https://open.spotify.com/artist/3xWO6nOrnGGL9hfB2vWxLI"
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
         }
       ],
-      "duration_ms": 175493,
-      "name": "Nights In White Satin",
-      "url": "https://open.spotify.com/track/2jeySY1H7gmtNFY0A1RNe5"
+      "duration_ms": 369626,
+      "name": "Great Hosannah",
+      "url": "https://open.spotify.com/track/4vxsWMxEMbmAPoCVdtUysm"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "Hotter Than Hell",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Goin' Blind",
-      "url": "https://open.spotify.com/track/2Kgabuiyu24mw1tVcFjHh3"
+      "duration_ms": 195186,
+      "name": "Violin - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2LtaWqNRnCRBvONackei6O"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "The Above Ground Sound of Jake Holmes",
-        "url": "https://open.spotify.com/album/2uexYVF5u0JixQ61uN8kS6"
+        "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
       },
       "artists": [
         {
-          "name": "Jake Holmes",
-          "url": "https://open.spotify.com/artist/3LuF7P74RidHXKY2b1BkAs"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Dazed and Confused",
-      "url": "https://open.spotify.com/track/0G8HJhcTnO6I5wRpEVWr07"
+      "duration_ms": 308746,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "Back In The USA",
-        "url": "https://open.spotify.com/album/67NkpPGMcxoIiumOW3oRpL"
+        "name": "Not Fakin' It",
+        "url": "https://open.spotify.com/album/1xBuhBMYUQsf77qjcsHFAl"
       },
       "artists": [
         {
-          "name": "MC5",
-          "url": "https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf"
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ"
         }
       ],
-      "duration_ms": 148760,
-      "name": "The American Ruse",
-      "url": "https://open.spotify.com/track/1DA8zKVVOdaZomJyRX1zjM"
+      "duration_ms": 271026,
+      "name": "Dead, Jail Or Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/3hMxAPl8lko0bnq7C0qPbW"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "Neverneverland",
-        "url": "https://open.spotify.com/album/2vEiDamgUlwzFPYfNL1diQ"
+        "name": "Loki? (1974)",
+        "url": "https://open.spotify.com/album/592wEPAdKkQjiFZjTg3Xnj"
       },
       "artists": [
         {
-          "name": "The Pink Fairies",
-          "url": "https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE"
+          "name": "Arnaldo Baptista",
+          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/4c0UFMRWdoYTtEZLBYXlzy"
+      "duration_ms": 231466,
+      "name": "Ser\u00e1 Que Eu Vou Virar Bolor?",
+      "url": "https://open.spotify.com/track/4u8hJA3YwkyBOh19aMQDQy"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "Johnny The Fox",
-        "url": "https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD"
+        "name": "Life's Too Good",
+        "url": "https://open.spotify.com/album/5I0rvDfkvXR89ext3Edr1j"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "The Sugarcubes",
+          "url": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
         }
       ],
-      "duration_ms": 180040,
-      "name": "Massacre",
-      "url": "https://open.spotify.com/track/6WhwsgSpv8Krk7GrUaVAgx"
+      "duration_ms": 157400,
+      "name": "Blue Eyed Pop",
+      "url": "https://open.spotify.com/track/5lU2PZA4Naa6tU2ho2egMZ"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "White Wedding",
-        "url": "https://open.spotify.com/album/4heWSjNiHOrrPCQAwVOEfw"
+        "name": "Patriots (2008 Remastered Edition)",
+        "url": "https://open.spotify.com/album/59eHxfqvwJyXhJGGtORaHv"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
         }
       ],
-      "duration_ms": 214573,
-      "name": "White Wedding \u2013 Part 1",
-      "url": "https://open.spotify.com/track/1pydT12pGHLgfj3JLxWIUB"
+      "duration_ms": 305266,
+      "name": "Up Patriots To Arms - Remastered 2008",
+      "url": "https://open.spotify.com/track/4K3cElW740S6w5wbjBjRbt"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "About Face",
-        "url": "https://open.spotify.com/album/1tqAPIpiTx3XCtqS4Mn1zj"
+        "name": "Enter The Vaselines (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
       },
       "artists": [
+        {
+          "name": "The Vaselines",
+          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Jesus Wants Me For A Sunbeam",
+      "url": "https://open.spotify.com/track/7z9pI6Asfe8XTGEOShEoBF"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "Pesadelo Em Peluche",
+        "url": "https://open.spotify.com/album/0jecvHhATSNNitJeIFvcnD"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3o Morta",
+          "url": "https://open.spotify.com/artist/65q3jOsehtX9q8E5m9FRpQ"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Novelos Da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/3ovjFvvRmdIV4eFnea98zA"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "O Descobrimento Do Brasil",
+        "url": "https://open.spotify.com/album/6YrgsAJfmpimelyDGkaqU9"
+      },
+      "artists": [
+        {
+          "name": "Legi\u00e3o Urbana",
+          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Perfei\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5uWxvDP5WpEv3L2lpLOCCE"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "84 94 - Volume 2",
+        "url": "https://open.spotify.com/album/6WTyhGl3sbN6qvvFQ1NkwK"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Igreja",
+      "url": "https://open.spotify.com/track/3isPdOuiWWMkURc3iIBhdE"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "El Topo Grand Hotel",
+        "url": "https://open.spotify.com/album/6Uwpsgm0Ns2cfBt6kE0htw"
+      },
+      "artists": [
+        {
+          "name": "Timoria",
+          "url": "https://open.spotify.com/artist/6MOkOxi8aHcvUdpLdbsfvg"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "Sole Spento",
+      "url": "https://open.spotify.com/track/2iVjtaOEhpZ4ArvSpCLRJM"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "Slide It In",
+        "url": "https://open.spotify.com/album/6hDBVAPtFSQuMJqWRldO9w"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Guilty of Love",
+      "url": "https://open.spotify.com/track/6SskWYTJwI77yhvNJscIiu"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "Butchering The Beatles",
+        "url": "https://open.spotify.com/album/7sQGrhKnpcEECb9TrEVfVR"
+      },
+      "artists": [
+        {
+          "name": "Lemmy",
+          "url": "https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd"
+        },
+        {
+          "name": "John 5",
+          "url": "https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX"
+        },
+        {
+          "name": "Eric Singer",
+          "url": "https://open.spotify.com/artist/7zEEexBlaAamW68arysqIZ"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Back in the USSR",
+      "url": "https://open.spotify.com/track/3iIsrYNwHsQMjDOccnvrVx"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "1979-1981",
+        "url": "https://open.spotify.com/album/5IqPVzmoewZINqiH3QP44W"
+      },
+      "artists": [
+        {
+          "name": "Ratsia",
+          "url": "https://open.spotify.com/artist/6jH9LLD7vylrMaLcWfvIDA"
+        }
+      ],
+      "duration_ms": 99933,
+      "name": "Ole hyv\u00e4 nyt",
+      "url": "https://open.spotify.com/track/00W63QbNGwfXHXOcjiCZLa"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "First Time In A Long Time: The Reprise Recordings",
+        "url": "https://open.spotify.com/album/2BkEkcphy0liqTVRSBEEpC"
+      },
+      "artists": [
+        {
+          "name": "Fanny",
+          "url": "https://open.spotify.com/artist/1Pag7p4HbSdZIDzgNLsk39"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Hey Bulldog",
+      "url": "https://open.spotify.com/track/3KK3yIddOIFXIvTT1el5uK"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "Red Skies Over Paradise",
+        "url": "https://open.spotify.com/album/7lO2PFTb71xxARq3QV7Ft6"
+      },
+      "artists": [
+        {
+          "name": "Fischer-Z",
+          "url": "https://open.spotify.com/artist/3fRV5Jo7lNKhRSx4C3sLMZ"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Marliese",
+      "url": "https://open.spotify.com/track/3CovsS9wAZUNH7AwSLPTIH"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "Larga Vida Al Rock & Roll",
+        "url": "https://open.spotify.com/album/51iXQovQvR2JqxeAJIMzsT"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00f3n Rojo",
+          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Con Botas Sucias",
+      "url": "https://open.spotify.com/track/3vm9Tvl6mqp8TkowZNQe2t"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "Leaders Of The Free World",
+        "url": "https://open.spotify.com/album/7o4viKB5Rqod8h2xcE60Tw"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "duration_ms": 371026,
+      "name": "Leaders of the Free World",
+      "url": "https://open.spotify.com/track/0FeKXParpIZgzNzzOeJiZY"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "G3 - Live In Concert",
+        "url": "https://open.spotify.com/album/3yhruEiDEdWrwVQ2ghBUi0"
+      },
+      "artists": [
+        {
+          "name": "Joe Satriani, Steve Vai & Eric Johnson",
+          "url": "https://open.spotify.com/artist/7mjRzkpUsNlcoHHEhq2LcD"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "My Guitar Wants To Kill Your Mama - Live",
+      "url": "https://open.spotify.com/track/0LyTayCQMIDzWPkjJ0WMcT"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "With Monsters and Gods",
+        "url": "https://open.spotify.com/album/4inzs2h4pBpyDvbCm5uTwP"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moon Explosion",
+          "url": "https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2Ap0PFnoStqRzhtlNZAUEh"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "Blodig Alvor Na Na Na Na Na (Remastered 2015)",
+        "url": "https://open.spotify.com/album/4eTjamzuy8opewpoF1GZk3"
+      },
+      "artists": [
+        {
+          "name": "Dumdum Boys",
+          "url": "https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Lunch I Det Gr\u00f8nne",
+      "url": "https://open.spotify.com/track/1wOB718qIpnjWyzRuetjpj"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "A Kiss In The Dreamhouse",
+        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Painted Bird",
+      "url": "https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw"
+    },
+    {
+      "added_at": "2023-04-03 04:00:00",
+      "album": {
+        "name": "Ever Fallen in Love (With Someone You Shouldn't've)?",
+        "url": "https://open.spotify.com/album/3RWRVqe3MESi2OuyqdXo4J"
+      },
+      "artists": [
+        {
+          "name": "Roger Daltrey",
+          "url": "https://open.spotify.com/artist/5odf7hjI7hyvAw66tmxhGF"
+        },
+        {
+          "name": "The Datsuns",
+          "url": "https://open.spotify.com/artist/2P6KPAphDMASmfHjnxSMmR"
+        },
+        {
+          "name": "The Futureheads",
+          "url": "https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8"
+        },
         {
           "name": "David Gilmour",
           "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "Murder - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1z7CU091xitmOwjzeATjX3"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/4oXJy1AZb6TYWv8po6oRpU"
-      },
-      "artists": [
+        },
         {
-          "name": "Topi Sorsakoski & Agents",
-          "url": "https://open.spotify.com/artist/3pcfIpTAeW7gE231DLRiiY"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "On Kes\u00e4y\u00f6 (Summer Nights)",
-      "url": "https://open.spotify.com/track/5lqs3i63lEnS9cEdHsfy3W"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "In The Eye Of The Storm",
-        "url": "https://open.spotify.com/album/0qfNyNVCd7fcof8FdBwtaT"
-      },
-      "artists": [
+          "name": "Peter Hook",
+          "url": "https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM"
+        },
         {
-          "name": "Roger Hodgson",
-          "url": "https://open.spotify.com/artist/3lHXm91pKLq9Sxi6CoRKWu"
-        }
-      ],
-      "duration_ms": 506146,
-      "name": "Had A Dream (Sleeping With The Enemy)",
-      "url": "https://open.spotify.com/track/37yEfFkY54AijZUjDv0gAl"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Hell To Pay",
-        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
-      },
-      "artists": [
+          "name": "Pete Shelley",
+          "url": "https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8"
+        },
         {
-          "name": "The Jeff Healey Band",
-          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "While My Guitar Gently Weeps",
-      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Cosmopolis",
-        "url": "https://open.spotify.com/album/2Y1dcGJCJokrM6k2r0NEdA"
-      },
-      "artists": [
-        {
-          "name": "Brygada Kryzys",
-          "url": "https://open.spotify.com/artist/7E5FxSmZclVL7goPlQXQIe"
-        }
-      ],
-      "duration_ms": 317613,
-      "name": "To co czujesz, to co wiesz",
-      "url": "https://open.spotify.com/track/1PGfufH63EaaMVxu8ik0qZ"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "This Is What You Want . . . This Is What You Get (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6eSITOp2WRPIwqRD1tTJjX"
-      },
-      "artists": [
-        {
-          "name": "Public Image Ltd.",
-          "url": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "This Is Not A Love Song - 2011 - Remaster",
-      "url": "https://open.spotify.com/track/12Q7On756CJezQzLTT9Q6e"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "No Quarter",
-        "url": "https://open.spotify.com/album/38QCA8PPa9G8BjCO5k1jDp"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Page",
-          "url": "https://open.spotify.com/artist/55bGuHb50r5c0PeqqMeNBV"
+          "name": "El Presidente",
+          "url": "https://open.spotify.com/artist/3oM6F3WLmGP5e8nPHVAzLy"
         },
         {
           "name": "Robert Plant",
           "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Soledad Brothers",
+          "url": "https://open.spotify.com/artist/4TAFRShd7vZ8HEp5yKdwo6"
         }
       ],
-      "duration_ms": 747800,
-      "name": "Kashmir",
-      "url": "https://open.spotify.com/track/5D7DMAMmaxoTJIV27i5lDJ"
+      "duration_ms": 180400,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've)?",
+      "url": "https://open.spotify.com/track/4cHvNUjD8pzO8qNR8P5Gwl"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "Uns E Outros",
-        "url": "https://open.spotify.com/album/1Ktuj3GaRYbTnbw3v8IGkJ"
+        "name": "La malavita",
+        "url": "https://open.spotify.com/album/6GFgZCJi4TL0xW5m40ZzbQ"
       },
       "artists": [
         {
-          "name": "Uns E Outros",
-          "url": "https://open.spotify.com/artist/38Zmg6Ij4Fl0sy2Cn0I3s9"
+          "name": "Baustelle",
+          "url": "https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi"
         }
       ],
-      "duration_ms": 236026,
-      "name": "Carta aos Mission\u00e1rios",
-      "url": "https://open.spotify.com/track/5RrMvmwiodi2XKjoaV7Edl"
+      "duration_ms": 261760,
+      "name": "La guerra \u00e8 finita",
+      "url": "https://open.spotify.com/track/2tvCTTQ2L5LGXZSRyH1ocL"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "Jesus Loves The Stooges",
-        "url": "https://open.spotify.com/album/43bwT6QlodDrQt8EPM9D5Y"
+        "name": "Heavy Weather",
+        "url": "https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1"
       },
       "artists": [
         {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
         }
       ],
-      "duration_ms": 246385,
-      "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/4F9KgLQneMCngLI7fWtvUI"
+      "duration_ms": 356760,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/19vVghIuHm3IAfN4xpRF3q"
     },
     {
-      "added_at": "2023-03-27 03:00:00",
+      "added_at": "2023-04-03 04:00:00",
       "album": {
-        "name": "No Guts, No Glory",
-        "url": "https://open.spotify.com/album/6DT7hAEKQnfNv93vlveJhN"
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
       "artists": [
         {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
         }
       ],
-      "duration_ms": 483626,
-      "name": "Fall Of The Peacemakers",
-      "url": "https://open.spotify.com/track/1Aq8Qe3RrDbRSsnpTAgouc"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Badmotorfinger (25th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 351360,
-      "name": "Jesus Christ Pose - Remastered",
-      "url": "https://open.spotify.com/track/2UoHjfejHhemj0KSWCOV2A"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Manic Nirvana",
-        "url": "https://open.spotify.com/album/3BiwdeeGEhgxojoZISTe2J"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        }
-      ],
-      "duration_ms": 251160,
-      "name": "Hurting Kind (I've Got My Eyes on You) - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3OmJpNqoJtxO3leWJkk53O"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Give Us A Wink",
-        "url": "https://open.spotify.com/album/1pD2XJI6nHHSQAzbloHePx"
-      },
-      "artists": [
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Action - Single Version",
-      "url": "https://open.spotify.com/track/71nY94VWv4IQoDY5MANxeV"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "The Eps- Lacuna Coil/halflife",
-        "url": "https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "On Through The Night",
-        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 188819,
-      "name": "Rock Brigade",
-      "url": "https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Endless Skies",
-        "url": "https://open.spotify.com/album/08h1bmtg6gGCmupwhT88ZW"
-      },
-      "artists": [
-        {
-          "name": "Ashbury",
-          "url": "https://open.spotify.com/artist/1olZcNG9rq4RGVVd69Tj4e"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Take Your Love Away",
-      "url": "https://open.spotify.com/track/1XbF3kvGve4pZ4VipuOu3o"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Paper Monsters (U.S. Version)",
-        "url": "https://open.spotify.com/album/7JuA7ZgFUcigs0CjN3C68x"
-      },
-      "artists": [
-        {
-          "name": "Dave Gahan",
-          "url": "https://open.spotify.com/artist/7hKXTmrq3ZppBx881yBbOr"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Dirty Sticky Floors",
-      "url": "https://open.spotify.com/track/7EA4GyszWRZ5LmHT6l6fEU"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Nite Flights",
-        "url": "https://open.spotify.com/album/4lGpTlVO3AntE6meVeRDt8"
-      },
-      "artists": [
-        {
-          "name": "The Walker Brothers",
-          "url": "https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Shutout",
-      "url": "https://open.spotify.com/track/6lDJEEX8QwxxwV8jDQOaNp"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
-      },
-      "artists": [
-        {
-          "name": "Billy Cobham",
-          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
-        }
-      ],
-      "duration_ms": 267453,
-      "name": "Quadrant 4",
-      "url": "https://open.spotify.com/track/4yorEi80D59lHE1xiN0vak"
-    },
-    {
-      "added_at": "2023-03-27 03:00:00",
-      "album": {
-        "name": "Crac!",
-        "url": "https://open.spotify.com/album/5eOTf1CZgRvs3X3OtIxlwK"
-      },
-      "artists": [
-        {
-          "name": "Area",
-          "url": "https://open.spotify.com/artist/6o2PxnpsrQ352kwYlEwjvR"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Gioia e rivoluzione",
-      "url": "https://open.spotify.com/track/6PiaWZdZiIa7GLS2jpB4Ej"
+      "duration_ms": 225333,
+      "name": "Mongoloid",
+      "url": "https://open.spotify.com/track/3bGG7jaMbcx8JDl3gLUvo7"
     }
   ],
   "unique_name": "Discover Weekly (@pipemanuel10)",

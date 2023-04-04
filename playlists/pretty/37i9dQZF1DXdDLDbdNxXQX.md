@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDLDbdNxXQX.md) - [plain]
 
 > Sing along with Thomas & Friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,986 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,994 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

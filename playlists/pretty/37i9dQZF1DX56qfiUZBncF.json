@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 377762,
+  "num_followers": 377784,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDE0N2VlODJjMWY3MzE3MGQ2NTMxYzAxZmRhNThjYTA1",
+  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDUyMjExNTk3Njc3MzU3MGM0ZjYzNjI5NDI4OTEyMDlj",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 210613,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 254871,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "RELAXER",
         "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 254871,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "something more",
         "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 185480,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
-      },
-      "artists": [
-        {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Until We Meet Again",
         "url": "https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 141049,
       "name": "cherry blossom",
       "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Old T-Shirt (feat. koby)",
-        "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
-      },
-      "artists": [
-        {
-          "name": "Kim Tee",
-          "url": "https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp"
-        },
-        {
-          "name": "koby",
-          "url": "https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02"
-        }
-      ],
-      "duration_ms": 219483,
-      "name": "Old T-Shirt (feat. koby)",
-      "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "6 Letters",
         "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 166469,
       "name": "6 Letters",
       "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Old T-Shirt (feat. koby)",
+        "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
+      },
+      "artists": [
+        {
+          "name": "Kim Tee",
+          "url": "https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp"
+        },
+        {
+          "name": "koby",
+          "url": "https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02"
+        }
+      ],
+      "duration_ms": 219483,
+      "name": "Old T-Shirt (feat. koby)",
+      "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Bless You",
-        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Far From Here",
         "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 260338,
       "name": "Edge of the Dark",
       "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Bless You",
+        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
     },
     {
       "added_at": "2023-01-11 21:01:15",

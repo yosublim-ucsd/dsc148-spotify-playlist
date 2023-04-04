@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 223546,
       "name": "All Rise",
       "url": "https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 221142,
       "name": "fickle.minds",
       "url": "https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 195493,
       "name": "life as I know it",
       "url": "https://open.spotify.com/track/4lQe11Y0Qu7EoCN9PVFd6P"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 156857,
       "name": "midnight rendezvous",
       "url": "https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 189280,
       "name": "New Man",
       "url": "https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG"
@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "album": {
         "name": "Some Things Never Change",
         "url": "https://open.spotify.com/album/573Vfx55DSu8ysefBIU3QP"
       },
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 176557,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo"
@@ -4010,6 +4028,24 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "album": {
+        "name": "Mystical Magical Rhythmical Radical Ride",
+        "url": "https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217942,
+      "name": "You Might Like It",
+      "url": "https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8gS5vh05dnc"

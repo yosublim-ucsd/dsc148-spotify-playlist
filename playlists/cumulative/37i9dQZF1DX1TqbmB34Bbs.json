@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: YNG&RICH RECORD) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Lil Moshpit) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -3106,7 +3106,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 163239,
       "name": "Birthday (Feat. BILL STAX)",
       "url": "https://open.spotify.com/track/14IPPm5luuJoCsgZoeCilI"
@@ -8484,7 +8484,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 225789,
       "name": "GOD GOD GOD",
       "url": "https://open.spotify.com/track/00YvEZqYSsmODe0zR6Ftep"
@@ -10804,7 +10804,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 252630,
       "name": "Inception",
       "url": "https://open.spotify.com/track/5zYpGjJBREOWpUz1aiTrqV"
@@ -13426,6 +13426,32 @@
       "duration_ms": 230166,
       "name": "MONEY GAME",
       "url": "https://open.spotify.com/track/3I0U0qLpokurgArQly7sk3"
+    },
+    {
+      "album": {
+        "name": "TO GO",
+        "url": "https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "GongGongGoo009",
+          "url": "https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167634,
+      "name": "Money Only Shows Hustle (M.O.S.H) (Feat. The Quiett, GongGongGoo009)",
+      "url": "https://open.spotify.com/track/1wnKbX1GeF7bZREbxYfuQc"
     },
     {
       "album": {
@@ -21525,6 +21551,32 @@
     },
     {
       "album": {
+        "name": "TO GO",
+        "url": "https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "DJ Soulscape",
+          "url": "https://open.spotify.com/artist/2FuS8zARv5xaE6h046OxHN"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180436,
+      "name": "TO GO (Feat. Jay Park, DJ Soulscape)",
+      "url": "https://open.spotify.com/track/2SsroOwWC3CYSpEKOsQzvh"
+    },
+    {
+      "album": {
         "name": "HDISMYPRODUCER",
         "url": "https://open.spotify.com/album/5DomzCRZHVDU5EHN3ZEPT5"
       },
@@ -23776,7 +23828,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 205134,
       "name": "Work Work (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/7uMk5EMgwtYjiGoshyhBsh"

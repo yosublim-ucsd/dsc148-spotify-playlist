@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Demob Happy
 
-1,295 songs - 2 day 20 hr 2 min
+1,296 songs - 2 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Earthquake \(feat\. jxdn\)](https://open.spotify.com/track/4QD5tfexKVwATpESYSc7qM) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Earthquake \(feat\. jxdn\)](https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW) | 2:57 | 2022-02-25 | 2022-05-20 |
 | [Ease My Mind](https://open.spotify.com/track/2pBRMZKqwdPrrMLZouj5yZ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Ease My Mind](https://open.spotify.com/album/4bdJvHMmM4nZ5VClRTVdqa) | 3:25 | 2021-11-19 | 2022-01-29 |
 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 | 2022-08-19 | 2022-10-29 |
+| [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 | 2023-04-03 |  |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-03 | 2023-03-11 |
 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 | 2022-11-11 | 2023-01-14 |
 | [Emerson](https://open.spotify.com/track/1C6xfW2M2qUzo0ZxF9KboZ) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Emerson](https://open.spotify.com/album/3jYiswZDTFrbDZI3bYzfWq) | 4:02 | 2023-02-03 | 2023-02-25 |

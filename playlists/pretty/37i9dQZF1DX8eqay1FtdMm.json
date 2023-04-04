@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\b\bThe Stray(\uc2a4\ud2b8\ub808\uc774)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 316967,
+  "num_followers": 317025,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODIwMywwMDAwMDAwMDU0NzdmMTllMjAwYjE5YTFlY2IyYWRlOGY0M2UwYjMw",
+  "snapshot_id": "MTY4MDI1ODIwMywwMDAwMDAwMGIwNWI4YTRjN2Q1YTY4ZTczYWQyYWM3ZTdjOGMxYzMz",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:23",
@@ -319,42 +319,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -391,22 +355,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -423,6 +383,46 @@
       "duration_ms": 251000,
       "name": "Aching",
       "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168760,
       "name": "Fuckin' New Year",
       "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Love, Yerin",
         "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 205800,
       "name": "A Walk",
       "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "I'M",
+        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "Crash Course in Romance OST Part 3",
         "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "I'M",
-        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
+        "name": "To You",
+        "url": "https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f"
       },
       "artists": [
         {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+          "name": "WSG WANNBE (Gaya-G)",
+          "url": "https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2"
         }
       ],
-      "duration_ms": 238252,
-      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+      "duration_ms": 207373,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1311,22 +1327,6 @@
       "duration_ms": 275200,
       "name": "#tb",
       "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "To You",
-        "url": "https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f"
-      },
-      "artists": [
-        {
-          "name": "WSG WANNBE (Gaya-G)",
-          "url": "https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Ode To The Stars",
-        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
+        "name": "Red Moon: Beyond The Light",
+        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
       },
       "artists": [
         {
           "name": "MAKTUB",
           "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "Leeraon",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
         }
       ],
-      "duration_ms": 282853,
-      "name": "Ode To The Stars",
-      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+      "duration_ms": 244173,
+      "name": "The Eternal Moment",
+      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
     },
     {
       "added_at": "2023-03-31 10:23:23",

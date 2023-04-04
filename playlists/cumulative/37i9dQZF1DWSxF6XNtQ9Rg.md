@@ -4,7 +4,7 @@
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-184 songs - 10 hr 3 min
+185 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Che Dio Mi Benedica](https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 3:38 | 2022-04-28 |  |
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-28 |  |
 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:21 | 2022-04-28 | 2023-03-18 |
+| [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 | 2023-03-06 |  |
 | [Cracovia, Pt\. 3](https://open.spotify.com/track/18dt6tNw8hpNUdthOJf0lI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Cracovia, Pt\. 3](https://open.spotify.com/album/4wQbkZfAr6QpI9AdrQOqcn) | 2:54 | 2022-04-28 | 2022-07-28 |
 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 | 2022-04-28 |  |
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 | 2022-04-28 |  |
@@ -64,7 +65,7 @@
 | [Drippin' in Milano](https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Drippin' in Milano](https://open.spotify.com/album/0yAArQfNMOEnB5G3KvTFcU) | 2:39 | 2022-04-28 | 2022-12-16 |
 | [Effe](https://open.spotify.com/track/56nvQibJaC1V84wVMqA3Ck) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:31 | 2022-04-28 | 2022-08-11 |
 | [Effe](https://open.spotify.com/track/6RQjUikQBjV183yPTvrUvr) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 2:31 | 2022-04-28 | 2022-06-08 |
-| [Eravamo Re](https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Vero](https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7) | 3:02 | 2022-05-31 |  |
+| [Eravamo Re](https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Vero](https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7) | 3:02 | 2022-05-31 | 2023-04-04 |
 | [FIORI](https://open.spotify.com/track/500c6DLy4ag8gFAnkuzTxP) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [FIORI](https://open.spotify.com/album/3ZHm7N3OvvtEeycw6uN5zh) | 2:48 | 2022-04-28 | 2022-07-17 |
 | [Fiori del male \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7J4P2IKh5pCBpSfGs5gaGy) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [The Dark Album](https://open.spotify.com/album/5JTXqyUlZkTAVVH0bsFw4q) | 3:08 | 2022-04-28 | 2022-07-24 |
 | [Fiori Del Male \(feat.Sfera Ebbasta\)](https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [The Dark Album](https://open.spotify.com/album/6dcABz37PK2Q9bnv8kYTt0) | 3:08 | 2022-10-07 | 2023-03-28 |

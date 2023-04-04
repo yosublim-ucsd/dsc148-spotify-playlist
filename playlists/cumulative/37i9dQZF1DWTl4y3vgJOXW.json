@@ -5347,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "MO UP FRONT",
+        "url": "https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170962,
+      "name": "MO UP FRONT",
+      "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
+    },
+    {
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -7592,6 +7610,24 @@
       "duration_ms": 140766,
       "name": "Senate",
       "url": "https://open.spotify.com/track/2AypgV6lNNvlPIDkcv2JEq"
+    },
+    {
+      "album": {
+        "name": "Bad Azz",
+        "url": "https://open.spotify.com/album/7EEdfr0tQIbdFe6UKwK93O"
+      },
+      "artists": [
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284586,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/6Efmq0wDgijxWFdBkzIOvb"
     },
     {
       "album": {

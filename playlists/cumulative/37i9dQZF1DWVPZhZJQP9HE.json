@@ -1579,6 +1579,28 @@
     },
     {
       "album": {
+        "name": "En Kannae Pogathey",
+        "url": "https://open.spotify.com/album/2U5qUOrOkAcp654GSBTlmW"
+      },
+      "artists": [
+        {
+          "name": "Al Rufian",
+          "url": "https://open.spotify.com/artist/57o1IPq5xCi32XkPLCDsjh"
+        },
+        {
+          "name": "Sruthi Ranjani",
+          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "En Kannae Pogathey",
+      "url": "https://open.spotify.com/track/7mdGxqgNLZx98ZnBzSIm0D"
+    },
+    {
+      "album": {
         "name": "En Paathi Neethanadi",
         "url": "https://open.spotify.com/album/5F36QWvcT0HLaovulz4r6s"
       },
@@ -2268,6 +2290,24 @@
       "duration_ms": 228737,
       "name": "Ilavarasi",
       "url": "https://open.spotify.com/track/4nOHICVDNdqyMIbQjOJ8hF"
+    },
+    {
+      "album": {
+        "name": "Imaigalo",
+        "url": "https://open.spotify.com/album/3hujPUBf31Y80dprCKF5gj"
+      },
+      "artists": [
+        {
+          "name": "Anivee",
+          "url": "https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165386,
+      "name": "Imaigalo",
+      "url": "https://open.spotify.com/track/5LRODMeAbWjHEItSRLGZ3b"
     },
     {
       "album": {
@@ -6926,7 +6966,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 237435,
       "name": "Siragukal",
       "url": "https://open.spotify.com/track/71JsLclzOWuItFYo6qbI6Z"
@@ -7834,7 +7874,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 208940,
       "name": "Unnodu Naanum",
       "url": "https://open.spotify.com/track/6j6Rhc7cgxgDLhgndzP1RF"
@@ -8140,7 +8180,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 242224,
       "name": "Vaazhkai Paatu",
       "url": "https://open.spotify.com/track/4FNkWGEP77dI3OMy4wMN5Q"

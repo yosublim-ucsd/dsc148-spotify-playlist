@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 163584,
       "name": "085 - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
@@ -14445,6 +14445,36 @@
     },
     {
       "album": {
+        "name": "Na Brisa Que \u00c9 Bom Vs Cheiro do Skunk",
+        "url": "https://open.spotify.com/album/0bP7U6PKdDGlvcehMHV5is"
+      },
+      "artists": [
+        {
+          "name": "AGUILLERA",
+          "url": "https://open.spotify.com/artist/2Bv3elHepLCEiMceBTPqpe"
+        },
+        {
+          "name": "DJ Feeh Ribeiro",
+          "url": "https://open.spotify.com/artist/19aWf0vIIRxNrwYSu30Iqf"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
+        },
+        {
+          "name": "Mc Yago",
+          "url": "https://open.spotify.com/artist/3eKjUJNwglGwLmS8dELCuC"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211990,
+      "name": "Na Brisa Que \u00c9 Bom Vs Cheiro do Skunk",
+      "url": "https://open.spotify.com/track/0IuKBc2qc4yRajqLd9uFGR"
+    },
+    {
+      "album": {
         "name": "Na Contram\u00e3o",
         "url": "https://open.spotify.com/album/0TqLSBctNqzky2bUakAMVb"
       },
@@ -18614,7 +18644,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 196085,
       "name": "Regret Me",
       "url": "https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq"
@@ -24654,6 +24684,24 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "album": {
+        "name": "yes to heaven",
+        "url": "https://open.spotify.com/album/7irGbx3XVENSgp7HkcV4hy"
+      },
+      "artists": [
+        {
+          "name": "ilyNUN",
+          "url": "https://open.spotify.com/artist/49IxHq6jHIFvSV98SfLH3R"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197668,
+      "name": "yes to heaven",
+      "url": "https://open.spotify.com/track/1Vswy6mJf9gAYhqqxdMCr7"
     },
     {
       "album": {

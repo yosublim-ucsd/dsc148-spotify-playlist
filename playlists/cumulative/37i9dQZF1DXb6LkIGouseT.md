@@ -4,7 +4,7 @@
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-90 songs - 6 hr 22 min
+91 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Night Hawk Soars](https://open.spotify.com/track/5iBpK8J8D7if3lmFnmu1hv) | [Joseph FireCrow](https://open.spotify.com/artist/6dsM8kgVKhrheuqmDaviZg) | [Night Walk](https://open.spotify.com/album/2YaOLFTueNlOlR5DdhP9Ne) | 3:05 | 2021-12-17 |  |
 | [Nocturnal Spirits](https://open.spotify.com/track/5VVE2ZfhYaqJidMm0JJRyI) | [Joseph FireCrow](https://open.spotify.com/artist/6dsM8kgVKhrheuqmDaviZg) | [Night Walk](https://open.spotify.com/album/2YaOLFTueNlOlR5DdhP9Ne) | 4:18 | 2021-12-17 |  |
 | [Of Shadow and Light](https://open.spotify.com/track/60EPxhYda9FZCgzhxbi3h8) | [John Two\-Hawks](https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii) | [Hidden Medicine](https://open.spotify.com/album/1NZuFkLtkaStYMRRLXk12a) | 4:40 | 2021-12-17 |  |
-| [Oneness](https://open.spotify.com/track/4q1KFH2a5abfgXUgPSVCHB) | [Ann Licater](https://open.spotify.com/artist/5utgQcBcWNJKpODrerbyEL) | [Invitation from Within](https://open.spotify.com/album/2zqDJRJWYb7010Hwj7ePhh) | 2:29 | 2022-10-26 |  |
+| [Oneness](https://open.spotify.com/track/4q1KFH2a5abfgXUgPSVCHB) | [Ann Licater](https://open.spotify.com/artist/5utgQcBcWNJKpODrerbyEL) | [Invitation from Within](https://open.spotify.com/album/2zqDJRJWYb7010Hwj7ePhh) | 2:29 | 2022-10-26 | 2023-04-04 |
+| [Oneness](https://open.spotify.com/track/6v5qLu36w1uBfzBW7euZyD) | [Ann Licater](https://open.spotify.com/artist/5utgQcBcWNJKpODrerbyEL) | [Invitation from Within](https://open.spotify.com/album/3p4CFfTuOMqoNyE8y6XGDJ) | 2:29 | 2022-10-26 |  |
 | [Red Hawk Hill](https://open.spotify.com/track/2YBLASHNLeFdlbUDioE5UW) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Red Hawk Hill](https://open.spotify.com/album/6hwOFe2iX2u9vXsZTVWiiF) | 3:29 | 2021-12-17 |  |
 | [Sacred Spaces](https://open.spotify.com/track/501zYIHH32JnpZQvt9YTeF) | [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Hearts, Hands & Hides](https://open.spotify.com/album/7FBaZcKjaD4HPCXNP6Tqzn) | 4:24 | 2022-02-25 |  |
 | [Sacred Spaces](https://open.spotify.com/track/1NznLMbNxWYc00TztGPbXo) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [\(Indian\) Native Flute Ensemble: Spirit Wind \- Native American Flute](https://open.spotify.com/album/3R5UUf6XOznRyhtj7QsKjQ) | 4:22 | 2021-12-17 | 2022-07-29 |

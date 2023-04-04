@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,818 likes - 76 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,846 likes - 76 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 25 | [TOKYO YEAH WE BŌSŌ](https://open.spotify.com/track/406d8xtLSYz8KRdh7ld6wb) | [BŌSŌ TOKYO](https://open.spotify.com/artist/437Iz7rlKR2lLuAH1hmbmt), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [TOKYO YEAH WE BŌSŌ](https://open.spotify.com/album/2fiPJXw8YvgLOoJf3nPFOf) | 2:07 |
 | 26 | [Unknown](https://open.spotify.com/track/2RlKUJEsr5AuYWsYRpNkEm) | [CC](https://open.spotify.com/artist/0WX1YKSwScnWDRAzleAkRZ), [Wisteror](https://open.spotify.com/artist/2q1j0ftQGCJzwsnFCh6LOV) | [Unknown](https://open.spotify.com/album/7aIa7HAKMEA7uq0Y33MV7D) | 1:48 |
 | 27 | [When i was young](https://open.spotify.com/track/4fIgIE4U8eeqz1l5qY3QYk) | [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb) | [style](https://open.spotify.com/album/63yKg4HtqigLHwlMQsUYiA) | 2:38 |
-| 28 | [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 |
+| 28 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
 | 29 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
 | 30 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 |
 | 31 | [Living Legend](https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Living Legend](https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF) | 2:18 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 75 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
 | 76 | [EDO](https://open.spotify.com/track/07OJpiSTwt4hCJPcXveRHa) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/3aD4xnihNEcPPnMdd3FuEF) | 3:00 |
 
-Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMGQ0YjRlNTRjNjgzNzMwNDM0MTJkM2VjMWQwM2JjM2E1`
+Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMGFkY2Q3NjkxYWM4ZGRlOGVlNWQ0MGIwODNiNDA1OWFl`

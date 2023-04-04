@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 229720,
       "name": "Here I Stand",
       "url": "https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA"
@@ -6948,7 +6948,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "TOY",
       "url": "https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK"
@@ -10339,6 +10339,24 @@
     },
     {
       "album": {
+        "name": "INDIGO",
+        "url": "https://open.spotify.com/album/21ITnrYudAvIs9cfnPBdLs"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/5505l53fTUi5P0uWQbRT0w"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "\u0e40\u0e2a\u0e49\u0e19\u0e1a\u0e32\u0e07\u0e46",
+      "url": "https://open.spotify.com/track/2qZQa0feL1j3hxFB3vJ15d"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2a\u0e49\u0e19\u0e1a\u0e32\u0e07\u0e46",
         "url": "https://open.spotify.com/album/02FsmwYV0AlSX79gNlcnmV"
       },
@@ -10350,7 +10368,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 271567,
       "name": "\u0e40\u0e2a\u0e49\u0e19\u0e1a\u0e32\u0e07\u0e46",
       "url": "https://open.spotify.com/track/5n3UhHQI7SHKkhI69u69Yq"

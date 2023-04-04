@@ -2,9 +2,9 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1EFIdYyRJP5AlN?si=69e48d764e2b49d1"> Kyle Jacobs</a>.
+> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Joey Hyde
 
-227 songs - 13 hr 9 min
+228 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Give Me Back My Hometown](https://open.spotify.com/track/0f4STU5cvvnIaGNrqpVB4d) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [Give Me Back My Hometown](https://open.spotify.com/album/5O3tkcFjCLyJlfYy6GEPv1) | 3:02 | 2023-03-24 |  |
 | [Good Friends](https://open.spotify.com/track/5hpgayozHqTQR2T8vraMHt) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 3:12 | 2022-01-01 |  |
 | [Good Guys Win](https://open.spotify.com/track/776bUrQyDGPUwN2uthS2l8) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:28 | 2022-01-01 |  |
+| [Good Thing](https://open.spotify.com/track/1pjwRbcx1M0MrUTvSRGCgu) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [I Made a Record](https://open.spotify.com/album/288iPS5cLnvwOYbtLc22uq) | 3:11 | 2023-04-03 |  |
 | [Grocery Money](https://open.spotify.com/track/5LQwU32gKbx7jTRjT6QANj) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:25 | 2022-01-01 |  |
 | [H.O.L.Y.](https://open.spotify.com/track/73vNEylB6t6s69lSwOh385) | [Busbee](https://open.spotify.com/artist/0idZaiBQNEzUDlVOeb7Cin), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:08 | 2022-01-01 |  |
 | [Halloween \(feat\. Nicolle Galyon\)](https://open.spotify.com/track/0dKwVCi0hOtIX3dCIMrHuU) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:20 | 2022-02-28 |  |

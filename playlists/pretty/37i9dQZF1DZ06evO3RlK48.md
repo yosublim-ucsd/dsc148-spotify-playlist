@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,495 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,529 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 29 | [Seeing Things \(MUNA's Version\)](https://open.spotify.com/track/7MW0iJ9bDHpijQyj1jq9ed) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Seeing Things \(MUNA's Version\)](https://open.spotify.com/album/1WDUYbdjkO3jOWMzpyfIrW) | 3:42 |
 | 30 | [So Special](https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:57 |
 
-Snapshot ID: `MjgwMDczMDEsMDAwMDAwMDBmMjM5ZjI1NTg5NDU5NjMxNzg3YjZhZjM0MWIyYmJmOA==`
+Snapshot ID: `MjgwMDg3NjAsMDAwMDAwMDA0YzgzMjE4ZmJhOTk3OGQxM2UyY2Q2MDY3ZjgxZGE3Yg==`

@@ -4,7 +4,7 @@
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-123 songs - 7 hr 6 min
+126 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bada Boom \(With MISMOLLY, TURNS\)](https://open.spotify.com/track/7010GzT5bbMuQ4fWTMbpKz) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 2:56 | 2022-04-28 |  |
 | [Better](https://open.spotify.com/track/1kpQ2Gtry1UABK2r2GpAQs) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:16 | 2022-04-28 |  |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-04-28 |  |
+| [Chico malo](https://open.spotify.com/track/4e5OwyRhNsoLqGQYzfuV5B) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 2:39 | 2023-04-03 |  |
 | [Chico malo](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Chico malo](https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9) | 2:39 | 2023-03-24 |  |
 | [Chuck](https://open.spotify.com/track/4LfmJgyInGg96Kaue1ceGZ) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:16 | 2022-04-28 |  |
 | [D\-DAY](https://open.spotify.com/track/7Kw1ycY0Dfqf3uM25SxImO) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [D\-DAY](https://open.spotify.com/album/4hUoji0XYWp8fJoFCK7h0x) | 3:09 | 2022-04-28 |  |
@@ -43,6 +44,7 @@
 | [Egotistic \(Blistering sun ver.\)](https://open.spotify.com/track/2kBaZ1oHXgPhpWe30gIv2z) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:31 | 2022-04-28 |  |
 | [For Me](https://open.spotify.com/track/1M3FXW2uFBhO2BfphX0ozo) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:38 | 2022-04-28 |  |
 | [G999 \(Feat\. Mirani\)](https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [G999 \(Feat\. Mirani\)](https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a) | 3:04 | 2022-04-28 |  |
+| [GGBB](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 3:05 | 2023-04-03 |  |
 | [Gleam](https://open.spotify.com/track/0Nrton8zP9yzBMCnV5RGe5) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/3JxtyETqNUQ63Ze97GCi5s) | 3:04 | 2022-04-28 |  |
 | [Gleam](https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9) | 3:04 | 2022-04-28 | 2022-07-29 |
 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 | 2022-04-28 |  |
@@ -70,6 +72,7 @@
 | [Kidding](https://open.spotify.com/track/3GfIQyLYrrgF4MhmQmFcnX) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:45 | 2022-04-28 |  |
 | [L.I.E.C](https://open.spotify.com/track/1RNnRdT27xNUTdechKtSVT) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:58 | 2022-11-21 |  |
 | [Letter Filled With Light](https://open.spotify.com/track/6Gahwmzoqi4uaZCdVopJr4) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:08 | 2022-04-28 |  |
+| [LLL](https://open.spotify.com/track/5A05GrtX9Qwkwv41HEK39N) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 3:27 | 2023-04-03 |  |
 | [LMM](https://open.spotify.com/track/61RWlWnaIKrOBnmjdQgFOH) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 4:41 | 2022-04-28 |  |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-04-28 |  |
 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-04-28 |  |

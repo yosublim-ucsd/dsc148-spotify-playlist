@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Hit\-Boy
 
-400 songs - 21 hr 24 min
+401 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Band of Brothers](https://open.spotify.com/track/4UY8uzghtixlMhFR4JFqzF) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Band of Brothers](https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v) | 2:51 | 2022-11-12 | 2023-02-18 |
 | [BANKROLL \(feat\. A$AP Rocky & A$AP Ferg\)](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [ROADRUNNER: NEW LIGHT, NEW MACHINE](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7) | 3:22 | 2021-09-03 | 2022-02-26 |
 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 | 2022-07-01 | 2023-03-04 |
+| [Barragán Lighting](https://open.spotify.com/track/5jJhS8m6vstzzeHdlGoHjt) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:32 | 2023-03-31 |  |
 | [Bash money \(feat\. Lil Wayne\)](https://open.spotify.com/track/7KOV7goz91wTufZxO51Ebn) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hitler Wears Hermes 8: Sincerely Adolf](https://open.spotify.com/album/0M5cyXHBV0en8q02019vaC) | 2:27 | 2021-09-03 | 2022-02-25 |
 | [Beat Breaks \(feat\. Nas\)](https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:39 | 2022-07-15 | 2022-07-30 |
 | [beautiful brixton](https://open.spotify.com/track/3oh4wdsN5xVsKcWlIvgQH2) | [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [beautiful brixton](https://open.spotify.com/album/6dedBIUKeKk7kGRxZ1rKy3) | 1:27 | 2021-09-03 | 2022-02-23 |
@@ -131,7 +132,7 @@
 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 | 2021-09-03 |  |
 | [genesis.](https://open.spotify.com/track/16KP30wHmKZvPE5hlTHCfI) | [Marcellus Juvann](https://open.spotify.com/artist/207WozQ2u38q4rRu9quqMU) | [genesis.](https://open.spotify.com/album/4Ze9iUMzqI5MEIQzUV7Ny4) | 2:10 | 2021-09-03 | 2022-07-27 |
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-07-08 | 2022-07-16 |
-| [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 | 2022-11-13 |  |
+| [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 | 2022-11-13 | 2023-04-04 |
 | [GIVE IT BACK](https://open.spotify.com/track/57zHNqDztQQZIeP11X2WKq) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [GIVE IT BACK](https://open.spotify.com/album/3LEsXmmwmmX39KUo2Mwqyt) | 2:11 | 2022-03-25 | 2022-03-28 |
 | [Glowing Mics \- Founders RMX](https://open.spotify.com/track/1yW3VlhZgVYHu5SglHClvB) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Big Shug](https://open.spotify.com/artist/30G8Jlp6mw5RTEEzMndIZL) | [Glowing Mics \(Founders RMX\)](https://open.spotify.com/album/6G0PjYvizKiO0mFyCvCR91) | 3:23 | 2022-03-11 | 2022-04-20 |
 | [Go To Sleep](https://open.spotify.com/track/6NVZDaU13vmTWtXUUItrmV) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Go To Sleep](https://open.spotify.com/album/1JSdlQeJDiOGrAwyzWrjuO) | 3:39 | 2022-05-20 | 2022-07-24 |

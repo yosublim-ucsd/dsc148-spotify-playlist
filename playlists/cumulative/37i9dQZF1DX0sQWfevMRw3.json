@@ -5919,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "KONG I BYN",
+        "url": "https://open.spotify.com/album/5QtHOW9Qpi0aFeq0KBZPYt"
+      },
+      "artists": [
+        {
+          "name": "Lidl",
+          "url": "https://open.spotify.com/artist/5df1MDaEizfGIh9fYEOTIJ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121624,
+      "name": "KONG I BYN",
+      "url": "https://open.spotify.com/track/44knrs1wVZb3dszWxH1kX4"
+    },
+    {
+      "album": {
         "name": "KONSEKVENSER",
         "url": "https://open.spotify.com/album/7efRAMIPMYiA0nDkxT862U"
       },

@@ -17456,7 +17456,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 185706,
       "name": "Layla",
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
@@ -19474,6 +19474,24 @@
       "duration_ms": 155560,
       "name": "Marseille",
       "url": "https://open.spotify.com/track/1IwYW1AOGriTuAS52gUm2i"
+    },
+    {
+      "album": {
+        "name": "1709",
+        "url": "https://open.spotify.com/album/73DWY6i0JDzMs1Afz7e7U2"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/2FZMqWofNW3jH2MoHjFYH3"
     },
     {
       "album": {
@@ -22496,7 +22514,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 149573,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6tXSj6MWL76ebA1vy4VfsN"
@@ -25000,7 +25018,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 138693,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/3toIHllT6wfNPnf3GX2tH7"

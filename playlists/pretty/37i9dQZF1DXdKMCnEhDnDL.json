@@ -1,12 +1,12 @@
 {
   "description": "De grootste Nederlandse hits van vroeger en nu. Cover: Acda en de Munnik",
-  "num_followers": 451899,
+  "num_followers": 452013,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGM1NmYzZGFiMDNiYzc1NGUzMzI2MjY4NmU2MDVjMjcy",
+  "snapshot_id": "MTY4MDUxMTkyNywwMDAwMDAwMDQxZDg5YzVlMzhlOTdlYzc3MjliMDVkNzRlY2E1NDZm",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Money Op De Tafel",
-        "url": "https://open.spotify.com/album/2wFhOgAs823aYGZ0MiGK4O"
-      },
-      "artists": [
-        {
-          "name": "Glen Faria",
-          "url": "https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC"
-        }
-      ],
-      "duration_ms": 182716,
-      "name": "Money Op De Tafel",
-      "url": "https://open.spotify.com/track/33HuZaIX8YsIRQfy5GFSng"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Hallo Met Mij",
         "url": "https://open.spotify.com/album/4cJAK6hENqRInHm1clemmF"
       },
@@ -1391,22 +1375,6 @@
       "duration_ms": 148721,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Vandaag",
-        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
-      },
-      "artists": [
-        {
-          "name": "Nick & Simon",
-          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Pak Maar M'n Hand",
-      "url": "https://open.spotify.com/track/5WUnHPV2GwtSnf72Q8efEY"
     },
     {
       "added_at": "2023-03-30 23:00:00",

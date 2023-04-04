@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Music adds a new dimension to fashion\. Soundtrack for designer Thebe Magugu’s latest collection titled Folklorics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,417 likes - 55 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,418 likes - 55 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Female artists of Philadelphia International Records which is especially known for Philly Soul. Cover: The Jones Girls:\n",
-  "num_followers": 26757,
+  "num_followers": 26782,
   "original_name": "Women of Philly Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4MzIyMywwMDAwMDAwMDBjZGZmMzA4ZGEzZjU1ODFhZDM3OTZkYzJkYzFiMGY3",
+  "snapshot_id": "MTY1MTU4MzIyMywwMDAwMDAwMDUwOWIzY2QxZWVjMjE2NWRlZDdlYzlmZDUwNjMzNzk3",
   "tracks": [
     {
       "added_at": "2022-03-03 11:43:39",
@@ -111,38 +111,6 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "The Jones Girls",
-        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Who Can I Run To",
-      "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 227160,
-      "name": "TSOP (The Sound of Philadelphia)",
-      "url": "https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
         "name": "What Color Is Love",
         "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
       },
@@ -179,34 +147,34 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Sing About Life",
-        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
+        "name": "The Jones Girls",
+        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
       "artists": [
         {
-          "name": "The Ebonys",
-          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 330400,
-      "name": "A Love of Your Own",
-      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
+      "duration_ms": 204720,
+      "name": "Who Can I Run To",
+      "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
     },
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Happy 'Bout The Whole Thing",
-        "url": "https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq"
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
       "artists": [
         {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 314520,
-      "name": "I'M Not In Love",
-      "url": "https://open.spotify.com/track/1i2MdICLNQKYvr7lcc78rw"
+      "duration_ms": 227160,
+      "name": "TSOP (The Sound of Philadelphia)",
+      "url": "https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -243,6 +211,70 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
+        "name": "Sing About Life",
+        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
+      },
+      "artists": [
+        {
+          "name": "The Ebonys",
+          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
+        }
+      ],
+      "duration_ms": 330400,
+      "name": "A Love of Your Own",
+      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Happy 'Bout The Whole Thing",
+        "url": "https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+        }
+      ],
+      "duration_ms": 314520,
+      "name": "I'M Not In Love",
+      "url": "https://open.spotify.com/track/1i2MdICLNQKYvr7lcc78rw"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Jean Carn",
+        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Free Love",
+      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Patti Labelle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "I Think About You",
+      "url": "https://open.spotify.com/track/4doSpsX1xxbf55TMA85I3G"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -275,38 +307,6 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 262040,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Jean Carn",
-        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Free Love",
-      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7whWeslKir8S7gwBaijm9h"
       },
@@ -323,34 +323,18 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
       },
       "artists": [
         {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 244560,
-      "name": "The World Will Sing Our Song",
-      "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Patti Labelle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "I Think About You",
-      "url": "https://open.spotify.com/track/4doSpsX1xxbf55TMA85I3G"
+      "duration_ms": 262040,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -367,22 +351,6 @@
       "duration_ms": 242733,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Closer Than Close",
-        "url": "https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 356266,
-      "name": "Closer Than Close",
-      "url": "https://open.spotify.com/track/1l96x4p9UmYJSLBiyhMsAI"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -423,18 +391,50 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
       "artists": [
         {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 275746,
-      "name": "Dirty Ol' Man",
-      "url": "https://open.spotify.com/track/2svNxzjcNhy1U9JhaxAaQa"
+      "duration_ms": 244560,
+      "name": "The World Will Sing Our Song",
+      "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Closer Than Close",
+        "url": "https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 356266,
+      "name": "Closer Than Close",
+      "url": "https://open.spotify.com/track/1l96x4p9UmYJSLBiyhMsAI"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "The Spirit's In It",
+        "url": "https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -451,6 +451,22 @@
       "duration_ms": 441666,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Dirty Ol' Man",
+      "url": "https://open.spotify.com/track/2svNxzjcNhy1U9JhaxAaQa"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -487,38 +503,6 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "The Spirit's In It",
-        "url": "https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 296241,
-      "name": "Was That All It Was",
-      "url": "https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
         "name": "Phyllis Hyman (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
       },
@@ -531,6 +515,30 @@
       "duration_ms": 263920,
       "name": "No One Can Love You More",
       "url": "https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "The Women of Philadelphia International Records - The Remixes",
+        "url": "https://open.spotify.com/album/0Zhm6kMdeBa2iv48QhnYSu"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Sharp Gamble",
+          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
+        },
+        {
+          "name": "Dexter Wansel",
+          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
+        },
+        {
+          "name": "David Todd",
+          "url": "https://open.spotify.com/artist/5OYReAyrBw6qS3vOtMCaZA"
+        }
+      ],
+      "duration_ms": 420608,
+      "name": "Breaking and Entering - 12\" Version",
+      "url": "https://open.spotify.com/track/7EeTRmNCoGhvN1CM3qbMOu"
     }
   ],
   "unique_name": "Women of Philly Soul",

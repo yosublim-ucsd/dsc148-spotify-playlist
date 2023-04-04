@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: JISOO(\uc9c0\uc218)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: KIM WOO SEOK(\uae40\uc6b0\uc11d)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -4289,6 +4289,28 @@
     },
     {
       "album": {
+        "name": "an idiotic heart",
+        "url": "https://open.spotify.com/album/45O8eYtkbEHVIMz3NUru0B"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        },
+        {
+          "name": "HANBIN",
+          "url": "https://open.spotify.com/artist/5As1uvyadQ18yD1vvqXwqW"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245053,
+      "name": "an idiotic heart",
+      "url": "https://open.spotify.com/track/0ZiY1UsorcoYJltw0xRfIe"
+    },
+    {
+      "album": {
         "name": "An Ordinary Day",
         "url": "https://open.spotify.com/album/3T4GnTXcyIHB3syGdr5JIS"
       },
@@ -7093,6 +7115,24 @@
     },
     {
       "album": {
+        "name": "Because I Don't Love You",
+        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Because I Don't Love You",
+      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
+    },
+    {
+      "album": {
         "name": "GAUS Electronics, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/30tbmNgt3UdNQxc0qgMOeN"
       },
@@ -8962,6 +9002,24 @@
       "duration_ms": 212996,
       "name": "Blu",
       "url": "https://open.spotify.com/track/0nC0CzHg7TYdMq99nMmWbH"
+    },
+    {
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/40w5Wz53j6VFmxeKIihOLw"
+      },
+      "artists": [
+        {
+          "name": "DreamNote",
+          "url": "https://open.spotify.com/artist/3ILvL0HM0cST4iR8RzQh2V"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/0a0mYA7TrDnHh6EvmyHlVC"
     },
     {
       "album": {
@@ -14437,6 +14495,24 @@
     },
     {
       "album": {
+        "name": "Kang Seungwon 2nd",
+        "url": "https://open.spotify.com/album/1Z7VVrKchBK1qqvhRO5lbq"
+      },
+      "artists": [
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311340,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/7AnZYUaKTJ7zqu5FkEXOxg"
+    },
+    {
+      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/4ciKmXYMqVP3vyl9C1yj5P"
       },
@@ -16468,6 +16544,24 @@
       "duration_ms": 254146,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2iJMxVCeMCZJOzl9lDZDhV"
+    },
+    {
+      "album": {
+        "name": "Blank Page",
+        "url": "https://open.spotify.com/album/4iId8omKmw3zaOoTHLoFAs"
+      },
+      "artists": [
+        {
+          "name": "KIM WOO SEOK",
+          "url": "https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5725iqZgzHvcHEUCRPmaj4"
     },
     {
       "album": {
@@ -33000,6 +33094,24 @@
       "duration_ms": 217186,
       "name": "How Come",
       "url": "https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a"
+    },
+    {
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/5xBkucH41DXjvEced5Mbr5"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "How did u did that",
+      "url": "https://open.spotify.com/track/3GcEjvqrEq0Krooy4jfMKx"
     },
     {
       "album": {
@@ -62719,6 +62831,32 @@
     },
     {
       "album": {
+        "name": "ROOF",
+        "url": "https://open.spotify.com/album/6lhhza8UEKg1sTKPMHr7E3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ROOF",
+      "url": "https://open.spotify.com/track/1CW4G9j2I53c3M43hPHZKV"
+    },
+    {
+      "album": {
         "name": "Blank",
         "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
       },
@@ -66759,6 +66897,24 @@
     },
     {
       "album": {
+        "name": "Slump",
+        "url": "https://open.spotify.com/album/7IUmpHbZLnh8mQGUq72s6P"
+      },
+      "artists": [
+        {
+          "name": "Xin Seha",
+          "url": "https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205140,
+      "name": "Slump",
+      "url": "https://open.spotify.com/track/56P9x0KT5SKY7ZxNv6UrKC"
+    },
+    {
+      "album": {
         "name": "Sensory Flows - The 1st Album",
         "url": "https://open.spotify.com/album/1JTBgKjJ7WnUtYvKVBH5fU"
       },
@@ -68648,6 +68804,24 @@
       "duration_ms": 224000,
       "name": "Spring fizz",
       "url": "https://open.spotify.com/track/1ixhVsuAnM8bdqxBGmpNlN"
+    },
+    {
+      "album": {
+        "name": "Spring illusion",
+        "url": "https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183645,
+      "name": "Spring illusion",
+      "url": "https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn"
     },
     {
       "album": {
@@ -76646,6 +76820,32 @@
       "duration_ms": 190967,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw"
+    },
+    {
+      "album": {
+        "name": "TO GO",
+        "url": "https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "DJ Soulscape",
+          "url": "https://open.spotify.com/artist/2FuS8zARv5xaE6h046OxHN"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180436,
+      "name": "TO GO (Feat. Jay Park, DJ Soulscape)",
+      "url": "https://open.spotify.com/track/2SsroOwWC3CYSpEKOsQzvh"
     },
     {
       "album": {
@@ -87474,6 +87674,24 @@
       "duration_ms": 218840,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/4XkeWqW7ogSSvFY6MpR6eP"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154194,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"
     },
     {
       "album": {

@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/0u42d8JsmgNmTX37buAQmD"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133678,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1iLB0erbWIgXJUllRphSHP"
+    },
+    {
+      "album": {
         "name": "Blunt",
         "url": "https://open.spotify.com/album/3zWxZYmlPTJfC1a35Qr4O4"
       },
@@ -610,6 +628,24 @@
       "duration_ms": 152508,
       "name": "Break Of Dawn",
       "url": "https://open.spotify.com/track/412vyUC3xYk6NtHvscmgXl"
+    },
+    {
+      "album": {
+        "name": "Breath Out",
+        "url": "https://open.spotify.com/album/55cGilCCqvhzWpaFevwDhj"
+      },
+      "artists": [
+        {
+          "name": "Alrik Lagom",
+          "url": "https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164028,
+      "name": "Breath Out",
+      "url": "https://open.spotify.com/track/5Kq8SScLc5QiEiSYOstFiP"
     },
     {
       "album": {
@@ -1086,6 +1122,42 @@
       "duration_ms": 99718,
       "name": "Cockpit Country",
       "url": "https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e"
+    },
+    {
+      "album": {
+        "name": "Coconut Crab",
+        "url": "https://open.spotify.com/album/4pWZhL6HlW8FQLtEbtC0Rx"
+      },
+      "artists": [
+        {
+          "name": "7apes",
+          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107865,
+      "name": "Coconut Crab",
+      "url": "https://open.spotify.com/track/4qtD8XG4cpzW8nLSAVhA78"
+    },
+    {
+      "album": {
+        "name": "Coffee Wave",
+        "url": "https://open.spotify.com/album/3YM7gWij3jM4I9uSIxykXS"
+      },
+      "artists": [
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Coffee Wave",
+      "url": "https://open.spotify.com/track/0ptmO1SUF54yDzbZA1U3hb"
     },
     {
       "album": {
@@ -1574,6 +1646,46 @@
       "duration_ms": 108073,
       "name": "Endless Trial",
       "url": "https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc"
+    },
+    {
+      "album": {
+        "name": "Engra\u00e7ado",
+        "url": "https://open.spotify.com/album/7qqZGyhgzBV0nk2LtHRubI"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113146,
+      "name": "Engra\u00e7ado",
+      "url": "https://open.spotify.com/track/1rD8PBJipssSYGR5F1KlFk"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/0jmTlZaX5hQsFZ6PF2w63v"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        },
+        {
+          "name": "S\u014dNE",
+          "url": "https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2ALlB3nsSzTahHS1pH8Qnz"
     },
     {
       "album": {
@@ -2542,6 +2654,28 @@
       "duration_ms": 154681,
       "name": "Indigo Rum",
       "url": "https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/3WSaq9ZPAbpmybrccwdxbc"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Viktor Minsky",
+          "url": "https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/0eUF2e0MbDLjn3q6oAozI3"
     },
     {
       "album": {
@@ -3800,7 +3934,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 121500,
       "name": "paste time",
       "url": "https://open.spotify.com/track/1d1VwqJv79sqwKCMy9KTn2"
@@ -5762,6 +5896,24 @@
       "duration_ms": 164000,
       "name": "Wind Shear",
       "url": "https://open.spotify.com/track/33xRLRHq485anywUECESNa"
+    },
+    {
+      "album": {
+        "name": "winter balloon",
+        "url": "https://open.spotify.com/album/69793ppyxJHCz149lVQHIt"
+      },
+      "artists": [
+        {
+          "name": "Ponzi Skeemz",
+          "url": "https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131750,
+      "name": "winter balloon",
+      "url": "https://open.spotify.com/track/6qKhsRKyfUbeqeIEArP2d8"
     },
     {
       "album": {

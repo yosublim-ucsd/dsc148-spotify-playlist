@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Q
 
-785 songs - 1 day 18 hr 15 min
+786 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 | 2021-03-19 | 2022-07-30 |
 | [Anybody Can Be in Love](https://open.spotify.com/track/1Dy7WyZck9iu20W9cRyw24) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Anybody Can Be in Love](https://open.spotify.com/album/0jURdSjUunbLWrvySwmoSD) | 2:57 | 2021-11-05 | 2022-05-26 |
 | [Apologies](https://open.spotify.com/track/6Xaq6pQGv71etJZNSFSGKl) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [Apologies](https://open.spotify.com/album/4krUWrLVzaILsHWEwr4Zye) | 3:57 | 2022-07-15 | 2022-07-23 |
+| [Applause \- Gio Genesis Version](https://open.spotify.com/track/0pLjL24V419o2qIkJpssMC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Applause – Gio Genesis Version](https://open.spotify.com/album/0xwasyOcZCgZx0Neum5UV1) | 1:50 | 2023-03-31 |  |
 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 | 2022-04-01 | 2022-04-15 |
 | [ARMS \(Edit\)](https://open.spotify.com/track/1PWOdHUiBFiT4hJJ8DBSnh) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [ARMS](https://open.spotify.com/album/28gNtcHwTNJ5BJspX50iMq) | 3:33 | 2022-11-04 | 2022-11-19 |
 | [Artery](https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Artery](https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX) | 3:42 | 2022-04-01 | 2022-04-13 |
@@ -324,7 +325,7 @@
 | [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-21 | 2022-12-09 |
 | [honda civic '98](https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 3:07 | 2023-02-03 |  |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-04-01 | 2022-04-15 |
-| [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 | 2023-02-10 |  |
+| [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 | 2023-02-10 | 2023-04-04 |
 | [Hope](https://open.spotify.com/track/2QLNDKL7hZyh2OZ8UL9WrV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 3:59 | 2022-04-01 | 2022-04-16 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 | 2023-02-11 |
 | [How I Feel](https://open.spotify.com/track/15TfbjWDBtrPGsqsbcAoGm) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [How I Feel](https://open.spotify.com/album/0GIF4VmTirwDlR6ruOD26b) | 3:05 | 2022-04-01 | 2022-04-14 |

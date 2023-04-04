@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Part Of Us",
+        "url": "https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI"
+      },
+      "artists": [
+        {
+          "name": "Eirin Nordness",
+          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117610,
+      "name": "A Part Of Us",
+      "url": "https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI"
+    },
+    {
+      "album": {
         "name": "A Perceptual Process",
         "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 179253,
       "name": "A subtle joy",
       "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
+    },
+    {
+      "album": {
+        "name": "a wild place",
+        "url": "https://open.spotify.com/album/7jtVVSZJFsOQ016fmO7Dbr"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "a wild place",
+      "url": "https://open.spotify.com/track/2UJttBzaAe8bCjuNSIi35b"
     },
     {
       "album": {
@@ -10063,6 +10099,24 @@
     },
     {
       "album": {
+        "name": "The Goodbyes We Never Said",
+        "url": "https://open.spotify.com/album/1gYCw9fHnyIRBpP9vkVy97"
+      },
+      "artists": [
+        {
+          "name": "Yichu Ann Chen",
+          "url": "https://open.spotify.com/artist/6ZKZfb4BMulwGKbB6XBcds"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114972,
+      "name": "The Goodbyes We Never Said",
+      "url": "https://open.spotify.com/track/1EFoFLPtWaKdBeDTdce8nQ"
+    },
+    {
+      "album": {
         "name": "The Great Walls Of Time",
         "url": "https://open.spotify.com/album/6P2rrRGi74wWvXjgcC2AvC"
       },
@@ -10074,7 +10128,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 118606,
       "name": "The Great Walls Of Time",
       "url": "https://open.spotify.com/track/36YnXU7SvvZtNI2j0vvsGS"
@@ -11014,6 +11068,24 @@
       "duration_ms": 194948,
       "name": "Velez-Malaga",
       "url": "https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq"
+    },
+    {
+      "album": {
+        "name": "Piano Lullabies",
+        "url": "https://open.spotify.com/album/1sCz625SM5NbNx00OUHGFw"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Blumenthal",
+          "url": "https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97562,
+      "name": "Vem \u00e4r inte r\u00e4dd ibland",
+      "url": "https://open.spotify.com/track/3ay0zjicGYoJLyXl1y4c4M"
     },
     {
       "album": {

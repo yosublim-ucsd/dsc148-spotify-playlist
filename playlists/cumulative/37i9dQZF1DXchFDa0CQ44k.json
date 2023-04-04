@@ -1368,6 +1368,24 @@
     {
       "album": {
         "name": "Ya Galbi Ya Al Taabane",
+        "url": "https://open.spotify.com/album/6Pt8jc4iadFjkuI3TZsD2N"
+      },
+      "artists": [
+        {
+          "name": "Hazem Al Sadeer",
+          "url": "https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218984,
+      "name": "Ya Galbi Ya Al Taabane",
+      "url": "https://open.spotify.com/track/69bqT05u2fzS27Vfdhe9JV"
+    },
+    {
+      "album": {
+        "name": "Ya Galbi Ya Al Taabane",
         "url": "https://open.spotify.com/album/1wHOacQdRqEPq8YOfzoWAY"
       },
       "artists": [
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 229956,
       "name": "Yekhreb Baytak",
       "url": "https://open.spotify.com/track/4lwBgydZb1EqpHccZgBuXU"

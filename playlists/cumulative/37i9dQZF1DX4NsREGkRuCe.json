@@ -3678,7 +3678,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
@@ -5318,6 +5318,28 @@
     {
       "album": {
         "name": "Who Is Your Guy? (Remix)",
+        "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Who Is Your Guy? - Remix",
+      "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
+    },
+    {
+      "album": {
+        "name": "Who Is Your Guy? (Remix)",
         "url": "https://open.spotify.com/album/0ASoti9sg1ffkaHutFhATQ"
       },
       "artists": [
@@ -5469,7 +5491,7 @@
     },
     {
       "album": {
-        "name": "Yahyuppiyah (feat. Pcee, EeQue, Chley)",
+        "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
         "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
       },
       "artists": [
@@ -5502,7 +5524,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 296975,
-      "name": "Yahyuppiyah (feat. Pcee, EeQue, Chley)",
+      "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
     },
     {

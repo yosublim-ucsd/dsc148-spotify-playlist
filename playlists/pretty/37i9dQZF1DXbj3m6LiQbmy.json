@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Sans Soucis in cover, e <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">nella playlist global</a> \u2728 ",
-  "num_followers": 5321,
+  "num_followers": 5324,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3ODI4NiwwMDAwMDAwMGI1YzA3Y2RiZjg2OWVmZjI4OTM3ODdiMmEzM2FhODVj",
+  "snapshot_id": "MTY3OTY3ODI4NiwwMDAwMDAwMDQ4NDNhYTdmMzgyNDFkNjExMmZlZTA2NDlhODI1Y2Q1",
   "tracks": [
     {
       "added_at": "2023-03-17 08:35:32",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5"
     },
     {
-      "added_at": "2023-04-03 00:58:04",
+      "added_at": "2023-04-04 01:37:15",
       "album": {
         "name": "She's so different\u0259",
         "url": "https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps"
@@ -647,38 +647,6 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "Amore Hardcore",
-        "url": "https://open.spotify.com/album/5Mn8ffC1Ns33XQIhM1x6JG"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Cicciolina",
-      "url": "https://open.spotify.com/track/5cefK6l4Sj8ExWsX8xNFzn"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "Merchants",
-        "url": "https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN"
-      },
-      "artists": [
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
-        }
-      ],
-      "duration_ms": 248901,
-      "name": "Merchants",
-      "url": "https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
         "name": "Perch\u00e9 piangi Palermo",
         "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 349133,
       "name": "Perch\u00e9 piangi Palermo",
       "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "Amore Hardcore",
+        "url": "https://open.spotify.com/album/5Mn8ffC1Ns33XQIhM1x6JG"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Cicciolina",
+      "url": "https://open.spotify.com/track/5cefK6l4Sj8ExWsX8xNFzn"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -719,6 +703,22 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "Merchants",
+        "url": "https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 248901,
+      "name": "Merchants",
+      "url": "https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "SIAMO RAGAZZU",
-        "url": "https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o"
-      },
-      "artists": [
-        {
-          "name": "fantahouse",
-          "url": "https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd"
-        }
-      ],
-      "duration_ms": 94132,
-      "name": "SIAMO RAGAZZU",
-      "url": "https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
         "name": "Freak & Chic",
         "url": "https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 260472,
       "name": "Tropicanal",
       "url": "https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "SIAMO RAGAZZU",
+        "url": "https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o"
+      },
+      "artists": [
+        {
+          "name": "fantahouse",
+          "url": "https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd"
+        }
+      ],
+      "duration_ms": 94132,
+      "name": "SIAMO RAGAZZU",
+      "url": "https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
         "name": "I\u2019m Calling You From My Dreams",
         "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 245000,
       "name": "Tell Me What You See",
       "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1079,22 +1079,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "6 un caxxo di rave",
-        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
+        "name": "Notte divina",
+        "url": "https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8"
       },
       "artists": [
         {
-          "name": "Troyamaki",
-          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+          "name": "Moy Boy",
+          "url": "https://open.spotify.com/artist/0TJfVmdYJVP8pt2nFPtFms"
         },
         {
-          "name": "christiannife",
-          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+          "name": "Frank'O Moiraghi",
+          "url": "https://open.spotify.com/artist/4eHnEMdLNXd1HaZZrcnFRI"
         }
       ],
-      "duration_ms": 151500,
-      "name": "6 un caxxo di rave",
-      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
+      "duration_ms": 405533,
+      "name": "Notte Divina - Vocal Night Version",
+      "url": "https://open.spotify.com/track/6hqM6PuQ7kENdOC1qLLXWr"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "Notte divina",
-        "url": "https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8"
+        "name": "6 un caxxo di rave",
+        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
       },
       "artists": [
         {
-          "name": "Moy Boy",
-          "url": "https://open.spotify.com/artist/0TJfVmdYJVP8pt2nFPtFms"
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
         },
         {
-          "name": "Frank'O Moiraghi",
-          "url": "https://open.spotify.com/artist/4eHnEMdLNXd1HaZZrcnFRI"
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
         }
       ],
-      "duration_ms": 405533,
-      "name": "Notte Divina - Vocal Night Version",
-      "url": "https://open.spotify.com/track/6hqM6PuQ7kENdOC1qLLXWr"
+      "duration_ms": 151500,
+      "name": "6 un caxxo di rave",
+      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
+        "name": "Credo che tra un po'",
+        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
+      },
+      "artists": [
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "Credo che tra un po'",
+      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
         "name": "Le pi\u00f9 belle canzoni di Sandra Mondaini",
         "url": "https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 169753,
       "name": "Magari Vivi",
       "url": "https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "Credo che tra un po'",
-        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
-      },
-      "artists": [
-        {
-          "name": "Whitemary",
-          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "Credo che tra un po'",
-      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "FOREVER SPEEDING THROUGH DARKNESS",
-        "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
-      },
-      "artists": [
-        {
-          "name": "European Vampire",
-          "url": "https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS"
-        }
-      ],
-      "duration_ms": 231774,
-      "name": "LANCIA DELTA INTEGRALE",
-      "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
         "name": "QUARANTENA",
         "url": "https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 124168,
       "name": "QUARANTENA",
       "url": "https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
+        "name": "FOREVER SPEEDING THROUGH DARKNESS",
+        "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
+      },
+      "artists": [
+        {
+          "name": "European Vampire",
+          "url": "https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS"
+        }
+      ],
+      "duration_ms": 231774,
+      "name": "LANCIA DELTA INTEGRALE",
+      "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
     },
     {
       "added_at": "2023-03-17 08:35:32",

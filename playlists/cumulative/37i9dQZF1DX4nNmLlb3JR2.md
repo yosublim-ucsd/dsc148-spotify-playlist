@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-182 songs - 7 hr 12 min
+185 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Another Love](https://open.spotify.com/track/1nlsIpjNAGKyVGHxQEJLj3) | [sad app](https://open.spotify.com/artist/5U3AxI4wGaYfxG7aCd9mdR) | [Another Love](https://open.spotify.com/album/7IbzE0MMtMUQl9jSaRV8ds) | 2:29 | 2022-09-02 | 2022-11-12 |
 | [Another Love \- Lofi](https://open.spotify.com/track/28DdaEL9ZlLIa72Q7F65dQ) | [Sunday Without You](https://open.spotify.com/artist/2kfCeQSDYdHyURFQtS9I53) | [Another Love \(Lofi\)](https://open.spotify.com/album/7iLXkQQgmd2DEOHxkQqmhO) | 1:50 | 2022-09-02 | 2022-11-12 |
 | [Anti\-Hero](https://open.spotify.com/track/5EBcTHjNbzyTU8ESzD7bd8) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Anti\-Hero](https://open.spotify.com/album/2NgYRdlV18RPqXnGSAh2L7) | 1:56 | 2022-12-09 |  |
+| [Antihero](https://open.spotify.com/track/6foxdC9JnsAR2qCAYTVQij) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Antihero](https://open.spotify.com/album/3bz82Jb3mGlYeHuTs87b2R) | 2:55 | 2023-04-03 |  |
 | [apologize](https://open.spotify.com/track/3uY0353AUilxbXFM0XW1KQ) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [apologize](https://open.spotify.com/album/00vaTeWGH1I7WaDUy049Po) | 1:55 | 2023-02-07 |  |
 | [As It Was](https://open.spotify.com/track/7dSoV6Suc4ye0JCoyNWJJR) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [As It Was](https://open.spotify.com/album/6SSGQmNoS5n0ojWzSHQTh3) | 2:30 | 2022-10-14 |  |
 | [bad day](https://open.spotify.com/track/4HHoCZQ9v7agD2ZTq72q3Y) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bad day](https://open.spotify.com/album/5NfqbPcvdYcR3inewdtRBc) | 2:17 | 2023-03-24 |  |
@@ -44,9 +45,11 @@
 | [Come Together \- chill lofi remix](https://open.spotify.com/track/3ibrvhYXgovCZtMISkjgzn) | [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX), [The Rolling Beats](https://open.spotify.com/artist/7wvka6LIqEi6lGyljOm2h0) | [Come Together \- chill lofi remix](https://open.spotify.com/album/5C7w2txErIvmWU73cyVBFz) | 2:16 | 2022-10-28 |  |
 | [crazy](https://open.spotify.com/track/5Ef8wG2dTT24vh4a79IWin) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [crazy](https://open.spotify.com/album/50wsgeti0VbzwGjs4458yM) | 2:15 | 2022-12-09 |  |
 | [creep](https://open.spotify.com/track/0uqoO6T12XapKNDvsD0vUz) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [take cover](https://open.spotify.com/album/4miMnywBrNgI5A3P45Gj6P) | 3:08 | 2022-09-02 |  |
+| [Creepin](https://open.spotify.com/track/33nYtG8rlanRyq3v9bcb6w) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Creepin](https://open.spotify.com/album/0jZdGZMQud5jzPD3bxLlbj) | 3:10 | 2023-04-03 |  |
 | [Dance Monkey \- lofi version](https://open.spotify.com/track/17DdnBLc7zGBiPeS6mT6PR) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Covers of 2020 by Golden Era \- An Epic LoFi Edit Collection](https://open.spotify.com/album/6fmm45uHKdFF6wgeAyXa4d) | 3:11 | 2022-09-02 |  |
 | [dancing in the moonlight](https://open.spotify.com/track/1ZlN7b6imuKQUQa7ZoRmvk) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [dancing in the moonlight](https://open.spotify.com/album/5r9jGo8HPdSpDJRW7ofhSv) | 2:17 | 2022-12-16 |  |
 | [DEAR APRIL](https://open.spotify.com/track/5R2ZqLZeKRzAEH1eehC4LM) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [Cover Art](https://open.spotify.com/album/494oa37Z1PTRpKolGp5JO8) | 2:15 | 2022-09-02 |  |
+| [Die For You](https://open.spotify.com/track/1nLi6OAjTRfFRNYTrvpmPj) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [Die For You](https://open.spotify.com/album/4a7N9UUXtAjasSIMiIMpwW) | 3:28 | 2023-04-03 |  |
 | [Do It To It](https://open.spotify.com/track/5JzL1hreVuaZO4Ukl2NemJ) | [OnD\-tox](https://open.spotify.com/artist/2P1XPAaJbnw7MjbV2g9Vxz) | [Do It To It](https://open.spotify.com/album/5tFPmOK4QrhiMtoqratw9g) | 2:41 | 2022-11-11 |  |
 | [Dog Days Are Over \- Lofi Version](https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Dog Days Are Over \(Lofi Version\)](https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve) | 2:15 | 2022-11-18 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5NptWVOhMkCcbeiHFVcEU3) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 4:15 | 2022-09-02 |  |

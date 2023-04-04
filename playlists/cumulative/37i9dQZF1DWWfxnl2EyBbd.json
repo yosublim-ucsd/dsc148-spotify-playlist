@@ -2139,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Everybody's Got to Learn Sometime",
+        "url": "https://open.spotify.com/album/15FCQHfWCgNgU6qXLvamP9"
+      },
+      "artists": [
+        {
+          "name": "Moulin Roty Trio",
+          "url": "https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228228,
+      "name": "Everybody's Got to Learn Sometime",
+      "url": "https://open.spotify.com/track/5rdarWlLPfZvPafnUVj0AK"
+    },
+    {
+      "album": {
         "name": "Everything To Me",
         "url": "https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI"
       },
@@ -2947,6 +2965,10 @@
         "url": "https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P"
       },
       "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        },
         {
           "name": "Keith Jarrett Trio",
           "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
@@ -6490,7 +6512,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 362746,
       "name": "Ruby, My Dear",
       "url": "https://open.spotify.com/track/53ROPqJRDrefqoLEGZ8khW"

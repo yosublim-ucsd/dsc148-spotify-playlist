@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD?si=tZyYifN0QQCRm7PkfHaPHg">HLE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,509 likes - 60 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,530 likes - 60 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

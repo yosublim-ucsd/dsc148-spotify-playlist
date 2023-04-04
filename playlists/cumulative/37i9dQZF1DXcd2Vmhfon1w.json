@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Foto: Natos y Waor",
+  "description": "Lo mejor del hip hop espa\u00f1ol. ",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 206816,
       "name": "Chatarra",
       "url": "https://open.spotify.com/track/0M9PsXoNAsUzmOeMlhbx44"
@@ -967,6 +967,28 @@
     },
     {
       "album": {
+        "name": "De Los M\u00edos",
+        "url": "https://open.spotify.com/album/0Gcluis2q5PBpaDAyFtZ8V"
+      },
+      "artists": [
+        {
+          "name": "Pepe : Vizio",
+          "url": "https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194991,
+      "name": "De Los M\u00edos",
+      "url": "https://open.spotify.com/track/6642UGRd8Ts5NoXTGGomwx"
+    },
+    {
+      "album": {
         "name": "BBO",
         "url": "https://open.spotify.com/album/0ofRuEkUDbOtzmxqeZs8Pw"
       },
@@ -994,6 +1016,36 @@
       "duration_ms": 197333,
       "name": "Desamparados",
       "url": "https://open.spotify.com/track/51kzHiwV2gqYOakB0HGh8d"
+    },
+    {
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/6bE0iGrtRzZAxXNbD8fdYr"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/7rAjVJgwZhvmMIt5vfyNGn"
+        },
+        {
+          "name": "DRED BEY",
+          "url": "https://open.spotify.com/artist/0v4ZR80GST5lTyY4b6UEzR"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196702,
+      "name": "Desfibrilador",
+      "url": "https://open.spotify.com/track/7bV6pAIWPet9TOQenaAGMO"
     },
     {
       "album": {
@@ -1200,7 +1252,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 169411,
       "name": "El cuerpo del delito",
       "url": "https://open.spotify.com/track/3CYp51HsBeWFnS5rF2SJF2"
@@ -1262,7 +1314,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 171001,
       "name": "En la parte de atr\u00e1s de un taxi",
       "url": "https://open.spotify.com/track/7EiUH0IuwBhc1GtArbiUzv"
@@ -1394,7 +1446,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 339000,
       "name": "Freestyle Session #13",
       "url": "https://open.spotify.com/track/2yGN0LzE0AL7Ev9chjp9Nh"
@@ -3898,7 +3950,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 185166,
       "name": "Tranquilito (feat. Alejandro Deese)",
       "url": "https://open.spotify.com/track/3nm1q5QYFIatMWkX1SHYem"
@@ -3924,6 +3976,24 @@
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
+    },
+    {
+      "album": {
+        "name": "TURBO // Epifan\u00eda",
+        "url": "https://open.spotify.com/album/7Ka64TengUUjqhIu9JsAc2"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168420,
+      "name": "TURBO // Epifan\u00eda",
+      "url": "https://open.spotify.com/track/0rLScHF4uCvDC61mXWZvaN"
     },
     {
       "album": {
@@ -4126,7 +4196,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 180719,
       "name": "V\u00e9rtigo",
       "url": "https://open.spotify.com/track/7aXJq7eoVahgCdKkK6kDbp"

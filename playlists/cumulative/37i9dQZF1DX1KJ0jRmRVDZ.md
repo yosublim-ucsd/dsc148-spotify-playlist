@@ -163,7 +163,7 @@
 | [Overdose](https://open.spotify.com/track/7zRMjic8Q1Mt4kwAYIBH3M) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [Overdose](https://open.spotify.com/album/20VN8o8DJJaM1Q7Asj99GG) | 3:14 | 2023-02-21 | 2023-03-08 |
 | [overload](https://open.spotify.com/track/3HmaH6cEq2LUiVa1SCaAOd) | [ITO](https://open.spotify.com/artist/6rrrZh0srrnPzkTb6amBKi) | [overload](https://open.spotify.com/album/4HQfUEgyiQF1GBmLBsmNJJ) | 2:50 | 2023-02-21 | 2023-03-01 |
 | [oxygen](https://open.spotify.com/track/1RYbwTKMI4JR86drI4IDIt) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [oxygen](https://open.spotify.com/album/7n5DPNlVjeFaFkTNJyro7o) | 2:48 | 2022-06-21 | 2022-06-29 |
-| [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 | 2023-03-29 |
+| [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 |  |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-06-13 | 2022-12-27 |
 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 | 2022-07-28 | 2022-12-13 |
 | [Paradise Lost](https://open.spotify.com/track/6pdi51BIJZMFolAjocMeFd) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Paradise Lost](https://open.spotify.com/album/0vnIfdckK1V6rAbhZDlHvp) | 3:35 | 2022-10-13 | 2022-10-19 |
@@ -684,7 +684,7 @@
 | [飛ぶ鳥は](https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [飛ぶ鳥は](https://open.spotify.com/album/7yFZRlYUvUq0UIo6wMzbjR) | 3:50 | 2022-06-09 | 2022-06-12 |
 | [飛翔するmeme](https://open.spotify.com/track/2xE7eUMv2Lkb3e0VFVt3f4) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm) | [飛翔するmeme](https://open.spotify.com/album/2QAbZlfehVfHiiuB8bcUvm) | 3:54 | 2022-06-09 | 2022-07-23 |
 | [食虫植物](https://open.spotify.com/track/7Lju8n8ye0pu1gS3YHu0ny) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [食虫植物](https://open.spotify.com/album/1ztYjEcNyEOmaqfABKpz2F) | 3:02 | 2022-06-28 | 2022-07-28 |
-| [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-09-29 |  |
+| [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-09-29 | 2023-04-04 |
 | [魔法の歌](https://open.spotify.com/track/1ahSmZww75M4DOKibyaYYp) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:51 | 2022-06-09 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

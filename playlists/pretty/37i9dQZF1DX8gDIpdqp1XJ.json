@@ -1,29 +1,13 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 859592,
+  "num_followers": 859870,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMGUxZmJkOTY3ODQ5MzlhNTUxMWY0NWI0ZmM4YWM1ZmY2",
+  "snapshot_id": "MTY4MDU0NDgxNCwwMDAwMDAwMDFjMTIzN2Q3N2YwMmY5NmQ0NGMxYWNlYWNlOGMzNDYy",
   "tracks": [
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Ugly Duck",
-        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "To be, or not to be ugly",
-      "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
-    },
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
@@ -49,22 +33,6 @@
       "url": "https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt"
     },
     {
-      "added_at": "2023-03-06 15:29:49",
-      "album": {
-        "name": "Music for the Future",
-        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
-      },
-      "artists": [
-        {
-          "name": "LANNDS",
-          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
-        }
-      ],
-      "duration_ms": 203380,
-      "name": "Vega",
-      "url": "https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6"
-    },
-    {
       "added_at": "2023-03-06 15:37:43",
       "album": {
         "name": "Red Moon In Venus",
@@ -79,6 +47,22 @@
       "duration_ms": 212967,
       "name": "Moral Conscience",
       "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
+    },
+    {
+      "added_at": "2023-03-06 15:29:49",
+      "album": {
+        "name": "Music for the Future",
+        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
+      },
+      "artists": [
+        {
+          "name": "LANNDS",
+          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
+        }
+      ],
+      "duration_ms": 203380,
+      "name": "Vega",
+      "url": "https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6"
     },
     {
       "added_at": "2023-03-16 16:38:49",
@@ -145,38 +129,6 @@
       "url": "https://open.spotify.com/track/22hZGv1zyCAmO4WJDZPfvm"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "threethou (latenight)",
-        "url": "https://open.spotify.com/album/1ib7ePKBmxKH097Mc7aFqy"
-      },
-      "artists": [
-        {
-          "name": "Justend",
-          "url": "https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp"
-        },
-        {
-          "name": "Count Draco",
-          "url": "https://open.spotify.com/artist/2pTgkxpwt3m1IiNmWTQNiu"
-        },
-        {
-          "name": "loe4t",
-          "url": "https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe"
-        },
-        {
-          "name": "tomcbumpz",
-          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
-        },
-        {
-          "name": "Huck",
-          "url": "https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu"
-        }
-      ],
-      "duration_ms": 80562,
-      "name": "threethou - latenight",
-      "url": "https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny"
-    },
-    {
       "added_at": "2023-03-06 15:29:49",
       "album": {
         "name": "Here With Me",
@@ -191,6 +143,38 @@
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Ugly Duck",
+        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "To be, or not to be ugly",
+      "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
+    },
+    {
+      "added_at": "2023-04-03 18:00:14",
+      "album": {
+        "name": "Dirt Diamond",
+        "url": "https://open.spotify.com/album/4CuwDymNkMtdA3UqVHnQ3t"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "Dirt Diamond",
+      "url": "https://open.spotify.com/track/4QHuAJCpHYDXGL4CZ8F0nI"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -305,6 +289,38 @@
       "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "threethou (latenight)",
+        "url": "https://open.spotify.com/album/1ib7ePKBmxKH097Mc7aFqy"
+      },
+      "artists": [
+        {
+          "name": "Justend",
+          "url": "https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp"
+        },
+        {
+          "name": "Count Draco",
+          "url": "https://open.spotify.com/artist/2pTgkxpwt3m1IiNmWTQNiu"
+        },
+        {
+          "name": "loe4t",
+          "url": "https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe"
+        },
+        {
+          "name": "tomcbumpz",
+          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
+        },
+        {
+          "name": "Huck",
+          "url": "https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu"
+        }
+      ],
+      "duration_ms": 80562,
+      "name": "threethou - latenight",
+      "url": "https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny"
+    },
+    {
       "added_at": "2023-01-27 22:29:52",
       "album": {
         "name": "Smalltown Stardust",
@@ -321,6 +337,22 @@
       "url": "https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Waile",
+        "url": "https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y"
+      },
+      "artists": [
+        {
+          "name": "WITCH",
+          "url": "https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM"
+        }
+      ],
+      "duration_ms": 315426,
+      "name": "Waile",
+      "url": "https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk"
+    },
+    {
       "added_at": "2023-02-22 20:24:05",
       "album": {
         "name": "Dibujos De Mi Alma",
@@ -335,6 +367,22 @@
       "duration_ms": 252574,
       "name": "Dibujos De Mi Alma",
       "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
+    },
+    {
+      "added_at": "2023-03-10 17:38:59",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2023-03-16 16:38:49",
@@ -355,22 +403,6 @@
       "duration_ms": 199640,
       "name": "Friends (feat. Tim Ayre)",
       "url": "https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Waile",
-        "url": "https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y"
-      },
-      "artists": [
-        {
-          "name": "WITCH",
-          "url": "https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM"
-        }
-      ],
-      "duration_ms": 315426,
-      "name": "Waile",
-      "url": "https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -403,22 +435,6 @@
       "duration_ms": 176040,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6BmOUlxE0nuvMgpizNfehS"
-    },
-    {
-      "added_at": "2023-03-10 17:38:59",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2023-03-06 15:11:21",
@@ -1527,22 +1543,6 @@
       "duration_ms": 182601,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Aquarium Drunkard's Lagniappe Sessions",
-        "url": "https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        }
-      ],
-      "duration_ms": 271349,
-      "name": "2009",
-      "url": "https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m"
     },
     {
       "added_at": "2022-10-24 21:28:36",

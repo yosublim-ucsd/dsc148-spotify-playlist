@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: aiko",
-  "num_followers": 94097,
+  "num_followers": 94142,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE4ODQwMCwwMDAwMDAwMGU4NDczYWFmMjBkMmVlYzU3MDY0ZDBlODA4NjBhNGVm",
+  "snapshot_id": "MTY4MDE4ODQwMCwwMDAwMDAwMDJjZGQ5ZjIzMTk3NWM4MDdkOWNkNmVkYTg1NjRmYTdl",
   "tracks": [
     {
       "added_at": "2023-03-30 15:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 287986,
-      "name": "The World's Continuation",
-      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "Deep down",
-        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Deep down",
-      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
         "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
         "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 249273,
       "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
+        "name": "\u84b2\u516c\u82f1",
+        "url": "https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 191988,
+      "name": "\u84b2\u516c\u82f1",
+      "url": "https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "\u84b2\u516c\u82f1",
-        "url": "https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs"
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 191988,
-      "name": "\u84b2\u516c\u82f1",
-      "url": "https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2"
+      "duration_ms": 287986,
+      "name": "The World's Continuation",
+      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 266373,
-      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
         "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
         "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
+        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 266373,
+      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
         "name": "Ima no Futari o Otagai ga Miteru",
         "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 282906,
       "name": "Hateshinai Futari",
       "url": "https://open.spotify.com/track/4nIDnd8FurNoauKpwUEg1y"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
+        "name": "\u30ec\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 238536,
+      "name": "\u30ec\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -959,22 +975,6 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "The Flame of Love",
-        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
-      },
-      "artists": [
-        {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 199117,
-      "name": "The Flame of Love",
-      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
         "name": "Always You",
         "url": "https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD"
       },
@@ -991,34 +991,18 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "\u30ec\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2"
+        "name": "The Flame of Love",
+        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 238536,
-      "name": "\u30ec\u30f3\u30ba",
-      "url": "https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
-        "name": "\u590f\u67af\u308c",
-        "url": "https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "\u590f\u67af\u308c",
-      "url": "https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E"
+      "duration_ms": 199117,
+      "name": "The Flame of Love",
+      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
+        "name": "\u305d\u3070\u306b\u3044\u308b\u3088",
+        "url": "https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 249134,
+      "name": "\u305d\u3070\u306b\u3044\u308b\u3088",
+      "url": "https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
         "name": "Ima no Futari o Otagai ga Miteru",
         "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "\u305d\u3070\u306b\u3044\u308b\u3088",
-        "url": "https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB"
+        "name": "\u590f\u67af\u308c",
+        "url": "https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 249134,
-      "name": "\u305d\u3070\u306b\u3044\u308b\u3088",
-      "url": "https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K"
+      "duration_ms": 236133,
+      "name": "\u590f\u67af\u308c",
+      "url": "https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "\u521d\u604b (2022 Remastering)",
-        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 282165,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
         "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
         "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "\u604b",
-        "url": "https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4"
+        "name": "\u521d\u604b (2022 Remastering)",
+        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 260720,
-      "name": "\u604b",
-      "url": "https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU"
+      "duration_ms": 282165,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
+        "name": "Every Wish Deserves a Dream",
+        "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "duration_ms": 231231,
+      "name": "Every Wish Deserves a Dream",
+      "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
         "name": "Ima no Futari o Otagai ga Miteru",
         "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
       },
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
+        "name": "\u604b",
+        "url": "https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 260720,
+      "name": "\u604b",
+      "url": "https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 227432,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
-        "name": "Every Wish Deserves a Dream",
-        "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
-      },
-      "artists": [
-        {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 231231,
-      "name": "Every Wish Deserves a Dream",
-      "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/4wZ0NCTh8KTgVpcRVhgtxC"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 299953,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/6fG24wG9t0J1J8pFOibRoh"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
         "name": "\u4f38\u3073\u4ed5\u8349\u61f2\u308a\u3066\u6687\u4e5e\u3044",
         "url": "https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 219693,
       "name": "\u9055\u3046\u66f2\u306b\u3057\u3088\u3046\u3088",
       "url": "https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/4wZ0NCTh8KTgVpcRVhgtxC"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 299953,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/6fG24wG9t0J1J8pFOibRoh"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 249227,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
         "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
         "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 260440,
       "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
       "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 249227,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
+        "name": "lullaby",
+        "url": "https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 212233,
+      "name": "lullaby",
+      "url": "https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
         "name": "\u706f\u706b (feat. miida)",
         "url": "https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 239025,
       "name": "\u540d\u3082\u306a\u3044\u82b1",
       "url": "https://open.spotify.com/track/2mdrMOnGvyo6fHkm0yBUKw"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
-        "name": "lullaby",
-        "url": "https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ"
-      },
-      "artists": [
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 212233,
-      "name": "lullaby",
-      "url": "https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX"
     }
   ],
   "unique_name": "Women's Voice",

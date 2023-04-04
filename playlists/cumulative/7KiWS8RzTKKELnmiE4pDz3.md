@@ -4,7 +4,7 @@
 
 > 
 
-417 songs - 18 hr 33 min
+424 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [100 Bars](https://open.spotify.com/track/68wOeDmP9Mxibify0eeoh3) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [AK Bandamont](https://open.spotify.com/artist/430Zvgtw4i0Ec25Wwe9T2g) | [Maintaining Drug Houses](https://open.spotify.com/album/3kF4F5n8H7JVdSTCmLRDj2) | 5:13 | 2022-05-02 |  |
 | [100round/buss down](https://open.spotify.com/track/5wbmv7XBDP8Zehl2ulnA22) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [100round/buss down](https://open.spotify.com/album/5fHklXHZRRnWskvkMpqBgy) | 1:54 | 2022-12-21 |  |
 | [1017 ALYX](https://open.spotify.com/track/2o7vrVIOh1tyqF7fNhDsR6) | [Mo Bangaz](https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg) | [1017 ALYX](https://open.spotify.com/album/33qHmaehzUCDzndn5in7q0) | 1:53 | 2023-02-03 |  |
+| [11 Days](https://open.spotify.com/track/5tiO3HYnS6Fx2z3pwOCMXG) | [Mg Sleepy](https://open.spotify.com/artist/4Lf9xLId6Ho8TdXSmhllxW) | [Big Trippen](https://open.spotify.com/album/02SLNBw7hl1MQwX3m0jScL) | 1:43 | 2023-04-03 |  |
 | [111](https://open.spotify.com/track/06wCd1Cm90zXYD4jIc8j3s) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [111](https://open.spotify.com/album/6yTaFKmXyDX0R7LpLyoktW) | 2:09 | 2023-01-11 |  |
 | [14](https://open.spotify.com/track/3FjbqjPlAFa2FszNtXGGdh) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4W2G](https://open.spotify.com/album/6yP1RHK4nruSXTlQspwRrP) | 2:29 | 2022-07-28 |  |
 | [20YRS OLD](https://open.spotify.com/track/0gQ1ppx7gsNtRATyotFXDg) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [20YRS OLD](https://open.spotify.com/album/3yfgBOTo5BbRA7zew31SFb) | 2:14 | 2022-07-28 |  |
@@ -59,6 +60,7 @@
 | [Be A Man](https://open.spotify.com/track/4QbdsEr10GmPx4vFtvsitd) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Be A Man](https://open.spotify.com/album/4PIRqF6eKBlU7jBnlRp6kT) | 2:17 | 2023-01-03 |  |
 | [Been A While](https://open.spotify.com/track/25ct0s3l1VefvBj1ufxedT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Been A While](https://open.spotify.com/album/73XJk2IRPVp7FWUQg3JTGp) | 2:38 | 2023-01-11 |  |
 | [Beetleborgs](https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Bin Reaper 3: New Testament](https://open.spotify.com/album/3djREupuPtVxMt6OBlKPcL) | 2:25 | 2023-01-13 |  |
+| [Benihana](https://open.spotify.com/track/1FCE40wdTgeg9pH2E4MPDQ) | [Mg Sleepy](https://open.spotify.com/artist/4Lf9xLId6Ho8TdXSmhllxW) | [Big Trippen](https://open.spotify.com/album/02SLNBw7hl1MQwX3m0jScL) | 1:21 | 2023-04-03 |  |
 | [Bet](https://open.spotify.com/track/504JCx3dJov6Fi5083r4Hb) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 2:22 | 2022-07-28 |  |
 | [bfo2](https://open.spotify.com/track/1A60dNMbkartuzixGZt2Rc) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 1:59 | 2022-07-22 |  |
 | [bird allegiance](https://open.spotify.com/track/1fdoecpz1y8yo74NOlMVC7) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [bird allegiance](https://open.spotify.com/album/41KloqSqoao47CGew9Pucl) | 2:18 | 2022-05-08 |  |
@@ -66,6 +68,7 @@
 | [Black](https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:08 | 2023-01-06 |  |
 | [Black Petunia](https://open.spotify.com/track/2f83a8dYxb43CK1V6F89t9) | [Capital STEEZ Archive](https://open.spotify.com/artist/4LHyVZgCe5QLSmCILz5Fvy) | [AmeriKKKan Korruption](https://open.spotify.com/album/77btIQG6LDaCWiWmWtnCXr) | 3:29 | 2023-02-01 |  |
 | [Bloody Runtz](https://open.spotify.com/track/2PcuF9PUKm1N1gmLxQeyDG) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Bloody Runtz](https://open.spotify.com/album/0lKKlcELABWjmMgkCpuoUu) | 2:42 | 2022-10-21 |  |
+| [Bombaclot](https://open.spotify.com/track/5v0GLC6yRDRyxeZSEGdf8y) | [Beatsbycali](https://open.spotify.com/artist/2EUvd5VqbA8wS5F70z2Jlg), [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [RTB Chi](https://open.spotify.com/artist/1vujQ4R9pnn0sOeQZDJvfs) | [Bombaclot](https://open.spotify.com/album/74eVXHFF8J4ra7RQobQoyh) | 2:35 | 2023-04-03 |  |
 | [Bosses](https://open.spotify.com/track/7eWMg3GRc2whQzRYsVcA8u) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:26 | 2023-01-07 |  |
 | [BrainWashed](https://open.spotify.com/track/7Hoy6B9GwVCzaIzxOvkbu6) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:20 | 2023-01-03 |  |
 | [Breakin Tha Bank](https://open.spotify.com/track/3Tjf7ws8yjhMHeBbSwWHai) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:27 | 2022-07-27 |  |
@@ -154,6 +157,7 @@
 | [hat4hat](https://open.spotify.com/track/1DWFO7hrTW9TkSLHzyLeGA) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:12 | 2022-10-04 |  |
 | [Head$hot! \(with Trippie Redd\)](https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:16 | 2023-01-23 |  |
 | [Heathens](https://open.spotify.com/track/3dRC0mAJlK2hYpybMcoO3O) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Heathens](https://open.spotify.com/album/6dXBmISovpm5M0v1eSSRc3) | 5:40 | 2022-07-16 |  |
+| [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 | 2023-04-03 |  |
 | [Hell Night](https://open.spotify.com/track/1BeZDWwsxqxOUvTJzH2M4T) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Hell Night](https://open.spotify.com/album/5EwJMf9I4CfMZEEV133gJG) | 3:13 | 2022-09-11 |  |
 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 | 2022-10-17 |  |
 | [HeMotions](https://open.spotify.com/track/39HsFsNfFYZdpnQfq8lbS3) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:07 | 2023-03-10 |  |
@@ -166,6 +170,7 @@
 | [Hobos](https://open.spotify.com/track/2tOUQ0d8EePqpJltokyhWo) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Hobos](https://open.spotify.com/album/4i0w8RJhXhNU5SdLQPj7w7) | 1:12 | 2023-01-06 |  |
 | [Hollywood](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:01 | 2022-07-23 |  |
 | [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 | 2023-03-31 |  |
+| [Honeyberry 2](https://open.spotify.com/track/7DST9azASHMawTfFksNnoT) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Honeyberry 2](https://open.spotify.com/album/60ijJ6s8jhv1cHtrUId9mq) | 2:50 | 2023-04-03 |  |
 | [How Did We Know?](https://open.spotify.com/track/78rgKkKbtMOR182mR13HYZ) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Mr.Perfect](https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4) | 2:29 | 2022-07-17 |  |
 | [How It Feels](https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:46 | 2022-06-19 |  |
 | [How it go](https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:04 | 2023-02-28 |  |
@@ -235,6 +240,7 @@
 | [Mad At Me](https://open.spotify.com/track/3iaf8JTmKbID3TA8Zy8AjF) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:46 | 2022-05-08 |  |
 | [Mad bout that](https://open.spotify.com/track/7nZwBbH8F8FqArrVIe8Zl4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:10 | 2023-01-10 |  |
 | [Maze](https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:24 | 2022-11-24 |  |
+| [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 | 2023-04-03 |  |
 | [Mistress](https://open.spotify.com/track/4WSbFi3yvVmaS2JGYu0h7P) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:51 | 2022-07-08 |  |
 | [Mobb Love](https://open.spotify.com/track/6XgVRtmN6fiLjE4UGak7e0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Mobb Love](https://open.spotify.com/album/53O7xgfmGg4ycqpmqbqwhS) | 2:35 | 2023-01-11 |  |
 | [Molly](https://open.spotify.com/track/78voFwSSy0KLQw7BhHUAyn) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Molly](https://open.spotify.com/album/7pzfdgVTRRSaeXEESqjM6J) | 2:49 | 2022-04-20 |  |
@@ -391,6 +397,7 @@
 | [Too Close](https://open.spotify.com/track/39M4xYPmTywqDjgvUEHJ5q) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 1:44 | 2022-09-20 |  |
 | [Too Much](https://open.spotify.com/track/0KBKmCVWaC6XcQawb7yPbI) | [Kankan 2](https://open.spotify.com/artist/54W7CzHFXNer7Q2ZxeWluq) | [Too Much](https://open.spotify.com/album/2f4dupUwmdv1E9Khq4fADP) | 2:15 | 2022-12-21 |  |
 | [Took That Mask Off](https://open.spotify.com/track/1SeB1axwoRD0RHbWB7W8ZQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Took That Mask Off](https://open.spotify.com/album/3R0hQHd7YrGeLGSqsDd11p) | 2:18 | 2022-12-30 |  |
+| [Tootheache & Gaslighting!](https://open.spotify.com/track/3x0ObDVWg0iQiZ19v9aaXX) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy) | 2:47 | 2023-04-03 |  |
 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 | 2022-04-09 |  |
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2022-09-26 |  |
 | [Trippple H](https://open.spotify.com/track/1ydS1YSLGA9ESh7GROrnWR) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Thot Slayer 2](https://open.spotify.com/album/1PrvzRiC3jFGKR0GRSkLz4) | 3:32 | 2022-08-14 |  |

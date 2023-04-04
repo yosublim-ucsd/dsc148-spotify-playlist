@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Memories - Never Die",
+        "url": "https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn"
+      },
+      "artists": [
+        {
+          "name": "Never Ending Game",
+          "url": "https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154030,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3kRG115JtsxkjfvUHNvK4d"
+    },
+    {
+      "album": {
         "name": "Shock Therapy",
         "url": "https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV"
       },
@@ -816,6 +834,32 @@
       "duration_ms": 178000,
       "name": "Myopic",
       "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
+    },
+    {
+      "album": {
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr"
+      },
+      "artists": [
+        {
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
+        },
+        {
+          "name": "Jeremy Bolm",
+          "url": "https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1"
+        },
+        {
+          "name": "Jordan Dreyeri",
+          "url": "https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49166,
+      "name": "Neila Forever",
+      "url": "https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg"
     },
     {
       "album": {

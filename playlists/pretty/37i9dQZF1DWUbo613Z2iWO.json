@@ -1,12 +1,12 @@
 {
   "description": "R&B of the moment by the artists of the future. Cover: Kenyon Dixon",
-  "num_followers": 33706,
+  "num_followers": 33830,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTczMSwwMDAwMDAwMDQ0MjA3OTBkZjVlZWRkNDc3YzVhZTYwMWI2MDBjY2M4",
+  "snapshot_id": "MTY4MDU0MTYwNSwwMDAwMDAwMDJlY2Q0MTAwNGQ1ZTIwMDZiNTRjNTliNWI1N2JlYTcw",
   "tracks": [
     {
       "added_at": "2023-03-31 04:08:51",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
+      "added_at": "2023-04-03 17:06:45",
+      "album": {
+        "name": "Times It By Two",
+        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "duration_ms": 205743,
+      "name": "Times It By Two",
+      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Is This Real Love? (feat. Lucky Daye)",
@@ -783,26 +799,6 @@
       "duration_ms": 229052,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "From Uganda With Love",
-        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 110124,
-      "name": "SUPAHAWT",
-      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -931,22 +927,6 @@
       "duration_ms": 252397,
       "name": "Open",
       "url": "https://open.spotify.com/track/0q0IPT6deJla3RNCGVk4VN"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2023-02-10 05:00:00",

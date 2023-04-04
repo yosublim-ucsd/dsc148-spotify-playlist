@@ -7697,6 +7697,28 @@
     },
     {
       "album": {
+        "name": "Ocean Of Worldly Suffering",
+        "url": "https://open.spotify.com/album/0sFTteYB2M0Is6iWHMcIkb"
+      },
+      "artists": [
+        {
+          "name": "Abiotic",
+          "url": "https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe"
+        },
+        {
+          "name": "Matthew K. Heafy",
+          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307747,
+      "name": "Ocean Of Worldly Suffering",
+      "url": "https://open.spotify.com/track/1OrH3dDFXicnnaCKpvvNH8"
+    },
+    {
+      "album": {
         "name": "Off With Your Head",
         "url": "https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5"
       },

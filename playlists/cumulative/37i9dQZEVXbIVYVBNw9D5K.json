@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 93015,
       "name": "GELMEZSEN GELME",
       "url": "https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN"
@@ -4446,7 +4446,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -4812,6 +4812,24 @@
       "duration_ms": 154000,
       "name": "G\u00f6zlerim Seni Ar\u0131yor",
       "url": "https://open.spotify.com/track/0n6er4tGjAjLu6bEQFsdr6"
+    },
+    {
+      "album": {
+        "name": "G\u00f6zlerimi Kapatt\u0131m",
+        "url": "https://open.spotify.com/album/0ZMxImi4M22n8CanmaGNOB"
+      },
+      "artists": [
+        {
+          "name": "Velet",
+          "url": "https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171007,
+      "name": "G\u00f6zlerimi Kapatt\u0131m",
+      "url": "https://open.spotify.com/track/4dGAUUU1IoXxxB0fCJYBGL"
     },
     {
       "album": {
@@ -5326,7 +5344,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 185333,
       "name": "Herkes Gibisin",
       "url": "https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj"
@@ -8516,7 +8534,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 209829,
       "name": "Olur Mu",
       "url": "https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG"
@@ -10592,6 +10610,28 @@
       "duration_ms": 158038,
       "name": "TALIBANA",
       "url": "https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM"
+    },
+    {
+      "album": {
+        "name": "TALIBANA",
+        "url": "https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158053,
+      "name": "TALIBANA",
+      "url": "https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT"
     },
     {
       "album": {

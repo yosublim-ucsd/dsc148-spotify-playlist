@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-248 songs - 13 hr 45 min
+249 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 | 2021-12-24 |  |
 | [Christmas All Over Again](https://open.spotify.com/track/4KjzFAGNJr2SjaA8OIFZJc) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Christmas All Over Again](https://open.spotify.com/album/3gJpBRswNsXaxFIiongFJ8) | 3:06 | 2021-12-24 | 2022-10-30 |
 | [Christmas Alone](https://open.spotify.com/track/4IMBxJ8v95UNXLeAzJTC64) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Christmas Alone](https://open.spotify.com/album/5sJ41KUJEVPl3wJQucvPjb) | 3:26 | 2021-12-24 | 2022-07-29 |
+| [Christmas Angel](https://open.spotify.com/track/0J4u3HXFFZMtKQb2fZPZbq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B) | [Christmas Angel](https://open.spotify.com/album/6tjj25SBB1Slk8o3QDPXt5) | 2:10 | 2022-12-16 |  |
 | [Christmas Anyway](https://open.spotify.com/track/34UyngzvrP2sXVxrUN2m7K) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Christmas Anyway](https://open.spotify.com/album/3QwgaIZn16DldwwYEdbQaq) | 4:32 | 2022-12-05 |  |
 | [Christmas at Home](https://open.spotify.com/track/1xvp1cTKblxibrC9noLknD) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Nearly York](https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p) | [Christmas at Home](https://open.spotify.com/album/4XpqjcHnjjjV9G6cOPxqqv) | 3:26 | 2021-12-24 | 2022-12-15 |
 | [Christmas at Home](https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Nearly York](https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p) | [Christmas at Home](https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1) | 3:26 | 2022-12-16 |  |
@@ -71,7 +72,7 @@
 | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/track/6bwi6DRMwySEQ1UPzJTSew) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/album/3ggV8f813nt3mOWA0o31jj) | 2:18 | 2021-12-24 | 2022-07-29 |
 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 | 2021-12-24 |  |
 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 | 2022-11-28 |  |
-| [Do You Hear What I Hear?](https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:49 | 2021-12-24 |  |
+| [Do You Hear What I Hear?](https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:49 | 2021-12-24 | 2023-04-04 |
 | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co) | 2:14 | 2021-12-24 |  |
 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 | 2022-11-25 |  |
 | [Don't You Know It's Christmas](https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Don't You Know It's Christmas](https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4) | 3:37 | 2021-12-24 | 2023-03-27 |

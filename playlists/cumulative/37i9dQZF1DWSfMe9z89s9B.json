@@ -983,6 +983,28 @@
     },
     {
       "album": {
+        "name": "Applause \u2013 Gio Genesis Version",
+        "url": "https://open.spotify.com/album/0xwasyOcZCgZx0Neum5UV1"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Gio Genesis",
+          "url": "https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110924,
+      "name": "Applause - Gio Genesis Version",
+      "url": "https://open.spotify.com/track/0pLjL24V419o2qIkJpssMC"
+    },
+    {
+      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK"
       },
@@ -6152,7 +6174,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 153142,
       "name": "Honeydew (02)",
       "url": "https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA"

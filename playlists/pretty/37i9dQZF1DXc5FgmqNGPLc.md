@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,390 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,398 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 82 | [Mahogany Hall Stomp \- Live At Symphony Hall, Boston, MA/1947](https://open.spotify.com/track/1dmzpoQdOq11XR62yFxs4i) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo At Symphony Hall](https://open.spotify.com/album/3NksAuGTtVtAo1fYFwhO6D) | 3:53 |
 | 83 | [Open Country](https://open.spotify.com/track/6KLjvezsrwtrl2UW4PwflN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 5:46 |
 | 84 | [Teach Me Tonight \- Original Edited Concert \- Live at Sunset School, Carmel\-by\-the\-Sea, CA, September 1955](https://open.spotify.com/track/32mkhw8UkqgsEiDhfz0r1n) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Concert By The Sea](https://open.spotify.com/album/6P8W18Qy0P2vreXHoEeVQL) | 3:44 |
-| 85 | [Autumn Leaves \- Live At Philharmonie, Munich / 1986](https://open.spotify.com/track/7tyDWNVuIKEDuZS33Fm9S4) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Still Live](https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P) | 10:24 |
+| 85 | [Autumn Leaves \- Live At Philharmonie, Munich / 1986](https://open.spotify.com/track/7tyDWNVuIKEDuZS33Fm9S4) | [Joseph Kosma](https://open.spotify.com/artist/0Fb7u2KBJ3anw54Qs7Oh0Y), [Jacques Enoch](https://open.spotify.com/artist/4mhblJOpL8srpTB3EdhuML), [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Still Live](https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P) | 10:24 |
 | 86 | [Are You Going With Me? \- Live](https://open.spotify.com/track/3jKCwz2s4wm3djg7Mb2dMI) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Travels](https://open.spotify.com/album/2rxe6u2Pm52WtUbbgcof2c) | 9:18 |
 | 87 | [Köln, January 24, 1975, Pt\. I \- Live](https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 26:01 |
 | 88 | [Filthy McNasty \- Live At Village Gate Club, New York, 1961 / Remastered 2006 / Rudy Van Gelder Edition](https://open.spotify.com/track/78DXI2y5wYjNm2W5cDAUSA) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Doin' The Thing: The Horace Silver Quintet At The Village Gate \(Remastered 2006/Rudy Van Gelder Edition\)](https://open.spotify.com/album/6CPk8vCQBxUtcPBQgnVvJv) | 11:02 |

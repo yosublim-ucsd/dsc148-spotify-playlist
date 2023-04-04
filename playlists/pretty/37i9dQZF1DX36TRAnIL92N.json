@@ -1,15 +1,15 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 125009,
+  "num_followers": 125542,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk5NDAwMCwwMDAwMDAwMDU0NGUxNjMyY2E2YTIzZmJjODNlOTA0Y2FmZjczNzU0",
+  "snapshot_id": "MTY3OTk5NDAwMCwwMDAwMDAwMGFhNjU1N2JkYjUwZDUxNTNiMWE0YjQ5NDZkNjVkMzY4",
   "tracks": [
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "Dance for Me",
         "url": "https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "Alle meine Raver",
         "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "Never Go Back To Sleep",
         "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "All Eyes On Me",
         "url": "https://open.spotify.com/album/5H8RWIGN18k3PrPumFy28f"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "Underground (Original Mix)",
         "url": "https://open.spotify.com/album/32QwA3nRlFwvewFnRkFric"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
         "name": "Club Vibes Part 05",
         "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
+        "name": "Bells of Notre Dame",
+        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Bells of Notre Dame",
+      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
         "name": "Lonely Traveller",
         "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Bells of Notre Dame",
-        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
       },
       "artists": [
         {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Bells of Notre Dame",
-      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
       },
@@ -701,10 +701,10 @@
       "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
     },
     {
-      "added_at": "2023-02-10 14:16:33",
+      "added_at": "2023-04-04 00:31:28",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
+        "name": "Action",
+        "url": "https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
         }
       ],
-      "duration_ms": 271729,
-      "name": "Affection - Radio Edit",
-      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+      "duration_ms": 369880,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -837,10 +837,10 @@
       "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
     },
     {
-      "added_at": "2023-04-03 01:01:14",
+      "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb"
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
         }
       ],
-      "duration_ms": 369880,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm"
+      "duration_ms": 271729,
+      "name": "Affection - Radio Edit",
+      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
     },
     {
       "added_at": "2023-02-10 14:16:33",

@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 177551,
+  "num_followers": 177615,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxMzYwMCwwMDAwMDAwMDYwOTczZTNhZmMzMGZkYjhiMzRlN2VjOWUwOGFlODlk",
+  "snapshot_id": "MTY4MDIxMzYwMCwwMDAwMDAwMDQzMDY3NjgzYWI4ZWEwYWNhZTI2MzVhZjE2ZjFlNTIz",
   "tracks": [
     {
       "added_at": "2023-03-30 22:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Fisherman's Woman",
         "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 184533,
       "name": "Sunny Road",
       "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Can Summer Love Last Forever?",
         "url": "https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 246316,
+      "name": "(It's Not About) Running",
+      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 246316,
-      "name": "(It's Not About) Running",
-      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Time of Waiting",
         "url": "https://open.spotify.com/album/55d318EyF219Cbnei0f0wV"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Dad Told Me",
+        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
+      },
+      "artists": [
+        {
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -819,6 +835,22 @@
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -851,38 +883,6 @@
       "duration_ms": 220080,
       "name": "Look At The Light",
       "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Dad Told Me",
-        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
-      },
-      "artists": [
-        {
-          "name": "Hello Saferide",
-          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
-        }
-      ],
-      "duration_ms": 155213,
-      "name": "Oh God",
-      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "One Day at a Time",
-        "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
-      },
-      "artists": [
-        {
-          "name": "Benedikt",
-          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
-        }
-      ],
-      "duration_ms": 152120,
-      "name": "One Day at a Time",
-      "url": "https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Gardening",
         "url": "https://open.spotify.com/album/1C10FGeprVt3pDvCjYHfZW"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 283226,
       "name": "Gardening",
       "url": "https://open.spotify.com/track/6FMCje8dWYwkFOc7Gvu3r0"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "One Day at a Time",
+        "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
+      },
+      "artists": [
+        {
+          "name": "Benedikt",
+          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
+        }
+      ],
+      "duration_ms": 152120,
+      "name": "One Day at a Time",
+      "url": "https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq"
     }
   ],
   "unique_name": "Nordic Folk",

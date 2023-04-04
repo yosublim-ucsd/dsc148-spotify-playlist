@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-93 songs - 4 hr 6 min
+94 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [GAZ PEDAL](https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [GAZ PEDAL](https://open.spotify.com/album/71HKIz40EJPU0BKrCtO0rg) | 2:25 | 2023-03-16 |  |
 | [Gelmelisin](https://open.spotify.com/track/5E8dUYbcE3sAfwKcVOyp0h) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Gelmelisin](https://open.spotify.com/album/27PlkPSPZMyWRCs4hdt0Qc) | 3:08 | 2023-01-10 |  |
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2023-01-10 |  |
-| [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2023-01-10 |  |
+| [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2023-01-10 | 2023-04-04 |
 | [GHETTOMAN](https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [GHETTOMAN](https://open.spotify.com/album/0LZhkLhHJIPopDt0NjEF2M) | 2:28 | 2023-03-02 | 2023-03-25 |
 | [Gitme Bebé](https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Gitme Bebé](https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G) | 2:36 | 2023-01-10 | 2023-02-03 |
 | [GLOCK](https://open.spotify.com/track/29snI08I9CoJuHhSFI682u) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [CELONAPS](https://open.spotify.com/album/0jIpyQRQ0SPecKpKajBqoO) | 2:49 | 2023-03-23 |  |
@@ -84,6 +84,7 @@
 | [Switch](https://open.spotify.com/track/5Y84RGVc1QVrAh6CKbV6uE) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Switch](https://open.spotify.com/album/7GV0frbZRy8KayIzSDV68j) | 3:12 | 2023-01-10 | 2023-01-20 |
 | [TALIBANA](https://open.spotify.com/track/01KdkKsCC3BkA4nsQQLwOm) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/4wvjyNp47Q9uvY62To3fYq) | 2:36 | 2023-02-16 | 2023-03-16 |
 | [TALIBANA](https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/0R6zYJmsszJxtRkEfX1sWz) | 2:38 | 2023-01-10 | 2023-02-04 |
+| [TALIBANA](https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX) | 2:38 | 2023-04-03 |  |
 | [Tarihin En İyisi](https://open.spotify.com/track/3mgF1mUM8j1VmKVwjhnxGk) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [Tarihin En İyisi](https://open.spotify.com/album/42N04xSRE7G3BSxJ5IRbMY) | 2:29 | 2023-03-30 |  |
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2023-01-10 | 2023-02-17 |
 | [Tuzak](https://open.spotify.com/track/1FMJcAZRu3XbsFC72nZ22w) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [Tuzak](https://open.spotify.com/album/71SVOWI7ILlkWdTBZ3ah23) | 2:05 | 2023-01-10 | 2023-01-13 |

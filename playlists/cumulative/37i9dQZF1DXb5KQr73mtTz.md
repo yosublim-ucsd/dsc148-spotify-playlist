@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-223 songs - 14 hr 38 min
+224 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 | 2022-05-11 |  |
 | [Drown](https://open.spotify.com/track/7uVqetqCVpIrqeVRf4wyWW) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Drown](https://open.spotify.com/album/1TYFO2ZPj1oQ6Ppq0k2RYG) | 3:30 | 2022-07-08 | 2022-07-18 |
 | [Dumb \(Feat\. Kim Seungmin, Chan\)](https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Can I Not ?](https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R) | 3:27 | 2023-03-30 |  |
-| [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 | 2022-07-08 |  |
+| [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 | 2022-07-08 | 2023-04-04 |
 | [Emptiness in Memory](https://open.spotify.com/track/1YZLHAjxsXujbeQj6DkvgR) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Sound Doctrine](https://open.spotify.com/album/1ubAHHLocrHi2DnH3fg0gm) | 4:41 | 2022-05-11 | 2022-07-29 |
 | [empty \(With Boramiyu\)](https://open.spotify.com/track/111N35rXgqbERCu9lMpnou) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 3:35 | 2022-06-20 | 2022-07-29 |
 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 | 2022-05-11 | 2023-01-13 |
@@ -61,6 +61,7 @@
 | [Exhibitions 2020 : kimSeUng hYun X Choi Jinwon\(8月\) \- Difference of love](https://open.spotify.com/track/39lW8BbBLCvqufGhbQ2pTZ) | [kimSeUng hYun](https://open.spotify.com/artist/1jNJAPgB6uRDVF19NZiVBu), [Choi Jinwon](https://open.spotify.com/artist/1nOfsyLHgZzRxXVg04B8zT) | [Exhibitions 2020 : kimSeUng hYun X Choi Jinwon\(8月\) \- Difference of love](https://open.spotify.com/album/2wHtjbwCL8xyTgyoG5woYs) | 3:40 | 2022-05-11 | 2022-06-03 |
 | [Falling Flower \(Dajung Ver.\)](https://open.spotify.com/track/4VqXGpj0uRNhN1xu4T4ZJu) | [seo hyun jin](https://open.spotify.com/artist/56kr7ithHAvEeInwvWJoRs) | [You Are My Spring OST Part 9](https://open.spotify.com/album/2hxR84Q3tHUdh5eelpgBMP) | 3:47 | 2022-05-11 | 2022-07-29 |
 | [Far away](https://open.spotify.com/track/2luEd7QfSRI7TsQKkziFuH) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [HYENA \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/2BllfHBGeanfcUiMSFKF5q) | 3:51 | 2022-05-11 | 2022-06-05 |
+| [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 | 2023-04-04 |  |
 | [Farewell Poem](https://open.spotify.com/track/2vsQuyU24llVP5HD1cVx9s) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Farewell Poem](https://open.spotify.com/album/6twPccXyMf8QcgyIQ7N6Z0) | 3:38 | 2022-05-11 | 2022-07-24 |
 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2022-05-11 | 2023-01-15 |
 | [Flame](https://open.spotify.com/track/4x1FlPvty9bk1j73gkyYaK) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Flame](https://open.spotify.com/album/1VgqjntRzWONoGoa0M1dxR) | 3:17 | 2022-05-11 | 2022-07-28 |

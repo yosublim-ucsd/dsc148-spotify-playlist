@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 438199,
+  "num_followers": 438248,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5OTc2NiwwMDAwMDAwMDFiZTU4Y2YxOWUxMDdlYzM1ZjdlNTRkZDkzZWQ4NDc4",
+  "snapshot_id": "MTY4MDE5OTc2NiwwMDAwMDAwMDg2Y2RkYmQ0Y2I1NWViMjg2MGMwZjA1MzBkMDM0Nzcz",
   "tracks": [
     {
       "added_at": "2023-03-30 18:09:26",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "Figures",
         "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 152590,
       "name": "Figures",
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 337514,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/0fm6oDgGOPikLyxKEHMMHk"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "Beh Beh",
         "url": "https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 337514,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/0fm6oDgGOPikLyxKEHMMHk"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/1BM3o9El9FetciNldM3t94"
+      },
+      "artists": [
+        {
+          "name": "Edward Rogers",
+          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
         "name": "Schvitz",
         "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Trippin",
-        "url": "https://open.spotify.com/album/1BM3o9El9FetciNldM3t94"
-      },
-      "artists": [
-        {
-          "name": "Edward Rogers",
-          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "All The Things I Couldn't Say To You",
         "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "I Told You I Would",
         "url": "https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 208537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "The World",
-        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "This Will Be Our Year",
         "url": "https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 157152,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "The World",
+        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "I'm Gonna Love You",
         "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 268211,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 266734,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
+        "name": "STILL HAVE YOU",
+        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "STILL HAVE YOU",
+      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
         "name": "Nobody's Fool",
         "url": "https://open.spotify.com/album/3o6zpnwxSC8PeIQkdP5V1w"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "STILL HAVE YOU",
-        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "STILL HAVE YOU",
-      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "L.A.B V",
         "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+        "name": "CUBE",
+        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
         }
       ],
-      "duration_ms": 240266,
-      "name": "Won't Turn Back",
-      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+      "duration_ms": 257040,
+      "name": "B.N.D",
+      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "CUBE",
-        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
       "artists": [
         {
-          "name": "Tha\u00efs Lona",
-          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 257040,
-      "name": "B.N.D",
-      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Lonely Are the Brave (Mav's Version)",
-        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "I Need - Mav's Version",
-      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "Some Of Us Are Brave",
         "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 233846,
       "name": "Some Of Us Are Brave",
       "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "Lonely Are the Brave (Mav's Version)",
+        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "I Need - Mav's Version",
+      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "What If? / Leave It",
-        "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA"
       },
@@ -1087,34 +1067,22 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Show Me What You Got",
-        "url": "https://open.spotify.com/album/6fvnmyccUEQcG3q3iZ5yiI"
+        "name": "What If? / Leave It",
+        "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
       "artists": [
         {
-          "name": "Souldrippin",
-          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
         },
         {
-          "name": "Bo Saris",
-          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
-        },
-        {
-          "name": "Brownie Dutch",
-          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
-        },
-        {
-          "name": "Hari Loco",
-          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
-        },
-        {
-          "name": "Darius Dante",
-          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 195173,
-      "name": "Show Me What You Got",
-      "url": "https://open.spotify.com/track/0Z3ECFfbdIJvv9D5itlCJS"
+      "duration_ms": 232500,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1147,6 +1115,38 @@
       "duration_ms": 276401,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "Show Me What You Got",
+        "url": "https://open.spotify.com/album/6fvnmyccUEQcG3q3iZ5yiI"
+      },
+      "artists": [
+        {
+          "name": "Souldrippin",
+          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
+        },
+        {
+          "name": "Bo Saris",
+          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+        },
+        {
+          "name": "Brownie Dutch",
+          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
+        },
+        {
+          "name": "Hari Loco",
+          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
+        },
+        {
+          "name": "Darius Dante",
+          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Show Me What You Got",
+      "url": "https://open.spotify.com/track/0Z3ECFfbdIJvv9D5itlCJS"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Those Days Are Over",
-        "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 174393,
-      "name": "Every Day and Every Night",
-      "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -1271,22 +1255,6 @@
       "duration_ms": 204909,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Joy & Pain",
-      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1311,6 +1279,38 @@
       "duration_ms": 184137,
       "name": "GEEK OUT!",
       "url": "https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "Those Days Are Over",
+        "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 174393,
+      "name": "Every Day and Every Night",
+      "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Joy & Pain",
+      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
+        "name": "Never Forget My Love",
+        "url": "https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "You're My Girl",
+      "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
         "name": "Unify",
         "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 179882,
       "name": "Come Back - Radio Edit",
       "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
-        "name": "Never Forget My Love",
-        "url": "https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "You're My Girl",
-      "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1571,6 +1571,34 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
+        "name": "Favorite Girl",
+        "url": "https://open.spotify.com/album/3w3rOwm4VK2loLrcinKRTx"
+      },
+      "artists": [
+        {
+          "name": "Souldrippin",
+          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
+        },
+        {
+          "name": "Brownie Dutch",
+          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
+        },
+        {
+          "name": "Hari Loco",
+          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
+        },
+        {
+          "name": "Darius Dante",
+          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+        }
+      ],
+      "duration_ms": 179427,
+      "name": "Favorite Girl",
+      "url": "https://open.spotify.com/track/4wUE9MM4XiwZ6mnw2LQQop"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
         "name": "Something I Said",
         "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
       },
@@ -1635,6 +1663,26 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
+        "name": "WHEN IT HURTS",
+        "url": "https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Jack Savoretti",
+          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "WHEN IT HURTS",
+      "url": "https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
         "name": "IRONEYE",
         "url": "https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C"
       },
@@ -1647,22 +1695,6 @@
       "duration_ms": 239813,
       "name": "To be naive",
       "url": "https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
-        "name": "Pinky Blues",
-        "url": "https://open.spotify.com/album/0PqTaoytZFYiGLMNV8S2bV"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Pinky Blues",
-      "url": "https://open.spotify.com/track/5DVxEveEOhd59EWUqn2cXz"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1703,50 +1735,18 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
-        "name": "Favorite Girl",
-        "url": "https://open.spotify.com/album/3w3rOwm4VK2loLrcinKRTx"
+        "name": "Pinky Blues",
+        "url": "https://open.spotify.com/album/0PqTaoytZFYiGLMNV8S2bV"
       },
       "artists": [
         {
-          "name": "Souldrippin",
-          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
-        },
-        {
-          "name": "Brownie Dutch",
-          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
-        },
-        {
-          "name": "Hari Loco",
-          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
-        },
-        {
-          "name": "Darius Dante",
-          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 179427,
-      "name": "Favorite Girl",
-      "url": "https://open.spotify.com/track/4wUE9MM4XiwZ6mnw2LQQop"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
-        "name": "WHEN IT HURTS",
-        "url": "https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "Jack Savoretti",
-          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "WHEN IT HURTS",
-      "url": "https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk"
+      "duration_ms": 176500,
+      "name": "Pinky Blues",
+      "url": "https://open.spotify.com/track/5DVxEveEOhd59EWUqn2cXz"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
+        "name": "Summer Moon",
+        "url": "https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "duration_ms": 201343,
+      "name": "Summer Moon",
+      "url": "https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
         "name": "All for Love",
         "url": "https://open.spotify.com/album/4dGWFZ8mzdMYHvoCYCqXno"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 226764,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/7hlqAK5plYyDE19DwtlXVG"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
-        "name": "Summer Moon",
-        "url": "https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        }
-      ],
-      "duration_ms": 201343,
-      "name": "Summer Moon",
-      "url": "https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl"
     },
     {
       "added_at": "2023-03-30 18:09:26",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-03-30 18:09:26",
       "album": {
+        "name": "Can't Have It All",
+        "url": "https://open.spotify.com/album/50IvTtbkuFU3THSBaXhwun"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 179867,
+      "name": "Can't Have It All",
+      "url": "https://open.spotify.com/track/3ga98iuKvfVzoa7ICA56v9"
+    },
+    {
+      "added_at": "2023-03-30 18:09:26",
+      "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/5ysdZkHkxPhFFquCkvX9HD"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 220127,
       "name": "Reaching - Single Version",
       "url": "https://open.spotify.com/track/5PdIIE4PYKEVTCevvdiFxN"
-    },
-    {
-      "added_at": "2023-03-30 18:09:26",
-      "album": {
-        "name": "Can't Have It All",
-        "url": "https://open.spotify.com/album/50IvTtbkuFU3THSBaXhwun"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 179867,
-      "name": "Can't Have It All",
-      "url": "https://open.spotify.com/track/3ga98iuKvfVzoa7ICA56v9"
     },
     {
       "added_at": "2023-03-30 18:09:26",

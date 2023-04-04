@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 723,
+  "num_followers": 725,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDliNmI4NzA4Y2VjNTA2YzI4Y2E1ZjZhMDYxMGUzZjkw",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMGY1YjYzOTZkZTFhMzc1MDY5ZDFmZmJiNzlhNzY5ZGQ5",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
+        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
+      },
+      "artists": [
+        {
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "R\u00e8ve nou anc\u00e8tre",
+      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Roule a li m\u00eame",
         "url": "https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 316446,
       "name": "Zoli",
       "url": "https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
-        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
-      },
-      "artists": [
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "R\u00e8ve nou anc\u00e8tre",
-      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Kol Kole",
+        "url": "https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN"
+      },
+      "artists": [
+        {
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+        }
+      ],
+      "duration_ms": 302576,
+      "name": "Eliana",
+      "url": "https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Main dans la main",
         "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 304946,
       "name": "Vir\u00e9",
       "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Kol Kole",
-        "url": "https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 302576,
-      "name": "Eliana",
-      "url": "https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Fiesta Ravanna",
-        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
+        "name": "La Route Karanbol",
+        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
       },
       "artists": [
         {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
         }
       ],
-      "duration_ms": 265413,
-      "name": "Fiesta Ravanna",
-      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
+      "duration_ms": 287711,
+      "name": "La Route Karanbol",
+      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Fiesta Ravanna",
+        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "Fiesta Ravanna",
+      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Sort' dovan (La compil)",
         "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 285431,
       "name": "Ma demand aou pardon",
       "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        }
-      ],
-      "duration_ms": 281917,
-      "name": "Madame ohh",
-      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La Route Karanbol",
-        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
       "artists": [
         {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
         }
       ],
-      "duration_ms": 287711,
-      "name": "La Route Karanbol",
-      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
+      "duration_ms": 281917,
+      "name": "Madame ohh",
+      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",

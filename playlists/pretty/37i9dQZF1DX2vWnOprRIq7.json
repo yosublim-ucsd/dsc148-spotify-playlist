@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Alfonsina.",
-  "num_followers": 15248,
+  "num_followers": 15249,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMTgwMiwwMDAwMDAwMDhmMTc1M2YwMDRiYTljNjIyNDBlNTVhZjNkMTRkODY2",
+  "snapshot_id": "MTY3OTYxMTgwMiwwMDAwMDAwMDFkY2U1ZjlhMzRhYjQ2NjgxMDg3MDM5MzFhNzc1NjA4",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/555uSzxhjD72TQBEoPOfYT"
     },
     {
-      "added_at": "2023-04-03 00:27:28",
+      "added_at": "2023-04-04 01:18:05",
       "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
@@ -653,7 +653,23 @@
       "url": "https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB"
     },
     {
-      "added_at": "2023-04-03 00:27:28",
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Vital",
+        "url": "https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 182062,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
+    },
+    {
+      "added_at": "2023-04-04 01:18:05",
       "album": {
         "name": "\u00d3rbita",
         "url": "https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT"
@@ -675,22 +691,6 @@
       "duration_ms": 197933,
       "name": "\u00d3rbita",
       "url": "https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Vital",
-        "url": "https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Vital",
-      "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "pulso/yotuoro",
+        "url": "https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "pulso",
+      "url": "https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Corazon en Asteroides",
         "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "pulso/yotuoro",
-        "url": "https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "pulso",
-      "url": "https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Mejor no hablar de ciertas cosas",
+        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
+      },
+      "artists": [
+        {
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+        }
+      ],
+      "duration_ms": 300782,
+      "name": "Mejor no hablar de ciertas cosas",
+      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Mejor no hablar de ciertas cosas",
-        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY"
       },
       "artists": [
         {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+          "name": "Sof\u00eda Uzal",
+          "url": "https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd"
         }
       ],
-      "duration_ms": 300782,
-      "name": "Mejor no hablar de ciertas cosas",
-      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
+      "duration_ms": 169227,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 290500,
       "name": "Quisiera Que Est\u00e9s Ac\u00e1",
       "url": "https://open.spotify.com/track/6ykcUdGzVRqXRri3JqgLm8"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Hasta el Final",
-        "url": "https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Uzal",
-          "url": "https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd"
-        }
-      ],
-      "duration_ms": 169227,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Quem\u00e1ndome al Sol",
-        "url": "https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh"
+        "name": "Extra\u00f1o ser",
+        "url": "https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU"
       },
       "artists": [
         {
-          "name": "Axel Krygier",
-          "url": "https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF"
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
         }
       ],
-      "duration_ms": 201656,
-      "name": "Quem\u00e1ndome al Sol",
-      "url": "https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y"
+      "duration_ms": 247798,
+      "name": "Extra\u00f1o ser",
+      "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
     }
   ],
   "unique_name": "NE\u00d3N",

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXLjydKDJPFJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXLjydKDJPFJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLjydKDJPFJ)
 
-### [Carnita Asada \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXLjydKDJPFJ)
+### [Carnita Asada Estilo Norteño](https://open.spotify.com/playlist/37i9dQZF1DWXLjydKDJPFJ)
 
 > Compare, prenda el carbón y saque la bocina que ya se armó la carnita.
 

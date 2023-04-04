@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "CHPT. 2: PLAYTiME",
+        "url": "https://open.spotify.com/album/4OzlyMvspWaltQtB9XUZGJ"
+      },
+      "artists": [
+        {
+          "name": "Pertinence",
+          "url": "https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133170,
+      "name": "BIG SEXC",
+      "url": "https://open.spotify.com/track/17YNrc0Dkus7bdDiWpjefB"
+    },
+    {
+      "album": {
         "name": "Bikini Bottom",
         "url": "https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq"
       },

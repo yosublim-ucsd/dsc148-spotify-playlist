@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 553963,
+  "num_followers": 554345,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzNjMzMSwwMDAwMDAwMDI5MDA5MTIxNmViNTZjNzUxZTllNjFlZDg4YWY0MmFl",
+  "snapshot_id": "MTY3NjAzNjMzMSwwMDAwMDAwMGNhNWQzMjBiNjQ4NzUzMGQ4NTEwOTRlNzM3Y2ZiYWRj",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Our Time Is Now",
-        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 271417,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Torture",
         "url": "https://open.spotify.com/album/7AaZ6zhZXDKilXqsJ52g8b"
       },
@@ -171,18 +155,34 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Eternal Nightmare",
-        "url": "https://open.spotify.com/album/1X7bJOzXV0AmdEpsk6rr5L"
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
       },
       "artists": [
         {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 196002,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/6pbaTgcj9kCmw9aPg2qONs"
+      "duration_ms": 271417,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+        "name": "Eternal Nightmare",
+        "url": "https://open.spotify.com/album/1X7bJOzXV0AmdEpsk6rr5L"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
+      "duration_ms": 196002,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/6pbaTgcj9kCmw9aPg2qONs"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
-      },
-      "artists": [
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
-        }
-      ],
-      "duration_ms": 131142,
-      "name": "Pigs Ear",
-      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Southern Hostility",
         "url": "https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 207398,
       "name": "All Pride No Pain",
       "url": "https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "duration_ms": 131142,
+      "name": "Pigs Ear",
+      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Killing Season",
-        "url": "https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Killing Season",
-      "url": "https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Violent Sleep of Reason",
         "url": "https://open.spotify.com/album/7iqG1CTQwnil3TQ0Tiq9DD"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 274586,
       "name": "Born in Dissonance",
       "url": "https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Killing Season",
+        "url": "https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Killing Season",
+      "url": "https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "To the Threshold",
+      "url": "https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "A Different Shade of Blue",
         "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Supremacy",
-        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "To the Threshold",
-      "url": "https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Here Comes The Boom",
         "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Akudama",
-        "url": "https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS"
-      },
-      "artists": [
-        {
-          "name": "Alpha Wolf",
-          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
-        }
-      ],
-      "duration_ms": 157411,
-      "name": "Akudama",
-      "url": "https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -663,6 +647,22 @@
       "duration_ms": 296327,
       "name": "Barren and Breathless Macrocosm",
       "url": "https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Akudama",
+        "url": "https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS"
+      },
+      "artists": [
+        {
+          "name": "Alpha Wolf",
+          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
+        }
+      ],
+      "duration_ms": 157411,
+      "name": "Akudama",
+      "url": "https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Anticult",
-        "url": "https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ"
-      },
-      "artists": [
-        {
-          "name": "Decapitated",
-          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
-        }
-      ],
-      "duration_ms": 280253,
-      "name": "Kill the Cult",
-      "url": "https://open.spotify.com/track/1NODkudB2DhHEe8H3X3iFG"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "A New Kind of Horror",
         "url": "https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209100,
       "name": "Forward!",
       "url": "https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Anticult",
+        "url": "https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ"
+      },
+      "artists": [
+        {
+          "name": "Decapitated",
+          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
+        }
+      ],
+      "duration_ms": 280253,
+      "name": "Kill the Cult",
+      "url": "https://open.spotify.com/track/1NODkudB2DhHEe8H3X3iFG"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "This Heavy Void",
-        "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 232634,
-      "name": "Black of My Eyes",
-      "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Bleeding Sun",
         "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 219692,
       "name": "Bleeding Sun",
       "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "This Heavy Void",
+        "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 232634,
+      "name": "Black of My Eyes",
+      "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Bloodlust",
+        "url": "https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Black Hoodie",
+      "url": "https://open.spotify.com/track/3W6ZJSPIe43qkbLibP0ub2"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Elegy",
         "url": "https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 322153,
       "name": "Blood in the Sands of Time",
       "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Bloodlust",
-        "url": "https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Black Hoodie",
-      "url": "https://open.spotify.com/track/3W6ZJSPIe43qkbLibP0ub2"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "A New Responsibility",
+        "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "A New Responsibility",
+      "url": "https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Bloodlust",
         "url": "https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "A New Responsibility",
-        "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
+        "name": "In The Court Of The Dragon",
+        "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
       },
       "artists": [
         {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 186200,
-      "name": "A New Responsibility",
-      "url": "https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G"
+      "duration_ms": 309029,
+      "name": "In The Court Of The Dragon",
+      "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1103,22 +1119,6 @@
       "duration_ms": 225857,
       "name": "Blackened Sun",
       "url": "https://open.spotify.com/track/1jE88GZBfLFkRrlzQhB2DY"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "In The Court Of The Dragon",
-        "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 309029,
-      "name": "In The Court Of The Dragon",
-      "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Life Is Pain",
-        "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
-      },
-      "artists": [
-        {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
-        }
-      ],
-      "duration_ms": 174012,
-      "name": "Life Is Pain",
-      "url": "https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Ultimate Annihilation",
         "url": "https://open.spotify.com/album/4ErhvbjyVnkGgkRKvKQC1F"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 141431,
       "name": "Ultimate Annihilation",
       "url": "https://open.spotify.com/track/1rGYgf81OmT2AIPbrcbwun"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Life Is Pain",
+        "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
+      },
+      "artists": [
+        {
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
+        }
+      ],
+      "duration_ms": 174012,
+      "name": "Life Is Pain",
+      "url": "https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Pressure Point",
-        "url": "https://open.spotify.com/album/2PfBk5UnG3vgfgB018u2Ib"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 230507,
-      "name": "Pressure Point",
-      "url": "https://open.spotify.com/track/6dSMTj7IJuQc8rgKO10l0E"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Level Above Human",
         "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 258245,
       "name": "Invidious",
       "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Pressure Point",
+        "url": "https://open.spotify.com/album/2PfBk5UnG3vgfgB018u2Ib"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 230507,
+      "name": "Pressure Point",
+      "url": "https://open.spotify.com/track/6dSMTj7IJuQc8rgKO10l0E"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 241767,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Playing the Victim",
         "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 226500,
       "name": "Playing the Victim",
       "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 241767,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Truest Love",
-        "url": "https://open.spotify.com/album/4H3kBhmrI8PHiAapclIuzP"
-      },
-      "artists": [
-        {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "The Truest Love",
-      "url": "https://open.spotify.com/track/3kE1wgi0cTUqHNlfoTbiFh"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Hardcore Lives",
         "url": "https://open.spotify.com/album/2R3IsS5NZeuzJLArHioMDl"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 133013,
       "name": "Born Strong",
       "url": "https://open.spotify.com/track/16wLPRzPx8ONlpcWXhfaDa"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Truest Love",
+        "url": "https://open.spotify.com/album/4H3kBhmrI8PHiAapclIuzP"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "The Truest Love",
+      "url": "https://open.spotify.com/track/3kE1wgi0cTUqHNlfoTbiFh"
     },
     {
       "added_at": "2023-01-18 15:54:17",

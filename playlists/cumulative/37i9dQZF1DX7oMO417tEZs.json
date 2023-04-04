@@ -12157,6 +12157,24 @@
     },
     {
       "album": {
+        "name": "Moonlighting \u2013 AstroJazz Vol.1",
+        "url": "https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy"
+      },
+      "artists": [
+        {
+          "name": "Astrocolor",
+          "url": "https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215056,
+      "name": "Star Swing",
+      "url": "https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr"
+    },
+    {
+      "album": {
         "name": "Star Swing",
         "url": "https://open.spotify.com/album/1l2isTC25dStgGPL5mNtwS"
       },
@@ -12168,7 +12186,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 215056,
       "name": "Star Swing",
       "url": "https://open.spotify.com/track/3dpYjY2eH9vGnrKJwA02MN"

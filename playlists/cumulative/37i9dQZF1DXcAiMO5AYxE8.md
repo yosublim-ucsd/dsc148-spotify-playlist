@@ -4,7 +4,7 @@
 
 > All the best soul disco sounds for getting down.
 
-121 songs - 8 hr 34 min
+122 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,8 +120,9 @@
 | [This Is It](https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [This Is It \(Expanded Edition\)](https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz) | 3:31 | 2020-04-14 |  |
 | [Turn the Beat Around](https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:24 | 2020-04-14 |  |
 | [What Can I Say](https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 2:59 | 2020-04-14 |  |
-| [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/7ta4djmewg9iYaj0ehfgyv) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Ultimate Collection](https://open.spotify.com/album/2KF5wVOh4ryjq6DUbIkhF9) | 4:03 | 2020-04-14 |  |
+| [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/7ta4djmewg9iYaj0ehfgyv) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Ultimate Collection](https://open.spotify.com/album/2KF5wVOh4ryjq6DUbIkhF9) | 4:03 | 2020-04-14 | 2023-04-04 |
 | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/4U5M6NrgEFATHAFUDFwUGN) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Feel The Fire: The 20th Century Collection](https://open.spotify.com/album/3cIFhcTolvO7QxZOc0CnIX) | 4:05 | 2020-04-14 | 2022-07-29 |
+| [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl) | 4:06 | 2020-04-14 |  |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 4:32 | 2020-04-14 |  |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/4ys1qHPC7W8nfsDthaQ5nK) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Schlager Sommerhits](https://open.spotify.com/album/3c2II7k3MZUzkeqv8hX5YU) | 4:34 | 2020-04-14 | 2022-11-14 |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:35 | 2020-04-14 | 2022-07-29 |

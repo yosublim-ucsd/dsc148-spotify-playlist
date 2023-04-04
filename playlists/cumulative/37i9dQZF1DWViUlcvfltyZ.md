@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. NAMIDA in cover!
 
-359 songs - 19 hr 54 min
+360 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Forever](https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [Forever](https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7) | 2:22 | 2023-03-10 |  |
 | [Fragili](https://open.spotify.com/track/7d322WMHpY6G4GHV6bas2Y) | [Alessandro Baronciani](https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u), [RAGAZZAcd](https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp), [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [RAGAZZAcd](https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15) | 3:19 | 2023-02-23 |  |
 | [Franco Panini](https://open.spotify.com/track/2rs9NJEszvoO27Y7nOtseo) | [The Junction](https://open.spotify.com/artist/2cqOnMxNuwhIwkMQBgj5J2) | [Franco Panini](https://open.spotify.com/album/6xYnxLBEx4JjuS7Bm7Ocur) | 3:31 | 2022-12-15 | 2023-01-11 |
-| [Freddo Inverno](https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Freddo Inverno](https://open.spotify.com/album/3x4zhsXgv8pzod8dFC1nvB) | 3:44 | 2023-03-02 |  |
+| [Freddo Inverno](https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Freddo Inverno](https://open.spotify.com/album/3x4zhsXgv8pzod8dFC1nvB) | 3:44 | 2023-03-02 | 2023-04-04 |
 | [Furore](https://open.spotify.com/track/6q3QpJO8HmJrWuF0zaBr62) | [Giant Gummy Bears](https://open.spotify.com/artist/5V2GfS5pUpv5Sbqy3Zf6lu) | [Furore](https://open.spotify.com/album/0gd8zQEysYahjiJ20rE79G) | 4:19 | 2022-08-18 | 2022-09-09 |
 | [Gay division](https://open.spotify.com/track/3IcAYELBteC0J76y30biJV) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Miracolosamente Illesi](https://open.spotify.com/album/5Amj4EQkJ54rt09Ztzn5R9) | 3:16 | 2022-11-17 | 2023-01-20 |
 | [GDPR](https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [GDPR](https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6) | 2:52 | 2023-03-07 |  |
@@ -262,6 +262,7 @@
 | [Proci](https://open.spotify.com/track/0d6K1KUiX01DZN4yBpjW8w) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Proci](https://open.spotify.com/album/79QoacS4YKcsu7aTSLIIvz) | 3:33 | 2022-06-30 | 2022-09-30 |
 | [Proprio tu](https://open.spotify.com/track/1dzvJ0UzxAn9GanymgMJgP) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Proprio tu](https://open.spotify.com/album/59jxe1FypLBdSxb2tMz5Yd) | 2:36 | 2023-03-16 |  |
 | [PROVARCI](https://open.spotify.com/track/6A3cyQqgcK7etGZr3ytxWb) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PROVARCI](https://open.spotify.com/album/4gc0RD4I7jZv4JTvfxzlq5) | 2:39 | 2022-05-09 | 2022-09-02 |
+| [Provare ancora](https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia) | [Morgana](https://open.spotify.com/artist/3aiVVjTuv8e3GRBl8QYBeQ) | [Contemporaneità](https://open.spotify.com/album/2LiklOzR73i1RhJGYu3YqM) | 2:48 | 2023-04-03 |  |
 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 | 2022-09-01 | 2023-01-13 |
 | [Quattro Mani](https://open.spotify.com/track/3t7lGtFe1sWmlC9XbmZMtR) | [Bluagata](https://open.spotify.com/artist/7omRRCthvOtMCaRhEHx30S) | [Quattro Mani](https://open.spotify.com/album/31YHeb8EdstnKJ40HKYOAI) | 3:08 | 2022-05-09 | 2022-05-13 |
 | [Quello Che Non C'è \(feat\. Manuel Agnelli\)](https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [MOSTRO](https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt) | 3:55 | 2023-04-02 |  |

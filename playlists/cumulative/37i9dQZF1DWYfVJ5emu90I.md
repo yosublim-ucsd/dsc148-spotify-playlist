@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-82 songs - 3 hr 53 min
+83 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [NEW REAL](https://open.spotify.com/track/6XDPT5hDzyCibE904EpNx2) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/3soVw5GCfP8alGAzFYdhfN) | 3:15 | 2022-11-19 |  |
 | [NIKE DRIP](https://open.spotify.com/track/1HVxpIsL3bvJ7p47VLW62x) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [NIKE DRIP](https://open.spotify.com/album/17uYQm4gLmpiuwAa3rkyaz) | 2:00 | 2022-11-19 | 2022-12-24 |
 | [NIKE DRIP \- REMIX](https://open.spotify.com/track/7g9zIRbdPvfiPrDOlL3RFP) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4) | [NIKE DRIP \(REMIX\)](https://open.spotify.com/album/2PDJLYDBWmDqtyQMJaO7mF) | 2:30 | 2022-12-22 |  |
-| [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 | 2022-11-19 |  |
+| [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 | 2022-11-19 | 2023-04-04 |
+| [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 | 2023-03-02 |  |
 | [PAKI PAKI \- Remix](https://open.spotify.com/track/6XNvYDkoYUkRN3T53pkmYh) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [XakiMichele](https://open.spotify.com/artist/0bot17BSmicmNGtN9txwwR) | [PAKI PAKI \(Remix\)](https://open.spotify.com/album/1VQA20bmUiPYObLIdGqfYq) | 2:31 | 2022-11-19 |  |
 | [Pineapple Express](https://open.spotify.com/track/0JxrXQ4fFG3ZK8i1GHAT5K) | [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [Yellow Pierrot](https://open.spotify.com/album/4JCITnnPrpSLijfhj5zPa3) | 1:58 | 2022-11-19 |  |
 | [POP KILLERS](https://open.spotify.com/track/0JKLH3MfvHtHPGzWaPbaXO) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS](https://open.spotify.com/album/3dyCh1FE71PhGCYAQfIw6C) | 2:39 | 2022-11-19 |  |

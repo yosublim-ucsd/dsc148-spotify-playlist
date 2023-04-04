@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 148087,
+  "num_followers": 148331,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2NTc4NCwwMDAwMDAwMGIwMGMwYTAyNzdkOTc4MjZjZjlkYWZhMjE4NDk1OWRh",
+  "snapshot_id": "MTY3NDY2NTc4NCwwMDAwMDAwMGE0NDg3MjVkMTRjM2YzY2EyYzIyZjExZWUwNTBhYzhi",
   "tracks": [
     {
       "added_at": "2022-09-22 12:56:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "All The Highs",
-        "url": "https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 206793,
-      "name": "All The Highs",
-      "url": "https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "Playground",
         "url": "https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 232215,
       "name": "Playground",
       "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "All The Highs",
+        "url": "https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 206793,
+      "name": "All The Highs",
+      "url": "https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 125312,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
         "name": "Simple.",
         "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 184123,
       "name": "Dog Food (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 125312,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
     },
     {
-      "added_at": "2023-04-03 00:55:38",
+      "added_at": "2023-04-04 01:10:24",
       "album": {
         "name": "Rice",
         "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
@@ -1051,6 +1051,22 @@
       "duration_ms": 159616,
       "name": "Rice",
       "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5"
+      },
+      "artists": [
+        {
+          "name": "moa moa",
+          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 240000,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/47cmM6ptQ3dH7iQlcWg9ac"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5"
-      },
-      "artists": [
-        {
-          "name": "moa moa",
-          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "DC Rot",
-        "url": "https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "DC Rot",
-      "url": "https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "monarch",
         "url": "https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 155590,
       "name": "i'm not okay",
       "url": "https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "DC Rot",
+        "url": "https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "DC Rot",
+      "url": "https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
+        "name": "Kis\u00e9",
+        "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 130472,
+      "name": "Kis\u00e9",
+      "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
         "name": "Lifted",
         "url": "https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 167500,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Kis\u00e9",
-        "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 130472,
-      "name": "Kis\u00e9",
-      "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "Not Yours",
-        "url": "https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Not Yours",
-      "url": "https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "MAN NENNT MICH",
         "url": "https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 135407,
       "name": "MAN NENNT MICH",
       "url": "https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "Not Yours",
+        "url": "https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Not Yours",
+      "url": "https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1863,22 +1863,6 @@
       "duration_ms": 253434,
       "name": "Heritage",
       "url": "https://open.spotify.com/track/4XCjdGmSw6RqFB6W4uS764"
-    },
-    {
-      "added_at": "2022-09-30 13:34:09",
-      "album": {
-        "name": "SHOWBIZ",
-        "url": "https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi"
-      },
-      "artists": [
-        {
-          "name": "Piers James",
-          "url": "https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "SHOWBIZ",
-      "url": "https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1907,6 +1891,22 @@
       "duration_ms": 190312,
       "name": "Green Light (feat. Kate Wild) - Moksi Remix",
       "url": "https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ"
+    },
+    {
+      "added_at": "2022-09-30 13:34:09",
+      "album": {
+        "name": "SHOWBIZ",
+        "url": "https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi"
+      },
+      "artists": [
+        {
+          "name": "Piers James",
+          "url": "https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "SHOWBIZ",
+      "url": "https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy"
     },
     {
       "added_at": "2022-09-26 20:53:09",

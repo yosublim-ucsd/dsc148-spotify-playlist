@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie tracks every Friday\. Cover: Barrie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,359 likes - 180 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,388 likes - 180 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 124 | [Pontius Pilate's Home Movies](https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Pontius Pilate's Home Movies](https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1) | 3:54 |
 | 125 | [Boyfriend Application](https://open.spotify.com/track/6qWFHYEPWcOfdEAz3G3ZrQ) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Eau De Parfum](https://open.spotify.com/album/0eE5lqfDzvBK5E3BJQw1X6) | 2:41 |
 | 126 | [a million messages](https://open.spotify.com/track/2bzcI82YXck3xUFMGqqMTF) | [Nashon](https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi) | [a million messages](https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8) | 3:27 |
-| 127 | [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 |
+| 127 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 | 128 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 |
 | 129 | [Idaho Alien](https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Idaho Alien](https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY) | 3:23 |
 | 130 | [All We've Ever Wanted](https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [All We've Ever Wanted](https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4) | 3:03 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 179 | [Sore Eyes](https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Sore Eyes](https://open.spotify.com/album/1pNb1AYhy42mSECLH04Vac) | 3:13 |
 | 180 | [star](https://open.spotify.com/track/3APRtJ612KjQ0GfU7b8ZqG) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [star](https://open.spotify.com/album/4iAtPukcN2ergkdoZlXSvB) | 1:59 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDBhYTNjMDhjY2Y1NzA5ODRhZDIyNjQzODZjZDVkYjkx`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDEzYjg0ZTE5MWQ0ODVjMzA3MGY2Y2VjMjFjMjgyZDY0`

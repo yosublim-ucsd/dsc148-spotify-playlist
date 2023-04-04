@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Melanie Martinez
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,279 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,296 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 85 | [What's Left?](https://open.spotify.com/track/1x4CYMn8vexAXb5ZgenZqu) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 2:51 |
 | 86 | [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 |
 | 87 | [Kick In The Head](https://open.spotify.com/track/0o7a5d0ArD1f1Xwt7ld8EM) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:15 |
-| 88 | [Star Swing](https://open.spotify.com/track/3dpYjY2eH9vGnrKJwA02MN) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Star Swing](https://open.spotify.com/album/1l2isTC25dStgGPL5mNtwS) | 3:35 |
+| 88 | [Star Swing](https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Moonlighting – AstroJazz Vol.1](https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy) | 3:35 |
 | 89 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 |
 | 90 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 |
 | 91 | [Unica](https://open.spotify.com/track/4VNRDuzDJGxNLtLBU816E0) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Amor Hardcore](https://open.spotify.com/album/3HAyLU5CetaZN8mRfI3aAv) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 |
 | 100 | [Message \(Better Days\)](https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Message \(Better Days\)](https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO) | 3:34 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDZjZTkwNjllZTExNDExNGRjZTYwMzZlOTM0ZGE4YjA4`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDJmZTc3ZTU0MGQ1ODgxNTJjYmU0N2U4ZDY0MjFjYTY5`

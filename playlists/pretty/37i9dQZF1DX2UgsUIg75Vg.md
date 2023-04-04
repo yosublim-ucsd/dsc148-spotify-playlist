@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: 6LACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,318,825 likes - 132 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,318,989 likes - 132 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

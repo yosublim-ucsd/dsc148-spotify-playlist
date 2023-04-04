@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 49594,
+  "num_followers": 49708,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIyMDg2MCwwMDAwMDAwMGExZTJkM2I3ZDJjMjNlNjg3ZmI0Mzc2OGE1YmY3OGE5",
+  "snapshot_id": "MTY4MDIyMDg2MCwwMDAwMDAwMGVkNGZmZDYxZGE1ZTYyZWM2MjE5ZDgyZTA3NWU2MTU0",
   "tracks": [
     {
       "added_at": "2023-03-31 00:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
+        "name": "Cloudy Texture",
+        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
+      },
+      "artists": [
+        {
+          "name": "Laura Dawson",
+          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
         "name": "Easy Mind",
         "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 160000,
       "name": "Easy Mind",
       "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
-        "name": "Sea Of Colors",
-        "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
-      },
-      "artists": [
-        {
-          "name": "Airship Express",
-          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Sea Of Colors",
-      "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
+        "name": "Sea Of Colors",
+        "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
+      },
+      "artists": [
+        {
+          "name": "Airship Express",
+          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Sea Of Colors",
+      "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
         "name": "Osceola",
         "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 150250,
       "name": "Let Hold",
       "url": "https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
+        "name": "Emerald Isles",
+        "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 233383,
+      "name": "Emerald Isles",
+      "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -407,38 +439,6 @@
       "duration_ms": 149433,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
-        "name": "Emerald Isles",
-        "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
-      },
-      "artists": [
-        {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
-        }
-      ],
-      "duration_ms": 233383,
-      "name": "Emerald Isles",
-      "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
-        "name": "Cloudy Texture",
-        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
-      },
-      "artists": [
-        {
-          "name": "Laura Dawson",
-          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -811,38 +811,6 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3n Einarsson",
-          "url": "https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7"
-        }
-      ],
-      "duration_ms": 141724,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
-        "name": "Light & Hope",
-        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
-      },
-      "artists": [
-        {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
-        }
-      ],
-      "duration_ms": 167099,
-      "name": "Light & Hope",
-      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
@@ -859,18 +827,18 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Blissful",
-        "url": "https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN"
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
       },
       "artists": [
         {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+          "name": "J\u00f3n Einarsson",
+          "url": "https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7"
         }
       ],
-      "duration_ms": 164210,
-      "name": "Blissful",
-      "url": "https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8"
+      "duration_ms": 141724,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -891,18 +859,34 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
+        "name": "Light & Hope",
+        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
         }
       ],
-      "duration_ms": 179104,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+      "duration_ms": 167099,
+      "name": "Light & Hope",
+      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
+        "name": "Blissful",
+        "url": "https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Blissful",
+      "url": "https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -923,6 +907,22 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
         "name": "Semblance",
         "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 183529,
       "name": "Semblance",
       "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
+      },
+      "artists": [
+        {
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -987,6 +1003,22 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1019,38 +1051,6 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Theta Sleep",
-        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
-      },
-      "artists": [
-        {
-          "name": "Zonyoh",
-          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Clear-Headed",
-      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Clouds",
-          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
         "name": "Parallels",
         "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 216015,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
-      },
-      "artists": [
-        {
-          "name": "M. David",
-          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -1099,34 +1083,18 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
       "artists": [
         {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+          "name": "M. David",
+          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
         }
       ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
+      "duration_ms": 203000,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -1147,34 +1115,34 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
       },
       "artists": [
         {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 161012,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
+      "duration_ms": 191976,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
     },
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Soothe",
-        "url": "https://open.spotify.com/album/74vs037IHVc421BMmB5yqo"
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
       },
       "artists": [
         {
-          "name": "Ever So Calm",
-          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Soothe",
-      "url": "https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA"
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -1195,6 +1163,22 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 161012,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
         "name": "Repose",
         "url": "https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 192187,
       "name": "Repose",
       "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/74vs037IHVc421BMmB5yqo"
+      },
+      "artists": [
+        {
+          "name": "Ever So Calm",
+          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA"
     },
     {
       "added_at": "2023-03-31 00:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
-      },
-      "artists": [
-        {
-          "name": "xerLK",
-          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
-        }
-      ],
-      "duration_ms": 178928,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
-    },
-    {
-      "added_at": "2023-03-31 00:01:00",
-      "album": {
         "name": "Calming Water",
         "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
       },
@@ -1275,18 +1259,34 @@
     {
       "added_at": "2023-03-31 00:01:00",
       "album": {
-        "name": "Expanded Reality",
-        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
       },
       "artists": [
         {
-          "name": "Axial Flow",
-          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Expanded Reality",
-      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
+      "duration_ms": 178928,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
+    },
+    {
+      "added_at": "2023-03-31 00:01:00",
+      "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
+      },
+      "artists": [
+        {
+          "name": "Silent Movement",
+          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

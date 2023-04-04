@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,729 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,785 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 6 | [La Margarita](https://open.spotify.com/track/1yPEVGEFaD0ZlGwMthGqq3) | [Los Ases Del Ritmo](https://open.spotify.com/artist/1NqUoGdpzzeeEnyhRUaMwX) | [La Cumbia Está Llamando \- Early Cumbia From Colombia](https://open.spotify.com/album/5cnBdljuMe92rjF9cWuyu8) | 2:31 |
 | 7 | [Agboju Logun](https://open.spotify.com/track/0urbfRnnXk7raHj8B0SWDu) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 11:33 |
 | 8 | [Dejala Corre](https://open.spotify.com/track/2RfFLXYenkJsKH2GCgvmUT) | [Banda Los Hijos de La Niña Luz](https://open.spotify.com/artist/3BT4HmMIyquactzeWgv3ql) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 3:27 |
-| 9 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/3YX99Dy9sc2VrMI5SbnVx3) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Güzelligin On Para Etmez](https://open.spotify.com/album/5RsXvPb5AVqMbO6Q0ym6NA) | 3:46 |
+| 9 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/2ep9FW2KBErhsl6HXAlgzr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:46 |
 | 10 | [Cojeme la casa](https://open.spotify.com/track/2btDQgKNilKgELjBY9D7s6) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Colombia 45s](https://open.spotify.com/album/47TmxGcuHws3hmYUlvx3t7) | 2:55 |
 | 11 | [Cail la mandé rousé](https://open.spotify.com/track/7D2rJBbARrD781fy6zPsdl) | [Toto Nécessité](https://open.spotify.com/artist/2FuKS7GsD89q336FtXQW05) | [Antilles chéries \(Compa / Cadence\)](https://open.spotify.com/album/11DyRgPu2XHyUt72U2gMKH) | 5:59 |
 | 12 | [Pra Trás](https://open.spotify.com/track/5Ke6ddTLTyu9GgzwcW8lD9) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:11 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMGViNjk5NGZkMDJkNTZlZDhhZjVkM2FlOGJjZTgwODhm`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMGE0NGE1MmVjYWQwNDIwOGIwZTlkYzY2M2FjMWVhMmE2`

@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "Afterhours",
+        "url": "https://open.spotify.com/album/0gutaa3BZpZvwSL0eVRbP8"
+      },
+      "artists": [
+        {
+          "name": "Bir",
+          "url": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+        },
+        {
+          "name": "Dhanju",
+          "url": "https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140152,
+      "name": "Afterhours",
+      "url": "https://open.spotify.com/track/7o1SDLghDwMc4OW3rKakVt"
+    },
+    {
+      "album": {
         "name": "Ain't Died In Vain",
         "url": "https://open.spotify.com/album/5wb5xwD5MjgcpnnLNEK3V3"
       },
@@ -2724,7 +2750,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 143828,
       "name": "Raanjha - Spotify Singles",
       "url": "https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge"

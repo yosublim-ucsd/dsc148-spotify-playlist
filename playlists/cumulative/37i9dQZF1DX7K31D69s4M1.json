@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190232,
+      "name": "a new romance",
+      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
+    },
+    {
+      "album": {
         "name": "Motion Picture",
         "url": "https://open.spotify.com/album/0root1UoHuqQYlGdUGglOT"
       },
@@ -3204,6 +3222,24 @@
       "duration_ms": 115484,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/2e6uDYgJsa7rgIYzbNVoCi"
+    },
+    {
+      "album": {
+        "name": "Cartographie d'un geste",
+        "url": "https://open.spotify.com/album/1dXzttw7ift4su395CsB98"
+      },
+      "artists": [
+        {
+          "name": "Eu Nice",
+          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140823,
+      "name": "Cartographie d'un geste",
+      "url": "https://open.spotify.com/track/089hpDdmNpWLfMT98T82YV"
     },
     {
       "album": {
@@ -8093,6 +8129,24 @@
     },
     {
       "album": {
+        "name": "Graphite",
+        "url": "https://open.spotify.com/album/4PyRaAiVAtdzw5P47JFEqH"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126078,
+      "name": "Graphite",
+      "url": "https://open.spotify.com/track/5DFfMIOV51LYdeoIs3GiKx"
+    },
+    {
+      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/3JnJkskmPw3s0ZxkfDGsoR"
       },
@@ -11913,6 +11967,24 @@
     },
     {
       "album": {
+        "name": "Les mots",
+        "url": "https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117549,
+      "name": "Les mots",
+      "url": "https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv"
+    },
+    {
+      "album": {
         "name": "Let many flowers grow",
         "url": "https://open.spotify.com/album/131d4xktQj2Jwve1yJwi0u"
       },
@@ -14640,6 +14712,24 @@
       "duration_ms": 118188,
       "name": "Myrdal-Flam",
       "url": "https://open.spotify.com/track/5qoUtJVdcNWR3EndlthjYH"
+    },
+    {
+      "album": {
+        "name": "Mysterious ways",
+        "url": "https://open.spotify.com/album/4lHrnYTYfpziDRuHBns58U"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107067,
+      "name": "Mysterious ways",
+      "url": "https://open.spotify.com/track/4o9MHjbd1w6fLk1aqA1JKn"
     },
     {
       "album": {
@@ -22893,6 +22983,28 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1lXQipR1KhZf5JRUwM5mDg"
+      },
+      "artists": [
+        {
+          "name": "Karen LeFrak",
+          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+        },
+        {
+          "name": "Jacques van Tuinen",
+          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106260,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6S3uAaYflAG6653OxyJJ2Y"
+    },
+    {
+      "album": {
         "name": "Tone of Love",
         "url": "https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp"
       },
@@ -23844,6 +23956,24 @@
       "duration_ms": 138094,
       "name": "Up toward the sky",
       "url": "https://open.spotify.com/track/3Ukfmye33J4RSs0lOJFbFH"
+    },
+    {
+      "album": {
+        "name": "Utsjoki",
+        "url": "https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT"
+      },
+      "artists": [
+        {
+          "name": "Vegard",
+          "url": "https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143867,
+      "name": "Utsjoki",
+      "url": "https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 101973,
+  "num_followers": 102105,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQxMDgwMCwwMDAwMDAwMGU2OTAzYzY3ZTI0ZTFjZmExNmUxNmU1MDY0ODFhMjI4",
+  "snapshot_id": "MTY3OTQxMDgwMCwwMDAwMDAwMGRiZWFjZDNlMWU0YzU3ZWQyNGQxMjUwOTM3OGUxOWJj",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -155,22 +155,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6"
+        "name": "Miki Matsubara Best Collection",
+        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
       },
       "artists": [
         {
-          "name": "S. Kiyotaka & Omega Tribe",
-          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
-        },
-        {
-          "name": "Kiyotaka Sugiyama",
-          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
         }
       ],
-      "duration_ms": 241253,
-      "name": "\u3075\u305f\u308a\u306e\u590f\u7269\u8a9e NEVER ENDING SUMMER",
-      "url": "https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4"
+      "duration_ms": 271040,
+      "name": "Wash",
+      "url": "https://open.spotify.com/track/0M9q4H3pQaoNUgBXZj34U1"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -223,18 +219,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Miki Matsubara Best Collection",
-        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6"
       },
       "artists": [
         {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+          "name": "S. Kiyotaka & Omega Tribe",
+          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
+        },
+        {
+          "name": "Kiyotaka Sugiyama",
+          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
         }
       ],
-      "duration_ms": 271040,
-      "name": "Wash",
-      "url": "https://open.spotify.com/track/0M9q4H3pQaoNUgBXZj34U1"
+      "duration_ms": 241253,
+      "name": "\u3075\u305f\u308a\u306e\u590f\u7269\u8a9e NEVER ENDING SUMMER",
+      "url": "https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "A LONG VACATION",
-        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6edd\u8a60\u4e00",
-          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
-        }
-      ],
-      "duration_ms": 306946,
-      "name": "\u541b\u306f\u5929\u7136\u8272",
-      "url": "https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
         "name": "Cologne",
         "url": "https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "A LONG VACATION",
+        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
+        }
+      ],
+      "duration_ms": 306946,
+      "name": "\u541b\u306f\u5929\u7136\u8272",
+      "url": "https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "DOWN TOWN",
         "url": "https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 254213,
       "name": "DOWN TOWN",
       "url": "https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "ADVENTURE",
-        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
-      },
-      "artists": [
-        {
-          "name": "Momoko Kikuchi",
-          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Mystical Composer",
-      "url": "https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -531,6 +515,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "ADVENTURE",
+        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Mystical Composer",
+      "url": "https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "Navigator",
         "url": "https://open.spotify.com/album/4dDdb8mXZgAcw6QAO6oKc9"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 255960,
       "name": "Older Girl",
       "url": "https://open.spotify.com/track/6oGLKGeI4tM4jaVWe9sBoF"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "FIRST LIGHT (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
+      },
+      "artists": [
+        {
+          "name": "Makoto Matsushita",
+          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
+        }
+      ],
+      "duration_ms": 269260,
+      "name": "September Rain - 2018 Remaster",
+      "url": "https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -579,22 +595,6 @@
       "duration_ms": 241293,
       "name": "\u30ab\u30ca\u30ea\u30a2\u8af8\u5cf6\u306b\u3066",
       "url": "https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "FIRST LIGHT (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
-      },
-      "artists": [
-        {
-          "name": "Makoto Matsushita",
-          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
-        }
-      ],
-      "duration_ms": 269260,
-      "name": "September Rain - 2018 Remaster",
-      "url": "https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Yokohama Ragtime",
-        "url": "https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ"
-      },
-      "artists": [
-        {
-          "name": "Kei Ishiguro",
-          "url": "https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
         "name": "A LONG VACATION",
         "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "LIGHT'N UP",
-        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
+        "name": "Yokohama Ragtime",
+        "url": "https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ"
       },
       "artists": [
         {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+          "name": "Kei Ishiguro",
+          "url": "https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM"
         }
       ],
-      "duration_ms": 348240,
-      "name": "LIGHT'N UP",
-      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
+      "duration_ms": 208600,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -831,6 +815,22 @@
       "duration_ms": 191800,
       "name": "A\u9762\u3067\u604b\u3092\u3057\u3066",
       "url": "https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "LIGHT'N UP",
+        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "duration_ms": 348240,
+      "name": "LIGHT'N UP",
+      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
     }
   ],
   "unique_name": "City Pop '80s",

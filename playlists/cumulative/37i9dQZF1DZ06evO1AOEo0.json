@@ -564,10 +564,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 345569,
       "name": "My Portion",
       "url": "https://open.spotify.com/track/4dEmWwUAXMKMyOkITc6N8L"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
+        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352629,
+      "name": "My Portion - Live",
+      "url": "https://open.spotify.com/track/3mwWdYeDIXIN6tSLhU7EOf"
     },
     {
       "album": {

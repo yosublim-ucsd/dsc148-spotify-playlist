@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 389595,
+  "num_followers": 389746,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMGUxNmU2MTFmZmRmNmE3YjcyNDQ1YWViMWRlNDljY2Nj",
+  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMGZiOWNlMDgxNDU5MTBlNTlhNzA2ZGYzZjZjYmQ1ODZh",
   "tracks": [
     {
       "added_at": "2023-03-02 11:21:39",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-02 11:21:39",
       "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "West Coast Love",
-      "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
-    },
-    {
-      "added_at": "2023-03-02 11:21:39",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+    },
+    {
+      "added_at": "2023-03-02 11:21:39",
+      "album": {
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "West Coast Love",
+      "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
     },
     {
       "added_at": "2023-03-02 11:21:39",

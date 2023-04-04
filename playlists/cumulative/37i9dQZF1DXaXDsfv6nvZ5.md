@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-209 songs - 13 hr 8 min
+210 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2022-03-11 | 2022-10-15 |
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-09-09 |  |
-| [sunshine of your love](https://open.spotify.com/track/6x8DQoP4amD69eYmAx07Ra) | [PJAE](https://open.spotify.com/artist/3EpdSPXZERrqLpTrVdjtGe) | [sunshine of your love](https://open.spotify.com/album/6X0fdB7XRtGVrOIRVzreBo) | 2:29 | 2023-03-31 |  |
+| [sunshine of your love](https://open.spotify.com/track/6x8DQoP4amD69eYmAx07Ra) | [PJAE](https://open.spotify.com/artist/3EpdSPXZERrqLpTrVdjtGe) | [sunshine of your love](https://open.spotify.com/album/6X0fdB7XRtGVrOIRVzreBo) | 2:29 | 2023-03-31 | 2023-04-04 |
 | [Superstar](https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Love Is The New Black](https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h) | 6:35 | 2021-12-03 |  |
 | [Sweet Blue](https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sweet Blue](https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis) | 4:13 | 2022-10-03 |  |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2021-12-03 | 2022-10-01 |
@@ -200,6 +200,7 @@
 | [There'll Never Be](https://open.spotify.com/track/0AhfJf1WvL61ipcVsL8Xs8) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Make Me Say It Again, Girl](https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj) | 5:29 | 2022-09-30 | 2022-10-04 |
 | [Thinking of You](https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Thinking of You](https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0) | 3:21 | 2022-09-09 | 2022-10-04 |
 | [Tigress & Tweed \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Tigress & Tweed \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz) | 3:11 | 2021-12-03 | 2022-07-29 |
+| [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-04 |  |
 | [ur man](https://open.spotify.com/track/3NOdlt5KQFMc4uFu6HXBAm) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [ur man](https://open.spotify.com/album/4pABQnKGE9wLF4dpAfzzoz) | 3:42 | 2022-10-14 | 2022-10-22 |
 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2022-03-11 | 2022-09-10 |
 | [Visions](https://open.spotify.com/track/43LDXcy86qmEgfy6Wd2AZk) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 5:23 | 2022-03-11 | 2022-09-17 |

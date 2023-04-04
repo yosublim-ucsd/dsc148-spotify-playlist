@@ -4582,7 +4582,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 177200,
       "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
       "url": "https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr"
@@ -4716,7 +4716,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -15468,7 +15468,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 153043,
       "name": "Nakala",
       "url": "https://open.spotify.com/track/3y5fUcF94aDFxA2HjrERDt"
@@ -16728,6 +16728,24 @@
       "duration_ms": 151900,
       "name": "PANG! BOOM!",
       "url": "https://open.spotify.com/track/5FTmPaZPNPL3RlxHBN0QID"
+    },
+    {
+      "album": {
+        "name": "Pantamaskineriet (Pantamera)",
+        "url": "https://open.spotify.com/album/0vEMkJK3ltseyxFkUapLUB"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133280,
+      "name": "Pantamaskineriet (Pantamera)",
+      "url": "https://open.spotify.com/track/19VnrrqFOI7WFcyzmaUI5G"
     },
     {
       "album": {

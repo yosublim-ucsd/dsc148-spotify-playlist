@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,548 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,577 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 71 | [Airport](https://open.spotify.com/track/6xoTS49UGtrLmKpIo3FQQg) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Airport](https://open.spotify.com/album/4vec7zDkYMFQDQM50ml5bh) | 2:48 |
 | 72 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 |
 | 73 | [FUMD](https://open.spotify.com/track/3cXAJVliJ6H19KpHUvNCd4) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FUMD](https://open.spotify.com/album/1v5W6yDZc3rlmcXSzTZNhb) | 2:20 |
-| 74 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:42 |
+| 74 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 |
 | 75 | [ugly](https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [ugly](https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve) | 2:53 |
 | 76 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 |
 | 77 | [blue](https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [blue](https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr) | 2:48 |

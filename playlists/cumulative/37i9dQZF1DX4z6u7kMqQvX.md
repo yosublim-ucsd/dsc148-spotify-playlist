@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-414 songs - 23 hr 38 min
+415 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Intensidad](https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:55 | 2022-07-15 |  |
 | [Jetlag](https://open.spotify.com/track/4Jypvi7J3r2nJrp3arRRKw) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Jetlag](https://open.spotify.com/album/3jnfFup87bN7MTyDKDM9lz) | 3:22 | 2022-01-07 | 2022-06-10 |
 | [Jeux D' Enfants](https://open.spotify.com/track/3Tm62d7A8qUd9RxAN1hKwN) | [Lucille Dupin](https://open.spotify.com/artist/4wxy9Uabj9KERdDu2NRbGJ) | [Cledón](https://open.spotify.com/album/4mmaUVWSsQ6KPAMSOmfuQA) | 3:03 | 2022-01-28 | 2022-07-02 |
-| [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2022-01-07 |  |
+| [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2022-01-07 | 2023-04-04 |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-01-28 | 2022-07-06 |
 | [Jullie](https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 3:34 | 2022-01-07 |  |
 | [Juntos](https://open.spotify.com/track/574OhLjdADffJIg7wZojF6) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Juntos](https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3) | 3:01 | 2022-01-07 |  |
@@ -288,6 +288,7 @@
 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-01-20 | 2023-03-10 |
 | [Para Vivir Mejor](https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Para Vivir Mejor](https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs) | 2:31 | 2022-07-29 |  |
 | [Paralelos](https://open.spotify.com/track/0uUSAVzlKwQCjpsB21Qlg7) | [Universos](https://open.spotify.com/artist/2Rx84pqygIYad4A1PaHu1l), [Ellen Pub](https://open.spotify.com/artist/0G4Y5ivygdqDzmlzHXjpIo) | [Paralelos](https://open.spotify.com/album/1YEdetwDrFjHKwIV5F8ukb) | 4:30 | 2022-01-07 | 2022-07-28 |
+| [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 | 2023-03-31 |  |
 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 | 2022-01-07 |  |
 | [Pasaporte](https://open.spotify.com/track/0inTPQg9l3wU7euDEn0OL5) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Pasaporte](https://open.spotify.com/album/4dGsrCh3YI8HnLKgfr27Iy) | 2:59 | 2022-01-07 | 2022-07-28 |
 | [pausa](https://open.spotify.com/track/0q91qFIpWN5KjxOVanJ1c2) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:04 | 2022-04-01 | 2022-06-12 |

@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 145257,
+  "num_followers": 145360,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1OTQ3OCwwMDAwMDAwMDljMWVhZDcxZWY0MTY5NmYxMzhmYTZmMDRlNWU4NWVi",
+  "snapshot_id": "MTY3NzI1OTQ3OCwwMDAwMDAwMDI0NGJmNGEyMjA2YjUzOTU3ZmQxNGQzYzRhMzJjZTQw",
   "tracks": [
     {
       "added_at": "2023-02-17 11:58:20",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -379,6 +363,38 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 210826,
       "name": "I Ain't Superstitious",
       "url": "https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Streamline Train",
-        "url": "https://open.spotify.com/album/07freMLOHPr2UEguJeZ3re"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Streamline Train",
-      "url": "https://open.spotify.com/track/5CPeVuAPqziKhpKhCg2yqD"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 355434,
       "name": "Come on and Go with Me",
       "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Streamline Train",
+        "url": "https://open.spotify.com/album/07freMLOHPr2UEguJeZ3re"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Streamline Train",
+      "url": "https://open.spotify.com/track/5CPeVuAPqziKhpKhCg2yqD"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 295466,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "How Blue Can You Get",
-        "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 436213,
-      "name": "How Blue Can You Get",
-      "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -929,7 +913,23 @@
       "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
     },
     {
-      "added_at": "2023-04-03 00:59:36",
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "How Blue Can You Get",
+        "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 436213,
+      "name": "How Blue Can You Get",
+      "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
+    },
+    {
+      "added_at": "2023-04-04 00:29:59",
       "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
+        "name": "One Day Closer To Home",
+        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 228832,
+      "name": "One Day Closer To Home",
+      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
         "name": "Sailin' Shoes",
         "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
       },
@@ -1077,20 +1093,20 @@
       "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
     },
     {
-      "added_at": "2023-02-17 11:58:20",
+      "added_at": "2023-04-04 00:29:59",
       "album": {
-        "name": "One Day Closer To Home",
-        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
       "artists": [
         {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 228832,
-      "name": "One Day Closer To Home",
-      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
+      "duration_ms": 366826,
+      "name": "Bird in a Cage",
+      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1125,22 +1141,6 @@
       "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
     },
     {
-      "added_at": "2023-04-03 00:59:36",
-      "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 366826,
-      "name": "Bird in a Cage",
-      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
-    },
-    {
       "added_at": "2023-02-17 11:58:20",
       "album": {
         "name": "The Real Folk Blues",
@@ -1155,6 +1155,22 @@
       "duration_ms": 319466,
       "name": "I Put My Trust In You",
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1187,22 +1203,6 @@
       "duration_ms": 296506,
       "name": "I Need You So Bad",
       "url": "https://open.spotify.com/track/5Afi4JrAnQtUsSYpYwbYAj"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Your Lies",
-        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "Your Lies",
-      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
         "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 275853,
       "name": "Sitting At Home Alone",
       "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Your Lies",
+        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "Your Lies",
+      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
+        "name": "Chinook Blues",
+        "url": "https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5"
+      },
+      "artists": [
+        {
+          "name": "Alice Di Micele",
+          "url": "https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX"
+        }
+      ],
+      "duration_ms": 309614,
+      "name": "Chinook Blues",
+      "url": "https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
         "name": "Moods 'n' Blues",
         "url": "https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 121872,
       "name": "Armadillo Shuffle",
       "url": "https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
-        "name": "Chinook Blues",
-        "url": "https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5"
-      },
-      "artists": [
-        {
-          "name": "Alice Di Micele",
-          "url": "https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX"
-        }
-      ],
-      "duration_ms": 309614,
-      "name": "Chinook Blues",
-      "url": "https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR"
     }
   ],
   "unique_name": "Blues on the Rocks",

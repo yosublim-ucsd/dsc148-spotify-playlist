@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: So!YoON! \(황소윤\)\)
 
-692 songs - 1 day 16 hr 6 min
+693 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Crusader](https://open.spotify.com/track/7N0MH5Zszb3tp0o6Xt8mWp) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Crusader](https://open.spotify.com/album/7sxUW4ouTE1tNJHMJb6KWS) | 3:23 | 2023-02-28 |  |
 | [Crush on you \(No brakes for your curves\)](https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD), [Sujin](https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX) | [Crush on you \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr) | 3:08 | 2022-05-31 | 2022-08-03 |
 | [Cry with my heart](https://open.spotify.com/track/5Y2bULZ7RRkRHdZoXwkLCv) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Cry with my heart](https://open.spotify.com/album/0qVSa0CpWFynZpO2FdSu3L) | 3:30 | 2022-10-04 | 2022-11-11 |
-| [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-02-28 |  |
+| [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-02-28 | 2023-04-04 |
+| [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-02-28 |  |
 | [D +1](https://open.spotify.com/track/3AHuxYL9EfJm2rI4QNEAHB) | [LLANO](https://open.spotify.com/artist/61vo1oAMWvmdRIJYdeCzrd) | [duL](https://open.spotify.com/album/1cloUGhbWriqDkuh5mm7wW) | 2:48 | 2022-03-07 | 2022-04-06 |
 | [Daisy](https://open.spotify.com/track/2zZlUTrtywgg0jpRZQcco9) | [Bye Bye Badman](https://open.spotify.com/artist/14stFRB2PwF6QdKNHDdMnh), [Kim Yoonju](https://open.spotify.com/artist/27Vc96h8NHbN7C1GenXIPH) | [Daisy](https://open.spotify.com/album/34cm8XKbHdVz8cY0LCF7Ko) | 4:23 | 2022-02-01 | 2022-03-08 |
 | [DALLA \- 2021 Remaster Version](https://open.spotify.com/track/4ZUcwmWDW9HqcqxTnWsqUi) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [20](https://open.spotify.com/album/3bKG0PTv61QT1NxY65qmLM) | 4:09 | 2022-01-04 | 2022-02-02 |

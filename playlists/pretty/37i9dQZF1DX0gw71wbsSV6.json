@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43119,
+  "num_followers": 43118,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxOTg5NywwMDAwMDAwMDZiNGNjMDJiYzMxOGEzZjIwNjNmOGRjYWQ1MDhlMWM0",
+  "snapshot_id": "MTY4MDAxOTg5NywwMDAwMDAwMDBmOWRhZTU4Y2M2ZjNkOTAxODgyMzQyZDUwNWJjNDA5",
   "tracks": [
     {
       "added_at": "2023-03-28 16:11:37",
@@ -291,8 +291,56 @@
     {
       "added_at": "2023-03-28 16:11:37",
       "album": {
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 203787,
+      "name": "napori",
+      "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
+    },
+    {
+      "added_at": "2023-03-28 16:11:37",
+      "album": {
+        "name": "colorblind",
+        "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 193976,
+      "name": "colorblind",
+      "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
+    },
+    {
+      "added_at": "2023-03-28 16:11:37",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 258879,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
+    },
+    {
+      "added_at": "2023-03-28 16:11:37",
+      "album": {
         "name": "the record",
-        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
       "artists": [
         {
@@ -314,55 +362,7 @@
       ],
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
-      "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
-    },
-    {
-      "added_at": "2023-03-28 16:11:37",
-      "album": {
-        "name": "strobo",
-        "url": "https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 203787,
-      "name": "napori",
-      "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
-    },
-    {
-      "added_at": "2023-03-28 16:11:37",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
-        }
-      ],
-      "duration_ms": 258879,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
-    },
-    {
-      "added_at": "2023-03-28 16:11:37",
-      "album": {
-        "name": "colorblind",
-        "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 193976,
-      "name": "colorblind",
-      "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
+      "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
     },
     {
       "added_at": "2023-03-28 16:11:37",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-03-28 16:11:37",
       "album": {
-        "name": "How To Drive",
-        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
+        "name": "See You In Life",
+        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
         }
       ],
-      "duration_ms": 219824,
-      "name": "How To Drive",
-      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
+      "duration_ms": 241750,
+      "name": "See You In Life",
+      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
     },
     {
       "added_at": "2023-03-28 16:11:37",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-03-28 16:11:37",
       "album": {
-        "name": "See You In Life",
-        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
+        "name": "How To Drive",
+        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
         }
       ],
-      "duration_ms": 241750,
-      "name": "See You In Life",
-      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
+      "duration_ms": 219824,
+      "name": "How To Drive",
+      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
     },
     {
       "added_at": "2023-03-28 16:11:37",
@@ -643,6 +643,42 @@
     {
       "added_at": "2023-03-28 16:11:37",
       "album": {
+        "name": "A Night At The Symphony",
+        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Let You Break My Heart Again - Live at The Symphony",
+      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
+    },
+    {
+      "added_at": "2023-03-28 16:11:37",
+      "album": {
+        "name": "\u8857\u306e\u7d42\u308f\u308a",
+        "url": "https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT"
+      },
+      "artists": [
+        {
+          "name": "Nag Ar Juna",
+          "url": "https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu"
+        }
+      ],
+      "duration_ms": 262783,
+      "name": "\u8857\u306e\u7d42\u308f\u308a",
+      "url": "https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS"
+    },
+    {
+      "added_at": "2023-03-28 16:11:37",
+      "album": {
         "name": "Can We Do This?",
         "url": "https://open.spotify.com/album/37GaMBFRIKZtKxmcdjcb6O"
       },
@@ -675,42 +711,6 @@
       "duration_ms": 177770,
       "name": "Can We Do This?",
       "url": "https://open.spotify.com/track/5Tanr4u1BgG8I1Qth9o66M"
-    },
-    {
-      "added_at": "2023-03-28 16:11:37",
-      "album": {
-        "name": "\u8857\u306e\u7d42\u308f\u308a",
-        "url": "https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT"
-      },
-      "artists": [
-        {
-          "name": "Nag Ar Juna",
-          "url": "https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu"
-        }
-      ],
-      "duration_ms": 262783,
-      "name": "\u8857\u306e\u7d42\u308f\u308a",
-      "url": "https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS"
-    },
-    {
-      "added_at": "2023-03-28 16:11:37",
-      "album": {
-        "name": "A Night At The Symphony",
-        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Iceland Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Let You Break My Heart Again - Live at The Symphony",
-      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
     },
     {
       "added_at": "2023-03-28 16:11:37",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-03-28 16:11:37",
       "album": {
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 173631,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
+    },
+    {
+      "added_at": "2023-03-28 16:11:37",
+      "album": {
         "name": "Ghost Notes",
         "url": "https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8"
       },
@@ -831,6 +847,22 @@
     {
       "added_at": "2023-03-28 16:11:37",
       "album": {
+        "name": "\u30ea\u30c8\u30eb\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf"
+      },
+      "artists": [
+        {
+          "name": "Tavito Nanao",
+          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+        }
+      ],
+      "duration_ms": 379066,
+      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl"
+    },
+    {
+      "added_at": "2023-03-28 16:11:37",
+      "album": {
         "name": "The Little Prince",
         "url": "https://open.spotify.com/album/0kRywtnCwHW31d54CmrzSU"
       },
@@ -851,38 +883,6 @@
       "duration_ms": 179573,
       "name": "The Little Prince (feat. Kevin Chung & suru)",
       "url": "https://open.spotify.com/track/5uCnSxDkiDLnnO7kmHhl27"
-    },
-    {
-      "added_at": "2023-03-28 16:11:37",
-      "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 173631,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
-    },
-    {
-      "added_at": "2023-03-28 16:11:37",
-      "album": {
-        "name": "\u30ea\u30c8\u30eb\u30e1\u30ed\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf"
-      },
-      "artists": [
-        {
-          "name": "Tavito Nanao",
-          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
-        }
-      ],
-      "duration_ms": 379066,
-      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl"
     },
     {
       "added_at": "2023-03-28 16:11:37",

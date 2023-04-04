@@ -1,12 +1,12 @@
 {
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Shay Lia",
-  "num_followers": 71045,
+  "num_followers": 71631,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNzMwNCwwMDAwMDAwMDM5Yjg4ODUyMjEzMzJhN2MwY2Y4ZWI2NWZhNDA4MzMy",
+  "snapshot_id": "MTY4MDQ5MDEyNCwwMDAwMDAwMDQ2YzhmZDkzNDRjMDYzMjgwYTZmMzVmODc5ZDA4M2Mw",
   "tracks": [
     {
       "added_at": "2023-03-17 15:55:23",
@@ -55,6 +55,38 @@
       "duration_ms": 170102,
       "name": "Call on Me",
       "url": "https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK"
+    },
+    {
+      "added_at": "2023-04-03 02:48:44",
+      "album": {
+        "name": "Mary, Jane and Me",
+        "url": "https://open.spotify.com/album/6yK1aVldLw36EkHy4PyZLZ"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "duration_ms": 174175,
+      "name": "Mary, Jane and Me",
+      "url": "https://open.spotify.com/track/0JTFQqxiTjIe21URzd61RK"
+    },
+    {
+      "added_at": "2023-04-03 02:48:44",
+      "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -267,22 +299,6 @@
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "My Crystal Nails",
-        "url": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 108695,
-      "name": "My Crystal Nails",
-      "url": "https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -523,22 +539,6 @@
       "duration_ms": 161929,
       "name": "Drinks on MI",
       "url": "https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Handstand",
-      "url": "https://open.spotify.com/track/6fcZVY3WjwKxVKlKFu84rF"
     },
     {
       "added_at": "2023-03-17 15:55:23",

@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-154 songs - 13 hr 34 min
+155 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Touch in the Night \- Radio Version](https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ) | [Silent Circle](https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie) | [No.1 \(Jubiläums Edition\)](https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY) | 3:37 | 2022-02-11 | 2022-03-22 |
 | [True Love \- Sexual Version](https://open.spotify.com/track/1lee8GIIzxgugsCrkyMsYt) | [N.O.I.A.](https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa) | [Confuzed Disco Cd 1](https://open.spotify.com/album/1dJsPTjiJtFUhVvpE4tnvw) | 5:40 | 2022-02-11 | 2022-07-29 |
 | [Turbo Diesel](https://open.spotify.com/track/3JUW3DtozkLgWkf5F49KIP) | [Albert One](https://open.spotify.com/artist/5b0o4XqUBsGxcJyHLUZEHB) | [Turbo Diesel](https://open.spotify.com/album/2eQblxdwiOIhJBosMwyNRD) | 5:26 | 2022-02-11 | 2022-03-22 |
+| [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6fCdtGCowSifh43OPqO9t3) | 3:02 | 2023-04-03 |  |
 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2022-02-11 |  |
 | [Two of Hearts](https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1) | [Stacey Q](https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya) | [Better Than Heaven](https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa) | 3:59 | 2022-07-01 |  |
 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 | 2022-02-11 | 2023-02-05 |
@@ -156,7 +157,7 @@
 | [Volevi Una Hit \- Extended Version](https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V) | [Cristalli Liquidi](https://open.spotify.com/artist/2dJDv7A9P2jFivSij4v91D) | [Volevi Una Hit](https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg) | 5:28 | 2022-02-11 |  |
 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 | 2022-02-11 |  |
 | [Walking On Music \- Edit Version](https://open.spotify.com/track/394DVN16mMLKhGmCQNGPoT) | [Peter Jacques Band](https://open.spotify.com/artist/3obOTYzd1x51MamVaLYVmm) | [Fire Night Dance \(Original Album and Rare Tracks\)](https://open.spotify.com/album/24kjiIUBOUE3UX6Llc1WKS) | 3:46 | 2022-02-11 | 2022-05-14 |
-| [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 | 2022-10-07 |  |
+| [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 | 2022-10-07 | 2023-04-04 |
 | [Wind of Change](https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1) | [Fred Ventura](https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC) | [Disco Modernism \(1983 \- 2008\)](https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu) | 6:11 | 2022-02-11 |  |
 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 | 2022-02-11 |  |
 | [Ça va? Je T'aime! \(feat\. EMMANUELLE\) \- Club Domani Remix](https://open.spotify.com/track/7nQcp3MktbBxhHLiM1skdY) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/04MDrNhNNtY4Rj506ZTHAo) | 3:45 | 2022-06-17 | 2022-07-29 |

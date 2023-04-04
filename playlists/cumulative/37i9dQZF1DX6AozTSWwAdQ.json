@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 145001,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/140Ldf8BYMkNMc8FgPSDCZ"
@@ -1690,7 +1690,7 @@
           "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "date_added": "2023-03-28",
+      "date_added": "2023-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 239011,
@@ -1784,7 +1784,7 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "date_added": "2023-03-28",
+      "date_added": "2023-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215601,
@@ -2547,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "Lost The Breakup",
+        "url": "https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "Lost The Breakup",
+      "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
+    },
+    {
+      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 186809,
       "name": "MAMMAMIA",
       "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
@@ -3074,6 +3092,24 @@
       "duration_ms": 207466,
       "name": "Over Her Over Here",
       "url": "https://open.spotify.com/track/1OdqwStwNBN4xWEGQjpceQ"
+    },
+    {
+      "album": {
+        "name": "PainHub",
+        "url": "https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136545,
+      "name": "PainHub",
+      "url": "https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3"
     },
     {
       "album": {
@@ -3779,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Spellbinding",
+        "url": "https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246837,
+      "name": "Spellbinding",
+      "url": "https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r"
+    },
+    {
+      "album": {
         "name": "Starting Line",
         "url": "https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD"
       },
@@ -3826,7 +3880,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 185310,
       "name": "Still Alive - From the Original Motion Picture Scream VI",
       "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"

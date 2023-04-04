@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-360 songs - 15 hr 39 min
+365 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2021-12-07 |  |
 | [Inner Peace](https://open.spotify.com/track/0pPoqOUNEIYkxJupkj25vW) | [Jalabert](https://open.spotify.com/artist/3QhEmbt5VdCTPAafeOs8Pp) | [Inner Peace](https://open.spotify.com/album/4tQWjJfBGxtsZBqxdvt58M) | 3:10 | 2021-12-07 | 2023-01-27 |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-12-07 | 2022-03-17 |
+| [Iris](https://open.spotify.com/track/3hWbgzfP4jE9rd6Tathuig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Iris](https://open.spotify.com/album/7jrGdtwYraqkb7Psf3h4Jo) | 4:19 | 2023-04-03 |  |
 | [irreplaceable \- solo piano](https://open.spotify.com/track/6vYYdK6VdU1c3X5WinwjPZ) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [irreplaceable \(solo piano\)](https://open.spotify.com/album/5kndQiB3SZc5NuT32Ampg4) | 4:27 | 2022-04-14 |  |
 | [Jacht](https://open.spotify.com/track/3Z6yqIObjhcaR4rQsHTmkT) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Home](https://open.spotify.com/album/4zvwTClSHKkNciCl9whanH) | 2:31 | 2022-05-27 |  |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-12-07 |  |
@@ -169,6 +170,7 @@
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 | 2021-12-07 | 2022-05-21 |
 | [Leaf To Leaf](https://open.spotify.com/track/4RDQIAeLFsElt58FvN4m6B) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Leaf To Leaf](https://open.spotify.com/album/0qUdp5c99oFrf8WZ47HUYz) | 2:26 | 2021-12-07 |  |
 | [Lenore](https://open.spotify.com/track/2DXTpqaCHn4PmcyLyWTSXY) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Lenore](https://open.spotify.com/album/2MWwckYbwVNNIjhnF5GTGw) | 2:38 | 2023-02-14 |  |
+| [Les mots](https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Les mots](https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh) | 1:57 | 2023-04-03 |  |
 | [Les yeux](https://open.spotify.com/track/3Hse4yS1QfDHzq7lVEwarD) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [Les yeux](https://open.spotify.com/album/7nb8BHc3PIAZxK6hRlzR3i) | 2:17 | 2023-02-14 |  |
 | [Letter To A Friend](https://open.spotify.com/track/1MoOc8rH7o4TPY5bYKRA7J) | [Robert Gromotka](https://open.spotify.com/artist/3O0m1fz3mncIqJ2JmHIbH6), [Chiharu Bley Violoncello](https://open.spotify.com/artist/0xYJZq8dcOaFvjIGnMvFHT) | [Letter to a Friend](https://open.spotify.com/album/1a7VHDhOVM54tcTsrpsqNM) | 3:04 | 2023-01-09 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-07 | 2022-04-15 |
@@ -237,11 +239,12 @@
 | [Otherwise](https://open.spotify.com/track/3thkCuWvpE3yU7PtZiPGXs) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Otherwise](https://open.spotify.com/album/3G6irmF2ZuYVEhY9EgfPaO) | 2:04 | 2021-12-07 | 2022-09-21 |
 | [Ouroboros](https://open.spotify.com/track/0Y7oJGAHEvArgcPao3N8KB) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Poussières](https://open.spotify.com/album/7K4rnl9fViO7JlJht9GkLk) | 2:30 | 2022-10-14 | 2022-11-15 |
 | [Ouroboros](https://open.spotify.com/track/2xtRlDiWDZw7B6JsdIdaER) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Ouroboros](https://open.spotify.com/album/6P3XbmpjAD9ifrBPTUp6uV) | 2:30 | 2022-08-09 | 2022-11-09 |
-| [Ouroboros](https://open.spotify.com/track/4qNuc1K8MD4s0GLSHAu03s) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Ouroboros](https://open.spotify.com/album/5J3UvkyE0vGtt6BvqOU242) | 2:30 | 2022-10-14 |  |
+| [Ouroboros](https://open.spotify.com/track/4qNuc1K8MD4s0GLSHAu03s) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Ouroboros](https://open.spotify.com/album/5J3UvkyE0vGtt6BvqOU242) | 2:30 | 2022-10-14 | 2023-04-04 |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 |  |
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-12-07 |  |
 | [Paloma](https://open.spotify.com/track/0Ic0bvDJY7b0qLKvQoJ3kn) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:12 | 2022-12-22 |  |
 | [Partenza](https://open.spotify.com/track/2QnEeS0SxgJR9RrMGB2dnm) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Partenza](https://open.spotify.com/album/1acWCWktmQRrpvqNdnrib1) | 1:52 | 2022-07-19 |  |
+| [Patricia](https://open.spotify.com/track/1lDjAQOvZqzZhGND13qcev) | [Guillaume Poncelet](https://open.spotify.com/artist/1tchnux34dr1K8VevCDxPn) | [Patricia](https://open.spotify.com/album/5KFhOJ8UUxHrF5eVtGZaLN) | 2:56 | 2023-04-03 |  |
 | [Patterns](https://open.spotify.com/track/6ssrsr0MumEjM2CeYioYcU) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [Patterns](https://open.spotify.com/album/6Bmr6r1RUZrMJKbZuRE8Gz) | 2:05 | 2022-05-06 |  |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-01 |  |
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 |  |
@@ -262,6 +265,7 @@
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2021-12-07 |  |
 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 | 2021-12-07 |  |
 | [Rannoch Moor](https://open.spotify.com/track/5M9WoeUS6hg8b1YRWMFx0M) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Rannoch Moor](https://open.spotify.com/album/1kXMEkViaETUcA6KQNXuv4) | 1:56 | 2021-12-07 | 2023-01-27 |
+| [Raven](https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Raven](https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT) | 2:54 | 2023-04-03 |  |
 | [Ravi](https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr) | [Esmiralda Rose](https://open.spotify.com/artist/6FkagsRLc16z6rwYW6Tteh) | [Teesta](https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T) | 2:24 | 2021-12-07 | 2023-01-27 |
 | [reflect](https://open.spotify.com/track/5FRKQvwwsBVwHKfG5QuL4h) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [reflect](https://open.spotify.com/album/2HPnSOnsjv5OMhhKZD83eD) | 2:26 | 2021-12-07 |  |
 | [Reflection of the Sun](https://open.spotify.com/track/0n4u4Io2kCV3DzjB0jhsnj) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw), [Anna Dager](https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [Reflection of the Sun](https://open.spotify.com/album/121MTKnvLvqbEY72mRWzYv) | 3:07 | 2023-01-26 | 2023-03-07 |
@@ -354,6 +358,7 @@
 | [Waltz for Lizzy](https://open.spotify.com/track/70xS3AcW7idZcUrvFEzMln) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Waltz for Lizzy](https://open.spotify.com/album/6G7moqFyfKhBbnb5lxvnjF) | 1:49 | 2023-01-26 |  |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2021-12-07 |  |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-06-08 |
+| [When It Rains](https://open.spotify.com/track/6nXvoksCAZqI8nEBTSvpfx) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [When It Rains](https://open.spotify.com/album/4uWWYNXiMcwiHIhUakiZT8) | 2:19 | 2023-04-03 |  |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 |  |
 | [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2021-12-07 | 2022-03-18 |
 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-07-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 345454,
+  "num_followers": 345584,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDZhN2FlMDZiZGEzYzgyMDA3MGRhNjAwMjVhMDFjNWEx",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGNlZTdiOTc1MDE2ZTg4ODdmZGMxNTExOTAxYWEzOWI4",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Gentle On My Mind (Remastered)",
-        "url": "https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Gentle On My Mind - Remastered 2001",
-      "url": "https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Mama Tried/ Pride In What I Am",
         "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 143693,
       "name": "Act Naturally",
       "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Gentle On My Mind (Remastered)",
+        "url": "https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Gentle On My Mind - Remastered 2001",
+      "url": "https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Best Of Jimmy Dean",
-        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dean",
-          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
-        }
-      ],
-      "duration_ms": 182560,
-      "name": "Big Bad John",
-      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 140440,
       "name": "Daddy Sang Bass",
       "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Best Of Jimmy Dean",
+        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dean",
+          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
+        }
+      ],
+      "duration_ms": 182560,
+      "name": "Big Bad John",
+      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Waiting Around to Die",
-      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The New Favorites Of George Jones",
         "url": "https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR"
       },
@@ -431,22 +415,6 @@
       "duration_ms": 154800,
       "name": "She Thinks I Still Care",
       "url": "https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "The Patsy Cline Story",
-        "url": "https://open.spotify.com/album/3iHskF7qovrsQGE282MDHe"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "Leavin' On Your Mind - Single Version",
-      "url": "https://open.spotify.com/track/1D2mV1f9QkklP6vy0sdBI9"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -515,6 +483,38 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Waiting Around to Die",
+      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Patsy Cline Story",
+        "url": "https://open.spotify.com/album/3iHskF7qovrsQGE282MDHe"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "Leavin' On Your Mind - Single Version",
+      "url": "https://open.spotify.com/track/1D2mV1f9QkklP6vy0sdBI9"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Okie From Muskogee",
         "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 168821,
       "name": "Swinging Doors - Re-Recorded",
       "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Connie Smith",
         "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Walk Through This World With Me",
         "url": "https://open.spotify.com/album/0fwh1xIpc0EuqWTIZGpci8"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Walk On By",
-        "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
-      },
-      "artists": [
-        {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Phantom 309",
         "url": "https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 209160,
       "name": "Phantom 309",
       "url": "https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Walk On By",
+        "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
+      },
+      "artists": [
+        {
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Almost Persuaded",
-        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
-      },
-      "artists": [
-        {
-          "name": "David Houston",
-          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Almost Persuaded",
-      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 197293,
       "name": "Homecoming - Single Version",
       "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Almost Persuaded",
+        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+      },
+      "artists": [
+        {
+          "name": "David Houston",
+          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Almost Persuaded",
+      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "500 Miles Away from Home",
-      "url": "https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Don't Let Me Cross Over",
         "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 177106,
       "name": "Don't Let Me Cross Over",
       "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
+      },
+      "artists": [
+        {
+          "name": "Floyd Cramer",
+          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "Last Date - Instrumental",
+      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1172,17 +1172,17 @@
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
+        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
       },
       "artists": [
         {
-          "name": "Floyd Cramer",
-          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
         }
       ],
-      "duration_ms": 146760,
-      "name": "Last Date - Instrumental",
-      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
+      "duration_ms": 162506,
+      "name": "500 Miles Away from Home",
+      "url": "https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Columbia Country Classics Volume 3: Americana",
-        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
-      },
-      "artists": [
-        {
-          "name": "Claude King",
-          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "Wolverton Mountain",
-      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 148000,
       "name": "Above And Beyond",
       "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Columbia Country Classics Volume 3: Americana",
+        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
+      },
+      "artists": [
+        {
+          "name": "Claude King",
+          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Wolverton Mountain",
+      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
     },
     {
       "added_at": "2022-07-29 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 211161,
+  "num_followers": 211195,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGFhMDNiMGYzYjMyZmUzNzJmMmMzY2Y3N2JlOGFhYmU4",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGNiODcwMTYwYWE4MmFkYjYzNjQwOGNmZTc4ODFhNDgx",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Mundo Guanaco",
         "url": "https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 234666,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -287,6 +287,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "De La Tierra",
         "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 300066,
       "name": "Como Rel\u00e1mpago en la Oscuridad",
       "url": "https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2020-10-24 03:38:51",

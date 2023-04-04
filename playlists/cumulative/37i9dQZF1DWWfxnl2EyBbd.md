@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-474 songs - 1 day 12 hr 56 min
+475 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-03-31 |  |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-01 |  |
 | [Evergreen](https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA) | [Justin Salisbury](https://open.spotify.com/artist/0wCRGycyYyEg4vWwoi11SS), [Max Ridley](https://open.spotify.com/artist/0d6y1Xs0QqCMG2hg2lYnkC), [Dan Nadeau](https://open.spotify.com/artist/4S9by6hwhiUvkmHNTG5FXY) | [Evergreen](https://open.spotify.com/album/74bdbf4mh1BjApMO0quFNT) | 6:53 | 2022-04-14 |  |
+| [Everybody's Got to Learn Sometime](https://open.spotify.com/track/5rdarWlLPfZvPafnUVj0AK) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Everybody's Got to Learn Sometime](https://open.spotify.com/album/15FCQHfWCgNgU6qXLvamP9) | 3:48 | 2023-03-23 |  |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-11-12 |  |
 | [Everytime I Think Of You](https://open.spotify.com/track/72zSB5CoyY1zfNvQSkGQN8) | [The Alan Broadbent Trio](https://open.spotify.com/artist/3Al4iiw6OMtADaBw7NDWIG) | [Personal Standards](https://open.spotify.com/album/49VvWI9jmo3jhk0hGWT9qy) | 6:06 | 2022-02-10 |  |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-17 |  |
@@ -159,7 +160,7 @@
 | [I Guess I'll Have To Change My Plans](https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [I Guess I'll Have To Change My Plans](https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx) | 3:51 | 2022-11-12 |  |
 | [I Love You, Yes I Do](https://open.spotify.com/track/4FTsxmd8yBGIIPlF0eS6pP) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 4:10 | 2022-02-10 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-11-12 |  |
-| [I Remember Clifford \- Live At Philharmonie, Munich / 1986](https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Still Live](https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P) | 4:01 | 2022-02-10 |  |
+| [I Remember Clifford \- Live At Philharmonie, Munich / 1986](https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG), [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Still Live](https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P) | 4:01 | 2022-02-10 |  |
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-11-24 |  |
 | [I Surrender Dear](https://open.spotify.com/track/5Ruwfqx4jMonaaF1z6RA3n) | [Billy Lester](https://open.spotify.com/artist/66egz5VrR7JGpVmlzZrBBt) | [From Scratch](https://open.spotify.com/album/4CfhVVsp9OlDdqartoyZP3) | 6:01 | 2022-02-18 |  |
 | [I Thought About You](https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 4:01 | 2022-02-10 |  |
@@ -339,7 +340,7 @@
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-19 |  |
 | [Roundabout](https://open.spotify.com/track/2yjH5G7UFZLNEXZBUayln2) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg), [Kenny Washington](https://open.spotify.com/artist/4ern8uIUTeqcI4AE8Q5ZnO), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp) | [All Through The Night](https://open.spotify.com/album/1ZAmPpqvbbsMa1lXu4YjWR) | 5:21 | 2022-02-10 |  |
 | [Rubicon](https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 6:10 | 2022-04-22 |  |
-| [Ruby, My Dear](https://open.spotify.com/track/53ROPqJRDrefqoLEGZ8khW) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 6:02 | 2022-02-10 |  |
+| [Ruby, My Dear](https://open.spotify.com/track/53ROPqJRDrefqoLEGZ8khW) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 6:02 | 2022-02-10 | 2023-04-04 |
 | [Ruins II](https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W) | [Ayumi Tanaka Trio](https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1) | [Ruins II](https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl) | 2:42 | 2022-02-25 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-12 |  |
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2023-01-12 |  |

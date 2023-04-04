@@ -186,7 +186,7 @@
     {
       "album": {
         "name": "Tales from the Backseat",
-        "url": "https://open.spotify.com/album/0rqIHttWQeXbxJvhAx8ktX"
+        "url": "https://open.spotify.com/album/2ppqtyOwx9WJKXcMZObqv5"
       },
       "artists": [
         {
@@ -197,6 +197,24 @@
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211700,
+      "name": "Girlfriends",
+      "url": "https://open.spotify.com/track/0n2uzZUl6xBnS43QdT9LEr"
+    },
+    {
+      "album": {
+        "name": "Tales from the Backseat",
+        "url": "https://open.spotify.com/album/0rqIHttWQeXbxJvhAx8ktX"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
       "duration_ms": 211712,
       "name": "Girlfriends",
       "url": "https://open.spotify.com/track/1Zb9jqIFYkMg4RoQFK1rqu"

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 43894,
+  "num_followers": 43933,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDUyYWYxZTM0ZWY3ZTM1MjkyYWU3YjEwMzk2MmU2YjU5",
+  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMGY4Y2VkZTg0Mjk4YzczYWQ2MDcyYTUxN2UwYmViN2Nk",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Best Friend (with SEULGI)",
+      "url": "https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Best Friend (with SEULGI)",
-      "url": "https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -183,22 +183,6 @@
       "duration_ms": 239837,
       "name": "Think About' Chu",
       "url": "https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 222284,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -271,6 +255,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 222284,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Snowy Stars",
-        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Snowy Stars",
-      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "I made",
         "url": "https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 220924,
       "name": "Give Me Your",
       "url": "https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Snowy Stars",
+        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Snowy Stars",
+      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "INNER CHILD",
+        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Sipping My life (Bonus Track)",
+      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
         "url": "https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 296426,
       "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
       "url": "https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "INNER CHILD",
-        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Sipping My life (Bonus Track)",
-      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
-      "added_at": "2023-04-03 00:56:56",
+      "added_at": "2023-04-04 00:57:14",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
-      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Tailor",
         "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 267051,
       "name": "We are all Muse (Feat. Yerin Baek)",
       "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
+      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -747,6 +747,26 @@
       "duration_ms": 232226,
       "name": "Origin of Love",
       "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Tailor",
+        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
+      },
+      "artists": [
+        {
+          "name": "The BLANK Shop",
+          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 300317,
+      "name": "Love song (Feat. WONPIL(DAY6))",
+      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -855,26 +875,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Tailor",
-        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
-      },
-      "artists": [
-        {
-          "name": "The BLANK Shop",
-          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
-        },
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 300317,
-      "name": "Love song (Feat. WONPIL(DAY6))",
-      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "BETTER - The 10th Album",
         "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
       },
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "\ub108\ub294\uc5b4\ub54c",
+        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
+      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Candy Pianist",
         "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 259640,
       "name": "Awake (Feat. Sam Kim)",
       "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "\ub108\ub294\uc5b4\ub54c",
-        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
-      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
     },
     {
+      "added_at": "2023-04-04 00:57:14",
+      "album": {
+        "name": "Candy For You",
+        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "Candy For You",
+      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
+    },
+    {
       "added_at": "2023-02-24 10:35:29",
       "album": {
         "name": "SEOULVIBES, GROCERY",
@@ -1099,22 +1115,6 @@
       "duration_ms": 171204,
       "name": "Let's Go (feat. DA:ON, Gunjae & H!)",
       "url": "https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE"
-    },
-    {
-      "added_at": "2023-04-03 00:56:56",
-      "album": {
-        "name": "Candy For You",
-        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
-      },
-      "artists": [
-        {
-          "name": "blah",
-          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Candy For You",
-      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "cozy christmas",
+        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
+        }
+      ],
+      "duration_ms": 123666,
+      "name": "Today and other days (Feat. Eily)",
+      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Forever yours",
         "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "cozy christmas",
-        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
-      },
-      "artists": [
-        {
-          "name": "lofi",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "Eily",
-          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
-        }
-      ],
-      "duration_ms": 123666,
-      "name": "Today and other days (Feat. Eily)",
-      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
     },
     {
       "added_at": "2023-02-24 10:35:29",

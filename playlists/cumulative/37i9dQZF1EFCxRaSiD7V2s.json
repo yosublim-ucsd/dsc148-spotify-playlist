@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Let's... / Here's Looking at You Kid",
+        "url": "https://open.spotify.com/album/3MDMAKt7Gci7YLKVJF9rGy"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268650,
+      "name": "Home Away from Home",
+      "url": "https://open.spotify.com/track/5XqIfjcbknlhO2PFzV4DcA"
+    },
+    {
+      "album": {
         "name": "Let's.../Here's Looking at You Kid",
         "url": "https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA"
       },
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 268676,
       "name": "Home Away from Home",
       "url": "https://open.spotify.com/track/6wm32QUgErztbOXTQFP0EO"
@@ -2637,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "Let's... / Here's Looking at You Kid",
+        "url": "https://open.spotify.com/album/3MDMAKt7Gci7YLKVJF9rGy"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "Jenny and Jill",
+      "url": "https://open.spotify.com/track/2ggARYhrxOuoVCzlbgFJHm"
+    },
+    {
+      "album": {
         "name": "Let's.../Here's Looking at You Kid",
         "url": "https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA"
       },
@@ -2648,7 +2684,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 285645,
       "name": "Jenny and Jill",
       "url": "https://open.spotify.com/track/5wFvkfoQY7JPcbfFKYbkWB"
@@ -2861,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Let's... / Here's Looking at You Kid",
+        "url": "https://open.spotify.com/album/3MDMAKt7Gci7YLKVJF9rGy"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Let's...",
+      "url": "https://open.spotify.com/track/5TSgOYkwlIRXUUY4SOL4uq"
+    },
+    {
+      "album": {
         "name": "Let's.../Here's Looking at You Kid",
         "url": "https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA"
       },
@@ -2872,7 +2926,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 229012,
       "name": "Let's...",
       "url": "https://open.spotify.com/track/6EaDOr30nUHFk4sKpyrEyi"

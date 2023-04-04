@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Pranjal Dahiya, DG IMMORTALS, Raga, Harjas Harjaayi, Virtual_AF.",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Pranjal Dahiya & KHATRI",
   "name": "Hip-Hop Haryana",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 158687,
       "name": "3 Albaadi",
       "url": "https://open.spotify.com/track/6xR3gC3ncGU63cKzRE0Oss"
@@ -187,6 +187,28 @@
     },
     {
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/5SzLToKl72b5GspUW086PG"
+      },
+      "artists": [
+        {
+          "name": "Vikash Kashyap",
+          "url": "https://open.spotify.com/artist/0aRUcCzk6K2cy4SsvsypQf"
+        },
+        {
+          "name": "Ranjan Assaniya",
+          "url": "https://open.spotify.com/artist/5JKxDoTKlzy3lF2KiKQUq4"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267953,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/76WnNlXWHy8kYtS6qJcW1B"
+    },
+    {
+      "album": {
         "name": "Desi Haan Ji",
         "url": "https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo"
       },
@@ -298,7 +320,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 165601,
       "name": "Goli",
       "url": "https://open.spotify.com/track/5bJVRkqNWRwULSglgjLLL1"
@@ -356,7 +378,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 272245,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1mGTLPsrLmDqElnb7urLNK"
@@ -396,6 +418,24 @@
       "duration_ms": 115442,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/1fZ6ZXqgQOgnhVjgud8haG"
+    },
+    {
+      "album": {
+        "name": "Inform me",
+        "url": "https://open.spotify.com/album/47srYYfK2BMfgAiHh66Ozh"
+      },
+      "artists": [
+        {
+          "name": "Divesh Khatana",
+          "url": "https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210336,
+      "name": "Inform me",
+      "url": "https://open.spotify.com/track/0ek0ApZzBwlLjhMDmxQG3N"
     },
     {
       "album": {
@@ -502,7 +542,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-04",
       "duration_ms": 152093,
       "name": "Kali Gadiyan",
       "url": "https://open.spotify.com/track/4tQCcLqpUjymKyF40Mea7S"
@@ -781,6 +821,28 @@
     },
     {
       "album": {
+        "name": "Rolex",
+        "url": "https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE"
+      },
+      "artists": [
+        {
+          "name": "Amar Kharkiya",
+          "url": "https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg"
+        },
+        {
+          "name": "Jaypee",
+          "url": "https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140429,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL"
+    },
+    {
+      "album": {
         "name": "Ruffian",
         "url": "https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP"
       },
@@ -796,6 +858,32 @@
       "duration_ms": 170736,
       "name": "Ruffian",
       "url": "https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX"
+    },
+    {
+      "album": {
+        "name": "Saat Samunder",
+        "url": "https://open.spotify.com/album/4mdHqn673uePpSOYKA8423"
+      },
+      "artists": [
+        {
+          "name": "Khatri",
+          "url": "https://open.spotify.com/artist/4FQHBinqrB0cMp6SaS06rB"
+        },
+        {
+          "name": "Upasna Gahlot",
+          "url": "https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557"
+        },
+        {
+          "name": "Pranjal Dahiya",
+          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "Saat Samunder",
+      "url": "https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4"
     },
     {
       "album": {

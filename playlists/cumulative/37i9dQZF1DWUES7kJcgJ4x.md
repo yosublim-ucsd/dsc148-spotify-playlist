@@ -4,7 +4,7 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-78 songs - 3 hr 14 min
+79 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Chica Ye Ye](https://open.spotify.com/track/5hv3nMY3NKyDL7cSsrSYog) | [Concha Velasco](https://open.spotify.com/artist/65wHdzrkQGEUFBFLkte7WO) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 2:23 | 2021-01-18 | 2022-07-29 |
 | [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 | 2021-01-18 |  |
 | [Comme un garçon](https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/65XVPzsge42MC6cOVXqo1q) | 3:16 | 2021-01-18 | 2022-07-29 |
-| [Datemi un martello](https://open.spotify.com/track/3Zw6Chlu7EVxz55eQ6OX4G) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [raRità!](https://open.spotify.com/album/2hBiHrGYrmQIsxwvBOwwFf) | 2:49 | 2021-01-18 |  |
+| [Datemi un martello](https://open.spotify.com/track/1AeiBuY3BSUiF3qm5g5NaN) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Come lei non c'e' nessuno](https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q) | 2:49 | 2021-01-18 |  |
+| [Datemi un martello](https://open.spotify.com/track/3Zw6Chlu7EVxz55eQ6OX4G) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [raRità!](https://open.spotify.com/album/2hBiHrGYrmQIsxwvBOwwFf) | 2:49 | 2021-01-18 | 2023-04-04 |
 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 | 2021-01-18 | 2022-07-29 |
 | [Dime Mi Amor](https://open.spotify.com/track/0OntImjbj7R9nZcWx4CkDv) | [Hilda Aguirre](https://open.spotify.com/artist/3OSm0uwQm0s67bllaGW80E) | [Jingle Jangle](https://open.spotify.com/album/4VO4juUpEGOsIxEmRrkwOC) | 2:02 | 2021-01-18 |  |
 | [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 | 2021-01-18 |  |

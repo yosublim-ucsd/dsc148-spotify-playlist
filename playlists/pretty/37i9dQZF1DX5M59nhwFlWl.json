@@ -1,12 +1,12 @@
 {
   "description": "That unbridled, unholy, loud and dirty 90s rock goodness you know you love",
-  "num_followers": 121918,
+  "num_followers": 122007,
   "original_name": "Cranked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1MzIwNywwMDAwMDAwMDU1YWNmNTE5NmRjNWY0M2JiY2JiZDQ2Yzk1NjNlOWE5",
+  "snapshot_id": "MTY3NDA1MzIwNywwMDAwMDAwMDdkNWU4NDhhZjM5ZGI5YWE1OWMzNjgxZmE2NjE3NjEz",
   "tracks": [
     {
       "added_at": "2022-06-29 18:33:46",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "As Good As Dead",
-        "url": "https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl"
-      },
-      "artists": [
-        {
-          "name": "Local H",
-          "url": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Bound For The Floor",
-      "url": "https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "As Good As Dead",
+        "url": "https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl"
+      },
+      "artists": [
+        {
+          "name": "Local H",
+          "url": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Bound For The Floor",
+      "url": "https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY"
     },
     {
       "added_at": "2022-06-29 18:33:46",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "So Much For The Afterglow",
-        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Father Of Mine",
-      "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Electriclarryland",
         "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 297266,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "So Much For The Afterglow",
+        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Father Of Mine",
+      "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
     },
     {
       "added_at": "2022-06-29 18:33:46",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-01-18 14:46:47",
       "album": {
+        "name": "Tiny Music...Songs from the Vatican Gift Shop",
+        "url": "https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 175920,
+      "name": "Trippin' on a Hole in a Paper Heart",
+      "url": "https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH"
+    },
+    {
+      "added_at": "2023-01-18 14:46:47",
+      "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 220533,
       "name": "Backwater",
       "url": "https://open.spotify.com/track/3KZVWVH4epY2JGaqRs8bqg"
-    },
-    {
-      "added_at": "2023-01-18 14:46:47",
-      "album": {
-        "name": "Tiny Music...Songs from the Vatican Gift Shop",
-        "url": "https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 175920,
-      "name": "Trippin' on a Hole in a Paper Heart",
-      "url": "https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH"
     },
     {
       "added_at": "2023-01-18 14:46:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Ancient Walls Of Flowers",
-      "url": "https://open.spotify.com/track/6XjBFtW4QcuGG26RysHzuS"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Ancient Walls Of Flowers",
+      "url": "https://open.spotify.com/track/6XjBFtW4QcuGG26RysHzuS"
     },
     {
       "added_at": "2022-06-29 18:33:46",

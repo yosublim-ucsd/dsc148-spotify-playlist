@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Part Of Us",
+        "url": "https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI"
+      },
+      "artists": [
+        {
+          "name": "Eirin Nordness",
+          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117610,
+      "name": "A Part Of Us",
+      "url": "https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI"
+    },
+    {
+      "album": {
         "name": "A Quiet Triumph",
         "url": "https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj"
       },

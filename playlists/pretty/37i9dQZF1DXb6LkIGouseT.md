@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,048 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,109 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 6 | [Council of the Flocks](https://open.spotify.com/track/0H0lhPBWOTrfPmR9o0ZEV6) | [Alice Gomez](https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ), [Eric Casillas](https://open.spotify.com/artist/4ZErN3ia0trBrMP88iZgaE), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK), [Mesa Music Consort](https://open.spotify.com/artist/2BQnWxr7muleTey50XBtAt) | [Wind Riders](https://open.spotify.com/album/2oyZtr5NOa8bkTBHRUU3r5) | 5:33 |
 | 7 | [Baby Steps](https://open.spotify.com/track/2AqfTYUmy87yGGQV18FnWM) | [Mad Dog Friedman](https://open.spotify.com/artist/1mSYpJ1EIm18MC57GLGkg7) | [Touched](https://open.spotify.com/album/5BRU0kmqRF9aHTWkc7GcUO) | 2:24 |
 | 8 | [Nocturnal Spirits](https://open.spotify.com/track/5VVE2ZfhYaqJidMm0JJRyI) | [Joseph FireCrow](https://open.spotify.com/artist/6dsM8kgVKhrheuqmDaviZg) | [Night Walk](https://open.spotify.com/album/2YaOLFTueNlOlR5DdhP9Ne) | 4:18 |
-| 9 | [Oneness](https://open.spotify.com/track/4q1KFH2a5abfgXUgPSVCHB) | [Ann Licater](https://open.spotify.com/artist/5utgQcBcWNJKpODrerbyEL) | [Invitation from Within](https://open.spotify.com/album/2zqDJRJWYb7010Hwj7ePhh) | 2:29 |
+| 9 | [Oneness](https://open.spotify.com/track/6v5qLu36w1uBfzBW7euZyD) | [Ann Licater](https://open.spotify.com/artist/5utgQcBcWNJKpODrerbyEL) | [Invitation from Within](https://open.spotify.com/album/3p4CFfTuOMqoNyE8y6XGDJ) | 2:29 |
 | 10 | [She Is Laughing](https://open.spotify.com/track/0c6Q2auzWIgHz4dMRy9cKw) | [Ayaapii](https://open.spotify.com/artist/20ppPj6brjfv4QoDgGhrPr) | [Spirit Songs](https://open.spotify.com/album/7gVlarfcA10a58dLyPMzVP) | 4:33 |
 | 11 | [Ancestral Home](https://open.spotify.com/track/4tje4fnMPax750yTZ56wWp) | [R\. Carlos Nakai](https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1) | [Canyon Trilogy](https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp) | 4:52 |
 | 12 | [Singing bowl, native flute and strings \- Live](https://open.spotify.com/track/2G57fdvkSDfkIh33uXLJ9R) | [Veronika Gold](https://open.spotify.com/artist/1CefU3jR0INQq5Vuyk5S8J) | [From Ethernity](https://open.spotify.com/album/7cMvVrcG4OQX2GKAyO9HtX) | 10:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 |
 
-Snapshot ID: `MTY3Mjc2MzQ3NCwwMDAwMDAwMDdmOTJkZDgxZjgxNmFlZWYwNDg2YTMwZmFhZTg3ZWEz`
+Snapshot ID: `MTY3Mjc2MzQ3NCwwMDAwMDAwMDlkYmI5YjU4MGY5ZGU5YzA5ZDljNGUzOWEzNmNkZjk4`

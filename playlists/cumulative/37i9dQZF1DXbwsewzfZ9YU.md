@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Drug Church
 
-82 songs - 3 hr 34 min
+84 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,9 +50,11 @@
 | [Like A Sickness](https://open.spotify.com/track/0E3LY4IzJldhjtjXyA2YCZ) | [Carbonite](https://open.spotify.com/artist/5I9pUosfnguHmqabb3okuQ) | [Like A Sickness](https://open.spotify.com/album/7KUUQV2UQ0wMmwCIgbx9di) | 2:45 | 2023-02-24 |  |
 | [Lust For Destruction](https://open.spotify.com/track/5bB9QzD925TajYC4ZoSJ5P) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Good To Feel](https://open.spotify.com/album/3xi1s4oxx0TiyuF6Mulucr) | 1:53 | 2023-02-24 | 2023-03-11 |
 | [Magazine Beach](https://open.spotify.com/track/1T8py1nh6wsKy6jPDNkGMC) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 1:26 | 2023-02-24 |  |
+| [Memories](https://open.spotify.com/track/3kRG115JtsxkjfvUHNvK4d) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Memories \- Never Die](https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn) | 2:34 | 2023-04-03 |  |
 | [Mental Static](https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:55 | 2023-02-24 |  |
 | [Modern Fatigue](https://open.spotify.com/track/2noRrGlgsZyGHK8bFaPEke) | [Long Knife](https://open.spotify.com/artist/3SsyiDM90YglLgxOXaaJCA) | [Curb Stomp Earth](https://open.spotify.com/album/7LziAYYYgbI8Hdn7UrqKoV) | 2:40 | 2023-02-24 |  |
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-10 |  |
+| [Neila Forever](https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 0:49 | 2023-04-03 |  |
 | [Nevermind the Dog](https://open.spotify.com/track/5Pi5gYpC4OhrW7byQgUMo0) | [Ways Away](https://open.spotify.com/artist/03qeBQwnTfKExVLq8dX000) | [Nevermind the Dog](https://open.spotify.com/album/1d48kZmZZHCSMfkS9GlsA9) | 2:44 | 2023-02-24 |  |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2023-02-24 |  |
 | [No Easy Way Out](https://open.spotify.com/track/4Avrrj95QH89EfgqdsViGh) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 2:35 | 2023-02-24 |  |

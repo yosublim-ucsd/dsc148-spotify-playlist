@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 343438,
+  "num_followers": 343652,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMGZkYWYwZDEyYWJlOTBmOTc5ZmJhMTVlZDQ4ZDNkY2Y5",
+  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMGY3NWVkN2E3Yjk5NTYxOTMzMDYxMjFmNzZkM2Y5ZWUx",
   "tracks": [
     {
       "added_at": "2023-03-23 10:18:42",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
-      },
-      "artists": [
-        {
-          "name": "Elisa Avaria",
-          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
-        }
-      ],
-      "duration_ms": 155174,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Ode to Vivian (Rework)",
         "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 96624,
       "name": "Ode to Vivian - Rework",
       "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
+      },
+      "artists": [
+        {
+          "name": "Elisa Avaria",
+          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
+        }
+      ],
+      "duration_ms": 155174,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Shizukana",
-        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
-      },
-      "artists": [
-        {
-          "name": "Isshi Matsuriza",
-          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Shizukana",
-      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Liminal ride",
         "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 156705,
       "name": "Liminal ride",
       "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Shizukana",
+        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
+      },
+      "artists": [
+        {
+          "name": "Isshi Matsuriza",
+          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Shizukana",
+      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Midsommarnatt",
-        "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
-      },
-      "artists": [
-        {
-          "name": "Christian Peterson-Bergling",
-          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Sommarvals",
-      "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Midsommarnatt",
+        "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Sommarvals",
+      "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
-      },
-      "artists": [
-        {
-          "name": "Miriam Raye",
-          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
-        }
-      ],
-      "duration_ms": 191980,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Khione",
         "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 179768,
       "name": "Ruise\u00f1or",
       "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
+      },
+      "artists": [
+        {
+          "name": "Miriam Raye",
+          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
+        }
+      ],
+      "duration_ms": 191980,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "As I Dream",
-        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 184583,
-      "name": "As I Dream",
-      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "As I Dream",
+        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 184583,
+      "name": "As I Dream",
+      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Con Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 146679,
-      "name": "Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Evenings on Instagram, Pt. I",
         "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Relaxing Piano (Neoclassical Sessions)",
-        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+        "name": "Con Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp"
       },
       "artists": [
         {
-          "name": "Kalen Elmsley",
-          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
         }
       ],
-      "duration_ms": 184220,
-      "name": "Spheroidal",
-      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
+      "duration_ms": 146679,
+      "name": "Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -987,6 +971,22 @@
       "duration_ms": 179253,
       "name": "A subtle joy",
       "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+        "name": "The Water Floats",
+        "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
       },
       "artists": [
         {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+          "name": "Howie Paget",
+          "url": "https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he"
         }
       ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+      "duration_ms": 139500,
+      "name": "The Water Floats",
+      "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "The Water Floats",
-        "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
-      },
-      "artists": [
-        {
-          "name": "Howie Paget",
-          "url": "https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "The Water Floats",
-      "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 143000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
-      },
-      "artists": [
-        {
-          "name": "Michiel Borstlap",
-          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Open Sail",
         "url": "https://open.spotify.com/album/56DDWl85qAeO3r0FhsrYtq"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
+      },
+      "artists": [
+        {
+          "name": "Michiel Borstlap",
+          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
         "name": "Marigold",
         "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 132318,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Meditabundus",
-        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
-      },
-      "artists": [
-        {
-          "name": "Kellen Chase",
-          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Meditabundus",
-      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Le jardin de ma grand-m\u00e8re",
-        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
+        "name": "Meditabundus",
+        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
       },
       "artists": [
         {
-          "name": "Oscar Kowalski",
-          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+          "name": "Kellen Chase",
+          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
         }
       ],
-      "duration_ms": 176567,
-      "name": "Le jardin de ma grand-m\u00e8re",
-      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
+      "duration_ms": 150000,
+      "name": "Meditabundus",
+      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Hour of Rest",
-        "url": "https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO"
+        "name": "Le jardin de ma grand-m\u00e8re",
+        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
       },
       "artists": [
         {
-          "name": "William Cas",
-          "url": "https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO"
+          "name": "Oscar Kowalski",
+          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
         }
       ],
-      "duration_ms": 112653,
-      "name": "Hour of Rest",
-      "url": "https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id"
+      "duration_ms": 176567,
+      "name": "Le jardin de ma grand-m\u00e8re",
+      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1503,6 +1487,22 @@
       "duration_ms": 158591,
       "name": "Om \u00e4n bara f\u00f6r en stund",
       "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Hour of Rest",
+        "url": "https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO"
+      },
+      "artists": [
+        {
+          "name": "William Cas",
+          "url": "https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO"
+        }
+      ],
+      "duration_ms": 112653,
+      "name": "Hour of Rest",
+      "url": "https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id"
     },
     {
       "added_at": "2023-03-23 10:18:42",

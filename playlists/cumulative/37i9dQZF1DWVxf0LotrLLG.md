@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Myke Towers
 
-190 songs - 9 hr 51 min
+193 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Caramelo \- Acustico](https://open.spotify.com/track/7J9HiDCYnr6gNsxQp1Lrbo) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:17 | 2023-02-24 |  |
 | [Caribe Caribe](https://open.spotify.com/track/2aWm8X5fECJxGjHXpzwwGm) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 5:38 | 2023-03-03 |  |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2023-01-17 |  |
+| [Ciao](https://open.spotify.com/track/4d4zvfpRW1adBjXpwZ7GUt) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Ciclos](https://open.spotify.com/album/3ZwjSmHcREhM3IBfXOwd4i) | 2:54 | 2023-04-03 |  |
 | [Clavos](https://open.spotify.com/track/1ZyqjQNO25bMMt6DTqsesE) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 3:13 | 2023-03-17 |  |
 | [Como Amigos](https://open.spotify.com/track/2uXS7NcBChNJZTIjHjlgjV) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Mi Monopolio](https://open.spotify.com/album/21HvaqyP2K8nQZdgGicqMh) | 3:50 | 2023-03-03 |  |
 | [Como Amigos](https://open.spotify.com/track/3ymNNjeQsobL39vXi6KmK6) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Como Amigos](https://open.spotify.com/album/2RxpDHtD9R3VYCGdxDiNdU) | 3:50 | 2023-02-24 | 2023-03-04 |
@@ -88,6 +89,7 @@
 | [La Liga](https://open.spotify.com/track/6UQTe9BzsgLaqWXxSV7lEQ) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 4:28 | 2023-03-10 |  |
 | [La Máquina](https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:56 | 2023-01-17 |  |
 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/4u3vvLgg6AVkdhitdzA0RG) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:31 | 2023-01-17 |  |
+| [Laguna](https://open.spotify.com/track/7IKsqIm1i8aklxqn3jgrl1) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Ciclos](https://open.spotify.com/album/3ZwjSmHcREhM3IBfXOwd4i) | 3:42 | 2023-04-03 |  |
 | [Las de Octubre](https://open.spotify.com/track/34SjSaS44EzxtbAxWmR6TC) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:45 | 2023-01-17 |  |
 | [Las estrellas / Si tu me love me](https://open.spotify.com/track/6GlVwkm84Gygt5G6yLsDnv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [@dannocean2](https://open.spotify.com/album/1VTX5vGTNse3upEj6e6I3h) | 5:09 | 2023-01-17 |  |
 | [Las Hazañas de Mi Vida](https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:47 | 2023-01-27 |  |
@@ -152,6 +154,7 @@
 | [Segundos Platos](https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:04 | 2023-01-17 |  |
 | [SENOR OFICIAL](https://open.spotify.com/track/1rrdKyAxsRnsBwUqQ9fD6U) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [La Calle y El Club](https://open.spotify.com/album/56PM6l4J0Zq0UuPvEMTIH2) | 2:20 | 2023-01-20 |  |
 | [serotonina](https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:42 | 2023-03-24 |  |
+| [Sexto sentido](https://open.spotify.com/track/1tVRJIZvcdVsfYX0H8jf56) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Ciclos](https://open.spotify.com/album/3ZwjSmHcREhM3IBfXOwd4i) | 2:52 | 2023-04-03 |  |
 | [SI ES AMOR](https://open.spotify.com/track/6WyoiYwvve3YYtX99DLR5t) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean2](https://open.spotify.com/album/1VTX5vGTNse3upEj6e6I3h) | 3:32 | 2023-01-17 |  |
 | [Si La Ves](https://open.spotify.com/track/5tEw2szqiBIEnCKMOPFnfR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:48 | 2023-01-17 |  |
 | [Si Salimos](https://open.spotify.com/track/7GfQEUSuqYGeY2L0BfVOXM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:21 | 2023-03-17 |  |

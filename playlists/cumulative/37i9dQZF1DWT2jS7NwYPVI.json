@@ -6171,6 +6171,24 @@
     },
     {
       "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs"
+      },
+      "artists": [
+        {
+          "name": "LIES",
+          "url": "https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375050,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao"
+    },
+    {
+      "album": {
         "name": "Echolalia",
         "url": "https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r"
       },
